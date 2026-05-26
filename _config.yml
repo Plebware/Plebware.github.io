@@ -1,0 +1,29 @@
+# Site settings
+title: "Plebware Control Centre"
+author: "Otto Brinkmeier"
+description: "Plebware: accessible, repairable, understandable technology"
+baseurl: ""  # Leave empty for organization site
+url: "https://Plebware.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Collections (optional, for future content)
+collections:
+  posts:
+    output: true
+    permalink: /posts/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - .gitignore
