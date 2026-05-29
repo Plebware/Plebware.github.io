@@ -7,9 +7,8 @@ url: "https://Plebware.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
 # Collections (optional, for future content)
 collections:
