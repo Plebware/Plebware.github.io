@@ -6,7 +6,7 @@ title: "Plebware Control Centre"
 ![PlebMachine Header](assets/images/Developer.png)
 # 🖥️ PLEBWARE CONTROL CENTER
 ---
-##### 🌐 Plebware Links | ⚙️ [🖥️ PlebMachine Project 2026](https://Plebware.github.io/PlebMachine/) | ✍️  [📚 Otto's Archive](https://Plebware.github.io/otto/) | [📚 Main Authoring Website](https://www.othelloverrocchio.co.za/) |
+##### 🌐 Plebware Links | ⚙️ [🖥️ PlebMachine Project 2026](https://Plebware.github.io/PlebMachine/) | ✍️  [📚 Otto's Archive](https://Plebware.github.io/otto/) | [📚 Main Authoring Website](https://www.othelloverrocchio.co.za/) |[Juelz-PlebCore](https://plebware.github.io/juelz-plebcore/)
 ---
 
 # 🧭 The Origin of Plebware
