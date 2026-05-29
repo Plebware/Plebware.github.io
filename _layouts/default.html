@@ -2,16 +2,19 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>{{ page.title | default: site.title }} – {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
 </head>
 <body>
+  {% include nav.html %}
   <main>
     {{ content }}
   </main>
   <footer>
-    <p>Plebware · Technology should serve people — not the other way around.</p>
+    <p>✍️ Otto Brinkmeier · Technology should remain connected to humanity.</p>
   </footer>
+  <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
 </body>
 </html>
