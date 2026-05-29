@@ -88,7 +88,7 @@ Technology should remain connected to humanity. Systems matter. But so do storie
 ---
 
 ## 🔗 Linked Systems
-- [Plebware Control Centre](https://Plebware.github.io/Plebware/)
+- [Plebware Control Centre](https://Plebware.github.io/)
 - [PlebMachine Core](https://Plebware.github.io/PlebMachine/)
 
 ---
