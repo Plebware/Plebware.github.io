@@ -2,14 +2,14 @@
 title: "Plebware Control Centre"
 author: "Otto Brinkmeier"
 description: "Plebware: accessible, repairable, understandable technology"
-baseurl: ""  # Leave empty for organization site
+baseurl: ""  # Leave empty for organisation site
 url: "https://Plebware.github.io"
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-remote-theme
-
+remote_theme: Plebware/pleb-theme
 # Collections (optional, for future content)
 collections:
   posts:
