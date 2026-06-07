@@ -1,6 +1,11 @@
-# What Are Sample Packs?
+---
+layout: post
+title: "What Are Sample Packs?"
+date: 2026-06-07
+---
 
-## A Section Still in Development
+
+## This Section is Still in Development
 
 This section is currently being prepared.
 
