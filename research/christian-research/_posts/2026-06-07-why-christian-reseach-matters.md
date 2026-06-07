@@ -1,7 +1,17 @@
+---
+layout: post
+title: "Why Christian Research Matters"
+date: 2026-06-07
+---
+
 # Why Christian Research Matters
 ## Searching for Truth
 
-The Christian faith is not built upon blind belief.
+The Christian faith is n---
+layout: post
+title: "Why Spreadsheet Accounting Matters"
+date: 2024-01-01
+---ot built upon blind belief.
 
 Throughout history, believers have searched the Scriptures, examined evidence, studied history, and tested teachings against the Word of God.
 
