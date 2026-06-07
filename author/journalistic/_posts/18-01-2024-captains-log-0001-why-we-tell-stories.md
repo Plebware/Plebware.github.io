@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Captain's Log 0001 - Why We Tell Stories"
+date: 18-01-2024
+---
+
 # Captain's Log 0001 - Why We Tell Stories
 
 Greetings, traveller.
