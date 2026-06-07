@@ -1,4 +1,9 @@
-# Why Song Lyrics Matter
+---
+layout: post
+title: "Why Song Lyrics Matter"
+date: 2026-06-07
+---
+
 ## Words That Carry Sound
 
 Some ideas are too large for plain speech.
