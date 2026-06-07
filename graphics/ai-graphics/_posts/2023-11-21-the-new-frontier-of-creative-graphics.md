@@ -1,4 +1,10 @@
-# The New Frontier of Creative Graphics
+---
+layout: post
+title: "The New Frontier of Creative Graphics"
+date: 2023-11-21
+---
+
+
 ## A New Tool for Creators
 
 Throughout history, artists have adopted new tools.
