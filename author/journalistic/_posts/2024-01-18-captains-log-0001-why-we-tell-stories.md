@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Captain's Log 0001 - Why We Tell Stories"
-date: 18-01-2024
+date: 2024-01-18
 ---
 
 # Captain's Log 0001 - Why We Tell Stories
