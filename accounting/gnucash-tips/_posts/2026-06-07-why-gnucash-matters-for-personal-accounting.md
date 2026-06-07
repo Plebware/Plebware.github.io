@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My Story"
-date: 07-06-2026
+title: "Why GnuCash Matters for Personal Accounting"
+date: 2026-06-07
 ---
 
 # Why GnuCash Matters for Personal Accounting
