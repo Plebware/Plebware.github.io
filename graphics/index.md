@@ -7,7 +7,7 @@ title: Graphics Mode
 
 ## GIMP Tricks
 <ul>
-{% assign gimp_posts = site.posts | where_exp: "post", "post.path contains '/graphics/gimp-tricks/'" %}
+{% assign gimp_posts = site.posts | where_exp: "post", "post.path contains 'graphics/gimp-tricks/'" %}
 {% for post in gimp_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
@@ -17,7 +17,7 @@ title: Graphics Mode
 
 ## AI Graphics
 <ul>
-{% assign ai_gfx_posts = site.posts | where_exp: "post", "post.path contains '/graphics/ai-graphics/'" %}
+{% assign ai_gfx_posts = site.posts | where_exp: "post", "post.path contains 'graphics/ai-graphics/'" %}
 {% for post in ai_gfx_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
@@ -27,7 +27,7 @@ title: Graphics Mode
 
 ## Inkscape Tricks
 <ul>
-{% assign inkscape_posts = site.posts | where_exp: "post", "post.path contains '/graphics/inkscape-tricks/'" %}
+{% assign inkscape_posts = site.posts | where_exp: "post", "post.path contains 'graphics/inkscape-tricks/'" %}
 {% for post in inkscape_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
