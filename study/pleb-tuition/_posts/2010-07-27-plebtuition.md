@@ -4,7 +4,7 @@ title: "PlebTuition"
 date: 2010-07-27
 ---
 
-# PlebTuition
+
 > **The Keyboard Is Mightier Than The Pen**
 
 ## PlebTuition - Education for Ordinary People
