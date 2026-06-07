@@ -1,5 +1,11 @@
-Why Inkscape Matters
-Drawing with Mathematics
+---
+layout: post
+title: "Why Inkscape Matters"
+date: 2026-06-05
+---
+
+
+## Drawing with Mathematics
 
 Most people begin their graphic journey with photographs and painted images.
 
@@ -15,7 +21,7 @@ The result is remarkable.
 
 A logo created in Inkscape can be printed on a business card or enlarged to the size of a billboard without losing quality.
 
-What is Inkscape?
+## What is Inkscape?
 
 Inkscape is a powerful open-source vector graphics editor.
 
@@ -37,7 +43,7 @@ Inkscape provides the tools necessary to produce high-quality results.
 
 Best of all, it is freely available to everyone.
 
-The Hidden Power of Vector Graphics
+## The Hidden Power of Vector Graphics
 
 Many users discover Inkscape while searching for a way to create a logo.
 
@@ -89,7 +95,7 @@ Powerful design tools should not be reserved for large corporations.
 
 They should be available to everyone.
 
-What This Section Covers
+## What This Section Covers
 
 The Inkscape Tricks section explores:
 
