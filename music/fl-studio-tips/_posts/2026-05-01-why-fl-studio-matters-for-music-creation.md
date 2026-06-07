@@ -1,4 +1,9 @@
-# Why FL Studio Matters for Music Creation
+---
+layout: post
+title: "Why FL Studio Matters for Music Creation"
+date: 2026-05-01
+---
+
 
 ## A Studio Inside a Computer
 
