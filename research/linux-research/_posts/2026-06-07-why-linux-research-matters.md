@@ -1,4 +1,9 @@
-# Why Linux Research Matters
+---
+layout: post
+title: "Why Linux Research Matters"
+date: 2026-06-07
+---
+
 ## More Than Just an Operating System
 
 For many people, Linux is simply another operating system.
