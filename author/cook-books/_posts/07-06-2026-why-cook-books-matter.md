@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Why Cookbooks Matter"
+date: 07-06-2026
+---
+
 # Why Cookbooks Matter
 
 ## More Than Collections of Recipes
