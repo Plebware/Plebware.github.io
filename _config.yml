@@ -1,0 +1,8 @@
+title: "Plebware Control Centre"
+baseurl: ""
+url: "https://plebware.github.io"
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: Plebware/pleb-theme
