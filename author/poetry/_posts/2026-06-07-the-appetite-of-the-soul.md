@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Appetite of the Soul"
-date: 14-06-2026
+date: 2026-06-07
 ---
 
 # “The Appetite of the Soul” 
