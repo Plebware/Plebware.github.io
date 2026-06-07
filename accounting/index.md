@@ -2,7 +2,7 @@
 layout: default
 title: Accounting Mode
 ---
-
+<p>Debug: Total posts = {{ site.posts | size }} | Gnucash posts = {{ site.posts | where_exp: "post", "post.path contains '/accounting/gnucash-tips/'" | size }}</p>
 # 📊 Accounting Mode
 
 ## Spreadsheet Accounting
