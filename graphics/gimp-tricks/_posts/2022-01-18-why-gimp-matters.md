@@ -1,4 +1,10 @@
-Why GIMP Matters
+---
+layout: post
+title: "Why GIMP Matters"
+date: 2022-01-18
+---
+
+
 Creativity Without Barriers
 
 Many people believe that professional graphic design requires expensive software, powerful computers, and years of specialised training.
