@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Why Spreadsheet Accounting Matters"
+date: 01-01-2024
+---
+
 # Why Spreadsheet Accounting Matters
 
 ## Simple Tools for Real Life
