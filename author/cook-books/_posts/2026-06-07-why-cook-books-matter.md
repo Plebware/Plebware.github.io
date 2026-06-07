@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Cookbooks Matter"
-date: 07-06-2026
+date: 2024-06-07
 ---
 
 # Why Cookbooks Matter
