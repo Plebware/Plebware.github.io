@@ -5,4 +5,5 @@ title: Everyday Mode
 
 # 🏠 Everyday Mode
 
-Welcome to the Plebware site. Navigation and theme are working.
+Had to rebuild this site - sorry! 
+But well on track
