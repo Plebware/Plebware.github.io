@@ -1,3 +1,9 @@
+---
+layout: post
+title: "The Appetite of the Soul"
+date: 14-06-2026
+---
+
 # “The Appetite of the Soul” 
 
 ```I fed my body first each day,
