@@ -5,7 +5,7 @@ date: 2022-01-18
 ---
 
 
-Creativity Without Barriers
+# Creativity Without Barriers
 
 Many people believe that professional graphic design requires expensive software, powerful computers, and years of specialised training.
 
@@ -19,7 +19,7 @@ For millions of users around the world, GIMP has become a gateway into digital a
 
 Most importantly, it allows anyone to begin.
 
-What is GIMP?
+## What is GIMP?
 
 GIMP stands for the GNU Image Manipulation Program.
 
@@ -60,7 +60,7 @@ Every mistake becomes a lesson.
 
 Every project becomes an opportunity to learn.
 
-The PlebWare Perspective
+## The PlebWare Perspective
 
 PlebWare has always promoted technology that is accessible, understandable, and practical.
 
@@ -82,7 +82,7 @@ Knowledge becomes more important than budget.
 
 Skill becomes more important than software cost.
 
-What This Section Covers
+## What This Section Covers
 
 The GIMP Tricks section explores:
 
@@ -104,7 +104,7 @@ The objective is not merely to explain features.
 
 The objective is to help users create better images.
 
-A Tool for Storytellers
+## A Tool for Storytellers
 
 Images communicate ideas in ways that words sometimes cannot.
 
