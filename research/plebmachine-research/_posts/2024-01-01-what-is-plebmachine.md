@@ -1,5 +1,10 @@
-## What is PlebMachine?
-A Different Approach to Computing
+---
+layout: post
+title: "What is PlebMachine?"
+date: 2024-01-01
+---
+
+## A Different Approach to Computing
 
 Most software is designed around applications.
 
