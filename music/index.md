@@ -7,7 +7,7 @@ title: Music Mode
 
 ## Song Lyrics
 <ul>
-{% assign lyrics_posts = site.posts | where_exp: "post", "post.path contains '/music/song-lyrics/'" %}
+{% assign lyrics_posts = site.posts | where_exp: "post", "post.path contains 'music/song-lyrics/'" %}
 {% for post in lyrics_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
@@ -17,7 +17,7 @@ title: Music Mode
 
 ## FL Studio Tips
 <ul>
-{% assign fl_posts = site.posts | where_exp: "post", "post.path contains '/music/fl-studio-tips/'" %}
+{% assign fl_posts = site.posts | where_exp: "post", "post.path contains 'music/fl-studio-tips/'" %}
 {% for post in fl_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
@@ -27,7 +27,7 @@ title: Music Mode
 
 ## Sample Packs
 <ul>
-{% assign sample_posts = site.posts | where_exp: "post", "post.path contains '/music/sample-packs/'" %}
+{% assign sample_posts = site.posts | where_exp: "post", "post.path contains 'music/sample-packs/'" %}
 {% for post in sample_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
