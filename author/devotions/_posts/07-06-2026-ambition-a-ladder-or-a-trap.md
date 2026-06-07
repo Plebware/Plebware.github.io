@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Ambition: A Ladder or a Trap?"
+date: 07-06-2024
+---
+
 # 🔥 **Ambition: A Ladder or a Trap?** 
 
 ### 🙏 **Opening Prayer** 
