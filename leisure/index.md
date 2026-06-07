@@ -54,3 +54,15 @@ title: Leisure Mode
   <li>No guide entries yet.</li>
 {% endfor %}
 </ul>
+
+## The Joy of Cooking
+<ul>
+{% assign joy_posts = site.posts | where_exp: "post", "post.path contains '/leisure/the-joy-of-cooking/'" %}
+{% for post in joy_posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No cooking joy entries yet.</li>
+{% endfor %}
+</ul>
+
+
