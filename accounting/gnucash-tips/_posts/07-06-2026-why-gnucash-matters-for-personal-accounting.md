@@ -1,3 +1,9 @@
+---
+layout: post
+title: "My Story"
+date: 07-06-2026
+---
+
 # Why GnuCash Matters for Personal Accounting
 
 ## Moving Beyond Simple Spreadsheets
