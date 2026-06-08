@@ -1,4 +1,10 @@
-# How AI Should Be Used
+---
+layout: post
+title: "How AI Should Be Used"
+date: 2024-06-07
+---
+
+# The Correct Way To Leverage AI
 
 ## A Tool, Not a Replacement
 
