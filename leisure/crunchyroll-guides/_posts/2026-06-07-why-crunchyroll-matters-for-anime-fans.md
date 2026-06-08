@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Crunchyroll Matters for Anime Fans"
-date: 2024-01-01
+date: 2026-06-07
 ---
 
 ## A Gateway to Anime
