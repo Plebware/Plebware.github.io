@@ -1,4 +1,8 @@
-# Why Crunchyroll Matters for Anime Fans
+---
+layout: post
+title: "Why Crunchyroll Matters for Anime Fans"
+date: 2024-01-01
+---
 
 ## A Gateway to Anime
 
