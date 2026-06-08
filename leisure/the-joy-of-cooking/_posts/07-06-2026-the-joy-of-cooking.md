@@ -1,4 +1,10 @@
-# The Joy of Cooking
+---
+layout: post
+title: "The Joy of Cooking"
+date: 2024-01-01
+---
+
+## Hobby - Necessity - Relaxing - Art Form
 
 ## More Than a Necessity
 
