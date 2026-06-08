@@ -1,4 +1,10 @@
-# Why Shotcut Matters for Video Editing
+---
+layout: post
+title: "Why Shotcut Matters for Video Editing"
+date: 2026-06-07
+---
+
+## Cross-Platform Video Editor.
 ## Video Editing for Everyone
 
 For a long time, video editing was seen as something reserved for professionals.
