@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Pleb‑Tuition
+title: How to Cook
 ---
 
-# 📚 Pleb‑Tuition
+# 🍳 How to Cook
 
-Learning materials, tutorials, and self‑education resources.
+Beginner‑friendly cooking lessons, techniques, and basic recipes.
 
 <ul>
-{% assign posts = site.posts | where_exp: "post", "post.path contains 'study/pleb-tuition/'" %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'study/how-to-cook/'" %}
 {% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
-  <li>No study notes yet.</li>
+  <li>No cooking lessons yet.</li>
 {% endfor %}
 </ul>
