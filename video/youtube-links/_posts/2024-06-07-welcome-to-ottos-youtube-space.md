@@ -12,5 +12,5 @@ date: 2024-06-07
 
 At the moment, there is one primary channel:
 
-* https://www.youtube.com/@OttoBrinkmeier
+* [@OttoBrinkmeier](https://www.youtube.com/@OttoBrinkmeier/)
 
