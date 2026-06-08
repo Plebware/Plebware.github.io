@@ -1,4 +1,10 @@
-# Why Netflix Matters for Modern Entertainment
+---
+layout: post
+title: "Netflix Matters for Modern Entertainment"
+date: 2024-01-01
+---
+
+## Netflix Our First Stop For Entertainment
 
 ## Entertainment on Demand
 
