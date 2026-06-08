@@ -1,3 +1,9 @@
+---
+layout: post
+title: "PlebMachine Guides - Getting Started"
+date: 2026-06-01
+---
+
 # PlebMachine Guides - Getting Started
 
 ## What This Section Is
