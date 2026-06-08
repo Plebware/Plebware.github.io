@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Why Game Reviews Matter"
+date: 2026-06-07
+---
+
 # Why Game Reviews Matter
 
 ## More Than Just Entertainment
