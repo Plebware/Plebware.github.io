@@ -1,4 +1,11 @@
-# PlebMachine Technical Papers - System Design Overview
+---
+layout: post
+title: "PlebMachine Technical Papers"
+date: 2026-01-01
+---
+
+# PlebMachine Technical Papers 
+## 01 - System Design Overview
 
 ## Purpose of This Section
 
