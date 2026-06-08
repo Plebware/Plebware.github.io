@@ -4,7 +4,7 @@ title: "Why Game Reviews Matter"
 date: 2026-06-07
 ---
 
-# Why Game Reviews Matter
+## Play To Learn - Play To Tell
 
 ## More Than Just Entertainment
 
