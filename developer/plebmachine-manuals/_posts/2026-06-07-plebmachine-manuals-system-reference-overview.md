@@ -1,4 +1,11 @@
-# PlebMachine Manuals - System Reference Overview
+---
+layout: post
+title: "PlebMachine Manuals"
+date: 2026-06-07
+---
+
+
+# PlebMachine System Reference Overview
 
 ## Purpose of This Section
 
