@@ -1,6 +1,12 @@
-# Why AI Prompts Matter
+---
+layout: post
+title: "Why AI Prompts Matter"
+date: 2026-07-06
+---
 
-## The Language of Modern Tools
+## Communicating With The Machine. 
+
+### The Language of Modern Tools
 
 Artificial intelligence systems do not respond to intent alone.
 
