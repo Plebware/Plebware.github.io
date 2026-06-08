@@ -1,4 +1,10 @@
-# Why Game Tips Matter
+---
+layout: post
+title: "Why Game Tips Matter"
+date: 2026-06-07
+---
+
+## Know How Is King
 
 ## Learning How Systems Behave
 
