@@ -4,7 +4,7 @@ title: "Why Spreadsheet Accounting Matters"
 date: 2024-01-01
 ---
 
-# Why Spreadsheet Accounting Matters
+### Spreadsheets Are Powerful Tools
 
 ## Simple Tools for Real Life
 
