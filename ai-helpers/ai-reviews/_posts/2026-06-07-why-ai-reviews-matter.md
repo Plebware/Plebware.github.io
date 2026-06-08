@@ -4,7 +4,7 @@ title: "Why AI Reviews Matter"
 date: 2026-06-07
 ---
 
-# Otto Worked On Computers Since The VIC 20 
+## Otto Worked On Computers Since The VIC 20 
 ### Therefore, He Can Review This
 
 ## A Growing Landscape of Tools
