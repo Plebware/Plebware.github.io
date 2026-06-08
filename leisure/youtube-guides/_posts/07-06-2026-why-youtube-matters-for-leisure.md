@@ -1,4 +1,10 @@
-# Why YouTube Matters for Leisure
+---
+layout: post
+title: "Why YouTube Matters for Leisure"
+date: 2026-06-07
+---
+
+# YouTube Entertains - Educates
 
 ## More Than Just Videos
 
