@@ -3,7 +3,7 @@ layout: post
 title: "Why Cooking Matters as a Life Skill"
 date: 2024-06-07
 ---
-# Why Cooking Matters as a Life Skill
+## Culinary Art Or Survival?
 
 ## A Basic Human Skill
 
