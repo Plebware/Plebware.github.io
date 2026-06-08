@@ -4,7 +4,7 @@ title: "Why GnuCash Matters for Personal Accounting"
 date: 2026-06-07
 ---
 
-# Why GnuCash Matters for Personal Accounting
+# Best for Personal Accounting
 
 ## Moving Beyond Simple Spreadsheets
 
