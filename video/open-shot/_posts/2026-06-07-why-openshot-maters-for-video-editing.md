@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Why OpenShot?"
+date: 2026-06-07
+---
+
 # Why OpenShot Matters for Video Editing
 
 ## A Simple Starting Point
