@@ -28,7 +28,7 @@ The decision to convert to a knowledge base was made in May 2026. Our only reque
 * 🔬 Conduct research
 * 🎮 Relax with leisure content
 
-There will be something here for you. Although not much presently, the presented information will systematically be added over time.
+There will be something here for you. Although not much is available now, the proposed information will be systematically added over time.
 
 #
 
