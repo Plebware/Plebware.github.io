@@ -30,7 +30,7 @@ The decision to convert to a knowledge base was made in **May 2026**. Our only r
 
 There will be something here for you. Although not much is available now, the proposed information will be systematically added over time.
 
-#
+---------
 
 
 # 📊 Periodic Project Status Report
@@ -54,7 +54,7 @@ After extensive redesign and reconstruction, the PlebWare platform has been rebu
 * ✅ Established content publishing framework
 * ✅ Created dedicated educational collections
 
----
+---------
 
 ## ⚙️ Publishing System Status
 
@@ -67,7 +67,7 @@ After extensive redesign and reconstruction, the PlebWare platform has been rebu
 | 🏗️ Site Structure     | ✅ Stable      |
 | 🚀 Future Expansion    | ✅ Planned     |
 
-#
+-----------
 
 ## 🏛️ Current PlebWare Sections
 
@@ -107,7 +107,7 @@ Audio production, sample packs, DAWs and multimedia tools.
 
 Reviews, entertainment, gaming, streaming and hobbies.
 
----
+----------
 
 # 🎯 Looking Forward (July 2026 - Onward))
 
@@ -123,7 +123,8 @@ The next stage of development includes:
 * 🎵 Audio resources
 * 📚 Community learning materials
 
----
+
+--------
 
 ## 📈 Project Philosophy
 
