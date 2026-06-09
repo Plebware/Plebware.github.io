@@ -10,11 +10,14 @@ From now on, I'll be able to post daily or periodical updates about site changes
 Basically Anything Note Worthy
 
 ## GitHub Site - https://plebware.github.io
-Site If Fully Functional
+
+Site Now Fully Functional
 - Navigation now works across 12 modes.
 - Secondary sub‑pages now display correctly.
 - Next: fix  Systems: PlebMachine, PlebWaveFrontier, Otto Archive, juelz-plebcore
+  
 ---
+
 ## Why GitHub
 
 GitHub Pages is probably one of the best free hosts available for what we're building because it gives us:
