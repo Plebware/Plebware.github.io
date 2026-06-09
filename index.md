@@ -15,8 +15,9 @@ title: Everyday Mode
 Welcome to **PlebWare**, a publishing and education platform dedicated to helping ordinary people understand technology, Linux, Artificial Intelligence, writing, creativity, productivity, and lifelong learning.
 
 Founded on **6 June 2015**, PlebWare has grown from a simple idea into an evolving knowledge base designed to educate, inspire, and empower.
+The decision to convert to a knowledge base was made in May 2026. Our only request of visitors to this site is patience, as new content gets added
 
-Whether you are here to:
+### Whether you are here to:
 
 * 🐧 Learn Linux
 * 🤖 Explore Artificial Intelligence
@@ -27,11 +28,12 @@ Whether you are here to:
 * 🔬 Conduct research
 * 🎮 Relax with leisure content
 
-there is something here for you.
+There will be something here for you. Although not much presently, the presented information will systematically be added over time.
 
----
+#
 
-# 📊 Daily Project Status Report
+
+# 📊 Periodic Project Status Report
 
 ## 🏗️ Major Rebuild Completed
 
@@ -43,12 +45,12 @@ After extensive redesign and reconstruction, the PlebWare platform has been rebu
 ### ✅ Completed Milestones
 
 * ✅ Rebuilt repository structure
-* ✅ Reorganized content collections
+* ✅ Reorganised content collections
 * ✅ Simplified site navigation
-* ✅ Modernized publishing workflow
+* ✅ Modernised publishing workflow
 * ✅ Added mode-based content organisation
 * ✅ Improved maintainability
-* ✅ Optimized GitHub Pages deployment
+* ✅ Optimised GitHub Pages deployment
 * ✅ Established content publishing framework
 * ✅ Created dedicated educational collections
 
@@ -65,7 +67,7 @@ After extensive redesign and reconstruction, the PlebWare platform has been rebu
 | 🏗️ Site Structure     | ✅ Stable      |
 | 🚀 Future Expansion    | ✅ Planned     |
 
----
+#
 
 ## 🏛️ Current PlebWare Sections
 
@@ -107,7 +109,7 @@ Reviews, entertainment, gaming, streaming and hobbies.
 
 ---
 
-# 🎯 Looking Forward
+# 🎯 Looking Forward (July 2026 - Onward))
 
 The next stage of development includes:
 
@@ -133,7 +135,7 @@ PlebWare is built on a simple belief:
 >
 > Learning should be available to everyone.
 
----
+#
 
 ## ☕ Thank You For Visiting
 
