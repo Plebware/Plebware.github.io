@@ -19,13 +19,6 @@ Site If Fully Functional
 
 GitHub Pages is probably one of the best free hosts available for what we're building because it gives us:
 
-Free hosting,
-Free HTTPS,youyou
-Git version control,
-GitHub Actions automation,
-Jekyll support,
-Custom domains,
-Good reliability,
-No advertising,
+Free hosting, Free HTTPS, Git version control, GitHub Actions automation, Jekyll support, Custom domains, Good reliability, No advertising.
 
 For a publishing platform centred around articles, manuals, tutorials, devotionals, fiction, and educational content, GitHub Pages can comfortably support the project for years before we.'d need to consider paid hosting
