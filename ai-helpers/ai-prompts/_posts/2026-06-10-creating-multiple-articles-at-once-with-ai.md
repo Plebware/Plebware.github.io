@@ -2,7 +2,7 @@
 layout: post
 title: "Creating Multiple Articles at Once with AI"
 date: 2026-06-10
-----------------
+---
 
 # 🔑 Creating Multiple Articles at Once with AI
 
