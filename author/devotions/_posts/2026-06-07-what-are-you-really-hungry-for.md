@@ -31,12 +31,15 @@ God designed physical hunger 🍞 as a mirror of spiritual hunger 🌊.
 Because every time your body says “ _feed me_ ,” your soul is quietly whispering the same thing:
 “ _Do not forget me either_ .”
 
-### 🍞🌊 Bread, Milk, and Living Water
+### 🍞🌊 The First Hunger - Bread, Milk, and Living Water
 Scripture never treats hunger as accidental—it treats it as instruction.
 
 > 📖 “ _Give us this day our daily bread_ .” ( *Matthew 6:11* )
 
+## 📖 **The Second Hunger - Desiring God**
+
 > 📖 “ _Like newborn babies, crave pure spiritual milk…_ ” ( *1 Peter 2:2* )
+
 Even deeper still…
 Jesus doesn’t just offer nourishment.
 He becomes it.
@@ -45,13 +48,13 @@ He becomes it.
 
 💧 “ _Whoever drinks the water I give will never thirst again_ .”
 
-This is not metaphor for comfort—it is revelation of dependence.
+This is not a metaphor for comfort—it is a revelation of dependence.
 
 To be human is to be hungry.
 
 To follow Christ is to learn what is worth being hungry for.
 
-## 🔥 *The Third Hunger: Purpose* 
+## 🔥 **The Third Hunger: Purpose** 
 There is another hunger many people ignore—not because it is weak, but because it is dangerous if awakened:
 The hunger to matter 🧭
 
@@ -69,14 +72,14 @@ Some to heal.
 
 Some to write ✍️.
 And when that hunger is ignored…
-A person can still survive, but something inside begins to quietly starve.
+A person can still survive, but something inside begins to starve quietly.
 
 Even gifts unused become a kind of inner famine.
 
-## ✍️🔥 *A Thought-Provoking Poem: “The Appetite of the Soul”* 
+## ✍️🔥 **A Thought-Provoking Poem: “The Appetite of the Soul”** 
 ```
 I fed my body first each day,
-Yet still my spirit drifted gray.
+Yet still my spirit drifted grey.
 
 For bread alone will not sustain
 The parts of me that bear Your name.
