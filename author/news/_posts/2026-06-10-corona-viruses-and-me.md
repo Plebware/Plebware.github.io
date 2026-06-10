@@ -13,7 +13,7 @@ This constant irritation inflames the throat and can make it easier for infectio
 What begins as a simple cold or flu often progresses into a sinus infection. 
 The infected sinus drainage then continually irritates the throat, causing coughing and inflammation. 
 If the infection reaches my lungs or chest, recovery becomes even more difficult. 
-The lungs are already dealing with inflammation while the infected sinus drainage continues to irritate the respiratory tract.
+The lungs are already dealing with inflammation, while the infected sinus drainage continues to irritate the respiratory tract.
 
 As a result, what might be a short illness for most people can turn into a prolonged cycle for me. 
 The sinus infection aggravates the throat, the throat irritation aggravates the lungs, and the lungs take longer to heal because the post-nasal drip persists. 
@@ -36,10 +36,15 @@ Post-nasal drip, throat irritation, and prolonged respiratory infections.
 However, my experience is based on my own medical history and should not be taken as medical advice. 
 Every person's health situation is different, and what works for one individual may not be suitable for another.
 
+## Disclaimer
 Before trying any treatment, remedy, or self-care routine described here.
+
 **It is important to consult your own doctor, medical practitioner, or qualified healthcare professional.** 
+
 They can evaluate your specific condition, medical history, and any underlying factors that may be contributing to your symptoms. 
+
 **Proper medical guidance is especially important if symptoms are severe!**
+
 Persistent, recurring, or accompanied by breathing difficulties, high fever, chest pain, or other concerning signs.
 
 My intention is simply to share a personal experience in the hope that it may encourage others to seek appropriate medical care and explore options that may help them break a similar infection cycle under professional supervision.
