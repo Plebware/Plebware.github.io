@@ -9,7 +9,41 @@ title: Everyday Mode
 > **Accessible • Repairable • Understandable Technology**
 
 ---
+---
 
+## 📰 Latest News
+
+<ul>
+{% assign news_posts = site.posts | where_exp: "post", "post.path contains 'author/news/'" | sort: 'date' | reverse | limit: 5 %}
+{% for post in news_posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No news posts yet.</li>
+{% endfor %}
+</ul>
+
+<p><a href="/author/news/">All news →</a></p>
+
+---
+
+## 🔥 Latest 7 Posts (All Categories)
+
+<ul>
+{% assign all_posts = site.posts | sort: 'date' | reverse %}
+{% assign latest_posts = "" | split: "" %}
+{% for post in all_posts %}
+  {% unless post.path contains 'author/news/' %}
+    {% assign latest_posts = latest_posts | push: post %}
+  {% endunless %}
+{% endfor %}
+{% for post in latest_posts limit: 7 %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No posts yet.</li>
+{% endfor %}
+</ul>
+
+-------
 ## 👋 Greetings and Welcome
 
 Welcome to **PlebWare**, a publishing and education platform dedicated to helping ordinary people understand technology, Linux, Artificial Intelligence, writing, creativity, productivity, and lifelong learning.
