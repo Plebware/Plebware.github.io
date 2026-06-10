@@ -4,11 +4,15 @@ title: "Influenza Viruses And Me"
 date: 2026-06-10
 ---
 
-# Persistent Flu
+# Persistent Flu Symptoms
+
+Sadly, I am unlucky when it comes to getting the flu. Although I was not born this way, the problem started occurring after shattering a cheekbone. That's what you get when you are young and reckless. You see, I had received that gift as a result of a bar fight. Ever since that foolish day in 1998, I have had an infection loop. Once my sinus gets infected, the Flu becomes hard to shake, the post-nasal drip keeps reinfecting the throat and if I had a lung infection that persists sometimes (usually) 2 - 3 weeks
 
 The injury appears to have left me more vulnerable to sinus problems. 
 When my sinuses become infected or severely congested, they produce excess mucus that drains down the back of my throat, a condition known as post-nasal drip. 
 This constant irritation inflames the throat and can make it easier for infections to linger.
+
+> "My sinus problems can be triggered by a variety of respiratory viruses, including influenza viruses, coronaviruses, and the viruses responsible for the common cold."
 
 What begins as a simple cold or flu often progresses into a sinus infection. 
 The infected sinus drainage then continually irritates the throat, causing coughing and inflammation. 
