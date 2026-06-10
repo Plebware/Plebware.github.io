@@ -148,9 +148,9 @@ Reviews, entertainment, gaming, streaming and hobbies.
 
 Navigation to render 4 items per row only, add in more categories to cover all general intrests:
 Gardening, Facebook broadcasts, and more...
-
+---
 The next stage of development includes:
-
+---
 * 📖 New study courses
 * 🐧 Expanded Linux documentation
 * 🤖 Advanced AI resources
