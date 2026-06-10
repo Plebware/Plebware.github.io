@@ -42,9 +42,9 @@ title: Everyday Mode
   <li>No posts yet.</li>
 {% endfor %}
 </ul>
-
 -------
-## 👋 Greetings and Welcome
+-------
+## 👋 **Greetings and Welcome**
 
 Welcome to **PlebWare**, a publishing and education platform dedicated to helping ordinary people understand technology, Linux, Artificial Intelligence, writing, creativity, productivity, and lifelong learning.
 
@@ -64,8 +64,8 @@ The decision to convert to a knowledge base was made in **May 2026**. Our only r
 
 There will be something here for you. Although not much is available now, the proposed information will be systematically added over time.
 
----------
-
+-------
+-------
 
 # 📊 Periodic Project Status Report
 
@@ -140,10 +140,14 @@ Audio production, sample packs, DAWs and multimedia tools.
 ### 🎮 Leisure Mode
 
 Reviews, entertainment, gaming, streaming and hobbies.
-
-----------
+-------
+-------
 
 # 🎯 Looking Forward (July 2026 - Onward))
+## **Immediate improvements!**
+
+Navigation to render 4 items per row only, add in more categories to cover all general intrests:
+Gardening, Facebook broadcasts, and more...
 
 The next stage of development includes:
 
@@ -157,8 +161,8 @@ The next stage of development includes:
 * 🎵 Audio resources
 * 📚 Community learning materials
 
-
---------
+-------
+-------
 
 ## 📈 Project Philosophy
 
@@ -178,8 +182,8 @@ Every article, tutorial, guide, story, review and resource published here repres
 
 Feel free to explore, learn, create, and return often as new content is added.
 
----
-
+-------
+-------
 ### 📅 Last Major Update
 
 **8 June 2026**
