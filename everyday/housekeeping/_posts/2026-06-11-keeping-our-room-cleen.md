@@ -1,9 +1,8 @@
 ---
-
 layout: post
 title: "Keeping Our Room Clean: Simple Housekeeping Habits"
 date: 2026-06-11
-----------------
+---
 
 # 🧹 Keeping Our Room Clean
 
