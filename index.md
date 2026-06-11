@@ -48,8 +48,8 @@ title: Everyday Mode
 
 Welcome to **PlebWare**, a publishing and education platform dedicated to helping ordinary people understand technology, Linux, Artificial Intelligence, writing, creativity, productivity, and lifelong learning.
 
-Founded on **6 June 2015**, PlebWare has grown from a simple idea into an evolving knowledge base designed to educate, inspire, and empower.
-The decision to convert to a knowledge base was made in **May 2026**. Our only request of visitors to this site is patience, as new content gets added
+This GitHub site was founded on **6 June 2015**. PlebWare has grown from a simple idea back in 2006, as a means to promote computer users.
+To a proper domain-based website in **January 2010**, when we established plebware.com, and it was hosted in the USA by GreenGeeks, today it is turning into an evolving knowledge base designed to educate, inspire, and empower. The decision to convert to a knowledge base was made in **May 2026**. Our only request of visitors to this site is patience, as new content gets added
 
 ### Whether you are here to:
 
@@ -72,7 +72,7 @@ There will be something here for you. Although not much is available now, the pr
 ## 🏗️ Major Rebuild Completed
 
 **Rework Period:**
-📅 **3 May 2026 – 8 June 2026**
+📅 **3 May 2026 – 11 June 2026**
 
 After extensive redesign and reconstruction, the PlebWare platform has been rebuilt from the ground up.
 
@@ -92,14 +92,14 @@ After extensive redesign and reconstruction, the PlebWare platform has been rebu
 
 ## ⚙️ Publishing System Status
 
-| Component              | Status        |
-| ---------------------- | ------------- |
-| 🌐 Website             | ✅ Online      |
-| 📚 Content Collections | ✅ Operational |
-| 🔄 GitHub Actions      | ✅ Working     |
-| 📝 Auto Publishing     | ✅ Ready       |
-| 🏗️ Site Structure     | ✅ Stable      |
-| 🚀 Future Expansion    | ✅ Planned     |
+| Component              | Status        | Notes                  |
+| ---------------------- | ------------- | ----------------------|
+| 🌐 Website             | ✅ Online      | 2015 - 2026          |
+| 📚 Content Collections | ✅ Operational | Growing Daily        |
+| 🔄 GitHub Actions      | ✅ Working     | Ongoing (300)        |
+| 📝 Auto Publishing     | ✅ Ready | Tested 2026-06-11    |
+| 🏗️ Site Structure     | ✅ Stable      | Tested 2026-06-11     |
+| 🚀 Future Expansion    | ✅ Ongoing     | Too Much still to go |
 
 -----------
 
