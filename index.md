@@ -25,7 +25,7 @@ title: Everyday Mode
 
 ---
 
-## 🔥 Latest 7 Posts (All Categories)
+## 🔥 Latest 10 Posts (All Categories)
 
 <ul>
 {% assign all_posts = site.posts | sort: 'date' | reverse %}
@@ -35,7 +35,7 @@ title: Everyday Mode
     {% assign latest_posts = latest_posts | push: post %}
   {% endunless %}
 {% endfor %}
-{% for post in latest_posts limit: 7 %}
+{% for post in latest_posts limit: 10 %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
   <li>No posts yet.</li>
