@@ -15,6 +15,16 @@ title: Author Mode
 {% endfor %}
 </ul>
 
+## Non‑Fiction
+<ul>
+{% assign nonfiction_posts = site.posts | where_exp: "post", "post.path contains 'author/non-fiction/'" %}
+{% for post in nonfiction_posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No non‑fiction posts yet.</li>
+{% endfor %}
+</ul>
+
 ## Devotionals
 <ul>
 {% assign devotion_posts = site.posts | where_exp: "post", "post.path contains 'author/devotions/'" %}
