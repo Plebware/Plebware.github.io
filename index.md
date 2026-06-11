@@ -3,7 +3,7 @@ layout: default
 title: Everyday Mode
 ---
 
-# 🏠 Everyday Mode 
+# 🏠 Everyday Mode  
 # 🚀 Welcome to PlebWare
 
 > **Accessible • Repairable • Understandable Technology**
