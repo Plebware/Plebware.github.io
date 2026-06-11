@@ -9,7 +9,6 @@ title: Everyday Mode
 > **Accessible • Repairable • Understandable Technology**
 
 ---
----
 
 ## 📰 Latest News
 
