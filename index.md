@@ -48,8 +48,8 @@ title: Everyday Mode
 
 Welcome to **PlebWare**, a publishing and education platform dedicated to helping ordinary people understand technology, Linux, Artificial Intelligence, writing, creativity, productivity, and lifelong learning.
 
-This GitHub site was founded on **6 June 2015**. PlebWare has grown from a simple idea back in 2006, as a means to promote computer users.
-To a proper domain-based website in **January 2010**, when we established plebware.com, and it was hosted in the USA by GreenGeeks, today it is turning into an evolving knowledge base designed to educate, inspire, and empower. The decision to convert to a knowledge base was made in **May 2026**. Our only request of visitors to this site is patience, as new content gets added
+This GitHub site was founded on **6 June 2015**. PlebWare has grown from a simple idea back on ***20 July 2006**, as a means to promote computer users.
+From January 2010, when we launched plebware.com (lost during the COVID-19 retrenchment) and hosted it in the USA with GreenGeeks, it has evolved into a knowledge base designed to educate, inspire, and empower. The decision to convert to a knowledge base was made in **May 2026**. Our only request of visitors to this site is patience, as new content gets added
 
 ### Whether you are here to:
 
@@ -94,7 +94,7 @@ After extensive redesign and reconstruction, the PlebWare platform has been rebu
 
 | Component              | Status        | Notes                  |
 | ---------------------- | ------------- | ----------------------|
-| 🌐 Website             | ✅ Online      | 2015 - 2026          |
+| 🌐 GitHub Website      | ✅ Online      | 2015 - 2026          |
 | 📚 Content Collections | ✅ Operational | Growing Daily        |
 | 🔄 GitHub Actions      | ✅ Working     | Ongoing (300)        |
 | 📝 Auto Publishing     | ✅ Ready | Tested 2026-06-11    |
