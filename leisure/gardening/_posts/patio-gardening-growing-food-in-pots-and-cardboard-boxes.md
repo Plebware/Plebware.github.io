@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Patio Gardening: Growing Food in Pots and Cardboard Boxes"
+title: "Patio Gardening Growing Food in Pots and Cardboard Boxes"
 date: 2026-06-11
 ---
 
