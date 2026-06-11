@@ -13,7 +13,7 @@ title: Everyday Mode
 ## 📰 Latest News
 
 <ul>
-{% assign news_posts = site.posts | where_exp: "post", "post.path contains 'author/news/'" | sort: 'date' | reverse | limit: 5 %}
+{% assign news_posts = site.posts | where_exp: "post", "post.path contains 'author/news/'" | sort: 'date' | reverse | limit: 3 %}
 {% for post in news_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
@@ -25,8 +25,7 @@ title: Everyday Mode
 
 ---
 
-## 🔥 Latest 10 Posts (All Categories)
-
+## 🔥 10 Latest Posts (All Categories)
 <ul>
 {% assign all_posts = site.posts | sort: 'date' | reverse %}
 {% assign latest_posts = "" | split: "" %}
@@ -41,6 +40,8 @@ title: Everyday Mode
   <li>No posts yet.</li>
 {% endfor %}
 </ul>
+## 🔥 [50 Latest Posts (All Categories)](https://plebware.github.io/recent/)
+## 🔥 [ALL Posts (All Categories)](https://plebware.github.io/all-posts/)
 -------
 -------
 ## 👋 **Greetings and Welcome**
