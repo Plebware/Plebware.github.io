@@ -5,7 +5,7 @@ title: Gardening
 
 # 🌱 Gardening
 
-Tips, plant care, seasonal guides, and garden projects.
+Tips, plant care, seasonal guides, and garden projects. 
 
 <ul>
 {% assign posts = site.posts | where_exp: "post", "post.path contains 'leisure/gardening/'" %}
