@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why AI Prompts Matter"
-date: 2026-07-06
+date: 2026-06-06
 ---
 
 ## Communicating With The Machine. 
