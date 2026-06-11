@@ -5,13 +5,6 @@ title: "Personal Hygiene"
 date: 2026-06-11
 ---
 
----
-
-layout: post
-title: "Personal Hygiene When You Only Have a Basin and Shower"
-date: 2026-06-11
-----------------
-
 # 🚿 Personal Hygiene When You Only Have a Basin and Shower
 
 Personal hygiene is one of the most important aspects of health and wellbeing. Whether you are living in a small flat, staying in temporary accommodation, travelling, working from a vehicle, camping, or simply making do with limited facilities, it is entirely possible to maintain excellent hygiene using nothing more than a basin, a shower, and a few basic supplies.
