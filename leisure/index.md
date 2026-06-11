@@ -64,3 +64,13 @@ title: Leisure Mode
   <li>No cooking joy entries yet.</li>
 {% endfor %}
 </ul>
+
+## Gardening
+<ul>
+{% assign garden_posts = site.posts | where_exp: "post", "post.path contains 'leisure/gardening/'" %}
+{% for post in garden_posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No gardening posts yet.</li>
+{% endfor %}
+</ul>
