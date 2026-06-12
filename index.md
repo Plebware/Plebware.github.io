@@ -13,6 +13,7 @@ title: Everyday Mode
 ## 📰 Latest News
 
 <ul>
+  <p>Debug: Total news posts = {{ site.posts | where_exp: "post", "post.path contains 'author/news/'" | size }} | Limited to 3.</p>
 {% assign news_posts = site.posts | where_exp: "post", "post.path contains 'author/news/'" | sort: 'date' |  reverse | limit: 3 %}
 {% for post in news_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
@@ -27,6 +28,7 @@ title: Everyday Mode
 
 ## 🔥 Latest Posts (All Categories)
 <ul>
+  <p>Debug: Total non‑news posts = {{ latest_posts | size }} | Showing first 3.</p>
 {% assign all_posts = site.posts | sort: 'date' | reverse %}
 {% assign latest_posts = "" | split: "" %}
 {% for post in all_posts %}
