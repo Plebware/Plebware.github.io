@@ -28,11 +28,11 @@ title: Everyday Mode
 </ul>
 -------
 
-## 📝 [50 Latest Posts (All Categories)](https://plebware.github.io/recent/)
+## 📝 [50 Latest Posts](https://plebware.github.io/recent/)
 
 -------
 
-## 📚 [ALL Posts (All Categories)](https://plebware.github.io/all-posts/)
+## 📚 [ALL Posts](https://plebware.github.io/all-posts/)
 -------
 
 ## 👋 **Greetings and Welcome**
