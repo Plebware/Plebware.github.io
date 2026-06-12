@@ -12,7 +12,6 @@ title: Everyday Mode
 
 ## 🔥 Latest Posts
 <ul>
-  <p>Debug: Total non‑news posts = {{ latest_posts | size }} | Showing first 3.</p>
 {% assign all_posts = site.posts | sort: 'date' | reverse %}
 {% assign latest_posts = "" | split: "" %}
 {% for post in all_posts %}
