@@ -2,7 +2,7 @@
 layout: post
 title: "ExplainingComputers"
 date: 2026-06-12
-----------------
+---
 
 # 💻 One of YouTube’s Best Technology Classrooms
 
