@@ -12,9 +12,10 @@ title: Everyday Mode
 
 ## 📰 Latest News
 
+{% assign news_posts = site.posts | where_exp: "post", "post.path contains 'author/news/'" | sort: 'date' | reverse | limit: 3 %}
+<p>Debug: Total news posts = {{ news_posts | size }} | Limited to 3.</p>
+
 <ul>
-  <p>Debug: Total news posts = {{ site.posts | where_exp: "post", "post.path contains 'author/news/'" | size }} | Limited to 3.</p>
-{% assign news_posts = site.posts | where_exp: "post", "post.path contains 'author/news/'" | sort: 'date' |  reverse | limit: 3 %}
 {% for post in news_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
@@ -23,7 +24,6 @@ title: Everyday Mode
 </ul>
 
 <p><a href="/author/news/">All news →</a></p>
-
 ---
 
 ## 🔥 Latest Posts (All Categories)
