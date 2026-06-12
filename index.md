@@ -26,12 +26,15 @@ title: Everyday Mode
   <li>No posts yet.</li>
 {% endfor %}
 </ul>
----
+-------
+
 ## 📝 [50 Latest Posts (All Categories)](https://plebware.github.io/recent/)
----
+
+-------
+
 ## 📚 [ALL Posts (All Categories)](https://plebware.github.io/all-posts/)
 -------
--------
+
 ## 👋 **Greetings and Welcome**
 
 Welcome to **PlebWare**, a publishing and education platform dedicated to helping ordinary people understand technology, Linux, Artificial Intelligence, writing, creativity, productivity, and lifelong learning.
