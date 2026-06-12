@@ -37,7 +37,9 @@ Jamie's YouTube channel serves as a free cooking school for anyone with an inter
 
 ### 🔗 Channel Link
 
-📺 https://www.youtube.com/@JamieOliver
+<a href="https://www.youtube.com/@JamieOliver" target="_blank" rel="noopener noreferrer">
+📺 Jamie Oliver YouTube Channel
+</a>
 
 The channel features:
 
