@@ -13,7 +13,7 @@ title: Everyday Mode
 ## 📰 Latest News
 
 <ul>
-{% assign news_posts = site.posts | where_exp: "post", "post.path contains 'author/news/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign news_posts = site.posts | where_exp: "post", "post.path contains 'author/news/'" | sort: 'date' |  reverse | limit: 3 %}
 {% for post in news_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
