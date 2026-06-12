@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebMachine and PlebWare: Accelerating Independent Development Through AI-Assisted Publishing and Workflow Automation"
+title: "Fast Indie Development Via AI-Assisted Publishing and Workflow Automation"
 date: 2026-06-11
 ---
 
