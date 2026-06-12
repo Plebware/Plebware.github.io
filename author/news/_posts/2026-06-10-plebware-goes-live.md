@@ -4,7 +4,7 @@ title: "PlebWare Goes Live 🚀"
 date: 2026-06-10
 ---
 
-# PlebWare Goes Live 🚀
+# PlebWare Publishing Ecosystem Goes Live 🚀
 
 Today marks a real turning point in the evolution of PlebMachine and the broader PlebWare publishing ecosystem.
 
