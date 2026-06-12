@@ -10,7 +10,7 @@ title: Everyday Mode
 
 ---
 
-## 🔥 Latest Posts (All Categories)
+## 🔥 Latest Posts
 <ul>
   <p>Debug: Total non‑news posts = {{ latest_posts | size }} | Showing first 3.</p>
 {% assign all_posts = site.posts | sort: 'date' | reverse %}
@@ -26,8 +26,10 @@ title: Everyday Mode
   <li>No posts yet.</li>
 {% endfor %}
 </ul>
-## 🔥 [50 Latest Posts (All Categories)](https://plebware.github.io/recent/)
-## 🔥 [ALL Posts (All Categories)](https://plebware.github.io/all-posts/)
+---
+## 📝 [50 Latest Posts (All Categories)](https://plebware.github.io/recent/)
+---
+## 📚 [ALL Posts (All Categories)](https://plebware.github.io/all-posts/)
 -------
 -------
 ## 👋 **Greetings and Welcome**
