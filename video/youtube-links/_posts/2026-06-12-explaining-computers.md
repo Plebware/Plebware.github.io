@@ -34,13 +34,16 @@ The channel is known for clear explanations, practical demonstrations, and a tea
 
 ### 🔗 Channel Link
 
-📺 YouTube Channel:
 
-[ExplainingComputers YouTube Channel](https://www.youtube.com/@ExplainingComputers/featured?utm_source=chatgpt.com)
+<a href="https://www.youtube.com/@ExplainingComputers/featured" target="_blank" rel="noopener noreferrer">
+📺 ExplainingComputers 
+</a>
 
-🌍 Official Website:
+### 🌍 Official Website:
 
-[ExplainingComputers.com](https://www.explainingcomputers.com/?utm_source=chatgpt.com)
+<a href="https://www.explainingcomputers.com" target="_blank" rel="noopener noreferrer">
+🌍 ExplainingComputers 
+</a>
 
 ## 👨‍🏫 About Christopher Barnatt
 
