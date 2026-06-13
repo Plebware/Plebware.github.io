@@ -9,23 +9,16 @@ title: Everyday Mode
 > **Accessible • Repairable • Understandable Technology**
 
 ---
-
-## 🔥 Latest Posts
+## 🔥 Latest Posts (All Categories)
 <ul>
-{% assign all_posts = site.posts | sort: 'date' | reverse %}
-{% assign latest_posts = "" | split: "" %}
-{% for post in all_posts %}
-  {% unless post.path contains 'author/news/' %}
-    {% assign latest_posts = latest_posts | push: post %}
-  {% endunless %}
-{% endfor %}
-{% for post in latest_posts limit: 3 %}
+{% assign recent_posts = site.posts | sort: 'date' | reverse | limit: 3 %}
+{% for post in recent_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
   <li>No posts yet.</li>
 {% endfor %}
 </ul>
--------
+---
 
 ## 📝 [50 Latest Posts](https://plebware.github.io/recent/)
 
