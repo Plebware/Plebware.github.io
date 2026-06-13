@@ -11,7 +11,7 @@ title: Everyday Mode
 ---
 ## 🔥 Latest Posts (All Categories)
 <ul>
-{% assign recent_posts = site.posts | sort: 'date' | reverse | limit: 3 %}
+{% assign recent_posts = site.posts | sort: 'date' | reverse | limit: 10 %}
 {% for post in recent_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
