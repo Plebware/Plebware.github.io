@@ -9,13 +9,10 @@ title: Everyday Mode
 > **Accessible • Repairable • Understandable Technology**
 
 ---
-## 🔥 Latest Posts (All Categories)
+{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
 <ul>
-{% assign recent_posts = site.posts | sort: 'date' | reverse | limit: 10 %}
-{% for post in recent_posts %}
+{% for post in sorted_posts limit: 10 %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
-{% else %}
-  <li>No posts yet.</li>
 {% endfor %}
 </ul>
 ---
