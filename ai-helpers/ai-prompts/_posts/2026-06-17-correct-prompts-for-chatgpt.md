@@ -431,4 +431,5 @@ Master those seven skills and ChatGPT becomes a powerful assistant for writing, 
 
 The better your prompt, the better your result.
 
-Happy prompting! 🚀[otto.brinkmeier@gmail.comotto.brinkmeier@gmail.com](mailto:otto.brinkmeier@gmail.com)
+Happy prompting! 🚀
+
