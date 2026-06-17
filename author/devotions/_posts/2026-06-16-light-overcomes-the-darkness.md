@@ -3,6 +3,14 @@ layout: post
 title: "light Overcomes The Darkness"
 date: 2026-06-16
 ---
+<div align="center">
+
+<img src="/assets/images/Light_Out.png"
+     alt="When the Lights Go Out, God Still See"
+     style="max-width:300px; height:auto;">
+
+</div>
+----
 
 # ⚡ When the Lights Go Out, God Still Sees
 
