@@ -4,6 +4,16 @@ title: "Chibi Sticker-Pack Creation"
 date: 2026-06-17
 ---
 
+<div align="center">
+
+<img src="/assets/images/StickerCreation.jpg" 
+     alt="Chibi Sticker-Pack Creation"
+     style="max-width:600px; height:auto;">
+
+</div>
+
+<br>
+
 
 ## Creating Stickers With ChatGPT
 
