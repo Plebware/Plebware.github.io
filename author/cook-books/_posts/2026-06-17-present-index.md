@@ -3,6 +3,14 @@ layout: post
 title: "Joy Cookery Book - Contents"
 date: 2026-06-17
 ---
+<div align="center">
+
+<img src="/assets/images/joy-cookery-collection.png"
+     alt="Preserving the Past, Cooking for the Future"
+     style="max-width:600px; height:auto;">
+
+</div>
+----
 
 # 🍳 Preserving the Past, Cooking for the Future
 
