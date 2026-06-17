@@ -83,6 +83,9 @@ This becomes the "Head Office" account.
 
 Author and Publishing Headquarters
 
+### Present Content
+- NotaBeJaro
+
 ### Suggested Content
 
 #### 📁 Books
