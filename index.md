@@ -12,6 +12,8 @@ title: Everyday Mode
      style="max-width:600px; height:auto;">
 
 </div>
+
+#### Image Courtesy Gemini AI
 ----
 > **Accessible • Repairable • Understandable Technology**
 
