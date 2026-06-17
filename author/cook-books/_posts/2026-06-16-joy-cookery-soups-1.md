@@ -3,6 +3,14 @@ layout: post
 title: "Joy Cookery - Soups Recipe 1"
 date: 2026-06-16
 ---
+<div align="center">
+
+<img src="/assets/images/joy-cookery-collection.png"
+     alt="Preserving the Past, Cooking for the Future"
+     style="max-width:600px; height:auto;">
+
+</div>
+----
 
 # 🥣 Pleb Bean Soup
 
