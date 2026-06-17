@@ -40,6 +40,7 @@ title: Everyday Mode
 
 </div>
 ----
+
 Welcome to **PlebWare**, a publishing and education platform dedicated to helping ordinary people understand technology, Linux, Artificial Intelligence, writing, creativity, productivity, and lifelong learning.
 
 This GitHub site was founded on **6 June 2015**. PlebWare has grown from a simple idea back on **20 July 2006**, as a means to promote computer users.
