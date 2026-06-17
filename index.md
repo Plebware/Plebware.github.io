@@ -5,7 +5,14 @@ title: Everyday Mode
 
 # 🏠 Everyday Mode
 # 🚀 Welcome to PlebWare
+<div align="center">
 
+<img src="/assets/images/everyday.png"
+     alt="Home Page - Every Day Mode"
+     style="max-width:600px; height:auto;">
+
+</div>
+----
 > **Accessible • Repairable • Understandable Technology**
 
 ---
