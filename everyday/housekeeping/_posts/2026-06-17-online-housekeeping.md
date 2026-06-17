@@ -85,7 +85,20 @@ Author and Publishing Headquarters
 
 ### Present Content
 - NotaBeJaro
+   - ___NoAttribution
+   - ___WINDOWS
+   - __IconRepository
+   - Author's art
+   - Avantars AI
+   - BOOK-COVERS
+   - Brandon
+   - 
+   - 
+- Othello's Public Library
+- PDF PRIZES
+- Story Forge Library
 
+  
 ### Suggested Content
 
 #### 📁 Books
@@ -98,6 +111,7 @@ Author and Publishing Headquarters
 #### 📁 Worldbuilding
 
 - Characters
+- Space Ships
 - Locations
 - Timelines
 - Technology
