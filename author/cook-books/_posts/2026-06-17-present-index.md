@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Present Index"
+title: "Joy Cookery Book - Contents"
 date: 2026-06-17
 ---
 
-# 🍳 Joy Cookery Book - Contents
+# 🍳 Preserving the Past, Cooking for the Future
 
 ## 📖 Introduction
 
