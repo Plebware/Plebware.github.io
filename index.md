@@ -13,7 +13,7 @@ title: Everyday Mode
 
 </div>
 
-#### Image Courtesy Gemini AI
+#### _**Image Courtesy Gemini AI**_
 ----
 > **Accessible • Repairable • Understandable Technology**
 
