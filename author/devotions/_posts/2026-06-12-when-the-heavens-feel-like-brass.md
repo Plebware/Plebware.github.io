@@ -4,6 +4,14 @@ title: "When The Heavens Feel Like Brass"
 date: 2024-01-01
 ---
 # 🥀📖 When It Seems God Is Ignoring Me
+<div align="center">
+
+<img src="/assets/images/heaven-like-brass.png"
+     alt="When The Heavens Feel Like Brass"
+     style="max-width:600px; height:auto;">
+
+</div>
+---
 
 ### 🙏 An Embarrassed Request For Prayer
 
