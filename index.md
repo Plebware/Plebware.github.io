@@ -9,7 +9,7 @@ title: Everyday Mode
 
 <img src="/assets/images/everyday.png"
      alt="Home Page - Every Day Mode"
-     style="max-width:600px; height:auto;">
+     style="max-width:300px; height:auto;">
 
 </div>
 
