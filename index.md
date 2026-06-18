@@ -13,7 +13,7 @@ title: Everyday Mode
 
 </div>
 
-<p align="center"> <strong>Image Courtesy Gemini AI</strong>
+<p align="center"> <strong>Image Courtesy ChatGPT</strong>
 </p>
 
 ----
