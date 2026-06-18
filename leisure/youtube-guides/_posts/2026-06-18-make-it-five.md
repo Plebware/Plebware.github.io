@@ -122,7 +122,7 @@ And what a moment that would be.
 
 🇩🇪⭐ 🇩🇪⭐ 🇩🇪⭐ 🇩🇪⭐ 🇩🇪⭐
 
-**Auf geht's Deutschland!**
+**Auf geht's, Deutschland!**
 
 Believe.
 
