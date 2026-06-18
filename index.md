@@ -197,21 +197,37 @@ Feel free to explore, learn, create, and return often as new content is added.
 **PlebWare**
 *Accessible. Repairable. Understandable Technology.*
 
-## Other PlebWare Links
+## **Other PlebWare Links**
 
-<a href="https://www.reddit.com/user/Plebware/" target="_blank" rel="noopener noreferrer">
+- 🔴 <a href="https://www.reddit.com/user/Plebware/" target="_blank" rel="noopener noreferrer">
 PlebWave Frontier HQ - Reddit
 </a>
 
-- <a href="https://www.deviantart.com/plebware" target="_blank" rel="noopener noreferrer">
-DeviantArt
+- 🎨 <a href="https://www.deviantart.com/" target="_blank" rel="noopener noreferrer">
+PlebWare @ DeviantArt
 </a>
 
-- <a href="https://www.deviantart.com/plebware/art/The-Legend-of-Crazy-Otto-A-Flash-Biography-1124230469" target="_blank" rel="noopener noreferrer">
+- 📖 <a href="https://www.deviantart.com/plebware/art/The-Legend-of-Crazy-Otto-A-Flash-Biography-1124230469" target="_blank" rel="noopener noreferrer">
 The Legend of Crazy Otto - A Flash Biography
 </a>
 
-- <a href="https://www.othelloverrocchio.co.za" target="_blank" rel="noopener noreferrer">
+- ✍️ <a href="https://www.othelloverrocchio.co.za" target="_blank" rel="noopener noreferrer">
 Othello Verrocchio Official Website
+</a>
+
+- 🍳 <a href="https://sites.google.com/view/plebchow/home" target="_blank" rel="noopener noreferrer">
+PlebChow - Cooking & Recipes
+</a>
+
+- ✝️ <a href="https://sites.google.com/view/plebchurch/home" target="_blank" rel="noopener noreferrer">
+PlebChurch - Faith & Devotions
+</a>
+
+- 🔨 <a href="https://sites.google.com/view/plebdiy/home" target="_blank" rel="noopener noreferrer">
+PlebDIY - Crafts & Projects
+</a>
+
+- 🎓 <a href="https://sites.google.com/view/plebware-tuition/home" target="_blank" rel="noopener noreferrer">
+PlebWare Tuition - Learning Centre
 </a>
 
