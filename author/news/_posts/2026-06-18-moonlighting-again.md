@@ -62,7 +62,7 @@ Sometimes victory is simply getting back to work after a difficult season and tr
 
 📖 Scripture
 
-«"And let us not be weary in well doing: for in due season we shall reap, if we faint not."
+"And let us not be weary in well doing: for in due season we shall reap, if we faint not."
 
 — Galatians 6:9 (KJV)»
 
