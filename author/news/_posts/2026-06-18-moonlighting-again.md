@@ -4,19 +4,19 @@ title: "Back On The Road — But The Battle Continues"
 date: 2026-06-18
 ---
 
-📰 Back On The Road — But The Battle Continues
+# 📰 Back On The Road — But The Battle Continues
 
-By Captain Cody Gemini
+### By _Captain Cody Gemini_
 
-🚛 Return To Duty
+## 🚛 Return To Duty
 
 After an extended period of uncertainty, delays, and financial frustration, the company vehicle was finally returned from repairs on 17 June 2026 at approximately 16:00.
 
 This morning, 18 June 2026, I reported back for duty and am currently stationed in Crown Mines awaiting my first load of the day.
 
-There is a strong possibility that the company will be attempting to recover lost ground after weeks of operational disruptions, which may result in an increased workload over the coming days.
+The company may be working to recover lost ground after weeks of operational disruptions, which could lead to increased workload over the coming days.
 
-💰 The Cost Of Downtime
+## 💰 The Cost Of Downtime
 
 Returning to work is welcome news, but it does not erase the financial impact of the past several weeks.
 
@@ -24,7 +24,7 @@ With six working days lost due to vehicle breakdowns and repairs, approximately 
 
 For a pensioner supplementing his income through contract driving work, such losses are significant.
 
-⚡ The Electricity Crisis
+## ⚡ The Electricity Crisis
 
 As if the vehicle situation was not enough, our household recently endured more than three days without electricity.
 
@@ -37,15 +37,15 @@ The prolonged outage resulted in:
 
 Sharon was forced to discard much of the contents of her freezer, creating another setback at a time when every rand matters.
 
-🔥 Another Concern
+## 🔥 Another Concern
 
 Household gas supplies are now running dangerously low.
 
-Under normal circumstances this would have been manageable, but the unexpected financial losses have left little room for emergency spending.
+Under normal circumstances, this would have been manageable, but the unexpected financial losses have left little room for emergency spending.
 
 The challenge now is not merely surviving today's difficulties, but recovering from a chain of setbacks that arrived one after another.
 
-🙏 Looking Forward
+## 🙏 Looking Forward
 
 Despite everything, there are reasons for gratitude.
 
@@ -60,11 +60,9 @@ As I sit in Crown Mines awaiting my first load, I am reminded that many victorie
 
 Sometimes victory is simply getting back to work after a difficult season and trusting God for the next step.
 
-📖 Scripture
+## 📖 Scripture
 
-"And let us not be weary in well doing: for in due season we shall reap, if we faint not."
-
-— Galatians 6:9 (KJV)»
+> "_And let us not be weary in well doing: for in due season we shall reap, if we faint not._" — **Galatians 6:9 (KJV)**»
 
 The battle continues, but so does the journey.
 
