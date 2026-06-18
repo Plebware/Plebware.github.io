@@ -203,7 +203,7 @@ Feel free to explore, learn, create, and return often as new content is added.
 PlebWave Frontier HQ - Reddit
 </a>
 
-- <a href="https://www.deviantart.com/" target="_blank" rel="noopener noreferrer">
+- <a href="https://www.deviantart.com/plebware" target="_blank" rel="noopener noreferrer">
 DeviantArt
 </a>
 
