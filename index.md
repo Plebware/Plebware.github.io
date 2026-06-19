@@ -200,7 +200,7 @@ Feel free to explore, learn, create, and return often as new content is added.
 **PlebWare**
 *Accessible. Repairable. Understandable Technology.*
 
-## **Other PlebWare Links**
+## **Social media, Our Sign Post and Legacy Sites**
 
 - 🔴 <a href="https://www.reddit.com/user/Plebware/" target="_blank" rel="noopener noreferrer">
 PlebWave Frontier HQ - Reddit
