@@ -32,7 +32,7 @@ title: Everyday Mode
 > **The Keyboard Is Mightier Than The Pen** 
 ----
 ## 📝 [50 Latest Posts](https://plebware.github.io/recent/)
-
+ 
 -------
 
 ## 📚 [ALL Posts](https://plebware.github.io/all-posts/)
