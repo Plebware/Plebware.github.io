@@ -71,10 +71,10 @@ There will be something here for you. Although not much is available now, the pr
 
 # 📊 Periodic Project Status Report
 
-## 🏗️ Major Rebuild Completed
+## 🏗️ Major Rebuild In Progress
 
 **Rework Period:**
-📅 **3 May 2026 – 11 June 2026**
+📅 **3 May 2026 – 20 June 2026**
 
 After extensive redesign and reconstruction, the PlebWare platform has been rebuilt from the ground up.
 
