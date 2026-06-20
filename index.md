@@ -4,7 +4,7 @@ title: Everyday Mode
 ---
 
 # 🏠 Everyday Mode
-# 🚀 Welcome to PlebWare
+# 🚀 Welcome to PlebWare 
 <div align="center">
 
 <img src="/assets/images/everyday.png"
