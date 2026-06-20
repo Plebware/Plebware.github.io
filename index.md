@@ -98,8 +98,8 @@ After extensive redesign and reconstruction, the PlebWare platform has been rebu
 | ---------------------- | ------------- | ----------------------|
 | 🌐 GitHub Website      | ✅ Online      | 2015 - 2026          |
 | 📚 Content Collections | ✅ Operational | Growing Daily        |
-| 🔄 GitHub Actions      | ✅ Working     | Ongoing (300)        |
-| 📝 Auto Publishing     | ✅ Ready | Tested 2026-06-11    |
+| 🔄 GitHub Actions      | ✅ Working     | Ongoing (500)        |
+| 📝 Auto Publishing     | ✅ Ready | Retested 2026-06-20    |
 | 🏗️ Site Structure     | ✅ Stable      | Tested 2026-06-11     |
 | 🚀 Future Expansion    | ✅ Ongoing     | Too Much still to go |
 
@@ -125,7 +125,7 @@ Writing, publishing, fiction, blogging and creative development.
 
 ### 🐧 Linux Mode
 
-Linux guides, tutorials, troubleshooting and system customization.
+Linux guides, tutorials, troubleshooting and system customisation.
 
 ### 💰 Finance Mode
 
@@ -148,7 +148,7 @@ Reviews, entertainment, gaming, streaming and hobbies.
 # 🎯 Looking Forward (July 2026 - Onward))
 ## **Immediate improvements!**
 
-Navigation to render 4 items per row only, add in more categories to cover all general intrests:
+Navigation to render 4 items per row only, add in more categories to cover all general interests:
 Gardening, Facebook broadcasts, and more...
 ---
 The next stage of development includes:
@@ -188,7 +188,7 @@ Feel free to explore, learn, create, and return often as new content is added.
 -------
 ### 📅 Last Major Update
 
-**11 June 2026**
+**20 June 2026**
 
 ### 🚀 Platform Status
 
