@@ -26,7 +26,7 @@ title: Everyday Mode – Plebware Home
 
 # 🏠 Everyday Mode
 
-Welcome to Everyday mode – the central dashboard for Plebware.
+Welcome to Everyday mode – the central dashboard for Plebware. 
 
 ## 📰 Latest News
 <ul>
