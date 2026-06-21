@@ -5,10 +5,20 @@ title: Author Mode
 
 # ✍️ Author Mode
 
+## Comics
+<ul>
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'author/comics/'" %}
+{% for post in posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No comics yet.</li>
+{% endfor %}
+</ul>
+
 ## Fiction
 <ul>
-{% assign fiction_posts = site.posts | where_exp: "post", "post.path contains 'author/fiction/'" %}
-{% for post in fiction_posts %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'author/fiction/'" %}
+{% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
   <li>No fiction posts yet.</li>
@@ -17,8 +27,8 @@ title: Author Mode
 
 ## Non‑Fiction
 <ul>
-{% assign nonfiction_posts = site.posts | where_exp: "post", "post.path contains 'author/non-fiction/'" %}
-{% for post in nonfiction_posts %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'author/non-fiction/'" %}
+{% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
   <li>No non‑fiction posts yet.</li>
@@ -27,8 +37,8 @@ title: Author Mode
 
 ## Devotionals
 <ul>
-{% assign devotion_posts = site.posts | where_exp: "post", "post.path contains 'author/devotions/'" %}
-{% for post in devotion_posts %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'author/devotions/'" %}
+{% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
   <li>No devotionals yet.</li>
@@ -37,18 +47,18 @@ title: Author Mode
 
 ## Journalistic
 <ul>
-{% assign journal_posts = site.posts | where_exp: "post", "post.path contains 'author/journalistic/'" %}
-{% for post in journal_posts %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'author/journalistic/'" %}
+{% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
-  <li>No journal entries yet.</li>
+  <li>No journalistic posts yet.</li>
 {% endfor %}
 </ul>
 
 ## Poetry
 <ul>
-{% assign poetry_posts = site.posts | where_exp: "post", "post.path contains 'author/poetry/'" %}
-{% for post in poetry_posts %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'author/poetry/'" %}
+{% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
   <li>No poetry yet.</li>
@@ -57,8 +67,8 @@ title: Author Mode
 
 ## Cook Books
 <ul>
-{% assign cook_posts = site.posts | where_exp: "post", "post.path contains 'author/cook-books/'" %}
-{% for post in cook_posts %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'author/cook-books/'" %}
+{% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
   <li>No cook book entries yet.</li>
@@ -67,8 +77,8 @@ title: Author Mode
 
 ## News
 <ul>
-{% assign news_posts = site.posts | where_exp: "post", "post.path contains 'author/news/'" %}
-{% for post in news_posts %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'author/news/'" %}
+{% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
   <li>No news posts yet.</li>
