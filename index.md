@@ -40,18 +40,6 @@ Welcome to Everyday mode – the central dashboard for Plebware.
 
 <p><a href="/author/news/">All news →</a></p>
 
-## 🔥 Latest 10 Posts (All Categories)
-<ul>
-{% assign recent_posts = site.posts | sort: 'date' | reverse | limit: 10 %}
-{% for post in recent_posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
-{% else %}
-  <li>No posts yet.</li>
-{% endfor %}
-</ul>
-
-<p><a href="/recent/">50 Latest Posts →</a> | <a href="/all-posts/">All Posts →</a></p>
-
 ----
 > **The Keyboard Is Mightier Than The Pen** 
 ----
