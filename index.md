@@ -8,7 +8,7 @@ title: Everyday Mode
 <div align="center">
 
 <img src="/assets/images/everyday.png"
-     alt="Home Page - Every Day Mode"
+     alt="Home Page - Every Day Mode" 
      style="max-width:300px; height:auto;">
 
 </div>
