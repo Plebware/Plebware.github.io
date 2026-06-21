@@ -6,7 +6,7 @@ date: 2026-06-21
 
 # ✍️🤖 AI Writing
 
-AI Writing is the use of Artificial Intelligence tools to assist with creating, improving, organizing, and developing written content.
+AI Writing is the use of Artificial Intelligence tools to assist with creating, improving, organising, and developing written content.
 
 From simple notes and blog articles to novels, scripts, research documents, and creative stories, AI has become a powerful companion for writers, educators, researchers, and creators.
 
