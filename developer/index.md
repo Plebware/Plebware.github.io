@@ -11,17 +11,17 @@ title: Developer Mode
 {% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
-  <li>No plebware posts yet.</li>
+  <li>No PlebWare posts yet.</li>
 {% endfor %}
 </ul>
 
 ## PlebMachine
 <ul>
-{% assign posts = site.posts | where_exp: "post", "post.path contains 'developer/plebmachine-tech-papers/'" %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'developer/plebmachine/'" %}
 {% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
-  <li>No plebmachine posts yet.</li>
+  <li>No PlebMachine posts yet.</li>
 {% endfor %}
 </ul>
 
@@ -31,7 +31,17 @@ title: Developer Mode
 {% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
-  <li>No rainmeter posts yet.</li>
+  <li>No Rainmeter posts yet.</li>
+{% endfor %}
+</ul>
+
+## Total Launcher
+<ul>
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'developer/total-launcher/'" %}
+{% for post in posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No Total Launcher posts yet.</li>
 {% endfor %}
 </ul>
 
@@ -41,17 +51,7 @@ title: Developer Mode
 {% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
-  <li>No github pages posts yet.</li>
-{% endfor %}
-</ul>
-
-## Automation & Scripting
-<ul>
-{% assign posts = site.posts | where_exp: "post", "post.path contains 'developer/automation-scripting/'" %}
-{% for post in posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
-{% else %}
-  <li>No automation & scripting posts yet.</li>
+  <li>No GitHub Pages posts yet.</li>
 {% endfor %}
 </ul>
 
@@ -85,12 +85,42 @@ title: Developer Mode
 {% endfor %}
 </ul>
 
-## Total Launcher
+## Automation
 <ul>
-{% assign posts = site.posts | where_exp: "post", "post.path contains 'developer/total-launcher/'" %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'developer/automation/'" %}
 {% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
-  <li>No total launcher posts yet.</li>
+  <li>No automation posts yet.</li>
+{% endfor %}
+</ul>
+
+## Scripting
+<ul>
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'developer/scripting/'" %}
+{% for post in posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No scripting posts yet.</li>
+{% endfor %}
+</ul>
+
+## Linux
+<ul>
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'developer/linux/'" %}
+{% for post in posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No Linux posts yet.</li>
+{% endfor %}
+</ul>
+
+## Conky
+<ul>
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'developer/conky/'" %}
+{% for post in posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No Conky posts yet.</li>
 {% endfor %}
 </ul>
