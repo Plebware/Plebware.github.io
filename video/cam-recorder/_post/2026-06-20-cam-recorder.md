@@ -4,7 +4,7 @@ title: "Cam Recorder - Capturing Moments And Stories"
 date: 2026-06-20
 ---
 
-# 📹 Cam Recorder - Capturing Moments And Stories
+# 📹 Home Made Videos
 
 ## 🔑 Introduction
 
