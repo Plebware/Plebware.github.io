@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "God Help Us"
-date: 2024-01-01
+date: 2026-06-22
 ---
 
 # Father God, I Need Intervention
