@@ -213,6 +213,17 @@ Feel free to explore, learn, create, and return often as new content is added.
 
 ### 🚀 Platform Status
 
+<div align="center">
+
+<img src="/assets/images/gotyou.png"
+     alt="Fully Operational" 
+     style="max-width:300px; height:auto;">
+
+</div>
+
+<p align="center"> <strong>Image Courtesy ChatGPT</strong>
+</p>
+
 # 🟢 FULLY OPERATIONAL
 
 **Ready for Automated Publishing**
