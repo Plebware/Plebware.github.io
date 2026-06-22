@@ -7,6 +7,10 @@ title: Everyday Mode – Plebware Home
 
 **Accessible · Repairable · Understandable Technology**
 
+<img src="assets/images/gotyou.png"
+     alt="Juelz and Otto have your back sticker"
+     height="200">
+     
 Welcome to Plebware – a publishing and education platform for Linux, AI, writing, creativity, and lifelong learning.
 
 ---
