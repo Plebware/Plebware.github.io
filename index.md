@@ -11,7 +11,16 @@ title: Everyday Mode – Plebware Home
      alt="Juelz and Otto have your back sticker"
      height="200">
      
-Welcome to Plebware – a publishing and education platform for Linux, AI, writing, creativity, and lifelong learning.
+**Welcome to PlebWare** — a publishing and learning platform built around Linux, AI, writing, creativity, and the pursuit of lifelong learning.
+
+This site is best experienced on a **PC or large-screen device**, although a great deal of work has gone into making it mobile-friendly and enjoyable to use on smartphones and tablets.
+
+Over the last fifty days, PlebWare has undergone a major rebuild from the ground up. The structure, content framework, and navigation systems have all been redesigned and refined.
+
+Today, the platform stands at approximately **99% completion and is fully functional**. The final 1% consists mainly of visual polishing, image refinements, and a small scaling issue on certain mobile devices.
+
+Thank you for visiting, and welcome to the next chapter of PlebWare.
+Otto and Juelz - Still at Your Service
 
 ---
 
