@@ -23,7 +23,7 @@ title: Everyday Mode
 layout: default
 title: Everyday Mode – Plebware Home
 ---
-
+ 
 # 🏠 Everyday Mode
 
 Welcome to Everyday mode – the central dashboard for Plebware. 
