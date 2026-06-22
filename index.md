@@ -12,7 +12,7 @@ Welcome to Plebware – a publishing and education platform for Linux, AI, writi
 ---
 
 ## 📖 Latest from Author
-{% assign author_posts = site.posts | where_exp: "post", "post.path contains '/author/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign author_posts = site.posts | where_exp: "post", "post.path contains 'author/'" | sort: 'date' | reverse | limit: 3 %}
 <ul>
 {% for post in author_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
@@ -25,7 +25,7 @@ Welcome to Plebware – a publishing and education platform for Linux, AI, writi
 ---
 
 ## 📚 Latest from Study
-{% assign study_posts = site.posts | where_exp: "post", "post.path contains '/study/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign study_posts = site.posts | where_exp: "post", "post.path contains 'study/'" | sort: 'date' | reverse | limit: 3 %}
 <ul>
 {% for post in study_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
@@ -38,7 +38,7 @@ Welcome to Plebware – a publishing and education platform for Linux, AI, writi
 ---
 
 ## 🔬 Latest from Research
-{% assign research_posts = site.posts | where_exp: "post", "post.path contains '/research/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign research_posts = site.posts | where_exp: "post", "post.path contains 'research/'" | sort: 'date' | reverse | limit: 3 %}
 <ul>
 {% for post in research_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
@@ -51,7 +51,7 @@ Welcome to Plebware – a publishing and education platform for Linux, AI, writi
 ---
 
 ## 🎨 Latest from Graphics
-{% assign graphics_posts = site.posts | where_exp: "post", "post.path contains '/graphics/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign graphics_posts = site.posts | where_exp: "post", "post.path contains 'graphics/'" | sort: 'date' | reverse | limit: 3 %}
 <ul>
 {% for post in graphics_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
@@ -64,7 +64,7 @@ Welcome to Plebware – a publishing and education platform for Linux, AI, writi
 ---
 
 ## 🎵 Latest from Music
-{% assign music_posts = site.posts | where_exp: "post", "post.path contains '/music/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign music_posts = site.posts | where_exp: "post", "post.path contains 'music/'" | sort: 'date' | reverse | limit: 3 %}
 <ul>
 {% for post in music_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
@@ -77,7 +77,7 @@ Welcome to Plebware – a publishing and education platform for Linux, AI, writi
 ---
 
 ## 🎥 Latest from Video
-{% assign video_posts = site.posts | where_exp: "post", "post.path contains '/video/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign video_posts = site.posts | where_exp: "post", "post.path contains 'video/'" | sort: 'date' | reverse | limit: 3 %}
 <ul>
 {% for post in video_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
@@ -90,7 +90,7 @@ Welcome to Plebware – a publishing and education platform for Linux, AI, writi
 ---
 
 ## 📡 Latest from Broadcast
-{% assign broadcast_posts = site.posts | where_exp: "post", "post.path contains '/broadcast/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign broadcast_posts = site.posts | where_exp: "post", "post.path contains 'broadcast/'" | sort: 'date' | reverse | limit: 3 %}
 <ul>
 {% for post in broadcast_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
@@ -103,7 +103,7 @@ Welcome to Plebware – a publishing and education platform for Linux, AI, writi
 ---
 
 ## 🤖 Latest from AI Helpers
-{% assign ai_posts = site.posts | where_exp: "post", "post.path contains '/ai-helpers/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign ai_posts = site.posts | where_exp: "post", "post.path contains 'ai-helpers/'" | sort: 'date' | reverse | limit: 3 %}
 <ul>
 {% for post in ai_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
@@ -116,7 +116,7 @@ Welcome to Plebware – a publishing and education platform for Linux, AI, writi
 ---
 
 ## 💻 Latest from Developer
-{% assign developer_posts = site.posts | where_exp: "post", "post.path contains '/developer/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign developer_posts = site.posts | where_exp: "post", "post.path contains 'developer/'" | sort: 'date' | reverse | limit: 3 %}
 <ul>
 {% for post in developer_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
@@ -129,7 +129,7 @@ Welcome to Plebware – a publishing and education platform for Linux, AI, writi
 ---
 
 ## 📊 Latest from Accounting
-{% assign accounting_posts = site.posts | where_exp: "post", "post.path contains '/accounting/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign accounting_posts = site.posts | where_exp: "post", "post.path contains 'accounting/'" | sort: 'date' | reverse | limit: 3 %}
 <ul>
 {% for post in accounting_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
@@ -142,7 +142,7 @@ Welcome to Plebware – a publishing and education platform for Linux, AI, writi
 ---
 
 ## 🎮 Latest from Leisure
-{% assign leisure_posts = site.posts | where_exp: "post", "post.path contains '/leisure/'" | sort: 'date' | reverse | limit: 3 %}
+{% assign leisure_posts = site.posts | where_exp: "post", "post.path contains 'leisure/'" | sort: 'date' | reverse | limit: 3 %}
 <ul>
 {% for post in leisure_posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
