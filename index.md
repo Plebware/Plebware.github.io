@@ -2,7 +2,7 @@
 layout: default
 title: Everyday Mode
 ---
-
+ 
 # 🏠 Everyday Mode
 # 🚀 **Welcome to PlebWare**
 <div align="center">
