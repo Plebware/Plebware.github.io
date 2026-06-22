@@ -129,6 +129,7 @@ Nor will it go away.
 
 It has been two decades in the making.
 
-And I will see it through to the end.
+And I will see it through to the end. 
+(PS, this Journalistic article was compiled from start to finish, without using AI once.)
 
 🔑
