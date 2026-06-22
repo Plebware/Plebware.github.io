@@ -5,10 +5,13 @@ date: 2026-06-22
 ---
 
 # 🙏 Please Help!
+<div align="center">
 
-<img src="assets/images/lord-i-need-you.png"
-     alt="Lord I Need You"
-     height="200">
+<img src="/assets/images/lord-i-need-you.png"
+     alt="Home Page - Every Day Mode" 
+     style="max-width:120px; height:auto;">
+
+</div>
      
 ## You Know, Lord... You Know!
 
