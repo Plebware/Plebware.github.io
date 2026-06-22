@@ -20,7 +20,8 @@ Over the last fifty days, PlebWare has undergone a major rebuild from the ground
 Today, the platform stands at approximately **99% completion and is fully functional**. The final 1% consists mainly of visual polishing, image refinements, and a small scaling issue on certain mobile devices.
 
 Thank you for visiting, and welcome to the next chapter of PlebWare.
-Otto and Juelz - Still at Your Service
+
+**Otto and Juelz - Still at Your Service**
 
 ---
 
