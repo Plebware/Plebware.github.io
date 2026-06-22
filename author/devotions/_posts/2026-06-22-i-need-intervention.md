@@ -9,7 +9,7 @@ date: 2026-06-22
 
 <img src="/assets/images/lord-i-need-you.png"
      alt="Home Page - Every Day Mode" 
-     style="max-width:120px; height:auto;">
+     style="max-width:200px; height:auto;">
 
 </div>
      
