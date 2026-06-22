@@ -53,9 +53,9 @@ That foundation shaped the way I think.
 
 So even though there are many topics, this will be no strenuous task for me.
 
-For starters, I see myself as an Irish Terroir (Tenacious).
+For starters, I see myself as an Irish Terrier (Tenacious).
 
-Albeit I hate multitasking, I am pretty good at it.
+Although I hate multitasking, I am pretty good at it.
 
 For example, while compiling this explainer in the most civil manner possible, I am also:
 
