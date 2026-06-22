@@ -6,6 +6,10 @@ date: 2026-06-22
 
 # Father God, I Need Intervention
 
+<img src="assets/images/lord-i-need-you.png"
+     alt="Lord I Need You"
+     height="200">
+     
 ## You Know, Lord... You Know!
 
 It is with reluctance and a sense of dread that I have opened my word processor to tell it as it is.
