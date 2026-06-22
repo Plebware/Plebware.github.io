@@ -4,7 +4,12 @@ title: "Father God, I Need Intervention"
 date: 2026-06-22
 ---
 
-# 🙏 Please Help!  
+# 🙏 Please Help!
+
+<img src="assets/images/lord-i-need-you.png"
+     alt="Lord I Need You"
+     height="200">
+     
 ## You Know, Lord... You Know!
 
 ## Opening Prayer
