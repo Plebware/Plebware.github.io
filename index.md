@@ -13,7 +13,7 @@ title: Everyday Mode – Plebware Home
      
 **Welcome to PlebWare** — a publishing and learning platform built around Linux, AI, writing, creativity, and the pursuit of lifelong learning.
 
-This site is best experienced on a **PC or large-screen device**, although a great deal of work has gone into making it mobile-friendly and enjoyable to use on smartphones and tablets.
+This site is best experienced on a **PC or large-screen device**, although a great deal of work has gone into making it mobile-friendly and enjoyable to use on smartphones and tablets. 📱✨ **Mobile Viewing Note:** After reviewing the menu layout on **Plebware.github.io**, the decision has been made to keep the current menu design rather than reduce the links from four items per line to two. The existing layout provides a compact overview of the available sections and keeps navigation efficient on larger screens. Android users are recommended to use **Landscape Mode 🔄📲** when browsing the site, as this gives the menus more space and creates a cleaner, more desktop-like experience. 🖥️🚀 Plebware continues to focus on accessibility, practicality, and making the best use of available screen space. 🌐🔑
 
 Over the last fifty days, PlebWare has undergone a major rebuild from the ground up. The structure, content framework, and navigation systems have all been redesigned and refined.
 
