@@ -24,7 +24,131 @@ Thank you for visiting, and welcome to the next chapter of PlebWare.
 **Otto and Juelz - Still at Your Service**
 
 🏆 🏆 🏆 🏆 🏆
+## 🧹 Everyday Sub‑Categories
 
+### Housekeeping
+<ul>
+{% assign counter = 0 %}
+{% assign all_posts = site.posts | where_exp: "post", "post.path contains 'everyday/housekeeping/'" | sort: 'date' | reverse %}
+{% for post in all_posts %}
+  {% if counter < 3 %}
+    {% assign counter = counter | plus: 1 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+  {% endif %}
+{% endfor %}
+{% if counter == 0 %}
+  <li>No housekeeping posts yet.</li>
+{% endif %}
+</ul>
+
+### Handyman
+<ul>
+{% assign counter = 0 %}
+{% assign all_posts = site.posts | where_exp: "post", "post.path contains 'everyday/handyman/'" | sort: 'date' | reverse %}
+{% for post in all_posts %}
+  {% if counter < 3 %}
+    {% assign counter = counter | plus: 1 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+  {% endif %}
+{% endfor %}
+{% if counter == 0 %}
+  <li>No handyman posts yet.</li>
+{% endif %}
+</ul>
+
+### Moonlighting
+<ul>
+{% assign counter = 0 %}
+{% assign all_posts = site.posts | where_exp: "post", "post.path contains 'everyday/moonlighting/'" | sort: 'date' | reverse %}
+{% for post in all_posts %}
+  {% if counter < 3 %}
+    {% assign counter = counter | plus: 1 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+  {% endif %}
+{% endfor %}
+{% if counter == 0 %}
+  <li>No moonlighting posts yet.</li>
+{% endif %}
+</ul>
+
+### Home Cooking
+<ul>
+{% assign counter = 0 %}
+{% assign all_posts = site.posts | where_exp: "post", "post.path contains 'everyday/home-cooking/'" | sort: 'date' | reverse %}
+{% for post in all_posts %}
+  {% if counter < 3 %}
+    {% assign counter = counter | plus: 1 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+  {% endif %}
+{% endfor %}
+{% if counter == 0 %}
+  <li>No home cooking posts yet.</li>
+{% endif %}
+</ul>
+
+### Personal Care
+<ul>
+{% assign counter = 0 %}
+{% assign all_posts = site.posts | where_exp: "post", "post.path contains 'everyday/personal-care/'" | sort: 'date' | reverse %}
+{% for post in all_posts %}
+  {% if counter < 3 %}
+    {% assign counter = counter | plus: 1 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+  {% endif %}
+{% endfor %}
+{% if counter == 0 %}
+  <li>No personal care posts yet.</li>
+{% endif %}
+</ul>
+
+### Fitness Training
+<ul>
+{% assign counter = 0 %}
+{% assign all_posts = site.posts | where_exp: "post", "post.path contains 'everyday/fitness-training/'" | sort: 'date' | reverse %}
+{% for post in all_posts %}
+  {% if counter < 3 %}
+    {% assign counter = counter | plus: 1 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+  {% endif %}
+{% endfor %}
+{% if counter == 0 %}
+  <li>No fitness training posts yet.</li>
+{% endif %}
+</ul>
+
+### Daily Prayer
+<ul>
+{% assign counter = 0 %}
+{% assign all_posts = site.posts | where_exp: "post", "post.path contains 'everyday/daily-prayer/'" | sort: 'date' | reverse %}
+{% for post in all_posts %}
+  {% if counter < 3 %}
+    {% assign counter = counter | plus: 1 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+  {% endif %}
+{% endfor %}
+{% if counter == 0 %}
+  <li>No daily prayer posts yet.</li>
+{% endif %}
+</ul>
+
+### Daily Budget
+<ul>
+{% assign counter = 0 %}
+{% assign all_posts = site.posts | where_exp: "post", "post.path contains 'everyday/daily-budget/'" | sort: 'date' | reverse %}
+{% for post in all_posts %}
+  {% if counter < 3 %}
+    {% assign counter = counter | plus: 1 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+  {% endif %}
+{% endfor %}
+{% if counter == 0 %}
+  <li>No daily budget posts yet.</li>
+{% endif %}
+</ul>
+
+[View all Everyday sub‑categories →](#)
+
+---
 
 ----
 
