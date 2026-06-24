@@ -3,6 +3,12 @@ layout: default
 title: Everyday Mode – Plebware Home
 ---
 
+<!-- ===== PLEBWARE CONSOLE ===== -->
+{% include dashboard.html %}
+
+<!-- Existing content below -->
+<h2>Everyday Sub‑Categories</h2>
+...
 # 🏠 Plebware
 
 **Accessible · Repairable · Understandable Technology**
