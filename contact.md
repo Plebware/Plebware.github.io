@@ -16,7 +16,7 @@ At present, we prefer written communication rather than telephone calls from unk
 
 For general enquiries, suggestions, collaboration opportunities, or feedback, please contact us via email:
 
-**[Email Address Coming Soon]**
+**plebware@gmail.com**
 
 ## 🐙 GitHub
 
