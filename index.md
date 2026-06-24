@@ -2,7 +2,7 @@
 layout: default
 title: Everyday Mode – Plebware Home
 ---
-
+ 
 <!-- ===== PLEBWARE CONSOLE ===== -->
 {% include dashboard.html %}
 
