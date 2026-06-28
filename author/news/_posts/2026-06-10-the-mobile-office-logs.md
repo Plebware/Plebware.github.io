@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Portable Publishing From The Field 🚗💻 | The Mobile Office Logs"
+title: "💻 | The Mobile Office Logs"
 date: 2026-06-10
 ---
 
