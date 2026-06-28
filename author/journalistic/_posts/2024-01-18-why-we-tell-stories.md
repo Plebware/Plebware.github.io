@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Captain's Log 0001 - Why We Tell Stories"
+title: "Why We Tell Stories"
 date: 2024-01-18
 ---
 
