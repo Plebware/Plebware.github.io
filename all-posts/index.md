@@ -11,3 +11,6 @@ title: All Posts
   <li>{{ forloop.index }}. <a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% endfor %}
 </ul>
+
+<!-- ===== PLEBWARE CONSOLE ===== -->
+{% include dashboard.html %}
