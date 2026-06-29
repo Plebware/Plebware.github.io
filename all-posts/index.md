@@ -12,5 +12,6 @@ title: All Posts
 {% endfor %}
 </ul>
 
+----
 <!-- ===== PLEBWARE CONSOLE ===== -->
 {% include dashboard.html %}
