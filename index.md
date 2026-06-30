@@ -23,7 +23,7 @@ PlebWare is best experienced on a desktop or large-screen device, where the full
 
 ### 📱 Mobile Viewing Notes
 
-After carefully reviewing the site's navigation, the decision was made to retain the current menu layout. Displaying four navigation items per row provides a compact overview of the platform and makes it easier to browse the many available sections without excessive scrolling.
+After reviewing the site's navigation, we decided to keep the current responsive menu layout. On smartphones, the navigation automatically displays **two items per row** for improved readability and easier touch interaction, while on larger screens it expands to **four items per row**, providing a compact overview of the platform and making it easier to browse the many available sections without excessive scrolling.
 
 For the best mobile experience, **Android users are encouraged to browse in Landscape Mode** 🔄📲, which provides additional horizontal space and delivers a cleaner, more desktop-like interface.
 
