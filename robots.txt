@@ -1,0 +1,41 @@
+# ==========================================================
+# robots.txt for https://plebware.github.io
+# PlebWare Personal Knowledge Publishing Platform
+# ==========================================================
+
+# Allow all search engines and web crawlers
+User-agent: *
+Allow: /
+
+# ----------------------------------------------------------
+# AI Crawlers
+# ----------------------------------------------------------
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic
+User-agent: ClaudeBot
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Google AI
+User-agent: Google-Extended
+Allow: /
+
+# Common Crawl
+User-agent: CCBot
+Allow: /
+
+# ----------------------------------------------------------
+# Sitemap
+# ----------------------------------------------------------
+
+Sitemap: https://plebware.github.io/sitemap.xml
