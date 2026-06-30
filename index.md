@@ -13,17 +13,44 @@ title: Everyday Mode – Plebware Home
      alt="Juelz and Otto have your back sticker"
      height="200">
      
-**Welcome to PlebWare** — a publishing and learning platform built around Linux, AI, writing, creativity, and the pursuit of lifelong learning.
+Welcome to **PlebWare** — a personal knowledge publishing platform dedicated to Linux, Artificial Intelligence, writing, creativity, research, and the pursuit of lifelong learning.
 
-This site is best experienced on a **PC or large-screen device**, although a great deal of work has gone into making it mobile-friendly and enjoyable to use on smartphones and tablets. 📱✨ **Mobile Viewing Note:** After reviewing the menu layout on **Plebware.github.io**, the decision has been made to keep the current menu design rather than reduce the links from four items per line to two. The existing layout provides a compact overview of the available sections and keeps navigation efficient on larger screens. Android users are recommended to use **Landscape Mode 🔄📲** when browsing the site, as this gives the menus more space and creates a cleaner, more desktop-like experience. 🖥️🚀 Plebware continues to focus on accessibility, practicality, and making the best use of available screen space. 🌐🔑
+Whether you're here to explore tutorials, discover new ideas, read articles, or simply satisfy your curiosity, PlebWare has been designed to make knowledge accessible, organised, and enjoyable to explore.
 
-Over the last fifty days, PlebWare has undergone a major rebuild from the ground up. The structure, content framework, and navigation systems have all been redesigned and refined.
+## 💻 Best Viewing Experience
 
-Today, the platform stands at approximately **99% completion and is fully functional**. The final 1% consists mainly of visual polishing, image refinements, and a small scaling issue on certain mobile devices.
+PlebWare is best experienced on a desktop or large-screen device, where the full navigation system and content layout can be appreciated. Considerable effort has also gone into ensuring the site remains mobile-friendly and comfortable to use on smartphones and tablets.
 
-Thank you for visiting, and welcome to the next chapter of PlebWare.
+### 📱 Mobile Viewing Notes
 
-**Otto and Juelz - Still at Your Service**
+After carefully reviewing the site's navigation, the decision was made to retain the current menu layout. Displaying four navigation items per row provides a compact overview of the platform and makes it easier to browse the many available sections without excessive scrolling.
+
+For the best mobile experience, **Android users are encouraged to browse in Landscape Mode** 🔄📲, which provides additional horizontal space and delivers a cleaner, more desktop-like interface.
+
+PlebWare continues to prioritise accessibility, practicality, and making the most effective use of available screen space.
+
+## 🚀 Platform Status
+
+Following an extensive architectural redesign and content reorganisation, the PlebWare platform has now entered its **Production & Publishing** phase.
+
+The site's core architecture is stable and operational, including:
+
+* ✅ Unified visual theme
+* ✅ Twelve knowledge modes
+* ✅ Comprehensive content taxonomy
+* ✅ Stable navigation system
+* ✅ GitHub Actions publishing workflow
+* ✅ AI governance and publishing policies
+* ✅ Integrated legacy projects
+* ✅ Scalable knowledge architecture
+
+With the platform itself now complete, the primary focus has shifted from development to **publishing, expanding, and continually refining the library of knowledge**. New articles, tutorials, white papers, devotionals, fiction, and research will continue to be added as the collection grows.
+
+Thank you for visiting PlebWare and being part of its continuing journey.
+
+**Otto & Juelz**
+*Still at Your Service.*
+
 
 🏆 🏆 🏆 🏆 🏆
 ## 🧹 Everyday Sub‑Categories
@@ -156,7 +183,7 @@ Thank you for visiting, and welcome to the next chapter of PlebWare.
 
 🟢 **PlebWare Status Report**
 
-Project Status: 99% Complete
+> Project Status: **The platform is complete. The library is just beginning.**
 Date: 22 June 2026
 
 ✅ **Completed**
