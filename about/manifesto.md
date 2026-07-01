@@ -80,15 +80,15 @@ publishing and education platform. That transformation was completed on
 **2026-06-30**, marking the beginning of continuous publication.
 ## 🔑 Historical Timeline
 
-| 📅 Date | 🏛️ Milestone |
-|:---------|:-------------|
-| **2006–2008** | The **PlebWare** identity emerged after the original **Biologicalware/Bioware** concept was abandoned due to an existing commercial trademark. The name **PlebWare** was chosen to reflect software and technology created for ordinary people. |
-| **2010-01-18** | **PlebWare** was officially founded with the registration of **plebware.com**, hosted by GreenGeeks. This marked the beginning of the original PlebWare project. |
-| **2010–2012** | The first public software collections, **PlebWare Office Pack** and **PlebWare Office Pack Lite**, were released through **CNET Download**, providing curated free productivity software for Windows users. These releases marked PlebWare's first publicly distributed software products. |
-| **2015-06-06** | **plebware.github.io** was established, laying the foundations for what would eventually become the modern PlebWare website. |
-| **2020** | **plebware.com** was retired following the COVID era. The original CNET publisher account also became inaccessible after the associated domain and email account were lost, leaving the Office Pack releases as historical archives. |
-| **2026-05-25** | A complete redevelopment of **PlebWare** commenced, transforming the project from a software-focused initiative into a publishing and education platform centred on Linux, artificial intelligence, writing, creativity, and lifelong learning. |
-| **2026-06-30** | **PlebWare Publishing & Education Platform Version 1.0** was completed and officially launched on GitHub Pages, representing the culmination of over sixteen years of continuous evolution. |
+| 📅 Date           | 🏛️ Milestone |
+|:------------------|:-------------|
+| **2006–2008**     | The **PlebWare** identity emerged after the original **Biologicalware/Bioware** concept was abandoned due to an existing commercial trademark. The name **PlebWare** was chosen to reflect software and technology created for ordinary people. |
+| **2010-01-18**    | **PlebWare** was officially founded with the registration of **plebware.com**, hosted by GreenGeeks. This marked the beginning of the original PlebWare project. |
+| **2010–2012**     | The first public software collections, **PlebWare Office Pack** and **PlebWare Office Pack Lite**, were released through **CNET Download**, providing curated free productivity software for Windows users. These releases marked PlebWare's first publicly distributed software products. |
+| **2015-06-06**    | **plebware.github.io** was established, laying the foundations for what would eventually become the modern PlebWare website. |
+| **2020**      | **plebware.com** was retired following the COVID era. The original CNET publisher account also became inaccessible after the associated domain and email account were lost, leaving the Office Pack releases as historical archives. |
+| **2026-05-25**     | A complete redevelopment of **PlebWare** commenced, transforming the project from a software-focused initiative into a publishing and education platform centred on Linux, artificial intelligence, writing, creativity, and lifelong learning. |
+| **2026-06-30**     | **PlebWare Publishing & Education Platform Version 1.0** was completed and officially launched on GitHub Pages, representing the culmination of over sixteen years of continuous evolution. |
 
 > The history of PlebWare spans more than sixteen years. Although the technologies and platforms have evolved, the project's mission has remained constant: to make technology more accessible, understandable, and useful for ordinary people.
 
