@@ -17,6 +17,39 @@ Welcome to **PlebWare** — a personal knowledge publishing platform dedicated t
 
 Whether you're here to explore tutorials, discover new ideas, read articles, or simply satisfy your curiosity, PlebWare has been designed to make knowledge accessible, organised, and enjoyable to explore.
 
+Thank you for visiting PlebWare and being part of its continuing journey.
+
+**Otto & Juelz**
+*Still at Your Service.*
+
+----
+
+## 📅 What's New This Week
+
+{% assign week_ago = site.time | date: "%s" | minus: 604800 %}
+{% assign week_posts = "" | split: "" %}
+{% for post in site.posts %}
+  {% assign post_date = post.date | date: "%s" | plus: 0 %}
+  {% if post_date >= week_ago %}
+    {% assign week_posts = week_posts | push: post %}
+  {% endif %}
+{% endfor %}
+
+{% if week_posts.size > 0 %}
+  <ul>
+  {% for post in week_posts limit: 10 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+  {% else %}
+    <li>No new posts this week.</li>
+  {% endfor %}
+  </ul>
+  <p><a href="/recent/">See all recent posts →</a></p>
+{% else %}
+  <p>No new posts this week. Check back soon!</p>
+{% endif %}
+
+----
+
 ## 💻 Best Viewing Experience
 
 PlebWare is best experienced on a desktop or large-screen device, where the full navigation system and content layout can be appreciated. Considerable effort has also gone into ensuring the site remains mobile-friendly and comfortable to use on smartphones and tablets.
@@ -46,35 +79,6 @@ The site's core architecture is stable and operational, including:
 
 With the platform itself now complete, the primary focus has shifted from development to **publishing, expanding, and continually refining the library of knowledge**. New articles, tutorials, white papers, devotionals, fiction, and research will continue to be added as the collection grows.
 
-Thank you for visiting PlebWare and being part of its continuing journey.
-
-**Otto & Juelz**
-*Still at Your Service.*
-## 📅 What's New This Week
-
-{% assign week_ago = site.time | date: "%s" | minus: 604800 %}
-{% assign week_posts = "" | split: "" %}
-{% for post in site.posts %}
-  {% assign post_date = post.date | date: "%s" | plus: 0 %}
-  {% if post_date >= week_ago %}
-    {% assign week_posts = week_posts | push: post %}
-  {% endif %}
-{% endfor %}
-
-{% if week_posts.size > 0 %}
-  <ul>
-  {% for post in week_posts limit: 10 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
-  {% else %}
-    <li>No new posts this week.</li>
-  {% endfor %}
-  </ul>
-  <p><a href="/recent/">See all recent posts →</a></p>
-{% else %}
-  <p>No new posts this week. Check back soon!</p>
-{% endif %}
-
----
 
 🏆 🏆 🏆 🏆 🏆
 ## 🧹 Everyday Sub‑Categories
