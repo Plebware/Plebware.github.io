@@ -1,7 +1,7 @@
 title: "Plebware Control Centre"
 baseurl: ""
 url: "https://plebware.github.io"
-
+repository: Plebware/Plebware.github.io   # ← Add this line
 plugins:
   - jekyll-remote-theme
 
