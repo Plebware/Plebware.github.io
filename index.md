@@ -6,7 +6,7 @@ title: Everyday Mode – Plebware Home
 <!-- ===== PLEBWARE CONSOLE ===== -->
 {% include dashboard.html %}
 
-# 🏠 Plebware
+# 🏠 Plebware 
 
 **Accessible · Repairable · Understandable Technology**
 
