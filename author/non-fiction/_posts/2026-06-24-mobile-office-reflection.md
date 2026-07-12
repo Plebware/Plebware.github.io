@@ -55,3 +55,21 @@ Yet for a few hours each day, five days a week, it becomes exactly that.
 💡 A thinking room.
 
 And for now, it is where much of my journey as a writer continues.
+
+----
+
+<!-- Comments Section -->
+<div id="comments-section">
+    <h3>Comments</h3>
+    <div id="utterances-container"></div>
+</div>
+
+<script src="https://utteranc.es/client.js"
+    repo="plebware/plebware.github.io"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
+
+
