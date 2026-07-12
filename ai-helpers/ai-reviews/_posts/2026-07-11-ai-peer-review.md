@@ -8,7 +8,7 @@ mode: "AI Section"
 
 ## The Social Experiment
 
-Saturday evening. Crown Mines. Waiting for the cold drinks purchaser.  
+Saturday morning. Crown Mines. Waiting for the cold drinks purchaser.  
 Bored. Bum shoulder. Borrowed Ford Ranger.
 
 So I did what any Pleb with a Vivo V20 and too many AI apps would do:  
