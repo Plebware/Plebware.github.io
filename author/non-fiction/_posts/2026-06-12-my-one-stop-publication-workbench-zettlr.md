@@ -296,3 +296,21 @@ It has become the central workshop where ideas are transformed into published wo
 ---
 
 *"Every article, every devotion, every technical paper, and every story begins as a single note."*
+
+----
+
+<!-- Comments Section -->
+<div id="comments-section">
+    <h3>Comments</h3>
+    <div id="utterances-container"></div>
+</div>
+
+<script src="https://utteranc.es/client.js"
+    repo="plebware/plebware.github.io"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
+
+
