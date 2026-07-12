@@ -8,6 +8,16 @@ title: Housekeeping
 Good housekeeping extends far beyond keeping a home neat. It is the practice of maintaining order, cleanliness, efficiency, and reliability in every environment we depend upon — from our living spaces and workplaces to our computers, websites, and digital projects.
 
 Housekeeping covers daily cleaning routines, home organisation strategies, maintenance schedules, decluttering methods, and practical systems that help prevent small problems from becoming larger ones. A well-maintained environment saves time, reduces stress, improves productivity, and extends the lifespan of the tools and equipment we use every day.
+----
+<ul>
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'everyday/housekeeping/'" %}
+{% for post in posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No housekeeping posts yet.</li>
+{% endfor %}
+</ul>
+----
 
 ### 🏠 Home & Property Maintenance
 
@@ -75,11 +85,3 @@ The goal is not perfection, but consistency. Small maintenance tasks performed r
 
 Good housekeeping is ultimately about stewardship — caring for the resources, tools, information, and spaces entrusted to us so they remain useful, organised, and ready for the work ahead.
 
-<ul>
-{% assign posts = site.posts | where_exp: "post", "post.path contains 'everyday/housekeeping/'" %}
-{% for post in posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
-{% else %}
-  <li>No housekeeping posts yet.</li>
-{% endfor %}
-</ul>
