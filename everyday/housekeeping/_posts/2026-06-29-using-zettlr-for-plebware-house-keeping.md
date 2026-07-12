@@ -45,12 +45,6 @@ date: 2026-06-29
 </script>
 
 ```
-### Console
-
-```
-<!-- ===== PLEBWARE CONSOLE ===== -->
-{% include dashboard.html %}
-```
 
 ## Why This Article?
 
