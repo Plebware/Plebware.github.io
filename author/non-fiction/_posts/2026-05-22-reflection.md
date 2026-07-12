@@ -186,3 +186,21 @@ And maybe Goal 111 should not simply be “learn how to count.” Maybe it shoul
 That may be the hardest goal of them all.
 
 I wrote this piece to reveal a small portion of my soul, to show the severity of the grind I find myself in, and hopefully one day soon I can look back to this piece of writing and say it was just a difficult chapter in an old-mans life.
+
+----
+
+<!-- Comments Section -->
+<div id="comments-section">
+    <h3>Comments</h3>
+    <div id="utterances-container"></div>
+</div>
+
+<script src="https://utteranc.es/client.js"
+    repo="plebware/plebware.github.io"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
+
+
