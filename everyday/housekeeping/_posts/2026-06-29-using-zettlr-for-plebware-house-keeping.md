@@ -16,35 +16,7 @@ The preferred Editor Zettlr is a Markdown editor, which means that it mostly wor
 3. Lists are created literally — simply write `*`, `-`, or `+` on a new line. Numbered lists consist of a number followed by a dot.
 4. Finally, blockquotes are written exactly as quoted text is displayed in e-mails: Simply demarcate them using `>`.
 
-## Extra Formatting For GitHub
 
-### Front Matter
-
-```
----
-layout: post
-title: "Why Cookbooks Matter"
-date: 2026-06-29
----
-```
-#### Comments Code
-
-```
-<!-- Comments Section -->
-<div id="comments-section">
-    <h3>Comments</h3>
-    <div id="utterances-container"></div>
-</div>
-
-<script src="https://utteranc.es/client.js"
-    repo="plebware/plebware.github.io"
-    issue-term="pathname"
-    theme="github-light"
-    crossorigin="anonymous"
-    async>
-</script>
-
-```
 
 ## Why This Article?
 
