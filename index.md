@@ -188,6 +188,19 @@ With the platform itself now complete, the primary focus has shifted from develo
   <li>No daily prayer posts yet.</li>
 {% endif %}
 </ul>
+<!-- Comments Section -->
+<div id="comments-section">
+    <h3>Comments</h3>
+    <div id="utterances-container"></div>
+</div>
+
+<script src="https://utteranc.es/client.js"
+    repo="plebware/plebware.github.io"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
 
 ### Daily Budget
 <ul>
