@@ -14,7 +14,7 @@ title: Everyday Mode – Plebware Home
      alt="Juelz and Otto have your back sticker"
      height="200">
      
-Welcome to **PlebWare** — a personal knowledge publishing platform dedicated to Linux, Artificial Intelligence, writing, creativity, research, and the pursuit of lifelong learning.
+Welcome to **PlebWare** — a personal knowledge publishing platform dedicated to Linux, Artificial Intelligence, writing, creativity, research, and the pursuit of lifelong learning. 
 
 Whether you're here to explore tutorials, discover new ideas, read articles, or simply satisfy your curiosity, PlebWare has been designed to make knowledge accessible, organised, and enjoyable to explore.
 
