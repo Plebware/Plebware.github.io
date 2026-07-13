@@ -132,3 +132,93 @@ Trust isn't rebuilt by speeches. It's rebuilt by ordinary people.
 Perhaps society hasn't become filled with bad people. Perhaps it has become filled with tired people. People carrying burdens nobody sees. People who have watched trust break one promise at a time.
 
  If we want a different society, rebuilding confidence won't begin in parliament or boardrooms. It begins when ordinary people choose honesty over convenience, kindness over anger, and integrity over cynicism. Trust, once lost, returns one small act at a time.
+
+ ----
+
+ <!-- Comments Section -->
+<div id="comments-section">
+    <h3>💬 Comments</h3>
+    <div id="utterances-container"></div>
+</div>
+
+<script>
+    // === UTTERANCES WITH DYNAMIC THEME ===
+    (function() {
+        'use strict';
+        
+        let currentTheme = null;
+        
+        function loadUtterances(theme) {
+            const container = document.getElementById('utterances-container');
+            if (!container) return;
+            
+            // Clear container
+            container.innerHTML = '';
+            
+            // Create new script
+            const script = document.createElement('script');
+            script.src = 'https://utteranc.es/client.js';
+            script.setAttribute('repo', 'plebware/plebware.github.io');
+            script.setAttribute('issue-term', 'pathname');
+            script.setAttribute('theme', theme);
+            script.setAttribute('crossorigin', 'anonymous');
+            script.async = true;
+            
+            // Add to container
+            container.appendChild(script);
+            currentTheme = theme;
+        }
+        
+        function getTheme() {
+            const isDark = document.body.classList.contains('dark-theme');
+            return isDark ? 'github-dark' : 'github-light';
+        }
+        
+        // Initialize on page load
+        function init() {
+            const theme = getTheme();
+            loadUtterances(theme);
+        }
+        
+        // Handle theme changes
+        function onThemeChange() {
+            const newTheme = getTheme();
+            if (newTheme !== currentTheme) {
+                loadUtterances(newTheme);
+            }
+        }
+        
+        // Listen for theme changes via custom event
+        document.addEventListener('themeChanged', onThemeChange);
+        
+        // Also listen for class changes as backup
+        const observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.attributeName === 'class') {
+                    onThemeChange();
+                }
+            });
+        });
+        
+        // Start everything when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                init();
+                observer.observe(document.body, { 
+                    attributes: true, 
+                    attributeFilter: ['class'] 
+                });
+            });
+        } else {
+            init();
+            observer.observe(document.body, { 
+                attributes: true, 
+                attributeFilter: ['class'] 
+            });
+        }
+        
+    })();
+</script>
+
+
+----
