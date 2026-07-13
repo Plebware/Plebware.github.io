@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "Personal Copy and Paste Codes"
-date: 2026-07-12
+title: "Prologue Wrap-up"
+date: 2026-07-13
+category: "housekeeping"
+tags: [copy, paste, front-matter, comments, badges,]
+mode: "everyday"
+author: Otto Brinkmeier
 ---
 
-Copy and Paste element for this site
+# **Copy and paste** elements for this site
 
 ## Extra Formatting For GitHub
 
-### Front Matter
+## **Front Matter**
 
 ```
 ---
@@ -18,20 +22,21 @@ date: 2026-06-29
 ---
 ```
 
-### **New Front Matter **
+### **New Front Matter**
 
 ```
 ---
 layout: post
 title: "Prologue Wrap-up"
-date: 2026-06-24
+date: 2026-07-13
 category: "fiction"
-tags: [space-opera, starship-frederick, freedom-station, rebellions-dawn, captain-cody, unity-gallactic-command, teaser]
+tags: [tag1, tag2, tag3, tag4, tag5, tag6, tag7]
 mode: "author"
+author: Otto Brinkmeier
 ---
 ```
 
-#### Comments Code
+### **Comments Code**
 
 ```
 <!-- Comments Section -->
@@ -118,6 +123,15 @@ mode: "author"
         
     })();
 </script>
+```
+## **Badges**
+
+```
+<div align="center">
+  <img src="https://github.com/plebware/plebware.github.io/actions/workflows/YOUR_FILENAME.yml/badge.svg" alt="Build Status">
+  <img src="https://img.shields.io/github/last-commit/plebware/plebware.github.io" alt="Last Commit">
+  <img src="https://img.shields.io/github/deployments/plebware/plebware.github.io/github-pages" alt="Deployment Status">
+</div>
 ```
 
 <!-- Comments Section -->
