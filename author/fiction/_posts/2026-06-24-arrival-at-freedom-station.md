@@ -2,7 +2,12 @@
 layout: post
 title: "Prologue Wrap-up"
 date: 2026-06-24
+category: "fiction"
+tags: [space-opera, starship-frederick, freedom-station, rebellions-dawn, captain-cody, unity-gallactic-command, teaser]
+mode: "author"
 ---
+
+
 ## Arrival at Freedom Station
 
 The Starship Frederick docked at Freedom Station, its sleek form a stark contrast to the utilitarian structure of the station. The welcoming committee awaited them: General Marcus Steele, Admiral Lyra Nova, Commander Zara Synth, Captain Orion Frost, and Chancellor Kaelen Swift.
@@ -50,3 +55,97 @@ Admiral Boyd Bowman added, _“We must also consider the possibility of sabotage
 Reverend James Pratt, his presence serene yet authoritative, spoke last. _“We face a darkness that seeks to divide and destroy. Unity is our greatest strength. Together, we will overcome this threat”_
 
 As the meeting continued, it became clear that The Unity faced an unprecedented threat. The delegates strategised late into the night, aware that the fate of the galaxy hung in the balance.
+
+a short teaser
+
+by **O.C. Verrocchio**
+
+-----
+
+<!-- Comments Section -->
+<div id="comments-section">
+    <h3>💬 Comments</h3>
+    <div id="utterances-container"></div>
+</div>
+
+<script>
+    // === UTTERANCES WITH DYNAMIC THEME ===
+    (function() {
+        'use strict';
+        
+        let currentTheme = null;
+        
+        function loadUtterances(theme) {
+            const container = document.getElementById('utterances-container');
+            if (!container) return;
+            
+            // Clear container
+            container.innerHTML = '';
+            
+            // Create new script
+            const script = document.createElement('script');
+            script.src = 'https://utteranc.es/client.js';
+            script.setAttribute('repo', 'plebware/plebware.github.io');
+            script.setAttribute('issue-term', 'pathname');
+            script.setAttribute('theme', theme);
+            script.setAttribute('crossorigin', 'anonymous');
+            script.async = true;
+            
+            // Add to container
+            container.appendChild(script);
+            currentTheme = theme;
+        }
+        
+        function getTheme() {
+            const isDark = document.body.classList.contains('dark-theme');
+            return isDark ? 'github-dark' : 'github-light';
+        }
+        
+        // Initialize on page load
+        function init() {
+            const theme = getTheme();
+            loadUtterances(theme);
+        }
+        
+        // Handle theme changes
+        function onThemeChange() {
+            const newTheme = getTheme();
+            if (newTheme !== currentTheme) {
+                loadUtterances(newTheme);
+            }
+        }
+        
+        // Listen for theme changes via custom event
+        document.addEventListener('themeChanged', onThemeChange);
+        
+        // Also listen for class changes as backup
+        const observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.attributeName === 'class') {
+                    onThemeChange();
+                }
+            });
+        });
+        
+        // Start everything when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                init();
+                observer.observe(document.body, { 
+                    attributes: true, 
+                    attributeFilter: ['class'] 
+                });
+            });
+        } else {
+            init();
+            observer.observe(document.body, { 
+                attributes: true, 
+                attributeFilter: ['class'] 
+            });
+        }
+        
+    })();
+</script>
+
+
+----
