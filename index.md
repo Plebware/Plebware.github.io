@@ -8,7 +8,6 @@ mode: "everyday"
 ---
 
 -----
-
 # **PlebWare's Index Page**
 
 -----
