@@ -2,7 +2,10 @@
 layout: default
 title: Everyday Mode – Plebware Home
 ---  
-![Deploy Jekyll site to Pages](https://github.com/plebware/plebware.github.io/actions/workflows/jekyll.yml/badge.svg)
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/plebware/plebware.github.io" alt="Last Commit">
+  <img src="https://img.shields.io/github/deployments/plebware/plebware.github.io/github-pages" alt="Deployment Status">
+</div>
 -----
 <!-- ===== PLEBWARE CONSOLE ===== -->
 {% include dashboard.html %}
