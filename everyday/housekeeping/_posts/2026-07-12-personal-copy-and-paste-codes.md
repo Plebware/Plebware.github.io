@@ -22,11 +22,12 @@ date: 2026-06-29
 
 ```
 ---
-title: "AI Peer Review: What 4 AIs Say About Otto"
-date: 2026-07-11
-category: "AI Section"
-tags: [ai, plebware, self-review, gemini, chatgpt, deepseek, meta-ai]
-mode: "AI Section"
+layout: post
+title: "Prologue Wrap-up"
+date: 2026-06-24
+category: "fiction"
+tags: [space-opera, starship-frederick, freedom-station, rebellions-dawn, captain-cody, unity-gallactic-command, teaser]
+mode: "author"
 ---
 ```
 
