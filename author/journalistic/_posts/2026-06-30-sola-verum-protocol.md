@@ -106,7 +106,7 @@ I am **not against Artificial Intelligence**.
 
 I stand for the **ethical, transparent, and responsible use of AI**.
 
-I oppose the creation and distribution of **deep fakes**, deceptive synthetic media, and every form of irresponsible AI usage that seeks to undermine trust, truth, and human dignity.
+I oppose the creation and distribution of **deepfakes**, deceptive synthetic media, and every form of irresponsible AI usage that seeks to undermine trust, truth, and human dignity.
 
 The future of Artificial Intelligence should not be built upon deception.
 
@@ -118,3 +118,93 @@ It should be built upon **truth**, **accountability**, and **integrity**.
 > *Truth Above Fabrication.*
 > *Integrity Above Influence.*
 > *Transparency Above Deception.*
+
+----
+
+<!-- Comments Section -->
+<div id="comments-section">
+    <h3>💬 Comments</h3>
+    <div id="utterances-container"></div>
+</div>
+
+<script>
+    // === UTTERANCES WITH DYNAMIC THEME ===
+    (function() {
+        'use strict';
+        
+        let currentTheme = null;
+        
+        function loadUtterances(theme) {
+            const container = document.getElementById('utterances-container');
+            if (!container) return;
+            
+            // Clear container
+            container.innerHTML = '';
+            
+            // Create new script
+            const script = document.createElement('script');
+            script.src = 'https://utteranc.es/client.js';
+            script.setAttribute('repo', 'plebware/plebware.github.io');
+            script.setAttribute('issue-term', 'pathname');
+            script.setAttribute('theme', theme);
+            script.setAttribute('crossorigin', 'anonymous');
+            script.async = true;
+            
+            // Add to container
+            container.appendChild(script);
+            currentTheme = theme;
+        }
+        
+        function getTheme() {
+            const isDark = document.body.classList.contains('dark-theme');
+            return isDark ? 'github-dark' : 'github-light';
+        }
+        
+        // Initialize on page load
+        function init() {
+            const theme = getTheme();
+            loadUtterances(theme);
+        }
+        
+        // Handle theme changes
+        function onThemeChange() {
+            const newTheme = getTheme();
+            if (newTheme !== currentTheme) {
+                loadUtterances(newTheme);
+            }
+        }
+        
+        // Listen for theme changes via custom event
+        document.addEventListener('themeChanged', onThemeChange);
+        
+        // Also listen for class changes as backup
+        const observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.attributeName === 'class') {
+                    onThemeChange();
+                }
+            });
+        });
+        
+        // Start everything when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                init();
+                observer.observe(document.body, { 
+                    attributes: true, 
+                    attributeFilter: ['class'] 
+                });
+            });
+        } else {
+            init();
+            observer.observe(document.body, { 
+                attributes: true, 
+                attributeFilter: ['class'] 
+            });
+        }
+        
+    })();
+</script>
+
+
+-----
