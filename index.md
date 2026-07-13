@@ -2,6 +2,7 @@
 layout: default
 title: Everyday Mode – Plebware Home
 ---  
+![Deploy Jekyll site to Pages](https://github.com/plebware/plebware.github.io/actions/workflows/jekyll.yml/badge.svg)
 -----
 <!-- ===== PLEBWARE CONSOLE ===== -->
 {% include dashboard.html %}
