@@ -63,9 +63,7 @@ Jesus never promised His followers an easy world.
 
 Instead He said:
 
-> "In this world you will have trouble. But take heart! I have overcome the world."
->
-> — John 16:33
+> "_In this world you will have trouble. But take heart! I have overcome the world._" — **John 16:33**
 
 Our confidence is not built upon today's headlines.
 
@@ -117,6 +115,93 @@ Not because life is easy.
 
 But because hope is stronger than today's headlines.
 
-> "Be joyful in hope, patient in affliction, faithful in prayer."
->
-> — Romans 12:12
+> "_Be joyful in hope, patient in affliction, faithful in prayer._" — **Romans 12:12**
+
+----
+
+<!-- Comments Section -->
+<div id="comments-section">
+    <h3>💬 Comments</h3>
+    <div id="utterances-container"></div>
+</div>
+
+<script>
+    // === UTTERANCES WITH DYNAMIC THEME ===
+    (function() {
+        'use strict';
+        
+        let currentTheme = null;
+        
+        function loadUtterances(theme) {
+            const container = document.getElementById('utterances-container');
+            if (!container) return;
+            
+            // Clear container
+            container.innerHTML = '';
+            
+            // Create new script
+            const script = document.createElement('script');
+            script.src = 'https://utteranc.es/client.js';
+            script.setAttribute('repo', 'plebware/plebware.github.io');
+            script.setAttribute('issue-term', 'pathname');
+            script.setAttribute('theme', theme);
+            script.setAttribute('crossorigin', 'anonymous');
+            script.async = true;
+            
+            // Add to container
+            container.appendChild(script);
+            currentTheme = theme;
+        }
+        
+        function getTheme() {
+            const isDark = document.body.classList.contains('dark-theme');
+            return isDark ? 'github-dark' : 'github-light';
+        }
+        
+        // Initialize on page load
+        function init() {
+            const theme = getTheme();
+            loadUtterances(theme);
+        }
+        
+        // Handle theme changes
+        function onThemeChange() {
+            const newTheme = getTheme();
+            if (newTheme !== currentTheme) {
+                loadUtterances(newTheme);
+            }
+        }
+        
+        // Listen for theme changes via custom event
+        document.addEventListener('themeChanged', onThemeChange);
+        
+        // Also listen for class changes as backup
+        const observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.attributeName === 'class') {
+                    onThemeChange();
+                }
+            });
+        });
+        
+        // Start everything when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                init();
+                observer.observe(document.body, { 
+                    attributes: true, 
+                    attributeFilter: ['class'] 
+                });
+            });
+        } else {
+            init();
+            observer.observe(document.body, { 
+                attributes: true, 
+                attributeFilter: ['class'] 
+            });
+        }
+        
+    })();
+</script>
+
+---
