@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prologue Wrap-up"
+title: "Personal Copy and Paste Codes"
 date: 2026-07-13
 category: "housekeeping"
 tags: [copy, paste, front-matter, comments, badges,]
