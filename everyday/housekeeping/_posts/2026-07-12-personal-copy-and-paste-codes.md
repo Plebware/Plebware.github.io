@@ -12,7 +12,7 @@ author: Otto Brinkmeier
 
 ## Extra Formatting For GitHub
 
-## **Front Matter**
+### **Front Matter**
 
 ```
 ---
