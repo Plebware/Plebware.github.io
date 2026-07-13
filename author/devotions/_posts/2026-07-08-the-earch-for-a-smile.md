@@ -140,4 +140,93 @@ Jesus said:
 
  Gracious Father, thank You for meeting us in ordinary places, for speaking through winter mornings, singing birds, unexpected reminders and quiet moments of reflection; help us to continue when our strength is small, to trust You when our smiles are slow to return, to remember that Your mercies are new every morning, and to walk faithfully with our eyes fixed on Jesus until the day our searching gives way to everlasting joy, in His precious name we pray, Amen.
 
-🗡️ God's Journalist in conjunction with ChatGPT and the Holy Spirit
+🗡️ **_God's Journalist_** in conjunction with _ChatGPT_ and the **Holy Spirit**
+
+----
+
+<!-- Comments Section -->
+<div id="comments-section">
+    <h3>💬 Comments</h3>
+    <div id="utterances-container"></div>
+</div>
+
+<script>
+    // === UTTERANCES WITH DYNAMIC THEME ===
+    (function() {
+        'use strict';
+        
+        let currentTheme = null;
+        
+        function loadUtterances(theme) {
+            const container = document.getElementById('utterances-container');
+            if (!container) return;
+            
+            // Clear container
+            container.innerHTML = '';
+            
+            // Create new script
+            const script = document.createElement('script');
+            script.src = 'https://utteranc.es/client.js';
+            script.setAttribute('repo', 'plebware/plebware.github.io');
+            script.setAttribute('issue-term', 'pathname');
+            script.setAttribute('theme', theme);
+            script.setAttribute('crossorigin', 'anonymous');
+            script.async = true;
+            
+            // Add to container
+            container.appendChild(script);
+            currentTheme = theme;
+        }
+        
+        function getTheme() {
+            const isDark = document.body.classList.contains('dark-theme');
+            return isDark ? 'github-dark' : 'github-light';
+        }
+        
+        // Initialize on page load
+        function init() {
+            const theme = getTheme();
+            loadUtterances(theme);
+        }
+        
+        // Handle theme changes
+        function onThemeChange() {
+            const newTheme = getTheme();
+            if (newTheme !== currentTheme) {
+                loadUtterances(newTheme);
+            }
+        }
+        
+        // Listen for theme changes via custom event
+        document.addEventListener('themeChanged', onThemeChange);
+        
+        // Also listen for class changes as backup
+        const observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.attributeName === 'class') {
+                    onThemeChange();
+                }
+            });
+        });
+        
+        // Start everything when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                init();
+                observer.observe(document.body, { 
+                    attributes: true, 
+                    attributeFilter: ['class'] 
+                });
+            });
+        } else {
+            init();
+            observer.observe(document.body, { 
+                attributes: true, 
+                attributeFilter: ['class'] 
+            });
+        }
+        
+    })();
+</script>
+
+----
