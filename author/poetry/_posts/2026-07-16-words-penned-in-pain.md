@@ -18,11 +18,11 @@ author: Otto Brinkmeier
 Accusations rain,  
 Oh, what bitter pain.
 
-*"If you were only wise,*  
-*You'd have won a better prize."*
+"If you were only wise,  
+You'd have won a better prize."
 
-*"It is your fault the cat won't stay;*  
-*Your anger chased its heart away."*
+"It is your fault the cat won't stay;  
+Your anger chased its heart away."
 
 Daily they make my own heart break,  
 Like being forced to eat sour cake.
