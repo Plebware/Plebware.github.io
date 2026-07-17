@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Music Mode
+title: Music Mode – Open Source Audio Production & Music Creation | PlebWare
 ---
 
-# 🎵 Music Mode – Open Source Audio Production & Music Creation | PlebWare
+# 🎵 Music Mode 
+
+Learn audio production on Linux using Audacity, MIXXX, LMMS, Ardour and other open-source music tools.
 
 ## FL Studio
 <ul>
