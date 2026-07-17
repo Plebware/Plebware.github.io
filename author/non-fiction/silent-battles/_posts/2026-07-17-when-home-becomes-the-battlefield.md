@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Silent Battles – Part 1 - relentless stress"
+title: "Silent Battles – Part 1 - Relentless Stress"
 date: 2026-07-17
 category: "non-fiction"
 tags: [stress, arguments, complaints, shouting, cussing, profanity, rage]
