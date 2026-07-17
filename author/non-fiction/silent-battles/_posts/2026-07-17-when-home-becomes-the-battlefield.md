@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔑 When Home Becomes the Battlefield"
+title: "Silent Battles – Part 1 - relentless stress"
 date: 2026-07-17
 category: "non-fiction"
 tags: [stress, arguments, complaints, shouting, cussing, profanity, rage]
@@ -8,8 +8,8 @@ mode: "author"
 author: Otto Brinkmeier
 ---
 
-
-# **The Hidden Weight of Constant Stress**
+# 🔑 When Faith Is Drowning - When Home Becomes the Battlefield
+## **The Hidden Weight of Constant Stress**
 
 *By O.C. Verrocchio*
 
