@@ -3,7 +3,7 @@ layout: default
 title: Music Mode
 ---
 
-# 🎵 Music Mode
+# 🎵 Music Mode – Open Source Audio Production & Music Creation | PlebWare
 
 ## FL Studio
 <ul>
