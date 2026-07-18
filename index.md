@@ -222,7 +222,7 @@ With the platform itself now complete, the primary focus has shifted from develo
 🟢 **PlebWare Status Report**
 
 > Project Status: **The platform is complete. The library is just beginning.**
-Date: {{ site.time | date: "%d %B %Y" }}
+> Date: {{ site.time | date: "%d %B %Y" }}
 
 ✅ **Completed**
 Unified theme system operational
