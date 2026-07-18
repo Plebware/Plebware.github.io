@@ -30,9 +30,9 @@ Thank you for visiting PlebWare and being part of its continuing journey.
 
 **Otto & Juelz**
 *Always at Your Service.*
-
+<br>
 ----
-
+<br>
 ## 📅 What's New This Week
 
 {% assign week_ago = site.time | date: "%s" | minus: 604800 %}
@@ -58,11 +58,11 @@ Thank you for visiting PlebWare and being part of its continuing journey.
 {% endif %}
 
 ----
-
+<br>
 ## 💻 Best Viewing Experience
 
 PlebWare is best experienced on a desktop or large-screen device, where the full navigation system and content layout can be appreciated. Considerable effort has also gone into ensuring the site remains mobile-friendly and comfortable to use on smartphones and tablets.
-
+<br>
 ### 📱 Mobile Viewing Notes
 
 After reviewing the site's navigation, we decided to keep the current responsive menu layout. On smartphones, the navigation automatically displays **two items per row** for improved readability and easier touch interaction, while on larger screens it expands to **four items per row**, providing a compact overview of the platform and making it easier to browse the many available sections without excessive scrolling.
@@ -70,7 +70,7 @@ After reviewing the site's navigation, we decided to keep the current responsive
 For the best mobile experience, **Android users are encouraged to browse in Landscape Mode** 🔄📲, which provides additional horizontal space and delivers a cleaner, more desktop-like interface.
 
 PlebWare continues to prioritise accessibility, practicality, and making the most effective use of available screen space.
-
+<br>
 ## 🚀 Platform Status
 
 Following an extensive architectural redesign and content reorganisation, the PlebWare platform has now entered its **Production & Publishing** phase.
@@ -87,11 +87,11 @@ The site's core architecture is stable and operational, including:
 * ✅ Scalable knowledge architecture
 
 With the platform itself now complete, the primary focus has shifted from development to **publishing, expanding, and continually refining the library of knowledge**. New articles, tutorials, white papers, devotionals, fiction, and research will continue to be added as the collection grows.
-
+<br>
 
 🏆 🏆 🏆 🏆 🏆
 ## 🧹 Everyday Sub‑Categories
-
+<br>
 ### Housekeeping
 <ul>
 {% assign counter = 0 %}
@@ -106,7 +106,7 @@ With the platform itself now complete, the primary focus has shifted from develo
   <li>No housekeeping posts yet.</li>
 {% endif %}
 </ul>
-
+<br>
 ### Handyman
 <ul>
 {% assign counter = 0 %}
@@ -121,7 +121,7 @@ With the platform itself now complete, the primary focus has shifted from develo
   <li>No handyman posts yet.</li>
 {% endif %}
 </ul>
-
+<br>
 ### Moonlighting
 <ul>
 {% assign counter = 0 %}
@@ -136,7 +136,7 @@ With the platform itself now complete, the primary focus has shifted from develo
   <li>No moonlighting posts yet.</li>
 {% endif %}
 </ul>
-
+<br>
 ### Home Cooking
 <ul>
 {% assign counter = 0 %}
@@ -151,7 +151,7 @@ With the platform itself now complete, the primary focus has shifted from develo
   <li>No home cooking posts yet.</li>
 {% endif %}
 </ul>
-
+<br>
 ### Personal Care
 <ul>
 {% assign counter = 0 %}
@@ -166,7 +166,7 @@ With the platform itself now complete, the primary focus has shifted from develo
   <li>No personal care posts yet.</li>
 {% endif %}
 </ul>
-
+<br>
 ### Fitness Training
 <ul>
 {% assign counter = 0 %}
@@ -181,7 +181,7 @@ With the platform itself now complete, the primary focus has shifted from develo
   <li>No fitness training posts yet.</li>
 {% endif %}
 </ul>
-
+<br>
 ### Daily Prayer
 <ul>
 {% assign counter = 0 %}
@@ -196,7 +196,7 @@ With the platform itself now complete, the primary focus has shifted from develo
   <li>No daily prayer posts yet.</li>
 {% endif %}
 </ul>
-
+<br>
 
 ### Daily Budget
 <ul>
@@ -212,18 +212,19 @@ With the platform itself now complete, the primary focus has shifted from develo
   <li>No daily budget posts yet.</li>
 {% endif %}
 </ul>
-
+<br>
 [View all Everyday sub‑categories →](#)
 
 ---
-
+<br>
 ----
 
 🟢 **PlebWare Status Report**
 
 > Project Status: **The platform is complete. The library is just beginning.**
+ <br>
 > Date: {{ site.time | date: "%d %B %Y" }}
-
+<br>
 ✅ **Completed**
 Unified theme system operational
 12 modes implemented
@@ -235,7 +236,7 @@ Banner system implemented
 Publishing workflow established
 Content structure finalised
 Site architecture stabilised
-
+<br>
 
 ----
 
@@ -254,9 +255,9 @@ Site architecture stabilised
 {% endif %}
 </ul>
 [All news →](/author/news/)
-
+<br>
 ---
-
+<br>
 ## 🔗 Quick Links
 
 - [All Posts](/all-posts/) – Chronological list of every post
