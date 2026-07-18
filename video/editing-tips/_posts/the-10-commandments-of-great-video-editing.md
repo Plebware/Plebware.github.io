@@ -2,10 +2,10 @@
 layout: post
 title: "The 10 Commandments of Great Video Editing"
 date: 2026-07-18
-category: "fiction"
+category: "editing-tips"
 tags: [video-editing, transitions, colour-correction, raw-footage, pacing, audio, continuity]
 excerpt: "Timeless principles for editing videos that engage, inform, and inspire."
-mode: "author"
+mode: "video"
 author: Otto Brinkmeier
 ---
 
