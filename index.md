@@ -219,10 +219,6 @@ With the platform itself now complete, the primary focus has shifted from develo
 
 -----
 
-<br>
-
-<br>
-
 🟢 **PlebWare Status Report**
 
 <br>
@@ -241,6 +237,7 @@ Banner system implemented
 Publishing workflow established
 Content structure finalised
 Site architecture stabilised
+
 <br>
 
 ----
