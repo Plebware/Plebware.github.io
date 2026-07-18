@@ -216,13 +216,16 @@ With the platform itself now complete, the primary focus has shifted from develo
 </ul>
 <br>
 [View all Everyday sub‑categories →](#)
+
+-----
+
 <br>
----
+
 <br>
-----
 
 🟢 **PlebWare Status Report**
 
+<br>
 > Project Status: **The platform is complete. The library is just beginning.**
  <br>
 > Date: {{ site.time | date: "%d %B %Y" }}
