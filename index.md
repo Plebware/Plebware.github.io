@@ -1,13 +1,14 @@
 ---
 layout: default
-title: "Everyday Mode - Practical Life Skills & Home Management"
-date: 2026-06-24
+title: "Practical Life Skills & Home Management"
+date: 2026-07-18
+last_updated: 2026-07-18
 category: "everyday"
-tags: [plebware, PlebWare, Otto, Juelz, publishing, tuition, plebmachine]
+tags: [plebware, home-management, life-skills, daily-living, productivity, plebmachine]
 mode: "everyday"
+excerpt: "Daily living guides for housekeeping, home maintenance, cooking, personal care, fitness, prayer, and budgeting."
+permalink: /
 ---
- 
-# **PlebWare's Index Page**
 
 -----
 <!-- ===== PLEBWARE CONSOLE ===== -->
@@ -221,7 +222,7 @@ With the platform itself now complete, the primary focus has shifted from develo
 🟢 **PlebWare Status Report**
 
 > Project Status: **The platform is complete. The library is just beginning.**
-Date: 22 June 2026
+Date: {{ site.time | date: "%d %B %Y" }}
 
 ✅ **Completed**
 Unified theme system operational
