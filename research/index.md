@@ -1,7 +1,13 @@
 ---
-layout: default
-title: Research Mode
+layout: post
+title: "Research - Digital Research Tools & Knowledge Management"
+date: 2026-07-13
+category: "research"
+tags: [christian-research, linux-research, plebmachine-research, web-browser, gemini-notebook, tech-research, well-being, sustainability,]
+mode: "research"
+author: Otto Brinkmeier
 ---
+
 
 # 🔬 Research Mode
 
