@@ -31,7 +31,9 @@ Thank you for visiting PlebWare and being part of its continuing journey.
 **Otto & Juelz**
 *Always at Your Service.*
 <br>
+
 ----
+
 <br>
 ## 📅 What's New This Week
 
@@ -214,7 +216,7 @@ With the platform itself now complete, the primary focus has shifted from develo
 </ul>
 <br>
 [View all Everyday sub‑categories →](#)
-
+<br>
 ---
 <br>
 ----
@@ -239,6 +241,7 @@ Site architecture stabilised
 <br>
 
 ----
+<br>
 
 ## 📰 Latest News
 <ul>
