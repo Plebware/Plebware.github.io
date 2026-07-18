@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Everyday Mode – Plebware Home"
+title: "Everyday Mode - Practical Life Skills & Home Management"
 date: 2026-06-24
 category: "everyday"
 tags: [plebware, PlebWare, Otto, Juelz, publishing, tuition, plebmachine]
