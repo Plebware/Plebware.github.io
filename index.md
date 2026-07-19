@@ -44,7 +44,7 @@ We hope you'll enjoy exploring the library as much as we've enjoyed building it.
 
 *Always at Your Service.*
 <br>
-
+[Read Our Manifesto - For More Details](https://plebware.github.io/developer/plebware/2026/07/13/the-plebware-founding-manifesto.html)
 ----
 
 <br>
