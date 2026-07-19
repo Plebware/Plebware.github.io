@@ -14,21 +14,34 @@ permalink: /
 <!-- ===== PLEBWARE CONSOLE ===== -->
 {% include dashboard.html %}
 
-# 🏠 Plebware
+# 🏠 PlebWare
 
 **Accessible · Repairable · Understandable Technology**
 
 <img src="assets/images/gotyou.png"
      alt="Juelz and Otto have your back sticker"
      height="200">
-     
-Welcome to **PlebWare** — a personal knowledge publishing platform dedicated to Linux, Artificial Intelligence, writing, creativity, research, and the pursuit of lifelong learning. 
 
-Whether you're here to explore tutorials, discover new ideas, read articles, or simply satisfy your curiosity, PlebWare has been designed to make knowledge accessible, organised, and enjoyable to explore.
+Welcome to **PlebWare**, an independent publishing platform dedicated to helping ordinary people understand technology, creativity, and lifelong learning.
 
-Thank you for visiting PlebWare and being part of its continuing journey.
+What began as a small web development business in 2003 has grown into a comprehensive digital knowledge library covering Linux, Artificial Intelligence, writing, research, home computing, digital publishing, and practical everyday life.
+
+Rather than chasing trends, PlebWare focuses on producing clear, practical, and well-documented articles that teach real skills. Every guide is written with the belief that knowledge should be shared, technology should remain understandable, and learning should never stop.
+
+Today the platform contains hundreds of articles organised into twelve specialised knowledge modes, making it easy to explore subjects ranging from Linux and open-source software to creative writing, study resources, productivity, home management, Christian devotionals, and much more.
+
+Whether you're a beginner looking for guidance or an experienced user searching for deeper understanding, you'll find tutorials, reference material, opinion pieces, research, and practical advice designed to help you learn, build, repair, create, and share.
+
+Our philosophy is simple:
+
+> **Teach before selling. Explain before assuming. Repair before replacing.**
+
+Thank you for visiting PlebWare.
+
+We hope you'll enjoy exploring the library as much as we've enjoyed building it.
 
 **Otto & Juelz**
+
 *Always at Your Service.*
 <br>
 
