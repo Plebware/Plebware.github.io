@@ -22,9 +22,23 @@ The results were surprising.
 | Shutdown | 10.74 sec | **9.10 sec** | MX Linux |
 | LibreOffice Writer Launch | 14.68 sec | **11.81 sec** | MX Linux |
 | CPU Usage (Vivaldi + 7 Tabs + LibreOffice Writer) | 7.0% | **3.2%** | MX Linux |
-| Memory Usage (Vivaldi + 7 Tabs + LibreOffice Writer) | 6.0 GB (51%) | **2.84 GB (≈26%)** | MX Linux |
+| Memory Usage (Vivaldi + 7 Tabs + LibreOffice Writer) | 6.0 GB (51%) | **2.84 GB (26.1%)** | MX Linux |
 
-> **Note:** The Linux memory figure shown above is approximately **26% of 11 GB**, rather than 1.1%. The original percentage appears to have been calculated incorrectly.
+> **Note:** This test was done on a LENOVO Lenovo ideapad 130-15IKB
+CPU:           Intel Core i7-8550U (Kaby Lake-R U4+2, Y0)
+               2000 MHz (20.00x100.0) @ 1789 MHz (18.00x99.4)
+Motherboard:   LENOVO LNVNB161216
+BIOS:          8QCN19WW(V1.07), 05/15/2019
+Chipset:       Intel Kaby Lake-U + iHDCP 2.2 Premium PCH
+Memory:        12288 MBytes DDR4 SDRAM @ 662 MHz, 17-17-17-39
+               - 8192 MB PC21300 DDR4 SDRAM - Kingmax Semiconductor GSAG42F-18----------
+Graphics:      Intel UHD Graphics 620 (Kaby Lake R U GT2) [Y0] [Lenovo]
+               Intel UHD Graphics 620, 6354118 KB SDRAM
+Drive:         Kingmax SSD 240GB, 234.4 GB, Serial ATA 6Gb/s @ 6Gb/s
+Sound:         Intel Kaby Lake-U/Y PCH - High Definition Audio Controller
+Network:       RealTek Semiconductor RTL8101/2/3 Family Fast Ethernet NIC
+Network:       RealTek Semiconductor RTL8821CE Wireless LAN 802.11ac PCI-E NIC
+OS:            Microsoft Windows 11 Professional (x64) Build 26200.8875 (25H2).
 
 ---
 
