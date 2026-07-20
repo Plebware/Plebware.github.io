@@ -11,7 +11,7 @@ tags: Ford Ranger, Ford Ranger 2.2 TDCi, P0088, Limp Mode, Fuel Pressure, Common
 
 **_How a simple oil leak turned into weeks of diagnostics, expensive parts, and lost income._**
 
-*By Otto | PlebWare Everyday Mode*
+*By Otto Brinkmeier*
 
 > **R150 a day doesn't leave much room for expensive mistakes.**
 
