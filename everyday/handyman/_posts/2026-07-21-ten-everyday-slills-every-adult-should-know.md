@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ten Everyday Skills Every Adult Should Know"
 category: "Everyday"
 author: "The Digital Handy Man"
