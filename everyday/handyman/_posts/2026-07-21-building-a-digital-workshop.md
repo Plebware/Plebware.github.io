@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Building a Digital Workshop: The Essential Free Software Toolkit"
 category: "handyman"
 author: "The Digital Handy Man"
