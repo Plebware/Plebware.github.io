@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Organise Your Digital Life Without Paying Monthly Subscriptions"
+title: "Organising Your Digital Life Without Paying Monthly Subscriptions"
 category: "Everyday"
 author: "The Digital Handy Man"
 date: "2026-07-21"
