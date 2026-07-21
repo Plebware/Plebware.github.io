@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Living Dead"
 date: 2026-07-21
 last_updated: 2026-07-21
@@ -7,7 +7,6 @@ category: "fiction"
 tags: [christianity, genesis, fall-of-man, redemption, living-dead, biblical-theology]
 mode: "author"
 excerpt: "An exploration of humanity's spiritual condition from Creation through the long preparation for redemption."
-permalink: /
 ---
 
 # The Living Dead
