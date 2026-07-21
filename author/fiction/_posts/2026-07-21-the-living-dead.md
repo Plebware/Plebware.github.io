@@ -9,7 +9,7 @@ mode: "author"
 excerpt: "An exploration of humanity's spiritual condition from Creation through the long preparation for redemption."
 ---
 
-# The Living Dead
+# Dead Men Walking
 
 Alas, among us living beings there are those who eat, sleep, breathe, and look—but do not see.
 
