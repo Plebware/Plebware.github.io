@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Down The Rabbit Hole: A Historical View Through The Eyes Of Alice"
+title: "Down The Rabbit Hole: History Through The Eyes Of Alice"
 date: 2025-06-01
 ---
 
