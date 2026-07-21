@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Forgotten Skills: A Beginner's Guide to Living Without Apps"
 category: "Everyday"
 author: "The Digital Handy Man"
