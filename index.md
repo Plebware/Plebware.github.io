@@ -17,6 +17,8 @@ permalink: /
 # 🏠 PlebWare
 
 **Accessible · Repairable · Understandable Technology**
+<br>
+**The Keyboard Is Mightier Than The Pen**
 
 <img src="assets/images/gotyou.png"
      alt="Juelz and Otto have your back sticker"
