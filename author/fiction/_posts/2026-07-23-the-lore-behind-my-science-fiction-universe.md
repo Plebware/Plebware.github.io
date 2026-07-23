@@ -16,7 +16,7 @@ tags:
 excerpt: "Explore the lore behind O.C. Verrocchio's science fiction universe, where humanity, artificial intelligence, and rival galactic powers shape the future of the Milky Way."
 ---
 
-# The Lore Behind My Science Fiction Universe
+# **Lore Needs To Be Believable, Lovable and Memorable**
 
 Every science fiction universe has its own identity.
 
