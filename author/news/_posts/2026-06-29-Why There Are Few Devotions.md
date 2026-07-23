@@ -32,10 +32,10 @@ Everything stated here reflects either my personal observations or my honestly h
 
 The following statements are a factual record of the circumstances as I understand them on **23 July 2026**.
 
-* Rochelle received a monthly electricity rebate of **R300** following the installation of prepaid electricity meters.
-* Sharon did **not** receive an equivalent rebate.
-* Sharon continues to pay **R1,500** in monthly rent and is also responsible for purchasing prepaid electricity.
-* Nico does not have a prepaid electricity meter installed and, to the best of my knowledge, continues to pay **R1,500** per month under the previous electricity arrangement.
+* Julian's mother received a monthly electricity rebate of **R300** following the installation of prepaid electricity meters.
+* Another neighbour (same stand) did **not** receive an equivalent rebate.
+* This same neighbour continues to pay **R1,500** in monthly rent and is also responsible for purchasing prepaid electricity.
+* Yet another chap (also on the same stand) does not have a prepaid electricity meter installed and, to the best of my knowledge, continues to pay **R1,500** per month under the previous electricity arrangement.
 * I don't get a rebate either
 These differences have had a direct financial impact on our household.
 
