@@ -16,7 +16,7 @@ From my perspective, this effectively increased my monthly housing costs because
 
 I believe it would have been fair to consider a rental rebate or adjustment to compensate for the removal of the electricity benefit that had previously been included.
 
-I also observed that not all tenants appeared to be treated equally following the installation of the prepaid system. One household received a monthly electricity rebate of approximately R300, while Sharon and I did not receive any comparable rebate. In addition, another tenant appeared not to have received a prepaid electricity meter at all and, to the best of my knowledge, continued using electricity under the previous arrangement.
+I also observed that not all tenants appeared to be treated equally following the installation of the prepaid system. One household received a monthly electricity rebate of approximately R300, while my immediate next door neighbour and I did not receive any comparable rebate. In addition, another tenant appeared not to have received a prepaid electricity meter at all and, to the best of my knowledge, continued using electricity under the previous arrangement.
 
 These are matters that I have personally observed, and they have contributed significantly to my financial stress. Should it become necessary to pursue any formal dispute or legal remedy in the future, this article serves as a contemporaneous record of my experiences, observations and concerns as they existed at the time of writing.
 
