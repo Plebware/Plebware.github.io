@@ -7,7 +7,13 @@ tags: [faith, believing, salvation, redemption, christ-alone, jesus, hell]
 mode: "author"
 author: Otto Brinkmeier
 ---
+<div align="center">
 
+<img src="/assets/images/elevator.png"
+     alt="The Elevator of Faith"
+     style="max-width:600px; height:auto;">
+
+</div>
 
 # 🔑 Stepping Into the Elevator of Faith
 
