@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why There Are Few Devotions"
-date: 2026-06-23
+date: 2026-07-23
 ---
 
 
