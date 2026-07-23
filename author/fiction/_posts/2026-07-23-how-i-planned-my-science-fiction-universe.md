@@ -13,7 +13,7 @@ tags:
   - Plebware
 ---
 
-# 🔑 How I Planned My Science Fiction Universe
+# 🔑 **My Space Opera Blueprint Explained**
 
 One of the questions I get asked the most is:
 
@@ -129,7 +129,7 @@ Even if only ten per cent ever appears in a novel, having those systems already 
 
 # 🔑 Step 6 — Design Organisations
 
-Real history is shaped by organisations.
+Organisations shape real history.
 
 So is science fiction.
 
