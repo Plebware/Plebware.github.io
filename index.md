@@ -126,6 +126,16 @@ The foundation has been laid. The architecture is complete. The focus now is on 
 
 🏆 🏆 🏆 🏆 🏆
 <br>
+| 📊 PlebWare at a Glance |                 |
+| ----------------------- | --------------- |
+| 📚 Articles             | 240+            |
+| 🧠 Knowledge Modes      | 12              |
+| 📂 Sub-Categories       | 100+            |
+| 🔊 Read Aloud           | Available       |
+| 💬 Community Comments   | Enabled         |
+| 🚀 Publishing           | Fully Automated |
+| 🗓 Established          | 2003            |
+
 -----
 ## 🧹 Everyday Sub‑Categories
 <br>
@@ -254,7 +264,7 @@ The foundation has been laid. The architecture is complete. The focus now is on 
 
 -----
 
-🟢 **PlebWare Status Report**
+## 📈 PlebWare by the Numbers
 
 <br>
 > Project Status: **The platform is complete. The library is just beginning.**
@@ -333,9 +343,21 @@ Site architecture stabilised
 ----
 
 <!-- Comments Section -->
-<div id="comments-section">
-    <h3>💬 Comments</h3>
-    <div id="utterances-container"></div>
+<div class="info-box">
+    <h3>💬 Join the Discussion</h3>
+
+    <p>
+        Every article has its own discussion area where you can share your
+        experience, ask questions, or suggest improvements.
+    </p>
+
+    <p>
+        <strong>Note:</strong> You'll need a free
+        <a href="https://github.com/signup" target="_blank" rel="noopener">
+            GitHub account
+        </a>
+        to participate.
+    </p>
 </div>
 
 <script>
