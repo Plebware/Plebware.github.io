@@ -9,7 +9,7 @@ mode: "everyday"
 excerpt: "Daily living guides for housekeeping, home maintenance, cooking, personal care, fitness, prayer, and budgeting."
 permalink: /
 ---
-  
+
 -----
 
 # 🏠 PlebWare
