@@ -11,8 +11,6 @@ permalink: /
 ---
  
 -----
-<!-- ===== PLEBWARE CONSOLE ===== -->
-{% include dashboard.html %}
 
 # 🏠 PlebWare
 
@@ -50,31 +48,11 @@ We hope you'll enjoy exploring the library as much as we've enjoyed building it.
 ----
 
 <br>
-## 📅 What's New This Week
 
-{% assign week_ago = site.time | date: "%s" | minus: 604800 %}
-{% assign week_posts = "" | split: "" %}
-{% for post in site.posts %}
-  {% assign post_date = post.date | date: "%s" | plus: 0 %}
-  {% if post_date >= week_ago %}
-    {% assign week_posts = week_posts | push: post %}
-  {% endif %}
-{% endfor %}
+## 🔑 Explore the Library
 
-{% if week_posts.size > 0 %}
-  <ul>
-  {% for post in week_posts limit: 10 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
-  {% else %}
-    <li>No new posts this week.</li>
-  {% endfor %}
-  </ul>
-  <p><a href="/recent/">See all recent posts →</a></p>
-{% else %}
-  <p>No new posts this week. Check back soon!</p>
-{% endif %}
+> **PlebWare** is organised into twelve specialised Knowledge Modes, each representing a different area of learning. Whether you're interested in Linux, writing, AI, research, home management, or Christian devotionals, there's a place to begin.
 
-----
 <br>
 ## 💻 Best Viewing Experience
 
@@ -88,7 +66,16 @@ For the best mobile experience, Android users are encouraged to browse in **Land
 
 PlebWare continues to prioritise accessibility, practicality, and making the most effective use of available screen space.
 
----
+----
+<!-- ===== PLEBWARE CONSOLE ===== -->
+{% include dashboard.html %}
+<br>
+
+## **Why Twelve Knowledge Modes?**
+
+Instead of arranging information into traditional blog categories, PlebWare uses twelve Knowledge Modes. Each mode represents a different way of thinking or working, making it easier to move between learning, creating, researching, developing software, or simply relaxing.
+
+------
 
 ## 🔊 Read Aloud Support
 
@@ -307,7 +294,32 @@ Site architecture stabilised
 </ul>
 [All news →](/author/news/)
 <br>
----
+-----
+## 📅 What's New This Week
+
+{% assign week_ago = site.time | date: "%s" | minus: 604800 %}
+{% assign week_posts = "" | split: "" %}
+{% for post in site.posts %}
+  {% assign post_date = post.date | date: "%s" | plus: 0 %}
+  {% if post_date >= week_ago %}
+    {% assign week_posts = week_posts | push: post %}
+  {% endif %}
+{% endfor %}
+
+{% if week_posts.size > 0 %}
+  <ul>
+  {% for post in week_posts limit: 10 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+  {% else %}
+    <li>No new posts this week.</li>
+  {% endfor %}
+  </ul>
+  <p><a href="/recent/">See all recent posts →</a></p>
+{% else %}
+  <p>No new posts this week. Check back soon!</p>
+{% endif %}
+
+----
 <br>
 ## 🔗 Quick Links
 
