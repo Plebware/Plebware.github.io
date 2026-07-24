@@ -363,6 +363,12 @@ Site architecture stabilised
         to participate.
     </p>
 </div>
+<!-- Comments Section -->
+<div id="comments-section">
+    <h3>💬 Member's Contibutions</h3>
+    <div id="utterances-container"></div>
+</div>
+
 <script>
     // === UTTERANCES WITH DYNAMIC THEME ===
     (function() {
@@ -441,5 +447,6 @@ Site architecture stabilised
         
     })();
 </script>
+
 
 ----
