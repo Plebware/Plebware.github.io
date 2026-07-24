@@ -2,12 +2,11 @@
 layout: post
 title: "Why Is Our Budget Broken?"
 date: 2026-06-23
-----
-
+---
 
 # 💸 Why Is Our Budget Broken?
 
-📍 *Written from a misty morning at City Deep Fresh Produce Market, Johannesburg*
+📍 **Written from a misty morning at City Deep Fresh Produce Market, Johannesburg**
 
 This morning I found myself standing at City Deep Fresh Produce Market, surrounded by fresh produce, trucks, traders, and the usual bustle of commerce.
 
