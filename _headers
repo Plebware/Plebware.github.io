@@ -1,0 +1,19 @@
+# Cache static assets for 1 year (immutable)
+/assets/* Cache-Control: public, max-age=31536000, immutable
+
+# Cache images for 1 year
+/assets/images/* Cache-Control: public, max-age=31536000, immutable
+
+# Cache CSS and JS for 1 year
+/assets/css/* Cache-Control: public, max-age=31536000, immutable
+/assets/js/* Cache-Control: public, max-age=31536000, immutable
+
+# Cache favicon and other root assets
+/*.png Cache-Control: public, max-age=31536000, immutable
+/*.ico Cache-Control: public, max-age=31536000, immutable
+/*.webmanifest Cache-Control: public, max-age=31536000, immutable
+
+# HTML pages – short cache (5 minutes) so new content appears quickly
+/*.html Cache-Control: public, max-age=300
+/ Cache-Control: public, max-age=300
+/*/ Cache-Control: public, max-age=300
