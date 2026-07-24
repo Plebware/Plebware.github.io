@@ -22,26 +22,26 @@ permalink: /
      alt="Juelz and Otto have your back sticker"
      height="200">
 
-Welcome to **PlebWare**, an independent publishing platform dedicated to helping ordinary people understand technology, creativity, and lifelong learning.
-
-What began as a small web development business in 2003 has grown into a comprehensive digital knowledge library covering Linux, Artificial Intelligence, writing, research, home computing, digital publishing, and practical everyday life.
-
-Rather than chasing trends, PlebWare focuses on producing clear, practical, and well-documented articles that teach real skills. Every guide is written with the belief that knowledge should be shared, technology should remain understandable, and learning should never stop.
-
-Today the platform contains hundreds of articles organised into twelve specialised knowledge modes, making it easy to explore subjects ranging from Linux and open-source software to creative writing, study resources, productivity, home management, Christian devotionals, and much more.
-
+Welcome to **PlebWare**, an independent **publishing platform** dedicated to helping ordinary people understand technology, creativity, and lifelong learning.
+<br>
+What began as a small web development business in 2003 has grown into a **comprehensive digital knowledge library** covering Linux, Artificial Intelligence, writing, research, home computing, digital publishing, and practical everyday life.
+<br>
+Rather than chasing trends, **PlebWare** focuses on producing clear, practical, and well-documented articles that teach real skills. Every guide is written with the belief that knowledge should be shared, technology should remain understandable, and learning should never stop.
+<br>
+Today the platform contains hundreds of articles organised into **twelve specialised knowledge modes**, making it easy to explore subjects ranging from Linux and open-source software to creative writing, study resources, productivity, home management, Christian devotionals, and much more.
+<br>
 Whether you're a beginner looking for guidance or an experienced user searching for deeper understanding, you'll find tutorials, reference material, opinion pieces, research, and practical advice designed to help you learn, build, repair, create, and share.
-
+<br>
 Our philosophy is simple:
-
+<br>
 > **Teach before selling. Explain before assuming. Repair before replacing.**
-
-Thank you for visiting PlebWare.
-
-We hope you'll enjoy exploring the library as much as we've enjoyed building it.
-
+<br>
+**_Thank you for visiting PlebWare._**
+<br>
+We hope you'll enjoy exploring the library as much as we are enjoying building it.
+<br>
 **Otto & Juelz**
-
+<br>
 *Always at Your Service.*
 <br>
 [Read Our Manifesto - For More Details](https://plebware.github.io/developer/plebware/2026/07/13/the-plebware-founding-manifesto.html)
