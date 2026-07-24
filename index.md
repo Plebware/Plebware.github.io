@@ -79,15 +79,35 @@ We hope you'll enjoy exploring the library as much as we've enjoyed building it.
 ## 💻 Best Viewing Experience
 
 PlebWare is best experienced on a desktop or large-screen device, where the full navigation system and content layout can be appreciated. Considerable effort has also gone into ensuring the site remains mobile-friendly and comfortable to use on smartphones and tablets.
-<br>
-### 📱 Mobile Viewing Notes
 
-After reviewing the site's navigation, we decided to keep the current responsive menu layout. On smartphones, the navigation automatically displays **two items per row** for improved readability and easier touch interaction, while on larger screens it expands to **four items per row**, providing a compact overview of the platform and making it easier to browse the many available sections without excessive scrolling.
+## 📱 Mobile Viewing Notes
 
-For the best mobile experience, **Android users are encouraged to browse in Landscape Mode** 🔄📲, which provides additional horizontal space and delivers a cleaner, more desktop-like interface.
+After reviewing the site's navigation, we decided to keep the current responsive menu layout. On smartphones, the navigation automatically displays two items per row for improved readability and easier touch interaction, while on larger screens it expands to four items per row. This provides a compact overview of the platform and makes it easier to browse the many available sections without excessive scrolling.
+
+For the best mobile experience, Android users are encouraged to browse in **Landscape Mode** 🔄📲, which provides additional horizontal space and delivers a cleaner, more desktop-like interface.
 
 PlebWare continues to prioritise accessibility, practicality, and making the most effective use of available screen space.
-<br>
+
+---
+
+## 🔊 Read Aloud Support
+
+PlebWare now includes **Read Aloud** functionality across the site, allowing visitors to listen to articles instead of reading them. This improves accessibility for users with visual impairments, reading difficulties, or anyone who simply prefers listening while travelling, exercising, or multitasking.
+
+To make the most of this feature, future articles will generally be written in **shorter sections with concise paragraphs**, creating a smoother and more natural listening experience while remaining easy to read.
+
+---
+
+## 💬 Community Comments
+
+Readers can now participate in discussions by leaving comments beneath articles.
+
+Comments are powered through **GitHub Discussions**, which means you'll need a **free GitHub account** to post, reply, or join conversations. This approach helps reduce spam while allowing meaningful discussions and feedback to remain attached to each article.
+
+Constructive suggestions, corrections, and thoughtful discussion are always welcome.
+
+---
+
 ## 🚀 Platform Status
 
 Following an extensive architectural redesign and content reorganisation, the PlebWare platform has now entered its **Production & Publishing** phase.
@@ -102,12 +122,24 @@ The site's core architecture is stable and operational, including:
 * ✅ AI governance and publishing policies
 * ✅ Integrated legacy projects
 * ✅ Scalable knowledge architecture
-* ✅ Added Read Aloud (2026-07-23)
+* ✅ Read Aloud functionality
+* ✅ Community commenting via GitHub Discussions
 
-With the platform itself now complete, the primary focus has shifted from development to **publishing, expanding, and continually refining the library of knowledge**. New articles, tutorials, white papers, devotionals, fiction, and research will continue to be added as the collection grows.
-<br>
+With the platform itself now complete, the primary focus has shifted from development to publishing, expanding, and continually refining the library of knowledge.
+
+New articles, tutorials, white papers, devotionals, fiction, research papers, and practical guides will continue to be added as the knowledge base grows.
+
+---
+
+## 🏆 The Journey Continues
+
+PlebWare is no longer simply a website—it's an expanding knowledge platform.
+
+The foundation has been laid. The architecture is complete. The focus now is on creating high-quality, practical content that remains accessible whether you choose to **read it, listen to it, or discuss it with the community**.
 
 🏆 🏆 🏆 🏆 🏆
+<br>
+-----
 ## 🧹 Everyday Sub‑Categories
 <br>
 ### Housekeeping
