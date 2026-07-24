@@ -126,6 +126,9 @@ The foundation has been laid. The architecture is complete. The focus now is on 
 
 🏆 🏆 🏆 🏆 🏆
 <br>
+
+-----
+
 | 📊 PlebWare at a Glance |                 |
 | ----------------------- | --------------- |
 | 📚 Articles             | 240+            |
@@ -137,6 +140,7 @@ The foundation has been laid. The architecture is complete. The focus now is on 
 | 🗓 Established          | 2003            |
 
 -----
+
 ## 🧹 Everyday Sub‑Categories
 <br>
 ### Housekeeping
@@ -359,7 +363,6 @@ Site architecture stabilised
         to participate.
     </p>
 </div>
-
 <script>
     // === UTTERANCES WITH DYNAMIC THEME ===
     (function() {
