@@ -27,7 +27,37 @@ permalink: /
     <a href="/developer/plebware/2026/07/13/the-plebware-founding-manifesto.html">Read our Manifesto →</a>
   </p>
 </div>
+<hr>
+<h2>🚀 Smaller Articles, Better Results</h2>
 
+<p>
+I've decided to change the way I write articles for the PlebWare website.
+Instead of publishing very long articles, I'm moving toward shorter, more focused content.
+</p>
+
+<p>
+GitHub Pages caches images, CSS, and JavaScript, but HTML pages are downloaded each time they're opened. Large articles therefore take longer to load.
+</p>
+
+<p>
+The simplest solution is to make each page smaller.
+</p>
+
+<p>
+By breaking large topics into a series of shorter articles, visitors benefit from:
+</p>
+
+<ul>
+    <li>⚡ Faster loading pages</li>
+    <li>🔍 Better SEO</li>
+    <li>🎧 Improved Read Aloud support</li>
+    <li>📱 A better mobile experience</li>
+    <li>📖 Easier reading</li>
+</ul>
+
+<p>
+Sometimes, less really is more.
+</p>
 <hr>
 
 <!-- ====== QUICK STATS ====== -->
