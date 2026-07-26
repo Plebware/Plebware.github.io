@@ -9,7 +9,7 @@ mode: "everyday"
 excerpt: "Daily living guides for housekeeping, home maintenance, cooking, personal care, fitness, prayer, and budgeting."
 permalink: /
 --- 
-<br>
+<br> 
 
 <!-- ====== WELCOME BANNER ====== -->
 <div style="text-align:center; padding:1rem 0;">
