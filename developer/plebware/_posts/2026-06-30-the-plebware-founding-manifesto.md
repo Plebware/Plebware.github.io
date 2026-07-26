@@ -10,9 +10,9 @@ author: Otto Brinkmeier
 ---
 
 
-# The PlebWare Charter
+# The PlebWare Charter.
 
-## From Concept to Fulfilment
+## From Concept to Fulfilment.
 
 Every project has a beginning.
 
@@ -24,41 +24,41 @@ The company name deliberately began with the numeral **0 (Zero)** and was pronou
 
 Originally registered as a media development company, 0tronix Developments specialised in:
 
-* Web design
-* Graphic design
-* Instruction manuals
-* Technical documentation
-* Educational material
-* Multimedia development
+* Web design.
+* Graphic design.
+* Instruction manuals.
+* Technical documentation.
+* Educational material.
+* Multimedia development.
 
-The long-term vision was always education through technology.
+The long-term vision has always been education through technology.
 
 To remain financially independent while developing educational content, the company expanded into a variety of business services including:
 
-* Website development
-* Website maintenance
-* Logo design
-* Letterhead creation
-* Invoice systems
-* Payroll documentation
-* Computer maintenance
+* Website development.
+* Website maintenance.
+* Logo design.
+* Letterhead creation.
+* Invoice systems.
+* Payroll documentation.
+* Computer maintenance.
 
 ### Early Clients
 
-| Client                                  | Services                                  | Years     |
+| Client.                                  | Services.                                  | Period     |
 | --------------------------------------- | ----------------------------------------- | --------- |
-| Creative Print Design                   | Website Development & Maintenance         | 2003–2004 |
-| V Tec Auto Body                         | Website Development & Maintenance         | 2003–2004 |
-| Fred Air                                | Website Development & Maintenance         | 2003–2004 |
-| Cross Fire Security Solutions           | Website, Maintenance, Invoicing & Payroll | 2003–2010 |
-| Moloko Security                         | Website, Maintenance, Invoicing & Payroll | 2003–2008 |
-| South African Call Centres              | Website Development & Maintenance         | 2003–2004 |
-| Christway Social and Religious Services | Website, Computer Maintenance             | 2010–2014 |
-| Lighthouse Ministries                   | Website, Computer Maintenance             | 2012–2014 |
+| Creative Print Design.                   | Website Development & Maintenance.         | 2003–2004 |
+| V Tec Auto Body.                         | Website Development & Maintenance.         | 2003–2004 |
+| Fred Air.                                | Website Development & Maintenance.         | 2003–2004 |
+| Cross Fire Security Solutions.           | Website, Maintenance, Invoicing & Payroll. | 2003–2010 |
+| Moloko Security.                         | Website, Maintenance, Invoicing & Payroll. | 2003–2008 |
+| South African Call Centres.              | Website Development & Maintenance.         | 2003–2004 |
+| Christway Social and Religious Services. | Website, Computer Maintenance.             | 2010–2014 |
+| Lighthouse Ministries.                   | Website, Computer Maintenance.             | 2012–2014 |
 
 ---
 
-# The Birth of PlebWare
+# The Birth of PlebWare.
 
 During **2006**, Otto Brinkmeier met **Julian Boyd de Villiers**, who would eventually become his development partner.
 
