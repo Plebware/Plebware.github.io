@@ -8,7 +8,7 @@ tags: [plebware, home-management, life-skills, daily-living, productivity, plebm
 mode: "everyday"
 excerpt: "Daily living guides for housekeeping, home maintenance, cooking, personal care, fitness, prayer, and budgeting."
 permalink: /
----
+--- 
 <br>
 
 <!-- ====== WELCOME BANNER ====== -->
