@@ -9,16 +9,9 @@ mode: "everyday"
 excerpt: "Daily living guides for housekeeping, home maintenance, cooking, personal care, fitness, prayer, and budgeting."
 permalink: /
 ---
-<br></br>
+<br>
 
-----
-<br></br>
 
-<!-- ===== PLEBWARE CONSOLE ===== -->
-{% include dashboard.html %}
-
-----
-<br></br>
 <!-- ====== WELCOME BANNER ====== -->
 <div style="text-align:center; padding:1rem 0;">
   <img src="assets/images/gotyou.webp" alt="Juelz and Otto have your back" height="150" style="display:block; margin:0 auto;">
@@ -115,7 +108,14 @@ permalink: /
 </div>
 
 <hr>
+----
+<br>
 
+<!-- ===== PLEBWARE CONSOLE ===== -->
+{% include dashboard.html %}
+
+----
+<br>
 <!-- ====== FOOTER ====== -->
 <p style="font-size:0.8rem; text-align:center; color:#888;">
   PlebWare – Accessible. Repairable. Understandable Technology.<br>
