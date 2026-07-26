@@ -9,7 +9,15 @@ mode: "everyday"
 excerpt: "Daily living guides for housekeeping, home maintenance, cooking, personal care, fitness, prayer, and budgeting."
 permalink: /
 ---
+<br></br>
 
+----
+<br></br>
+<!-- ===== PLEBWARE CONSOLE ===== -->
+{% include dashboard.html %}
+
+----
+<br></br>
 <!-- ====== WELCOME BANNER ====== -->
 <div style="text-align:center; padding:1rem 0;">
   <img src="assets/images/gotyou.webp" alt="Juelz and Otto have your back" height="150" style="display:block; margin:0 auto;">
@@ -40,13 +48,13 @@ permalink: /
 <hr>
 
 <!-- ====== MODE NAVIGATION ====== -->
-<h2 style="margin:1rem 0 0.5rem;">🔑 Explore by Knowledge Mode</h2>
+<h2 style="mpngargin:1rem 0 0.5rem;">🔑 Explore by Knowledge Mode</h2>
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px,1fr)); gap:0.6rem; margin-bottom:1.5rem;">
   <a href="/everyday/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🧹 Everyday</a>
   <a href="/developer/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">💻 Developer</a>
   <a href="/author/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">✍️ Author</a>
   <a href="/research/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🔬 Research</a>
-  <a href="/creative/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🎨 Creative</a>
+  <a href="/pngcreative/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🎨 Creative</a>
   <a href="/linux/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🐧 Linux</a>
   <a href="/ai/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🤖 AI</a>
   <a href="/productivity/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">⚡ Productivity</a>
@@ -54,7 +62,7 @@ permalink: /
   <a href="/faith/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🙏 Faith</a>
   <a href="/study/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">📖 Study</a>
   <a href="/publishing/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">📰 Publishing</a>
-</div>
+</div>png
 
 <hr>
 
