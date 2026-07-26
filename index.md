@@ -128,7 +128,6 @@ Sometimes, less really is more.
 <p><a href="/everyday/">Browse all Everyday topics →</a></p>
 
 <hr>
-
 <!-- ====== CALL TO ACTION ====== -->
 <div style="background:#faf3e0; padding:1rem; border-radius:8px; text-align:center;">
   <p style="margin:0;">
