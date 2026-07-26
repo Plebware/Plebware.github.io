@@ -73,7 +73,7 @@ Sometimes, less really is more.
 <!-- ====== MODE NAVIGATION ====== -->
 <h2 style="mpngargin:1rem 0 0.5rem;">🔑 Explore by Knowledge Mode</h2>
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px,1fr)); gap:0.6rem; margin-bottom:1.5rem;">
-  <a href="/everyday/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🧹 Everyday</a>
+  <a href="[/everyday/](https://plebware.github.io)" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🧹 Everyday</a>
   <a href="/developer/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">💻 Developer</a>
   <a href="/author/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">✍️ Author</a>
   <a href="/research/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🔬 Research</a>
