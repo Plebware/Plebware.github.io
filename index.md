@@ -11,7 +11,6 @@ permalink: /
 ---
 <br>
 
-
 <!-- ====== WELCOME BANNER ====== -->
 <div style="text-align:center; padding:1rem 0;">
   <img src="assets/images/gotyou.webp" alt="Juelz and Otto have your back" height="150" style="display:block; margin:0 auto;">
