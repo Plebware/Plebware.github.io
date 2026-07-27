@@ -33,7 +33,7 @@ permalink: /
 I've decided to change the way I write articles for the PlebWare website.
 Instead of publishing very long articles, I'm moving toward shorter, more focused content.
 Presently developing the Read Aloud Feature, which works, but not across all Platforms.
-When it is perfected, I will announce it here.
+When it is perfected, I will announce it here. 
 </p>
 
 <p>
