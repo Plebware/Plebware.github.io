@@ -7,8 +7,10 @@ tags: [whatsapp-community, plebwave-frontier-hq, tag3, tag4, tag5, tag6, tag7]
 mode: "developer"
 author: Otto Brinkmeier
 ---
-![PlebWave HQ Frontier](/assets/images/plebwave-frontier-hq.webp)
 
+<img src="/assets/images/plebwave-frontier-hq.webp"
+     alt="PlebWave HQ Frontier"
+     style="max-width:100%; height:auto;">
 # Community Architecture
 
 I have decided to consolidate my separate WhatsApp communities into a single umbrella community called **PlebWave Frontier HQ**.
