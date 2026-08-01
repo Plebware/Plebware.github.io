@@ -7,7 +7,7 @@ tags: [whatsapp-community, plebwave-frontier-hq, tag3, tag4, tag5, tag6, tag7]
 mode: "developer"
 author: Otto Brinkmeier
 ---
-
+![PlebWave HQ Frontier](/assets/images/plebwave-frontier-hq.webp)
 
 # Community Architecture
 
