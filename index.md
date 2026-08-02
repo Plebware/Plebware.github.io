@@ -74,20 +74,8 @@ Sometimes, less really is more.
 
 <!-- ====== MODE NAVIGATION ====== -->
 <h2 style="mpngargin:1rem 0 0.5rem;">🔑 Explore by Knowledge Mode</h2>
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px,1fr)); gap:0.6rem; margin-bottom:1.5rem;">
-  <a href="[/everyday/](https://plebware.github.io)" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🧹 Everyday</a>
-  <a href="/developer/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">💻 Developer</a>
-  <a href="/author/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">✍️ Author</a>
-  <a href="/research/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🔬 Research</a>
-  <a href="/pngcreative/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🎨 Creative</a>
-  <a href="/linux/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🐧 Linux</a>
-  <a href="/ai/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🤖 AI</a>
-  <a href="/productivity/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">⚡ Productivity</a>
-  <a href="/home/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🏠 Home</a>
-  <a href="/faith/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">🙏 Faith</a>
-  <a href="/study/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">📖 Study</a>
-  <a href="/publishing/" style="background:#e8f0fe; padding:0.6rem; border-radius:6px; text-align:center; text-decoration:none; color:#000;">📰 Publishing</a>
-</div>png
+<!-- ===== PLEBWARE CONSOLE ===== -->
+{% include dashboard.html %}
 
 <hr>
 
@@ -141,8 +129,7 @@ Sometimes, less really is more.
 ----
 <br>
 
-<!-- ===== PLEBWARE CONSOLE ===== -->
-{% include dashboard.html %}
+
 
 ----
 <br>
