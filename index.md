@@ -16,7 +16,7 @@ permalink: /
   <img src="assets/images/gotyou.webp" alt="Juelz and Otto have your back" height="150" style="display:block; margin:0 auto;">
   <h1 style="margin:0.5rem 0 0.2rem;">PlebWare</h1>
   <p style="font-size:1.1rem; margin:0;">
-    <strong>Accessible · Repairable · Understandable Technology</strong>
+    <strong>Knowledge for Ordinary People</strong>
   </p>
   <p style="font-size:0.95rem; color:#555;">
     <em>The Keyboard Is Mightier Than The Pen</em>
