@@ -4,7 +4,7 @@ title: "Practical Life Skills & Home Management"
 date: 2026-07-18
 last_updated: 2026-07-18
 category: "everyday"
-tags: [plebware, home-management, life-skills, daily-living, productivity, plebmachine]
+tags: [plebware, author, creator, teacher, home-management, life-skills, daily-living, productivity, plebmachine]
 mode: "everyday"
 excerpt: "Daily living guides for housekeeping, home maintenance, cooking, personal care, fitness, prayer, and budgeting."
 permalink: /
