@@ -8,7 +8,7 @@ tags: [plebware, author, creator, teacher, home-management, life-skills, daily-l
 mode: "everyday"
 excerpt: "Daily living guides for housekeeping, home maintenance, cooking, personal care, fitness, prayer, and budgeting."
 permalink: /
---- 
+---  
 <br> 
 
 <!-- ====== WELCOME BANNER ====== -->
