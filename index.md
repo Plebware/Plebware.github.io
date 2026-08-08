@@ -31,11 +31,9 @@ permalink: /
 <h2>🚀 Smaller Articles, Better Results</h2>
 
 <p>
-I've decided to change the way I write articles for the PlebWare website.
-Instead of publishing very long articles, I'm moving toward shorter, more focused content.
-Presently developing the Read Aloud Feature, which works, but not across all Platforms.
-When it is perfected, I will announce it here. 
+I've changed the way I approach articles for the PlebWare website. With the development of PlebVox and the Read Aloud feature, article length is no longer a limitation. Long-form articles can be divided into focused sections, with each section having its own Read Aloud control. Readers can therefore read the article normally or listen to it section by section at their own pace. PlebVox is currently being refined and tested across different platforms, and once it is fully perfected, I will announce it here.
 </p>
+
 
 <p>
 GitHub Pages caches images, CSS, and JavaScript, but HTML pages are downloaded each time they're opened. Large articles therefore take longer to load.
