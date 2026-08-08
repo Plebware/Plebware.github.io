@@ -9,6 +9,7 @@ date: 2026-08-04
 <img src="{{ '/assets/images/SweatingMountain.webp' | relative_url }}" 
      alt="PlebWare Sweating Mountain Cartoon - The Journey of Climbing Life's Challenges"
      style="max-width: 100%; height: auto;">
+
 <!-- PLEBVOX:START -->
 ## Walking A Rut Around A Mountain
 
