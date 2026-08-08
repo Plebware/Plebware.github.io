@@ -27,6 +27,7 @@ permalink: /
   </p>
 </div>
 <hr>
+<!-- PLEBVOX:START -->
 <h2>🚀 Smaller Articles, Better Results</h2>
 
 <p>
@@ -60,7 +61,7 @@ By breaking large topics into a series of shorter articles, visitors benefit fro
 Sometimes, less really is more.
 </p>
 <hr>
-
+<!-- PLEBVOX:END -->
 <!-- ====== QUICK STATS ====== -->
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(120px,1fr)); gap:0.5rem; text-align:center; font-size:0.9rem; background:#f5f5f5; padding:0.8rem; border-radius:8px; margin:1rem 0;">
   <div><strong>240+</strong><br>Articles</div>
