@@ -3,15 +3,13 @@ layout: post
 title: "Petrified Mountain"
 date: 2026-08-04
 ---
-
+<!-- PLEBVOX:START -->
 # 🏔️ The Mountain We Keep Climbing
 
 <img src="{{ '/assets/images/SweatingMountain.webp' | relative_url }}" 
      alt="PlebWare Sweating Mountain Cartoon - The Journey of Climbing Life's Challenges"
      style="max-width: 100%; height: auto;">
 
-<!-- PLEBVOX:START -->
-## Walking A Rut Around A Mountain
 
 A humorous reflection on the long journey of creativity, technology, and life itself.
 
