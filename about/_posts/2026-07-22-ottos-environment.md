@@ -3,7 +3,7 @@ layout: post
 title: "Otto's Environment"
 date: 2026-07-22
 ---
-
+<!-- PLEBVOX:START -->
 # Why I Am Writing This Series
 
 Today I am writing what may well become the hardest article of my short career as a journalist, writer, digital tutor, and independent publisher.
@@ -23,7 +23,8 @@ It is **not** an attempt to persuade anyone to adopt my views.
 Nor is it intended as a complaint or a request for sympathy.
 
 Rather, it is an honest account of my own experiences and the circumstances that have shaped my life. Others may have experienced South Africa very differently, and I fully acknowledge that.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## A Lifetime Among Many People
 
 One of the greatest privileges of my life has been meeting and working alongside people from many different backgrounds, cultures, languages, and communities.
@@ -63,7 +64,7 @@ This series is intended to explain the journey that brought me here.
 Only by understanding the road behind us can we truly understand the destination ahead.
 
 ---
-
+<!-- PLEBVOX:START -->
 ## This Series
 
 Future articles will explore topics including:
@@ -85,3 +86,4 @@ This series is not about assigning blame.
 It is about recording one ordinary South African's life as truthfully as I know how.
 
 If my experiences encourage someone else to persevere through difficult times, then sharing them will have been worthwhile.
+<!-- PLEBVOX:END -->
