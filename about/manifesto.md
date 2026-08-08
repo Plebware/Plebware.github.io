@@ -3,7 +3,7 @@ layout: default
 title: The Plebware Founding Manifesto
 permalink: /about/manifesto/
 ---
-
+<!-- PLEBVOX:START -->
 # 📜 The PlebWare Founding Manifesto
 
 > **Technology Should Remain Connected to Humanity**
@@ -18,7 +18,8 @@ should empower ordinary people rather than control them.
 Founded in **2010**, PlebWare began as an independent online initiative
 dedicated to practical computing, repair culture, Linux, and digital
 freedom.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 🏛️ Early Endeavours and Our Legacy
 
 Every long journey begins with a single step.
@@ -71,7 +72,8 @@ The tools have changed.
 The mission has not.
 
 > *"We build not merely to distribute software, but to share knowledge, inspire creativity, and empower people through technology."*
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 On **2015-06-06**, the public GitHub Pages presence was established.
 
 Beginning on **2026-05-25**, the project underwent a complete
@@ -91,7 +93,8 @@ publishing and education platform. That transformation was completed on
 | **2026-06-30**     | **PlebWare Publishing & Education Platform Version 1.0** was completed and officially launched on GitHub Pages, representing the culmination of over sixteen years of continuous evolution. |
 
 > The history of PlebWare spans more than sixteen years. Although the technologies and platforms have evolved, the project's mission has remained constant: to make technology more accessible, understandable, and useful for ordinary people.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 🔑 Why PlebWare Exists
 
 The modern technology industry often promotes replacement over repair,
@@ -145,7 +148,8 @@ It is now:
 -   An Artificial Intelligence learning centre
 -   A digital library
 -   A home for independent authors and creators
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 🔑 Founders
 
 -   Otto Wilhelm Friedrich Brinkmeier --- Founder, Architect and Chief
@@ -188,9 +192,9 @@ The work of PlebWare will never truly be finished. Every article,
 tutorial, project, and lesson contributes to a growing body of knowledge
 dedicated to helping ordinary people understand extraordinary
 technology.
-
+<!-- PLEBVOX:END -->
 ------------------------------------------------------------------------
-
+<!-- PLEBVOX:START -->
 **PlebWare**
 
 *Accessible. Repairable. Understandable Technology.*
@@ -202,3 +206,4 @@ technology.
 **Publishing & Education Platform:** 2026-05-25 → 2026-06-30
 
 **Founder:** Otto Wilhelm Friedrich Brinkmeier
+<!-- PLEBVOX:END -->
