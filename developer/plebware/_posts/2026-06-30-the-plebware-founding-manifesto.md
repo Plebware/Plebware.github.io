@@ -9,7 +9,7 @@ excerpt: "The history, principles, mission, and vision of PlebWare, from its ori
 author: Otto Brinkmeier
 ---
 
-
+<!-- PLEBVOX:START -->
 # The PlebWare Charter.
 
 ## From Concept to Fulfilment.
@@ -42,7 +42,8 @@ To remain financially independent while developing educational content, the comp
 * Invoice systems.
 * Payroll documentation.
 * Computer maintenance.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Early Clients
 
 | Client.                                  | Services.                                  | Period     |
@@ -57,7 +58,8 @@ To remain financially independent while developing educational content, the comp
 | Lighthouse Ministries.                   | Website, Computer Maintenance.             | 2012–2014 |
 
 ---
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # The Birth of PlebWare.
 
 During **2006**, Otto Brinkmeier met **Julian Boyd de Villiers**, who would eventually become his development partner.
@@ -73,7 +75,8 @@ The name represented software and knowledge created for **ordinary people** rath
 PlebWare officially became the project's identity in **2010**, replacing the earlier concepts that had evolved from the original 0tronix vision.
 
 ---
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # The PlebDictionary
 
 As the project matured, Otto and Julian began creating a shared vocabulary that described the growing PlebWare ecosystem.
@@ -85,7 +88,8 @@ Originally there were more than twenty different terms, each describing a partic
 As the platform evolved into a publishing and education ecosystem, many of these became unnecessary.
 
 In **2026**, the terminology was refined to preserve only the core concepts that continue to define the PlebWare identity.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## PlebTuition
 
 Originally, **PlebTuition** referred to downloadable PDF training manuals.
@@ -121,8 +125,9 @@ PlebSword is a collection of Bible study resources built around the **e-Sword** 
 PlebChurch represents the ministry and Christian publishing branch of PlebWare, providing biblical teaching, devotional writing, educational resources, and digital outreach.
 
 ---
-
-# The PlebWare Founding Manifesto
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
+## The PlebWare Founding Manifesto
 
 **30 June 2026**
 
@@ -143,7 +148,8 @@ Beginning on **25 May 2026**, the project underwent its most significant transfo
 That redevelopment was completed on **30 June 2026**, marking the beginning of continuous publication.
 
 ---
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 🔑 Historical Timeline
 
 | Date       | Milestone                                                      |
@@ -157,7 +163,8 @@ That redevelopment was completed on **30 June 2026**, marking the beginning of c
 | 2026-06-30 | Publishing and Education Platform completed                    |
 
 ---
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 🔑 Why PlebWare Exists
 
 The modern technology industry too often encourages replacement over repair, complexity over clarity, and dependence over understanding.
