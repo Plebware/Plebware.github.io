@@ -94,6 +94,7 @@ PlebVox acts as a lightweight JavaScript layer between the PlebWare article and 
 The browser performs the actual speech.
 
 PlebVox controls the process.
+<!-- PLEBVOX:END -->
 
 The basic concept is:
 
@@ -120,25 +121,26 @@ Article content goes here.
 
 <!-- PLEBVOX:END -->
 ```
-
-These markers provide PlebVox with a clear boundary around the content that should be read aloud.
+<!-- PLEBVOX:START -->
+The PLEBVOX:START and the PLEBVOX:END markers provide PlebVox with a clear boundary around the content that should be read aloud.
 
 That means the system can distinguish the actual article from other material on the page, such as:
 
-* Navigation
-* Menus
-* Buttons
-* Sidebars
-* Footers
-* Page controls
-* Other interface elements
+* Navigation.
+* Menus.
+* Buttons.
+* Sidebars.
+* Footers.
+* Page controls.
+* Other interface elements.
 
 The result is a cleaner reading experience.
 
 PlebVox does not need to guess which parts of the webpage constitute the article.
 
 The article tells it.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Implementation
 
 PlebVox is implemented primarily in JavaScript and operates within the browser.
@@ -149,13 +151,14 @@ Several pieces of information need to be tracked during playback.
 
 These include:
 
-* Whether reading is active
-* Whether reading is paused
-* Which voice is selected
-* The current speech rate
-* The current position within the article
-* The text currently being spoken
-
+* Whether reading is active.
+* Whether reading is paused.
+* Which voice is selected.
+* The current speech rate.
+* The current position within the article.
+* The text currently being spoken.
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Article Detection
 
 The `PLEBVOX:START` and `PLEBVOX:END` markers provide the foundation for article detection.
@@ -165,7 +168,8 @@ Instead of attempting to read the entire webpage, PlebVox searches for the desig
 This makes the system more predictable and gives the website author control over what becomes part of the spoken article.
 
 It also means that changes to the surrounding website interface do not necessarily affect the reading content.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Voice Detection
 
 PlebVox asks the browser for the voices available on the user's device.
@@ -177,7 +181,8 @@ They belong to the environment in which the website is being viewed.
 PlebVox therefore works with whatever suitable voices the browser makes available.
 
 This allows the same website to function across different platforms without requiring PlebWare to provide its own collection of audio voices.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Speech Rate
 
 PlebVox provides control over the speed at which the article is spoken.
@@ -187,21 +192,23 @@ Different listeners have different preferences.
 Some may prefer slower speech when studying a technical article, while others may prefer a faster pace when listening to familiar material.
 
 Giving the reader control over speech rate makes the feature considerably more useful.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Play, Pause and Resume
 
 PlebVox treats reading as a process with a state rather than simply issuing one speech command.
 
 The system needs to know whether the reader is:
 
-* Starting
-* Reading
-* Pausing
-* Resuming
-* Stopping
+* Starting.
+* Reading.
+* Pausing.
+* Resuming.
+* Stopping.
 
 This state-based approach is particularly important when dealing with longer articles.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Long Articles
 
 Long passages of text can create additional problems for browser speech engines.
@@ -211,8 +218,9 @@ Rather than treating an entire article as one enormous speech request, PlebVox c
 This gives the system greater control over the reading position and allows it to manage longer articles more reliably.
 
 It also creates a foundation for future improvements.
-
-### Cross-Platform Compatibility
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
+### Cross-Platform Compatibility.
 
 One of the biggest lessons from developing PlebVox has been that browser compatibility cannot simply be assumed.
 
@@ -225,7 +233,8 @@ For that reason, PlebVox is being developed through real-world testing rather th
 Every successful test provides confirmation.
 
 Every failure provides information that can be used to improve the system.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## What Makes PlebVox Different?
 
 PlebVox is intentionally lightweight.
@@ -245,7 +254,8 @@ The article remains ordinary web content.
 The browser turns that content into speech when requested.
 
 This approach keeps the system simple and makes it possible to add Read Aloud functionality to a growing library without creating an audio file for every page.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Accessibility and Convenience
 
 Read Aloud can be useful for accessibility, but its usefulness extends beyond accessibility alone.
@@ -263,7 +273,8 @@ This is consistent with the broader PlebWare philosophy of giving users choices 
 PlebVox does not replace reading.
 
 It adds listening.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## The PlebWare Approach
 
 PlebVox is also an example of how PlebWare projects are developed.
@@ -291,7 +302,8 @@ That is not necessarily a weakness.
 It is part of software development.
 
 Every incompatibility teaches us something about the environment in which the software operates.
-
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Conclusion
 
 PlebVox began with a simple question:
