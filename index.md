@@ -46,11 +46,13 @@ Not somebody who needs to be an expert before they are allowed to understand tec
 
 The Plebware philosophy starts with the person:
 
-**learn it · understand it · use it · improve it · make it your own**
+**learn it - understand it - use it - improve it - make it your own**
 
 <!-- PLEBVOX:END -->
 
 ---
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 PlebWare — The Ecosystem
 
@@ -73,7 +75,11 @@ It brings together the things we learn, write, research, design, develop and bui
 * 🎮 Leisure and entertainment.
 * 👥 Community and collaboration.
 
+<!-- PLEBVOX:END -->
+
 ---
+
+<!-- PLEBVOX:START -->
 
 ## 👥 The Makers
 
@@ -91,7 +97,11 @@ Jullian's work contributes to the creative, technical and community sides of the
 
 Together, we explore what happens when **ordinary people use technology to create rather than merely consume.**
 
+<!-- PLEBVOX:END -->
+
 ---
+
+<!-- PLEBVOX:START -->
 
 ## 🧠 Explore the Knowledge
 
@@ -113,6 +123,8 @@ PlebWare currently contains **12 knowledge modes**, covering hundreds of article
 | 🎮 **Leisure.**    | Games, entertainment, cooking, gardening and recreation.               |
 
 **Explore the knowledge modes using the navigation above.**
+
+<!-- PLEBVOX:END -->
 
 ---
 
@@ -140,6 +152,8 @@ Here are the latest articles:
 
 ---
 
+<!-- PLEBVOX:START -->
+
 ## 🛠️ What We're Building
 
 PlebWare isn't only a publishing project.
@@ -162,17 +176,21 @@ PlebVox is deliberately **opt-in**. Articles without PlebVox markers remain comp
 
 The PlebWare ecosystem also includes experiments and development in:
 
-* Linux
-* GitHub Pages
-* JavaScript
-* HTML/CSS
-* automation
-* artificial intelligence
-* browser tools
-* graphics
-* media production
+* Linux.
+* GitHub Pages.
+* JavaScript.
+* HTML/CSS.
+* automation.
+* artificial intelligence.
+* browser tools.
+* graphics.
+* media production.
+
+<!-- PLEBVOX:END -->
 
 ---
+
+<!-- PLEBVOX:START -->
 
 ## 👥 Community
 
@@ -184,6 +202,7 @@ The technology is only one part of the picture.
 
 **People are the reason it exists.**
 
+<!-- PLEBVOX:END -->
 ---
 
 ## 📖 The PlebWare Lexicon
