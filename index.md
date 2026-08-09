@@ -1,6 +1,15 @@
 ---
 layout: default
 title: "PlebWare"
+tags:
+  - PlebWare
+  - Plebware
+  - Knowledge
+  - Technology
+  - Education
+  - Writing
+  - Software
+  - Community
 ---
 
 # 🔑 PlebWare
