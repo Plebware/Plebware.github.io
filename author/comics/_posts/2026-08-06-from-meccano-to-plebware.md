@@ -3,6 +3,9 @@ layout: post
 title: "From Meccano To PlebWare"
 date: 2026-08-06
 ---
+<!-- PLEBVOX:START -->
+
+
 <img src="{{ '/assets/images/another-plebware-view.webp' | relative_url }}" alt="From Meccano To PlebWare" style="width:100%;height:auto;" />
 
 There are moments in life when you look back and suddenly realise that what seemed like childhood play was actually preparation.
@@ -17,3 +20,4 @@ Life has taught me that no experience is ever wasted. The skills we gather, the 
 
 Sometimes the biggest projects begin with the smallest pieces.
 
+<!-- PLEBVOX:END -->

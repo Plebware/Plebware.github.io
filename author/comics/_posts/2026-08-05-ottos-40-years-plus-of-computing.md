@@ -3,6 +3,9 @@ layout: post
 title: "Otto's 40 Years-Plus In Computing"
 date: 2026-08-05
 ---
+<!-- PLEBVOX:START -->
+
+
 
 <p align="center">
   <img src="{{ '/assets/images/plebware-comic.webp' | relative_url }}"
@@ -20,3 +23,5 @@ Through decades of learning, setbacks, engineering, Linux, and open-source devel
 This comic celebrates a lifetime of perseverance, proving that while the tools may change, the determination to build, learn, and create never does.
 
 > **"My tools changed. My purpose didn't."** — Otto Brinkmeier
+
+<!-- PLEBVOX:END -->

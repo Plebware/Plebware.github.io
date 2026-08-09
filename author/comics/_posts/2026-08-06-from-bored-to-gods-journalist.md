@@ -3,6 +3,9 @@ layout: post
 title: "From Bored to God's Journalist"
 date: 2026-08-06
 ---
+<!-- PLEBVOX:START -->
+
+
 
 # 🔑 From Bored to God's Journalist
 
@@ -21,3 +24,5 @@ Looking back, it amazes me that a ministry now reaching people around the world 
 God often plants the greatest callings in the quietest moments. What looks like boredom to us may be the very place where He is preparing us for His purpose.
 
 > *"Commit your works to the Lord, and your plans will be established."* — **Proverbs 16:3 (ESV)**
+
+<!-- PLEBVOX:END -->

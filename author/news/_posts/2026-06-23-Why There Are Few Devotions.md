@@ -3,6 +3,9 @@ layout: post
 title: "Why There Are Few Devotions"
 date: 2026-07-23
 ---
+<!-- PLEBVOX:START -->
+
+
 
 
 
@@ -42,3 +45,5 @@ These differences have had a direct financial impact on our household.
 From my perspective, tenants occupying similar accommodation should be treated consistently unless there is a legitimate reason for different arrangements. At the time of writing, no explanation has been provided to me that accounts for these differences.
 
 I am recording these facts because they have contributed to financial hardship, emotional stress, and ultimately my decision to suspend writing my daily devotions. This article is also intended to provide a dated record of the circumstances as they existed on **23 July 2026** should I need to refer to them in any future discussions or proceedings. The prepaid meters were installed on 22 October 2025
+
+<!-- PLEBVOX:END -->

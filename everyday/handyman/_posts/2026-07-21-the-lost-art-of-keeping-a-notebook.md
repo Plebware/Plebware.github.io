@@ -6,6 +6,9 @@ author: "The Digital Handy Man"
 date: "2026-07-21"
 tags: ["notetaking", "mindfulness", "creativity", "analogue", "self-reliance"]
 ---
+<!-- PLEBVOX:START -->
+
+
 
 # The Lost Art of Keeping a Notebook: Reclaiming Your Inner World
 
@@ -177,3 +180,5 @@ What matters is that you start writing. You are not writing for an audience. You
 That is a gift worth giving.
 
 Stay handy.
+
+<!-- PLEBVOX:END -->

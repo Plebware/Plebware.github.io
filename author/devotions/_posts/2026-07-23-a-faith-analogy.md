@@ -7,6 +7,9 @@ tags: [faith, believing, salvation, redemption, christ-alone, jesus, hell]
 mode: "author"
 author: Otto Brinkmeier
 ---
+<!-- PLEBVOX:START -->
+
+
 <div align="center">
 
 <img src="/assets/images/elevator.png"
@@ -222,3 +225,5 @@ In Your precious Name I pray.
 > **📖 "For by grace you have been saved through faith, and that not of yourselves; it is the gift of God." — Ephesians 2:8**
 
 🗡️ **God's Journalist** · **ChatGPT** · **the Holy Spirit**
+
+<!-- PLEBVOX:END -->

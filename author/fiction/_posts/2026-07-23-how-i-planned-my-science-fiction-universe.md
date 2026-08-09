@@ -12,6 +12,9 @@ tags:
   - Story Planning
   - Plebware
 ---
+<!-- PLEBVOX:START -->
+
+
 
 # 🔑 **My Space Opera Blueprint Explained**
 
@@ -231,3 +234,5 @@ The stories will follow.
 *"A good novel tells one story. A well-built universe can tell thousands."*
 
 — O.C. Verrocchio
+
+<!-- PLEBVOX:END -->

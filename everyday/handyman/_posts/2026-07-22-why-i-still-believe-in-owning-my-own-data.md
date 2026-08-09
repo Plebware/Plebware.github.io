@@ -6,6 +6,9 @@ category: "handyman"
 author: "The Digital Handy Man"
 tags: [data-ownership, privacy, digital-independence, backup, self-hosting]
 ---
+<!-- PLEBVOX:START -->
+
+
 
 # Why I Still Believe in Owning My Own Data
 
@@ -85,3 +88,5 @@ Technology changes, companies pivot, and subscriptions rise. Hard drives fail, b
 I still believe in owning my own data because it represents something larger than storage. It represents autonomy, resilience, and freedom.
 
 And freedom is always worth backing up.
+
+<!-- PLEBVOX:END -->

@@ -15,6 +15,9 @@ tags:
   - Plebware
 excerpt: "Explore the lore behind O.C. Verrocchio's science fiction universe, where humanity, artificial intelligence, and rival galactic powers shape the future of the Milky Way."
 ---
+<!-- PLEBVOX:START -->
+
+
 
 # **Lore Needs To Be Believable, Lovable and Memorable**
 
@@ -101,3 +104,5 @@ I never wanted to create a single novel.
 I wanted to create a living universe capable of supporting countless stories across generations, allowing every new adventure to reveal another piece of a galaxy that continues to grow.
 
 The Captain Cody stories are simply the beginning.
+
+<!-- PLEBVOX:END -->

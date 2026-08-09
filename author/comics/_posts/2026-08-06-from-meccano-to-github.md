@@ -3,6 +3,9 @@ layout: post
 title: "From Meccano to GitHub"
 date: 2026-08-06
 ---
+<!-- PLEBVOX:START -->
+
+
 
 <img src="/assets/images/from-meccano-to-github.webp" alt="From Meccano to GitHub - Otto Brinkmeier's journey from childhood engineering projects to open source software development" style="width:100%;height:auto;" loading="lazy">
 
@@ -23,3 +26,5 @@ Looking back, I realise that Meccano wasn't just a childhood toy—it was the be
 The tools have changed.
 
 The builder has not.
+
+<!-- PLEBVOX:END -->

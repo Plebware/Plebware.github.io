@@ -6,6 +6,9 @@ author: "The Digital Handy Man"
 date: "2026-07-21"
 tags: ["self-reliance", "off-grid", "minimalism", "practical-skills", "handyman"]
 ---
+<!-- PLEBVOX:START -->
+
+
 
 # The Forgotten Skills: A Beginner's Guide to Living Without Apps
 
@@ -122,3 +125,5 @@ Pick *one* of these skills this week. Go to a thrift store, buy a paper map of y
 Start small. Build that analog muscle. You will find that the world is a lot less scary when you know how to handle it with your own two hands.
 
 Stay handy.
+
+<!-- PLEBVOX:END -->

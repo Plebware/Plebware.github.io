@@ -7,6 +7,9 @@ tags: [whatsapp-community, plebwave-frontier-hq, tag3, tag4, tag5, tag6, tag7]
 mode: "developer"
 author: Otto Brinkmeier
 ---
+<!-- PLEBVOX:START -->
+
+
 
 <img src="/assets/images/plebwave-frontier-hq.webp"
      alt="PlebWave HQ Frontier"
@@ -93,3 +96,5 @@ The three hubs work together as one ecosystem:
 This reflects my belief that technology exists to serve people, knowledge empowers people, and community gives both their purpose.
 
 I would like feedback on this architecture, suggestions for refinement, and any ideas that could make the branding stronger while keeping these three symbolic names.
+
+<!-- PLEBVOX:END -->
