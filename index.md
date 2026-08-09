@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "PlebWare"
+description: "An ecosystem of knowledge, technology, creativity and practical learning for ordinary people."
 tags:
   - PlebWare
   - Plebware
