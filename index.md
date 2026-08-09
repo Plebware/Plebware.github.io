@@ -1,20 +1,17 @@
 ---
-
 layout: default
 title: "PlebWare"
 description: "An ecosystem of knowledge, technology, creativity and practical learning for ordinary people."
 tags:
-
-* PlebWare
-* Plebware
-* Knowledge
-* Technology
-* Education
-* Writing
-* Software
-* Community
-* PlebVox
-
+  - "PlebWare"
+  - "Plebware"
+  - "Knowledge"
+  - "Technology"
+  - "Education"
+  - "Writing"
+  - "Software"
+  - "Community"
+  - "PlebVox"
 ---
 
 # 🔑 PlebWare
