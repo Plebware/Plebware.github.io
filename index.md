@@ -34,6 +34,24 @@ PlebWare brings together **knowledge, writing, software, education, media, resea
 
 ---
 
+## 📊 PlebWare Library
+
+<div class="plebware-stats">
+  <p>📚 <strong>{{ site.posts.size }}</strong> Articles Published</p>
+
+  {% assign plebvox_count = 0 %}
+
+  {% for post in site.posts %}
+    {% if post.content contains 'PLEBVOX:START' %}
+      {% assign plebvox_count = plebvox_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+  <p>🎧 <strong>{{ plebvox_count }}</strong> Articles Empowered by PlebVox</p>
+</div>
+
+---
+
 ## 👤 Plebware — The User
 
 <!-- PLEBVOX:START -->
