@@ -1,139 +1,211 @@
 ---
+
 layout: default
-title: "Practical Life Skills & Home Management"
-date: 2026-07-18 
-last_updated: 2026-07-18
-category: "everyday"
-tags: [plebware, author, creator, teacher, home-management, life-skills, daily-living, productivity, plebmachine]
-mode: "everyday"
-excerpt: "Daily living guides for housekeeping, home maintenance, cooking, personal care, fitness, prayer, and budgeting."
-permalink: /
----  
-<br> 
+title: "PlebWare"
+-----------------
 
-<!-- ====== WELCOME BANNER ====== -->
-<div style="text-align:center; padding:1rem 0;">
-  <img src="assets/images/gotyou.webp" alt="Juelz and Otto have your back" height="150" style="display:block; margin:0 auto;">
-  <h1 style="margin:0.5rem 0 0.2rem;">PlebWare</h1>
-  <p style="font-size:1.1rem; margin:0;">
-    <strong>Knowledge for Ordinary People</strong>
-  </p>
-  <p style="font-size:0.95rem; color:#555;">
-    <em>The Keyboard Is Mightier Than The Pen</em>
-  </p>
-  <p style="max-width:600px; margin:0.5rem auto;">
-    📚 240+ articles across 12 knowledge modes.  
-    <a href="/developer/plebware/2026/07/13/the-plebware-founding-manifesto.html">Read our Manifesto →</a>
-  </p>
-</div>
-<hr>
-<!-- PLEBVOX:START -->
-<h2>🚀 Smaller Articles, Better Results</h2>
+# 🔑 PlebWare
 
-<p>
-I've changed the way I approach articles for the PlebWare website. With the development of PlebVox and the Read Aloud feature, article length is no longer a limitation. Long-form articles can be divided into focused sections, with each section having its own Read Aloud control. Readers can therefore read the article normally or listen to it section by section at their own pace. PlebVox is currently being refined and tested across different platforms, and once it is fully perfected, I will announce it here.
-</p>
+## Knowledge for Ordinary People
 
+**PlebWare** is an ecosystem built around a simple idea:
 
-<p>
-GitHub Pages caches images, CSS, and JavaScript, but HTML pages are downloaded each time they're opened. Large articles therefore take longer to load.
-</p>
+> Technology, knowledge and creativity should remain accessible, understandable and connected to ordinary people.
 
-<p>
-The simplest solution is to make each page smaller.
-</p>
+PlebWare brings together **knowledge, writing, software, education, media, research and practical projects** — all developed from the perspective of the people who actually use them.
 
-<p>
-By breaking large topics into a series of shorter articles, visitors benefit from:
-</p>
+---
 
-<ul>
-    <li>⚡ Faster loading pages</li>
-    <li>🔍 Better SEO</li>
-    <li>🎧 Improved Read Aloud support</li>
-    <li>📱 A better mobile experience</li>
-    <li>📖 Easier reading</li>
-</ul>
+## 👤 Plebware — The User
 
-<p>
-Sometimes, less really is more.
-</p>
-<hr>
-<!-- PLEBVOX:END -->
-<!-- ====== QUICK STATS ====== -->
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(120px,1fr)); gap:0.5rem; text-align:center; font-size:0.9rem; background:#f5f5f5; padding:0.8rem; border-radius:8px; margin:1rem 0;">
-  <div><strong>240+</strong><br>Articles</div>
-  <div><strong>12</strong><br>Modes</div>
-  <div><strong>100+</strong><br>Sub‑categories</div>
-  <div>🔊 <strong>Read Aloud</strong></div>
-  <div>💬 <strong>Comments</strong></div>
-</div>
+**Plebware** represents the ordinary human being.
 
-<hr>
+Not a corporation.
+Not a technical abstraction.
+Not somebody who needs to be an expert before they are allowed to understand technology.
 
-<!-- ====== MODE NAVIGATION ====== -->
-<h2 style="mpngargin:1rem 0 0.5rem;">🔑 Explore by Knowledge Mode</h2>
-<!-- ===== PLEBWARE CONSOLE ===== -->
-{% include dashboard.html %}
+The Plebware philosophy starts with the person:
 
-<hr>
+**learn it · understand it · use it · improve it · make it your own**
 
-<!-- ====== LATEST 3 ARTICLES (STRICT) ====== -->
-<h2>📰 Latest Articles</h2>
-<ul style="list-style:none; padding:0;">
+---
+
+## 🔑 PlebWare — The Ecosystem
+
+**PlebWare** is the name of the ecosystem and the brand.
+
+It brings together the things we learn, write, research, design, develop and build.
+
+### PlebWare encompasses:
+
+* 📚 Knowledge and research
+* ✍️ Writing and publishing
+* 🛠️ Software and development
+* 🐧 Linux and open technology
+* 🎨 Graphics and creative work
+* 🎵 Music and audio
+* 🎬 Video and broadcasting
+* 🤖 Artificial intelligence
+* 🎓 Education and tuition
+* 💰 Accounting and practical life skills
+* 🎮 Leisure and entertainment
+* 👥 Community and collaboration
+
+---
+
+## 👥 The Makers
+
+PlebWare is created by people.
+
+### Otto
+
+Writer, researcher, developer, designer and maker.
+
+Writing under **Othello Cody Verrocchio**, Otto brings together science fiction, journalism, Christian writing, technology, graphics and practical knowledge.
+
+### Jullian
+
+Creator, developer, musician and maker.
+
+Jullian's work contributes to the creative, technical and community sides of the ecosystem.
+
+Together, we explore what happens when **ordinary people use technology to create rather than merely consume.**
+
+---
+
+## 🧠 Explore the Knowledge
+
+PlebWare currently contains **12 knowledge modes**, covering hundreds of articles and a growing collection of practical information.
+
+| Mode              | Explore                                                               |
+| ----------------- | --------------------------------------------------------------------- |
+| 🏠 **Everyday**   | Practical living, cooking, housekeeping, personal care and daily life |
+| ✍️ **Author**     | Fiction, non-fiction, devotionals, journalism, poetry and books       |
+| 🎓 **Study**      | Tuition, writing, theology, web design and life skills                |
+| 🔬 **Research**   | Technology, Linux, Christian research, sustainability and more        |
+| 🎨 **Graphics**   | GIMP, Inkscape, design, AI art, cartoons and diagrams                 |
+| 🎵 **Music**      | Audio production, music software, sounds and music projects           |
+| 🎬 **Video**      | Editing, recording, subtitles and video creation                      |
+| 📡 **Broadcast**  | Podcasts, videocasts, PlebCasts and broadcasting                      |
+| 🤖 **AI Helpers** | AI tools, prompting, writing, coding, research and local AI           |
+| 💻 **Developer**  | Linux, GitHub, scripting, automation and PlebMachine                  |
+| 💰 **Accounting** | Budgeting, spreadsheets, GNUCash, tax and financial organisation      |
+| 🎮 **Leisure**    | Games, entertainment, cooking, gardening and recreation               |
+
+**Explore the knowledge modes using the navigation above.**
+
+---
+
+## 📰 Recent Articles
+
+The PlebWare library is continually growing.
+
+Here are the latest articles:
+
 {% assign recent_posts = site.posts | sort: 'date' | reverse %}
-{% assign counter = 0 %}
-{% for post in recent_posts %}
-  {% if counter < 3 %}
-    {% assign counter = counter | plus: 1 %}
-    <li style="padding:0.3rem 0; border-bottom:1px solid #eee;">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <span style="font-size:0.8rem; color:#888;"> – {{ post.date | date: "%Y-%m-%d" }}</span>
-    </li>
-  {% endif %}
+
+{% for post in recent_posts limit: 8 %}
+
+### {{ post.title }}
+
+<small>{{ post.date | date: "%d %B %Y" }}</small>
+
+{% if post.excerpt %}
+{{ post.excerpt | strip_html | truncate: 180 }}
+{% endif %}
+
+[Read Article →]({{ post.url | relative_url }})
+
 {% endfor %}
-</ul>
-<p><a href="/recent/">See all 240+ articles →</a></p>
 
-<hr>
+---
 
-<!-- ====== SPOTLIGHT: EVERYDAY (3 posts max) ====== -->
-<h2>🧹 Spotlight: Everyday Living</h2>
-<p>Practical guides for housekeeping, cooking, fitness, budgeting, and more.</p>
-<ul style="list-style:none; padding:0;">
-{% assign everyday_posts = site.posts | where_exp: "post", "post.path contains 'everyday/'" | sort: 'date' | reverse %}
-{% assign counter = 0 %}
-{% for post in everyday_posts %}
-  {% if counter < 3 %}
-    {% assign counter = counter | plus: 1 %}
-    <li style="padding:0.2rem 0;">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <span style="font-size:0.8rem; color:#888;">– {{ post.date | date: "%Y-%m-%d" }}</span>
-    </li>
-  {% endif %}
-{% endfor %}
-</ul>
-<p><a href="/everyday/">Browse all Everyday topics →</a></p>
+## 🛠️ What We're Building
 
-<hr>
-<!-- ====== CALL TO ACTION ====== -->
-<div style="background:#faf3e0; padding:1rem; border-radius:8px; text-align:center;">
-  <p style="margin:0;">
-    💬 <strong>Join the conversation</strong> – every article has a comments section.<br>
-    <small>You'll need a free GitHub account to participate.</small>
-  </p>
-</div>
+PlebWare isn't only a publishing project.
 
-<hr>
-----
-<br>
+It is also a workshop.
 
+### 🐧 PlebMachine
 
+A modular productivity layer for Linux designed around the idea that a desktop environment should be **useful, understandable and configurable without locking the user into somebody else's workflow.**
 
-----
-<br>
-<!-- ====== FOOTER ====== -->
-<p style="font-size:0.8rem; text-align:center; color:#888;">
-  PlebWare – Accessible. Repairable. Understandable Technology.<br>
-  Established 2003 · {{ site.time | date: "%Y" }}
-</p>
+### 🎧 PlebVox
+
+The developing **Read Aloud** system for PlebWare.
+
+PlebVox turns PlebWare articles into spoken content directly in the browser, making the knowledge library more accessible across different devices and platforms.
+
+### 💻 PlebWare Development
+
+The PlebWare ecosystem also includes experiments and development in:
+
+* Linux
+* GitHub Pages
+* JavaScript
+* HTML/CSS
+* automation
+* artificial intelligence
+* browser tools
+* graphics
+* media production
+
+---
+
+## 👥 Community
+
+PlebWare is not intended to exist in isolation.
+
+The wider ecosystem includes **PlebWave Frontier** and **The Circle**, bringing together people, ideas, creativity and collaboration.
+
+The technology is only one part of the picture.
+
+**People are the reason it exists.**
+
+---
+
+## 📖 The PlebWare Lexicon
+
+PlebWare contains its own growing vocabulary.
+
+The **PlebWare Lexicon** explains the names, concepts and relationships that make up the ecosystem — including the deliberate distinction between:
+
+**Plebware** — the user.
+
+**PlebWare** — the ecosystem and brand.
+
+This vocabulary is important because the names describe relationships, not merely products.
+
+**[Explore the PlebWare Lexicon →](/about/lexicon/)**
+
+---
+
+## 🔎 Find Something Useful
+
+With hundreds of articles covering technology, creativity, practical life, writing, research, education and entertainment, there is plenty to explore.
+
+Use the navigation above or search the library.
+
+**[🔎 Search PlebWare →](/search/)**
+
+**[📚 Browse All Articles →](/all-posts/)**
+
+---
+
+## 🔑 The Idea Behind PlebWare
+
+Technology should not make ordinary people feel stupid.
+
+Knowledge should not be hidden behind unnecessary complexity.
+
+Software should serve the person using it.
+
+And creativity should not belong exclusively to people with expensive equipment, expensive software or professional titles.
+
+**PlebWare is our attempt to put those ideas into practice.**
+
+---
+
+*Technology should remain connected to humanity.*
+
+**Welcome to PlebWare.**
