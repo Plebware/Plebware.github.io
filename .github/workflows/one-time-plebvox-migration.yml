@@ -1,0 +1,119 @@
+name: One-Time PlebVox Migration
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Add PlebVox markers to the latest 20 articles
+        shell: bash
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+
+          posts = []
+          for path in Path('.').rglob('*.md'):
+              p = path.as_posix()
+              if '/_posts/' not in p or p.startswith('.git/'):
+                  continue
+
+              text = path.read_text(encoding='utf-8')
+              match = re.search(r'^date:\s*["\']?(\d{4}-\d{2}-\d{2})', text, re.MULTILINE)
+              if not match:
+                  continue
+
+              posts.append((match.group(1), p, path, text))
+
+          posts.sort(key=lambda item: (item[0], item[1]), reverse=True)
+          selected = posts[:20]
+
+          print('Latest 20 article files:')
+          for date, p, _, _ in selected:
+              print(f'  {date}  {p}')
+
+          changed = []
+          skipped = []
+
+          for date, p, path, text in selected:
+              if '<!-- PLEBVOX:START -->' in text or '<!-- PLEBVOX:END -->' in text:
+                  skipped.append(p)
+                  continue
+
+              if not text.startswith('---\n'):
+                  print(f'SKIP (no front matter): {p}')
+                  continue
+
+              front_matter_end = text.find('\n---', 4)
+              if front_matter_end == -1:
+                  print(f'SKIP (invalid front matter): {p}')
+                  continue
+
+              body_start = front_matter_end + 4
+              body = text[body_start:]
+
+              comments_marker = body.find('<!-- Comments Section -->')
+              if comments_marker != -1:
+                  article = body[:comments_marker].rstrip()
+                  remainder = body[comments_marker:].lstrip('\n')
+                  new_body = (
+                      '\n<!-- PLEBVOX:START -->\n\n'
+                      + article
+                      + '\n\n<!-- PLEBVOX:END -->\n\n'
+                      + remainder
+                  )
+              else:
+                  article = body.rstrip()
+                  new_body = '\n<!-- PLEBVOX:START -->\n\n' + article + '\n\n<!-- PLEBVOX:END -->\n'
+
+              path.write_text(text[:body_start] + new_body, encoding='utf-8')
+              changed.append(p)
+
+          print(f'Changed: {len(changed)}')
+          print(f'Already marked: {len(skipped)}')
+
+          if changed:
+              print('Changed files:')
+              for p in changed:
+                  print(f'  {p}')
+          PY
+
+      - name: Commit article updates
+        id: commit
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '**/_posts/*.md'
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No article changes required."
+          else
+            git commit -m "Add PlebVox markers to latest 20 articles"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Trigger GitHub Pages deployment
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --repo "$GITHUB_REPOSITORY" --ref main
+
+      - name: Remove one-time migration workflow
+        shell: bash
+        run: |
+          git pull --rebase origin main
+          git rm .github/workflows/one-time-plebvox-migration.yml
+          git commit -m "Remove one-time PlebVox migration workflow"
+          git push
