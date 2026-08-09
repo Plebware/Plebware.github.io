@@ -1,31 +1,45 @@
 ---
+
 layout: default
 title: "PlebWare"
 description: "An ecosystem of knowledge, technology, creativity and practical learning for ordinary people."
 tags:
-  - PlebWare
-  - Plebware
-  - Knowledge
-  - Technology
-  - Education
-  - Writing
-  - Software
-  - Community
+
+* PlebWare
+* Plebware
+* Knowledge
+* Technology
+* Education
+* Writing
+* Software
+* Community
+* PlebVox
+
 ---
 
 # 🔑 PlebWare
 
 ## Knowledge for Ordinary People
 
+<!-- PLEBVOX:START -->
+
 **PlebWare** is an ecosystem built around a simple idea:
 
 > Technology, knowledge and creativity should remain accessible, understandable and connected to ordinary people.
 
-PlebWare brings together **knowledge, writing, software, education, media, research and practical projects** — all developed from the perspective of the people who actually use them.
+PlebWare brings together **knowledge, writing, software, education, media, research and practical projects** — developed from the perspective of the people who actually use them.
+
+<!-- PLEBVOX:END -->
+
+---
+
+{% include dashboard.html %}
 
 ---
 
 ## 👤 Plebware — The User
+
+<!-- PLEBVOX:START -->
 
 **Plebware** represents the ordinary human being.
 
@@ -36,6 +50,8 @@ Not somebody who needs to be an expert before they are allowed to understand tec
 The Plebware philosophy starts with the person:
 
 **learn it · understand it · use it · improve it · make it your own**
+
+<!-- PLEBVOX:END -->
 
 ---
 
@@ -63,8 +79,6 @@ It brings together the things we learn, write, research, design, develop and bui
 ---
 
 ## 👥 The Makers
-
-PlebWare is created by people.
 
 ### Otto
 
@@ -143,7 +157,9 @@ A modular productivity layer for Linux designed around the idea that a desktop e
 
 The developing **Read Aloud** system for PlebWare.
 
-PlebVox turns PlebWare articles into spoken content directly in the browser, making the knowledge library more accessible across different devices and platforms.
+PlebVox turns selected sections of PlebWare articles into spoken content directly in the browser, making the knowledge library more accessible across different devices and platforms.
+
+PlebVox is deliberately **opt-in**. Articles without PlebVox markers remain completely unchanged.
 
 ### 💻 PlebWare Development
 
@@ -203,6 +219,8 @@ Use the navigation above or search the library.
 
 ## 🔑 The Idea Behind PlebWare
 
+<!-- PLEBVOX:START -->
+
 Technology should not make ordinary people feel stupid.
 
 Knowledge should not be hidden behind unnecessary complexity.
@@ -213,8 +231,101 @@ And creativity should not belong exclusively to people with expensive equipment,
 
 **PlebWare is our attempt to put those ideas into practice.**
 
----
-
 *Technology should remain connected to humanity.*
 
 **Welcome to PlebWare.**
+
+<!-- PLEBVOX:END -->
+
+---
+
+## 💬 Comments
+
+<!-- Comments Section -->
+
+<div id="comments-section">
+    <h3>💬 Comments</h3>
+    <div id="utterances-container"></div>
+</div>
+
+<script>
+    // === UTTERANCES WITH DYNAMIC THEME ===
+    (function() {
+        'use strict';
+
+        let currentTheme = null;
+
+        function loadUtterances(theme) {
+            const container = document.getElementById('utterances-container');
+            if (!container) return;
+
+            // Clear container
+            container.innerHTML = '';
+
+            // Create new script
+            const script = document.createElement('script');
+            script.src = 'https://utteranc.es/client.js';
+            script.setAttribute('repo', 'plebware/plebware.github.io');
+            script.setAttribute('issue-term', 'pathname');
+            script.setAttribute('theme', theme);
+            script.setAttribute('crossorigin', 'anonymous');
+            script.async = true;
+
+            // Add to container
+            container.appendChild(script);
+            currentTheme = theme;
+        }
+
+        function getTheme() {
+            const isDark = document.body.classList.contains('dark-theme');
+            return isDark ? 'github-dark' : 'github-light';
+        }
+
+        // Initialize on page load
+        function init() {
+            const theme = getTheme();
+            loadUtterances(theme);
+        }
+
+        // Handle theme changes
+        function onThemeChange() {
+            const newTheme = getTheme();
+
+            if (newTheme !== currentTheme) {
+                loadUtterances(newTheme);
+            }
+        }
+
+        // Listen for theme changes via custom event
+        document.addEventListener('themeChanged', onThemeChange);
+
+        // Also listen for class changes as backup
+        const observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.attributeName === 'class') {
+                    onThemeChange();
+                }
+            });
+        });
+
+        // Start everything when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                init();
+
+                observer.observe(document.body, {
+                    attributes: true,
+                    attributeFilter: ['class']
+                });
+            });
+        } else {
+            init();
+
+            observer.observe(document.body, {
+                attributes: true,
+                attributeFilter: ['class']
+            });
+        }
+
+    })();
+</script>
