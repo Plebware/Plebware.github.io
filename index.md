@@ -217,7 +217,7 @@ The **PlebWare Lexicon** explains the names, concepts and relationships that mak
 
 This vocabulary is important because the names describe relationships, not merely products.
 
-**[Explore the PlebWare Lexicon →](/about/lexicon/)**
+**[Explore the PlebWare Lexicon →](/about/_posts/2026-08-09-the-plebware-lexicon.md)**
 
 ---
 
