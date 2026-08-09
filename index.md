@@ -14,9 +14,9 @@ tags:
   - "PlebVox"
 ---
 
-# 🔑 PlebWare
+# 🔑 PlebWare.
 
-## Knowledge for Ordinary People
+## Knowledge for Ordinary People!
 
 <!-- PLEBVOX:START -->
 
@@ -37,7 +37,7 @@ PlebWare brings together **knowledge, writing, software, education, media, resea
 ## 👤 Plebware — The User
 
 <!-- PLEBVOX:START -->
-
+.
 **Plebware** represents the ordinary human being.
 
 Not a corporation.
@@ -60,30 +60,30 @@ It brings together the things we learn, write, research, design, develop and bui
 
 ### PlebWare encompasses:
 
-* 📚 Knowledge and research
-* ✍️ Writing and publishing
-* 🛠️ Software and development
-* 🐧 Linux and open technology
-* 🎨 Graphics and creative work
-* 🎵 Music and audio
-* 🎬 Video and broadcasting
-* 🤖 Artificial intelligence
-* 🎓 Education and tuition
-* 💰 Accounting and practical life skills
-* 🎮 Leisure and entertainment
-* 👥 Community and collaboration
+* 📚 Knowledge and research.
+* ✍️ Writing and publishing.
+* 🛠️ Software and development.
+* 🐧 Linux and open technology.
+* 🎨 Graphics and creative work.
+* 🎵 Music and audio.
+* 🎬 Video and broadcasting.
+* 🤖 Artificial intelligence.
+* 🎓 Education and tuition.
+* 💰 Accounting and practical life skills.
+* 🎮 Leisure and entertainment.
+* 👥 Community and collaboration.
 
 ---
 
 ## 👥 The Makers
 
-### Otto
+### Otto aka Othello Cody Verrocchio.
 
 Writer, researcher, developer, designer and maker.
 
 Writing under **Othello Cody Verrocchio**, Otto brings together science fiction, journalism, Christian writing, technology, graphics and practical knowledge.
 
-### Jullian
+### Jullian aka Juelz (Boy Mist)
 
 Creator, developer, musician and maker.
 
@@ -97,20 +97,20 @@ Together, we explore what happens when **ordinary people use technology to creat
 
 PlebWare currently contains **12 knowledge modes**, covering hundreds of articles and a growing collection of practical information.
 
-| Mode              | Explore                                                               |
-| ----------------- | --------------------------------------------------------------------- |
-| 🏠 **Everyday**   | Practical living, cooking, housekeeping, personal care and daily life |
-| ✍️ **Author**     | Fiction, non-fiction, devotionals, journalism, poetry and books       |
-| 🎓 **Study**      | Tuition, writing, theology, web design and life skills                |
-| 🔬 **Research**   | Technology, Linux, Christian research, sustainability and more        |
-| 🎨 **Graphics**   | GIMP, Inkscape, design, AI art, cartoons and diagrams                 |
-| 🎵 **Music**      | Audio production, music software, sounds and music projects           |
-| 🎬 **Video**      | Editing, recording, subtitles and video creation                      |
-| 📡 **Broadcast**  | Podcasts, videocasts, PlebCasts and broadcasting                      |
-| 🤖 **AI Helpers** | AI tools, prompting, writing, coding, research and local AI           |
-| 💻 **Developer**  | Linux, GitHub, scripting, automation and PlebMachine                  |
-| 💰 **Accounting** | Budgeting, spreadsheets, GNUCash, tax and financial organisation      |
-| 🎮 **Leisure**    | Games, entertainment, cooking, gardening and recreation               |
+| Mode              | Explore                                                                 |
+| ----------------- | ----------------------------------------------------------------------- |
+| 🏠 **Everyday.**   | Practical living, cooking, housekeeping, personal care and daily life. |
+| ✍️ **Author.**     | Fiction, non-fiction, devotionals, journalism, poetry and books.       |
+| 🎓 **Study.**      | Tuition, writing, theology, web design and life skills.                |
+| 🔬 **Research.**   | Technology, Linux, Christian research, sustainability and more.        |
+| 🎨 **Graphics.**   | GIMP, Inkscape, design, AI art, cartoons and diagrams.                 |
+| 🎵 **Music.**      | Audio production, music software, sounds and music projects.           |
+| 🎬 **Video.**      | Editing, recording, subtitles and video creation.                      |
+| 📡 **Broadcast.**  | Podcasts, videocasts, PlebCasts and broadcasting.                      |
+| 🤖 **AI Helpers.** | AI tools, prompting, writing, coding, research and local AI.           |
+| 💻 **Developer.**  | Linux, GitHub, scripting, automation and PlebMachine.                  |
+| 💰 **Accounting.** | Budgeting, spreadsheets, GNUCash, tax and financial organisation.      |
+| 🎮 **Leisure.**    | Games, entertainment, cooking, gardening and recreation.               |
 
 **Explore the knowledge modes using the navigation above.**
 
