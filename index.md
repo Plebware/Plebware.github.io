@@ -166,7 +166,7 @@ A modular productivity layer for Linux designed around the idea that a desktop e
 
 ### 🎧 PlebVox
 
-The developing **Read Aloud** system for PlebWare.
+PlebVox is the developing **Read Aloud** system for PlebWare.
 
 PlebVox turns selected sections of PlebWare articles into spoken content directly in the browser, making the knowledge library more accessible across different devices and platforms.
 
@@ -205,6 +205,7 @@ The technology is only one part of the picture.
 <!-- PLEBVOX:END -->
 ---
 
+<!-- PLEBVOX:START -->
 ## 📖 The PlebWare Lexicon
 
 PlebWare contains its own growing vocabulary.
@@ -218,6 +219,8 @@ The **PlebWare Lexicon** explains the names, concepts and relationships that mak
 This vocabulary is important because the names describe relationships, not merely products.
 
 **[Explore the PlebWare Lexicon →](/about/_posts/2026-08-09-the-plebware-lexicon.md)**
+
+<!-- PLEBVOX:END -->
 
 ---
 
