@@ -2,9 +2,8 @@
 layout: post
 title: "Returning To God"
 date: 2026-06-11
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 Finding Strength In Quietness and Confidence
 
@@ -193,7 +192,6 @@ Consistency is more powerful than occasional spiritual enthusiasm.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ### 👑 Heavenly View
 Those who walk closely with God experience continual spiritual renewal.
 
@@ -332,5 +330,4 @@ In the Name of Jesus Christ, Amen.
 
 
 ----
-
 <!-- PLEBVOX:END -->

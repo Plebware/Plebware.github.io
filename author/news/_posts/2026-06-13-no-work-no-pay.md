@@ -2,9 +2,8 @@
 layout: post
 title: "No Work No Pay!"
 date: 2026-06-13
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 📰 Missed Four Days — Yet Still Writing
 
@@ -290,5 +289,4 @@ One prayer at a time.
 
 
 ----
-
 <!-- PLEBVOX:END -->

@@ -2,9 +2,8 @@
 layout: post
 title: "Mr Fix It All"
 date: 2026-06-11
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔧 How I Became A Handyman
 
@@ -258,5 +257,4 @@ And so, whenever something breaks, I still hear that familiar call:
 
 
 -----
-
 <!-- PLEBVOX:END -->

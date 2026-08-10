@@ -2,9 +2,8 @@
 layout: post
 title: "Raid Shadow Legends: A Casual Strategy Gamer's Perspective"
 date: 2024-01-01
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 **Raid Shadow Legends**: A Casual Strategy Gamer's Perspective
 
@@ -78,5 +77,4 @@ For anyone who enjoys collecting characters, optimising teams, and progressing s
 ## Today's verdict?
 
 The soup may have won first place, but Raid Shadow Legends comfortably took second.
-
 <!-- PLEBVOX:END -->

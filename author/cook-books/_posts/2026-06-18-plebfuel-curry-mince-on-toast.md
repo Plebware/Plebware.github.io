@@ -2,9 +2,8 @@
 layout: post
 title: "PlebFuel Curry Mince on Toast"
 date: 2026-06-18
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 <div align="center">
 
@@ -99,9 +98,7 @@ It can also be served over rice, pap, baked potatoes, or pasta if bread is not a
 If you are sensitive to chilli, start with **one habanero** and increase the quantity in future batches to taste.
 
 ### 💰 Cost Saving Score: ★★★★★
-
 ### 🔥 Flavour Score: ★★★★★
-
 ### 🍽️ Filling Power: ★★★★★
 
 *"Simple food. Big flavour. Small budget."* 🥩🍞🔥
@@ -195,5 +192,4 @@ If you are sensitive to chilli, start with **one habanero** and increase the qua
 
 
 ----
-
 <!-- PLEBVOX:END -->

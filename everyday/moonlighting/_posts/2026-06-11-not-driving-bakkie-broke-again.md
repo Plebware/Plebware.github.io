@@ -2,9 +2,8 @@
 layout: post
 title: "Moonlighting as a Driver: When the Wheels Stop Turning"
 date: 2026-06-11
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🚚 Moonlighting as a Driver: When the Wheels Stop Turning
 
@@ -215,5 +214,4 @@ When you work behind the wheel, you learn one important truth:
 
 
 ----
-
 <!-- PLEBVOX:END -->

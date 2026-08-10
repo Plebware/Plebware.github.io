@@ -2,9 +2,8 @@
 layout: post
 title: "Tech Research 101: Exploring the World of Technology"
 date: 2026-06-20
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 What Is Tech Research?
 
@@ -346,5 +345,4 @@ Technology changes — but the ability to learn remains the most powerful tool.
 
 *PlebTuition Series*
 *Learning, exploring, and discovering the digital frontier one idea at a time.*
-
 <!-- PLEBVOX:END -->

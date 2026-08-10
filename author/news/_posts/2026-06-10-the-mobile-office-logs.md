@@ -2,9 +2,8 @@
 layout: post
 title: "💻 | The Mobile Office Logs"
 date: 2026-06-10
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🚗 Portable Publishing From The Field
 
@@ -157,5 +156,4 @@ And today, that newsroom just happened to be parked somewhere in Johannesburg tr
 
 
 ---
-
 <!-- PLEBVOX:END -->

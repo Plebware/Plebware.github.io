@@ -2,9 +2,8 @@
 layout: post
 title: "Why Cookbooks Matter"
 date: 2024-06-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # Why Cookbooks Matter
 
@@ -213,5 +212,4 @@ The difference is measured not only in ingredients, but in generations.
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

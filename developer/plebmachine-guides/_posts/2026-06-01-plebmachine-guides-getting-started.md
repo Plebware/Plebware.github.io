@@ -2,9 +2,8 @@
 layout: post
 title: "PlebMachine Guides - Getting Started"
 date: 2026-06-01
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # PlebMachine Guides - Getting Started
 
@@ -130,5 +129,4 @@ These guides exist to make sure PlebMachine remains accessible as it grows.
 *If a system cannot be used, it cannot be understood.*
 
 **Otto Brinkmeier**
-
 <!-- PLEBVOX:END -->

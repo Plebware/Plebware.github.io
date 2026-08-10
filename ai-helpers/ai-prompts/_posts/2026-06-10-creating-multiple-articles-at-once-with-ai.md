@@ -2,9 +2,8 @@
 layout: post
 title: "Creating Multiple Articles at Once with AI"
 date: 2026-06-10
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 Creating Multiple Articles at Once with AI
 
@@ -115,5 +114,4 @@ That is the real power of combining human creativity with AI assistance.
 Not replacing the author.
 
 Multiplying what a single author can accomplish.
-
 <!-- PLEBVOX:END -->

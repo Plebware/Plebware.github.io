@@ -2,9 +2,8 @@
 layout: post
 title: "Web Graphics - Designing For The Digital World"
 date: 2026-06-20
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🌐 Web Graphics - Designing For The Digital World
 
@@ -303,5 +302,4 @@ It speaks before the words are read.
 # 🔑 PlebWare Creative Principle
 
 "Visual design turns information into experience."
-
 <!-- PLEBVOX:END -->

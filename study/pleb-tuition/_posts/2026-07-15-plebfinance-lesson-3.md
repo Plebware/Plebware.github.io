@@ -6,9 +6,8 @@ category: "pleb-tuition"
 tags: budgeting, money-management, financial-literacy, personal-finance, saving, pleb-finance, study
 mode: "study"
 author: Otto Brinkmeier
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 PlebFinance Lesson 3
 
@@ -363,5 +362,6 @@ Learn how investing in tools, education and productive assets can increase your 
 
     })();
 </script>
+
 
 <!-- PLEBVOX:END -->

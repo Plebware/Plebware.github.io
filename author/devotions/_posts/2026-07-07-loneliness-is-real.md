@@ -2,9 +2,8 @@
 layout: post
 title: "Loneliness Is Real"
 date: 2026-07-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🙏 **Daily Devotion**
 
@@ -212,5 +211,4 @@ Can echo loud in Heaven.
 
 
 ------
-
 <!-- PLEBVOX:END -->

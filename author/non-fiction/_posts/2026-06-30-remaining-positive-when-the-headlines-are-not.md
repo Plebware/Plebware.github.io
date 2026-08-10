@@ -2,9 +2,8 @@
 layout: post
 title: "Remaining Positive When the Headlines Are Not"
 date: 2026-06-30
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🌤️ Remaining Positive When the Headlines Are Not
 
@@ -207,5 +206,4 @@ But because hope is stronger than today's headlines.
 </script>
 
 ---
-
 <!-- PLEBVOX:END -->

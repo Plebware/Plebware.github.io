@@ -2,9 +2,7 @@
 layout: post
 title: "light Overcomes The Darkness"
 date: 2026-06-16
----
-
-<!-- PLEBVOX:START -->
+---<!-- PLEBVOX:START -->
 
 <div align="center">
 
@@ -318,5 +316,4 @@ _Amen._
 </script>
 
 -----
-
 <!-- PLEBVOX:END -->

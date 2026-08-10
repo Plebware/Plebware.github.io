@@ -7,9 +7,9 @@ tags: [video-editing, transitions, colour-correction, raw-footage, pacing, audio
 excerpt: "Timeless principles for editing videos that engage, inform, and inspire."
 mode: "video"
 author: Otto Brinkmeier
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
+
 
 # 🎬 The 10 Commandments of Great Video Editing
 
@@ -149,7 +149,6 @@ Continuity is about maintaining a consistent visual world. It includes:
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ### Practical tip:
 
 - **Review your edit for continuity errors.** Watch it back with a critical eye.
@@ -323,5 +322,4 @@ These ten commandments are not rules to follow blindly. They are principles to r
 
 
 ----
-
 <!-- PLEBVOX:END -->

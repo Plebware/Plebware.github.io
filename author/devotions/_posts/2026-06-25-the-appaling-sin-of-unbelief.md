@@ -2,9 +2,8 @@
 layout: post
 title: "The Appalling Sin of Unbelief"
 date: 2026-06-25
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🐑 The Appalling Sin of Unbelief
 
@@ -188,7 +187,6 @@ Faith grows stronger every time we choose obedience.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ### 👑 Heavenly View
 
 Heaven rejoices whenever a sinner willingly turns to Christ.
@@ -362,5 +360,4 @@ _Amen._
 
 
 -----
-
 <!-- PLEBVOX:END -->

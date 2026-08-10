@@ -2,9 +2,8 @@
 layout: post
 title: "Head-Knowledge vs Action"
 date: 2026-06-27
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 📖 Theoretical Training Versus Practical Training
 
@@ -290,7 +289,6 @@ Knowledge became action.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ## ⏳ The Test of Stewardship
 
 God entrusts each of us with:
@@ -466,5 +464,4 @@ May each of us strive not simply to become students of God's Word, but faithful 
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

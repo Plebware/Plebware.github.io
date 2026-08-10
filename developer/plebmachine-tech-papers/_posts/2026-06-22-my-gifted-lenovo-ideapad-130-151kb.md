@@ -2,9 +2,8 @@
 layout: post
 title: "My Gifted Lenovo IdeaPad 130-15IKB"
 date: 2026-06-22
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 💻 My Gifted Lenovo IdeaPad 130-15IKB
 
@@ -198,5 +197,4 @@ While newer hardware exists, this gifted Lenovo IdeaPad remains a highly practic
 For a writer, researcher, Linux enthusiast, and developer, it remains a very capable tool for getting meaningful work done.
 
 **PLEBMACHINE is ready for duty.** 🚀
-
 <!-- PLEBVOX:END -->

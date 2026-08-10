@@ -2,9 +2,8 @@
 layout: post
 title: "Why Game Tips Matter"
 date: 2026-06-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 ## Know How Is King
 
@@ -135,5 +134,4 @@ And every small insight makes the experience more meaningful.
 *Understanding the system changes how you play it.*
 
 **O.C. Verricchio**
-
 <!-- PLEBVOX:END -->

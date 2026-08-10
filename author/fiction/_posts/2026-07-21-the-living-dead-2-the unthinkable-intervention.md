@@ -7,9 +7,8 @@ category: "fiction"
 tags: [the-living-dead, spiritual-condition, redemption, divine-intervention, biblical-theology, speculative-fiction]
 mode: "author"
 excerpt: "The shadows have served their purpose. The pedagogy is complete. But when the cure finally arrives, will the living dead recognize it—or will they do what they have always done?"
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # The Living Dead
 
@@ -104,7 +103,6 @@ But how? How can **the Architect** descend into the grave without becoming dead 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ### The Unthinkable Step
 
 This was the dilemma. This was the cosmic problem that had no human solution.
@@ -256,7 +254,6 @@ And He bore them to the grave.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ### The Silence
 
 He died.

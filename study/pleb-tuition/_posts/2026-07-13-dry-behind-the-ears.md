@@ -6,9 +6,8 @@ category: "pleb-tuition"
 tags: [finance, education, lifelong-learning, wealth-building, critical-thinking, personal-development, pleb-tuition]
 mode: "study"
 author: Otto Brinkmeier
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 **Learning What Money Cannot Buy!**
 
@@ -211,5 +210,4 @@ Let's begin learning.
 
 
 ----
-
 <!-- PLEBVOX:END -->

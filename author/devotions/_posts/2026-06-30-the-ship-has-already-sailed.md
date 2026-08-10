@@ -2,9 +2,8 @@
 layout: post
 title: "⛵ The Ship Has Already Sailed"
 date: 2026-06-30
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # ⛵ What Is Done Is Done.
 
@@ -249,7 +248,6 @@ Faith matures in exactly the same way.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ### 🔑 Practical Application
 
 - View hardships as opportunities to mature.
@@ -440,5 +438,4 @@ In Jesus Christ's mighty Name,
 </script>
 
 -----
-
 <!-- PLEBVOX:END -->

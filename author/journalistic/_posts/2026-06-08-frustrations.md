@@ -2,9 +2,8 @@
 layout: post
 title: "Frustrations"
 date: 2026-06-08
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # Where Does Frustration End And Depression Start
 
@@ -115,5 +114,4 @@ And yet, beneath that disorientation, there is still something intact. A quiet a
 
 
 ----
-
 <!-- PLEBVOX:END -->

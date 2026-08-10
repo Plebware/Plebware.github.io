@@ -6,9 +6,9 @@ category: "fiction"
 tags: [empty, financial-lack, hard-times, hope, faithfulness, faith, struggles]
 mode: "author"
 author: Otto Brinkmeier
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
+
 
 # 🌾 **Lack Is An Illusion**
 
@@ -278,5 +278,4 @@ Loving Father, thank You for reminding us that our hope is never found in earthl
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

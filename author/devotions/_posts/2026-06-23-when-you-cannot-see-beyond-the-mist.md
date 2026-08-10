@@ -2,9 +2,8 @@
 layout: post
 title: "When You Cannot See Beyond the Mist"
 date: 2026-06-23
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🌅 Trusting God Through The Fog
 
@@ -140,5 +139,4 @@ Amen.
 
 
 -----
-
 <!-- PLEBVOX:END -->

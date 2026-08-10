@@ -6,9 +6,8 @@ category: "fiction"
 tags: [life, memoir, wisdom, writing, education, plebware, legacy]
 mode: "author"
 author: Otto Brinkmeier
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 👑 Royal Ashes
 
@@ -160,5 +159,4 @@ And if these **Royal Ashes** continue burning long after I am gone, then my life
 
     })();
 </script>
-
 <!-- PLEBVOX:END -->

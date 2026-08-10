@@ -2,10 +2,9 @@
 layout: post
 title: "News Section Launched"
 date: 2026-06-09
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
-
+ 
 Today I added a **News Section** under **Author**. 
 
 From now on, I'll be able to post daily or periodic updates about site changes, fixes, and development notes.
@@ -120,5 +119,4 @@ For a publishing platform centred around articles, manuals, tutorials, devotiona
 </script>
 
 ---
-
 <!-- PLEBVOX:END -->

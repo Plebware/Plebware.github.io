@@ -2,9 +2,9 @@
 layout: post
 title: "Please Provide Lord"
 date: 2026-07-12
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
+
 
 ## 🙏 Daily Prayer for Provision, Strength, Guidance, and Wisdom
 
@@ -129,5 +129,4 @@ In the precious name of Jesus Christ, I pray.
 
 
 -----
-
 <!-- PLEBVOX:END -->

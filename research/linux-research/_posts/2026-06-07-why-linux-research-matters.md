@@ -2,9 +2,8 @@
 layout: post
 title: "Why Linux Research Matters"
 date: 2026-06-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 ## More Than Just an Operating System
 

@@ -2,9 +2,8 @@
 layout: post
 title: "Reflection"
 date: 2026-05-22
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # From The Mobile Office
 
@@ -18,7 +17,6 @@ Some have been neglected for two years or more, and a few have been untouched co
 So here I sit, pondering which goals should become priorities and so forth.
 
 ## Health first.
-
 ### Financial stability is second.
 (A joke 😄), wishful thinking pops into my mind.
 
@@ -74,7 +72,6 @@ Not fantasies. Not billionaire dreams. Not motivational-speaker nonsense shouted
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ## Real goals.
 Goals built from survival.
 
@@ -282,5 +279,6 @@ I wrote this piece to reveal a small portion of my soul, to show the severity of
 </script>
 
 -----
+
 
 <!-- PLEBVOX:END -->

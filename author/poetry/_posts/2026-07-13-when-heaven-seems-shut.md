@@ -6,9 +6,9 @@ category: "poetry"
 tags: [lack, worries, weary, tears, prayers, delay, hope]
 mode: "author"
 author: Otto Brinkmeier
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
+
 
 ```
 When cupboards seem empty
@@ -126,5 +126,4 @@ And never sleeps.
 
 
 -----
-
 <!-- PLEBVOX:END -->

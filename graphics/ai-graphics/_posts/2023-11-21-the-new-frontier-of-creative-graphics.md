@@ -2,9 +2,9 @@
 layout: post
 title: "The New Frontier of Creative Graphics"
 date: 2023-11-21
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
+
 
 ## A New Tool for Creators
 
@@ -126,5 +126,4 @@ Creativity will remain timeless.
 "The machine generates images. The creator generates meaning."
 
 Captain Gemini
-
 <!-- PLEBVOX:END -->

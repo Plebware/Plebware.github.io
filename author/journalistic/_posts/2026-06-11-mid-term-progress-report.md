@@ -2,9 +2,8 @@
 layout: post
 title: "2026 Mid-Term Progress Report: The PlebWare and PlebMachine Journey"
 date: 2026-06-11
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🚀 2026 Mid-Term Progress Report
 
@@ -17,7 +16,6 @@ date: 2026-06-11
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ## 📈 Introduction
 
 As we reach the midpoint of 2026, it is encouraging to look back and see how much progress has been made over the past few months.
@@ -395,5 +393,6 @@ And this is only the beginning.
 
 
 ----
+
 
 <!-- PLEBVOX:END -->

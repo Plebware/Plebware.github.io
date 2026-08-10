@@ -2,9 +2,8 @@
 layout: post
 title: "🎙️ Othello's AI Blog Casts"
 date: 2026-06-30
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🎙️ Othello's AI Blog Casts
 
@@ -88,5 +87,4 @@ This collection will continue to grow as new articles are transformed into profe
 Thank you for joining me on this journey through technology, creativity, and lifelong learning.
 
 — **Othello Cody Verrocchio**
-
 <!-- PLEBVOX:END -->

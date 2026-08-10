@@ -2,16 +2,14 @@
 layout: post
 title: "What Are You Really Hungry For??"
 date: 2026-06-07
----
-
-<!-- PLEBVOX:START -->
+---<!-- PLEBVOX:START -->
 
 ## 🍞 **What Desire Drives You?** 🌊
 
-> *A Devotion on Sacred Cravings, Purpose, and the Hunger Only God Can Fill*
+> *A Devotion on Sacred Cravings, Purpose, and the Hunger Only God Can Fill* 
 
 ## 🙏 **Opening Prayer** 
- _Lord Jesus, align my hunger with Your will so that what I crave most is never less than You Yourself. Amen_
+ _Lord Jesus, align my hunger with Your will so that what I crave most is never less than You Yourself. Amen_ 
 
 ## 🌅 *The Quiet Alarm Within Us* 
 Every human life is ruled by invisible alarms ⏰.
@@ -282,5 +280,4 @@ And appetite often determines direction.
 </script>
 
 -----
-
 <!-- PLEBVOX:END -->

@@ -2,9 +2,8 @@
 layout: post
 title: "OBS Studio – Professional Streaming and Recording for Everyone"
 date: 2026-06-21
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🎥 OBS Studio
 
@@ -203,5 +202,4 @@ Whether you are a teacher, gamer, podcaster, church media volunteer, or aspiring
 * Screen Recording
 * Church Media
 * Linux Content Creation
-
 <!-- PLEBVOX:END -->

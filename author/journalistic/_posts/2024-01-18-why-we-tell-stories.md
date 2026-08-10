@@ -2,9 +2,8 @@
 layout: post
 title: "Why We Tell Stories"
 date: 2024-01-18
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # Captain's Log 0001 - Why We Tell Stories
 

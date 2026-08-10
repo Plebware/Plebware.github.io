@@ -2,9 +2,7 @@
 layout: post
 title: "Mobile Office Reflection"
 date: 2026-06-24
----
-
-<!-- PLEBVOX:START -->
+---<!-- PLEBVOX:START -->
 
 # 🚗 Writing With a New Purpose
 
@@ -147,5 +145,4 @@ And for now, it is where much of my journey as a writer continues.
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

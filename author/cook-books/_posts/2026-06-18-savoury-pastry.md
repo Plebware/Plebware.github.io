@@ -2,9 +2,8 @@
 layout: post
 title: "🥐 Savoury Pastry"
 date: 2026-06-18
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 <div align="center">
 
@@ -134,5 +133,4 @@ Serve:
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

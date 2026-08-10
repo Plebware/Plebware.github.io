@@ -2,9 +2,8 @@
 layout: post
 title: "😫 Tired of Trying: The Iron Age of Connection"
 date: 2026-07-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 When Being Seen Becomes Rare
 
@@ -307,5 +306,4 @@ And perhaps, by learning once again to see one another truly, we may begin to he
 
 
 ----
-
 <!-- PLEBVOX:END -->

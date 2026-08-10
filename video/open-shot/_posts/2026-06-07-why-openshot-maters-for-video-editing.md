@@ -2,9 +2,8 @@
 layout: post
 title: "Why OpenShot?"
 date: 2026-06-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # Why OpenShot Matters for Video Editing
 
@@ -135,5 +134,4 @@ OpenShot exists to turn that curiosity into action—one simple project at a tim
 *Every creator starts somewhere simple.*
 
 **O.C. Verricchio**
-
 <!-- PLEBVOX:END -->

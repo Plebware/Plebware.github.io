@@ -2,9 +2,8 @@
 layout: post
 title: "Graphic Design 101: The Art of Visual Communication"
 date: 2026-06-20
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 What Is Graphic Design?
 
@@ -457,5 +456,4 @@ Every great design begins with a simple idea.
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

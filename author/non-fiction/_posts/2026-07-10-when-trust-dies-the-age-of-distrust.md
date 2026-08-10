@@ -2,12 +2,12 @@
 layout: post
 title: "When Trust Dies - The Age of Distrust"
 date: 2026-07-10
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
-# **The Breaking Point of Ordinary People**
+# **The Breaking Point of Ordinary People** 
 
+ 
 ## 🔑  **Broken Promises** 
 
 Governments promise.
@@ -21,7 +21,7 @@ Companies promise  better working conditions and rewards for faithful work, but 
 
 Families make false promises to each other.
 Churches preach promises,  but often those too are just empty words;  elders,  seasons, and congregants are too busy to apply love towards each other.
-Eventually, people stop believing everyone.
+Eventually, people stop believing everyone. 
 
 ## 🔑 *Economic Pressure Changes Character*
 
@@ -41,7 +41,7 @@ employers don't care
 corporations only want profit
 social media rewards shouting instead of listening. 
 
-Feeling ignored eventually becomes anger,  something I see in my own life,  and that of my beloved spiritual son Juelz,  lately we are at each others throats over,  issues others have caused,  and because we cannot even keep our own promises to each other.
+Feeling ignored eventually becomes anger,  something I see in my own life,  and that of my beloved spiritual son Juelz,  lately we are at each others throats over,  issues others have caused,  and because we cannot even keep our own promises to each other. 
 
 ## 🔑  **Trust Is Earned Slowly but Lost Quickly** 
 
@@ -109,7 +109,7 @@ Not because they know... But because recurring disappointment has hurt them so o
 
 Pandemics. Inflation. Load shedding. Wars. Job losses.
 
-Living in permanent crisis changes the human spirit. It turns good people into horrible people,  and turns horrible people into sociopathic monsters.
+Living in permanent crisis changes the human spirit. It turns good people into horrible people,  and turns horrible people into sociopathic monsters. 
 
 ## 🔑  **Respect Has Become Conditional**
 
@@ -223,5 +223,4 @@ Perhaps society hasn't become filled with bad people. Perhaps it has become fill
 
 
 ----
-
 <!-- PLEBVOX:END -->

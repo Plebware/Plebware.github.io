@@ -2,9 +2,8 @@
 layout: post
 title: "Correct Prompts For ChatGPT"
 date: 2026-06-17
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🤖 How To Prompt ChatGPT For Better Results
 <div align="center">

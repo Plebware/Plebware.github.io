@@ -2,9 +2,8 @@
 layout: post
 title: "Netflix Matters for Modern Entertainment"
 date: 2026-06-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 ## Netflix Our First Stop For Entertainment
 
@@ -122,5 +121,4 @@ The search for those stories is part of the adventure.
 *Every screen hides a story waiting to be discovered.*
 
 **O.C. Verricchio**
-
 <!-- PLEBVOX:END -->

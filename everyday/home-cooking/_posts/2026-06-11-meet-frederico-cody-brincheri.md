@@ -2,9 +2,8 @@
 layout: post
 title: "Federico Cody Brincheri – Cook and Culinary Experimenter"
 date: 2026-06-11
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🍳 AI Chef 
 
@@ -226,5 +225,4 @@ The next experiment is about to begin.
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

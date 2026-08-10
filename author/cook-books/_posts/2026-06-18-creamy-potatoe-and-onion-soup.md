@@ -2,9 +2,8 @@
 layout: post
 title: "🥔 Creamy Potato & Onion Soup"
 date: 2026-06-18
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 <div align="center">
 
@@ -173,5 +172,4 @@ This is a classic comfort soup — simple ingredients transformed into a warm, c
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

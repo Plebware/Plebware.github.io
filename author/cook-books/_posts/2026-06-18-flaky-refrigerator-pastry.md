@@ -2,9 +2,8 @@
 layout: post
 title: "Flaky Refrigerator Pastry"
 date: 2026-06-18
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 <div align="center">
 
@@ -139,5 +138,4 @@ The pastry keeps well in the refrigerator and can be used as needed by cutting o
 </script>
 
 -----
-
 <!-- PLEBVOX:END -->

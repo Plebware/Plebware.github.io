@@ -2,9 +2,9 @@
 layout: post
 title: "Why Inkscape Matters"
 date: 2026-06-05
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
+
 
 ## Drawing with Mathematics
 
@@ -157,5 +157,4 @@ And the journey begins with a single line.
 "Great designs are not built from complexity. They are built from simple shapes used well."
 
 Otto Brinkmeier
-
 <!-- PLEBVOX:END -->

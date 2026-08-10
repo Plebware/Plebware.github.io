@@ -2,9 +2,8 @@
 layout: post
 title: "My One-Stop Publication Workbench Zettlr"
 date: 2026-06-12
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # ✍️ My One-Stop Publication Workbench
 

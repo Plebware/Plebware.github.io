@@ -2,9 +2,8 @@
 layout: post
 title: "Why GnuCash Matters for Personal Accounting"
 date: 2026-06-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # Best for Personal Accounting
 
@@ -210,5 +209,4 @@ GnuCash provides a structured way to build that trust.
 </script>
 
 -----
-
 <!-- PLEBVOX:END -->

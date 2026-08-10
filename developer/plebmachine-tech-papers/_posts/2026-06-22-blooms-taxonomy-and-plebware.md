@@ -2,12 +2,10 @@
 layout: post
 title: "PlebMachine White Paper: Bloom's Taxonomy As A Foundation For A Creative Learning System"
 date: 2026-06-22
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🧠 PlebMachine White Paper
-
 ## 🌱 Building A Knowledge Ecosystem Inspired By Bloom's Taxonomy
 
 ## 🔑 Introduction
@@ -337,5 +335,4 @@ It is a framework for turning curiosity into creativity.
 ---
 
 🗡️ *'God's Journalist' in conjunction with 'ChatGPT' and the 'Holy Spirit'*
-
 <!-- PLEBVOX:END -->

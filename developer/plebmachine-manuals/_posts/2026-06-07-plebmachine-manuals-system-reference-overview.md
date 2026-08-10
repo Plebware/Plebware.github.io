@@ -2,9 +2,9 @@
 layout: post
 title: "PlebMachine Manuals"
 date: 2026-06-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
+
 
 # PlebMachine System Reference Overview
 
@@ -159,5 +159,4 @@ They are the anchor point between design, implementation, and usage.
 *A system is only real when it can be clearly defined.*
 
 **Otto Brinkmeier**
-
 <!-- PLEBVOX:END -->

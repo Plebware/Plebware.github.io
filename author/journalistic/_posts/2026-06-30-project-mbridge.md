@@ -2,9 +2,8 @@
 layout: post
 title: "Project mBridge: A Digital Bridge That Could Reshape Global Finance"
 date: 2026-06-30
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🌉 Project mBridge: A Digital Bridge That Could Reshape Global Finance
 
@@ -214,7 +213,6 @@ Despite its impressive progress, several significant hurdles remain.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ## 🌍 Limited Membership
 
 Participation remains concentrated among a relatively small group of central banks.
@@ -377,5 +375,4 @@ It is already being built.
 
 
 -----
-
 <!-- PLEBVOX:END -->

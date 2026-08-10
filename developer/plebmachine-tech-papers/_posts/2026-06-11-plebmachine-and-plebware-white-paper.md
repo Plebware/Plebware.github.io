@@ -2,9 +2,8 @@
 layout: post
 title: "Fast Indie Development Via AI-Assisted Publishing and Workflow Automation"
 date: 2026-06-11
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # PlebMachine and PlebWare
 
@@ -266,5 +265,4 @@ While development continues, the results achieved thus far suggest that AI-assis
 ## Keywords
 
 PlebMachine, PlebWare, Artificial Intelligence, Workflow Automation, Knowledge Management, GitHub Pages, MX Linux, Publishing Systems, Open Source Software, Productivity Frameworks
-
 <!-- PLEBVOX:END -->

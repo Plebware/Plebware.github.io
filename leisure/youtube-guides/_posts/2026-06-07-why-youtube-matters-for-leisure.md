@@ -2,9 +2,8 @@
 layout: post
 title: "Why YouTube Matters for Leisure"
 date: 2026-06-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # YouTube Entertains - Educates
 
@@ -107,5 +106,4 @@ Used wisely, YouTube can be one of the most powerful tools for curiosity and enj
 *The next great interest often begins with a single video.*
 
 **O.C. Verricchio**
-
 <!-- PLEBVOX:END -->

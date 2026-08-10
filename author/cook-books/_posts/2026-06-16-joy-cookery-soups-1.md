@@ -2,9 +2,7 @@
 layout: post
 title: "Joy Cookery - Soups Recipe 1"
 date: 2026-06-16
----
-
-<!-- PLEBVOX:START -->
+---<!-- PLEBVOX:START -->
 
 <div align="center">
 
@@ -152,5 +150,4 @@ This recipe follows the spirit of traditional South African home cooking, where 
 
 
 ----
-
 <!-- PLEBVOX:END -->

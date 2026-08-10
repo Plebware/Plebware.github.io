@@ -2,9 +2,8 @@
 layout: post
 title: "AI Research – Exploring Knowledge with Artificial Intelligence"
 date: 2026-06-21
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔬🤖 AI Research
 
@@ -290,5 +289,4 @@ The greatest discoveries still begin with a question.
 
 
 -----
-
 <!-- PLEBVOX:END -->

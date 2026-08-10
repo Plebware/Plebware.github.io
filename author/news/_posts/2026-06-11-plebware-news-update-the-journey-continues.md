@@ -2,9 +2,8 @@
 layout: post
 title: "PlebWare News Update"
 date: 2026-06-11
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 📰 PlebWare: The Journey Continues
 
@@ -263,5 +262,4 @@ More articles, more tutorials, more experiments, and more discoveries are on the
 
 
 ----
-
 <!-- PLEBVOX:END -->

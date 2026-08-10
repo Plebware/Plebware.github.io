@@ -2,9 +2,8 @@
 layout: post
 title: "Creating Header Images Using _config.yml"
 date: 2026-06-22
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🖼️ Creating Header Images Using `_config.yml`
 
@@ -635,7 +634,6 @@ Many professional websites use this approach.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ### ❌ Incorrect Path
 
 ```yaml
@@ -1151,5 +1149,4 @@ Always verify that the image exists in the repository before publishing.
 Using `_config.yml` for header images is one of the simplest ways to create a consistent visual identity across a GitHub Pages website. Instead of repeating image code on every page, you define the image once and let Jekyll handle the rest.
 
 For larger projects such as PlebWare, combining global headers, section-specific headers, and page-specific overrides provides a flexible and scalable solution that remains easy to maintain as the site grows.
-
 <!-- PLEBVOX:END -->

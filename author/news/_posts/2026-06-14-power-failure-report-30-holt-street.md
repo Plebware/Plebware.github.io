@@ -2,9 +2,8 @@
 layout: post
 title: "Powerless at 30 Holt Street"
 date: 2026-06-14
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # ⚠️ Incident Report: Ongoing Power Failure at 30 Holt Street
 
@@ -154,5 +153,4 @@ A permanent and reliable solution to the property's electrical problems is urgen
 
 
 ----
-
 <!-- PLEBVOX:END -->

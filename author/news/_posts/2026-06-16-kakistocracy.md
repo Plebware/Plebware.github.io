@@ -2,9 +2,8 @@
 layout: post
 title: "The Kakistocracy"
 date: 2026-06-16
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # ⚡ When Parliament Becomes a Den of Thieves
 
@@ -222,5 +221,4 @@ Because after more than sixty-six hours in darkness, patience itself begins to r
 
 
 -----
-
 <!-- PLEBVOX:END -->

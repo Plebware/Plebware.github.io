@@ -7,9 +7,8 @@ category: "fiction"
 tags: [christianity, genesis, fall-of-man, redemption, living-dead, biblical-theology]
 mode: "author"
 excerpt: "An exploration of humanity's spiritual condition from Creation through the long preparation for redemption."
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # Dead Men Walking
 
@@ -76,7 +75,6 @@ The Wanderer went out from the presence of the Source. He built a city and calle
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ## The Great Reset
 
 As the centuries unfolded, the Fracture matured into a civilization. Violence became ordinary, corruption became profitable, and truth became negotiable. Humanity had forgotten not only its Origin but its own condition. The living dead no longer realized they were disconnected. They believed themselves to be the designers of a world they no longer understood.
@@ -227,5 +225,4 @@ To be continued...
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

@@ -2,9 +2,7 @@
 layout: post
 title: "Short Rib and Vegetable Soup While Multitasking"
 date: 2026-06-10
----
-
-<!-- PLEBVOX:START -->
+---<!-- PLEBVOX:START -->
 
 # 🔑 Short Rib and Vegetable Soup While Multitasking
 
@@ -59,5 +57,4 @@ Perfect comfort food while recovering from illness and simultaneously working on
 Sometimes the simplest meals become memorable because of everything else happening around them.
 
 This was one of those meals.
-
 <!-- PLEBVOX:END -->

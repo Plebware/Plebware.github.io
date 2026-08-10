@@ -2,9 +2,8 @@
 layout: post
 title: "What Is PlebMachine?"
 date: 2026-06-21
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🖥️ What Is PlebMachine?
 
@@ -68,5 +67,4 @@ The project combines practical computing, learning, publishing, and creativity i
 PlebMachine is not simply a desktop.
 
 It is a structured way of working.
-
 <!-- PLEBVOX:END -->

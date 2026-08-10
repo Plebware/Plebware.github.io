@@ -5,9 +5,8 @@ category: "Everyday"
 author: "The Digital Handy Man"
 date: "2026-07-21"
 tags: ["organisation", "productivity", "free-software", "self-reliance", "digital-declutter"]
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # How to Organise Your Digital Life Without Paying Monthly Subscriptions
 
@@ -130,7 +129,6 @@ Nextcloud is an open-source platform that gives you your own private cloud. You 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ## Step 4: Open-Source Note-Taking & Bookmarks
 
 This is where you can save significant recurring fees. Evernote charges $15/month for its premium tier. That is $180/year for notes. There is a better way.
@@ -234,5 +232,4 @@ Czkawka is a modern, fast duplicate file finder.
 **Installation:**
 ```bash
 sudo apt install czkawka
-
 <!-- PLEBVOX:END -->

@@ -2,9 +2,9 @@
 layout: post
 title: "What Are Sample Packs?"
 date: 2026-06-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
+
 
 ## This Section is Still in Development
 
@@ -108,5 +108,4 @@ Even silence can become music when shaped with intent.
 *Every sound starts as possibility.*
 
 **O.C. Verricchio**
-
 <!-- PLEBVOX:END -->

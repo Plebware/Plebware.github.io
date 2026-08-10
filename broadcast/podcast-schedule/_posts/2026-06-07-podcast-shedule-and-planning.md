@@ -2,9 +2,8 @@
 layout: post
 title: "Podcast Schedule and Planning"
 date: 2026-06-07
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # Podcast Schedule and Planning
 
@@ -108,5 +107,4 @@ Scheduling is the first step in turning thought into spoken expression.
 *Before the voice is heard, the idea must be formed.*
 
 **O.C. Verricchio**
-
 <!-- PLEBVOX:END -->

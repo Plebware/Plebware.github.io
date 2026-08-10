@@ -5,9 +5,8 @@ date: 2026-06-10
 categories: [linux, biography, systems, plebware]
 tags: [railways, engineering, mx-linux, xfce, kde, plebmachine, plebware]
 author: Otto Brinkmeier
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔧 From Railways To Linux: My Technical Journey
 
@@ -259,5 +258,4 @@ Whether repairing a train, building a Linux platform, writing a book, or publish
 
 
 ----
-
 <!-- PLEBVOX:END -->

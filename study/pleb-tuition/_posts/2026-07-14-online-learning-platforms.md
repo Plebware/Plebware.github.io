@@ -6,9 +6,11 @@ category: "pleb-tuition"
 tags: [free-learning, study, learn, improve, qualify, education, literacy]
 mode: "study"
 author: Otto Brinkmeier
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
+
+
+
 
 # 🎓 Learning Platforms That Can Change Your Life
 The internet has transformed education.
@@ -269,5 +271,4 @@ As with every environment, the one that shapes your future most profoundly is th
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

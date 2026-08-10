@@ -3,9 +3,8 @@
 layout: post
 title: "Patio Gardening"
 date: 2026-06-11
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🌱 Patio Gardening: Growing Food in Pots and Cardboard Boxes
 
@@ -132,5 +131,4 @@ If you have ever considered growing your own food, perhaps this series will enco
 After all, every garden begins with a single seed.
 
 Happy gardening! 🌱
-
 <!-- PLEBVOX:END -->

@@ -2,9 +2,8 @@
 layout: post
 title: "Make It Five"
 date: 2026-06-18
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🇩🇪⚽ The Dream Of Five: Germany's Road To World Cup Glory 🏆
 
@@ -133,5 +132,4 @@ Fight.
 Play.
 
 Write history. ⚽🏆🔥
-
 <!-- PLEBVOX:END -->

@@ -2,9 +2,8 @@
 layout: post
 title: "Tomato Soup With Soup Bone"
 date: 2026-06-18
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 <div align="center">
 
@@ -23,7 +22,7 @@ date: 2026-06-18
 - 🧂 1 Teaspoon Gravy Salt  
 - 🧂 Salt to taste  
 - 🌶️ Pepper to taste  
-- 🌿 Herbs to taste
+- 🌿 Herbs to taste  
 
 ## 👩‍🍳 Method
 
@@ -143,5 +142,4 @@ Serve with:
 
 
 -----
-
 <!-- PLEBVOX:END -->

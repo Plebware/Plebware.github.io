@@ -2,9 +2,8 @@
 layout: post
 title: "Breaking News: The Justification of Otto Brinkmeier"
 date: 2026-06-22
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🚀 Captain Cody Gemini News Report
 

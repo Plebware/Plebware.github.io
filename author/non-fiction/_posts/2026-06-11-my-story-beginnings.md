@@ -2,9 +2,8 @@
 layout: post
 title: "My Story - Beginnings"
 date: 2026-06-11
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 My Early Years (1963–1969)
 
@@ -119,5 +118,4 @@ Every journey has a beginning—even when the earliest pages are written more fr
     })();
 </script>
 -----
-
 <!-- PLEBVOX:END -->

@@ -2,9 +2,8 @@
 layout: post
 title: "Why Scripting Matters"
 date: 2026-06-21
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 📜 Why Scripting Matters
 
@@ -66,5 +65,4 @@ Over time, these small scripts can grow into powerful systems.
 ## 🔑 Conclusion
 
 Scripting transforms Linux from a collection of tools into a platform that works exactly the way you want it to.
-
 <!-- PLEBVOX:END -->

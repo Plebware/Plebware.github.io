@@ -4,9 +4,8 @@ title: "PlebTuition: SASSA Address Change and E-Life Life Certificate Guide"
 date: 2026-07-17
 categories: [study, pleb-tuition]
 tags: [SASSA, grants, South Africa, pension, disability grant, e-life, government services]
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 PlebTuition: SASSA Address Change and E-Life Life Certificate Guide
 
@@ -107,5 +106,4 @@ Because paperwork should never stand between you and the support you've earned.
 
 **Otto & Juelz**  
 *Still at Your Service*
-
 <!-- PLEBVOX:END -->

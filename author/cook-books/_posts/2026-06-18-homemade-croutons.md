@@ -2,9 +2,8 @@
 layout: post
 title: "Homemade Croutons"
 date: 2026-06-18
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 <div align="center">
 
@@ -15,7 +14,7 @@ date: 2026-06-18
 ## 🥘 Ingredients
 
 - 🍞 4 Slices of Bread  
-- 🫒 Frying Fat / Cooking Oil
+- 🫒 Frying Fat / Cooking Oil  
 
 ## 👩‍🍳 Method
 
@@ -120,5 +119,4 @@ date: 2026-06-18
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

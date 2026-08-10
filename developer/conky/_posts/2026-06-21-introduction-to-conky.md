@@ -3,10 +3,7 @@
 layout: post
 title: "Introduction to Conky"
 date: 2026-06-21
----
-
-<!-- PLEBVOX:START -->
-
+---<!-- PLEBVOX:START -->
 -------------
 
 # 📊 Introduction to Conky
@@ -62,5 +59,4 @@ Projects such as PlebMachine can use Conky dashboards to provide quick access to
 Conky combines usefulness, flexibility, and efficiency in a single tool.
 
 It remains one of the most practical desktop enhancements available on Linux today.
-
 <!-- PLEBVOX:END -->

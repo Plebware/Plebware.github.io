@@ -6,9 +6,8 @@ category: "non-fiction"
 tags: [environment, systems, education, learning, sustainability, personal-growth, plebware]
 mode: "author"
 author: Otto Brinkmeier
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # Environmental Sanity
 
@@ -248,7 +247,6 @@ Many university-level courses are available free to audit.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ## 🔑 OpenLearn
 
 <https://www.open.edu/openlearn/>
@@ -476,5 +474,4 @@ As with every environment, the one that shapes your future most profoundly is th
 
 
 ------
-
 <!-- PLEBVOX:END -->

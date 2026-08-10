@@ -2,9 +2,8 @@
 layout: post
 title: "Sustainability 101: Caring for Our World and Future"
 date: 2026-06-20
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 What Is Sustainability?
 
@@ -264,5 +263,4 @@ Every repaired item, every saved resource, and every thoughtful decision contrib
 
 *PlebTuition Series*
 *Learning, caring, and building a better tomorrow one choice at a time.*
-
 <!-- PLEBVOX:END -->

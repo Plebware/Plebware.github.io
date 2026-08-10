@@ -6,9 +6,8 @@ category: "housekeeping"
 tags: [copy, paste, front-matter, comments, badges,]
 mode: "everyday"
 author: Otto Brinkmeier
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # **Copy and paste** elements for this site
 
@@ -126,7 +125,6 @@ author: Otto Brinkmeier
     })();
 </script>
 ```
-
 ## **Badges**
 
 ```
@@ -225,5 +223,4 @@ author: Otto Brinkmeier
 </script>
 
 ----
-
 <!-- PLEBVOX:END -->

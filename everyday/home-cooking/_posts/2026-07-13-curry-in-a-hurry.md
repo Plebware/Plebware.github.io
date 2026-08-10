@@ -6,9 +6,8 @@ category: "home-cooking"
 tags: [curry, beef, basmati, budget, pressure-cooker, spicy, hot]
 mode: "everyday"
 author: Otto Brinkmeier
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 Curry In A Hurry
 
@@ -233,5 +232,4 @@ A spoonful of plain yoghurt also helps balance the heat from the habanero.
 
 
 -----
-
 <!-- PLEBVOX:END -->

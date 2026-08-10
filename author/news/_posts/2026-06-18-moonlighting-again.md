@@ -2,9 +2,8 @@
 layout: post
 title: "Back On The Road — But The Battle Continues"
 date: 2026-06-18
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 📰 Back On The Road — But The Battle Continues
 
@@ -159,5 +158,4 @@ The battle continues, but so does the journey.
 
 
 -----
-
 <!-- PLEBVOX:END -->

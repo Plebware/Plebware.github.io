@@ -2,9 +2,8 @@
 layout: post
 title: "Plebware Publishing Architecture Blueprint"
 date: 2026-06-19
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 Plebware Publishing Architecture Blueprint
 
@@ -293,5 +292,4 @@ Every article, comic, tutorial, recipe, project, and story contributes to a sing
 The future of Plebware is not more islands.
 
 The future of Plebware is one continent.
-
 <!-- PLEBVOX:END -->

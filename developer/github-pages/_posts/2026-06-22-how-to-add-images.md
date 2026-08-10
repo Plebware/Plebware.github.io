@@ -2,9 +2,8 @@
 layout: post
 title: "Adding Images to GitHub Pages"
 date: 2026-06-22
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🖼️ Picture Perfect GitHub Pages
 
@@ -264,5 +263,4 @@ This keeps graphics organised as the site grows and makes it easier to reference
 Adding images to GitHub Pages is mostly about keeping your files organised and using the correct paths. Store images inside your repository, use relative paths whenever possible, and remember that GitHub Pages is case-sensitive.
 
 Once you understand those three rules, images become one of the easiest parts of managing a GitHub Pages website.
-
 <!-- PLEBVOX:END -->

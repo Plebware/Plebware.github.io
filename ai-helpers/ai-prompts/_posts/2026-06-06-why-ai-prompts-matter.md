@@ -2,11 +2,10 @@
 layout: post
 title: "Why AI Prompts Matter"
 date: 2026-06-06
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
-## Communicating With The Machine.
+## Communicating With The Machine. 
 
 ### The Language of Modern Tools
 
@@ -230,5 +229,4 @@ The better the thinking, the better the result.
 </script>
 
 -----
-
 <!-- PLEBVOX:END -->

@@ -2,9 +2,8 @@
 layout: post
 title: "Shortcrust Pastry"
 date: 2026-06-18
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 <div align="center">
 
@@ -129,5 +128,4 @@ date: 2026-06-18
 
 
 -----
-
 <!-- PLEBVOX:END -->

@@ -2,9 +2,8 @@
 layout: post
 title: "Desktop Automation on Linux"
 date: 2026-06-21
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # ⚙️ Desktop Automation on Linux
 
@@ -67,5 +66,4 @@ Small improvements often produce the biggest productivity gains over time.
 Automation is one of Linux's greatest strengths.
 
 By removing repetitive work, users can spend more time creating, learning, and solving problems.
-
 <!-- PLEBVOX:END -->

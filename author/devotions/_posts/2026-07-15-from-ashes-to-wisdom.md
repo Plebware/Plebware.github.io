@@ -2,12 +2,10 @@
 layout: post
 title: "From Ashes to Wisdom"
 date: 2026-07-15
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 👑 Royal Ashes
-
 ## *When Yesterday's Ashes Become Tomorrow's Wisdom* 🔥
 
 ### 🌅 Opening Prayer
@@ -63,7 +61,6 @@ Instead, may we faithfully pass His goodness from one generation to the next.
 # 📚 Four Scriptures for Reflection
 
 ## 1️⃣ God Uses Every Experience
-
 ### 📖 Romans 8:28 (KJV)
 
 > "And we know that all things work together for good to them that love God..."
@@ -79,7 +76,6 @@ Instead of asking, *"Why did this happen?"* ask, *"Lord, how can You use this ex
 ---
 
 ## 2️⃣ Share God's Faithfulness
-
 ### 📖 Psalm 78:4 (KJV)
 
 > "We will not hide them from their children, shewing to the generation to come the praises of the Lord..."
@@ -95,7 +91,6 @@ Tell someone this week about a time God answered a prayer or carried you through
 ---
 
 ## 3️⃣ Wisdom Is Better Than Riches
-
 ### 📖 Proverbs 16:16 (KJV)
 
 > "How much better is it to get wisdom than gold!"
@@ -111,7 +106,6 @@ Spend time investing in God's Word today. Eternal wisdom always produces lasting
 ---
 
 ## 4️⃣ Finish Well
-
 ### 📖 2 Timothy 4:7 (KJV)
 
 > "I have fought a good fight, I have finished my course, I have kept the faith."
@@ -270,5 +264,4 @@ Father, thank You for every lesson You have taught us throughout our lives. Help
 
 
 -----
-
 <!-- PLEBVOX:END -->

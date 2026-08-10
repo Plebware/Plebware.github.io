@@ -2,9 +2,8 @@
 layout: post
 title: "NotebookLM 101: Your AI-Powered Research Assistant"
 date: 2026-06-20
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 What Is NotebookLM?
 
@@ -224,5 +223,4 @@ It is about understanding it.
 
 *PlebTuition Series*
 *Learning, researching, and discovering one idea at a time.*
-
 <!-- PLEBVOX:END -->

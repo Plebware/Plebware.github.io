@@ -2,9 +2,8 @@
 layout: post
 title: "🚀 PlebWare Milestone: 300 Workflow Runs Reached!"
 date: 2026-06-11
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🚀 PlebWare Milestone: 300 Workflow Runs Reached!
 
@@ -169,5 +168,4 @@ Tomorrow we continue building.
 
 
 ----
-
 <!-- PLEBVOX:END -->

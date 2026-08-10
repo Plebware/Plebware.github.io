@@ -2,9 +2,7 @@
 layout: post
 title: "When The Heavens Feel Like Brass"
 date: 2024-01-01
----
-
-<!-- PLEBVOX:START -->
+---<!-- PLEBVOX:START -->
 
 # 🥀📖 When It Seems God Is Ignoring Me
 <div align="center">
@@ -275,7 +273,6 @@ God sees the entire journey while we only see today's struggle.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-
 ## 📖 Scripture
 
 **Psalm 139:1**
@@ -434,5 +431,4 @@ _Amen._
 </script>
 
 -----
-
 <!-- PLEBVOX:END -->

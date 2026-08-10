@@ -2,9 +2,8 @@
 layout: post
 title: "Web Design 101: Building Websites That People Want to Visit"
 date: 2026-06-20
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 What Is Web Design?
 
@@ -348,5 +347,4 @@ Every great website begins with a single page.
 
 *PlebTuition Series*
 *Learning, building, and publishing one page at a time.*
-
 <!-- PLEBVOX:END -->

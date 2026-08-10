@@ -2,9 +2,9 @@
 layout: post
 title: "Videocast Schedule"
 date: 2026-06-01
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
+
 
 # Videocast Schedule
 
@@ -107,5 +107,4 @@ What is planned today becomes what is shared tomorrow.
 *Every broadcast begins as intention.*
 
 **O.C. Verricchio**
-
 <!-- PLEBVOX:END -->

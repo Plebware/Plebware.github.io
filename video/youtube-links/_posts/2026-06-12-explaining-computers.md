@@ -2,9 +2,8 @@
 layout: post
 title: "ExplainingComputers"
 date: 2026-06-12
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 💻 One of YouTube’s Best Technology Classrooms
 
@@ -126,5 +125,4 @@ https://www.youtube.com/@ExplainingComputers/featured
 https://www.explainingcomputers.com
 
 📚 Author: Christopher Barnatt
-
 <!-- PLEBVOX:END -->

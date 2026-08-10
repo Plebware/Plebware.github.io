@@ -2,9 +2,8 @@
 layout: post
 title: "Web Browsers 101: Your Gateway to the Internet"
 date: 2026-06-20
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔑 What Is a Web Browser?
 
@@ -330,5 +329,4 @@ The internet is a vast library — the browser is your key.
 
 *PlebTuition Series*
 *Learning, exploring, and navigating the digital world one page at a time.*
-
 <!-- PLEBVOX:END -->

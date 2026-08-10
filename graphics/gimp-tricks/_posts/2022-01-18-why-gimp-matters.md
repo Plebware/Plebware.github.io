@@ -2,9 +2,9 @@
 layout: post
 title: "Why GIMP Matters"
 date: 2022-01-18
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
+
 
 # Creativity Without Barriers
 
@@ -144,5 +144,4 @@ The skills will follow.
 "Creativity is not limited by the cost of the tools, but by the willingness to use them."
 
 Otto Brinkmeier
-
 <!-- PLEBVOX:END -->

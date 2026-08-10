@@ -2,9 +2,8 @@
 layout: post
 title: "🔧 When the Engine Falls Silent: A Lesson in Faith"
 date: 2026-07-02
----
+---<!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 
 # 🔧 A Lesson in Faith
 
@@ -223,5 +222,4 @@ Until God opens the next door.
 
 
 -----
-
 <!-- PLEBVOX:END -->
