@@ -24,7 +24,7 @@ tags:
 
 > Technology, knowledge and creativity should remain accessible, understandable and connected to ordinary people.
 
-PlebWare brings together **knowledge, writing, software, education, media, research and practical projects** — developed from the perspective of the people who actually use them.
+PlebWare brings together **knowledge, writing, software, education, media, research, and practical projects** — developed from the perspective of the people who actually use them — and has been online since 1999.
 
 <!-- PLEBVOX:END -->
 
@@ -101,15 +101,15 @@ It brings together the things we learn, write, research, design, develop and bui
 
 ## 👥 The Makers
 
-### Otto aka Othello Cody Verrocchio.
+### Otto, aka 'Othello Cody Verrocchio'.
 
-Writer, researcher, developer, designer and maker.
+Writer, Researcher, Developer, Designer, and Maker.
 
 Writing under **Othello Cody Verrocchio**, Otto brings together science fiction, journalism, Christian writing, technology, graphics and practical knowledge.
 
-### Jullian aka Juelz (Boy Mist)
+### Jullian, aka 'Juelz' (Boy Mist)
 
-Creator, developer, musician and maker.
+Creator, Developer, Musician and Maker.
 
 Jullian's work contributes to the creative, technical and community sides of the ecosystem.
 
@@ -125,9 +125,9 @@ Together, we explore what happens when **ordinary people use technology to creat
 
 PlebWare currently contains **12 knowledge modes**, covering hundreds of articles and a growing collection of practical information.
 
-| Mode              | Explore                                                                 |
+| Mode.              | Explore.                                                                 |
 | ----------------- | ----------------------------------------------------------------------- |
-| 🏠 **Everyday.**   | Practical living, cooking, housekeeping, personal care and daily life. |
+| 🏠 **Everyday.**   | Practical living, housekeeping, personal care and daily life.          |
 | ✍️ **Author.**     | Fiction, non-fiction, devotionals, journalism, poetry and books.       |
 | 🎓 **Study.**      | Tuition, writing, theology, web design and life skills.                |
 | 🔬 **Research.**   | Technology, Linux, Christian research, sustainability and more.        |
