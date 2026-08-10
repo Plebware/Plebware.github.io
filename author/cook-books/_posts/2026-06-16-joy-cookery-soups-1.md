@@ -17,18 +17,26 @@ date: 2026-06-16
 
 A hearty, budget-friendly bean soup that produces a rich flavour from simple ingredients. Perfect for cold winter evenings and easy to prepare with basic pantry staples.
 
+<!-- PLEBVOX:END -->
+----
+<!-- PLEBVOX:START -->
+
 ## 🔑 Ingredients
 
-* 1 soup bone
-* 1.5 litres water
-* 1 carrot
-* 1 dessert spoon cornflour (Maizena)
-* 1 cup white beans
-* 2 tomatoes
-* 1 onion
-* 1 teaspoon gravy salt (Bisto)
-* Pepper to taste
-* Mixed herbs to taste
+* 1 soup bone.
+* 1.5 litres of water.
+* 1 carrot.
+* 1 dessert spoon cornflour. (Maizena)
+* 1 cup white beans.
+* 2 tomatoes.
+* 1 onion.
+* 1 teaspoon gravy salt. (Bisto)
+* Pepper to taste.
+* Mixed herbs to taste.
+* 
+<!-- PLEBVOX:END -->
+----
+<!-- PLEBVOX:START -->
 
 ## 🔑 Preparation
 
@@ -44,6 +52,10 @@ A hearty, budget-friendly bean soup that produces a rich flavour from simple ing
 10. Add the gravy salt (Bisto) and stir continuously to prevent lumps from forming.
 11. Continue simmering for a few minutes until the soup thickens.
 12. Taste and adjust seasoning if required.
+
+<!-- PLEBVOX:END -->
+----
+<!-- PLEBVOX:START -->
 
 ## 🔑 Serving Suggestion
 
