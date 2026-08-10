@@ -1,209 +1,695 @@
 ---
 layout: default
-title: The Plebware Founding Manifesto
+title: "The PlebWare Manifesto."
 permalink: /about/manifesto/
 ---
+
 <!-- PLEBVOX:START -->
-# 📜 The PlebWare Founding Manifesto
 
-> **Technology Should Remain Connected to Humanity**
+# 🔑 The PlebWare Manifesto.
 
-## 🔑 Preamble
+## Technology Belongs to People.
 
-We, the architects, engineers, writers, educators, and users of
-**PlebWare**, affirm this manifesto as a declaration of purpose,
-principle, and vision. PlebWare exists to demonstrate that technology
-should empower ordinary people rather than control them.
+PlebWare did not begin in a boardroom.
 
-Founded in **2010**, PlebWare began as an independent online initiative
-dedicated to practical computing, repair culture, Linux, and digital
-freedom.
+It did not begin with venture capital, a corporate development team, or a carefully constructed business plan.
+
+It began with people.
+
+It began with curiosity.
+
+It began with the desire to understand how things work, to build things, take them apart, repair them, improve them, and sometimes simply ask:
+
+> **"What if I tried?"**
+
+But PlebWare has a history that reaches much further back than the modern website.
+
+To understand PlebWare, we have to understand the people, ideas, friendships, experiments, failures, discoveries, and persistence that came before it.
+
+**PlebWare is technology with a human story.**
+
 <!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
-## 🏛️ Early Endeavours and Our Legacy
 
-Every long journey begins with a single step.
+## 🔑 Plebware — The Human Element.
 
-Although PlebWare has evolved into a publishing and education platform dedicated to Linux, artificial intelligence, writing, creativity, and lifelong learning, its origins were rooted in a much simpler mission: making useful technology more accessible to everyday people.
+**Plebware was coined in 2006.**
 
-### 💿 The PlebPack Years
+Long before the modern PlebWare website, before GitHub, before PlebMachine, before PlebVox, there was an idea.
 
-During the early years of PlebWare, curated software collections were produced and distributed for Microsoft Windows users through **CNET Download**.
+That idea was **Plebware**.
 
-These included:
+Plebware represented the **Human Element**.
 
-- 📦 **PlebWare Office Pack**
-- 📦 **PlebWare Office Pack Lite**
+It was about ordinary people.
 
-We created these collections to make it easier to find trustworthy, free productivity software by packaging carefully selected applications into a single download.
+People with ideas.
 
-At the time, this reflected the same philosophy that continues to guide PlebWare today:
+People who wanted to learn.
 
-> **Technology should empower people—not overwhelm them.**
+People who wanted to build.
 
-### 📜 Preserving Our History
+People who wanted to experiment.
 
-The software contained within these early releases has long since become obsolete. Many of the original applications have been discontinued, replaced, or significantly updated over the years.
+People who wanted to understand technology instead of simply consuming it.
 
-Unfortunately, the original publisher account on CNET can no longer be accessed because it was linked to an email address associated with a domain registration that has since been lost. As a result, these historic releases cannot be updated or maintained.
+The word *pleb* was never intended to describe somebody as inferior.
 
-Rather than attempting to erase this chapter of our history, PlebWare chooses to preserve it as an important milestone in the project's development.
+It represented the ordinary person.
 
-These packages remain part of our story—not as current software, but as historical artefacts representing the first public expression of the PlebWare vision.
+The person who might not have a university degree.
 
-### 🚀 A Vision That Never Changed
+The person who might not have expensive equipment.
 
-While the technology has changed dramatically over the years, the purpose has remained remarkably consistent.
+The person working with an old computer.
 
-From distributing curated software collections...
+The person learning by doing.
 
-...to publishing educational resources...
+The person who asks questions.
 
-...to teaching Linux...
+The person who refuses to accept that technology is beyond their understanding.
 
-...to exploring artificial intelligence...
+**Plebware was about that person.**
 
-...to encouraging creativity and lifelong learning...
+It was about the human being behind the technology.
 
-PlebWare has always sought to make technology more approachable, practical, and beneficial for ordinary people.
-
-The tools have changed.
-
-The mission has not.
-
-> *"We build not merely to distribute software, but to share knowledge, inspire creativity, and empower people through technology."*
 <!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
-On **2015-06-06**, the public GitHub Pages presence was established.
 
-Beginning on **2026-05-25**, the project underwent a complete
-redevelopment. Its purpose expanded beyond software into a comprehensive
-publishing and education platform. That transformation was completed on
-**2026-06-30**, marking the beginning of continuous publication.
-## 🔑 Historical Timeline
+## 🔑 Jullian and the Beginning.
 
-| 📅 Date           | 🏛️ Milestone |
-|:------------------|:-------------|
-| **2006–2008**     | The **PlebWare** identity emerged after the original **Biologicalware/Bioware** concept was abandoned due to an existing commercial trademark. The name **PlebWare** was chosen to reflect software and technology created for ordinary people. |
-| **2010-01-18**    | **PlebWare** was officially founded with the registration of **plebware.com**, hosted by GreenGeeks. This marked the beginning of the original PlebWare project. |
-| **2010–2012**     | The first public software collections, **PlebWare Office Pack** and **PlebWare Office Pack Lite**, were released through **CNET Download**, providing curated free productivity software for Windows users. These releases marked PlebWare's first publicly distributed software products. |
-| **2015-06-06**    | **plebware.github.io** was established, laying the foundations for what would eventually become the modern PlebWare website. |
-| **2020**      | **plebware.com** was retired following the COVID era. The original CNET publisher account also became inaccessible after the associated domain and email account were lost, leaving the Office Pack releases as historical archives. |
-| **2026-05-25**     | A complete redevelopment of **PlebWare** commenced, transforming the project from a software-focused initiative into a publishing and education platform centred on Linux, artificial intelligence, writing, creativity, and lifelong learning. |
-| **2026-06-30**     | **PlebWare Publishing & Education Platform Version 1.0** was completed and officially launched on GitHub Pages, representing the culmination of over sixteen years of continuous evolution. |
+Jullian has been part of this journey since **2006**.
 
-> The history of PlebWare spans more than sixteen years. Although the technologies and platforms have evolved, the project's mission has remained constant: to make technology more accessible, understandable, and useful for ordinary people.
+His involvement therefore reaches back to the very beginning of the Plebware story.
+
+He was not somebody who arrived after PlebWare had become an established project.
+
+He was there while the ideas were still developing.
+
+The technology changed.
+
+The projects changed.
+
+The platforms changed.
+
+The world changed.
+
+But the human relationships and shared experiences remained part of the foundation.
+
+That history matters.
+
+Because PlebWare was never created in isolation.
+
+Behind technology are people.
+
+Behind ideas are conversations.
+
+Behind successful experiments are failures.
+
+Behind finished projects are years of work that rarely appear in the final documentation.
+
+PlebWare carries that history with it.
+
 <!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
-## 🔑 Why PlebWare Exists
 
-The modern technology industry often promotes replacement over repair,
-complexity over clarity, and dependence over understanding.
+## 🔑 Martin De Walt and the Name.
 
-PlebWare rejects that philosophy.
+The history of the PlebWare name also includes **Martin De Walt**.
 
-We believe ordinary people deserve technology that is:
+The original naming process involved looking for a technology-oriented name ending in **"ware."**
 
--   Accessible
--   Repairable
--   Understandable
--   Affordable
--   Under the user's control
+One possibility was **Bioware**.
 
-## 🔑 Our Mission
+However, Bioware was already trademarked.
 
-To publish, teach, document, preserve knowledge, and develop practical
-technology that places people before products.
+That name could therefore not be used.
 
-## 🔑 Core Values
+Martin De Walt contributed to the emergence of the alternative:
 
--   Truthfulness
--   Transparency
--   Attribution
--   Responsible Innovation
--   Respect for Human Authorship
--   Resistance to misinformation and deceptive synthetic media
+**PlebWare.**
 
-## 🔑 Our Flagship Project
+What could have remained merely a practical solution to a naming problem eventually became something much more meaningful.
 
-### PlebMachine
+The name began to develop its own identity.
 
-PlebMachine is a modular Linux desktop orchestration environment built
-around state-driven engineering, recoverability, flexibility, and
-long-term maintainability.
+The word *Pleb* came to represent the ordinary person.
 
-Its guiding philosophy is simple:
+Not inferior.
 
-> Build systems for ordinary people using ordinary hardware.
+Not insignificant.
 
-## 🔑 The Transformation
+Not incapable.
 
-PlebWare is no longer simply a Linux project.
+**Human.**
 
-It is now:
+The name eventually became more than a name.
 
--   A publishing platform
--   An educational resource
--   A Linux knowledge base
--   An Artificial Intelligence learning centre
--   A digital library
--   A home for independent authors and creators
+It became part of the philosophy.
+
 <!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
-## 🔑 Founders
 
--   Otto Wilhelm Friedrich Brinkmeier --- Founder, Architect and Chief
-    Developer
--   Julian Boyd de Villiers --- Assistant Developer and Audio Designer
--   Martin de Walt --- Early collaborator
+## 🔑 PlebWare — The Philosophy and the Brand.
 
-## 🔑 Publishing Covenant
+**PlebWare was coined in 2026.**
 
-Every publication shall strive to:
+Twenty years after Plebware first represented the Human Element, the idea was given a new form.
 
-1.  Teach before selling.
-2.  Explain before assuming.
-3.  Repair before replacing.
-4.  Credit before claiming.
-5.  Seek truth before popularity.
+**Plebware** became the Human Element.
 
-## 🔑 Our Commitment
+**PlebWare** became the Philosophy and the Brand.
 
-We commit ourselves to creating systems and publications that:
+The change was more than capitalization.
 
--   Respect users.
--   Encourage learning.
--   Promote repair.
--   Preserve digital freedom.
--   Continue evolving through practical experience.
+It represented evolution.
 
-## 🔑 Call to Action
+The human element became a technological philosophy.
 
-If you believe technology should be understandable, repairable, and
-accessible, then you already share the spirit of PlebWare.
+The philosophy became an ecosystem.
 
-Learn. Build. Share. Teach.
+And the ecosystem became PlebWare.
 
-## 🔑 Closing Declaration
+PlebWare became a home for writing, knowledge, creativity, technology, Linux, artificial intelligence, software, hardware, research, education, storytelling, and experimentation.
 
-Technology should remain connected to humanity.
+The original human idea had found a technological home.
 
-The work of PlebWare will never truly be finished. Every article,
-tutorial, project, and lesson contributes to a growing body of knowledge
-dedicated to helping ordinary people understand extraordinary
-technology.
 <!-- PLEBVOX:END -->
-------------------------------------------------------------------------
+
 <!-- PLEBVOX:START -->
-**PlebWare**
 
-*Accessible. Repairable. Understandable Technology.*
+## 🔑 Technology for Ordinary People.
 
-**Founded:** 2010
+PlebWare exists because technology should belong to people.
 
-**GitHub Presence:** 2015-06-06
+We believe ordinary people are capable of understanding extraordinary technology.
 
-**Publishing & Education Platform:** 2026-05-25 → 2026-06-30
+We reject the idea that technology must always be complicated, expensive, or inaccessible.
 
-**Founder:** Otto Wilhelm Friedrich Brinkmeier
+A person should not need to be a professional engineer to understand their computer.
+
+A person should not need enormous financial resources to experiment with technology.
+
+A person should not automatically have to throw away an old machine simply because the commercial world has decided that it is obsolete.
+
+There is tremendous value in learning how things work.
+
+There is value in repair.
+
+There is value in experimentation.
+
+There is value in using what we already have.
+
+There is value in building something ourselves.
+
+**Technology should empower the person using it.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 Freedom and Independence.
+
+PlebWare believes technological independence matters.
+
+Independence does not mean rejecting modern technology.
+
+It means understanding enough about technology that technology does not have to control you.
+
+Linux represents an important part of this philosophy.
+
+Open standards represent an important part of this philosophy.
+
+Repair represents an important part of this philosophy.
+
+Learning represents an important part of this philosophy.
+
+The ability to experiment represents an important part of this philosophy.
+
+We believe people should have choices.
+
+They should be able to understand their systems.
+
+They should be able to modify them.
+
+They should be able to recover them when something goes wrong.
+
+They should be able to learn from their mistakes.
+
+**Freedom grows from understanding.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 PlebWare Is a Personal Ecosystem.
+
+PlebWare is not simply a website.
+
+It is not one program.
+
+It is not one operating system.
+
+It is not one artificial intelligence project.
+
+It is an ecosystem.
+
+An ecosystem built around the things a person learns, creates, discovers, documents, and shares.
+
+Writing belongs here.
+
+Science fiction belongs here.
+
+Linux belongs here.
+
+Artificial intelligence belongs here.
+
+Programming belongs here.
+
+Research belongs here.
+
+Graphics belong here.
+
+Cooking belongs here.
+
+Education belongs here.
+
+History belongs here.
+
+Faith and philosophy belong here.
+
+Experimentation belongs here.
+
+Because human beings do not live in neatly separated categories.
+
+Neither should their knowledge.
+
+PlebWare provides a place where these different parts of life can meet.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 From Meccano to Modern Technology.
+
+There is something wonderfully simple at the heart of PlebWare.
+
+Build something.
+
+Take it apart.
+
+Understand how it works.
+
+Put it back together.
+
+Try again.
+
+That spirit can be traced back to the fascination of building things from pieces.
+
+The same instinct that makes a person sit down with a construction set and wonder:
+
+> **"What can I make with this?"**
+
+The tools changed.
+
+Computers became more powerful.
+
+Software became more sophisticated.
+
+Artificial intelligence arrived.
+
+But the fundamental curiosity remained.
+
+**Build. Explore. Understand. Create.**
+
+That is PlebWare.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 Writing Is Part of the Machine.
+
+PlebWare is also the story of a writer.
+
+Technology provides tools, but knowledge becomes useful when it can be communicated.
+
+That is why PlebWare does not merely build software.
+
+It writes.
+
+It documents.
+
+It explains.
+
+It tells stories.
+
+It records discoveries.
+
+It preserves mistakes as well as successes.
+
+An article is not merely content.
+
+It is a piece of knowledge placed somewhere where another human being might find it.
+
+Perhaps tomorrow.
+
+Perhaps next year.
+
+Perhaps decades from now.
+
+Perhaps by somebody who has never met its author.
+
+That possibility matters.
+
+Writing turns experience into something that can be shared.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 Knowledge Should Be Shared.
+
+PlebWare believes knowledge grows when it is shared.
+
+We therefore seek to:
+
+- Teach rather than intimidate.
+- Explain rather than obscure.
+- Document rather than forget.
+- Repair rather than automatically replace.
+- Credit rather than claim.
+- Question rather than blindly accept.
+- Create rather than merely consume.
+
+We do not claim to know everything.
+
+Quite the opposite.
+
+PlebWare exists because there is always more to learn.
+
+Every discovery creates another question.
+
+Every answer opens another door.
+
+Every project becomes a foundation for the next one.
+
+**Learning never ends.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 Artificial Intelligence Must Remain a Tool.
+
+Artificial intelligence is one of the most powerful technologies of our time.
+
+PlebWare embraces it.
+
+But PlebWare does not surrender to it.
+
+AI should help people think.
+
+It should help them explore.
+
+It should help them research.
+
+It should help them create.
+
+It should help them organise and communicate.
+
+But artificial intelligence should not erase the human being behind the work.
+
+The human remains the author.
+
+The human remains the creator.
+
+The human remains responsible for what is created.
+
+Technology should extend human capability rather than replace human identity.
+
+That principle lies behind projects such as PlebVox.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 PlebMachine.
+
+From this philosophy came **PlebMachine**.
+
+PlebMachine is more than an attempt to configure a Linux desktop.
+
+It represents a way of thinking about computing.
+
+Build systems that ordinary people can understand.
+
+Build systems that can be recovered.
+
+Build systems that can be modified.
+
+Build systems that can be maintained.
+
+Separate system logic from user configuration.
+
+Make states visible.
+
+Make failures recoverable.
+
+Make the machine serve the person.
+
+Not the other way around.
+
+PlebMachine is another expression of the original Plebware principle:
+
+**The human being comes first.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 PlebVox.
+
+PlebVox grew from another simple idea:
+
+**Knowledge should be able to speak.**
+
+A person may prefer to read.
+
+Another may prefer to listen.
+
+Another may want to learn while working.
+
+Technology can make knowledge available in different forms without changing the knowledge itself.
+
+PlebVox extends the reach of written knowledge.
+
+It gives articles a voice.
+
+It makes information more accessible.
+
+And it does so without taking ownership of the knowledge away from its creator.
+
+PlebVox therefore belongs to the same philosophy as everything else in PlebWare:
+
+**Technology should empower people.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 The PlebWare Journey.
+
+PlebWare has already passed through several lives.
+
+There were early experiments.
+
+There were software projects.
+
+There was the PlebWare Office Pack.
+
+There was the CNET publishing period.
+
+There was the establishment of the GitHub presence.
+
+There were years of dormancy.
+
+Then came the rebuilding.
+
+Beginning in 2026, PlebWare was rebuilt into something considerably larger than its original software ambitions.
+
+It became a publishing platform.
+
+A knowledge base.
+
+A creative workshop.
+
+A Linux laboratory.
+
+An AI learning environment.
+
+A home for stories.
+
+A place to experiment.
+
+A place to document.
+
+A place to remember.
+
+The technology changed.
+
+The website changed.
+
+The projects changed.
+
+But the human reason for building it remained.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 Twenty Years of Evolution.
+
+The journey from **Plebware in 2006** to **PlebWare in 2026** is not the creation of a completely new idea.
+
+It is the evolution of an old human principle into a modern technological philosophy.
+
+The Human Element came first.
+
+The Philosophy came later.
+
+The technology followed.
+
+The ecosystem continues to grow.
+
+**Plebware is the Human Element.**
+
+**PlebWare is the Philosophy and the Brand.**
+
+That distinction is central to understanding the project.
+
+PlebWare is not simply a brand invented in 2026.
+
+It is the modern expression of an idea that had already existed for twenty years.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 PlebWare Is Still Being Built.
+
+This manifesto is not a declaration that PlebWare is finished.
+
+It is the opposite.
+
+PlebWare is deliberately unfinished.
+
+There will always be another idea.
+
+Another experiment.
+
+Another article.
+
+Another machine.
+
+Another problem to solve.
+
+Another story to write.
+
+Another piece of technology to understand.
+
+That is not a weakness.
+
+**That is the point.**
+
+PlebWare is a living ecosystem because the people behind it are still learning, still questioning, still building, and still creating.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔑 Our Promise.
+
+PlebWare will strive to remain:
+
+**Human before corporate.**
+
+**Useful before fashionable.**
+
+**Understanding before consumption.**
+
+**Creation before imitation.**
+
+**Repair before replacement.**
+
+**Knowledge before hype.**
+
+**Truth before popularity.**
+
+And above all:
+
+**People before technology.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+# 🔑 The PlebWare Declaration.
+
+We believe ordinary people are capable of extraordinary things.
+
+We believe technology should empower rather than intimidate.
+
+We believe old machines can still have value.
+
+We believe knowledge should be shared.
+
+We believe creativity belongs to everyone.
+
+We believe writers, builders, experimenters, teachers, hackers, tinkerers, and curious people all have something worth contributing.
+
+We believe artificial intelligence should extend human capability rather than erase human identity.
+
+We believe independence is worth protecting.
+
+We believe mistakes are part of learning.
+
+We believe that a person does not need to be wealthy, famous, highly educated, or technologically privileged to create something meaningful.
+
+And we believe that sometimes the most important thing a person can do is simply ask:
+
+> **"What if I tried?"**
+
+That question helped build Plebware.
+
+It helped transform Plebware into PlebWare.
+
+It continues to build PlebWare today.
+
+And it is the question that will carry PlebWare into the future.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+# 🔑 PlebWare.
+
+**A personal ecosystem of writing, knowledge, creativity, and technology.**
+
+**Plebware — the Human Element.**
+
+**PlebWare — the Philosophy and the Brand.**
+
+Twenty years of human history.
+
+One continuing journey.
+
+**Learn. Build. Create. Share.**
+
+**And never stop asking why.**
+
 <!-- PLEBVOX:END -->
