@@ -34,7 +34,7 @@ PlebWare brings together **knowledge, writing, software, education, media, resea
 
 ---
 
-## 📊 PlebWare Library
+## 📊 PlebWare Library.
 
 <div class="plebware-stats">
   <p>📚 <strong>{{ site.posts.size }}</strong> Articles Published</p>
@@ -52,7 +52,7 @@ PlebWare brings together **knowledge, writing, software, education, media, resea
 
 ---
 
-## 👤 Plebware — The User
+## 👤 Plebware — The User.
 
 <!-- PLEBVOX:START -->
 .
@@ -99,15 +99,15 @@ It brings together the things we learn, write, research, design, develop and bui
 
 <!-- PLEBVOX:START -->
 
-## 👥 The Makers
+## 👥 The Makers.
 
-### Otto, aka 'Othello Cody Verrocchio'.
+### Otto, also known as, 'Othello Cody Verrocchio'.
 
 Writer, Researcher, Developer, Designer, and Maker.
 
 Writing under **Othello Cody Verrocchio**, Otto brings together science fiction, journalism, Christian writing, technology, graphics and practical knowledge.
 
-### Jullian, aka 'Juelz' (Boy Mist)
+### Jullian, also known as, 'Juelz' (Boy Mist)
 
 Creator, Developer, Musician and Maker.
 
@@ -121,7 +121,7 @@ Together, we explore what happens when **ordinary people use technology to creat
 
 <!-- PLEBVOX:START -->
 
-## 🧠 Explore the Knowledge
+## 🧠 Explore the Knowledge.
 
 PlebWare currently contains **12 knowledge modes**, covering hundreds of articles and a growing collection of practical information.
 
@@ -146,7 +146,7 @@ PlebWare currently contains **12 knowledge modes**, covering hundreds of article
 
 ---
 
-## 📰 Recent Articles
+## 📰 Recent Articles.
 
 The PlebWare library is continually growing.
 
@@ -172,17 +172,17 @@ Here are the latest articles:
 
 <!-- PLEBVOX:START -->
 
-## 🛠️ What We're Building
+## 🛠️ What We're Building.
 
 PlebWare isn't only a publishing project.
 
 It is also a workshop.
 
-### 🐧 PlebMachine
+### 🐧 PlebMachine.
 
 A modular productivity layer for Linux designed around the idea that a desktop environment should be **useful, understandable and configurable without locking the user into somebody else's workflow.**
 
-### 🎧 PlebVox
+### 🎧 PlebVox.
 
 PlebVox is the developing **Read Aloud** system for PlebWare.
 
@@ -190,7 +190,7 @@ PlebVox turns selected sections of PlebWare articles into spoken content directl
 
 PlebVox is deliberately **opt-in**. Articles without PlebVox markers remain completely unchanged.
 
-### 💻 PlebWare Development
+### 💻 PlebWare Development.
 
 The PlebWare ecosystem also includes experiments and development in:
 
@@ -210,7 +210,7 @@ The PlebWare ecosystem also includes experiments and development in:
 
 <!-- PLEBVOX:START -->
 
-## 👥 Community
+## 👥 Community.
 
 PlebWare is not intended to exist in isolation.
 
@@ -230,9 +230,9 @@ PlebWare contains its own growing vocabulary.
 
 The **PlebWare Lexicon** explains the names, concepts and relationships that make up the ecosystem — including the deliberate distinction between:
 
-**Plebware** — the user.
+**Plebware** — the user. (Distinguished by a small 'w')
 
-**PlebWare** — the ecosystem and brand.
+**PlebWare** — the ecosystem and brand. (Distinguished by a Capital 'W')
 
 This vocabulary is important because the names describe relationships, not merely products.
 
@@ -242,7 +242,7 @@ This vocabulary is important because the names describe relationships, not merel
 
 ---
 
-## 🔎 Find Something Useful
+## 🔎 Find Something Useful.
 
 With hundreds of articles covering technology, creativity, practical life, writing, research, education and entertainment, there is plenty to explore.
 
@@ -254,9 +254,9 @@ Use the navigation above or search the library.
 
 ---
 
-## 🔑 The Idea Behind PlebWare
-
 <!-- PLEBVOX:START -->
+
+## 🔑 The Idea Behind PlebWare.
 
 Technology should not make ordinary people feel stupid.
 
