@@ -24,7 +24,7 @@ tags:
 
 > Technology, knowledge and creativity should remain accessible, understandable and connected to ordinary people.
 
-PlebWare brings together **knowledge, writing, software, education, media, research, and practical projects** — developed from the perspective of the people who actually use them — and has been online since 1999.
+PlebWare brings together **knowledge, writing, software, education, media, research, and practical projects** — developed from the perspective of the people who actually use them — and whose creator **has been working online since 1999**.
 
 <!-- PLEBVOX:END -->
 
