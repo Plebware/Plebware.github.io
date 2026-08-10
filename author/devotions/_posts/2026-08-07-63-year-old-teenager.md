@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'm 63 — But I'm Still a Teenager!"
-date: 2026-08-07
+date: 2026-07-08
 ---
 
 # 🧠😂 I'M 63 — BUT I'M STILL A TEENAGER!
