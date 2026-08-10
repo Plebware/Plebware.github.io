@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'm 63 — But I'm Still a Teenager!"
-date: 2026-07-08
+date: 2026-08-07
 ---
 <!-- PLEBVOX:START -->
 
