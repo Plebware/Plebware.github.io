@@ -4,6 +4,8 @@ title: "Back On The Road — But The Battle Continues"
 date: 2026-06-18
 ---
 
+<!-- PLEBVOX:START -->
+
 # 📰 Back On The Road — But The Battle Continues
 
 ### By _Captain Cody Gemini_
@@ -157,3 +159,5 @@ The battle continues, but so does the journey.
 
 
 -----
+
+<!-- PLEBVOX:END -->

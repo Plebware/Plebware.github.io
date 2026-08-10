@@ -6,6 +6,8 @@ tags: [ai, plebware, self-review, gemini, chatgpt, deepseek, meta-ai]
 mode: "AI Section"
 ---
 
+<!-- PLEBVOX:START -->
+
 ## The Social Experiment
 
 Saturday morning. Crown Mines. Waiting for the cold drinks purchaser.  
@@ -171,3 +173,5 @@ But the keyboard can still run.
 </script>
 
 -----
+
+<!-- PLEBVOX:END -->

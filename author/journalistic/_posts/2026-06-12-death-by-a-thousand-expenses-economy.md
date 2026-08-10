@@ -4,6 +4,8 @@ title: "The Death by a Thousand Expenses Economy"
 date: 2026-06-12
 ---
 
+<!-- PLEBVOX:START -->
+
 # 📰 Death by a Thousand Cuts
 
 ## When Every Small Problem Becomes a Financial Problem
@@ -273,3 +275,5 @@ And that may be one of the defining economic realities of our time.
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

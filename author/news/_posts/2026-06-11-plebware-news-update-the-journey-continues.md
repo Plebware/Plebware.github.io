@@ -4,6 +4,8 @@ title: "PlebWare News Update"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 📰 PlebWare: The Journey Continues
 
 ## The Revamp Is Done
@@ -261,3 +263,5 @@ More articles, more tutorials, more experiments, and more discoveries are on the
 
 
 ----
+
+<!-- PLEBVOX:END -->

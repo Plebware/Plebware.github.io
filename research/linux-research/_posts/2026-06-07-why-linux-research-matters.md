@@ -4,6 +4,8 @@ title: "Why Linux Research Matters"
 date: 2026-06-07
 ---
 
+<!-- PLEBVOX:START -->
+
 ## More Than Just an Operating System
 
 For many people, Linux is simply another operating system.
@@ -217,3 +219,4 @@ How open-source communities collaborate
 
 Every topic opens the door to deeper understanding.
 
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "The Day the Gas Ran Out"
 date: 2026-06-23
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔥 No Coffee For The Tired
 
 Sometimes life does not arrive with a dramatic explosion.
@@ -223,3 +225,5 @@ One solution at a time.
 
 
 ------
+
+<!-- PLEBVOX:END -->

@@ -7,6 +7,8 @@ tags: [railways, engineering, mx-linux, xfce, kde, plebmachine, plebware]
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔧 From Railways To Linux: My Technical Journey
 
 ## 🚂 Where It All Began
@@ -257,3 +259,5 @@ Whether repairing a train, building a Linux platform, writing a book, or publish
 
 
 ----
+
+<!-- PLEBVOX:END -->

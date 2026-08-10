@@ -4,6 +4,8 @@ title: "My Story - Beginnings"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 My Early Years (1963–1969)
 
 The earliest years of my life are, naturally, the hardest to remember. Much of what I know about this period comes from family records, official documents, and stories told to me over the years rather than from my own memories.
@@ -117,3 +119,5 @@ Every journey has a beginning—even when the earliest pages are written more fr
     })();
 </script>
 -----
+
+<!-- PLEBVOX:END -->

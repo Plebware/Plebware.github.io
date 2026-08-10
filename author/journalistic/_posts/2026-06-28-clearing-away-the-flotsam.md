@@ -4,6 +4,8 @@ title: "🧹 Clearing Away the Flotsam"
 date: 2026-06-28
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🧹 Clearing Away the Flotsam
 
 > *"Do not be deceived: 'Bad company corrupts good character.'"*
@@ -264,3 +266,5 @@ But our relationship with Jesus must always remain our first and strongest found
 
 
 -----
+
+<!-- PLEBVOX:END -->

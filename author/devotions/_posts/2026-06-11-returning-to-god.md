@@ -4,6 +4,8 @@ title: "Returning To God"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 Finding Strength In Quietness and Confidence
 
 ## 📖 Opening Scripture
@@ -188,6 +190,10 @@ Choose daily habits that draw you closer to God: prayer, Scripture reading, wors
 ### 💡 Tip
 Consistency is more powerful than occasional spiritual enthusiasm.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ### 👑 Heavenly View
 Those who walk closely with God experience continual spiritual renewal.
 
@@ -326,3 +332,5 @@ In the Name of Jesus Christ, Amen.
 
 
 ----
+
+<!-- PLEBVOX:END -->

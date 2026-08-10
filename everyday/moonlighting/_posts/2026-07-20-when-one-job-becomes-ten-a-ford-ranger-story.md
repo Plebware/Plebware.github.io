@@ -7,6 +7,8 @@ categories: ["everyday"]
 tags: Ford Ranger, Ford Ranger 2.2 TDCi, P0088, Limp Mode, Fuel Pressure, Common Rail Diesel, Vehicle Repairs, Everyday
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 The Ford Ranger That Refused to Cooperate
 
 **_How a simple oil leak turned into weeks of diagnostics, expensive parts, and lost income._**
@@ -201,3 +203,5 @@ Until then...
 Sometimes one job really does become ten.
 
 And when you're earning **R150 a day**, every extra day off the road matters.
+
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "Shortcrust Pastry"
 date: 2026-06-18
 ---
 
+<!-- PLEBVOX:START -->
+
 <div align="center">
 
 # 🥧 Shortcrust Pastry
@@ -127,3 +129,5 @@ date: 2026-06-18
 
 
 -----
+
+<!-- PLEBVOX:END -->

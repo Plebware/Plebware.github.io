@@ -4,6 +4,8 @@ title: "📱 The Portable Pleb Machine Goes Live on GitHub"
 date: 2026-06-10
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🚀 Introduction: The Machine in Your Pocket
 
 The Pleb Machine has officially gone mobile.
@@ -63,3 +65,5 @@ This is the beginning of true mobile orchestration.
 The Pleb Machine is no longer stationary.
 
 It moves with the writer.
+
+<!-- PLEBVOX:END -->

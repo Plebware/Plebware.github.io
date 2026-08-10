@@ -4,7 +4,10 @@ title: "PlebMachine Technical Papers"
 date: 2026-01-01
 ---
 
-# PlebMachine Technical Papers 
+<!-- PLEBVOX:START -->
+
+# PlebMachine Technical Papers
+
 ## 01 - System Design Overview
 
 ## Purpose of This Section
@@ -138,3 +141,5 @@ These technical papers exist to make that design visible, testable, and understa
 *Design should be explainable, not hidden.*
 
 **Otto Brinkmeier**
+
+<!-- PLEBVOX:END -->

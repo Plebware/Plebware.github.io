@@ -8,6 +8,8 @@ mode: "author"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 # Environmental Sanity
 
 I have always been fascinated by systems. That fascination is rooted in two defining influences in my life: my father and my career. Because of them, I rarely look at an environment as simply a place. Instead, I see it as a **system**—a collection of interconnected parts working together, each influencing the other.
@@ -243,6 +245,10 @@ Many university-level courses are available free to audit.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 OpenLearn
 
 <https://www.open.edu/openlearn/>
@@ -470,3 +476,5 @@ As with every environment, the one that shapes your future most profoundly is th
 
 
 ------
+
+<!-- PLEBVOX:END -->

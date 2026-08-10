@@ -4,6 +4,8 @@ title: "🥔 Creamy Potato & Onion Soup"
 date: 2026-06-18
 ---
 
+<!-- PLEBVOX:START -->
+
 <div align="center">
 
 # 🥔🍲 Creamy Potato & Onion Soup 🧅✨
@@ -171,3 +173,5 @@ This is a classic comfort soup — simple ingredients transformed into a warm, c
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

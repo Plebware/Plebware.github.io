@@ -4,6 +4,8 @@ title: "Remaining Positive When the Headlines Are Not"
 date: 2026-06-30
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🌤️ Remaining Positive When the Headlines Are Not
 
 > *"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things."* — Philippians 4:8
@@ -205,3 +207,5 @@ But because hope is stronger than today's headlines.
 </script>
 
 ---
+
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "PlebComics 101"
 date: 2026-06-20
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 **Comics: Understanding the Art of Visual Storytelling**
 
 Comics are a form of storytelling that combines **words and pictures** to communicate a story, idea, lesson, or message.
@@ -414,3 +416,5 @@ Every great comic started with a blank page.
 
 
 ----
+
+<!-- PLEBVOX:END -->

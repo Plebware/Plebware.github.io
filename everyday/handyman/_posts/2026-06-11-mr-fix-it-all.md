@@ -4,6 +4,8 @@ title: "Mr Fix It All"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔧 How I Became A Handyman
 
 There are moments in life that change a person forever.
@@ -256,3 +258,5 @@ And so, whenever something breaks, I still hear that familiar call:
 
 
 -----
+
+<!-- PLEBVOX:END -->

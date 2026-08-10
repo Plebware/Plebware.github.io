@@ -4,6 +4,8 @@ title: "No Work No Pay!"
 date: 2026-06-13
 ---
 
+<!-- PLEBVOX:START -->
+
 # 📰 Missed Four Days — Yet Still Writing
 
 ## 📖 Local Journal
@@ -288,3 +290,5 @@ One prayer at a time.
 
 
 ----
+
+<!-- PLEBVOX:END -->

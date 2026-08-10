@@ -4,6 +4,8 @@ title: "🎙️ Othello's AI Blog Casts"
 date: 2026-06-30
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🎙️ Othello's AI Blog Casts
 
 Welcome to **Othello's AI Blog Casts**—a place where curiosity meets technology, and ideas are explored one conversation at a time.
@@ -86,3 +88,5 @@ This collection will continue to grow as new articles are transformed into profe
 Thank you for joining me on this journey through technology, creativity, and lifelong learning.
 
 — **Othello Cody Verrocchio**
+
+<!-- PLEBVOX:END -->

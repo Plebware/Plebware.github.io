@@ -4,6 +4,8 @@ title: "Why Cookbooks Matter"
 date: 2024-06-07
 ---
 
+<!-- PLEBVOX:START -->
+
 # Why Cookbooks Matter
 
 ## More Than Collections of Recipes
@@ -211,3 +213,5 @@ The difference is measured not only in ingredients, but in generations.
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

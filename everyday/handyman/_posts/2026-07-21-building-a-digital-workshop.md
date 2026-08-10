@@ -7,6 +7,8 @@ date: "2026-07-21"
 tags: ["free-software", "productivity", "linux", "ai", "open-source", "workflow"]
 ---
 
+<!-- PLEBVOX:START -->
+
 # Building a Digital Workshop: The Essential Free Software Toolkit
 
 Every master craftsperson knows that a toolbox is a living thing. You don't buy a full set of tools at once and call it a day. You acquire them slowly. You learn their weight, their quirks, and their limits. You discard the ones that slow you down and cherish the ones that feel like an extension of your own hands.
@@ -110,6 +112,10 @@ Timeshift is essentially "System Restore" for Linux, but better. It takes snapsh
 **Who it's for:** Every single Linux user. Period.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🎨 Graphics: Visual Communication
 
@@ -267,6 +273,10 @@ Vivaldi is built by the former founder of Opera. It is a Chromium-based browser 
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ### Firefox
 **The Defender of the Web**
 
@@ -292,3 +302,5 @@ You don't need the latest hardware or the most expensive subscriptions. You need
 Now, go download one of these tools. Get your hands dirty. And remember: in the digital world, self-reliance starts with the software you choose to run.
 
 Stay Handy.
+
+<!-- PLEBVOX:END -->

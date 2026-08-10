@@ -4,6 +4,8 @@ title: "God Help Us"
 date: 2026-06-22
 ---
 
+<!-- PLEBVOX:START -->
+
 # Father God, I Need Intervention
 
 <img src="assets/images/lord-i-need-you.png"
@@ -130,3 +132,4 @@ Amen.
 
 -----
 
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "The Search for a Smile"
 date: 2026-07-08
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 Tears for Fears
 
 *"This morning I am sitting staring at a blank page. For the first time in a long time, I wanted to write something joyful. The trouble was, I couldn't remember what joy felt like."*
@@ -209,3 +211,5 @@ One sentence...
 One act of faith...
 
 One ordinary day at a time.
+
+<!-- PLEBVOX:END -->

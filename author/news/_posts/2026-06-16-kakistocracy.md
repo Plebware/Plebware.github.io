@@ -4,6 +4,8 @@ title: "The Kakistocracy"
 date: 2026-06-16
 ---
 
+<!-- PLEBVOX:START -->
+
 # ⚡ When Parliament Becomes a Den of Thieves
 
 ## Introduction: When Living in a Kakistocracy
@@ -220,3 +222,5 @@ Because after more than sixty-six hours in darkness, patience itself begins to r
 
 
 -----
+
+<!-- PLEBVOX:END -->

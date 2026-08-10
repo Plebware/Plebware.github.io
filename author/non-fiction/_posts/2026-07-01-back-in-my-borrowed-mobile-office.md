@@ -2,7 +2,11 @@
 layout: post
 title: "Back in My Borrowed Mobile Office"
 date: 2026-07-01
-----------------
+---
+
+<!-- PLEBVOX:START -->
+
+-------------
 
 # Back in my borrowed 'Mobile 🛻 Office'
 
@@ -169,3 +173,5 @@ Sometimes it comes through a borrowed office, a Ford Ranger, a few hours of work
 
 
 ----
+
+<!-- PLEBVOX:END -->

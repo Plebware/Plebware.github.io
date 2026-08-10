@@ -4,6 +4,8 @@ title: "PlebWare New Look?"
 date: 2026-06-07
 ---
 
+<!-- PLEBVOX:START -->
+
 # 📰 **The Story Behind PlebWare's New Look**
 For a long time, managing PlebWare across different GitHub Pages repositories became scattered and difficult to update. It was time for a change. The goal was clear: create a single, consistent, and easy-to-maintain platform with a strong focus on content.
 
@@ -141,3 +143,5 @@ This rebuild represents a massive step forward, but a website is nothing without
 
 
 ----
+
+<!-- PLEBVOX:END -->

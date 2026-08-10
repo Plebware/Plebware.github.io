@@ -4,6 +4,8 @@ title: "💻 | The Mobile Office Logs"
 date: 2026-06-10
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🚗 Portable Publishing From The Field
 
 Today’s dispatch comes straight from the real-world command centre: a **2010 Ford Ranger 2.2, 6-speed** — not just a vehicle, but a rolling publishing station.
@@ -155,3 +157,5 @@ And today, that newsroom just happened to be parked somewhere in Johannesburg tr
 
 
 ---
+
+<!-- PLEBVOX:END -->

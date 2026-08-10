@@ -4,6 +4,8 @@ title: "What Is PlebMachine?"
 date: 2026-06-21
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🖥️ What Is PlebMachine?
 
 PlebMachine is a modular Linux desktop orchestration system designed to organize tools, workflows, and environments into purpose-driven modes.
@@ -66,3 +68,5 @@ The project combines practical computing, learning, publishing, and creativity i
 PlebMachine is not simply a desktop.
 
 It is a structured way of working.
+
+<!-- PLEBVOX:END -->

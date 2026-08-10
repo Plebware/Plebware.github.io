@@ -4,6 +4,8 @@ title: "PlebWare Rebuild Completed"
 date: 2026-06-21
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🏗️ PlebWare Rebuild Completed
 
 ### By Captain C. Gemini
@@ -151,3 +153,5 @@ PlebWare is ready for the future.
 
 
 ----
+
+<!-- PLEBVOX:END -->

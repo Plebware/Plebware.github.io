@@ -4,6 +4,8 @@ title: "Preparing for the March to March Protest"
 date: 2026-06-29
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🚗 A Monday at the Mechanic and Preparing for the National Protests
 
 > *"A productive day, even when plans change."*
@@ -153,3 +155,5 @@ Through it all, we continue moving forward, trusting God for wisdom, safety, and
 
 
 -----
+
+<!-- PLEBVOX:END -->

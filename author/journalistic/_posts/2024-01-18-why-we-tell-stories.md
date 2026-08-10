@@ -4,6 +4,8 @@ title: "Why We Tell Stories"
 date: 2024-01-18
 ---
 
+<!-- PLEBVOX:START -->
+
 # Captain's Log 0001 - Why We Tell Stories
 
 Greetings, traveller.
@@ -195,3 +197,4 @@ Until next time,
 
 ----
 
+<!-- PLEBVOX:END -->

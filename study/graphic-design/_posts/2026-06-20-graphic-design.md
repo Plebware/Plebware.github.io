@@ -4,6 +4,8 @@ title: "Graphic Design 101: The Art of Visual Communication"
 date: 2026-06-20
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 What Is Graphic Design?
 
 Graphic design is the art of combining **images, text, colour, and layout** to communicate ideas visually.
@@ -455,3 +457,5 @@ Every great design begins with a simple idea.
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

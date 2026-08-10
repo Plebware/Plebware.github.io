@@ -4,7 +4,10 @@ title: "Why Shotcut Matters for Video Editing"
 date: 2026-06-07
 ---
 
+<!-- PLEBVOX:START -->
+
 ## Cross-Platform Video Editor.
+
 ## Video Editing for Everyone
 
 For a long time, video editing was seen as something reserved for professionals.
@@ -140,3 +143,5 @@ And Shotcut is simply one of the tools that makes that jshot-cut/_posts/ourney p
 shot-cut/_posts/Every story becomes clearer when the unnecessary is cut away.
 
 O.C. Verricchioshot-cut/_posts/
+
+<!-- PLEBVOX:END -->

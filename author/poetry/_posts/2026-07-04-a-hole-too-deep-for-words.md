@@ -4,6 +4,8 @@ title: "A Hole Too Deep for Words"
 date: 2026-07-04
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🕳️ A Hole Too Deep for Words
 
 ## 🖋️ Introduction
@@ -190,3 +192,5 @@ No matter how deep the hole may seem today, tomorrow still belongs to God.
 
 
 ----
+
+<!-- PLEBVOX:END -->

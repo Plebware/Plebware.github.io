@@ -9,6 +9,8 @@ mode: "author"
 excerpt: "The shadows have served their purpose. The pedagogy is complete. But when the cure finally arrives, will the living dead recognize it—or will they do what they have always done?"
 ---
 
+<!-- PLEBVOX:START -->
+
 # The Living Dead
 
 ## Part Two: The Unthinkable Intervention
@@ -98,6 +100,10 @@ Only **the Architect** can mend what was broken. Only **the Sovereign** can pard
 But how? How can **the Architect** descend into the grave without becoming dead Himself? How can **the Sovereign** enter the realm of the exiles without becoming an exile Himself? How can **the Architect** reach the living dead without becoming one of them?
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ### The Unthinkable Step
 
@@ -246,6 +252,10 @@ The sins of the world—every grumble, every complaint, every act of violence, e
 And He bore them to the grave.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ### The Silence
 
@@ -445,3 +455,4 @@ The rest is up to the exiles.
 
 ----
 
+<!-- PLEBVOX:END -->

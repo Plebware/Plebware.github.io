@@ -4,6 +4,8 @@ title: "⚔️ The Sola Verum Protocol – Deep Fakes Must Be Stopped"
 date: 2026-06-30
 ---
 
+<!-- PLEBVOX:START -->
+
 # ⚔️ The Sola Verum Protocol
 
 ## 🛡️ Deep Fakes Must Be Stopped: A Call to Action for Responsible AI Use
@@ -208,3 +210,5 @@ It should be built upon **truth**, **accountability**, and **integrity**.
 
 
 -----
+
+<!-- PLEBVOX:END -->

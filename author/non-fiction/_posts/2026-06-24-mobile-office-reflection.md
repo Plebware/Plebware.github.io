@@ -3,6 +3,9 @@ layout: post
 title: "Mobile Office Reflection"
 date: 2026-06-24
 ---
+
+<!-- PLEBVOX:START -->
+
 # 🚗 Writing With a New Purpose
 
 Most of my writing these days is composed from the driver's seat. 💺
@@ -144,3 +147,5 @@ And for now, it is where much of my journey as a writer continues.
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

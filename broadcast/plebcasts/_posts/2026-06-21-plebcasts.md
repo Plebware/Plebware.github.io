@@ -4,6 +4,8 @@ title: "PlebCasts – Sharing Knowledge Through Audio and Video"
 date: 2026-06-21
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🎙️🎥 PlebCasts
 
 PlebCasts is the audio and video publishing platform of the PlebWare ecosystem. It exists to share knowledge, ideas, stories, tutorials, interviews, devotionals, discussions, and creative projects through multimedia content.
@@ -241,3 +243,4 @@ PlebCasts exists to give those voices a platform and to preserve valuable knowle
 * Digital Publishing
 * Livestreaming
 
+<!-- PLEBVOX:END -->

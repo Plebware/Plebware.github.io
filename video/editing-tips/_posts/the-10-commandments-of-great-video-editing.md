@@ -9,6 +9,7 @@ mode: "video"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
 
 # 🎬 The 10 Commandments of Great Video Editing
 
@@ -144,6 +145,10 @@ Continuity is about maintaining a consistent visual world. It includes:
 - **Match cuts** – action should flow naturally from one shot to the next.
 - **Eyeline** – actors should look at the correct eyeline in reverse shots.
 - **Props and wardrobe** – continuity mistakes in props or clothing are jarring.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ### Practical tip:
 
@@ -318,3 +323,5 @@ These ten commandments are not rules to follow blindly. They are principles to r
 
 
 ----
+
+<!-- PLEBVOX:END -->

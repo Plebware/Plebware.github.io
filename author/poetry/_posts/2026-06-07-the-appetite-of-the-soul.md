@@ -4,6 +4,8 @@ title: "The Appetite of the Soul"
 date: 2026-06-07
 ---
 
+<!-- PLEBVOX:START -->
+
 # “The Appetite of the Soul” 
 
 ```I fed my body first each day,
@@ -122,3 +124,5 @@ The way I’m called to truly live.
 
 
 ----
+
+<!-- PLEBVOX:END -->

@@ -4,7 +4,9 @@ title: "The Search for a Smile"
 date: 2026-07-08
 ---
 
-# 🔑 Searching For Joy 
+<!-- PLEBVOX:START -->
+
+# 🔑 Searching For Joy
 
 ## 🌾 Summary Poem — The Search for a Smile 
 
@@ -134,7 +136,7 @@ Jesus said:
 > " **The smile I sought was never far, It waited where God's mercies are.**"
 
 "_The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness._ "
- **Lamentations 3:22–23** 
+ **Lamentations 3:22–23**
 
 ## 🙏 Closing Prayer 
 
@@ -230,3 +232,5 @@ Jesus said:
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

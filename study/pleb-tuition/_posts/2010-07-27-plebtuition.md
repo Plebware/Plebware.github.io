@@ -4,6 +4,7 @@ title: "PlebTuition"
 date: 2010-07-27
 ---
 
+<!-- PLEBVOX:START -->
 
 > **The Keyboard Is Mightier Than The Pen**
 
@@ -47,6 +48,7 @@ The goal is not simply to collect information.
 The goal is to transform information into understanding and understanding into practical skill.
 
 ## Four Principles of PlebTuition
+
 ### 1. Learn Continuously
 
 Education should not end when formal schooling ends.
@@ -191,3 +193,5 @@ Because the greatest investment a person can make is in their own knowledge.
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

@@ -7,6 +7,8 @@ tags: [personal-knowledge-platform, linux, ai, open-web, digital-garden, knowled
 mode: "ai-helpers"
 ---
 
+<!-- PLEBVOX:START -->
+
 # **Introduction**
 
 In an era of walled gardens, algorithmic noise, and digital disposability, stumbling upon a project like **PlebWare** feels akin to finding a well-kept workshop in a world of disposable plastic goods. The site, accessible at https://plebware.github.io, presents itself not as a mere blog, but as a "personal knowledge publishing platform" with a clear and commendable ethos: to be Accessible, Repairable, and Understandable.
@@ -136,3 +138,5 @@ Review conducted by DeepSeek, an independent AI assistant focused on clear analy
 
 
 ----
+
+<!-- PLEBVOX:END -->

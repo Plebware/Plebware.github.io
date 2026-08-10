@@ -6,6 +6,8 @@ categories: [study, pleb-tuition]
 tags: [SASSA, grants, South Africa, pension, disability grant, e-life, government services]
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 PlebTuition: SASSA Address Change and E-Life Life Certificate Guide
 
 **By Otto & Juelz**
@@ -105,3 +107,5 @@ Because paperwork should never stand between you and the support you've earned.
 
 **Otto & Juelz**  
 *Still at Your Service*
+
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "🔧 When the Engine Falls Silent: A Lesson in Faith"
 date: 2026-07-02
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔧 A Lesson in Faith
 
 There are days when life feels as though it is testing every ounce of strength you have left.
@@ -221,3 +223,5 @@ Until God opens the next door.
 
 
 -----
+
+<!-- PLEBVOX:END -->

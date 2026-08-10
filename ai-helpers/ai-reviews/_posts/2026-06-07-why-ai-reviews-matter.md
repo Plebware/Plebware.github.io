@@ -4,7 +4,10 @@ title: "Why AI Reviews Matter"
 date: 2026-06-07
 ---
 
-## Otto Worked On Computers Since The VIC 20 
+<!-- PLEBVOX:START -->
+
+## Otto Worked On Computers Since The VIC 20
+
 ### Therefore, He Can Review This
 
 ## A Growing Landscape of Tools
@@ -225,3 +228,5 @@ And like any instrument, their value depends on how they are used.
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

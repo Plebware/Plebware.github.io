@@ -9,6 +9,8 @@ mode: "author"
 excerpt: "An exploration of humanity's spiritual condition from Creation through the long preparation for redemption."
 ---
 
+<!-- PLEBVOX:START -->
+
 # Dead Men Walking
 
 Alas, among us living beings there are those who eat, sleep, breathe, and look—but do not see.
@@ -70,6 +72,10 @@ The Rejected Offerer brought the fruit of the ground. He brought his labour, his
 The Fracture had deepened. Death had entered the world, and now it had taken its first victim. The living dead had begun to kill one another.
 
 The Wanderer went out from the presence of the Source. He built a city and called it by the name of his son. Civilization was born from the blood of the first martyr. The city of man rose upon the foundation of murder. And the world continued to spin, populated by the living dead.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Great Reset
 
@@ -221,3 +227,5 @@ To be continued...
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

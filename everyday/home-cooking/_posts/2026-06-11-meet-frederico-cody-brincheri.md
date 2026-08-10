@@ -4,6 +4,8 @@ title: "Federico Cody Brincheri – Cook and Culinary Experimenter"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🍳 AI Chef 
 
 Every craftsman has a workshop.
@@ -224,3 +226,5 @@ The next experiment is about to begin.
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

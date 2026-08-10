@@ -4,6 +4,8 @@ title: "Keeping Our Room Clean: Simple Housekeeping Habits"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🧹 Keeping Our Room Clean
 
 ## Simple Housekeeping Habits for Everyday Living
@@ -232,3 +234,5 @@ The effort is always worthwhile.
 </script>
 
 -----
+
+<!-- PLEBVOX:END -->

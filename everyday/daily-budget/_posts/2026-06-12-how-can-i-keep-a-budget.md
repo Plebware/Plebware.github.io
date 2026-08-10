@@ -4,6 +4,8 @@ title: "How Can I Keep to a Budget?"
 date: 2026-06-12
 ---
 
+<!-- PLEBVOX:START -->
+
 # 💸 Losing One Day's Pay Breaks Everything?
 
 ## When Losing One Day's Pay Can Break Everything
@@ -292,3 +294,5 @@ Until then, all I can do is keep going.
 
 
 -----
+
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "ExplainingComputers"
 date: 2026-06-12
 ---
 
+<!-- PLEBVOX:START -->
+
 # 💻 One of YouTube’s Best Technology Classrooms
 
 ![ExplainingComputers](https://img.shields.io/badge/YouTube-Technology-red)
@@ -124,3 +126,5 @@ https://www.youtube.com/@ExplainingComputers/featured
 https://www.explainingcomputers.com
 
 📚 Author: Christopher Barnatt
+
+<!-- PLEBVOX:END -->

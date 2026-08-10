@@ -4,6 +4,8 @@ title: "Why Spreadsheet Accounting Matters"
 date: 2024-01-01
 ---
 
+<!-- PLEBVOX:START -->
+
 ### Spreadsheets Are Powerful Tools
 
 ## Simple Tools for Real Life
@@ -225,3 +227,5 @@ And once something becomes visible, it becomes manageable.
 
 
 ----
+
+<!-- PLEBVOX:END -->

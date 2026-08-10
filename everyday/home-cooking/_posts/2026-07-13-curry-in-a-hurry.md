@@ -8,6 +8,8 @@ mode: "everyday"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 Curry In A Hurry
 
 *A hearty pressure cooker beef curry with spicy basmati rice.*
@@ -231,3 +233,5 @@ A spoonful of plain yoghurt also helps balance the heat from the habanero.
 
 
 -----
+
+<!-- PLEBVOX:END -->

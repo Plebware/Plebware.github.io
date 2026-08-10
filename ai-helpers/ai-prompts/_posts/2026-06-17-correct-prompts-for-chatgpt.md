@@ -4,6 +4,8 @@ title: "Correct Prompts For ChatGPT"
 date: 2026-06-17
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🤖 How To Prompt ChatGPT For Better Results
 <div align="center">
 
@@ -433,3 +435,4 @@ The better your prompt, the better your result.
 
 Happy prompting! 🚀
 
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "Moonlighting as a Driver: When the Wheels Stop Turning"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🚚 Moonlighting as a Driver: When the Wheels Stop Turning
 
 Since retirement, I have taken on moonlighting work as a driver to supplement our household income. The work is straightforward enough: collect goods from suppliers, transport them safely, and ensure they reach their destination.
@@ -213,3 +215,5 @@ When you work behind the wheel, you learn one important truth:
 
 
 ----
+
+<!-- PLEBVOX:END -->

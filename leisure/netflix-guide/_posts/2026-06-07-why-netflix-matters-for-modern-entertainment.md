@@ -4,6 +4,8 @@ title: "Netflix Matters for Modern Entertainment"
 date: 2026-06-07
 ---
 
+<!-- PLEBVOX:START -->
+
 ## Netflix Our First Stop For Entertainment
 
 ## Entertainment on Demand
@@ -120,3 +122,5 @@ The search for those stories is part of the adventure.
 *Every screen hides a story waiting to be discovered.*
 
 **O.C. Verricchio**
+
+<!-- PLEBVOX:END -->

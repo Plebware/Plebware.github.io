@@ -8,6 +8,8 @@ mode: "author"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 # The Iron Steed That's Not Mine!
 ```
 My faithful Ranger, scarred by road and years,  
@@ -284,3 +286,5 @@ Until the road itself becomes the past.
         
     })();
 </script>
+
+<!-- PLEBVOX:END -->

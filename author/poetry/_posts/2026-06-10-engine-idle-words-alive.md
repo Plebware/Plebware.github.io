@@ -4,6 +4,8 @@ title: "⚡️ Field Poem From The Mobile Office"
 date: 2026-06-10
 ---
 
+<!-- PLEBVOX:START -->
+
 # ⚡️ ENGINE IDLE, WORDS ALIVE 🚗💻
 ```
 The engine hums like a patient thought,  
@@ -126,3 +128,5 @@ before I sit down.
 
 
 -----
+
+<!-- PLEBVOX:END -->

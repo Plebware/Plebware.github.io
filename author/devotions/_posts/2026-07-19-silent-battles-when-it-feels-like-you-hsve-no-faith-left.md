@@ -4,6 +4,8 @@ title: "Silent Battles: When It Feels Like You Have No Faith Left"
 date: 2026-07-19
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 Silent Battles: When It Feels Like You Have No Faith Left
 
 There are moments in the Christian life that few people speak about openly.
@@ -201,3 +203,5 @@ Grace and peace be with you always.
 
 🗡️ **God's Journalist**  
 *In conjunction with ChatGPT and the Holy Spirit.*
+
+<!-- PLEBVOX:END -->

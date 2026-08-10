@@ -3,6 +3,9 @@ layout: post
 title: "Why Cooking Matters as a Life Skill"
 date: 2024-06-07
 ---
+
+<!-- PLEBVOX:START -->
+
 ## Culinary Art Or Survival?
 
 ## A Basic Human Skill
@@ -119,3 +122,5 @@ Once learned, it becomes a lifelong skill that supports health, independence, an
 *Learning to cook is learning to care for yourself.*
 
 **O.C. Verricchio**
+
+<!-- PLEBVOX:END -->

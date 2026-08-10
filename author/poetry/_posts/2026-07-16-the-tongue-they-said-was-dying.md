@@ -8,6 +8,8 @@ mode: "author"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 #  **"A language does not die while children laugh in it."**
 ```
 Oh Afrikaans
@@ -490,3 +492,5 @@ Like the morning sun.
         
     })();
 </script>
+
+<!-- PLEBVOX:END -->

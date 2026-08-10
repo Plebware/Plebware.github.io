@@ -4,6 +4,8 @@ title: "Theoretical Christianity Versus Practical Christianity"
 date: 2026-06-27
 ---
 
+<!-- PLEBVOX:START -->
+
 # 📖 Theoretical Training Versus Practical Training
 
 > **"But be ye doers of the word, and not hearers only, deceiving your own selves."**
@@ -333,3 +335,5 @@ Lord Jesus, thank You for calling us to follow You rather than merely admire You
 
 
 ----
+
+<!-- PLEBVOX:END -->

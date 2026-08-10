@@ -4,6 +4,8 @@ title: "Web Graphics - Designing For The Digital World"
 date: 2026-06-20
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🌐 Web Graphics - Designing For The Digital World
 
 ## 🔑 Introduction
@@ -301,3 +303,5 @@ It speaks before the words are read.
 # 🔑 PlebWare Creative Principle
 
 "Visual design turns information into experience."
+
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "Why Song Lyrics Matter"
 date: 2026-06-07
 ---
 
+<!-- PLEBVOX:START -->
+
 ## Words That Carry Sound
 
 Some ideas are too large for plain speech.
@@ -112,3 +114,5 @@ And sometimes, the simplest lines are the ones that stay the longest.
 Words that sing do not disappear easily.
 
 O.C. Verricchio
+
+<!-- PLEBVOX:END -->

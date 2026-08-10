@@ -4,6 +4,8 @@ title: "When All That Remains Is the Writing"
 date: 2026-06-28
 ---
 
+<!-- PLEBVOX:START -->
+
 # ✍️ When All That Remains Is the Writing
 
 > *"Technology may change, but the purpose behind it never should."*
@@ -158,3 +160,5 @@ and equips the next generation of creators.
 ---
 
 > **"Technology is temporary. Knowledge endures. People give both their purpose."**
+
+<!-- PLEBVOX:END -->

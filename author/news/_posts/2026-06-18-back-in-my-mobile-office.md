@@ -4,6 +4,8 @@ title: "Back In My Mobile Office"
 date: 2026-06-18
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🚚 Update From The Mobile Office
 
 ## 📝 Introduction
@@ -167,3 +169,5 @@ A story waiting to be written.
 
 
 -----
+
+<!-- PLEBVOX:END -->

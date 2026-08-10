@@ -4,6 +4,8 @@ title: "Investments – Growing and Managing Wealth"
 date: 2026-06-21
 ---
 
+<!-- PLEBVOX:START -->
+
 # 📈 Investments
 
 Investments are ways of putting money, time, or resources into something with the goal of creating future value.
@@ -250,3 +252,5 @@ It also involves:
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "My One-Stop Publication Workbench Zettlr"
 date: 2026-06-12
 ---
 
+<!-- PLEBVOX:START -->
+
 # ✍️ My One-Stop Publication Workbench
 
 ## From Idea to Publication in One Application: Zettlr
@@ -386,3 +388,4 @@ It has become the central workshop where ideas are transformed into published wo
 
 ----
 
+<!-- PLEBVOX:END -->

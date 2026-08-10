@@ -8,6 +8,8 @@ mode: "study"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 PlebFinance Lesson 2
 
 # 🚗 Good Debt vs Bad Debt
@@ -303,3 +305,5 @@ Your answer may save you years of financial stress.
 
 
 ----
+
+<!-- PLEBVOX:END -->

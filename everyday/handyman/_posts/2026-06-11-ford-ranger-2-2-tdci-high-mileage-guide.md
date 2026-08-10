@@ -4,6 +4,8 @@ title: "2010 Ford Ranger 2.2 TDCi 6-Speed: Surviving Beyond 200,000 km"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔧 2010 Ford Ranger 2.2 TDCi 6-Speed: Surviving Beyond 200,000 km
 
 The Ford Ranger 2.2 TDCi equipped with the Puma (Duratorq) diesel engine and 6-speed manual gearbox has earned a reputation as one of Ford's tougher modern diesel combinations. Many examples in South Africa have exceeded 300,000 km and some even reach 500,000 km on the original engine.
@@ -393,3 +395,5 @@ For many owners, preventative maintenance is far cheaper than replacing an engin
 </script>
 
 -----
+
+<!-- PLEBVOX:END -->

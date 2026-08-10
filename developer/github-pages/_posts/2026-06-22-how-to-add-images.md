@@ -4,6 +4,8 @@ title: "Adding Images to GitHub Pages"
 date: 2026-06-22
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🖼️ Picture Perfect GitHub Pages
 
 One of the first things most people want to do when building a GitHub Pages website is add screenshots, logos, banners, diagrams, and photographs. Fortunately, GitHub Pages makes this easy once you understand where your images should be stored and how image paths work.
@@ -262,3 +264,5 @@ This keeps graphics organised as the site grows and makes it easier to reference
 Adding images to GitHub Pages is mostly about keeping your files organised and using the correct paths. Store images inside your repository, use relative paths whenever possible, and remember that GitHub Pages is case-sensitive.
 
 Once you understand those three rules, images become one of the easiest parts of managing a GitHub Pages website.
+
+<!-- PLEBVOX:END -->

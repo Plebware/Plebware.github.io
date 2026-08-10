@@ -8,6 +8,8 @@ mode: "study"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 PlebFinance Lesson 1
 
 # 💰 Taking Back Control
@@ -318,3 +320,5 @@ In the next lesson we will explore the difference between debt that builds your 
 
 
 ----
+
+<!-- PLEBVOX:END -->

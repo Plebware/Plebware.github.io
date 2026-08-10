@@ -5,6 +5,8 @@ title: "Our Daily Bread"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🙏 Daily Prayer: Starting and Ending the Day with God
 
 Prayer is one of the simplest and most powerful gifts God has given to His children.
@@ -212,3 +214,5 @@ He is listening.
 
 
 ----
+
+<!-- PLEBVOX:END -->

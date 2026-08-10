@@ -4,6 +4,8 @@ title: "AI Research – Exploring Knowledge with Artificial Intelligence"
 date: 2026-06-21
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔬🤖 AI Research
 
 AI Research is the use of Artificial Intelligence tools to discover, organise, analyse, and understand information.
@@ -288,3 +290,5 @@ The greatest discoveries still begin with a question.
 
 
 -----
+
+<!-- PLEBVOX:END -->

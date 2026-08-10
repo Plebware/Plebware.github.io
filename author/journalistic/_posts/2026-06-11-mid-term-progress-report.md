@@ -4,6 +4,8 @@ title: "2026 Mid-Term Progress Report: The PlebWare and PlebMachine Journey"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🚀 2026 Mid-Term Progress Report
 
 ## The PlebWare and PlebMachine Journey
@@ -11,6 +13,10 @@ date: 2026-06-11
 *By Captain Cody Gemini*
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📈 Introduction
 
@@ -390,4 +396,4 @@ And this is only the beginning.
 
 ----
 
-
+<!-- PLEBVOX:END -->

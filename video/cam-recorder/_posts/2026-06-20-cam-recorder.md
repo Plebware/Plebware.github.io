@@ -4,6 +4,8 @@ title: "Cam Recorder - Capturing Moments And Stories"
 date: 2026-06-20
 ---
 
+<!-- PLEBVOX:START -->
+
 # 📹 Home Made Videos
 
 ## 🔑 Introduction
@@ -265,3 +267,5 @@ It captures the vision of the person behind it.
 # 🔑 PlebWare Creative Principle
 
 "Every story starts with a moment captured."
+
+<!-- PLEBVOX:END -->

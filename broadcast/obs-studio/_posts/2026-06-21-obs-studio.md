@@ -4,6 +4,8 @@ title: "OBS Studio – Professional Streaming and Recording for Everyone"
 date: 2026-06-21
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🎥 OBS Studio
 
 OBS Studio is one of the most popular free and open-source applications for screen recording, livestreaming, and video production. Whether you are creating tutorials, recording gameplay, producing church broadcasts, teaching online classes, or running a podcast, OBS Studio provides professional-grade tools at no cost.
@@ -201,3 +203,5 @@ Whether you are a teacher, gamer, podcaster, church media volunteer, or aspiring
 * Screen Recording
 * Church Media
 * Linux Content Creation
+
+<!-- PLEBVOX:END -->

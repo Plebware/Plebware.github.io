@@ -4,6 +4,8 @@ title: "What is PlebMachine?"
 date: 2024-01-01
 ---
 
+<!-- PLEBVOX:START -->
+
 ## A Different Approach to Computing
 
 Most software is designed around applications.
@@ -157,3 +159,5 @@ The journey continues.
 
 _**Otto Brinkmeier**_
 **Chief Developer, PlebMachine Project**
+
+<!-- PLEBVOX:END -->

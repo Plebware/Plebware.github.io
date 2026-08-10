@@ -4,6 +4,8 @@ title: "🚀 PlebWare Milestone: 300 Workflow Runs Reached!"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🚀 PlebWare Milestone: 300 Workflow Runs Reached!
 
 **By Captain Cody Gemini**
@@ -167,3 +169,5 @@ Tomorrow we continue building.
 
 
 ----
+
+<!-- PLEBVOX:END -->

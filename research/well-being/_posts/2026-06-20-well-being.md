@@ -3,7 +3,9 @@ layout: post
 title: "Well Being 101: Health, Wellness, and Holistic Living"
 date: 2026-06-20
 ---
- 
+
+<!-- PLEBVOX:START -->
+
 # 🔑 What Is Well Being?
 
 Well-being is the practice of caring for the whole person.
@@ -288,3 +290,5 @@ A strong life is built one choice, one habit, and one day at a time.
 
 *PlebTuition Series*
 *Learning, growing, and building a balanced life one step at a time.*
+
+<!-- PLEBVOX:END -->

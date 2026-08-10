@@ -4,6 +4,8 @@ title: "My Journey Towards GIMP"
 date: 2026-07-02
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🎨 My Graphic Design Journey
 
 > *"Every picture tells a story. My goal is to ensure that story begins before the first word is ever read."*
@@ -114,6 +116,10 @@ My goal is to transform ideas into finished artwork that tells a story, communic
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 My Creative Philosophy
 
 Today, I still paint.
@@ -131,3 +137,5 @@ And creativity is what ultimately turns an idea into a finished masterpiece.
 ---
 
 > **"Every graphic begins as an idea. Whether sketched with a pencil, painted with a mouse, or described with carefully chosen words, it is the artist who transforms imagination into something worth sharing."** 🎨✨
+
+<!-- PLEBVOX:END -->

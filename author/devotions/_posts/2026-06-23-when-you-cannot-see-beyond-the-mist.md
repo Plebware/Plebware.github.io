@@ -4,6 +4,8 @@ title: "When You Cannot See Beyond the Mist"
 date: 2026-06-23
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🌅 Trusting God Through The Fog
 
 **Scripture:**
@@ -138,3 +140,5 @@ Amen.
 
 
 -----
+
+<!-- PLEBVOX:END -->

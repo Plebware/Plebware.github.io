@@ -4,6 +4,8 @@ title: "Using Zettlr For PlebWare Housekeeping"
 date: 2026-06-29
 ---
 
+<!-- PLEBVOX:START -->
+
 ## Markdown Editor 
 
 As a writer coming from the traditional Windows background, I have had to adapt to using a Markdown Editor
@@ -15,8 +17,6 @@ The preferred editor, Zettlr, is a Markdown editor, which means that it mostly w
 2. Headings are created almost like hashtags — simply write a `#`-character followed by a space. You can use up to six `######`-characters to create headings from level one through six.
 3. Lists are created literally — simply write `*`, `-`, or `+` on a new line. Numbered lists consist of a number followed by a dot.
 4. Finally, blockquotes are written exactly as quoted text is displayed in e-mails: Simply demarcate them using `>`.
-
-
 
 ## Why This Article?
 
@@ -112,3 +112,5 @@ But also for visitors wanting to create their own GitHub Sites
 
 
 -----
+
+<!-- PLEBVOX:END -->

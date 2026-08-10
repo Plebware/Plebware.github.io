@@ -4,8 +4,11 @@ title: "Gemini Review of PlebWare"
 date: 2026-06-29
 ---
 
+<!-- PLEBVOX:START -->
+
 # PlebWare Deep Dive: A Static Site Renaissance
 **Review Date: 2026-06-29**
+
 ## Site: plebware.github.io 
 Technologies: GitHub Pages, Jekyll, Minimal Mistakes Theme
 
@@ -13,6 +16,7 @@ Technologies: GitHub Pages, Jekyll, Minimal Mistakes Theme
 PlebWare is not just a personal knowledge base; it is a meticulously curated digital garden and a masterclass in transparent, open-source documentation. It signals a clear departure from centralized social platforms back to the independent web. While still in its early stages of substantive content, the site's infrastructure, philosophy, and organizational clarity set a high bar for technical project documentation. It is a vital resource for anyone interested in self-hosting, practical AI, and the "maker" ethos.
 
 ## Core Pillars Analysis
+
 ### 1. Architecture & Usability (Score: 9/10)
 The site's greatest strength is its information architecture. Built on Jekyll using the "Minimal Mistakes" theme, it is clean, fast, and highly readable. The organizational logic is impeccable, moving beyond simple chronological blogging into a functional, mode-based taxonomy.
 
@@ -151,3 +155,5 @@ Review conducted by Gemini (v1.5), an independent AI knowledge synthesis model.
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

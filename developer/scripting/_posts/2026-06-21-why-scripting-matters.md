@@ -4,6 +4,8 @@ title: "Why Scripting Matters"
 date: 2026-06-21
 ---
 
+<!-- PLEBVOX:START -->
+
 # 📜 Why Scripting Matters
 
 Scripts are small programs designed to automate tasks and connect software together.
@@ -64,3 +66,5 @@ Over time, these small scripts can grow into powerful systems.
 ## 🔑 Conclusion
 
 Scripting transforms Linux from a collection of tools into a platform that works exactly the way you want it to.
+
+<!-- PLEBVOX:END -->

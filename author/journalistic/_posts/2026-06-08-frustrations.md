@@ -4,6 +4,8 @@ title: "Frustrations"
 date: 2026-06-08
 ---
 
+<!-- PLEBVOX:START -->
+
 # Where Does Frustration End And Depression Start
 
 Every human being has a breaking point.
@@ -113,3 +115,5 @@ And yet, beneath that disorientation, there is still something intact. A quiet a
 
 
 ----
+
+<!-- PLEBVOX:END -->

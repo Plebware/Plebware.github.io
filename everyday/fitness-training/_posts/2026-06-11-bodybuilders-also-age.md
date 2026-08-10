@@ -4,6 +4,8 @@ title: "Bodybuilders Also Get Old"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 # 💪 No Pain! No Gain!
 
 ## It's Never Too Late!
@@ -323,3 +325,5 @@ And remember the lesson many of us learned decades ago:
 </script>
 
 -----
+
+<!-- PLEBVOX:END -->

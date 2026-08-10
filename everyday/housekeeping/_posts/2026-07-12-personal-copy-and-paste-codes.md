@@ -8,6 +8,8 @@ mode: "everyday"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 # **Copy and paste** elements for this site
 
 ## Extra Formatting For GitHub
@@ -124,6 +126,7 @@ author: Otto Brinkmeier
     })();
 </script>
 ```
+
 ## **Badges**
 
 ```
@@ -222,3 +225,5 @@ author: Otto Brinkmeier
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

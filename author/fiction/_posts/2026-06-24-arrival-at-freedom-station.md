@@ -7,6 +7,7 @@ tags: [space-opera, starship-frederick, freedom-station, rebellions-dawn, captai
 mode: "author"
 ---
 
+<!-- PLEBVOX:START -->
 
 ## Arrival at Freedom Station
 
@@ -149,3 +150,5 @@ by **O.C. Verrocchio**
 
 
 ----
+
+<!-- PLEBVOX:END -->

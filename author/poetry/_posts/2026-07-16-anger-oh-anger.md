@@ -8,6 +8,8 @@ mode: "author"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 ## 🌊 The Battle Within
 
 > *"Every heart knows its own storms, yet every storm will one day pass."*
@@ -135,3 +137,5 @@ Before the dawn reveals the light.
 
     })();
 </script>
+
+<!-- PLEBVOX:END -->

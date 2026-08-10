@@ -4,6 +4,8 @@ title: "Hearty Barley Soup With Meat"
 date: 2026-06-18
 ---
 
+<!-- PLEBVOX:START -->
+
 <div align="center">
 
 # 🥣 Hearty Barley Soup With Meat 🥕
@@ -23,7 +25,7 @@ date: 2026-06-18
 - 💧 8 Cups Water  
 - 🧂 Salt to taste  
 - 🌶️ Pepper to taste  
-- 🍬 Pinch of Sugar  
+- 🍬 Pinch of Sugar
 
 ## 👩‍🍳 Method
 
@@ -140,3 +142,5 @@ Serve with:
     })();
 </script>
 ----
+
+<!-- PLEBVOX:END -->

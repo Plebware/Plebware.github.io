@@ -8,6 +8,8 @@ mode: "author"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 ## 🕯️ A Cry From the Valley of Shadows
 
 > *"Even in the darkest valley, the heart still searches for the light beyond the storm."*
@@ -151,3 +153,5 @@ Grace gives me strength to answer the call.
 })();
 </script>
 ```
+
+<!-- PLEBVOX:END -->

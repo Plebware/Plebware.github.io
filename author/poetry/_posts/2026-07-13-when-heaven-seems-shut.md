@@ -8,6 +8,7 @@ mode: "author"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
 
 ```
 When cupboards seem empty
@@ -125,3 +126,5 @@ And never sleeps.
 
 
 -----
+
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "Living on a Small Income: A Daily Budget for a Family of Two"
 date: 2026-06-11
 ---
 
+<!-- PLEBVOX:START -->
+
 ---
 layout: post
 title: "Budgeting on R7,800 per Month: Real Numbers from Our Household"
@@ -191,3 +193,5 @@ When that happens, even a limited income can provide dignity, stability, and pea
 
 
 ------
+
+<!-- PLEBVOX:END -->

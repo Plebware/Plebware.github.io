@@ -4,6 +4,8 @@ title: "The Joy of Cooking"
 date: 2026-06-07
 ---
 
+<!-- PLEBVOX:START -->
+
 ## Hobby - Necessity - Relaxing - Art Form
 
 ## More Than a Necessity
@@ -153,3 +155,5 @@ The reward is the experience of creating it.
 *Good food nourishes the body. Good cooking nourishes the spirit of creativity.*
 
 **O.C. Verricchio**
+
+<!-- PLEBVOX:END -->

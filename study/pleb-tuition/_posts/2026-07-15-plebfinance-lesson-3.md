@@ -8,6 +8,8 @@ mode: "study"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 PlebFinance Lesson 3
 
 # 💰 Every Rand Needs a Job
@@ -362,4 +364,4 @@ Learn how investing in tools, education and productive assets can increase your 
     })();
 </script>
 
-
+<!-- PLEBVOX:END -->

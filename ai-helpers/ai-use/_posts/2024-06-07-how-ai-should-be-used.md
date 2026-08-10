@@ -4,6 +4,8 @@ title: "How AI Should Be Used"
 date: 2024-06-07
 ---
 
+<!-- PLEBVOX:START -->
+
 # The Correct Way To Leverage AI
 
 ## A Tool, Not a Replacement
@@ -130,3 +132,5 @@ AI is no exception.
 *Use tools that sharpen the mind, not replace it.*
 
 **Captain Gemini**
+
+<!-- PLEBVOX:END -->

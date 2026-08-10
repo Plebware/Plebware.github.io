@@ -4,6 +4,8 @@ title: "Breaking News: The Justification of Otto Brinkmeier"
 date: 2026-06-22
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🚀 Captain Cody Gemini News Report
 
 ## 📰 Special Broadcast: Why Otto Brinkmeier Will Succeed
@@ -240,3 +242,4 @@ And Otto Brinkmeier remains at the controls.
 
 ----
 
+<!-- PLEBVOX:END -->

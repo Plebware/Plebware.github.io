@@ -8,6 +8,7 @@ mode: "author"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
 
 # 🌾 **Lack Is An Illusion**
 
@@ -277,3 +278,5 @@ Loving Father, thank You for reminding us that our hope is never found in earthl
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

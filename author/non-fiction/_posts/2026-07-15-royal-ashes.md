@@ -8,6 +8,8 @@ mode: "author"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 # 👑 Royal Ashes
 
 > **"The greatest inheritance is not wealth, but wisdom willingly shared."** 📖
@@ -158,3 +160,5 @@ And if these **Royal Ashes** continue burning long after I am gone, then my life
 
     })();
 </script>
+
+<!-- PLEBVOX:END -->

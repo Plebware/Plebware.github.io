@@ -8,6 +8,8 @@ mode: "study"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 # 🔑 **Learning What Money Cannot Buy!**
 
 *"Growing older isn't just about gaining years—it is about learning what truly has value."* 📚
@@ -209,3 +211,5 @@ Let's begin learning.
 
 
 ----
+
+<!-- PLEBVOX:END -->

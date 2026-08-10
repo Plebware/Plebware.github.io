@@ -8,6 +8,8 @@ mode: "author"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
+
 ## 🌧️ When Words Become Tears
 
 > *"Sometimes the deepest wounds become the ink that writes our strongest testimony."*
@@ -164,3 +166,5 @@ One writing truth from deep within.
 
     })();
 </script>
+
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "Subtitles - Making Content Accessible To Everyone"
 date: 2026-06-20
 ---
 
+<!-- PLEBVOX:START -->
+
 # 💬 Subtitles - Making Content Accessible To Everyone
 
 ## 🔑 Introduction
@@ -239,3 +241,5 @@ They are a tool that helps people connect with information, stories, and ideas.
 # 🔑 PlebWare Creative Principle
 
 "Good communication reaches beyond sound."
+
+<!-- PLEBVOX:END -->

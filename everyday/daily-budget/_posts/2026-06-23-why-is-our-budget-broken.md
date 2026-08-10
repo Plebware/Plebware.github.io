@@ -4,6 +4,8 @@ title: "Why Is Our Budget Broken?"
 date: 2026-06-23
 ---
 
+<!-- PLEBVOX:START -->
+
 # 💸 Why Is Our Budget Broken?
 
 📍 **Written from a misty morning at City Deep Fresh Produce Market, Johannesburg**
@@ -313,3 +315,5 @@ And that tin of coffee?
 
 
 -----
+
+<!-- PLEBVOX:END -->

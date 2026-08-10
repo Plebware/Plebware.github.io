@@ -4,6 +4,8 @@ title: "Speaking To Gemini"
 date: 2026-06-17
 ---
 
+<!-- PLEBVOX:START -->
+
 # Mastering Prompt Engineering with Gemini
 <div align="center">
 
@@ -57,3 +59,5 @@ Provide examples of what "getting it right" looks like. By showing the model a p
 ---
 
 *Remember: Gemini is an assistant that evolves with your input. Experimentation, iteration, and clear, structured communication are your most powerful tools.*
+
+<!-- PLEBVOX:END -->

@@ -4,6 +4,8 @@ title: "⛵ The Ship Has Already Sailed"
 date: 2026-06-30
 ---
 
+<!-- PLEBVOX:START -->
+
 # ⛵ What Is Done Is Done.
 
 > *"In the world you will have tribulation. But take heart; I have overcome the world."*  
@@ -244,6 +246,10 @@ Gold becomes valuable after passing through fire.
 
 Faith matures in exactly the same way.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ### 🔑 Practical Application
 
 - View hardships as opportunities to mature.
@@ -434,3 +440,5 @@ In Jesus Christ's mighty Name,
 </script>
 
 -----
+
+<!-- PLEBVOX:END -->

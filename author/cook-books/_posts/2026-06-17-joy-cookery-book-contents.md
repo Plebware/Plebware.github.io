@@ -3,6 +3,9 @@ layout: post
 title: "Joy Cookery Book - Contents"
 date: 2026-06-17
 ---
+
+<!-- PLEBVOX:START -->
+
 <div align="center">
 
 <img src="/assets/images/joy-cookery-collection.png"
@@ -565,3 +568,5 @@ May this book bring joy to your kitchen, confidence to your cooking, and many me
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

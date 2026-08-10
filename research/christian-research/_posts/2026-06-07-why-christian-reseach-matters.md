@@ -4,7 +4,10 @@ title: "Why Christian Research Matters"
 date: 2026-06-07
 ---
 
+<!-- PLEBVOX:START -->
+
 # Why Christian Research Matters
+
 ## Searching for Truth
 
 The Christian faith is n---
@@ -111,3 +114,5 @@ It is part of the lifelong pursuit of truth.
 "Truth Revealed by Blood and Fire"
 
 Cody - Dei Scriptor
+
+<!-- PLEBVOX:END -->
