@@ -22,6 +22,9 @@ They record techniques.
 They tell stories through food.
 
 Every recipe has a history, whether it comes from a family kitchen, a local community, or a professional chef.
+<!-- PLEBVOX:END -->
+----
+<!-- PLEBVOX:START -->
 
 ## Food as Storytelling
 
@@ -37,6 +40,10 @@ A cookbook becomes a written record of those experiences.
 
 In that sense, cookbook writing is a form of storytelling.
 
+<!-- PLEBVOX:END -->
+----
+<!-- PLEBVOX:START -->
+
 ## Why Write a Cookbook?
 
 People create cookbooks for many reasons:
@@ -49,6 +56,10 @@ People create cookbooks for many reasons:
 * To create educational resources
 
 Each purpose adds value to future readers.
+
+<!-- PLEBVOX:END -->
+----
+<!-- PLEBVOX:START -->
 
 ## The Author's Role
 
@@ -68,6 +79,10 @@ A poorly written recipe creates frustration.
 
 Clarity matters.
 
+<!-- PLEBVOX:END -->
+----
+<!-- PLEBVOX:START -->
+
 ## The PlebWare Perspective
 
 PlebWare views cookbooks as educational publishing.
@@ -84,28 +99,35 @@ A cookbook is both a teaching tool and a publishing project.
 
 It demonstrates how knowledge can be preserved and shared effectively.
 
-## What This Section Covers
+<!-- PLEBVOX:END -->
+----
+<!-- PLEBVOX:START -->
+
+## What This Section Covers.
 
 The Cookbooks section may include:
 
-* Recipe writing techniques
-* Cookbook design principles
-* Food photography considerations
-* Recipe testing methods
-* Publishing workflows
-* Digital cookbook creation
-* Family recipe preservation
-* Formatting and layout advice
-* Self-publishing strategies
+* Recipe writing techniques.
+* Cookbook design principles.
+* Food photography considerations.
+* Recipe testing methods.
+* Publishing workflows.
+* Digital cookbook creation.
+* Family recipe preservation.
+* Formatting and layout advice.
+* Self-publishing strategies.
 
 The focus is on creating useful, readable, and lasting culinary publications.
 
-## Preserving Knowledge
+<!-- PLEBVOX:END -->
+----
+<!-- PLEBVOX:START -->
+
+## Preserving Knowledge.
 
 Many excellent recipes disappear when they are never written down.
 
 A cookbook preserves that knowledge.
-
 It allows future generations to benefit from the experience, creativity, and traditions of those who came before them.
 
 Documentation transforms memory into legacy.
@@ -123,7 +145,7 @@ The difference is measured not only in ingredients, but in generations.
 *Every recipe records a meal. Every cookbook preserves a heritage.*
 
 **O.C. Verricchio**
-
+<!-- PLEBVOX:END -->
 ----
 
 <!-- Comments Section -->
@@ -212,4 +234,3 @@ The difference is measured not only in ingredients, but in generations.
 </script>
 
 ----
-<!-- PLEBVOX:END -->
