@@ -2,8 +2,8 @@
 layout: post
 title: "Adding Images to GitHub Pages"
 date: 2026-06-22
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🖼️ Picture Perfect GitHub Pages
 

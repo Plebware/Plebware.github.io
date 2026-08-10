@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking To Gemini"
 date: 2026-06-17
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # Mastering Prompt Engineering with Gemini
 <div align="center">

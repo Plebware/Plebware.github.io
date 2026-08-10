@@ -2,8 +2,8 @@
 layout: post
 title: "Why Scripting Matters"
 date: 2026-06-21
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 📜 Why Scripting Matters
 

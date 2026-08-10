@@ -2,8 +2,8 @@
 layout: post
 title: "How Can I Keep to a Budget?"
 date: 2026-06-12
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 💸 Losing One Day's Pay Breaks Everything?
 

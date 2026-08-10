@@ -2,8 +2,8 @@
 layout: post
 title: "Why AI Prompts Matter"
 date: 2026-06-06
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 ## Communicating With The Machine. 
 

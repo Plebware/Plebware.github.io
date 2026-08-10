@@ -2,8 +2,8 @@
 layout: post
 title: "⚔️ The Sola Verum Protocol – Deep Fakes Must Be Stopped"
 date: 2026-06-30
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # ⚔️ The Sola Verum Protocol
 

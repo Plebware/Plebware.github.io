@@ -4,8 +4,8 @@ date: 2026-07-11
 category: "AI Section"
 tags: [ai, plebware, self-review, gemini, chatgpt, deepseek, meta-ai]
 mode: "AI Section"
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 ## The Social Experiment
 

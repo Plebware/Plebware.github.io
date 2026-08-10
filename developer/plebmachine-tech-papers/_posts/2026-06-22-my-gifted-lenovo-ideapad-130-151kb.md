@@ -2,8 +2,8 @@
 layout: post
 title: "My Gifted Lenovo IdeaPad 130-15IKB"
 date: 2026-06-22
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 💻 My Gifted Lenovo IdeaPad 130-15IKB
 

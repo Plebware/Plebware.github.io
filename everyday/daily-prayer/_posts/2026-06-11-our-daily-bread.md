@@ -3,8 +3,8 @@
 layout: post
 title: "Our Daily Bread"
 date: 2026-06-11
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🙏 Daily Prayer: Starting and Ending the Day with God
 

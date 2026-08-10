@@ -2,8 +2,8 @@
 layout: post
 title: "Short Rib and Vegetable Soup While Multitasking"
 date: 2026-06-10
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 # 🔑 Short Rib and Vegetable Soup While Multitasking
 
 There are days when cooking is simply about getting food onto the table, and then there are days when cooking becomes part of a much larger adventure.

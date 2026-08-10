@@ -6,8 +6,8 @@ category: "poetry"
 tags: [poetry, anxiety, anger, perseverance, reflection, hope, healing]
 mode: "author"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 ## 🌊 The Battle Within
 

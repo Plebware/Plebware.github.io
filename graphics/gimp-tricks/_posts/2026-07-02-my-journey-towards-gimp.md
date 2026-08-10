@@ -2,8 +2,8 @@
 layout: post
 title: "My Journey Towards GIMP"
 date: 2026-07-02
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🎨 My Graphic Design Journey
 

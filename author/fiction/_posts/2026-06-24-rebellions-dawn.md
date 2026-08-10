@@ -5,8 +5,8 @@ date: 2026-06-24
 category: "fiction"
 tags: [space-opera, starship-frederick, freedom-station, rebellions-dawn, captain-cody, unity-galactic-command, teaser, prologue,]
 mode: "author"
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # Prologue: Rebellion's Dawn
 

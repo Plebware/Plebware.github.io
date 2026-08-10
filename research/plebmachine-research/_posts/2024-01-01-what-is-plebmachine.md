@@ -2,8 +2,8 @@
 layout: post
 title: "What is PlebMachine?"
 date: 2024-01-01
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 ## A Different Approach to Computing
 

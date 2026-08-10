@@ -2,8 +2,8 @@
 layout: post
 title: "Life Skills 101: Learning the Tools for Everyday Living"
 date: 2026-06-20
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🔑 What Are Life Skills?
 

@@ -2,8 +2,8 @@
 layout: post
 title: "PlebTuition"
 date: 2010-07-27
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 
 > **The Keyboard Is Mightier Than The Pen**

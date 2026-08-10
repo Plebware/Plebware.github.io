@@ -2,8 +2,8 @@
 layout: post
 title: "Why GIMP Matters"
 date: 2022-01-18
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 
 # Creativity Without Barriers

@@ -2,8 +2,8 @@
 layout: post
 title: "Why Inkscape Matters"
 date: 2026-06-05
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 
 ## Drawing with Mathematics

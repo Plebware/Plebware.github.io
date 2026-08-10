@@ -5,8 +5,8 @@ category: "handyman"
 author: "The Digital Handy Man"
 date: "2026-07-21"
 tags: ["free-software", "productivity", "linux", "ai", "open-source", "workflow"]
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # Building a Digital Workshop: The Essential Free Software Toolkit
 

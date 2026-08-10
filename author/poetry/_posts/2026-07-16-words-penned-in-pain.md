@@ -6,8 +6,8 @@ category: "poetry"
 tags: [poetry, emotions, reflection, healing, faith, hope, writing]
 mode: "author"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 ## 🌧️ When Words Become Tears
 

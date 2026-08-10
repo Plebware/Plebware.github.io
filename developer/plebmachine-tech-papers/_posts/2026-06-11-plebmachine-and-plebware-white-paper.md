@@ -2,8 +2,8 @@
 layout: post
 title: "Fast Indie Development Via AI-Assisted Publishing and Workflow Automation"
 date: 2026-06-11
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # PlebMachine and PlebWare
 

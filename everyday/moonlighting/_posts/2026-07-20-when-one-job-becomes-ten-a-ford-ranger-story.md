@@ -5,8 +5,8 @@ date: 2026-07-20
 author: "Otto Brinkmeier"
 categories: ["everyday"]
 tags: Ford Ranger, Ford Ranger 2.2 TDCi, P0088, Limp Mode, Fuel Pressure, Common Rail Diesel, Vehicle Repairs, Everyday
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🔑 The Ford Ranger That Refused to Cooperate
 

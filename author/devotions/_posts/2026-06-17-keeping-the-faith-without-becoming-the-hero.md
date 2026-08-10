@@ -3,8 +3,8 @@
 layout: post
 title: "Keeping the Faith Without Becoming the Hero"
 date: 2026-06-17
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # ✝️ Remaining Humble During The Darkest Days
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Subtitles - Making Content Accessible To Everyone"
 date: 2026-06-20
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 💬 Subtitles - Making Content Accessible To Everyone
 

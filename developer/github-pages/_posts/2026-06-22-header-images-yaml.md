@@ -2,8 +2,8 @@
 layout: post
 title: "Creating Header Images Using _config.yml"
 date: 2026-06-22
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🖼️ Creating Header Images Using `_config.yml`
 

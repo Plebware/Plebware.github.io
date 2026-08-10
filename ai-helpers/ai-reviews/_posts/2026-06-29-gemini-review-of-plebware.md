@@ -2,8 +2,8 @@
 layout: post
 title: "Gemini Review of PlebWare"
 date: 2026-06-29
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # PlebWare Deep Dive: A Static Site Renaissance
 **Review Date: 2026-06-29**

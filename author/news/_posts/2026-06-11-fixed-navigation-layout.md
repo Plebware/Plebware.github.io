@@ -2,8 +2,8 @@
 layout: post
 title: "Fixed Navigation Layout"
 date: 2026-06-11
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 ## Site Now Fully Functional
 

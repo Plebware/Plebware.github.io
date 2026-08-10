@@ -2,8 +2,8 @@
 layout: post
 title: "Ambition: A Ladder or a Trap?"
 date: 2026-06-07
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 ##  **A God-Given Call to Rise, or a Quiet Test of the Heart?** 
 

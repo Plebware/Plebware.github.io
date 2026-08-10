@@ -2,8 +2,8 @@
 layout: post
 title: "The Linux Philosophy"
 date: 2026-06-21
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🐧 The Linux Philosophy
 

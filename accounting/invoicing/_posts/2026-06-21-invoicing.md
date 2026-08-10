@@ -2,8 +2,8 @@
 layout: post
 title: "Invoicing – Managing Sales and Professional Transactions"
 date: 2026-06-21
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🧾 Invoicing
 

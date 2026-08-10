@@ -7,8 +7,8 @@ category: "fiction"
 tags: [christianity, genesis, fall-of-man, redemption, living-dead, biblical-theology]
 mode: "author"
 excerpt: "An exploration of humanity's spiritual condition from Creation through the long preparation for redemption."
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # Dead Men Walking
 

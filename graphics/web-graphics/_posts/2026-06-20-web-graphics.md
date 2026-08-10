@@ -2,8 +2,8 @@
 layout: post
 title: "Web Graphics - Designing For The Digital World"
 date: 2026-06-20
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🌐 Web Graphics - Designing For The Digital World
 

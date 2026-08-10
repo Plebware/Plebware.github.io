@@ -2,8 +2,8 @@
 layout: post
 title: "From Ashes to Wisdom"
 date: 2026-07-15
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 👑 Royal Ashes
 ## *When Yesterday's Ashes Become Tomorrow's Wisdom* 🔥

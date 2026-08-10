@@ -7,8 +7,8 @@ category: "fiction"
 tags: [the-living-dead, spiritual-condition, redemption, divine-intervention, biblical-theology, speculative-fiction]
 mode: "author"
 excerpt: "The shadows have served their purpose. The pedagogy is complete. But when the cure finally arrives, will the living dead recognize it—or will they do what they have always done?"
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # The Living Dead
 

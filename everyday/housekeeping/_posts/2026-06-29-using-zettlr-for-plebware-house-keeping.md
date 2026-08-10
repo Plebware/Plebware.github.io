@@ -2,8 +2,8 @@
 layout: post
 title: "Using Zettlr For PlebWare Housekeeping"
 date: 2026-06-29
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 ## Markdown Editor 
 

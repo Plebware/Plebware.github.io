@@ -2,8 +2,8 @@
 layout: post
 title: "Adding Images On GitHub Pages"
 date: 2026-06-17
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # Embedding Centred Images In GitHub Pages Markdown
 

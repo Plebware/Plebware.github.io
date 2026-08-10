@@ -2,8 +2,8 @@
 layout: post
 title: "Budgeting – Managing Money and Planning Wisely"
 date: 2026-06-21
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 💰 Budgeting
 

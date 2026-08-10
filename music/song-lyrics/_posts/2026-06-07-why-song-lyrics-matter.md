@@ -2,8 +2,8 @@
 layout: post
 title: "Why Song Lyrics Matter"
 date: 2026-06-07
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 ## Words That Carry Sound
 

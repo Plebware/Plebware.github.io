@@ -2,8 +2,8 @@
 layout: post
 title: "The Appetite of the Soul"
 date: 2026-06-07
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # “The Appetite of the Soul” 
 

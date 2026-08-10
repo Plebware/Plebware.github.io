@@ -2,8 +2,8 @@
 layout: post
 title: "2010 Ford Ranger 2.2 TDCi 6-Speed: Surviving Beyond 200,000 km"
 date: 2026-06-11
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🔧 2010 Ford Ranger 2.2 TDCi 6-Speed: Surviving Beyond 200,000 km
 

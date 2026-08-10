@@ -2,8 +2,8 @@
 layout: post
 title: "Plebware Publishing Architecture Blueprint"
 date: 2026-06-19
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🔑 Plebware Publishing Architecture Blueprint
 

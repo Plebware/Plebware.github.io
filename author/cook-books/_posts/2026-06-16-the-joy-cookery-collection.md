@@ -2,8 +2,8 @@
 layout: post
 title: "The Joy Cookery Collection"
 date: 2026-06-16
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 <div align="center">
 
 <img src="/assets/images/joy-cookery-collection.png"

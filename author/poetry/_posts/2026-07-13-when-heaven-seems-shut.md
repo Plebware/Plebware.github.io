@@ -6,8 +6,8 @@ category: "poetry"
 tags: [lack, worries, weary, tears, prayers, delay, hope]
 mode: "author"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 
 ```

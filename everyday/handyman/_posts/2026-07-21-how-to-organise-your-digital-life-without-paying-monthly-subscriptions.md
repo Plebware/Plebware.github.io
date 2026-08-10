@@ -5,8 +5,8 @@ category: "Everyday"
 author: "The Digital Handy Man"
 date: "2026-07-21"
 tags: ["organisation", "productivity", "free-software", "self-reliance", "digital-declutter"]
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # How to Organise Your Digital Life Without Paying Monthly Subscriptions
 

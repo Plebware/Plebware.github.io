@@ -2,8 +2,8 @@
 layout: post
 title: "Why Christian Research Matters"
 date: 2026-06-07
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # Why Christian Research Matters
 ## Searching for Truth

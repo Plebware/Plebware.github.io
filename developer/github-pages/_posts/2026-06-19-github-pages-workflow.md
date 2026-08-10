@@ -2,8 +2,8 @@
 layout: post
 title: "GitHub Pages Workflow – Building PlebWare"
 date: 2026-06-19
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # GitHub Pages Workflow
 

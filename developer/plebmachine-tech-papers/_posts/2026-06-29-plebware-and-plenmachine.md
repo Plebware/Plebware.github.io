@@ -2,8 +2,8 @@
 layout: post
 title: "PlebWare and PlebMachine"
 date: 2026-06-29
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 
 # 🔑 **Two Connected Projects**

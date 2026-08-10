@@ -2,8 +2,8 @@
 layout: post
 title: "Why Shotcut Matters for Video Editing"
 date: 2026-06-07
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 ## Cross-Platform Video Editor.
 ## Video Editing for Everyone

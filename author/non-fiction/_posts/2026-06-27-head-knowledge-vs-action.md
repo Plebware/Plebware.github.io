@@ -2,8 +2,8 @@
 layout: post
 title: "Head-Knowledge vs Action"
 date: 2026-06-27
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 📖 Theoretical Training Versus Practical Training
 

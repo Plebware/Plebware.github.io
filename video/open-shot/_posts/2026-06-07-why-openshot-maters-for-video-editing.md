@@ -2,8 +2,8 @@
 layout: post
 title: "Why OpenShot?"
 date: 2026-06-07
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # Why OpenShot Matters for Video Editing
 

@@ -6,8 +6,8 @@ category: "poetry"
 tags: [poetry, death, suffering, faith, endurance, reflection, hope]
 mode: "author"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 ## 🕯️ A Cry From the Valley of Shadows
 

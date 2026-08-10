@@ -6,8 +6,8 @@ category: "poetry"
 tags: [afrikaans, language, culture, heritage, south-africa, identity, linguistics]
 mode: "author"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 #  **"A language does not die while children laugh in it."**
 ```

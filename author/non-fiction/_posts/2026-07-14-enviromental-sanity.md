@@ -6,8 +6,8 @@ category: "non-fiction"
 tags: [environment, systems, education, learning, sustainability, personal-growth, plebware]
 mode: "author"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # Environmental Sanity
 

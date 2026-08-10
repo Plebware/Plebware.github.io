@@ -2,8 +2,8 @@
 layout: post
 title: "The Death by a Thousand Expenses Economy"
 date: 2026-06-12
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 📰 Death by a Thousand Cuts
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Personal Hygiene"
 date: 2026-06-11
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🚿 Personal Hygiene When You Only Have a Basin and Shower
 

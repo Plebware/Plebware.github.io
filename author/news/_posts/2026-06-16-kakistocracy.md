@@ -2,8 +2,8 @@
 layout: post
 title: "The Kakistocracy"
 date: 2026-06-16
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # ⚡ When Parliament Becomes a Den of Thieves
 

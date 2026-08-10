@@ -6,8 +6,8 @@ category: "pleb-tuition"
 tags: budgeting, personal-finance, debt, money-management, financial-literacy,wealth-building, pleb-finance,
 mode: "study"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🔑 PlebFinance Lesson 1
 

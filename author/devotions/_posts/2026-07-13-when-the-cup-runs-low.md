@@ -6,8 +6,8 @@ category: "fiction"
 tags: [empty, financial-lack, hard-times, hope, faithfulness, faith, struggles]
 mode: "author"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 
 # 🌾 **Lack Is An Illusion**

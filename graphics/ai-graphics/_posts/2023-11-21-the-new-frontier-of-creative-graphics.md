@@ -2,8 +2,8 @@
 layout: post
 title: "The New Frontier of Creative Graphics"
 date: 2023-11-21
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 
 ## A New Tool for Creators

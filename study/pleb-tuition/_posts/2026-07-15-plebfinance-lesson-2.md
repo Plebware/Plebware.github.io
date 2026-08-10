@@ -6,8 +6,8 @@ category: "pleb-tuition"
 tags: debt, budgeting, financial-literacy, money-management, assets, liabilities, pleb-finance
 mode: "study"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🔑 PlebFinance Lesson 2
 

@@ -7,8 +7,8 @@ tags: [video-editing, transitions, colour-correction, raw-footage, pacing, audio
 excerpt: "Timeless principles for editing videos that engage, inform, and inspire."
 mode: "video"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 
 # 🎬 The 10 Commandments of Great Video Editing

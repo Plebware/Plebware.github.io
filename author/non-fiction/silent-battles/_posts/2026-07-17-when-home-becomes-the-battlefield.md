@@ -6,8 +6,8 @@ category: "non-fiction"
 tags: [stress, arguments, complaints, shouting, cussing, profanity, rage]
 mode: "author"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🔑 When Faith Is Drowning - When Home Becomes the Battlefield
 ## **The Hidden Weight of Constant Stress**

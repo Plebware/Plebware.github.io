@@ -2,8 +2,8 @@
 layout: post
 title: "Windows 11 Professional vs MX Linux 23.6: A Real-World Performance Comparison"
 date: 2026-07-19
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 # 🔑 Windows 11 Professional vs MX Linux 23.6
 

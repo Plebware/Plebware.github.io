@@ -6,8 +6,8 @@ category: "pleb-tuition"
 tags: [free-learning, study, learn, improve, qualify, education, literacy]
 mode: "study"
 author: Otto Brinkmeier
----<!-- PLEBVOX:START -->
-
+---
+<!-- PLEBVOX:START -->
 
 
 
