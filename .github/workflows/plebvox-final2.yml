@@ -1,0 +1,112 @@
+name: PlebVox final2
+
+on:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    if: github.event.head_commit.message == 'Run PlebVox final2'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Restore exact article bytes and add PlebVox correctly
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+          import subprocess
+
+          PARENT = '8ab5c4444a8cf9484b473ba1a83a650c690cf765'
+          START = '<!-- PLEBVOX:START -->'
+          END = '<!-- PLEBVOX:END -->'
+          TARGET = 900
+          MAX = 1200
+
+          subprocess.run(['git', 'fetch', 'origin', PARENT, '--depth=1'], check=True)
+          names = subprocess.check_output(
+              ['git', 'diff', '--name-only', PARENT, 'HEAD', '--', '*_posts/*.md'],
+              text=True
+          ).splitlines()
+
+          def words(text):
+              return len(re.findall(r"\b[\w’'-]+\b", text, re.UNICODE))
+
+          def split_body(body):
+              if words(body) <= MAX:
+                  return [body]
+              matches = list(re.finditer(r'(?m)^#{2,3}\s+.+$', body))
+              if len(matches) < 2:
+                  return [body]
+              sections = []
+              starts = [m.start() for m in matches]
+              if starts[0] > 0:
+                  sections.append(body[:starts[0]])
+              for i, start in enumerate(starts):
+                  end = starts[i + 1] if i + 1 < len(starts) else len(body)
+                  sections.append(body[start:end])
+              chunks, current = [], []
+              current_words = 0
+              for section in sections:
+                  sw = words(section)
+                  if current and current_words + sw > MAX:
+                      chunks.append(''.join(current))
+                      current, current_words = [], 0
+                  current.append(section)
+                  current_words += sw
+                  if current_words >= TARGET:
+                      chunks.append(''.join(current))
+                      current, current_words = [], 0
+              if current:
+                  chunks.append(''.join(current))
+              return chunks
+
+          changed = []
+          for name in names:
+              path = Path(name)
+              subprocess.run(['git', 'checkout', PARENT, '--', name], check=True)
+              text = path.read_bytes().decode('utf-8')
+              if START in text:
+                  continue
+
+              if text.startswith('---'):
+                  end = text.find('\n---', 3)
+                  if end == -1:
+                      continue
+                  body_start = end + 4
+              else:
+                  body_start = 0
+
+              body = text[body_start:]
+              nl = '\r\n' if '\r\n' in body else '\n'
+              leading = ''
+              if body.startswith(nl):
+                  leading = nl
+                  body = body[len(nl):]
+
+              chunks = split_body(body)
+              if len(chunks) == 1:
+                  marked_body = leading + START + nl + chunks[0] + END
+              else:
+                  marked_body = leading + (nl + nl).join(START + nl + chunk + END for chunk in chunks)
+
+              path.write_bytes((text[:body_start] + marked_body).encode('utf-8'))
+              changed.append((name, len(chunks)))
+
+          print(f'Final2 updated {len(changed)} articles.')
+          for name, count in changed:
+              print(f'{name}: {count} PlebVox part(s)')
+          PY
+
+      - name: Commit corrected article changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Apply PlebVox markers correctly"
+          git push
