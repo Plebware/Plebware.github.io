@@ -5,7 +5,6 @@ date: 2026-08-11
 ---
 
 <!-- PLEBVOX:START -->
-
 # 🔑 PlebWare Field Report: When the Publishing Machine Works
 
 There are moments when a project stops being an experiment and starts becoming a working system.
@@ -31,7 +30,9 @@ The machine did what it was supposed to do.
 That may sound like a small thing.
 
 For PlebWare, it isn't.
+<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:START -->
 ## 🔑 The Real-World Publishing Test
 
 PlebWare has been built around a simple idea: writing should be able to move through a reliable chain from thought to reader.
@@ -75,7 +76,9 @@ The Ranger was being used as a mobile office.
 And PlebWare was publishing.
 
 That is precisely the environment in which a system proves its worth.
+<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:START -->
 ## 🔑 A Reader's Verdict
 
 Francois took the time to look at the finished article and gave some wonderfully direct feedback.
@@ -99,13 +102,17 @@ For a writer who has spent years trying to develop a recognisable voice, that is
 It tells me that the workflow isn't merely producing technically valid pages.
 
 It is helping me get my actual voice onto the page.
+<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:START -->
 ## 🔑 The LinkedIn Connection
+<!-- PLEBVOX:END -->
 
 <p align="center">
-  <img src="/assets/images/linkedin_banner.webp" alt="LinkedIn banner showing Networking, Collaboration, Sales and Marketing" width="100%">
+  <img src="{{ '/assets/images/linkedin_banner.webp' | relative_url }}" alt="LinkedIn banner showing Networking, Collaboration, Sales and Marketing" style="display:block;width:100%;max-width:1536px;height:auto;margin:0 auto;">
 </p>
 
+<!-- PLEBVOX:START -->
 While looking at Francois's professional presence, I also came across his LinkedIn banner.
 
 Its message is very different from the muddy, rainy reality of a Johannesburg market, but there is an interesting connection:
@@ -133,7 +140,9 @@ And that final step is important.
 A publishing system that can receive feedback and feed that experience back into the next article becomes more than a collection of web pages.
 
 It becomes a working knowledge system.
+<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:START -->
 ## 🔑 Meanwhile... The Potatoes Were Getting Wet
 
 Of course, no field report from City Deep would be complete without at least one completely unexpected complication.
@@ -167,7 +176,9 @@ Not just in a demonstration.
 Not just on a developer's desk.
 
 Not just in theory.
+<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:START -->
 ## 🔑 The PlebWare Field Test
 
 Today's test demonstrated several things at once.
@@ -191,7 +202,9 @@ That is a much better test than simply asking whether a webpage loads.
 A webpage loading proves very little.
 
 A complete publishing workflow taking an idea from the writer's head to a published article, and then bringing human feedback back into the process, proves considerably more.
+<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:START -->
 ## 🔑 From PlebWare to a Living Publishing Ecosystem
 
 This is what PlebWare has been becoming.
@@ -217,7 +230,9 @@ That is publishing.
 And when the machinery quietly does its job in the background, the writer gets to concentrate on what really matters:
 
 **the story.**
+<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:START -->
 ## 🔑 Captain Gemini's Field Assessment
 
 An outside technical assessment of PlebWare reinforces the same conclusion: the value of the platform is not simply in the number of pages it contains.
@@ -231,7 +246,9 @@ That is a workflow.
 And a workflow that has now been tested under ordinary working conditions — rain, traffic, market activity, interruptions, human feedback and even wet potatoes — is considerably more valuable than a workflow that only works in theory.
 
 The field test passed.
+<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:START -->
 ## 🔑 The Bigger Picture
 
 There is still work to do.
@@ -271,5 +288,4 @@ But the publishing machine?
 **That worked.**
 
 And tomorrow, we improve it again.
-
 <!-- PLEBVOX:END -->
