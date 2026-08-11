@@ -6,7 +6,7 @@ date: 2026-08-11
 
 <!-- PLEBVOX:START -->
 
-## 🔑 When Hope Has Gone Moldy
+## 🔑 When Hope Has Gone Moldy.
 
 Monday.
 
@@ -42,7 +42,7 @@ There is something almost cruelly ironic about that.
 
 <!-- PLEBVOX:START -->
 
-## 😔 The Reality Behind the Words
+## 😔 The Reality Behind the Words.
 
 I can joke about it.
 
@@ -50,7 +50,7 @@ Sometimes you have to.
 
 Because if you don't laugh at some of the ridiculous things life throws at you, you might just sit down and cry.
 
-But underneath the humour is frustration.
+But underneath the humor is frustration.
 
 I'm hungry.
 
@@ -68,7 +68,7 @@ Today feels like one of those days.
 
 <!-- PLEBVOX:START -->
 
-## 😄 And Yet... PlebWare
+## 😄 And Yet... PlebWare.
 
 And then there is the strange contradiction of my life.
 
@@ -88,7 +88,7 @@ The website is alive.
 
 PlebVox works.
 
-The articles are being organised.
+The articles are being organized.
 
 The system is taking shape.
 
@@ -110,7 +110,7 @@ I can still think.
 
 I can still dream.
 
-And apparently, I can still turn a mouldy packet of viennas into an article.
+And apparently, I can still turn a moldy packet of viennas into an article.
 
 That's got to count for something.
 
@@ -118,7 +118,7 @@ That's got to count for something.
 
 <!-- PLEBVOX:START -->
 
-## 🙏 Sad About Our Lot
+## 🙏 Sad About Our Lot.
 
 I'm not going to pretend everything is wonderful.
 
@@ -148,7 +148,7 @@ Very hard.
 
 <!-- PLEBVOX:START -->
 
-## 🔥 But This Isn't The End
+## 🔥 But This Isn't The End.
 
 So yes...
 
@@ -166,7 +166,7 @@ There is still PlebWare.
 
 And there is still tomorrow.
 
-I don't know what tomorrow's provision will look like.
+I don't know what to tomorrow's provision will look like.
 
 I don't know where the next meal will come from.
 
@@ -206,7 +206,7 @@ Perhaps hope is simply looking at an ugly Monday and saying:
 
 <!-- PLEBVOX:START -->
 
-## 🙏 A Prayer for Tomorrow
+## 🙏 A Prayer for Tomorrow.
 
 Lord Jesus,
 
