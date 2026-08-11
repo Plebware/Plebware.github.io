@@ -33,7 +33,7 @@ For PlebWare, it isn't.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 The Real-World Publishing Test
+## 🔑 The Real-World Publishing Test.
 
 PlebWare has been built around a simple idea: writing should be able to move through a reliable chain from thought to reader.
 
@@ -105,13 +105,12 @@ It is helping me get my actual voice onto the page.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 The LinkedIn Connection
-<!-- PLEBVOX:END -->
+## 🔑 The LinkedIn Connection.
+
 <img src="{{ '/assets/images/linkedin_banner.webp' | relative_url }}" 
      alt="LinkedIn banner showing Networking, Collaboration, Sales and Marketing"
      style="max-width: 100%; height: auto;">
 
-<!-- PLEBVOX:START -->
 While looking at Francois's professional presence, I also came across his LinkedIn banner.
 
 Its message is very different from the muddy, rainy reality of a Johannesburg market, but there is an interesting connection:
@@ -142,7 +141,7 @@ It becomes a working knowledge system.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 Meanwhile... The Potatoes Were Getting Wet
+## 🔑 Meanwhile... The Potatoes Were Getting Wet.
 
 Of course, no field report from City Deep would be complete without at least one completely unexpected complication.
 
@@ -178,7 +177,7 @@ Not just in theory.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 The PlebWare Field Test
+## 🔑 The PlebWare Field Test.
 
 Today's test demonstrated several things at once.
 
@@ -204,7 +203,7 @@ A complete publishing workflow taking an idea from the writer's head to a publis
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 From PlebWare to a Living Publishing Ecosystem
+## 🔑 From PlebWare to a Living Publishing Ecosystem.
 
 This is what PlebWare has been becoming.
 
@@ -232,7 +231,7 @@ And when the machinery quietly does its job in the background, the writer gets t
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 Captain Gemini's Field Assessment
+## 🔑 Captain Gemini's Field Assessment.
 
 An outside technical assessment of PlebWare reinforces the same conclusion: the value of the platform is not simply in the number of pages it contains.
 
@@ -248,7 +247,7 @@ The field test passed.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 The Bigger Picture
+## 🔑 The Bigger Picture.
 
 There is still work to do.
 
