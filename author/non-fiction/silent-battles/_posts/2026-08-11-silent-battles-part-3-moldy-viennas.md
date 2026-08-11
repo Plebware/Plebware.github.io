@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Mouldy Viennas"
+title: "Silent-Battles Moldy Vienna's"
 date: 2026-08-11
 ---
 
 <!-- PLEBVOX:START -->
 
-## 🔑 When Hope Has Gone Mouldy
+## 🔑 When Hope Has Gone Moldy
 
 Monday.
 
@@ -28,7 +28,7 @@ Maybe Monday wasn't going to be quite so bad after all.
 
 Then we looked closer.
 
-They were mouldy.
+They were moldy.
 
 Upon questioning Nico, we discovered that they had actually been given to him on Friday. They had spent the weekend in his cooler bag.
 
@@ -36,7 +36,7 @@ And just like that, the little bit of hope that had arrived at the door went str
 
 There is something almost cruelly ironic about that.
 
-**Hope had gone mouldy.**
+**Hope had gone moldy.**
 
 <!-- PLEBVOX:END -->
 
