@@ -4,9 +4,15 @@ title: "Plebware: The Jekyll And Hyde Factor"
 date: 2026-08-10
 ---
 
-<!-- PLEBVOX:START -->
+
 # 🔑 Plebware: The Jekyll and Hyde We Have Become
 
+<img src="{{ '/assets/images/the-hyde-within.webp' | relative_url }}" 
+     alt="PlebWare Sweating Mountain Cartoon - The Journey of Climbing Life's Challenges"
+     style="max-width: 100%; height: auto;">
+     
+  <!-- PLEBVOX:START -->   
+----
 There is something strangely appropriate about using the old Jekyll and Hyde idea to tell the story of Plebware.
 
 Not because Plebware is about good versus evil.
