@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "PlebWare Field Report: When the Publishing Machine Works"
+title: "PlebWare Field Test And Report"
 date: 2026-08-11
 ---
 
 <!-- PLEBVOX:START -->
-# 🔑 PlebWare Field Report: When the Publishing Machine Works
+# 🔑 PlebWare Field Report: When the Publishing Machine Works.
 
 There are moments when a project stops being an experiment and starts becoming a working system.
 
@@ -79,7 +79,7 @@ That is precisely the environment in which a system proves its worth.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 A Reader's Verdict
+## 🔑 A Reader's Verdict.
 
 Francois took the time to look at the finished article and gave some wonderfully direct feedback.
 
@@ -97,7 +97,7 @@ It wasn't another AI congratulating me.
 
 It was a human being reading the finished work and saying that the writing actually sounded like journalism.
 
-For a writer who has spent years trying to develop a recognisable voice, that is useful feedback.
+For a writer who has spent years trying to develop a recognizable voice, that is useful feedback.
 
 It tells me that the workflow isn't merely producing technically valid pages.
 
@@ -107,10 +107,9 @@ It is helping me get my actual voice onto the page.
 <!-- PLEBVOX:START -->
 ## 🔑 The LinkedIn Connection
 <!-- PLEBVOX:END -->
-
-<p align="center">
-  <img src="{{ '/assets/images/linkedin_banner.webp' | relative_url }}" alt="LinkedIn banner showing Networking, Collaboration, Sales and Marketing" style="display:block;width:100%;max-width:1536px;height:auto;margin:0 auto;">
-</p>
+<img src="{{ '/assets/images/linkedin_banner.webp' | relative_url }}" 
+     alt="LinkedIn banner showing Networking, Collaboration, Sales and Marketing"
+     style="max-width: 100%; height: auto;">
 
 <!-- PLEBVOX:START -->
 While looking at Francois's professional presence, I also came across his LinkedIn banner.
