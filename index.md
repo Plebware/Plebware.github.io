@@ -34,10 +34,34 @@ PlebWare brings together **knowledge, writing, software, education, media, resea
 
 ---
 
+## 📰 Recent Articles.
+
+The PlebWare library is continually growing.
+
+Here are the latest articles:
+
+{% assign recent_posts = site.posts | sort: 'date' | reverse %}
+
+{% for post in recent_posts limit: 8 %}
+
+### {{ post.title }}.
+
+<small>{{ post.date | date: "%d %B %Y" }}</small>
+
+{% if post.excerpt %}
+{{ post.excerpt | strip_html | truncate: 180 }}
+{% endif %}
+
+[Read Article →]({{ post.url | relative_url }})
+
+{% endfor %}
+
+---
+
 ## 📊 PlebWare Library.
 
 <div class="plebware-stats">
-  <p>📚 <strong>{{ site.posts.size }}</strong> Articles Published</p>
+  <p>📚 <strong>{{ site.posts.size }}</strong> Articles Published.</p>
 
   {% assign plebvox_count = 0 %}
 
@@ -47,7 +71,7 @@ PlebWare brings together **knowledge, writing, software, education, media, resea
     {% endif %}
   {% endfor %}
 
-  <p>🎧 <strong>{{ plebvox_count }}</strong> Articles Empowered by PlebVox</p>
+  <p>🎧 <strong>{{ plebvox_count }}</strong> Articles Empowered by PlebVox.</p>
 </div>
 
 ---
@@ -64,7 +88,7 @@ Not somebody who needs to be an expert before they are allowed to understand tec
 
 The Plebware philosophy starts with the person:
 
-**learn it - understand it - use it - improve it - make it your own**
+**learn it - understand it - use it - improve it - make it your own.**
 
 <!-- PLEBVOX:END -->
 
@@ -72,7 +96,7 @@ The Plebware philosophy starts with the person:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 PlebWare — The Ecosystem
+## 🔑 PlebWare — The Ecosystem.
 
 **PlebWare** is the name of the ecosystem and the brand.
 
@@ -107,7 +131,7 @@ Writer, Researcher, Developer, Designer, and Maker.
 
 Writing under **Othello Cody Verrocchio**, Otto brings together science fiction, journalism, Christian writing, technology, graphics and practical knowledge.
 
-### Jullian, also known as, 'Juelz' (Boy Mist)
+### Jullian, also known as, 'Juelz' (Boy Mist).
 
 Creator, Developer, Musician and Maker.
 
@@ -143,30 +167,6 @@ PlebWare currently contains **12 knowledge modes**, covering hundreds of article
 **Explore the knowledge modes using the navigation above.**
 
 <!-- PLEBVOX:END -->
-
----
-
-## 📰 Recent Articles.
-
-The PlebWare library is continually growing.
-
-Here are the latest articles:
-
-{% assign recent_posts = site.posts | sort: 'date' | reverse %}
-
-{% for post in recent_posts limit: 8 %}
-
-### {{ post.title }}
-
-<small>{{ post.date | date: "%d %B %Y" }}</small>
-
-{% if post.excerpt %}
-{{ post.excerpt | strip_html | truncate: 180 }}
-{% endif %}
-
-[Read Article →]({{ post.url | relative_url }})
-
-{% endfor %}
 
 ---
 
@@ -224,15 +224,15 @@ The technology is only one part of the picture.
 ---
 
 <!-- PLEBVOX:START -->
-## 📖 The PlebWare Lexicon
+## 📖 The PlebWare Lexicon.
 
 PlebWare contains its own growing vocabulary.
 
 The **PlebWare Lexicon** explains the names, concepts and relationships that make up the ecosystem — including the deliberate distinction between:
 
-**Plebware** — the user. (Distinguished by a small 'w')
+**Plebware** — the user. (Distinguished by a small 'w'.)
 
-**PlebWare** — the ecosystem and brand. (Distinguished by a Capital 'W')
+**PlebWare** — the ecosystem and brand. (Distinguished by a Capital 'W'.)
 
 This vocabulary is important because the names describe relationships, not merely products.
 
@@ -276,12 +276,12 @@ And creativity should not belong exclusively to people with expensive equipment,
 
 ---
 
-## 💬 Comments
+## 💬 Comments.
 
 <!-- Comments Section -->
 
 <div id="comments-section">
-    <h3>💬 Comments</h3>
+    <h3>💬 Comments.</h3>
     <div id="utterances-container"></div>
 </div>
 
@@ -296,10 +296,10 @@ And creativity should not belong exclusively to people with expensive equipment,
             const container = document.getElementById('utterances-container');
             if (!container) return;
 
-            // Clear container
+            // Clear container.
             container.innerHTML = '';
 
-            // Create new script
+            // Create new script.
             const script = document.createElement('script');
             script.src = 'https://utteranc.es/client.js';
             script.setAttribute('repo', 'plebware/plebware.github.io');
@@ -308,7 +308,7 @@ And creativity should not belong exclusively to people with expensive equipment,
             script.setAttribute('crossorigin', 'anonymous');
             script.async = true;
 
-            // Add to container
+            // Add to container.
             container.appendChild(script);
             currentTheme = theme;
         }
@@ -318,13 +318,13 @@ And creativity should not belong exclusively to people with expensive equipment,
             return isDark ? 'github-dark' : 'github-light';
         }
 
-        // Initialize on page load
+        // Initialize on page load.
         function init() {
             const theme = getTheme();
             loadUtterances(theme);
         }
 
-        // Handle theme changes
+        // Handle theme changes.
         function onThemeChange() {
             const newTheme = getTheme();
 
@@ -333,10 +333,10 @@ And creativity should not belong exclusively to people with expensive equipment,
             }
         }
 
-        // Listen for theme changes via custom event
+        // Listen for theme changes via custom event.
         document.addEventListener('themeChanged', onThemeChange);
 
-        // Also listen for class changes as backup
+        // Also listen for class changes as backup.
         const observer = new MutationObserver(function(mutations) {
             mutations.forEach(function(mutation) {
                 if (mutation.attributeName === 'class') {
@@ -345,7 +345,7 @@ And creativity should not belong exclusively to people with expensive equipment,
             });
         });
 
-        // Start everything when DOM is ready
+        // Start everything when DOM is ready.
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', function() {
                 init();
