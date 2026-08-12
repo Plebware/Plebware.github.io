@@ -58,6 +58,24 @@ Here are the latest articles:
 
 ---
 
+## 📰 Latest PlebWare Update.
+
+{% assign latest_update = site.updates | sort: 'date' | reverse | first %}
+
+{% if latest_update %}
+### {{ latest_update.title }}
+
+<small>{{ latest_update.date | date: "%d %B %Y" }}</small>
+
+{% if latest_update.excerpt %}
+{{ latest_update.excerpt | strip_html | truncate: 280 }}
+{% endif %}
+
+[Read the Latest PlebWare Update →]({{ latest_update.url | relative_url }})
+{% endif %}
+
+---
+
 ## 📊 PlebWare Library.
 
 <div class="plebware-stats">
