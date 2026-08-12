@@ -8,7 +8,7 @@ date: 2026-08-12
 
 # 🔑 Smoke in My Eyes.
 
-<img src="/assets/images/smoke-in-my-eyes.png"
+<img src="/assets/images/smoke-in-my-eyes.webp"
      alt="Smoke in My Eyes comic"
      style="max-width: 100%; height: auto;">
 
