@@ -4,15 +4,13 @@ title: "ChatGPT Co-lab"
 date: 2026-08-12
 ---
 
-
 <!-- PLEBVOX:START -->
 
-# 🔑 The PlebWare Conference Table.
+# 🔑 The PlebWare Conference Table
 
 <img src="/assets/images/chatgpt-colab.webp"
-     alt="Colaboration with AI, For Maximum Productivity"
+     alt="Collaboration with AI, For Maximum Productivity"
      style="max-width: 100%; height: auto;">
-
 
 There are some mornings when you don't need a boardroom.
 
@@ -31,6 +29,10 @@ A **PlebWare Conference Table**.
 And sitting opposite me, in suitably ridiculous fashion, was an AI hologram emerging from my Vivo V2026.
 
 Because apparently, if you're going to have a conference with artificial intelligence, you might as well do it properly.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 PlebWare Is Bigger Than the Website
 
@@ -63,6 +65,10 @@ And the whole thing feeds back into the website.
 That is no longer simply blogging.
 
 That is an ecosystem.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Then We Had To Talk About PlebMachine
 
@@ -121,6 +127,10 @@ Move on.
 
 That's software development in the real world.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Real Test Has Begun
 
 There is another important stage coming for PlebMachine.
@@ -155,11 +165,15 @@ Repeat.
 
 That is how an experimental system becomes a useful system.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 And Then There Is Jullian
 
 Somewhere in the middle of all this, I realised something rather amusing about the cartoon.
 
-The holographic version of ChatGPT looked a little bit like JulliaGreat PlebWare Lighthouse Expeditionn.
+The holographic version of ChatGPT looked a little bit like Jullian.
 
 And you know what?
 
@@ -201,6 +215,10 @@ And that changes how you design.
 
 It turns accessibility from a checkbox into a human requirement.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Accidental Conscience
 
 Perhaps that's why the hologram looking a little like Jullian works so well.
@@ -220,6 +238,10 @@ He isn't simply somebody standing on the sidelines.
 He is part of the development story.
 
 And sometimes the person who drives you absolutely crazy is also the person who keeps you moving when you might otherwise stop.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 A Cold Johannesburg Morning
 
@@ -268,6 +290,10 @@ The writing is multiplying.
 The experiments are becoming projects.
 
 And the projects are becoming an ecosystem.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 The Conference Resolution
 
@@ -321,12 +347,16 @@ The investigation continues.
 
 <!-- PLEBVOX:END -->
 
----
+<!-- PLEBVOX:START -->
 
-**Conference conclusion:** PlebWare is becoming something I don't merely build—I am beginning to live inside it.
+## 🔑 Conference Conclusion
+
+PlebWare is becoming something I don't merely build—I am beginning to live inside it.
 
 And tomorrow's conference agenda will probably contain another bug.
 
 That's how we know the project is alive.
 
 🗡️ **God's Journalist** in conjunction with **ChatGPT .** and the **Holy Spirit**
+
+<!-- PLEBVOX:END -->
