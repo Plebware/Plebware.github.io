@@ -8,7 +8,7 @@ date: 2026-08-12
 
 # 🔑 The PlebWare Conference Table
 
-<img src="/assets/images/smoke-in-my-eyes.png"
+<img src="/assets/images/chatgpt-colab.webp"
      alt="Collaboration with AI, For Maximum Productivity"
      style="max-width: 100%; height: auto;">
 
