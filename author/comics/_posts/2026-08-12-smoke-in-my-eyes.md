@@ -6,7 +6,7 @@ date: 2026-08-12
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Smoke in My Eyes
+# 🔑 Smoke in My Eyes.
 
 <img src="/assets/images/smoke-in-my-eyes.png"
      alt="Smoke in My Eyes comic"
@@ -22,7 +22,7 @@ There is something wonderfully ridiculous about discovering that the thing cloud
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Joke Behind the Smoke
+## 🔑 The Joke Behind the Smoke.
 
 The comic uses smoking as the visual joke, but the bigger message is about distraction.
 
@@ -52,7 +52,7 @@ Sometimes we simply cannot see it clearly anymore.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Clear the Air
+## 🔑 Clear the Air.
 
 The practical lesson is simple:
 
@@ -74,7 +74,7 @@ And unlike smoke, clarity does not need to be inhaled.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Moral
+## 🔑 The Moral.
 
 We cannot always control what happens around us, but we can learn to recognise the things that cloud our judgement.
 
