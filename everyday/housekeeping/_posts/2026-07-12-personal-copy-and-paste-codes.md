@@ -9,11 +9,15 @@ author: Otto Brinkmeier
 ---
 <!-- PLEBVOX:START -->
 
-# **Copy and paste** elements for this site
+# **Copy and paste** elements for this site.
 
-## Extra Formatting For GitHub
+## Extra Formatting For GitHub.
 
 ### **Front Matter**
+This article is for the webmaster and his associates of PlebWare, as-well-as anyone else attempting to replicate a similar GitHub page setup.
+It is not a static page and is updated regularly, and Otto often refers to it to remember the important elements
+
+<!-- PLEBVOX:END -->
 
 ```
 ---
@@ -35,7 +39,8 @@ tags: [tag1, tag2, tag3, tag4, tag5, tag6, tag7]
 mode: "author"
 author: Otto Brinkmeier
 ----
-### Image Convension.
+### Image Convention.
+
 ```
 <img src="{{ '/assets/images/moldy-food.webp' | relative_url }}" 
      alt="Hanging On - Moldy Food — A Moral Story About Lack, Financial Hardship, Uncertainty, And The Struggle To Find Solid Ground."
@@ -231,4 +236,4 @@ author: Otto Brinkmeier
 </script>
 
 ----
-<!-- PLEBVOX:END -->
+
