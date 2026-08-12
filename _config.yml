@@ -8,3 +8,8 @@ plugins:
 remote_theme: Plebware/pleb-theme
 
 future: true
+
+collections:
+  updates:
+    output: true
+    permalink: /updates/:name/
