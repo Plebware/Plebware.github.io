@@ -3,90 +3,116 @@ layout: post
 title: "PlebTuition"
 date: 2010-07-27
 ---
+
 <!-- PLEBVOX:START -->
 
+> **The Keyboard Is Mightier Than The Pen.**
 
-> **The Keyboard Is Mightier Than The Pen**
+# PlebTuition: Education for Ordinary People.
 
-## PlebTuition - Education for Ordinary People
+## What Is PlebTuition?
 
-### What is PlebTuition?
-
-PlebTuition was created from a simple observation:
+PlebTuition was created from a simple observation.
 
 Many intelligent people never receive the opportunities they deserve.
-Some leave school early. Some cannot afford university. Others possess practical skills but lack formal qualifications. 
+
+Some leave school early. Some cannot afford university. Others possess practical skills but lack formal qualifications.
+
 Yet many of these same individuals become highly competent mechanics, technicians, craftsmen, artists, writers, entrepreneurs, and problem solvers.
+
 Traditional education is valuable, but it is not the only path to knowledge.
 
 PlebTuition exists to promote the idea that learning belongs to everyone.
 
-### Learning Beyond the Classroom
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## Learning Beyond the Classroom.
 
 The modern world offers access to an unprecedented amount of information.
 
-Books, manuals, tutorials, online courses, discussion forums, videos, and open-source projects
-Allow individuals to learn almost any subject if they possess curiosity and determination.
+Books, manuals, tutorials, online courses, discussion forums, videos, and open-source projects allow individuals to learn almost any subject if they possess curiosity and determination.
+
 Some of the world's greatest innovators were self-taught in one field or another.
+
 Knowledge is no longer confined to libraries and lecture halls.
 
 The challenge today is not finding information.
 
 The challenge is learning how to use it effectively.
 
-### The PlebWare Philosophy
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## The PlebWare Philosophy.
 
 The word "Pleb" is often used to describe ordinary people.
 
 PlebTuition embraces that idea.
+
 It is not education for elites.
 
-It is education for workers, pensioners, students, hobbyists, creators, technicians, dreamers, and anyone who wants to improve their circumstances,
-through knowledge.
+It is education for workers, pensioners, students, hobbyists, creators, technicians, dreamers, and anyone who wants to improve their circumstances through knowledge.
 
 The goal is not simply to collect information.
-The goal is to transform information into understanding and understanding into practical skill.
 
-## Four Principles of PlebTuition
-### 1. Learn Continuously
+The goal is to transform information into understanding, and understanding into practical skill.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## Four Principles of PlebTuition.
+
+### 1. Learn Continuously.
 
 Education should not end when formal schooling ends.
 
 Every year should bring new skills, new experiences, and new understanding.
 
-### 2. Learn Practically
+### 2. Learn Practically.
 
 Knowledge becomes valuable when it can be applied.
+
 Theory provides direction.
+
 Practice provides mastery.
 
-### 3. Learn Affordably
+### 3. Learn Affordably.
 
 A lack of money should not prevent a person from learning.
+
 Libraries, community resources, open-source software, and freely available educational material provide opportunities for anyone willing to make use of them.
 
-### 4. Learn to Share
+### 4. Learn to Share.
 
 Knowledge grows when it is shared.
+
 Teaching others strengthens your own understanding while helping your community become stronger.
 
-## Building a Culture of Learning
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## Building a Culture of Learning.
 
 A society grows stronger when its people continue learning throughout their lives.
 
-The skilled worker who studies new techniques.27-07-2010-plebtuition.md
-
-The retiree who learns computers.
-
-The student who teaches themselves programming.
-
-The writer who learns publishing.27-07-2010-plebtuition.md
-
-The artist who studies design.
+- The skilled worker who studies new techniques.
+- The retiree who learns computers.
+- The student who teaches themselves programming.
+- The writer who learns publishing.
+- The artist who studies design.
 
 Every act of learning contributes to personal growth and community development.
 
-## Looking Forward
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## Looking Forward.
 
 PlebTuition is more than a collection of lessons.
 
@@ -104,11 +130,13 @@ Because the greatest investment a person can make is in their own knowledge.
 
 **"Education is not the filling of a bucket, but the lighting of a fire."**
 
+<!-- PLEBVOX:END -->
+
 ----
 
 <!-- Comments Section -->
 <div id="comments-section">
-    <h3>💬 Comments</h3>
+    <h3>💬 Comments.</h3>
     <div id="utterances-container"></div>
 </div>
 
@@ -123,10 +151,10 @@ Because the greatest investment a person can make is in their own knowledge.
             const container = document.getElementById('utterances-container');
             if (!container) return;
             
-            // Clear container
+            // Clear container.
             container.innerHTML = '';
             
-            // Create new script
+            // Create new script.
             const script = document.createElement('script');
             script.src = 'https://utteranc.es/client.js';
             script.setAttribute('repo', 'plebware/plebware.github.io');
@@ -135,7 +163,7 @@ Because the greatest investment a person can make is in their own knowledge.
             script.setAttribute('crossorigin', 'anonymous');
             script.async = true;
             
-            // Add to container
+            // Add to container.
             container.appendChild(script);
             currentTheme = theme;
         }
@@ -145,13 +173,13 @@ Because the greatest investment a person can make is in their own knowledge.
             return isDark ? 'github-dark' : 'github-light';
         }
         
-        // Initialize on page load
+        // Initialize on page load.
         function init() {
             const theme = getTheme();
             loadUtterances(theme);
         }
         
-        // Handle theme changes
+        // Handle theme changes.
         function onThemeChange() {
             const newTheme = getTheme();
             if (newTheme !== currentTheme) {
@@ -159,10 +187,10 @@ Because the greatest investment a person can make is in their own knowledge.
             }
         }
         
-        // Listen for theme changes via custom event
+        // Listen for theme changes via custom event.
         document.addEventListener('themeChanged', onThemeChange);
         
-        // Also listen for class changes as backup
+        // Also listen for class changes as backup.
         const observer = new MutationObserver(function(mutations) {
             mutations.forEach(function(mutation) {
                 if (mutation.attributeName === 'class') {
@@ -171,7 +199,7 @@ Because the greatest investment a person can make is in their own knowledge.
             });
         });
         
-        // Start everything when DOM is ready
+        // Start everything when DOM is ready.
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', function() {
                 init();
