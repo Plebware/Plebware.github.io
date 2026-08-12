@@ -34,7 +34,15 @@ category: "fiction"
 tags: [tag1, tag2, tag3, tag4, tag5, tag6, tag7]
 mode: "author"
 author: Otto Brinkmeier
----
+----
+### Image Convension.
+```
+<img src="{{ '/assets/images/moldy-food.webp' | relative_url }}" 
+     alt="Hanging On - Moldy Food — A Moral Story About Lack, Financial Hardship, Uncertainty, And The Struggle To Find Solid Ground."
+     style="max-width: 100%; height: auto;">
+```
+----
+
 ```
 
 ### **Comments Code**
