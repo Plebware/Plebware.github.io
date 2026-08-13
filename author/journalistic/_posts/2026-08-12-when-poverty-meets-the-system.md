@@ -36,7 +36,7 @@ It is also a story about what families need to know when they suddenly find them
 
 **This is general information, not legal advice. Every case is different, and a qualified legal practitioner should be consulted about the specific circumstances.**
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -66,7 +66,7 @@ They still needed food.
 
 They still needed stability.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -94,7 +94,7 @@ They were not simply sitting around doing nothing.
 
 They were trying to change their circumstances.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -134,7 +134,7 @@ They were not given a copy of the document at the time, according to their accou
 
 Suddenly, three children who had been living with their parents were no longer with them.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -170,7 +170,7 @@ And perhaps the most important question of all:
 
 **What could the parents do to demonstrate that they were capable of caring for their children?**
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -204,7 +204,7 @@ The safest response is:
 
 That difference is extremely important.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -238,7 +238,7 @@ Children deserve food, safety, supervision, and appropriate care.
 
 But families experiencing poverty also need **support and a pathway out of poverty**.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -280,7 +280,7 @@ If you already signed something without understanding it:
 
 Ask for a copy and take it to a lawyer.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -322,7 +322,7 @@ Simply record what each person remembers.
 
 That is much more useful than trying to create a perfect story.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -350,7 +350,7 @@ Ask:
 
 These questions turn fear into information.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -376,7 +376,7 @@ Explain:
 
 That gives the legal adviser something concrete to work with.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -410,11 +410,11 @@ If accommodation is available, document it.
 
 If employment has been offered, obtain evidence.
 
-If a school is available, investigate enrolment.
+If a school is available, investigate enrollment.
 
 The objective is to demonstrate that the family is actively building a safer and more stable environment for the children.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -448,7 +448,7 @@ Do not throw anything away simply because it seems unimportant.
 
 Sometimes a small piece of information becomes important later.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -484,7 +484,7 @@ The objective is not to win an argument with the authorities.
 
 The objective is to protect the children and establish the facts.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -511,7 +511,7 @@ If your children have been removed, remember these steps:
 - [ ] Prepare a practical plan for caring for the children.
 - [ ] Attend every required court hearing.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -541,7 +541,7 @@ Knowing what to do does not guarantee that everything will go smoothly.
 
 But knowledge can prevent confusion from becoming helplessness.
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -579,9 +579,9 @@ And we should make sure that people who do not understand the system know that t
 
 And when children are involved:
 
-**The children must remain at the centre of everything.**
+**The children must remain at the center of everything.**
 
-<!-- PLEBVOX:STOP -->
+<!-- PLEBVOX:END -->
 
 # 🔑 Important Legal Notice.
 
@@ -589,7 +589,7 @@ This article is an educational account based on a reported real-world situation.
 
 The people involved have been deliberately anonymized.
 
-The article does not establish that any individual, police officer, welfare official, Community Policing Forum member, or other organisation acted unlawfully.
+The article does not establish that any individual, police officer, welfare official, Community Policing Forum member, or other organization acted unlawfully.
 
 The circumstances described are based on the family's account, and some facts remain unverified.
 
