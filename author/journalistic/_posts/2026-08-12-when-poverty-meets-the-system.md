@@ -587,7 +587,7 @@ And when children are involved:
 
 This article is an educational account based on a reported real-world situation.
 
-The people involved have been deliberately anonymised.
+The people involved have been deliberately anonymized.
 
 The article does not establish that any individual, police officer, welfare official, Community Policing Forum member, or other organisation acted unlawfully.
 
@@ -597,7 +597,7 @@ South African child-protection law contains specific procedures concerning emerg
 
 Anyone facing a similar situation should obtain current legal advice from **Legal Aid South Africa, an attorney, or the relevant Children's Court.**
 
-**Legal Aid South Africa Advice Line: 0800 110 110.**
+**[Legal Aid South Africa](https://legal-aid.co.za/) Advice Line: 0800 110 110.**
 
 For current information, always verify contact details and procedures directly with the relevant authority.
 
@@ -605,11 +605,11 @@ For current information, always verify contact details and procedures directly w
 
 # 🔑 Sources And Further Reading.
 
-The South African Children's Act, 38 of 2005, provides the legal framework concerning children in need of care and protection.
+The [South African Children's Act, 38 of 2005](https://www.gov.za/documents/childrens-act), provides the legal framework concerning children in need of care and protection.
 
 The Department of Justice provides information about Children's Courts and child-protection matters.
 
-Legal Aid South Africa provides information concerning children's rights and legal assistance.
+[Legal Aid South Africa](https://legal-aid.co.za/) provides information concerning children's rights and legal assistance.
 
 **This article is intended to educate, not to replace professional legal advice.**
 
