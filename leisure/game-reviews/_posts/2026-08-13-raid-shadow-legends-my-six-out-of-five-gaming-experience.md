@@ -20,6 +20,10 @@ I have been playing RAID for more than a year, while Jullian has been playing fo
 
 And somehow, that makes the journey even more interesting.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## It Started With Golf Clash.
 
 Jullian didn't originally set out to become a Raider.
@@ -37,6 +41,10 @@ Eventually Jullian went back to it.
 And this time, he started playing properly.
 
 Two years or more later, that accidental installation has turned into a rather substantial RAID habit.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Then There Was Me.
 
@@ -58,6 +66,10 @@ And there is almost always another update coming.
 
 That is one of the things I love about RAID.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Game That Keeps Changing.
 
 RAID has been around for years, but it doesn't feel like a game that was simply released and then abandoned.
@@ -77,6 +89,10 @@ Something new to try.
 Something else to add to the growing collection of Champions, equipment and strategies.
 
 For a casual gamer, that is surprisingly enjoyable.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Jullian Sees It Differently.
 
@@ -116,6 +132,10 @@ I understand that.
 
 But strangely enough, it doesn't bother me nearly as much.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## I Play Differently.
 
 Perhaps the difference is simply that I don't play RAID as a job.
@@ -146,6 +166,10 @@ Sometimes I simply watch my team go into battle.
 
 And that last part is one of the things I particularly enjoy.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Strategy Is Where RAID Gets Me.
 
 I've always enjoyed strategy games.
@@ -173,6 +197,10 @@ I'm watching my team go into battle.
 And there is strategy involved in deciding who goes in, what they are equipped with and how they work together.
 
 For somebody who enjoys chess, that scratches a particular itch.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## We're Also Running Multiple Accounts.
 
@@ -204,6 +232,10 @@ But it also illustrates something about the game.
 
 We've found enough variety in the early and mid-game experience to make starting again interesting.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Free-to-Play Means Something Different to Us.
 
 There is another important part of our RAID experience.
@@ -230,6 +262,10 @@ We're building our accounts ourselves.
 
 And for me, that makes the victories a little more satisfying.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## My Account Is Still Growing.
 
 I'm nowhere near Jullian's level of experience yet.
@@ -254,6 +290,10 @@ I'm okay with that.
 
 It gives me something to work toward.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## RAID Across the PC.
 
 I've also experimented with playing RAID across different platforms.
@@ -269,6 +309,10 @@ And that's another thing I appreciate about modern gaming.
 The game doesn't necessarily have to remain tied to one machine sitting on one desk.
 
 I can experiment with different ways of accessing it and still return to the same RAID universe.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## And Now the Yellow Brick Road Is Coming.
 
@@ -293,6 +337,10 @@ And most importantly:
 **Will it actually be fun?**
 
 That's what I'm waiting to discover.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## My Verdict.
 
