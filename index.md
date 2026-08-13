@@ -163,6 +163,101 @@ Together, we explore what happens when **ordinary people use technology to creat
 
 <!-- PLEBVOX:START -->
 
+## 🤝 PlebWare Contributors.
+
+PlebWare is built by people who contribute ideas, code, research, writing and creativity.
+
+The contributor list below is **generated automatically from the PlebWare GitHub repository**. Each contributor's GitHub avatar is displayed alongside their contribution count.
+
+<div id="plebware-contributors" class="plebware-contributors" aria-live="polite">
+  <p>🔄 Loading contributors...</p>
+</div>
+
+<style>
+.plebware-contributors {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.plebware-contributor {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  padding: 1rem;
+  border-radius: 12px;
+  border: 1px solid rgba(127, 127, 127, 0.25);
+  background: rgba(127, 127, 127, 0.06);
+}
+
+.plebware-contributor img {
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  flex: 0 0 58px;
+}
+
+.plebware-contributor-name {
+  font-weight: 700;
+  margin: 0;
+}
+
+.plebware-contributor-count {
+  font-size: 0.85rem;
+  opacity: 0.75;
+  margin-top: 0.2rem;
+}
+</style>
+
+<script>
+(function() {
+  'use strict';
+
+  const container = document.getElementById('plebware-contributors');
+  if (!container) return;
+
+  fetch('https://api.github.com/repos/Plebware/Plebware.github.io/contributors?per_page=12')
+    .then(function(response) {
+      if (!response.ok) throw new Error('GitHub API request failed');
+      return response.json();
+    })
+    .then(function(contributors) {
+      const humanContributors = contributors.filter(function(contributor) {
+        return !contributor.type || contributor.type === 'User';
+      });
+
+      if (!humanContributors.length) {
+        throw new Error('No contributors found');
+      }
+
+      container.innerHTML = humanContributors.map(function(contributor) {
+        const name = contributor.login || 'PlebWare Contributor';
+        const avatar = contributor.avatar_url;
+        const profile = contributor.html_url;
+        const count = contributor.contributions || 0;
+
+        return '<a class="plebware-contributor" href="' + profile + '" target="_blank" rel="noopener noreferrer">' +
+          '<img src="' + avatar + '" alt="GitHub avatar of ' + name + '" loading="lazy">' +
+          '<span>' +
+            '<span class="plebware-contributor-name">' + name + '</span>' +
+            '<span class="plebware-contributor-count">' + count + ' contribution' + (count === 1 ? '' : 's') + '</span>' +
+          '</span>' +
+        '</a>';
+      }).join('');
+    })
+    .catch(function() {
+      container.innerHTML = '<p>GitHub contributor information is temporarily unavailable.</p>';
+    });
+})();
+</script>
+
+<!-- PLEBVOX:END -->
+
+---
+
+<!-- PLEBVOX:START -->
+
 ## 🧠 Explore the Knowledge.
 
 PlebWare currently contains **12 knowledge modes**, covering hundreds of articles and a growing collection of practical information.
