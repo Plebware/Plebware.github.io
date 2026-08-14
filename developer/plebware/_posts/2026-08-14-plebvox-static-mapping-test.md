@@ -11,7 +11,7 @@ tags: "PlebVox, Development, Testing"
 
 This temporary development test records the `SpeechSynthesis` boundary information reported by the browser while PlebVox speaks.
 
-The diagnostic panel is deliberately **outside** the PlebVox markers so that PlebVox cannot treat the monitor as speech content.
+The diagnostic panel is deliberately **outside** the PlebVox markers.
 
 <!-- PLEBVOX:START -->
 
@@ -33,93 +33,14 @@ The people who use PlebWare should be able to remain connected to knowledge. Peo
 
 <script>
 (function () {
-  var monitor = document.getElementById('plebvox-boundary-monitor');
-  if (!monitor) return;
-  var browser = document.getElementById('pvm-browser');
-  var eventOut = document.getElementById('pvm-event');
-  var indexOut = document.getElementById('pvm-index');
-  var wordOut = document.getElementById('pvm-word');
-  var countOut = document.getElementById('pvm-count');
-  var maxOut = document.getElementById('pvm-max');
-  var progressOut = document.getElementById('pvm-progress');
-  var log = document.getElementById('pvm-log');
-  var count = 0, maxIndex = 0;
-  var ua = navigator.userAgent || '';
-  browser.textContent = 'Browser UA: ' + ua;
-
-  function wordAt(text, index) {
-    if (!text || index < 0 || index >= text.length) return '—';
-    var i = index;
-    while (i > 0 && !/\s/.test(text.charAt(i - 1))) i--;
-    var j = index;
-    while (j < text.length && !/\s/.test(text.charAt(j))) j++;
-    return text.slice(i, j).replace(/[^\p{L}\p{N}_'’-]/gu, '') || '—';
-  }
-
-  if (!window.speechSynthesis || !window.SpeechSynthesisUtterance) {
-    eventOut.textContent = 'SpeechSynthesis: NOT AVAILABLE';
-    return;
-  }
-
-  // The previous diagnostic tried to wrap speechSynthesis.speak().
-  // Some Android speech implementations do not allow that native method
-  // to be replaced. Instead, intercept the utterance's onboundary property
-  // at construction time, while still returning the native utterance object.
-  var NativeUtterance = window.SpeechSynthesisUtterance;
-  window.SpeechSynthesisUtterance = function (text) {
-    var u = new NativeUtterance(text);
-    var boundaryHandler = null;
-    try {
-      Object.defineProperty(u, 'onboundary', {
-        configurable: true,
-        enumerable: true,
-        get: function () { return boundaryHandler; },
-        set: function (fn) {
-          boundaryHandler = fn;
-          if (fn) {
-            u.addEventListener('boundary', function (event) {
-              count++;
-              var idx = typeof event.charIndex === 'number' ? event.charIndex : -1;
-              if (idx > maxIndex) maxIndex = idx;
-              var word = idx >= 0 ? wordAt(u.text || text || '', idx) : '—';
-              eventOut.textContent = 'Boundary event: ' + (event.name || 'unknown');
-              indexOut.textContent = 'Reported charIndex: ' + idx;
-              wordOut.textContent = 'Mapped word: ' + word;
-              countOut.textContent = 'Boundary events: ' + count;
-              maxOut.textContent = 'Highest charIndex: ' + maxIndex;
-              var speechText = u.text || text || '';
-              progressOut.textContent = 'Reported progress: ' + (speechText.length ? Math.round((maxIndex / speechText.length) * 100) : 0) + '%';
-              var line = '#' + count + '  charIndex=' + idx + '  word=' + word;
-              var row = document.createElement('div');
-              row.textContent = line;
-              log.appendChild(row);
-              log.scrollTop = log.scrollHeight;
-              try { fn.call(u, event); } catch (e) { console.warn('PlebVox diagnostic: original boundary handler error', e); }
-            });
-          }
-        }
-      });
-    } catch (e) {
-      eventOut.textContent = 'Diagnostic hook failed: ' + e.message;
-    }
-    return u;
-  };
-  window.SpeechSynthesisUtterance.prototype = NativeUtterance.prototype;
+  var monitor=document.getElementById('plebvox-boundary-monitor'); if(!monitor)return;
+  var browser=document.getElementById('pvm-browser'),eventOut=document.getElementById('pvm-event'),indexOut=document.getElementById('pvm-index'),wordOut=document.getElementById('pvm-word'),countOut=document.getElementById('pvm-count'),maxOut=document.getElementById('pvm-max'),progressOut=document.getElementById('pvm-progress'),log=document.getElementById('pvm-log');
+  var count=0,maxIndex=0; browser.textContent='Browser UA: '+(navigator.userAgent||'unknown');
+  function wordAt(text,index){if(!text||index<0||index>=text.length)return'—';var i=index,j=index;while(i>0&&!/\s/.test(text.charAt(i-1)))i--;while(j<text.length&&!/\s/.test(text.charAt(j)))j++;return text.slice(i,j).replace(/[^\p{L}\p{N}_'’-]/gu,'')||'—';}
+  window.__plebvoxDiagnosticBoundary=function(event,text){count++;var idx=typeof event.charIndex==='number'?event.charIndex:-1;if(idx>maxIndex)maxIndex=idx;var word=idx>=0?wordAt(text||'',idx):'—';eventOut.textContent='Boundary event: '+(event.name||'unknown');indexOut.textContent='Reported charIndex: '+idx;wordOut.textContent='Mapped word: '+word;countOut.textContent='Boundary events: '+count;maxOut.textContent='Highest charIndex: '+maxIndex;progressOut.textContent='Reported progress: '+(text&&text.length?Math.round(maxIndex/text.length*100):0)+'%';var row=document.createElement('div');row.textContent='#'+count+'  charIndex='+idx+'  word='+word;log.appendChild(row);log.scrollTop=log.scrollHeight;};
 })();
 </script>
 
 <script>
-(function () {
-  function loadStaticPlebVox() {
-    var s = document.createElement('script');
-    s.src = 'https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-10';
-    s.async = false;
-    document.head.appendChild(s);
-  }
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', loadStaticPlebVox);
-  } else {
-    loadStaticPlebVox();
-  }
-})();
+(function(){function load(){var s=document.createElement('script');s.src='https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-12';s.async=false;document.head.appendChild(s);}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',load);else load();})();
 </script>
