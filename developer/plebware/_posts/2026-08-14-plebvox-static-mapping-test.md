@@ -31,15 +31,14 @@ This is a second section. The people in this section remain here while PlebVox r
 
 <script>
 (function () {
-  function loadStaticPlebVox(event) {
-    if (event) event.stopImmediatePropagation();
+  function loadStaticPlebVox() {
     var s = document.createElement('script');
     s.src = 'https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-7';
     s.async = false;
     document.head.appendChild(s);
   }
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', loadStaticPlebVox, true);
+    document.addEventListener('DOMContentLoaded', loadStaticPlebVox);
   } else {
     loadStaticPlebVox();
   }
