@@ -9,9 +9,9 @@ tags: "PlebVox, Development, Testing"
 
 # 🔬 PlebVox Boundary Diagnostic — Android/Vivaldi.
 
-This temporary test records the `SpeechSynthesis` boundary information reported by the browser while PlebVox speaks.
+This temporary development test records the `SpeechSynthesis` boundary information reported by the browser while PlebVox speaks.
 
-The purpose is to determine whether Android/Vivaldi is reporting a `charIndex` that falls progressively behind the text actually being spoken.
+The diagnostic panel is deliberately **outside** the PlebVox markers so that PlebVox cannot treat the monitor as speech content.
 
 <!-- PLEBVOX:START -->
 
@@ -19,16 +19,16 @@ The people who use PlebWare should be able to remain connected to knowledge. Peo
 
 <!-- PLEBVOX:END -->
 
-<div id="plebvox-boundary-monitor" style="margin:1rem 0;padding:1rem;border:2px solid currentColor;border-radius:8px;font-family:monospace;line-height:1.45;overflow-wrap:anywhere;">
-<strong>🔎 PlebVox Boundary Monitor.</strong>
-<div id="pvm-browser">Browser: waiting…</div>
-<div id="pvm-event">Boundary event: waiting…</div>
-<div id="pvm-index">Reported charIndex: —</div>
-<div id="pvm-word">Mapped word: —</div>
-<div id="pvm-count">Boundary events: 0</div>
-<div id="pvm-max">Highest charIndex: 0</div>
-<div id="pvm-progress">Reported progress: 0%</div>
-<div id="pvm-log" style="margin-top:.75rem;max-height:12rem;overflow:auto;white-space:pre-wrap;"></div>
+<div id="plebvox-boundary-monitor" style="display:block !important;visibility:visible !important;margin:1.5rem 0;padding:1rem;border:3px solid currentColor;border-radius:10px;font-family:monospace;line-height:1.5;background:transparent;">
+<h2>🔬 ANDROID / VIVALDI SPEECH DIAGNOSTIC.</h2>
+<p id="pvm-browser">Browser: waiting…</p>
+<p id="pvm-event">Boundary event: waiting…</p>
+<p id="pvm-index">Reported charIndex: —</p>
+<p id="pvm-word">Mapped word: —</p>
+<p id="pvm-count">Boundary events: 0</p>
+<p id="pvm-max">Highest charIndex: 0</p>
+<p id="pvm-progress">Reported progress: 0%</p>
+<div id="pvm-log" style="max-height:14rem;overflow:auto;white-space:pre-wrap;border-top:1px solid currentColor;padding-top:.5rem;">Waiting for SpeechSynthesis boundary events…</div>
 </div>
 
 <script>
@@ -43,8 +43,7 @@ The people who use PlebWare should be able to remain connected to knowledge. Peo
   var maxOut = document.getElementById('pvm-max');
   var progressOut = document.getElementById('pvm-progress');
   var log = document.getElementById('pvm-log');
-  var count = 0, maxIndex = 0, lastIndex = -1;
-
+  var count = 0, maxIndex = 0;
   var ua = navigator.userAgent || '';
   browser.textContent = 'Browser: ' + (ua.match(/Vivaldi/i) ? 'Vivaldi' : ua);
 
@@ -57,41 +56,37 @@ The people who use PlebWare should be able to remain connected to knowledge. Peo
     return text.slice(i, j).replace(/[^\p{L}\p{N}_'’-]/gu, '') || '—';
   }
 
-  function hook() {
-    if (!window.speechSynthesis) {
-      eventOut.textContent = 'SpeechSynthesis: NOT AVAILABLE';
-      return;
-    }
-    var originalSpeak = window.speechSynthesis.speak.bind(window.speechSynthesis);
-    window.speechSynthesis.speak = function (utterance) {
-      if (utterance) {
-        var text = utterance.text || '';
-        var originalBoundary = utterance.onboundary;
-        utterance.onboundary = function (event) {
-          count++;
-          var idx = (typeof event.charIndex === 'number') ? event.charIndex : -1;
-          if (idx > maxIndex) maxIndex = idx;
-          lastIndex = idx;
-          var word = idx >= 0 ? wordAt(text, idx) : '—';
-          eventOut.textContent = 'Boundary event: ' + (event.name || 'unknown');
-          indexOut.textContent = 'Reported charIndex: ' + idx;
-          wordOut.textContent = 'Mapped word: ' + word;
-          countOut.textContent = 'Boundary events: ' + count;
-          maxOut.textContent = 'Highest charIndex: ' + maxIndex;
-          progressOut.textContent = 'Reported progress: ' + (text.length ? Math.round((maxIndex / text.length) * 100) : 0) + '%';
-          var line = '#' + count + '  charIndex=' + idx + '  word=' + word;
-          var div = document.createElement('div');
-          div.textContent = line;
-          log.appendChild(div);
-          log.scrollTop = log.scrollHeight;
-          if (typeof originalBoundary === 'function') originalBoundary.call(utterance, event);
-        };
-      }
-      return originalSpeak(utterance);
-    };
+  if (!window.speechSynthesis) {
+    eventOut.textContent = 'SpeechSynthesis: NOT AVAILABLE';
+    return;
   }
 
-  hook();
+  var originalSpeak = window.speechSynthesis.speak.bind(window.speechSynthesis);
+  window.speechSynthesis.speak = function (utterance) {
+    if (utterance) {
+      var text = utterance.text || '';
+      var originalBoundary = utterance.onboundary;
+      utterance.onboundary = function (event) {
+        count++;
+        var idx = typeof event.charIndex === 'number' ? event.charIndex : -1;
+        if (idx > maxIndex) maxIndex = idx;
+        var word = idx >= 0 ? wordAt(text, idx) : '—';
+        eventOut.textContent = 'Boundary event: ' + (event.name || 'unknown');
+        indexOut.textContent = 'Reported charIndex: ' + idx;
+        wordOut.textContent = 'Mapped word: ' + word;
+        countOut.textContent = 'Boundary events: ' + count;
+        maxOut.textContent = 'Highest charIndex: ' + maxIndex;
+        progressOut.textContent = 'Reported progress: ' + (text.length ? Math.round((maxIndex / text.length) * 100) : 0) + '%';
+        var line = '#' + count + '  charIndex=' + idx + '  word=' + word;
+        var row = document.createElement('div');
+        row.textContent = line;
+        log.appendChild(row);
+        log.scrollTop = log.scrollHeight;
+        if (typeof originalBoundary === 'function') originalBoundary.call(utterance, event);
+      };
+    }
+    return originalSpeak(utterance);
+  };
 })();
 </script>
 
@@ -99,7 +94,7 @@ The people who use PlebWare should be able to remain connected to knowledge. Peo
 (function () {
   function loadStaticPlebVox() {
     var s = document.createElement('script');
-    s.src = 'https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-8';
+    s.src = 'https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-9';
     s.async = false;
     document.head.appendChild(s);
   }
