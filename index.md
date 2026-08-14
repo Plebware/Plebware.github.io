@@ -118,7 +118,7 @@ The Plebware philosophy starts with the person:
 
 **PlebWare** is the name of the ecosystem and the brand.
 
-It brings together the things we learn, write, research, design, develop and build.
+It brings together the things we learn, write, research, design and build.
 
 ### PlebWare encompasses:
 
@@ -481,3 +481,4 @@ And creativity should not belong exclusively to people with expensive equipment,
 </script>
 
 
+ 
