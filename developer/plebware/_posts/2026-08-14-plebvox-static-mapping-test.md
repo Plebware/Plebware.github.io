@@ -45,7 +45,7 @@ The people who use PlebWare should be able to remain connected to knowledge. Peo
   var log = document.getElementById('pvm-log');
   var count = 0, maxIndex = 0;
   var ua = navigator.userAgent || '';
-  browser.textContent = 'Browser: ' + (ua.match(/Vivaldi/i) ? 'Vivaldi' : ua);
+  browser.textContent = 'Browser UA: ' + ua;
 
   function wordAt(text, index) {
     if (!text || index < 0 || index >= text.length) return '—';
@@ -56,37 +56,55 @@ The people who use PlebWare should be able to remain connected to knowledge. Peo
     return text.slice(i, j).replace(/[^\p{L}\p{N}_'’-]/gu, '') || '—';
   }
 
-  if (!window.speechSynthesis) {
+  if (!window.speechSynthesis || !window.SpeechSynthesisUtterance) {
     eventOut.textContent = 'SpeechSynthesis: NOT AVAILABLE';
     return;
   }
 
-  var originalSpeak = window.speechSynthesis.speak.bind(window.speechSynthesis);
-  window.speechSynthesis.speak = function (utterance) {
-    if (utterance) {
-      var text = utterance.text || '';
-      var originalBoundary = utterance.onboundary;
-      utterance.onboundary = function (event) {
-        count++;
-        var idx = typeof event.charIndex === 'number' ? event.charIndex : -1;
-        if (idx > maxIndex) maxIndex = idx;
-        var word = idx >= 0 ? wordAt(text, idx) : '—';
-        eventOut.textContent = 'Boundary event: ' + (event.name || 'unknown');
-        indexOut.textContent = 'Reported charIndex: ' + idx;
-        wordOut.textContent = 'Mapped word: ' + word;
-        countOut.textContent = 'Boundary events: ' + count;
-        maxOut.textContent = 'Highest charIndex: ' + maxIndex;
-        progressOut.textContent = 'Reported progress: ' + (text.length ? Math.round((maxIndex / text.length) * 100) : 0) + '%';
-        var line = '#' + count + '  charIndex=' + idx + '  word=' + word;
-        var row = document.createElement('div');
-        row.textContent = line;
-        log.appendChild(row);
-        log.scrollTop = log.scrollHeight;
-        if (typeof originalBoundary === 'function') originalBoundary.call(utterance, event);
-      };
+  // The previous diagnostic tried to wrap speechSynthesis.speak().
+  // Some Android speech implementations do not allow that native method
+  // to be replaced. Instead, intercept the utterance's onboundary property
+  // at construction time, while still returning the native utterance object.
+  var NativeUtterance = window.SpeechSynthesisUtterance;
+  window.SpeechSynthesisUtterance = function (text) {
+    var u = new NativeUtterance(text);
+    var boundaryHandler = null;
+    try {
+      Object.defineProperty(u, 'onboundary', {
+        configurable: true,
+        enumerable: true,
+        get: function () { return boundaryHandler; },
+        set: function (fn) {
+          boundaryHandler = fn;
+          if (fn) {
+            u.addEventListener('boundary', function (event) {
+              count++;
+              var idx = typeof event.charIndex === 'number' ? event.charIndex : -1;
+              if (idx > maxIndex) maxIndex = idx;
+              var word = idx >= 0 ? wordAt(u.text || text || '', idx) : '—';
+              eventOut.textContent = 'Boundary event: ' + (event.name || 'unknown');
+              indexOut.textContent = 'Reported charIndex: ' + idx;
+              wordOut.textContent = 'Mapped word: ' + word;
+              countOut.textContent = 'Boundary events: ' + count;
+              maxOut.textContent = 'Highest charIndex: ' + maxIndex;
+              var speechText = u.text || text || '';
+              progressOut.textContent = 'Reported progress: ' + (speechText.length ? Math.round((maxIndex / speechText.length) * 100) : 0) + '%';
+              var line = '#' + count + '  charIndex=' + idx + '  word=' + word;
+              var row = document.createElement('div');
+              row.textContent = line;
+              log.appendChild(row);
+              log.scrollTop = log.scrollHeight;
+              try { fn.call(u, event); } catch (e) { console.warn('PlebVox diagnostic: original boundary handler error', e); }
+            });
+          }
+        }
+      });
+    } catch (e) {
+      eventOut.textContent = 'Diagnostic hook failed: ' + e.message;
     }
-    return originalSpeak(utterance);
+    return u;
   };
+  window.SpeechSynthesisUtterance.prototype = NativeUtterance.prototype;
 })();
 </script>
 
@@ -94,7 +112,7 @@ The people who use PlebWare should be able to remain connected to knowledge. Peo
 (function () {
   function loadStaticPlebVox() {
     var s = document.createElement('script');
-    s.src = 'https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-9';
+    s.src = 'https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-10';
     s.async = false;
     document.head.appendChild(s);
   }
