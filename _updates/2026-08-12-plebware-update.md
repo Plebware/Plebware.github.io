@@ -1,27 +1,27 @@
 ---
 layout: post
-title: "PlebWare Update: Improving the Homepage."
-date: 2026-08-12
+title: "PlebWare Update: PlebVox Highlighting and Translation in Development."
+date: 2026-08-14
 ---
 
-# 🔑 PlebWare Update: Improving the Homepage.
+# 🔑 PlebWare Update: PlebVox Highlighting and Translation in Development.
 
 <!-- PLEBVOX:START -->
 
-Today brought a few unexpected bumps while we were publishing new material to PlebWare.
+PlebWare is busy behind the scenes again.
 
-In the process of adding the **Smoke in My Eyes** comic, the wrong existing article was briefly affected. We restored the original conference article, created the smoking comic as its own article, and corrected the punctuation for PlebVox read-aloud.
+We are currently working on two important improvements to the reading experience: **PlebVox word highlighting on mobile devices** and **translation into other languages**.
 
-That little adventure highlighted something useful: the PlebWare homepage should make new information easier to find without requiring us to keep rewriting the index page.
+PlebVox highlighting is already working properly on the PC. We are now testing a mobile-friendly solution because some Android browsers do not provide the same speech-position information that desktop browsers provide.
 
-So we have created a dedicated **Updates** section.
+At the same time, we are working toward a translation system that will allow readers to access PlebWare articles in languages other than the original English, with PlebVox eventually able to read the translated text aloud in an appropriate voice.
 
-The homepage will show only the latest PlebWare Update. New updates can be published whenever they are needed — daily, weekly, monthly, or whenever something worth mentioning happens — while older updates remain safely archived.
+If you are reading PlebWare on a phone and the highlighting does not work yet, **we apologise!** We are actively working on it and testing the system on real mobile devices.
 
-We have also moved **Recent Articles** closer to the top of the homepage, immediately below the PlebWare console. Returning visitors should not have to scroll through the whole library just to discover what has changed.
+You may therefore occasionally encounter something that is not quite perfect. That is part of what happens when a living system is being developed in public.
 
-In short: today's debacle produced a better publishing system.
+**Please bear with us while we build, test, fix and improve.**
 
 <!-- PLEBVOX:END -->
 
-**PlebWare keeps evolving.**
+**PlebWare keeps evolving — and you are welcome to watch the workshop as it happens.**
