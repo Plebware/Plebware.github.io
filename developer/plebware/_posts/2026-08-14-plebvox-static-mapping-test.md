@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "PlebVox Static Mapping Test"
+title: "PlebVox Static Mapping Test — Heading Isolation"
 date: 2026-08-14
 permalink: /developer/plebware/plebvox-static-mapping-test/
-description: "Temporary PlebVox 3.4 static DOM-to-speech alignment test."
+description: "Temporary PlebVox 3.4 mobile alignment test isolating the section heading from the speech mapping."
 tags: "PlebVox, Development, Testing"
 ---
 
-# 🔧 PlebVox Static Mapping Test.
+# 🔧 PlebVox Static Mapping Test — Heading Isolation.
 
-This is a temporary development test for the PlebVox static DOM-to-speech character mapper.
+This temporary development test isolates one variable in the PlebVox mobile highlighting problem.
 
-The test deliberately uses repeated words and separate text blocks so that we can see whether the spoken word and the highlighted word remain aligned.
+The previous test began synchronized on Android/Vivaldi but progressively drifted behind, reaching approximately nineteen words behind by the end of Part 1. The drift appeared to begin around the section title.
+
+This version therefore keeps the title **outside** the PlebVox speech markers. Everything else remains deliberately simple and repeatable so that we can determine whether the heading is contributing to the cumulative character-position drift.
 
 <!-- PLEBVOX:START -->
-
-## Part 1 — Static Mapping.
 
 The people who use PlebWare should be able to remain connected to knowledge. People learn, people create, and people remain part of the system. The word remain appears more than once so that the mapper must keep each occurrence attached to its original text position.
 
@@ -23,9 +23,7 @@ The people who use PlebWare should be able to remain connected to knowledge. Peo
 
 <!-- PLEBVOX:START -->
 
-## Part 2 — Second Section.
-
-This is a second section. The people in this section remain here while PlebVox reads the text. We are testing whether the static map keeps this section separate from the first section.
+The people in this second section remain here while PlebVox reads the text. We are testing whether the static map keeps this section separate from the first section.
 
 <!-- PLEBVOX:END -->
 
