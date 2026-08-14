@@ -1,37 +1,39 @@
 ---
 layout: post
-title: "PlebVox Mobile Chunked Speech Test — Static Word Mapping"
+title: "PlebVox Mobile Fallback Test — Reliable Section Reading"
 date: 2026-08-14
 permalink: /developer/plebware/plebvox-static-mapping-test/
-description: "Temporary PlebVox development test using short speech chunks and static word mapping for Android/Vivaldi."
+description: "Temporary PlebVox development test for the reliable Android fallback when speech-position events are unavailable."
 tags: "PlebVox, Development, Testing, Android"
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔧 PlebVox Mobile Chunked Speech Test — Static Word Mapping.
+# 🔧 PlebVox Mobile Fallback Test — Reliable Section Reading.
 
-This temporary development test changes the mobile strategy again.
+This is a temporary development test for Android browsers that do not provide usable SpeechSynthesis word-boundary events.
 
-The previous timer-based fallback could run ahead or behind because Android does not expose reliable speech-position events to this browser session. Instead of trying to predict the timing of an entire section, this test speaks the section in short chunks and keeps a static word map for the complete visible text.
+Earlier experiments attempted to estimate word position with timers and short speech chunks. Those approaches produced substantial drift because the browser did not expose reliable speech-position information.
 
-Each chunk contains approximately eight words. When one chunk finishes, the next chunk begins, and the visual highlight is moved to the first word of that next chunk. On browsers that provide boundary information, the boundary events inside a chunk can refine the highlight position.
+The fallback tested here deliberately does **not** pretend to know which individual word Android is speaking. Instead, the complete PlebVox section is treated as the active reading block while the system speaks it.
 
-The section heading is outside the PlebVox markers so it cannot alter the speech text or mapping.
+On browsers that provide reliable boundary information, PlebVox can continue to use word-level highlighting. On browsers without those events, the fallback remains honest and stable: the user knows which section is being read without being shown an inaccurate word position.
 
-## 🧪 Test Part 1 — Chunked Speech.
+The heading is outside the PlebVox markers so it cannot alter the speech text or mapping.
 
-The people who use PlebWare should be able to remain connected to knowledge. People learn, people create, and people remain part of the system. The word remain appears more than once so that the static mapper must keep each occurrence attached to its original text position.
+## 🧪 Test Part 1 — Reliable Mobile Reading.
+
+The people who use PlebWare should be able to remain connected to knowledge. People learn, people create, and people remain part of the system. This section is intentionally long enough to make cumulative word drift obvious if inaccurate word-level estimation is being used.
 
 <!-- PLEBVOX:END -->
 
 <div style="margin:1.5rem 0;padding:1rem;border:3px solid currentColor;border-radius:10px;">
-<h2>📱 Android Chunked Speech Test.</h2>
+<h2>📱 Android / Vivaldi Final Fallback Test.</h2>
 <p><strong>Use this on the Vivo in Vivaldi.</strong></p>
-<p>The speech is deliberately divided into short chunks. Watch the highlight when the voice moves from one chunk to the next.</p>
-<p><strong>Success criterion:</strong> the highlight should no longer accumulate a large positional drift across the section.</p>
+<p>The expected behaviour on a browser without boundary events is section-level reading indication, not word-by-word synchronization.</p>
+<p><strong>Success criterion:</strong> the section remains identified as the active reading section for the entire speech, with no racing highlight and no cumulative word drift.</p>
 </div>
 
 <script>
-(function(){function load(){var s=document.createElement('script');s.src='https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-17';s.async=false;document.head.appendChild(s);}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',load);else load();})();
+(function(){function load(){var s=document.createElement('script');s.src='https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-18';s.async=false;document.head.appendChild(s);}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',load);else load();})();
 </script>
