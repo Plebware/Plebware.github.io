@@ -7,19 +7,17 @@ description: "Temporary PlebVox development test for mobile highlighting when An
 tags: "PlebVox, Development, Testing, Android"
 ---
 
-<!-- PLEBVOX:START -->
-
 # 🔧 PlebVox Mobile Fallback Test — Android/Vivaldi.
 
 This is a temporary PlebVox development test for the mobile highlighting problem found during Android/Vivaldi testing.
 
-The earlier diagnostic showed that speech can complete while the browser reports no `SpeechSynthesis` boundary events. This test therefore uses a new fallback in the PlebVox development branch.
+The earlier diagnostic showed that speech can complete while the browser reports no `SpeechSynthesis` boundary events. This version tests a corrected fallback timing model.
 
-The fallback waits briefly for boundary events. If none arrive, PlebVox estimates speech progress from elapsed time and advances the highlight through the known words instead of depending on `charIndex`.
+The fallback waits briefly for boundary events. If none arrive, PlebVox estimates speech progress from **words per minute**, rather than using the previous character-based timing formula. The normal boundary-based method remains available for browsers that provide boundary information.
 
-The normal boundary-based method remains available for browsers that provide boundary information.
+The section heading is deliberately **outside** the PlebVox markers so that it cannot affect the speech text or mapping.
 
-## 🧪 Test Part 1 — Repeated Words.
+<!-- PLEBVOX:START -->
 
 The people who use PlebWare should be able to remain connected to knowledge. People learn, people create, and people remain part of the system. The word remain appears more than once so that the mapper must keep each occurrence attached to its original text position.
 
@@ -33,5 +31,5 @@ The people who use PlebWare should be able to remain connected to knowledge. Peo
 </div>
 
 <script>
-(function(){function load(){var s=document.createElement('script');s.src='https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-15';s.async=false;document.head.appendChild(s);}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',load);else load();})();
+(function(){function load(){var s=document.createElement('script');s.src='https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-16';s.async=false;document.head.appendChild(s);}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',load);else load();})();
 </script>
