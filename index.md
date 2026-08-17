@@ -20,11 +20,21 @@ tags:
 
 <!-- PLEBVOX:START -->
 
-**PlebWare** is an ecosystem built around a simple idea:
+PlebWare is an ecosystem built around a simple idea: technology, knowledge and creativity should remain accessible, understandable and connected to ordinary people.
 
-> Technology, knowledge and creativity should remain accessible, understandable and connected to ordinary people.
+But PlebWare is also the product of a life lived by ordinary people.
 
-PlebWare brings together **knowledge, writing, software, education, media, research, and practical projects** — developed from the perspective of the people who actually use them — and whose creator **has been working online since 1999**.
+It was built by Otto Brinkmeier, a 63-year-old South African writer, developer and maker whose journey with technology began in 1982, when he first encountered computing on a Commodore VIC-20. He later began his working life as an artisan in the South African Railways, carrying that practical, hands-on approach into a lifelong fascination with technology, engineering, writing, research and problem-solving.
+
+Along that journey, Otto became friends with a young man named Jullian de Villiers, who was then just 21 years old. Since 2006, Jullian — now his spiritual son, partner and fellow traveller — has been part of Otto's journey through technology, creativity and the evolving idea that would eventually become PlebWare.
+
+Their story is woven into the history of PlebWare itself.
+
+In 2016, Jullian test-drove the first PlebMachine on his Windows 7 computer. That early PlebMachine was built around Rainmeter, long before the project evolved into the Linux-based system now being developed.
+
+Today, Jullian is waiting with considerable anticipation for the Linux version of PlebMachine — a project whose roots reach back to 2016, and whose philosophy reaches back even further: technology should adapt itself to people, rather than forcing people to adapt themselves to technology.
+
+PlebWare therefore isn't simply a collection of articles, software and projects. It is the continuing record of a journey that began with [Meccano](https://plebware.github.io/author/comics/2026/08/06/from-meccano-to-plebware.html), progressed through the Commodore VIC-20, passed through the practical world of railway engineering, grew through nearly two decades of friendship and collaboration, and ultimately became an attempt to make technology, knowledge and creativity more accessible to ordinary people.
 
 <!-- PLEBVOX:END -->
 
