@@ -8,21 +8,17 @@ mode: "author"
 author: Othello Cody Verrocchio
 ---
 
-<!-- PLEBVOX:START -->
-
 # When You're Old and Still Have to Work.
 
-<img src="{{ '/assets/images/crossart.jpg' | relative_url }}"
+<img src="{{ '/assets/images/cross-eyed-otto.webp' | relative_url }}"
      alt="Cross-eyed Otto — Still working when retirement should have meant rest."
      style="max-width: 100%; height: auto;">
 
-<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 > **Sometimes retirement is not the end of working. Sometimes it is simply the beginning of working because you have no choice.**
 
-<!-- PLEBVOX:END -->
 
 ## The Price of One More Day.
 
@@ -37,12 +33,11 @@ But I cannot afford another day off.
 So here I am.
 
 Working.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 > **There is a strange contradiction in reaching retirement age: you may finally qualify to rest, but the cost of living may make rest impossible.**
-
-<!-- PLEBVOX:END -->
 
 This morning I needed airtime.
 
@@ -61,12 +56,11 @@ That R40 might sound insignificant to someone with a comfortable income.
 It isn't insignificant when every rand already has a destination.
 
 It is the difference between having a phone that can communicate and having a phone that becomes useless when you are out on the road.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 > **For someone working alone on the road, communication is not a luxury. It is part of staying connected when something goes wrong.**
-
-<!-- PLEBVOX:END -->
 
 This morning I have two men with me who both have phones.
 
@@ -123,12 +117,11 @@ A telephone costs money.
 Medicine costs money.
 
 And the cost of simply existing does not stop because a person has reached retirement age.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 > **The problem is not that older people do not want to work. The problem is that many cannot afford not to work.**
-
-<!-- PLEBVOX:END -->
 
 ## Look Around You.
 
@@ -151,12 +144,11 @@ They should be enjoying the quieter years.
 Instead, they are working.
 
 Because the bills have not retired.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 > **A person's working life may end on paper, while their financial responsibilities continue marching forward.**
-
-<!-- PLEBVOX:END -->
 
 And I suspect this is not unique to one community.
 
@@ -187,12 +179,11 @@ For some people, retirement would actually be difficult if they had nothing mean
 But there is a profound difference between **choosing to work** and **being forced to work because you cannot survive without the income**.
 
 That difference matters.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 > **Work is dignified. Being denied the possibility of rest after a lifetime of labour is another matter entirely.**
-
-<!-- PLEBVOX:END -->
 
 I don't want pity.
 
@@ -227,12 +218,11 @@ They endured.
 They carried responsibilities.
 
 And now many are still carrying them.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 > **A society should not measure the worth of its older people by how many hours they can still sell.**
-
-<!-- PLEBVOX:END -->
 
 Perhaps we need to rethink what retirement is supposed to mean.
 
@@ -273,12 +263,11 @@ Can I phone someone?
 Can I put food on the table?
 
 Can I pay the person who helped me today?
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 > **Poverty is not always a dramatic event. Sometimes it is forty rand of airtime that you have to borrow.**
-
-<!-- PLEBVOX:END -->
 
 That is the part that bothers me.
 
@@ -309,12 +298,11 @@ Sometimes I am.
 But bitterness does not pay the bills either.
 
 So I keep going.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 > **Some people work because they are ambitious. Others work because stopping is financially impossible.**
-
-<!-- PLEBVOX:END -->
 
 I think we need to remember the difference.
 
@@ -349,12 +337,11 @@ The man who should be sitting with his grandchildren but is instead waiting for 
 These people are not necessarily destitute.
 
 They are simply **one unexpected expense away from trouble**.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 > **Financial insecurity does not always look like poverty. Sometimes it looks like an elderly person who simply cannot afford to stop working.**
-
-<!-- PLEBVOX:END -->
 
 ## We Should Do Better.
 
@@ -397,12 +384,11 @@ Safe enough to write a book.
 Safe enough to sit quietly with a cup of coffee.
 
 Safe enough to have R40 available for a telephone call without needing to borrow it.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 > **After a lifetime of labour, wanting a little peace should not be considered an unreasonable ambition.**
-
-<!-- PLEBVOX:END -->
 
 For now, I am still working.
 
@@ -419,8 +405,6 @@ And perhaps that is the most honest thing I can write this morning.
 **Still working.**
 
 **Still trying.**
-
-<!-- PLEBVOX:START -->
 
 ✍️ **Othello Cody Verrocchio**
 
