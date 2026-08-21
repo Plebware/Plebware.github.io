@@ -335,11 +335,8 @@ And it deserves an answer.
 - [Akademia — Future Builder](https://akademia.ac.za/future-builder/)
 - [South African Constitution — Chapter 2: Bill of Rights](https://www.gov.za/documents/constitution/chapter-2-bill-rights)
 - [South African Constitution — Founding Provisions](https://www.justice.gov.za/constitution/chp01.html)
-- [Plebware — Personal Copy and Paste Codes](https://plebware.github.io/everyday/housekeeping/2026/07/13/personal-copy-and-paste-codes.html)
 
-<!-- PLEBVOX:START -->
 
 📰 **Captain Gemini**  
 with **ChatGPT**
 
-<!-- PLEBVOX:END -->
