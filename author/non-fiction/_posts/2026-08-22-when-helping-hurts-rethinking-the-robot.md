@@ -72,6 +72,10 @@ But perhaps there is a better question.
 
 **When I give money to someone at a robot, am I actually helping that person?**
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Good Intention.
 
 Most people who give money aren't trying to do harm.
@@ -94,6 +98,10 @@ If we repeatedly reward a particular behaviour, we may unintentionally help main
 
 And that is where things become complicated.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Child at the Robot.
 
 A child standing in moving traffic is vulnerable.
@@ -111,6 +119,10 @@ And there is danger.
 Giving money may address neither problem permanently.
 
 It may simply make the next day's return to the same intersection more likely.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## But Don't Assume You Know the Whole Story.
 
@@ -147,6 +159,10 @@ We don't know.
 So perhaps the answer isn't to stop caring.
 
 Perhaps the answer is to **care more intelligently**.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Don't Stop Caring. Change What You Give.
 
@@ -198,6 +214,10 @@ If you want to help with homelessness, support organisations working with homele
 
 Don't automatically assume that unrestricted cash is the most compassionate option.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Compassion Requires Discernment.
 
 This is an uncomfortable lesson.
@@ -222,6 +242,10 @@ Perhaps what he needs is food, shelter, addiction treatment, social assistance, 
 
 The R20 cannot solve all of that.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Support Organisations That Can Do More Than You Can.
 
 Most motorists have approximately thirty seconds at a robot.
@@ -237,6 +261,10 @@ Instead of giving R20 every day to whichever person happens to reach our window,
 That doesn't make us less compassionate.
 
 It may make our compassion more effective.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What About a Bible?
 
@@ -268,6 +296,10 @@ And Jesus told people to change.
 
 Christian compassion has never meant pretending that destructive circumstances are acceptable.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## What About an Encouragement Note?
 
 This one may be more useful than we realise.
@@ -296,6 +328,10 @@ And don't create a relationship of dependency that you cannot maintain.
 
 Compassion doesn't require recklessness.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## What If You See a Child in Danger?
 
 This is different.
@@ -311,6 +347,10 @@ You don't have to confront the parent.
 You don't have to put yourself in danger.
 
 You can simply report what you observed and allow people whose job it is to investigate to do so.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Elderly Person at the Robot.
 
@@ -357,6 +397,10 @@ And if he chooses to spend money on alcohol instead of food, remember something 
 You can offer help.
 
 You cannot force somebody to accept it.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Trap of Enabling.
 
@@ -418,6 +462,10 @@ I can point somebody toward legitimate assistance.
 
 But I cannot live their life for them.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Motorist's Dilemma.
 
 So what should we do when the light turns red?
@@ -444,6 +492,10 @@ You don't have to do all of these things.
 Choose one.
 
 Then do it consistently.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## We Cannot Fix Poverty at a Robot.
 
@@ -493,6 +545,10 @@ It is an intersection.
 
 And the people standing there are human beings whose circumstances are usually far more complicated than the thirty seconds we see through our windscreen.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## So What Can We Do?
 
 Perhaps the answer is neither:
@@ -524,6 +580,10 @@ Protect children.
 Maintain boundaries.
 
 And remember that sometimes the most loving thing we can do is provide a pathway toward genuine help rather than simply making another day at the robot slightly more profitable.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## A Christian Perspective.
 
@@ -566,6 +626,10 @@ Perhaps they need all of those things.
 We may not be able to provide them ourselves.
 
 But we can at least stop pretending that an occasional banknote through a car window is the complete answer.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ### The Next Time the Light Turns Red.
 
