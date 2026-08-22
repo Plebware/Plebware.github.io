@@ -74,9 +74,9 @@ But perhaps there is a better question.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## The Good Intention.
+
+<!-- PLEBVOX:START -->
 
 Most people who give money aren't trying to do harm.
 
@@ -100,9 +100,9 @@ And that is where things become complicated.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## The Child at the Robot.
+
+<!-- PLEBVOX:START -->
 
 A child standing in moving traffic is vulnerable.
 
@@ -122,9 +122,9 @@ It may simply make the next day's return to the same intersection more likely.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## But Don't Assume You Know the Whole Story.
+
+<!-- PLEBVOX:START -->
 
 This is where we need to be careful.
 
@@ -162,9 +162,9 @@ Perhaps the answer is to **care more intelligently**.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## Don't Stop Caring. Change What You Give.
+
+<!-- PLEBVOX:START -->
 
 If you normally give cash to people at the robots, consider changing the way you help.
 
@@ -216,9 +216,9 @@ Don't automatically assume that unrestricted cash is the most compassionate opti
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## Compassion Requires Discernment.
+
+<!-- PLEBVOX:START -->
 
 This is an uncomfortable lesson.
 
@@ -244,9 +244,9 @@ The R20 cannot solve all of that.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## Support Organisations That Can Do More Than You Can.
+
+<!-- PLEBVOX:START -->
 
 Most motorists have approximately thirty seconds at a robot.
 
@@ -264,9 +264,9 @@ It may make our compassion more effective.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## What About a Bible?
+
+<!-- PLEBVOX:START -->
 
 As a Christian, I have wondered about this one too.
 
@@ -298,9 +298,9 @@ Christian compassion has never meant pretending that destructive circumstances a
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## What About an Encouragement Note?
+
+<!-- PLEBVOX:START -->
 
 This one may be more useful than we realise.
 
@@ -330,9 +330,9 @@ Compassion doesn't require recklessness.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## What If You See a Child in Danger?
+
+<!-- PLEBVOX:START -->
 
 This is different.
 
@@ -350,9 +350,9 @@ You can simply report what you observed and allow people whose job it is to inve
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## The Elderly Person at the Robot.
+
+<!-- PLEBVOX:START -->
 
 Then there is another person we often overlook.
 
@@ -400,9 +400,9 @@ You cannot force somebody to accept it.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## The Trap of Enabling.
+
+<!-- PLEBVOX:START -->
 
 This is perhaps the hardest lesson of all.
 
@@ -464,9 +464,9 @@ But I cannot live their life for them.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## The Motorist's Dilemma.
+
+<!-- PLEBVOX:START -->
 
 So what should we do when the light turns red?
 
@@ -495,9 +495,9 @@ Then do it consistently.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## We Cannot Fix Poverty at a Robot.
+
+<!-- PLEBVOX:START -->
 
 This is the uncomfortable truth.
 
@@ -547,9 +547,9 @@ And the people standing there are human beings whose circumstances are usually f
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## So What Can We Do?
+
+<!-- PLEBVOX:START -->
 
 Perhaps the answer is neither:
 
@@ -583,9 +583,9 @@ And remember that sometimes the most loving thing we can do is provide a pathway
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ## A Christian Perspective.
+
+<!-- PLEBVOX:START -->
 
 Jesus said:
 
@@ -629,9 +629,9 @@ But we can at least stop pretending that an occasional banknote through a car wi
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
-
 ### The Next Time the Light Turns Red.
+
+<!-- PLEBVOX:START -->
 
 Look.
 
