@@ -8,6 +8,7 @@ mode: "developer"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
 
 # PlebMachine: From Working Project to Real-World Testing.
@@ -27,12 +28,14 @@ It is no longer merely something being developed.
 It is becoming a real, distributable Linux productivity environment.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## The First Real Distribution Test.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## The First Real Distribution Test.
 
 The immediate milestone is the Debian package.
 
@@ -55,12 +58,14 @@ The next question is simple:
 **Does PlebMachine install and behave correctly as a packaged application on another machine?**
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## Tested on Two Machines.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## Tested on Two Machines.
 
 One of the most encouraging results so far is that PlebMachine Mission Control has been tested on two machines.
 
@@ -79,12 +84,14 @@ This is significant because PlebMachine is intended to be a practical productivi
 Testing on more than one machine provides an early indication that the architecture is behaving as intended beyond the original development environment.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## PlebWare Control Panel.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## PlebWare Control Panel.
 
 The PlebWare Control Panel is also functioning.
 
@@ -95,12 +102,14 @@ This is another important part of the transition from development project to usa
 The system is beginning to have a coherent user-facing structure rather than simply being a collection of components assembled during development.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## The Parts That Still Need Work.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## The Parts That Still Need Work.
 
 Although the core system is working, several areas still require attention.
 
@@ -115,12 +124,14 @@ The objective now is not to add more features.
 The objective is to finish what has already been built.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## Stretchly Integration.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## Stretchly Integration.
 
 Stretchly is currently the most obvious integration that still needs attention.
 
@@ -147,12 +158,14 @@ The user should then be able to complete the PlebMachine profile setup.
 This would make Stretchly part of the user's initial configuration rather than an unexplained background component.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## The PlebMachine User Profile.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## The PlebMachine User Profile.
 
 The PlebMachine user-profile system is another area that needs to move beyond its current cosmetic state.
 
@@ -175,12 +188,14 @@ The user profile should eventually become configuration data that PlebMachine ca
 The goal is for the profile to describe not merely who the user is, but how PlebMachine should serve that user.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## Pleb Gizmo.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## Pleb Gizmo.
 
 Pleb Gizmo is currently the most obvious broken component.
 
@@ -199,12 +214,14 @@ The immediate objective is not to redesign Pleb Gizmo or turn it into another ma
 The objective is simply to fix what is already there.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## The New Icons.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## The New Icons.
 
 A new set of PlebMachine icons has also been designed.
 
@@ -219,12 +236,14 @@ The icons exist as designs.
 They now need to become part of the working PlebMachine installation.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## The User Manual.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## The User Manual.
 
 The PlebMachine user manual is not yet finished.
 
@@ -241,12 +260,14 @@ The basic structure is already there.
 The documentation can be expanded as the software itself settles into its release form.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## What Has Actually Been Achieved?
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## What Has Actually Been Achieved?
 
 Looking back at the project as it stands today, the achievement is substantial.
 
@@ -279,12 +300,14 @@ And the visual identity of the project is being developed through its own icon s
 The remaining work is therefore increasingly about **finishing and refining**, rather than proving that the original idea can work.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## No More Feature Creep.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## No More Feature Creep.
 
 At this stage, the decision is deliberate:
 
@@ -303,12 +326,14 @@ PlebMachine already has enough functionality to prove its concept.
 Now it needs refinement.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## And Then, Back to Writing.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## And Then, Back to Writing.
 
 There is also a larger reason for getting PlebMachine finished.
 
@@ -331,12 +356,14 @@ The series itself also needs to be completed.
 That is the creative work waiting on the other side of the PlebMachine development cycle.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
-## The Road Ahead.
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
+## The Road Ahead.
 
 The immediate roadmap is therefore straightforward.
 
@@ -368,13 +395,11 @@ Not expansion.
 
 **Completion.**
 
-<!-- PLEBVOX:END -->
-
----
-
 *PlebWare — Technology should remain connected to humanity.*
 
 *PlebMachine — A Linux productivity environment built for the way people actually work.*
 
 **Captain Gemini — Othello Cody Verrocchio.**
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
