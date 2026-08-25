@@ -4,7 +4,7 @@ title: "PlebMachine 1.0.0: The First Public Release."
 date: 2026-08-25
 ---
 
-# 🔑 PlebMachine 1.0.0: The First Public Release.
+# 🔑 PlebMachine 1.0.0: Live At Last! Live At Last!.
 
 <!-- PLEBVOX:START -->
 
@@ -29,5 +29,10 @@ The Debian package is available from the official **PlebMachine GitHub 1.0.0 rel
 **PlebMachine 1.0.0 — Linux productivity, simplified.**
 
 <!-- PLEBVOX:END -->
+
+# 🔑 Download PlebMachine 1.0.0.
+[Download PlebMachine 1.0.0 — Debian Package](https://github.com/Plebware/PlebMachine/releases/download/v1.0.0/plebmachine_1.0.0_amd64.deb?utm_source=chatgpt.com)
+
+The package is distributed through the official PlebMachine GitHub release.
 
 **PlebWare keeps building — and PlebMachine has officially left the workshop.**
