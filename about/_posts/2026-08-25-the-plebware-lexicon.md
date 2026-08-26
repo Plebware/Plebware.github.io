@@ -21,7 +21,9 @@ This lexicon exists to keep those meanings clear.
 
 PlebWare is deliberately built around ordinary people using technology, creating knowledge and making things for themselves and others.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Plebware.
 
@@ -35,7 +37,9 @@ The fundamental idea is simple:
 
 **The person comes first.**
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebWare.
 
@@ -51,7 +55,9 @@ The capitalization is deliberate.
 
 The name also commemorates **Plebware.com**, the original Plebware website from which the concept evolved.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebMachine.
 
@@ -61,7 +67,9 @@ It is designed around the principle that a desktop environment should adapt to t
 
 PlebMachine provides a state-driven productivity layer while keeping system logic separate from user configuration.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Plebstick.
 
@@ -69,7 +77,9 @@ PlebMachine provides a state-driven productivity layer while keeping system logi
 
 A Plebstick is therefore a portable piece of the PlebWare ecosystem — a practical toolbox that can travel with the Pleb.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebTuition.
 
@@ -81,7 +91,9 @@ The goal is not to make technology sound complicated.
 
 The goal is to make complicated technology understandable.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebVox.
 
@@ -95,7 +107,9 @@ Its guiding principle is simple:
 
 **Keep the article. Mark the useful sections. Let PlebVox give those sections a voice.**
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebTheme.
 
@@ -103,7 +117,9 @@ Its guiding principle is simple:
 
 It provides a common presentation layer through which PlebWare articles, documentation, projects and other resources can be organised.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebWave.
 
@@ -113,7 +129,9 @@ It represents the movement of PlebWare ideas, information, media and creative wo
 
 PlebWave may include written, spoken, visual and multimedia forms of communication.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebWave Frontier.
 
@@ -123,7 +141,9 @@ It represents a place where ideas, creativity, communication and collaboration c
 
 The Frontier is where the next experiment begins.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Circle.
 
@@ -133,7 +153,9 @@ It provides a place for people to gather around shared interests, communication,
 
 The Circle is about the people participating in the ecosystem rather than the technology itself.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Pleb.
 
@@ -149,7 +171,9 @@ The Pleb is therefore not the lowest part of the system.
 
 **The Pleb is the reason the system exists.**
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Human Behind the Terminal.
 
@@ -159,7 +183,9 @@ Behind every keyboard, touchscreen, command line, application and artificial int
 
 PlebWare puts that person back into the centre of the conversation.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebWare Philosophy.
 
@@ -176,7 +202,9 @@ The **PlebWare Philosophy** can be reduced to a few simple principles:
 - Creativity belongs to everyone.
 - The human remains the final authority over the machine.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The PlebWare Family.
 
@@ -202,7 +230,9 @@ It is a collection of ideas and projects built around the same underlying concep
 
 And the **PlebWare Lexicon** — the dictionary that keeps the language together.
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Why "Pleb"?
 
@@ -220,7 +250,9 @@ So PlebWare takes the word back.
 
 **Pleb means human.**
 
----
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The PlebWare Principle.
 
