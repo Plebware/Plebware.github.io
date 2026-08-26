@@ -4,7 +4,7 @@ title: "The PlebWare Lexicon — A Language for the Human Behind the Terminal"
 date: 2026-08-25
 permalink: /about/the-plebware-lexicon/
 description: "A living vocabulary explaining the people, concepts, projects and terminology of the PlebWare ecosystem."
-tags: "PlebWare, Plebware, Lexicon, PlebMachine, Plebstick, PlebTuition, PlebVox, PlebWave, PlebChef, PlebCook, PlebChurch, PlebCircle, PlebHonour, PlebThreads, Plebbook, Technology, Community"
+tags: "PlebWare, Plebware, Lexicon, PlebMachine, Plebstick, PlebTuition, PlebVox, PlebWave, PlebBook, PlebChef, PlebCook, PlebChurch, PlebCircle, PlebHonour, PlebThreads, Technology, Community"
 ---
 
 <!-- PLEBVOX:START -->
@@ -71,19 +71,19 @@ PlebWare puts that person back into the centre of the conversation.
 
 <!-- PLEBVOX:START -->
 
-## Plebbook.
+## PlebBook.
 
-**Plebbook**, with a capital **P** and capital **B**, is the PlebWare approach to books written for ordinary people.
+**PlebBook**, with a capital **P** and capital **B**, is the PlebWare approach to books written for ordinary people.
 
-A Plebbook explains practical subjects in a straightforward, accessible way for the average person. It is PlebWare's own version of the traditional how-to book: useful knowledge written for normal people without unnecessary complexity or technical intimidation.
+A PlebBook explains practical subjects in a straightforward, accessible way for the average person. It is PlebWare's own version of the traditional how-to book: useful knowledge written for normal people without unnecessary complexity or technical intimidation.
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Pleb Chef.
+## PlebChef.
 
-**Pleb Chef** is the professional-style cooking side of the PlebWare food and cooking terminology.
+**PlebChef**, with a capital **P** and capital **C**, is the professional-style cooking side of the PlebWare food and cooking terminology.
 
 It focuses on cooking with the techniques, presentation, discipline and standards associated with professional kitchens, while keeping the knowledge understandable and useful to ordinary people.
 
@@ -91,9 +91,9 @@ It focuses on cooking with the techniques, presentation, discipline and standard
 
 <!-- PLEBVOX:START -->
 
-## Pleb Church.
+## PlebChurch.
 
-**Pleb Church** represents the Christian and community-oriented side of the PlebWare ecosystem.
+**PlebChurch**, with a capital **P** and capital **C**, represents the Christian and community-oriented side of the PlebWare ecosystem.
 
 It is concerned with sharing the Gospel, encouraging Christian fellowship and putting faith into practical action through service, generosity and care for other people.
 
@@ -101,21 +101,21 @@ It is concerned with sharing the Gospel, encouraging Christian fellowship and pu
 
 <!-- PLEBVOX:START -->
 
-## Pleb Circle.
+## PlebCircle.
 
-**Pleb Circle** is the community-oriented part of the wider PlebWare ecosystem.
+**PlebCircle**, with a capital **P** and capital **C**, is the community-oriented part of the wider PlebWare ecosystem.
 
 It is the name replacing **The Circle** for the user's WhatsApp community spaces, providing a place for people to gather around shared interests, communication, creativity and collaboration.
 
-Pleb Circle is about the people participating in the ecosystem rather than the technology itself.
+PlebCircle is about the people participating in the ecosystem rather than the technology itself.
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Pleb Cook.
+## PlebCook.
 
-**Pleb Cook** is the home-cooking side of the PlebWare food and cooking terminology.
+**PlebCook**, with a capital **P** and capital **C**, is the home-cooking side of the PlebWare food and cooking terminology.
 
 It is aimed at the home chef and the ordinary do-it-yourself meal prepper, focusing on practical meals, useful cooking skills and techniques that can be applied in an everyday kitchen.
 
@@ -217,9 +217,9 @@ PlebWave may include written, spoken, visual and multimedia forms of communicati
 
 <!-- PLEBVOX:START -->
 
-## PlebWave Frontier.
+## PlebWaveFrontier.
 
-**PlebWave Frontier** is part of the wider people and community side of the PlebWare ecosystem.
+**PlebWaveFrontier**, with a capital **P**, **W** and **F**, is part of the wider people and community side of the PlebWare ecosystem.
 
 It represents a place where ideas, creativity, communication and collaboration can meet.
 
@@ -276,15 +276,15 @@ It is a collection of ideas and projects built around the same underlying concep
 
 **PlebWare** — the ecosystem and brand.
 
-**Plebbook** — practical books written for ordinary people.
+**PlebBook** — practical books written for ordinary people.
 
-**Pleb Chef** — professional-style cooking.
+**PlebChef** — professional-style cooking.
 
-**Pleb Church** — Christian community, faith and practical service.
+**PlebChurch** — Christian community, faith and practical service.
 
-**Pleb Circle** — the community gathering space.
+**PlebCircle** — the community gathering space.
 
-**Pleb Cook** — home cooking and everyday meal preparation.
+**PlebCook** — home cooking and everyday meal preparation.
 
 **PlebHonour** — Christian values, good discipleship and neighbourly behaviour.
 
@@ -302,7 +302,7 @@ It is a collection of ideas and projects built around the same underlying concep
 
 **PlebWave** — the communications and broadcasting side.
 
-**PlebWave Frontier** — the wider communications and community frontier.
+**PlebWaveFrontier** — the wider communications and community frontier.
 
 And the **PlebWare Lexicon** — the dictionary that keeps the language together.
 
