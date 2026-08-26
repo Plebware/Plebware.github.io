@@ -15,8 +15,6 @@ date: 2026-08-26
 
 <!-- PLEBVOX:END -->
 
-![Migrant Germs](migrant-germs.webp)
-
 <!-- PLEBVOX:START -->
 
 ## It Starts With the Flu.
