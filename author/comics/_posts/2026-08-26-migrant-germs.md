@@ -3,7 +3,7 @@ layout: post
 title: "Migrant Germs."
 date: 2026-08-26
 ---
-<img src="/assets/images/12-days-of-flu.webp"
+<img src="/assets/images/migrant-germs.webp"
      alt="Hanging On - When Flu Linger — A Moral Story About Illness, Influenza, Illness, And The Struggle To Overcome Flu As A Geriatric (Elderly Person."
      style="max-width: 100%; height: auto;">
 
