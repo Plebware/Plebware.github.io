@@ -52,7 +52,7 @@ It runs on top of XFCE (and other lightweight desktops) and is built entirely wi
 ---
 <!-- PLEBVOX:START -->
 
-## 📦 Installation
+## 📦 Installation (FOR BETA TESTING ONLY)
 
 The easiest way to install PlebMachine is via the **Debian package** (`.deb`).  
 Download the latest release from the [Releases page](https://github.com/PlebWare/plebmachine/releases) and install it.
