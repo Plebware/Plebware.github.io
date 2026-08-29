@@ -3,6 +3,9 @@ layout: post
 title: "PlebMachine: From Desktop Experiment to Cognitive Linux Ecosystem."
 date: 2026-08-28
 ---
+<img src="/assets/images/virtual-ai-council.webp"
+     alt="PlebWare Virtual Conference - Featuring AI Helpers"
+     style="max-width: 100%; height: auto;">
 
 <!-- PLEBVOX:START -->
 
