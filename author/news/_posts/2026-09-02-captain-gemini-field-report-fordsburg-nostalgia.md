@@ -18,7 +18,7 @@ date: 2026-09-02
 
 Captain Gemini's correspondent, Mr. Brinkmeier, is once again out on the road.
 
-This time, the vehicle is sitting in Fordsburg, outside Kalaba Butcher, established in 1961.
+This time, the vehicle is sitting in Fordsburg, outside Kolaba Butcher, established in 1961.
 
 Two full quarters of beef and two boxes of beef liver have been loaded.
 
