@@ -2,9 +2,9 @@
 layout: post
 title: "PlebMachine 1.30.08.28 - Debugged Running"
 date: 2026-08-31
-category: "fiction"
+category: "plebmachine"
 tags: [plebmachine, working release, state-driven, Milestone]
-mode: "author"
+mode: "developer"
 author: Otto Brinkmeier
 ---
 
