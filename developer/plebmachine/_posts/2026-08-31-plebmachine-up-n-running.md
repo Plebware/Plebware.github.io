@@ -8,6 +8,7 @@ mode: "developer"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
 
 # 🔑 PlebMachine 1.30.08.26
 
@@ -24,4 +25,7 @@ The `plebmachine_1.30.08.26_amd64.deb` package was installed successfully on:
 - **MX Linux 25.2**, Xfce.
 - **SparkyLinux 8.4 (Seven-Sisters)**, Xfce, based on Debian 13 Trixie.
 
-On SparkyLinux, the package was installed **without manual intervention** and PlebMachine worked immediately after installation.
+On SparkyLinux, the package was installed **without manual intervention**, and PlebMachine worked immediately after installation.
+
+<!-- PLEBVOX:END -->
+
