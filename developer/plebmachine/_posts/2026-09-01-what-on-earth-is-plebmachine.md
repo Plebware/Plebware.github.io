@@ -10,11 +10,11 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# What the Hell Is PlebMachine? 🤔
+# What On Earth Is PlebMachine? 🤔
 
 Let's start with the obvious question.
 
-**What the hell is PlebMachine?**
+**What on earth is PlebMachine?**
 
 In simple terms, PlebMachine is software that helps organise your Linux computer around **what you are doing**.
 
