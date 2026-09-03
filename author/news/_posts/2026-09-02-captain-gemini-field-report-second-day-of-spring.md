@@ -68,23 +68,63 @@ Sometimes you work because you have no other choice.
 
 ## Other People Carrying Their Own Battles.
 
+### Jack and Jill Went Up the Hill.
+
+*The names in this section have been changed. Jack and Jill are not their real names. They are aliases inspired by the familiar nursery rhyme. The events and circumstances described here, however, are based upon what actually happened.*
+
 There is another difficult story unfolding around us.
 
-William and Roxanne have been dealing with the devastating consequences of losing their children through the welfare system after periods of living on the streets.
+For the purposes of protecting the people involved, we will call them **Jack and Jill**.
 
-It would be easy to reduce such a situation to a simple story about bad decisions.
+And perhaps the old nursery rhyme gives us an unexpectedly appropriate starting point:
 
-Reality is rarely that simple.
+*Jack and Jill went up the hill.*
 
-Poor choices can certainly have consequences, but once someone has fallen into poverty, homelessness, family breakdown and emotional crisis, climbing back out becomes extraordinarily difficult.
+Except this is not a children's story.
+
+There is no neat ending waiting at the bottom of the page.
+
+Jack and Jill have been dealing with the devastating consequences of losing their children through the welfare system after periods of living on the streets.
+
+It would be very easy to look at a situation like this and say, *They made bad choices.*
+
+And perhaps they did.
+
+People do make bad choices.
+
+Sometimes people make terrible choices.
+
+Sometimes those choices hurt themselves, and sometimes they hurt the people around them.
+
+But there is another part of the story that is often forgotten.
+
+**What happens when someone finally wants to change?**
+
+What happens when the person who made the wrong choices understands that they have gone too far, wants a different life, and genuinely wants to climb out?
+
+The hill is still there.
+
+The consequences are still there.
+
+The broken relationships are still there.
+
+The poverty is still there.
+
+The homelessness is still there.
+
+The emotional damage is still there.
+
+And the world does not necessarily make it easy to start again.
+
+Once someone has fallen into poverty, homelessness, family breakdown and emotional crisis, climbing back out can become extraordinarily difficult.
 
 The economy does not make that recovery any easier.
 
-At present, it appears that William and Roxanne may have separated following a serious argument.
+At present, it appears that Jack and Jill may have separated following a serious argument.
 
 We don't know what the future holds for them.
 
-What we do know is that William became so depressed that he wanted to end his life.
+But we do know that Jack became so depressed that he wanted to end his life.
 
 For a while, the priority was simply keeping him going.
 
@@ -93,6 +133,52 @@ Encouragement mattered.
 Someone listening mattered.
 
 Reminding him that the present moment does not have to become the final chapter mattered.
+
+And perhaps that is the part of the Jack and Jill story worth remembering.
+
+**A person can make bad choices without becoming a permanently bad person.**
+
+A person can do things they regret.
+
+A person can fall.
+
+A person can hurt others.
+
+A person can lose almost everything.
+
+And yet, somewhere along the way, that same person can decide:
+
+*I don't want to live like this anymore.*
+
+That decision does not magically erase the past.
+
+It does not remove the consequences.
+
+It does not repair every broken relationship.
+
+It does not immediately provide a home, a job, security or a second chance.
+
+But it can be the beginning of something.
+
+And sometimes the first step towards helping someone climb out of the hole is simply refusing to believe that the hole is all they are.
+
+Perhaps that is the modern moral hidden inside an old nursery rhyme.
+
+**Jack and Jill went up the hill.**
+
+They fell.
+
+They got hurt.
+
+And sometimes, in real life, people fall much farther than anyone ever sees.
+
+The question is not merely whether they made the wrong choices.
+
+The question is what happens when they finally want to make the right ones.
+
+And whether there is anyone willing to stand nearby and say:
+
+**"Keep climbing."**
 
 Sometimes helping another human being survive another day is the most important work anyone can do.
 
