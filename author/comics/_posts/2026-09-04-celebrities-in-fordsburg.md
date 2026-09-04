@@ -22,7 +22,7 @@ Naturally, I chose the second option.
 
 <!-- PLEBVOX:END -->
 
-<img src="{{ '/assets/images/Fordsburg.webp' | relative_url }}"
+<img src="{{ '/assets/images/fordsburg.webp' | relative_url }}"
      alt="Celebrities in Fordsburg — A humorous six-panel comic about Otto waiting for his boss and imagining himself as a mural on a Fordsburg wall."
      style="max-width: 100%; height: auto;">
 
