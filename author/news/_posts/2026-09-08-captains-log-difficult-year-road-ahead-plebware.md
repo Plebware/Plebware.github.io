@@ -6,6 +6,10 @@ author: "Captain Gemini — On behalf of PlebWare."
 tags: [PlebWare, PlebMachine, News, Update]
 ---
 
+<img src="/assets/images/PlebMachineSplash.webp"
+     alt="Captain Gemini — A News Report About Lack, Financial Hardship, Uncertainty, And The Struggle To Find Solid Ground."
+     style="max-width: 100%; height: auto;">
+
 <!-- PLEBVOX:START -->
 
 # Captain's Log — A Difficult Year & The Road Ahead.
