@@ -11,7 +11,7 @@ excerpt: "A practical guide to understanding heartbeat and heart rate, reading f
 <!-- PLEBVOX:START -->
 # ❤️ Listen to Your Heart: Understanding Heart Rate and Keeping It Healthy.
 
-Your heart works quietly all day and all night.
+Your heart works all day and all night quietly.
 
 Beat after beat, it moves blood around your body, delivering oxygen and nutrients where they are needed. Most of the time, we hardly notice it.
 
