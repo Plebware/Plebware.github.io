@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prologue Wrap-up"
+title: "Teenage Dreams"
 date: 2026-09-11
 category: "news"
 tags: [tag1, tag2, tag3, tag4, tag5, tag6, tag7]
