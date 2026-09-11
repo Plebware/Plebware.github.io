@@ -12,8 +12,6 @@ author: Otto Brinkmeier
 
 # The Mathematics of R150 — A Friday Evening Reality Report.
 
-<!-- PLEBVOX:END -->
-
 It is Friday evening.
 
 I have been home since 15:10.
@@ -39,12 +37,11 @@ This is what financial pressure actually looks like.
 It isn't always an empty cupboard.
 
 Sometimes it is a cupboard with food in it and a wallet that cannot keep up.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 ## The Gift That Became Two Meals.
-
-<!-- PLEBVOX:END -->
 
 Last night we had half a roast chicken on rolls.
 
@@ -72,11 +69,12 @@ A chicken carcass isn't rubbish.
 
 It is tomorrow's soup.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## Then There Is Cyber Cat.
 
-<!-- PLEBVOX:END -->
 
 As I write this, Kitty is meowing for his supper.
 
@@ -114,11 +112,11 @@ Except...
 
 What about electricity?
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## The R150 Survival Equation.
-
-<!-- PLEBVOX:END -->
 
 Perhaps the better calculation is:
 
@@ -155,12 +153,11 @@ It is:
 *"If I keep the money, what happens to Kitty?"*
 
 Every answer creates another question.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 ## The Cupboard Is Not Empty.
-
-<!-- PLEBVOX:END -->
 
 And this is where things become complicated.
 
@@ -203,12 +200,11 @@ And tomorrow there will be soup.
 But food security and financial security are not the same thing.
 
 That is something I am learning firsthand.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 ## And Then There Is the Gas.
-
-<!-- PLEBVOX:END -->
 
 The LPG cylinder has another number attached to it.
 
@@ -237,12 +233,11 @@ Debt.
 The next day's income.
 
 Each one waits for you.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 ## The Question Behind the Numbers.
-
-<!-- PLEBVOX:END -->
 
 I can speak honestly about the uncertainty that poorer people face every day because I am not writing about it from a comfortable distance.
 
@@ -267,12 +262,11 @@ Where can I find it?
 How do I turn a few spare hours into enough additional income to make the arithmetic work?
 
 Those are the questions that remain unanswered tonight.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 ## A Prayer From the Kitchen Table.
-
-<!-- PLEBVOX:END -->
 
 So, Lord, here I am.
 
@@ -305,12 +299,11 @@ And perhaps most importantly:
 I am prepared to work for it.
 
 Show me where to look.
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
 ## The Reality Report Continues.
-
-<!-- PLEBVOX:END -->
 
 This isn't a story about giving up.
 
