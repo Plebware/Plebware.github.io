@@ -7,12 +7,14 @@ tags: [otto, friday, work, rest, johannesburg, ford-ranger, author-news]
 mode: "author"
 author: Otto Brinkmeier
 ---
+<img src="/assets/images/well-earned-rest.webp"
+     alt="A Break While Waiting - Adaptation On The Fly — A Moral Story About, Making Time For A Well Deserved Break."
+     style="max-width: 100%; height: auto;">
 
 <!-- PLEBVOX:START -->
 
 # A Well-Earned Rest — The View From the Back of the Ranger.
 
-<!-- IMAGE: well-earned-rest.webp -->
 
 <!-- PLEBVOX:END -->
 
