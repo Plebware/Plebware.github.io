@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "The Mathematics of R150."
+title: "The Mathematics of R150"
 date: 2026-09-11
-tags:
-  - PlebWare
-  - Reality Report
-  - Poverty
-  - Survival
-  - Everyday Life
-  - Johannesburg
-  - Working Poor
+category: "fiction"
+tags: [PlebWare, Reality Report, Poverty, Survival, Working Poor, Johannesburg, Everyday Life]
+mode: "author"
+author: Otto Brinkmeier
+---
 
 <!-- PLEBVOX:START -->
 
