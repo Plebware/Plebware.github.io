@@ -78,7 +78,7 @@ I wish I could have reached out sooner.
 
 ## I Remember The Green Bowl.
 
-There are memories that seem insignificant until someone is gone.
+Some memories seem insignificant until someone is gone.
 
 Then suddenly they become precious.
 
@@ -156,7 +156,7 @@ Why Cindy?
 
 Why now?
 
-Why a forty-five-year-old mother?
+Why a forty-four-year-old mother?
 
 Why must Erin and Samuel grow up without their mother?
 
