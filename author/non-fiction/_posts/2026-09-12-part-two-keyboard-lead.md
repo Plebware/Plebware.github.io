@@ -3,6 +3,9 @@ layout: post
 title: "Part Two — What Happens When I Let the Keyboard Lead?"
 date: 2026-09-12
 ---
+<img src="/assets/images/Brinkmeier.webp"
+     alt="Brinkmeier Coat Of Arms — Brinkmeier was a name for someone who lived beside a meadow or grassy pasture."
+     style="max-width: 100%; height: auto;">
 
 <!-- PLEBVOX:START -->
 
