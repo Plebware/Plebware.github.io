@@ -20,23 +20,49 @@ There comes a point in any negotiation when you have to stop asking the same que
 
 For the past couple of months, I have been talking to my bosses about getting an increase.
 
-The answer has essentially been that I am not really buying the vehicle.
+The problem is not that I am buying a vehicle. I am not buying a vehicle at all.
 
-Fair enough.
+I am the driver. The vehicle belongs to my employers, and I drive it for them. I take them to buy stock, and increasingly I am also going out on my own to buy stock on their behalf.
 
-But that is not what I am doing at all.
+Today was a good example of how much the job has expanded beyond simply driving.
 
-I am buying **stock on behalf of the business**.
+I first went to Crown Mines in Johannesburg to buy coffee. Then I went to Fordsburg, where I bought two forequarters from a butcher and two boxes of liver. I brought that stock back and dropped it off at the shop.
 
-That can mean going to the butcher for forequarters, or visiting different outlets to buy coffee, rice and other supplies. Today alone, I was given R13,000 to work with. Then another R3,000 was added. Then another R600.
+That was the first R13,000 I had been entrusted with.
 
-That meant I was handling **R16,600 in business cash** for today's purchases.
+Then I was given another R3,000 to buy four bales of basmati rice, and another R600 to buy a box of frozen chicken.
 
-So the question is not whether I am buying a vehicle.
+So, during the day, I was handling **R16,600 in business cash** for stock purchases.
 
-I am not.
+That money was not mine. It was money entrusted to me to do the shopping for the business.
 
-The question is what happens when a driver is entrusted with R16,600 to purchase stock, while his own daily wage remains R150.
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## The Job Has Changed.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+Originally, I was employed to drive.
+
+That is my job.
+
+But lately, the driving has become only one part of what I am doing.
+
+Today I was a driver, a buyer, a banker handling business cash, a collector of stock and, at times, a chauffeur.
+
+After buying the rice and chicken, I picked up the guy from the second shop. He had gone shopping while I went out to buy the stock. Then I brought him back.
+
+And now, as I sit writing this, I have been sent out to take somebody to a hairdresser.
+
+This is the reality of the working day.
+
+I am driving their vehicle. I am not buying vehicles.
+
+I am using their vehicle to do the work they need done, including taking them to buy stock and increasingly going out myself to purchase stock for them.
 
 <!-- PLEBVOX:END -->
 
@@ -50,9 +76,7 @@ The question is what happens when a driver is entrusted with R16,600 to purchase
 
 Today's shopping list was not small.
 
-There was chicken. There were forequarters. There were kidneys. There were four bales of Nojiwan basmati rice. And there were other goods that had to be collected from various outlets.
-
-This is purchasing work on behalf of the business.
+There was coffee from Crown Mines. There were two forequarters and two boxes of liver from Fordsburg. Then there were four bales of basmati rice and a box of frozen chicken.
 
 The money is not mine. I am trusted to carry it, spend it according to instructions, collect the stock, and make sure the goods get where they need to go.
 
@@ -254,7 +278,7 @@ Why older men?
 
 Why R200 a day for some drivers?
 
-Why does somebody who can be entrusted with R16,600 to purchase chicken, forequarters, kidneys, rice and other stock still feel as though he needs to negotiate for a better income?
+Why does somebody who can be entrusted with R16,600 to purchase coffee, forequarters, liver, rice, chicken and other stock still feel as though he needs to negotiate for a better income?
 
 Why do some working arrangements make sense to the person paying, but leave the person doing the work wondering whether it makes sense at all?
 
