@@ -37,8 +37,9 @@ This is what financial pressure actually looks like.
 It isn't always an empty cupboard.
 
 Sometimes it is a cupboard with food in it and a wallet that cannot keep up.
-<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:END -->
+----
 <!-- PLEBVOX:START -->
 
 ## The Gift That Became Two Meals.
@@ -70,7 +71,7 @@ A chicken carcass isn't rubbish.
 It is tomorrow's soup.
 
 <!-- PLEBVOX:END -->
-
+-----
 <!-- PLEBVOX:START -->
 
 ## Then There Is Cyber Cat.
