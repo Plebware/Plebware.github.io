@@ -3,6 +3,9 @@ layout: post
 title: "Non-Artificial Intelligence Writing."
 date: 2026-09-12
 ---
+<img src="/assets/images/elf-otto.webp"
+     alt="Imagine How To Write - Non AI writing - Polished by AI."
+     style="max-width: 100%; height: auto;">
 
 <!-- PLEBVOX:START -->
 
