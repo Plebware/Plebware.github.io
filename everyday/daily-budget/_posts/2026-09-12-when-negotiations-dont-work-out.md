@@ -3,7 +3,7 @@ layout: post
 title: "The Price of Saying No."
 date: 2026-09-12
 category: "daily-budget"
-tags: [PlebWare, Daily Budget, Negotiation, Working Poor, Pensioners, Income, Employment, Everyday Life]
+tags: [daily-budget, budgeting, work, pensioners, income, negotiation, employment, everyday-life]
 mode: "everyday"
 author: Otto Brinkmeier
 ---
@@ -11,6 +11,10 @@ author: Otto Brinkmeier
 <!-- PLEBVOX:START -->
 
 # When Negotiations Don't Work Out.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 There comes a point in any negotiation when you have to stop asking the same question and start looking at the situation for what it actually is.
 
@@ -20,35 +24,47 @@ The answer has essentially been that I am not really buying the vehicle.
 
 Fair enough.
 
-But then I have to ask a very simple question.
+But that is not what I am doing at all.
 
-What exactly is R13,000 cash in your pocket if you are not really buying?
+I am buying **stock on behalf of the business**.
+
+That can mean going to the butcher for forequarters, or visiting different outlets to buy coffee, rice and other supplies. Today alone, I was given R13,000 to work with. Then another R3,000 was added. Then another R600.
+
+That meant I was handling **R16,600 in business cash** for today's purchases.
+
+So the question is not whether I am buying a vehicle.
+
+I am not.
+
+The question is what happens when a driver is entrusted with R16,600 to purchase stock, while his own daily wage remains R150.
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## The R13,000 Question.
+## The R16,600 Question.
 
-I have already written about the mathematics of R150 a day.
+<!-- PLEBVOX:END -->
 
-But the mathematics changes when the money actually starts accumulating in your pocket.
+<!-- PLEBVOX:START -->
 
-R13,000 is not an imaginary number.
+Today's shopping list was not small.
 
-It is cash.
+There was chicken. There were forequarters. There were kidneys. There were four bales of Nojiwan basmati rice. And there were other goods that had to be collected from various outlets.
 
-It represents money that has passed through my hands while I have continued working, driving, using my time, taking responsibility for a vehicle, dealing with traffic, and doing the job that is required of me.
+This is purchasing work on behalf of the business.
 
-So when somebody says, "You are not really buying," I find myself wondering what definition of buying we are actually using.
+The money is not mine. I am trusted to carry it, spend it according to instructions, collect the stock, and make sure the goods get where they need to go.
 
-Perhaps technically I am not buying anything.
+That is a responsibility I take seriously.
 
-But financially, something is certainly happening.
+But it makes the wage question even more difficult to ignore.
 
-Money is changing hands.
+R16,600 was entrusted to me today.
 
-And that is what makes the question worth asking.
+My own day's earnings are R150.
+
+Those are two very different numbers.
 
 <!-- PLEBVOX:END -->
 
@@ -56,15 +72,15 @@ And that is what makes the question worth asking.
 
 ## What Other Drivers Are Earning.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 There is another part of this that bothers me.
 
-I know other drivers.
-
-I speak to some of them regularly.
+I know other drivers. I speak to some of them regularly.
 
 I know of at least two cases where drivers are earning around R200 a day, which works out to approximately R4,700 a month.
-
-That is their reality.
 
 I am not writing this to say that their situation is better or worse than mine.
 
@@ -83,6 +99,10 @@ Why people who are already desperate for additional income?
 <!-- PLEBVOX:START -->
 
 ## Why Older Men?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 I don't want to make an accusation that I cannot prove.
 
@@ -114,6 +134,10 @@ And that is precisely why I am asking rather than making a declaration.
 
 ## When Negotiation Reaches Its Limit.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 I have tried negotiating.
 
 I have explained my position.
@@ -138,13 +162,17 @@ It simply means that the arrangement has reached a point where the numbers have 
 
 ## The Question Behind the Question.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 Perhaps the biggest question isn't actually about my increase.
 
 Perhaps it is this:
 
 What is the real value of the work being performed?
 
-If somebody is prepared to spend their day driving, dealing with traffic, fuel, vehicles, customers, responsibility and risk, what should that person's time actually be worth?
+If somebody is prepared to spend their day driving, purchasing stock, collecting goods, dealing with traffic, fuel, vehicles, customers, responsibility and risk, what should that person's time actually be worth?
 
 And if that person is a pensioner who has already spent a lifetime working, should desperation determine the value of his labour?
 
@@ -157,6 +185,10 @@ But I think it is a question worth asking.
 <!-- PLEBVOX:START -->
 
 ## I Am Not Looking for a Fight.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 This isn't an attack on my employers.
 
@@ -188,11 +220,15 @@ That last possibility is probably the hardest one to accept.
 
 ## The Everyday Budget Lesson.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 A budget is not only about adding up money.
 
 Sometimes a budget tells you when a working arrangement is no longer making sense.
 
-R13,000 in cash doesn't automatically mean that I am financially secure.
+R16,600 in business cash doesn't mean that I am financially secure. It is not my money. It is money I have been entrusted to use for purchasing stock.
 
 R200 a day doesn't automatically mean that somebody else is being treated unfairly.
 
@@ -208,13 +244,17 @@ And when the negotiations don't work out, the only responsible thing to do is lo
 
 ## So, Why?
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 Why pensioners?
 
 Why older men?
 
 Why R200 a day for some drivers?
 
-Why does somebody carrying R13,000 in cash still feel as though he needs to negotiate for a better income?
+Why does somebody who can be entrusted with R16,600 to purchase chicken, forequarters, kidneys, rice and other stock still feel as though he needs to negotiate for a better income?
 
 Why do some working arrangements make sense to the person paying, but leave the person doing the work wondering whether it makes sense at all?
 
@@ -231,6 +271,10 @@ And sometimes asking the question is the first step toward discovering the answe
 <!-- PLEBVOX:START -->
 
 ## Final Thought.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 There is a difference between complaining and recording reality.
 
