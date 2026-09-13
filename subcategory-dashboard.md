@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /subcategory-dashboard/
 title: "PlebWare Subcategory Dashboard."
 description: "A live overview of article counts, recent titles, and publishing activity across the 12 PlebWare knowledge modes."
 tags:
@@ -51,9 +52,7 @@ The information is generated automatically from the PlebWare article library, so
   {% assign article_count = mode_posts.size %}
   {% assign latest_post = mode_posts.first %}
   <tr>
-    <th scope="row">
-      <a href="{{ '/' | append: mode_slug | append: '/' | relative_url }}">{{ mode_name }}</a>
-    </th>
+    <th scope="row"><a href="{{ '/' | append: mode_slug | append: '/' | relative_url }}">{{ mode_name }}</a></th>
     <td><strong>{{ article_count }}</strong></td>
     <td>
       {% if latest_post %}
@@ -62,9 +61,7 @@ The information is generated automatically from the PlebWare article library, so
           <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
-      {% else %}
-        <span class="plebware-no-articles">No articles yet.</span>
-      {% endif %}
+      {% else %}<span class="plebware-no-articles">No articles yet.</span>{% endif %}
     </td>
     <td>
       {% if latest_post %}
@@ -72,21 +69,13 @@ The information is generated automatically from the PlebWare article library, so
         {% assign current_timestamp = site.time | date: "%s" | plus: 0 %}
         {% assign age_seconds = current_timestamp | minus: latest_timestamp %}
         {% assign age_days = age_seconds | divided_by: 86400 %}
-        {% if age_days <= 0 %}
-          <strong>Today.</strong>
-        {% elsif age_days == 1 %}
-          <strong>1 day ago.</strong>
-        {% else %}
-          <strong>{{ age_days }} days ago.</strong>
-        {% endif %}
+        {% if age_days <= 0 %}<strong>Today.</strong>
+        {% elsif age_days == 1 %}<strong>1 day ago.</strong>
+        {% else %}<strong>{{ age_days }} days ago.</strong>{% endif %}
         <small class="plebware-update-date">{{ latest_post.date | date: "%d %B %Y" }}</small>
-      {% else %}
-        —
-      {% endif %}
+      {% else %}—{% endif %}
     </td>
-    <td>
-      <a class="plebware-view-all" href="{{ '/' | append: mode_slug | append: '/' | relative_url }}">View All →</a>
-    </td>
+    <td><a class="plebware-view-all" href="{{ '/' | append: mode_slug | append: '/' | relative_url }}">View All →</a></td>
   </tr>
 {% endfor %}
   </tbody>
@@ -113,133 +102,5 @@ This gives PlebWare a simple way to see not only **how much has been published**
 <!-- PLEBVOX:END -->
 
 <style>
-.plebware-subcategory-dashboard {
-  width: 100%;
-  overflow-x: auto;
-  margin: 1.5rem 0 2rem;
-}
-
-.plebware-mode-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 1.05rem;
-}
-
-.plebware-mode-table th,
-.plebware-mode-table td {
-  padding: 1rem 0.9rem;
-  border-bottom: 1px solid rgba(127, 127, 127, 0.28);
-  vertical-align: top;
-  text-align: left;
-}
-
-.plebware-mode-table thead th {
-  font-size: 0.95rem;
-  font-weight: 700;
-}
-
-.plebware-mode-table tbody th {
-  min-width: 9rem;
-  white-space: nowrap;
-}
-
-.plebware-mode-table tbody th a {
-  font-weight: 700;
-}
-
-.plebware-latest-list {
-  margin: 0;
-  padding-left: 1.25rem;
-}
-
-.plebware-latest-list li {
-  margin-bottom: 0.35rem;
-}
-
-.plebware-latest-list li:last-child {
-  margin-bottom: 0;
-}
-
-.plebware-update-date {
-  display: block;
-  margin-top: 0.35rem;
-  opacity: 0.72;
-}
-
-.plebware-view-all {
-  white-space: nowrap;
-  font-weight: 700;
-}
-
-.plebware-no-articles {
-  opacity: 0.7;
-}
-
-@media (max-width: 768px) {
-  .plebware-mode-table {
-    display: block;
-    font-size: 1.08rem;
-  }
-
-  .plebware-mode-table thead {
-    display: none;
-  }
-
-  .plebware-mode-table,
-  .plebware-mode-table tbody,
-  .plebware-mode-table tr,
-  .plebware-mode-table th,
-  .plebware-mode-table td {
-    width: 100%;
-  }
-
-  .plebware-mode-table tbody,
-  .plebware-mode-table tr,
-  .plebware-mode-table th,
-  .plebware-mode-table td {
-    display: block;
-  }
-
-  .plebware-mode-table tr {
-    margin-bottom: 1.25rem;
-    padding: 1rem;
-    border: 1px solid rgba(127, 127, 127, 0.28);
-    border-radius: 12px;
-  }
-
-  .plebware-mode-table th,
-  .plebware-mode-table td {
-    padding: 0.35rem 0;
-    border: 0;
-  }
-
-  .plebware-mode-table tbody th {
-    min-width: 0;
-    font-size: 1.2rem;
-  }
-
-  .plebware-mode-table td::before {
-    display: block;
-    margin-bottom: 0.2rem;
-    font-size: 0.85rem;
-    font-weight: 700;
-    opacity: 0.7;
-  }
-
-  .plebware-mode-table td:nth-child(2)::before {
-    content: "Articles.";
-  }
-
-  .plebware-mode-table td:nth-child(3)::before {
-    content: "Latest Three Articles.";
-  }
-
-  .plebware-mode-table td:nth-child(4)::before {
-    content: "Last Updated.";
-  }
-
-  .plebware-mode-table td:nth-child(5)::before {
-    content: "Explore.";
-  }
-}
+.plebware-subcategory-dashboard{width:100%;overflow-x:auto;margin:1.5rem 0 2rem}.plebware-mode-table{width:100%;border-collapse:collapse;font-size:1.05rem}.plebware-mode-table th,.plebware-mode-table td{padding:1rem .9rem;border-bottom:1px solid rgba(127,127,127,.28);vertical-align:top;text-align:left}.plebware-mode-table thead th{font-size:.95rem;font-weight:700}.plebware-mode-table tbody th{min-width:9rem;white-space:nowrap}.plebware-mode-table tbody th a{font-weight:700}.plebware-latest-list{margin:0;padding-left:1.25rem}.plebware-latest-list li{margin-bottom:.35rem}.plebware-latest-list li:last-child{margin-bottom:0}.plebware-update-date{display:block;margin-top:.35rem;opacity:.72}.plebware-view-all{white-space:nowrap;font-weight:700}.plebware-no-articles{opacity:.7}@media(max-width:768px){.plebware-mode-table{display:block;font-size:1.08rem}.plebware-mode-table thead{display:none}.plebware-mode-table,.plebware-mode-table tbody,.plebware-mode-table tr,.plebware-mode-table th,.plebware-mode-table td{width:100%}.plebware-mode-table tbody,.plebware-mode-table tr,.plebware-mode-table th,.plebware-mode-table td{display:block}.plebware-mode-table tr{margin-bottom:1.25rem;padding:1rem;border:1px solid rgba(127,127,127,.28);border-radius:12px}.plebware-mode-table th,.plebware-mode-table td{padding:.35rem 0;border:0}.plebware-mode-table tbody th{min-width:0;font-size:1.2rem}.plebware-mode-table td::before{display:block;margin-bottom:.2rem;font-size:.85rem;font-weight:700;opacity:.7}.plebware-mode-table td:nth-child(2)::before{content:"Articles."}.plebware-mode-table td:nth-child(3)::before{content:"Latest Three Articles."}.plebware-mode-table td:nth-child(4)::before{content:"Last Updated."}.plebware-mode-table td:nth-child(5)::before{content:"Explore."}}
 </style>
