@@ -52,7 +52,13 @@ The information is generated automatically from the PlebWare article library, so
   {% assign article_count = mode_posts.size %}
   {% assign latest_post = mode_posts.first %}
   <tr>
-    <th scope="row"><a href="{{ '/' | append: mode_slug | append: '/' | relative_url }}">{{ mode_name }}</a></th>
+    <th scope="row">
+      {% if mode_slug == "everyday" %}
+        <a href="{{ '/' | relative_url }}">{{ mode_name }}</a>
+      {% else %}
+        <a href="{{ '/' | append: mode_slug | append: '/' | relative_url }}">{{ mode_name }}</a>
+      {% endif %}
+    </th>
     <td><strong>{{ article_count }}</strong></td>
     <td>
       {% if latest_post %}
@@ -75,7 +81,13 @@ The information is generated automatically from the PlebWare article library, so
         <small class="plebware-update-date">{{ latest_post.date | date: "%d %B %Y" }}</small>
       {% else %}—{% endif %}
     </td>
-    <td><a class="plebware-view-all" href="{{ '/' | append: mode_slug | append: '/' | relative_url }}">View All →</a></td>
+    <td>
+      {% if mode_slug == "everyday" %}
+        <a class="plebware-view-all" href="{{ '/' | relative_url }}">View All →</a>
+      {% else %}
+        <a class="plebware-view-all" href="{{ '/' | append: mode_slug | append: '/' | relative_url }}">View All →</a>
+      {% endif %}
+    </td>
   </tr>
 {% endfor %}
   </tbody>
