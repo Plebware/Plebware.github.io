@@ -31,7 +31,19 @@ Which turns your **Debian - XFCE** desktop into a smart, context‑aware environ
 {% include dashboard.html %}
 
 ---
+## 🔎 Find Something Useful.
 
+With hundreds of articles covering technology, creativity, practical life, writing, research, education and entertainment, there is plenty to explore.
+
+Use the navigation above or search the library.
+
+**[🔎 Search PlebWare →](/search/)**
+
+**[📚 Browse All Articles →](/all-posts/)**
+
+**[📊 View the 12-Mode Subcategory Dashboard →](/subcategory-dashboard/)**
+
+---
 ## 📰 Recent Articles.
 
 The PlebWare library is continually growing.
@@ -320,20 +332,6 @@ This vocabulary is important because the names describe relationships, not merel
 **[Explore the PlebWare Lexicon →](/about/the-plebware-lexicon/)**
 
 <!-- PLEBVOX:END -->
-
----
-
-## 🔎 Find Something Useful.
-
-With hundreds of articles covering technology, creativity, practical life, writing, research, education and entertainment, there is plenty to explore.
-
-Use the navigation above or search the library.
-
-**[🔎 Search PlebWare →](/search/)**
-
-**[📚 Browse All Articles →](/all-posts/)**
-
-**[📊 View the 12-Mode Subcategory Dashboard →](/subcategory-dashboard/)**
 
 ---
 
