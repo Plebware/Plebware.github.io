@@ -92,9 +92,10 @@ Here are the latest articles:
 
 ---
 
+<!-- PLEBVOX:START -->
+
 ## 👤 Plebware — The User.
 
-<!-- PLEBVOX:START -->
 .
 **Plebware** represents the ordinary human being.
 
@@ -178,7 +179,6 @@ The contributor list below is **generated automatically from the PlebWare GitHub
   gap: 1rem;
   margin: 1.5rem 0;
 }
-
 .plebware-contributor {
   display: flex;
   align-items: center;
@@ -188,65 +188,33 @@ The contributor list below is **generated automatically from the PlebWare GitHub
   border: 1px solid rgba(127, 127, 127, 0.25);
   background: rgba(127, 127, 127, 0.06);
 }
-
-.plebware-contributor img {
-  width: 58px;
-  height: 58px;
-  border-radius: 50%;
-  flex: 0 0 58px;
-}
-
-.plebware-contributor-name {
-  font-weight: 700;
-  margin: 0;
-}
-
-.plebware-contributor-count {
-  font-size: 0.85rem;
-  opacity: 0.75;
-  margin-top: 0.2rem;
-}
+.plebware-contributor img { width: 58px; height: 58px; border-radius: 50%; flex: 0 0 58px; }
+.plebware-contributor-name { font-weight: 700; margin: 0; }
+.plebware-contributor-count { font-size: 0.85rem; opacity: 0.75; margin-top: 0.2rem; }
 </style>
 
 <script>
 (function() {
   'use strict';
-
   const container = document.getElementById('plebware-contributors');
   if (!container) return;
-
   fetch('https://api.github.com/repos/Plebware/Plebware.github.io/contributors?per_page=12')
-    .then(function(response) {
-      if (!response.ok) throw new Error('GitHub API request failed');
-      return response.json();
-    })
+    .then(function(response) { if (!response.ok) throw new Error('GitHub API request failed'); return response.json(); })
     .then(function(contributors) {
-      const humanContributors = contributors.filter(function(contributor) {
-        return !contributor.type || contributor.type === 'User';
-      });
-
-      if (!humanContributors.length) {
-        throw new Error('No contributors found');
-      }
-
+      const humanContributors = contributors.filter(function(contributor) { return !contributor.type || contributor.type === 'User'; });
+      if (!humanContributors.length) throw new Error('No contributors found');
       container.innerHTML = humanContributors.map(function(contributor) {
         const name = contributor.login || 'PlebWare Contributor';
         const avatar = contributor.avatar_url;
         const profile = contributor.html_url;
         const count = contributor.contributions || 0;
-
         return '<a class="plebware-contributor" href="' + profile + '" target="_blank" rel="noopener noreferrer">' +
           '<img src="' + avatar + '" alt="GitHub avatar of ' + name + '" loading="lazy">' +
-          '<span>' +
-            '<span class="plebware-contributor-name">' + name + '</span>' +
-            '<span class="plebware-contributor-count">' + count + ' contribution' + (count === 1 ? '' : 's') + '</span>' +
-          '</span>' +
-        '</a>';
+          '<span><span class="plebware-contributor-name">' + name + '</span>' +
+          '<span class="plebware-contributor-count">' + count + ' contribution' + (count === 1 ? '' : 's') + '</span></span></a>';
       }).join('');
     })
-    .catch(function() {
-      container.innerHTML = '<p>GitHub contributor information is temporarily unavailable.</p>';
-    });
+    .catch(function() { container.innerHTML = '<p>GitHub contributor information is temporarily unavailable.</p>'; });
 })();
 </script>
 
@@ -274,6 +242,8 @@ PlebWare currently contains **12 knowledge modes**, covering hundreds of article
 | 💻 **Developer.**  | Linux, GitHub, scripting, automation and PlebMachine.                  |
 | 💰 **Accounting.** | Budgeting, spreadsheets, GNUCash, tax and financial organisation.      |
 | 🎮 **Leisure.**    | Games, entertainment, cooking, gardening and recreation.               |
+
+**[📊 Open the PlebWare Subcategory Dashboard →](/subcategory-dashboard/)**
 
 **Explore the knowledge modes using the navigation above.**
 
@@ -363,6 +333,8 @@ Use the navigation above or search the library.
 
 **[📚 Browse All Articles →](/all-posts/)**
 
+**[📊 View the 12-Mode Subcategory Dashboard →](/subcategory-dashboard/)**
+
 ---
 
 <!-- PLEBVOX:START -->
@@ -397,82 +369,30 @@ And creativity should not belong exclusively to people with expensive equipment,
 </div>
 
 <script>
-    // === UTTERANCES WITH DYNAMIC THEME ===
-    (function() {
-        'use strict';
-
-        let currentTheme = null;
-
-        function loadUtterances(theme) {
-            const container = document.getElementById('utterances-container');
-            if (!container) return;
-
-            // Clear container.
-            container.innerHTML = '';
-
-            // Create new script.
-            const script = document.createElement('script');
-            script.src = 'https://utteranc.es/client.js';
-            script.setAttribute('repo', 'plebware/plebware.github.io');
-            script.setAttribute('issue-term', 'pathname');
-            script.setAttribute('theme', theme);
-            script.setAttribute('crossorigin', 'anonymous');
-            script.async = true;
-
-            // Add to container.
-            container.appendChild(script);
-            currentTheme = theme;
-        }
-
-        function getTheme() {
-            const isDark = document.body.classList.contains('dark-theme');
-            return isDark ? 'github-dark' : 'github-light';
-        }
-
-        // Initialize on page load.
-        function init() {
-            const theme = getTheme();
-            loadUtterances(theme);
-        }
-
-        // Handle theme changes.
-        function onThemeChange() {
-            const newTheme = getTheme();
-
-            if (newTheme !== currentTheme) {
-                loadUtterances(newTheme);
-            }
-        }
-
-        // Listen for theme changes via custom event.
-        document.addEventListener('themeChanged', onThemeChange);
-
-        // Also listen for class changes as backup.
-        const observer = new MutationObserver(function(mutations) {
-            mutations.forEach(function(mutation) {
-                if (mutation.attributeName === 'class') {
-                    onThemeChange();
-                }
-            });
-        });
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', function() {
-                init();
-
-                observer.observe(document.body, {
-                    attributes: true,
-                    attributeFilter: ['class']
-                });
-            });
-        } else {
-            init();
-
-            observer.observe(document.body, {
-                attributes: true,
-                attributeFilter: ['class']
-            });
-        }
-
-    })();
+(function() {
+    'use strict';
+    let currentTheme = null;
+    function loadUtterances(theme) {
+        const container = document.getElementById('utterances-container');
+        if (!container) return;
+        container.innerHTML = '';
+        const script = document.createElement('script');
+        script.src = 'https://utteranc.es/client.js';
+        script.setAttribute('repo', 'plebware/plebware.github.io');
+        script.setAttribute('issue-term', 'pathname');
+        script.setAttribute('theme', theme);
+        script.setAttribute('crossorigin', 'anonymous');
+        script.async = true;
+        container.appendChild(script);
+        currentTheme = theme;
+    }
+    function getTheme() { return document.body.classList.contains('dark-theme') ? 'github-dark' : 'github-light'; }
+    function init() { loadUtterances(getTheme()); }
+    function onThemeChange() { const newTheme = getTheme(); if (newTheme !== currentTheme) loadUtterances(newTheme); }
+    document.addEventListener('themeChanged', onThemeChange);
+    const observer = new MutationObserver(function(mutations) { mutations.forEach(function(mutation) { if (mutation.attributeName === 'class') onThemeChange(); }); });
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() { init(); observer.observe(document.body, { attributes: true, attributeFilter: ['class'] }); });
+    } else { init(); observer.observe(document.body, { attributes: true, attributeFilter: ['class'] }); }
+})();
 </script>
