@@ -186,15 +186,17 @@ This is what **living ahead of your means** actually looks like when you have no
 * **Total Savings:** R23.00
 * **Total Amount:** R993.88
 
-Compared to last month
+### **Compared to last month**
 
-| Product Detail | Price (per item) | Total |
+| Item Description | Quantity | Price |
 | :--- | :--- | :--- |
-| Selati White Sugar 5kg<br>Qty 1 | R 139.99 | R 139.99 |
-| Whiskas Fish Selection In Jelly 12 x 85g<br>Qty 1<br>**Now R129.99** | R 179.99 | R 179.99<br>- R 50.00 |
-| Whiskas Fish Flavoured Adult Dry Cat Food 900g<br>Qty 1 | R 124.99 | R 124.99 |
+| Selati White Sugar 5kg | Qty 1 | R 139.99 |
+| Whiskas Fish Selection In Jelly 12 x 85g | Qty 1 | R 129.99 |
+| Whiskas Fish Flavoured Adult Dry Cat Food 900g | Qty 1 | R 124.99 | 
 | **Product sub-total** | | **R 394.97** |
 | **Delivery fee** | | **R 37.00** |
 | **Total** | | **R 431.97** |
+
+Sauces and Black Pepper are items that will last a while and won't need reordering for a few months
 
 <!-- PLEBVOX:END -->
