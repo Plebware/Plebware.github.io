@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Stretching The Porterhouse Steak"
-date: 2026-07-13
+date: 2026-09-14
 category: "home-cooking"
-tags: [porterhouse, scorpian, supper for two, tasty meal, garlic, budget meal, PlebChow]
+tags: [porterhouse, scorpion, supper for two, tasty meal, garlic, budget meal, PlebChow]
 mode: "everyday"
 author: Otto Brinkmeier
 ---
