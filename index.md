@@ -48,11 +48,11 @@ Use the navigation above or search the library.
 
 The PlebWare library is continually growing.
 
-Here are the latest articles:
+The catalogue below shows the **12 most recent published articles across all PlebWare modes**, including Everyday.
 
 {% assign recent_posts = site.posts | sort: 'date' | reverse %}
 
-{% for post in recent_posts limit: 8 %}
+{% for post in recent_posts limit: 12 %}
 
 ### {{ post.title }}.
 
