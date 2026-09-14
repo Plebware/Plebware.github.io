@@ -4,6 +4,9 @@ title: "The Conference Table — Three Voices, One PlebWare Story."
 date: 2026-09-14
 author: "News"
 ---
+<img src="/assets/images/conference.webp"
+     alt="A detailed, full-colour cartoon illustration, rendered in a modern comic-book style with rich colours and confident linework"
+     style="max-width: 100%; height: auto;">
 
 <!-- PLEBVOX:START -->
 
