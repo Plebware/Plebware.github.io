@@ -7,11 +7,11 @@ tags: [difficult times, financial hardship, thirst, no coffee, caffeine withdraw
 mode: "author"
 author: Otto Brinkmeier
 ---
-```
+
 <img src="/assets/images/brinkmeier.webp"
      alt="Brinkmeier - Coat of Arms, living on the brink of the pasture"
      style="max-width: 100%; height: auto;">
-```
+
 <!-- PLEBVOX:START -->
 
 # **Living Ahead Of Your Means.**
@@ -32,11 +32,11 @@ Bold statements, I know.
 
 But there is a thread of truth running through them. Unless things change, and human beings become more concerned with building a sustainable future rather than simply consuming everything available to them, things are unlikely to get much better.
 
-\<!-- PLEBVOX:END -->
+<!-- PLEBVOX:END -->
 
 ***
 
-\<!-- PLEBVOX:START -->
+<!-- PLEBVOX:START -->
 
 ## **You Will Own Nothing And Be Happy.**
 
@@ -102,11 +102,11 @@ But there is an important question hiding underneath it.
 
 **What happens when "not owning anything" is not a lifestyle choice, but simply the reality of being poor?**
 
-\<!-- PLEBVOX:END -->
+<!-- PLEBVOX:END -->
 
 ***
 
-\<!-- PLEBVOX:START -->
+<!-- PLEBVOX:START -->
 
 ## **Borrowing From TymeBank To Live.**
 
@@ -164,4 +164,4 @@ And if you are a habitual coffee drinker, you discover just how spectacular a **
 
 This is what **living ahead of your means** actually looks like when you have no other options.
 
-\<!-- PLEBVOX:END -->
+<!-- PLEBVOX:END -->
