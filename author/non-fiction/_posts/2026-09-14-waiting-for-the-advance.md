@@ -8,7 +8,7 @@ mode: "author"
 author: Otto Brinkmeier
 ---
 
-<img src="/assets/images/brinkmeier.webp"
+<img src="/assets/images/Brinkmeier.webp"
      alt="Brinkmeier - Coat of Arms, living on the brink of the pasture"
      style="max-width: 100%; height: auto;">
 
