@@ -165,3 +165,36 @@ And if you are a habitual coffee drinker, you discover just how spectacular a **
 This is what **living ahead of your means** actually looks like when you have no other options.
 
 <!-- PLEBVOX:END -->
+----
+<!-- PLEBVOX:START -->
+## The Checkers Sixty60 Shopping List
+
+| Item Description | Quantity | Price |
+| :--- | :---: | :---: |
+| **Selati White Sugar 5kg** | 1 | R139.99 |
+| **Portuguese Rolls 6s** | 3 | R68.97 |
+| **ALL GOLD Tomato Sauce Bottle 700ml** *(Saved R8.00)* | 1 | R34.99 |
+| **Qualifresh Crushed Garlic 250g** | 1 | R29.99 |
+| **Royal Black Pepper Spice Refill 200g** | 1 | R89.99 |
+| **TABASCO Scorpion Pepper Sauce 60ml** | 1 | R79.99 |
+| **Eskort Smoked Viennas 1kg** *(Saved R15.00)* | 1 | R64.99 |
+| **Whiskas Fish Selection In Jelly 12 x 85g** | 1 | R179.99 |
+| **Whiskas Fish Flavoured Adult Dry Cat Food 900g** | 1 | R124.99 |
+| **NESCAFÉ RICOFFY Soluble Chicory & Coffee Granules Refill 800g** | 1 | R179.99 |
+
+## Summary
+* **Total Savings:** R23.00
+* **Total Amount:** R993.88
+
+Compared to last month
+
+| Product Detail | Price (per item) | Total |
+| :--- | :--- | :--- |
+| Selati White Sugar 5kg<br>Qty 1 | R 139.99 | R 139.99 |
+| Whiskas Fish Selection In Jelly 12 x 85g<br>Qty 1<br>**Now R129.99** | R 179.99 | R 179.99<br>- R 50.00 |
+| Whiskas Fish Flavoured Adult Dry Cat Food 900g<br>Qty 1 | R 124.99 | R 124.99 |
+| **Product sub-total** | | **R 394.97** |
+| **Delivery fee** | | **R 37.00** |
+| **Total** | | **R 431.97** |
+
+<!-- PLEBVOX:END -->
