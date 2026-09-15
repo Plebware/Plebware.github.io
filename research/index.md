@@ -3,11 +3,10 @@ layout: post
 title: "Research - Digital Research Tools & Knowledge Management"
 date: 2026-07-13
 category: "research"
-tags: [christian-research, linux-research, plebmachine-research, web-browser, gemini-notebook, tech-research, well-being, sustainability,]
+tags: [christian-research, linux-research, plebmachine-research, web-browser, gemini-notebook, tech-research, digital-literacy, well-being, sustainability]
 mode: "research"
 author: Otto Brinkmeier
 ---
-
 
 # 🔬 Research Mode
 
@@ -68,6 +67,16 @@ author: Otto Brinkmeier
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
   <li>No tech research posts yet.</li>
+{% endfor %}
+</ul>
+
+## Digital Literacy
+<ul>
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'research/digital-literacy/'" %}
+{% for post in posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
+{% else %}
+  <li>No Digital Literacy research posts yet.</li>
 {% endfor %}
 </ul>
 
