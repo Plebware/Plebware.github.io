@@ -6,6 +6,7 @@ plugins:
   - jekyll-remote-theme
 
 # Force Pages rebuild after theme typography update — 2026-09-16
+# Force Pages rebuild after IQ article and navigation theme updates — 2026-09-16
 remote_theme: Plebware/pleb-theme
 
 future: true
