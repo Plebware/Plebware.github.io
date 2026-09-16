@@ -5,6 +5,7 @@ repository: Plebware/Plebware.github.io   # ← Add this line
 plugins:
   - jekyll-remote-theme
 
+# Force Pages rebuild after theme typography update — 2026-09-16
 remote_theme: Plebware/pleb-theme
 
 future: true
