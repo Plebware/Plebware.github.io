@@ -4,7 +4,7 @@ title: "News Section Updated"
 date: 2026-09-16
 ---
 <!-- PLEBVOX:START -->
- ,,
+
 On 2026-06-09, I added this **News Section** under **Author**. 
 
 From now on, I'll be able to post daily or periodic updates about site changes, fixes, and development notes.
@@ -23,6 +23,10 @@ Basically, anything noteworthy. I did attain a **Diploma in Journalism** during 
   
 <!-- PLEBVOX:END -->
 ------
+<img src="/assets/images/captain-gemini.webp"
+     alt="Character Transfer - Captain Cody Gemini has been transferred from author's site to PlebWare"
+     style="max-width: 100%; height: auto;">
+
 <!-- PLEBVOX:START -->
 
 ## **🪖 PlebWare News Command**
