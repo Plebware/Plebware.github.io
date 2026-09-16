@@ -10,6 +10,7 @@ plugins:
 # Force Pages rebuild after primary navigation width fix — 2026-09-16
 # Force Pages rebuild after two-column mobile navigation update — 2026-09-16
 # Force Pages rebuild after mobile navigation text sizing update — 2026-09-16
+# Force Pages rebuild after left-align navigation update — 2026-09-16
 remote_theme: Plebware/pleb-theme
 
 future: true
