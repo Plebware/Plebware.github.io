@@ -12,8 +12,6 @@ author: Otto Brinkmeier
 
 # 🧠 IQ Tests, Intelligence and the Curious Human Mind
 
-<!-- PLEBVOX:END -->
-
 There is something fascinating about an IQ test.
 
 You sit down, answer a series of questions, solve some patterns, work out some numbers, and eventually a number appears on the screen.
@@ -26,11 +24,11 @@ An IQ score is a measurement from a particular test, under particular conditions
 
 So let's have a little fun with it.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🧩 Three IQ Tests Worth Exploring
-
-<!-- PLEBVOX:END -->
 
 ### 🔬 Open Psychometrics — Full Scale IQ Test
 
@@ -56,11 +54,11 @@ Mensa's online challenge consists of 35 puzzles with a 25-minute limit. Mensa sp
 
 It also makes an interesting point: people can receive different scores when taking the same test at different times. Factors such as tiredness, hunger and mood can affect performance.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🧠 Why Your IQ Score Isn't the Whole Story
-
-<!-- PLEBVOX:END -->
 
 An IQ score is best thought of as **a measurement of performance on a particular kind of cognitive test**.
 
@@ -84,11 +82,11 @@ A person can be extremely capable in real life without having an extraordinary I
 
 And someone who performs brilliantly on a test still has plenty of things left to learn.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🔄 Why Taking the Same IQ Test Again Can Be Problematic
-
-<!-- PLEBVOX:END -->
 
 This is where things get particularly interesting.
 
@@ -113,11 +111,11 @@ That doesn't make the exercise useless.
 
 It simply means we should be careful about interpreting the number.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 👴 Does Intelligence Change As We Get Older?
-
-<!-- PLEBVOX:END -->
 
 Age is another reason to be cautious about treating a single IQ score as a permanent label.
 
@@ -131,11 +129,11 @@ And there is another important point:
 
 Life experience itself gives us forms of knowledge and problem-solving ability that a twenty-minute online puzzle cannot possibly measure.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 👦 Why IQ Tests Can Be Useful When You're Young
-
-<!-- PLEBVOX:END -->
 
 There is a positive side to these tests.
 
@@ -163,11 +161,11 @@ you might say:
 
 That's a much healthier way of looking at learning.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🚀 Can We Become More Intelligent?
-
-<!-- PLEBVOX:END -->
 
 Here I will make a distinction between **what the evidence tells us** and **what I personally believe**.
 
@@ -197,11 +195,11 @@ Whether that should be described as "raising your IQ" is a much more complicated
 
 But **becoming a better learner is unquestionably worthwhile.**
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🎯 The PlebWare IQ Challenge
-
-<!-- PLEBVOX:END -->
 
 So here's the challenge.
 
@@ -227,11 +225,11 @@ The objective isn't to prove that you're clever.
 
 The objective is to **keep becoming cleverer.**
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## ⚠️ One Last Warning
-
-<!-- PLEBVOX:END -->
 
 Online IQ tests are fun, interesting and potentially educational.
 
@@ -259,11 +257,11 @@ Because the most interesting intelligence test is probably the one we take every
 
 **What did I learn today that I didn't know yesterday?**
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🔗 The Three Tests
-
-<!-- PLEBVOX:END -->
 
 - [Open Psychometrics — Full Scale IQ Test](https://openpsychometrics.org/tests/FSIQ/)
 - [Advanced IQ Test](https://advancediqtest.com/)
@@ -273,14 +271,16 @@ Because the most interesting intelligence test is probably the one we take every
 
 *PlebWare Everyday Well-being — learning is a lifelong exercise.*
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 💭 A PlebWare Thought
-
-<!-- PLEBVOX:END -->
 
 **Your IQ may be a number.
 
 Your curiosity is a choice.
 
 Keep choosing curiosity.**
+
+<!-- PLEBVOX:END -->
