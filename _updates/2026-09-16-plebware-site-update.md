@@ -32,9 +32,23 @@ The new **Digital Literacy** section has already received its first article: *Th
 
 ## 🧭 Navigation Has Been Reworked.
 
-The site's secondary navigation has been organised around a four-item-per-row layout on larger screens. The Research navigation now fits neatly into three rows of four categories rather than leaving an awkward single item on its own line.
+The site's main navigation has been rebuilt to make the twelve PlebWare modes easier to read and use across desktop, laptop, tablet and phone screens. The primary modes now use the available page width more effectively, while smaller screens use a simple two-column layout rather than squeezing the categories into narrow boxes.
+
+The secondary navigation has also been simplified. Instead of permanently taking up space on every page, each section now has its own full-width **Sections** button. Selecting it opens that section's categories underneath, with the button changing to **Close Sections** while the menu is open. The same approach is used consistently across the PlebWare modes.
 
 The PlebWare theme remains the central source for the site's navigation and presentation, allowing these changes to be applied consistently rather than being maintained separately on individual pages.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🔊 PlebVox Highlighting Has Been Improved.
+
+The PlebVox text-to-speech system has also received structural attention. The previous visual highlighting could follow individual words, which created unnecessary visual activity and could lag behind the spoken voice on some devices.
+
+The highlighting system is now being moved to **paragraph-level highlighting**. Instead of constantly changing the highlighted word, PlebVox can highlight the paragraph currently being read. This reduces visual churn while making it easier for a reader to follow the spoken passage.
+
+The underlying speech engine remains responsible for the reading itself, while the new paragraph highlighting layer provides a simpler visual guide. The result is intended to be lighter, clearer and better suited to both desktop and mobile use.
 
 <!-- PLEBVOX:END -->
 
