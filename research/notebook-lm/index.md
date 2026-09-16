@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Notebook LM Research
+title: Gemini Notebook Research
 ---
 
-# 📓 Notebook LM Research
+# 📓 Gemini Notebook Research
 
-Exploring Google's Notebook LM for research, note-taking, and knowledge management.
+Exploring Google's Gemini Notebook (formerly NotebookLM) for research, note-taking, and knowledge management.
 
 <ul>
 {% assign posts = site.posts | where_exp: "post", "post.path contains 'research/notebook-lm/'" %}
 {% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
-  <li>No Notebook LM posts yet.</li>
+  <li>No Gemini Notebook research posts yet.</li>
 {% endfor %}
 </ul>
