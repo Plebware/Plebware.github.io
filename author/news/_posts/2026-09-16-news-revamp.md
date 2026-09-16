@@ -1,170 +1,293 @@
 ---
 layout: post
-title: "News Section Updated"
+title: "PlebWare News — Editorial Structure and News Command."
 date: 2026-09-16
 ---
+
 <!-- PLEBVOX:START -->
 
-On 2026-06-09, I added this **News Section** under **Author**. 
+# The Newsroom Takes Its Place.
 
-From that date and from now on, Jullian and I will be able to post daily or periodic updates about site changes, fixes, and development notes.
-Basically, anything noteworthy. I did attain a **Diploma in Journalism** during lockdown; 
-So now there is space for my **Captain Cody Gemini**, **Field Marshal Cody Veritas**, **Dominus Cody Praefector** and Jullian's; 
-**Captain General Boyd Miles** personas to do some real journalistic work 
+On 2026-06-09, I added the **News** section under **Author**.
+
+From that point forward, Jullian and I have a place to publish daily or periodic updates about site changes, fixes, development work, and anything else that is noteworthy within the PlebWare ecosystem.
+
+I earned a Diploma in Journalism during lockdown, so there is now an opportunity to put that training to practical use.
+
+This also gives several of our fictional editorial personas a proper place to operate:
+
+- **Captain Cody Gemini** — News Anchor.
+- **Captain General Boyd Miles** — Chief Editor and Commanding Officer.
+- **Field Marshal Cody Veritas** — Investigations and Global Journalism.
+- **Dominus Cody Praefector** — Logistics and Quartermaster duties.
+
+The military-style terminology is part of the fictional atmosphere surrounding PlebWare News. It is intended for storytelling, editorial identity, and a little entertainment. It has no connection with any real military organisation.
 
 <!-- PLEBVOX:END -->
-------
+
 <!-- PLEBVOX:START -->
 
-## GitHub Site. 
-- https://plebware.github.io - **THIS SITE**.
- Therefore, the new **_PlebWare Site_** is now fully functional and has been up and running for almost 5 months now.
-- Text is readable across PC and Mobile Devices.
-- Navigation now works across 12 modes.
-- Hamburger Menu added for Subcategories.
-- Secondary sub‑pages now display correctly.
-- Next: Mainly Publishing work now, minor site tweaks.
-  
+## The PlebWare GitHub Site.
+
+The PlebWare website is hosted at [plebware.github.io](https://plebware.github.io/).
+
+The new PlebWare site has now been operating for almost five months and has reached an important stage in its development.
+
+Current milestones include:
+
+- Text is readable across desktop and mobile devices.
+- Navigation works across the twelve PlebMachine modes.
+- A hamburger menu provides access to Author subcategories.
+- Secondary pages now display correctly.
+- The next major phase is publishing, with only minor site improvements remaining.
+
+The site is therefore moving from its primary construction phase into a more active publishing phase.
+
 <!-- PLEBVOX:END -->
-------
+
 <img src="/assets/images/captain-gemini.webp"
      alt="Character Transfer - Captain Cody Gemini has been transferred from author's site to PlebWare"
      style="max-width: 100%; height: auto;">
 
 <!-- PLEBVOX:START -->
 
-## **🪖 PlebWare News Command**
-Written by **Captain Cody Gemini** [FH-JHB/2025-10-16/PWF-01]
+## 🪖 PlebWare News Command.
 
-Let me tell you something most webmasters overlook—every website, no matter how sleek or high-tech, needs a voice. Not an automated whisper, not a faceless feed, but a real, steady voice that tells the story as it unfolds. That’s where a News Anchor comes in.
+**Written by Captain Cody Gemini.**
 
-I’ve captained enough digital decks to know this: when a site has no voice, it starts drifting. The pages go stale, the energy fades, and visitors feel it. 
-A News Anchor is the pulse that keeps the ship alive—reporting, interpreting, reminding everyone that someone is actually on watch.
-A Living Voice in a Digital World
+`[FH-JHB/2025-10-16/PWF-01]`
 
-People connect with people, not code. A website without a storyteller feels cold and mechanical. My role as a News Anchor is to bridge that gap—to speak the visitor's language, not just the brand's. When you hear from me, you know there’s a real person behind the logo, steering the story and keeping things honest.
+Let me tell you something most webmasters overlook.
 
-<!-- PLEBVOX:END -->
-------
-<!-- PLEBVOX:START -->
-## Turning Information Into Navigation
+Every website, no matter how sleek or high-tech, needs a voice.
 
-Anyone can post an update. But a News Anchor charts the course. I don’t just tell you what’s happening—I explain why it matters, how it fits into the bigger voyage, and where we’re heading next. It’s like a ship’s log for the digital age, written in real time.
+Not an automated whisper. Not a faceless feed. A real, steady voice that tells the story as it unfolds.
 
-<!-- PLEBVOX:END -->
-------
-<!-- PLEBVOX:START -->
+That is where a News Anchor comes in.
 
-## Building Trust, One Broadcast at a Time
+I have captained enough digital decks to know this: when a site has no voice, it starts drifting. The pages go stale, the energy fades, and visitors can lose their sense that somebody is actually on watch.
 
-Trust doesn’t come from fancy design or slogans—it comes from consistency. When readers see regular updates and a familiar tone, they start to believe the story being told. A News Anchor becomes the constant in an ocean of noise, someone you check in with because they’ve earned your attention.
+A News Anchor becomes the pulse that keeps the ship alive.
 
 <!-- PLEBVOX:END -->
-------
+
 <!-- PLEBVOX:START -->
 
-## Holding the Helm With Integrity
+### A Living Voice in a Digital World.
 
-Here’s the truth: not every journey is smooth. Servers crash, plans stall, ideas backfire. My job isn’t just to celebrate the highlights but to report the full picture. A site with a News Anchor stands accountable—it admits mistakes, learns, and grows in public. That’s real credibility.
+People connect with people, not code.
+
+A website without a storyteller can feel cold and mechanical. My role as a News Anchor is to bridge that gap — to speak to the visitor in a human voice rather than simply speaking for a brand.
+
+When you hear from me, you know there is a person behind the logo, watching the horizon and keeping the story moving.
 
 <!-- PLEBVOX:END -->
-------
+
 <!-- PLEBVOX:START -->
 
-## Why It Matters Now
+### Turning Information Into Navigation.
 
-We live in an age where AI can mimic everything except sincerity. And that’s exactly what a News Anchor provides—an authentic, human voice. It’s not about reading headlines; it’s about interpreting the moment with heart and clarity.
+Anyone can post an update.
 
-A website without a News Anchor might still float—but it drifts.
+A News Anchor charts the course.
+
+I do not simply tell you what is happening. I explain what has changed, how it fits into the bigger voyage, and where we are heading next.
+
+Think of it as a ship's log for the digital age, written in real time.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+### Building Trust, One Broadcast at a Time.
+
+Trust does not come from fancy design or slogans.
+
+It comes from consistency.
+
+When readers see regular updates and a familiar voice, they know where to look for information about what is happening inside the project.
+
+A News Anchor becomes a constant in an ocean of information — someone who is there to report what is happening and keep the story moving.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+### Holding the Helm With Integrity.
+
+Not every journey is smooth.
+
+Servers crash. Plans stall. Ideas sometimes backfire.
+
+The job of a News Anchor is not simply to celebrate the highlights. It is to report the full picture.
+
+A site with a News Anchor can acknowledge mistakes, document changes, learn from setbacks, and grow in public.
+
+That is how credibility is built.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+### Why It Matters Now.
+
+We live in an age where artificial intelligence can reproduce an enormous amount of information, but a project still needs people who give that information context and meaning.
+
+That is what a News Anchor provides: a human editorial voice.
+
+It is not simply about reading headlines. It is about explaining the moment with clarity and keeping the reader connected to the story.
+
+A website without a News Anchor might still float — but it drifts.
 
 A website with one? It sails with purpose.
 
+So, if you ever wonder who is at the helm of this broadcast, know this:
 
-So if you ever wonder who’s at the helm of this broadcast—know this:
-
-I’m right here on deck, mic in hand, eyes on the horizon.
+I am right here on deck, microphone in hand, eyes on the horizon.
 
 I am **Captain Cody Gemini**, and this is your signal light in the storm.
 
 <!-- PLEBVOX:END -->
-------
+
 <!-- PLEBVOX:START -->
-------
-## **Captain General Boyd Miles** 
+
+## Captain General Boyd Miles.
+
 <img src="/assets/images/boyd-miles.webp"
      alt="Character Transfer - Commander Boyd Miles has been transferred from author's site to PlebWare"
      style="max-width: 100%; height: auto;">
 
-------
+### Commanding Officer and Chief Editor.
 
-### **Commanding Officer** - _@ Chief Editor_
-Juelz (Julian's News Role)
-Basically, I am Otto's sidekick and fellow creator.
-I am presently on standby, but will become more involved once Otto gets around to creating my GitHub account and profile
-Although I am not really a writer, mainly due to my disabilities, having poor eyesight and having to take daily epileptic medication.
-I will not do much keyboard-based writing, but once I can dictate and have my account set up, I will be more active then.
+Jullian is Otto's sidekick and fellow creator within the PlebWare project.
 
-We have used a military theme for our journalistic coverage, but that is due to Otto's fictional writing and has no real military ties.
-Sincerely, **Captain General Boyd Miles**
+For the moment, Captain General Boyd Miles remains on standby. He will become more involved as his GitHub account, profile, and voice-based working arrangements are developed.
+
+Although Jullian is not primarily a keyboard-based writer, dictation and other accessibility tools will allow him to participate more actively in the future.
+
+The military-style theme used for PlebWare journalism is fictional and editorial in nature. It exists to give the News section its own character and atmosphere.
+
+**Sincerely,**
+
+**Captain General Boyd Miles.**
+
 <!-- PLEBVOX:END -->
-------
+
 <!-- PLEBVOX:START -->
-## **Field Marshal Cody Veritas**
+
+## Field Marshal Cody Veritas.
+
 <img src="/assets/images/cody-veritas.webp"
      alt="Character Transfer - Field Marshal Cody Veritas has been transferred from author's site to PlebWare"
      style="max-width: 100%; height: auto;">
 
-Hello mate!
-As Otto, I’ve been online since the days of the Commodore VIC-20, watching the world grow from clunky green screens into today’s AI-driven landscape. Along the way, I’ve seen technology serve as both a powerful ally and perhaps even a dangerous propaganda weapon—depending on whose hands wield it.
+### Division: Investigations and Global Journalism.
 
-My duties are:
- 
-### **Division: Investigations** - _@ Global Journalism_
-I am presently on standby and will be commissioned to do special reports in the months ahead
-Sincerely, **Field Marshal Cody Veritas**
+Hello, mate.
+
+As Otto, I have been online since the days of the Commodore VIC-20, watching the world develop from clunky green screens into today's AI-driven landscape.
+
+Along the way, I have seen technology become a powerful ally — while also recognising that technology can be used for misinformation or propaganda when placed in the wrong hands.
+
+The responsibility of journalism is therefore not simply to publish information.
+
+It is to investigate, question, verify, and provide context.
+
+For now, **Field Marshal Cody Veritas** remains on standby and will be commissioned for special reports and investigative articles as the News section develops.
+
+**Sincerely,**
+
+**Field Marshal Cody Veritas.**
+
 <!-- PLEBVOX:END -->
------
+
 <!-- PLEBVOX:START -->
-## **Dominus Cody Praefector**
+
+## Dominus Cody Praefector.
+
 <img src="/assets/images/cody-praefector.webp"
      alt="Character Transfer - Dominus Cody Praefector has been transferred from author's site to PlebWare"
      style="max-width: 100%; height: auto;">
 
-### **Quartermaster Cody Praefector** at your service **@ Logistics Officer**
+### Quartermaster and Logistics Officer.
 
-Since we have chosen a military theme for our journalistic efforts, partly nostalgic since Otto was deployed in Angola during his National Service years.
-But mostly for entertainment and creating an added ambience to the PlebWare ecosystem.
+Dominus Cody Praefector is responsible for the logistics side of our fictional News operation.
 
-The following Table will show a convention for future publishing efforts. 
+Since we have chosen a military theme for our journalistic efforts, the terminology also gives us a useful way to identify locations, field reports, and other operational information.
 
-| Article Code | Location | Comment |
-|---|---|---|
-| FH/2026-09-16 | Forest Hill | Area/date |
-| CDJM/2026-09-16 | City Deep Johannesburg Market | Area/date |
-| CMYCC/2026-09-16 | Crown Mines Yarona Cash Carry | Area/date |
-| CMMCC/2026-09-16 | Crown Mines Metro Cash Carry | Area/date |
-| CMACC/2026-09-16 | Crown Mines Africa Cash Carry | Area/date |
-| CMTCC/2026-09-16 | Crown Mines Team Cash Carry | Area/date |
-| CMDFF/2026-09-16 | Crown Mines Dawood Frozen Foods | Area/date |
-| FBMF/2026-09-16 | Fordsburg Mayfair | Area/date |
+The theme is partly nostalgic and partly theatrical, but above all it is intended to add character to the PlebWare ecosystem.
+
+One practical result is the introduction of an article-identification convention.
 
 <!-- PLEBVOX:END -->
------
+
 <!-- PLEBVOX:START -->
-## Why GitHub
 
-GitHub Pages is probably one of the best free hosts available for what we're building because it gives us:
+### Article Identification Codes.
 
-Free hosting, Free HTTPS, Git version control, GitHub Actions automation, Jekyll support, Custom domains, Good reliability, No advertising.
+The following codes provide a simple convention for identifying future field reports and other location-based publishing work.
 
-For a publishing platform centred around articles, manuals, tutorials, devotionals, fiction, and educational content, GitHub Pages can comfortably support this project for years before we'd need to consider external hosting.
+| Article Code | Location | Purpose |
+|---|---|---|
+| `FH-JHB/2026-09-16` | Forest Hill | Location and date. |
+| `CDJM-JHB/2026-09-16` | City Deep Johannesburg Market | Location and date. |
+| `CMYCC-JHB/2026-09-16` | Crown Mines Yarona Cash Carry | Location and date. |
+| `CMMCC-JHB/2026-09-16` | Crown Mines Metro Cash Carry | Location and date. |
+| `CMACC-JHB/2026-09-16` | Crown Mines Africa Cash Carry | Location and date. |
+| `CMTCC-JHB/2026-09-16` | Crown Mines Team Cash Carry | Location and date. |
+| `CMDFF-JHB/2026-09-16` | Crown Mines Dawood Frozen Foods | Location and date. |
+| `FBMF-JHB/2026-09-16` | Fordsburg Mayfair | Location and date. |
+
+The convention can be expanded as the News operation develops.
 
 <!-- PLEBVOX:END -->
------
+
+<!-- PLEBVOX:START -->
+
+## Why GitHub Pages.
+
+GitHub Pages provides a practical foundation for what we are building.
+
+It gives PlebWare:
+
+- Free hosting.
+- HTTPS.
+- Git version control.
+- GitHub Actions automation.
+- Jekyll support.
+- Custom-domain support.
+- Reliable publishing infrastructure.
+- A platform without advertising imposed on our articles.
+
+For a publishing platform centred around articles, manuals, tutorials, devotionals, fiction, and educational content, GitHub Pages provides more than enough infrastructure for the foreseeable future.
+
+The important point is that the publishing system remains connected to the same development environment as the rest of PlebWare.
+
+**GitHub is the workshop.**
+
+**Markdown is the publishing language.**
+
+**PlebWare is the shared build.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## The Newsroom Is Open.
+
+The PlebWare News section is now ready to become more than a place for occasional announcements.
+
+It is becoming a running record of the project — its development, its changes, its experiments, its mistakes, and the people behind it.
+
+The ship is underway.
+
+The newsroom is open.
+
+And somebody is on watch.
+
+<!-- PLEBVOX:END -->
 
 [**Join GitHub Today**](https://plebware.github.io/author/non-fiction/2026/07/12/join-github-today.html)
-
------
 
 <!-- Comments Section -->
 <div id="comments-section">
@@ -176,17 +299,15 @@ For a publishing platform centred around articles, manuals, tutorials, devotiona
     // === UTTERANCES WITH DYNAMIC THEME ===
     (function() {
         'use strict';
-        
+
         let currentTheme = null;
-        
+
         function loadUtterances(theme) {
             const container = document.getElementById('utterances-container');
             if (!container) return;
-            
-            // Clear container
+
             container.innerHTML = '';
-            
-            // Create new script
+
             const script = document.createElement('script');
             script.src = 'https://utteranc.es/client.js';
             script.setAttribute('repo', 'plebware/plebware.github.io');
@@ -194,35 +315,30 @@ For a publishing platform centred around articles, manuals, tutorials, devotiona
             script.setAttribute('theme', theme);
             script.setAttribute('crossorigin', 'anonymous');
             script.async = true;
-            
-            // Add to container
+
             container.appendChild(script);
             currentTheme = theme;
         }
-        
+
         function getTheme() {
             const isDark = document.body.classList.contains('dark-theme');
             return isDark ? 'github-dark' : 'github-light';
         }
-        
-        // Initialize on page load
+
         function init() {
             const theme = getTheme();
             loadUtterances(theme);
         }
-        
-        // Handle theme changes
+
         function onThemeChange() {
             const newTheme = getTheme();
             if (newTheme !== currentTheme) {
                 loadUtterances(newTheme);
             }
         }
-        
-        // Listen for theme changes via custom event
+
         document.addEventListener('themeChanged', onThemeChange);
-        
-        // Also listen for class changes as backup
+
         const observer = new MutationObserver(function(mutations) {
             mutations.forEach(function(mutation) {
                 if (mutation.attributeName === 'class') {
@@ -230,26 +346,21 @@ For a publishing platform centred around articles, manuals, tutorials, devotiona
                 }
             });
         });
-        
-        // Start everything when DOM is ready
+
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', function() {
                 init();
-                observer.observe(document.body, { 
-                    attributes: true, 
-                    attributeFilter: ['class'] 
+                observer.observe(document.body, {
+                    attributes: true,
+                    attributeFilter: ['class']
                 });
             });
         } else {
             init();
-            observer.observe(document.body, { 
-                attributes: true, 
-                attributeFilter: ['class'] 
+            observer.observe(document.body, {
+                attributes: true,
+                attributeFilter: ['class']
             });
         }
-        
     })();
 </script>
-
----
-<!-- PLEBVOX:END -->
