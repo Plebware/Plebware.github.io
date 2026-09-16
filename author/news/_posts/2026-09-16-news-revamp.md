@@ -99,6 +99,13 @@ I am **Captain Cody Gemini**, and this is your signal light in the storm.
 
 ### **Commanding Officer** - _@ Chief Editor_
 Juelz (Julian's News Role)
+Basically, I am Otto's sidekick and fellow creator.
+I am presently on standby, but will become more involved once Otto gets around to creating my GitHub account and profile
+Although I am not really a writer, mainly due to my disabilities, having poor eyesight and having to take daily epileptic medication.
+I will not do much keyboard-based writing, but once I can dictate and have my account set up, I will be more active then.
+
+We have used a military theme for our journalistic coverage, but that is due to Otto's fictional writing and has no real military ties.
+Sincerely, **Captain General Boyd Miles**
 <!-- PLEBVOX:END -->
 ------
 <!-- PLEBVOX:START -->
@@ -107,11 +114,42 @@ Juelz (Julian's News Role)
      alt="Character Transfer - Field Marshal Cody Veritas has been transferred from author's site to PlebWare"
      style="max-width: 100%; height: auto;">
 
-------
+Hello mate!
+As Otto, I’ve been online since the days of the Commodore VIC-20, watching the world grow from clunky green screens into today’s AI-driven landscape. Along the way, I’ve seen technology serve as both a powerful ally and perhaps even a dangerous propaganda weapon—depending on whose hands wield it.
+
+My duties are:
  
 ### **Division: Investigations** - _@ Global Journalism_
-Otto's Nom de plume used for special investigations and Global reporting) 
+I am presently on standby and will be commissioned to do special reports in the months ahead
+Sincerely, **Field Marshal Cody Veritas**
 <!-- PLEBVOX:END -->
+-----
+<!-- PLEBVOX:START -->
+## **Dominus Cody Praefector**
+<img src="/assets/images/cody-praefector.webp"
+     alt="Character Transfer - Dominus Cody Praefector has been transferred from author's site to PlebWare"
+     style="max-width: 100%; height: auto;">
+
+### **Quartermaster Cody Praefector** at your service **@ Logistics Officer**
+
+Since we have chosen a military theme for our journalistic efforts, partly nostalgic since Otto was deployed in Angola during his National Service years.
+But mostly for entertainment and creating an added ambience to the PlebWare ecosystem.
+
+The following Table will show a convention for future publishing efforts. 
+
+| Article Code | Location | Comment |
+|---|---|---|
+| FH/2026-09-16 | Forest Hill | Area/date |
+| CDJM/2026-09-16 | City Deep Johannesburg Market | Area/date |
+| CMYCC/2026-09-16 | Crown Mines Yarona Cash Carry | Area/date |
+| CMMCC/2026-09-16 | Crown Mines Metro Cash Carry | Area/date |
+| CMACC/2026-09-16 | Crown Mines Africa Cash Carry | Area/date |
+| CMTCC/2026-09-16 | Crown Mines Team Cash Carry | Area/date |
+| CMDFF/2026-09-16 | Crown Mines Dawood Frozen Foods | Area/date |
+| FBMF/2026-09-16 | Fordsburg Mayfair | Area/date |
+
+<!-- PLEBVOX:END -->
+-----
 <!-- PLEBVOX:START -->
 ## Why GitHub
 
