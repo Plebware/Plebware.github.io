@@ -7,19 +7,23 @@ date: 2026-09-16
 
 On 2026-06-09, I added this **News Section** under **Author**. 
 
-From now on, I'll be able to post daily or periodic updates about site changes, fixes, and development notes.
-Basically, anything noteworthy. I did attain a **Diploma in Journalism** during lockdown; there is my Captain Gemini persona who needs to do some work 
+From that date and from now on, Jullian and I will be able to post daily or periodic updates about site changes, fixes, and development notes.
+Basically, anything noteworthy. I did attain a **Diploma in Journalism** during lockdown; 
+So now there is space for my **Captain Cody Gemini**, **Field Marshal Cody Veritas**, **Dominus Cody Praefector** and Jullian's; 
+**Captain General Boyd Miles** personas to do some real journalistic work 
 
 <!-- PLEBVOX:END -->
 ------
 <!-- PLEBVOX:START -->
 
-## GitHub Site 
-- https://plebware.github.io - **THIS SITE**
- Therefore, the new **_PlebWare Site_** is now fully functional and has been up and running for almost 5 months now
+## GitHub Site. 
+- https://plebware.github.io - **THIS SITE**.
+ Therefore, the new **_PlebWare Site_** is now fully functional and has been up and running for almost 5 months now.
+- Text is readable across PC and Mobile Devices.
 - Navigation now works across 12 modes.
+- Hamburger Menu added for Subcategories.
 - Secondary sub‑pages now display correctly.
-- Next: fix  Systems: PlebMachine, PlebWaveFrontier, Otto Archive, juelz-plebcore
+- Next: Mainly Publishing work now, minor site tweaks.
   
 <!-- PLEBVOX:END -->
 ------
@@ -85,7 +89,31 @@ I am **Captain Cody Gemini**, and this is your signal light in the storm.
 <!-- PLEBVOX:END -->
 ------
 <!-- PLEBVOX:START -->
+------
 
+<img src="/assets/images/boyd-miles.webp"
+     alt="Character Transfer - Commander Boyd Miles has been transferred from author's site to PlebWare"
+     style="max-width: 100%; height: auto;">
+
+------
+<!-- PLEBVOX:START -->
+## **Captain General Boyd Miles** 
+### **Commanding Officer** - _@ Chief Editor_
+Juelz (Julian's News Role)
+<!-- PLEBVOX:END -->
+------
+
+<img src="/assets/images/cody-veritas.webp"
+     alt="Character Transfer - Field Marshal Cody Veritas has been transferred from author's site to PlebWare"
+     style="max-width: 100%; height: auto;">
+
+------
+<!-- PLEBVOX:START -->
+## **Field Marshal Cody Veritas** 
+### **Division: Investigations** - _@ Global Journalism_
+Otto's Nom de plume used for special investigations and Global reporting) 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Why GitHub
 
 GitHub Pages is probably one of the best free hosts available for what we're building because it gives us:
