@@ -90,26 +90,25 @@ I am **Captain Cody Gemini**, and this is your signal light in the storm.
 ------
 <!-- PLEBVOX:START -->
 ------
-
+## **Captain General Boyd Miles** 
 <img src="/assets/images/boyd-miles.webp"
      alt="Character Transfer - Commander Boyd Miles has been transferred from author's site to PlebWare"
      style="max-width: 100%; height: auto;">
 
 ------
-<!-- PLEBVOX:START -->
-## **Captain General Boyd Miles** 
+
 ### **Commanding Officer** - _@ Chief Editor_
 Juelz (Julian's News Role)
 <!-- PLEBVOX:END -->
 ------
-
+<!-- PLEBVOX:START -->
+## **Field Marshal Cody Veritas**
 <img src="/assets/images/cody-veritas.webp"
      alt="Character Transfer - Field Marshal Cody Veritas has been transferred from author's site to PlebWare"
      style="max-width: 100%; height: auto;">
 
 ------
-<!-- PLEBVOX:START -->
-## **Field Marshal Cody Veritas** 
+ 
 ### **Division: Investigations** - _@ Global Journalism_
 Otto's Nom de plume used for special investigations and Global reporting) 
 <!-- PLEBVOX:END -->
