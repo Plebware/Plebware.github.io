@@ -28,9 +28,6 @@ Which turns your **Debian - XFCE** desktop into a smart, context‑aware environ
 
 ---
 
-{% include dashboard.html %}
-
----
 ## 🔎 Find Something Useful.
 
 With hundreds of articles covering technology, creativity, practical life, writing, research, education and entertainment, there is plenty to explore.
