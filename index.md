@@ -41,6 +41,13 @@ Use the navigation above or search the library.
 **[📊 View the 12-Mode Subcategory Dashboard →](/subcategory-dashboard/)**
 
 ---
+
+## 🏠 Everyday Mode — Latest by Subcategory.
+
+{% include category-index.html section_slug="everyday" %}
+
+---
+
 ## 📰 Recent Articles.
 
 The PlebWare library is continually growing.
