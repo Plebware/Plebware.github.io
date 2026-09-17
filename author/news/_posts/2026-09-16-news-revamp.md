@@ -185,7 +185,7 @@ The military-style theme used for PlebWare journalism is fictional and editorial
 
 Hello, mate.
 
-As Otto, I have been online since the days of the Commodore VIC-20, watching the world develop from clunky green screens into today's AI-driven landscape.
+As Otto, I have been obsessed with computers since the days of the Commodore VIC-20, watching the world develop from clunky green screens into today's AI-driven landscape.
 
 Along the way, I have seen technology become a powerful ally — while also recognising that technology can be used for misinformation or propaganda when placed in the wrong hands.
 
