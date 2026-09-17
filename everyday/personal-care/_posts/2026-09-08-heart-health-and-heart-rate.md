@@ -2,6 +2,7 @@
 layout: post
 title: "Heart Health and Heart Rate: A Daily Guide to Listening to Your Heart."
 date: 2026-09-08
+permalink: /everyday/personal-care/2026/09/08/heart-health-and-heart-rate/
 category: "everyday"
 tags: [plebware, heart-health, heart-rate, personal-care, fitness, wellbeing, healthy-living]
 mode: "everyday"
