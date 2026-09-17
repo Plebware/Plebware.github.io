@@ -186,6 +186,7 @@ The contributor list below is **generated automatically from the PlebWare GitHub
 
 ---
 
+{% include dashboard.html %}
 
 ---
 
