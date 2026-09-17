@@ -179,7 +179,7 @@ The military-style theme used for PlebWare journalism is fictional and editorial
 
 <img src="/assets/images/cody-veritas.webp"
      alt="Character Transfer - Field Marshal Cody Veritas has been transferred from author's site to PlebWare"
-     style="max-width: 100%; height: auto;">
+     style="max-width: 50%; height: auto;">
 
 ### Division: Investigations and Global Journalism.
 
