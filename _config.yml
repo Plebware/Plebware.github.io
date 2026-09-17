@@ -5,13 +5,8 @@ repository: Plebware/Plebware.github.io   # ← Add this line
 plugins:
   - jekyll-remote-theme
 
-# Force Pages rebuild after theme typography update — 2026-09-16
-# Force Pages rebuild after IQ article and navigation theme updates — 2026-09-16
-# Force Pages rebuild after primary navigation width fix — 2026-09-16
-# Force Pages rebuild after two-column mobile navigation update — 2026-09-16
-# Force Pages rebuild after mobile navigation text sizing update — 2026-09-16
-# Force Pages rebuild after left-align navigation update — 2026-09-16
-# Force Pages rebuild after secondary navigation hamburger update — 2026-09-16
+# Force Pages rebuild after typography, navigation, and PlebVox updates — 2026-09-17
+# PlebVox speech remains enabled; visual highlighting is disabled in the remote theme.
 remote_theme: Plebware/pleb-theme
 
 future: true
