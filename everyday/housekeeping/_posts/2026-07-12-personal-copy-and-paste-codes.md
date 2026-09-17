@@ -160,19 +160,53 @@ When preparing an article, keep the image location, filename, format, and altern
 
 The alternative text is especially important because it tells a reader using accessibility software what the image represents.
 
-For example:
+The following three examples provide standard image sizes for PlebWare articles. Each image is centred automatically. Choose the size that best suits the article and the image being displayed.
+
+### 70% Image.
 
 <!-- PLEBVOX:END -->
 
 ```html
-<img src="{{ '/assets/images/image-file.webp' | relative_url }}"
-     alt="Alt Text - write appropriate alternative text here"
-     style="max-width: 100%; height: auto;">
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/image-file.webp' | relative_url }}"
+       alt="Alt Text - write appropriate alternative text here"
+       style="width: 70%; max-width: 100%; height: auto;">
+</div>
+```
+
+<!-- PLEBVOX:START -->
+
+### 50% Image.
+
+<!-- PLEBVOX:END -->
+
+```html
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/image-file.webp' | relative_url }}"
+       alt="Alt Text - write appropriate alternative text here"
+       style="width: 50%; max-width: 100%; height: auto;">
+</div>
+```
+
+<!-- PLEBVOX:START -->
+
+### 30% Image.
+
+<!-- PLEBVOX:END -->
+
+```html
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/image-file.webp' | relative_url }}"
+       alt="Alt Text - write appropriate alternative text here"
+       style="width: 30%; max-width: 100%; height: auto;">
+</div>
 ```
 
 <!-- PLEBVOX:START -->
 
 Replace the image filename and alternative text with information appropriate to the image being used.
+
+The `text-align: center;` setting keeps the image centred, while the percentage controls its displayed width.
 
 Never blindly copy the example path or placeholder text into a new article without checking it.
 
