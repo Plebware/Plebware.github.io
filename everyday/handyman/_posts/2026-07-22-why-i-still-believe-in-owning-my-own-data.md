@@ -6,11 +6,14 @@ category: "handyman"
 author: "The Digital Handy Man"
 tags: [data-ownership, privacy, digital-independence, backup, self-hosting]
 ---
+
 <!-- PLEBVOX:START -->
 
-
-
 # Why I Still Believe in Owning My Own Data
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## A Personal Reflection
 
@@ -21,6 +24,10 @@ I see it differently. I see it as trusting a stranger with my most important mem
 This isn't a condemnation of cloud services. They are incredibly convenient, and I use them daily for synchronization and collaboration. However, I've learned that convenience is not a replacement for ownership—it is simply a feature.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Difference Between Access and Ownership
 
@@ -36,11 +43,19 @@ True ownership is different. When the storage drive sits on my desk, I decide wh
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Day the Internet Stops
 
 Cloud-first thinking assumes one constant: the Internet will always be there. But I've experienced the reality of ISP outages, load-shedding, fibre failures, and even account lockouts due to forgotten passwords or security flags. In those moments of disconnection, my local files were the only ones that didn't care. They were always there.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Writers Need Their Libraries
 
@@ -48,17 +63,29 @@ As an author, my manuscripts are worth far more than the computer they're stored
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Linux Philosophy
 
 One of the reasons I value Linux is that it fosters a mindset of ownership. My operating system is mine to configure, my files are mine to organize, and my backups are mine to control. I don't need permission to use my own computer. That philosophy naturally extends to how I treat my data, reminding me that control and responsibility go hand in hand.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Value of Data in the Age of AI
 
 Our documents are no longer just text; they are training material, research, personal history, and creative IP. As AI models become more sophisticated, the value of our own personal knowledge increases exponentially. This makes data ownership not just a matter of preference, but a necessity for protecting our individual legacy and privacy.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## My Personal Rule
 
@@ -75,11 +102,19 @@ Never the other way around.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Balance Matters
 
 I'm not rejecting the cloud. I rely on it for syncing devices, sharing files with collaborators, and maintaining off-site backups. But I've learned that the cloud is a partner in my workflow, not the foundation of it. It's simply not where I want my only copy to live.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Final Thoughts
 

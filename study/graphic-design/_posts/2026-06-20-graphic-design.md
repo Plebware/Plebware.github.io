@@ -3,6 +3,7 @@ layout: post
 title: "Graphic Design 101: The Art of Visual Communication"
 date: 2026-06-20
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 What Is Graphic Design?
@@ -21,6 +22,10 @@ Graphic design is not only about making things look good.
 It is about making messages easier to see and remember.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Why Graphic Design Matters
 
@@ -43,6 +48,10 @@ A strong design can communicate an idea before a single word is read.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 The Purpose of Design
 
 Before creating a graphic, ask:
@@ -58,7 +67,15 @@ A beautiful image without a clear message may fail.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 The Elements of Graphic Design
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 1. Line
 
@@ -75,6 +92,10 @@ Lines can be straight, curved, thick, thin, or decorative.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 2. Shape
 
 Shapes create visual structure.
@@ -90,6 +111,10 @@ Shapes help organize information and create patterns.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 3. Colour
 
 Colour influences how people perceive a design.
@@ -104,6 +129,10 @@ Colours can communicate:
 A good designer uses colour intentionally.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 4. Typography
 
@@ -121,6 +150,10 @@ Good typography makes words easier and more enjoyable to read.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 5. Images
 
 Images communicate quickly.
@@ -136,6 +169,10 @@ The right image strengthens the message.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 6. Space
 
 Empty space is important.
@@ -146,7 +183,15 @@ Good use of space helps the viewer focus.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Design Principles
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Balance
 
@@ -155,6 +200,10 @@ Balance creates visual stability.
 A design should not feel like everything is placed on one side.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Contrast
 
@@ -168,6 +217,10 @@ Examples:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Alignment
 
 Alignment creates order.
@@ -175,6 +228,10 @@ Alignment creates order.
 Elements should appear connected rather than randomly placed.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Repetition
 
@@ -188,6 +245,10 @@ Examples:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Hierarchy
 
 Visual hierarchy shows what should be noticed first.
@@ -200,7 +261,15 @@ A viewer should quickly understand:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Types of Graphic Design
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Logo Design
 
@@ -214,6 +283,10 @@ Creates visual identities for:
 A good logo is simple and memorable.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Print Design
 
@@ -229,6 +302,10 @@ Print design considers physical presentation.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Digital Design
 
 Created for screens.
@@ -241,6 +318,10 @@ Examples:
 * Digital publications
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Illustration
 
@@ -255,6 +336,10 @@ Illustration is common in:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Branding Design
 
 Branding creates a consistent visual identity.
@@ -267,6 +352,10 @@ It includes:
 * Visual style
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Graphic Design Tools
 
@@ -284,6 +373,10 @@ The tool is less important than understanding design principles.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Learning Graphic Design
 
 Beginners can start by practicing:
@@ -297,6 +390,10 @@ Beginners can start by practicing:
 The best way to improve is to create regularly.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Graphic Design and Storytelling
 
@@ -312,7 +409,15 @@ Great designs communicate without needing long explanations.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Common Beginner Mistakes
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Too Much Decoration
 
@@ -322,6 +427,10 @@ Sometimes simplicity is stronger.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Too Many Fonts
 
 Using too many fonts can make a design confusing.
@@ -330,11 +439,19 @@ Consistency creates professionalism.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Ignoring the Audience
 
 A design should be created for the people who will see it.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Copying Without Understanding
 
@@ -343,6 +460,10 @@ Inspiration is useful.
 Understanding why something works is better.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Final Thoughts
 
@@ -456,4 +577,5 @@ Every great design begins with a simple idea.
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

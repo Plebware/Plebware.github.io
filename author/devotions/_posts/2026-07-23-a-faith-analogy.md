@@ -7,8 +7,8 @@ tags: [faith, believing, salvation, redemption, christ-alone, jesus, hell]
 mode: "author"
 author: Otto Brinkmeier
 ---
-<!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 
 <div align="center">
 
@@ -27,6 +27,10 @@ author: Otto Brinkmeier
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🙏 Opening Prayer
 
 Heavenly Father,
@@ -40,6 +44,10 @@ In Jesus' precious Name.
 **Amen.**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🌅 Today's Thought
 
@@ -79,6 +87,10 @@ That is an excellent picture of salvation.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ✝️ What Is Salvation?
 
 The branch of theology known as **Soteriology** studies God's wonderful plan of salvation.
@@ -109,6 +121,10 @@ But to place our lives entirely into His hands.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🎨 God Reveals Himself
 
 Creation speaks.
@@ -130,6 +146,10 @@ Creation tells us **that God exists.**
 The Gospel tells us **how we may know Him personally.**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🚪 The Elevator of Faith
 
@@ -155,6 +175,10 @@ That is saving faith.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ✨ A Question For Today
 
 Are you standing outside the elevator...
@@ -168,6 +192,10 @@ Faith commits the heart.
 Jesus is still inviting people to step in.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 📝 A Short Poem
 
@@ -190,6 +218,10 @@ To trust the One who's standing inside.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 📜 Church History
 
 Throughout church history, Christians have emphasized that salvation comes **by grace through faith in Jesus Christ alone.**
@@ -201,6 +233,10 @@ This truth echoes the Apostle Paul's words:
 *"For by grace you have been saved through faith... it is the gift of God, not of works, lest anyone should boast."* — **Ephesians 2:8–9**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🙏 Closing Prayer
 

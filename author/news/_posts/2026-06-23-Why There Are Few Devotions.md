@@ -3,11 +3,8 @@ layout: post
 title: "Why There Are Few Devotions"
 date: 2026-07-23
 ---
+
 <!-- PLEBVOX:START -->
-
-
-
-
 
 ## 🔑 **Taking A Beak from Writing Devotions**
 
@@ -23,6 +20,10 @@ I also observed that not all tenants appeared to be treated equally following th
 
 These are matters that I have personally observed, and they have contributed significantly to my financial stress. Should it become necessary to pursue any formal dispute or legal remedy in the future, this article serves as a contemporaneous record of my experiences, observations and concerns as they existed at the time of writing.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Why I Am Recording This
 
 This article is not intended to attack or defame any individual. It is simply an honest record of the circumstances that have affected my health, finances and ability to continue my regular devotional writing.
@@ -30,6 +31,10 @@ This article is not intended to attack or defame any individual. It is simply an
 I believe it is important to document significant events while they are still fresh in my memory. If any dispute is later referred to the Rental Housing Tribunal or another appropriate authority, this article may assist in establishing a timeline of events and the impact those events had on my daily life.
 
 Everything stated here reflects either my personal observations or my honestly held opinions based on those observations.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 The Financial Reality
 

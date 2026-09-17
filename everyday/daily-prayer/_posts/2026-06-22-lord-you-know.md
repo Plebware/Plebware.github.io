@@ -3,6 +3,7 @@ layout: post
 title: "God Help Us"
 date: 2026-06-22
 ---
+
 <!-- PLEBVOX:START -->
 
 # Father God, I Need Intervention
@@ -11,6 +12,11 @@ date: 2026-06-22
      alt="Lord I Need You"
      height="200">
      
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## You Know, Lord... You Know!
 
 It is with reluctance and a sense of dread that I have opened my word processor to tell it as it is.

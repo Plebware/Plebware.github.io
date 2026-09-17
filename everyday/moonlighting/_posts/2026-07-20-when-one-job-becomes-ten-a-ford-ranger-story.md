@@ -6,6 +6,7 @@ author: "Otto Brinkmeier"
 categories: ["everyday"]
 tags: Ford Ranger, Ford Ranger 2.2 TDCi, P0088, Limp Mode, Fuel Pressure, Common Rail Diesel, Vehicle Repairs, Everyday
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 The Ford Ranger That Refused to Cooperate
@@ -17,6 +18,10 @@ tags: Ford Ranger, Ford Ranger 2.2 TDCi, P0088, Limp Mode, Fuel Pressure, Common
 > **R150 a day doesn't leave much room for expensive mistakes.**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 It Started With an Oil Leak
 
@@ -31,6 +36,10 @@ Fix the leak, top up the fluids, and get back on the road earning a living.
 That was the plan.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 When Saving Money Costs More
 
@@ -57,6 +66,10 @@ The vehicle had gone from being a working bakkie to one that nobody trusted.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Symptoms Got Worse
 
 Over the next few weeks the Ranger became increasingly unpredictable.
@@ -73,6 +86,10 @@ That pointed toward a fuel pressure control problem rather than something mechan
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Diagnosis
 
 After several diagnostic sessions the focus turned to the common rail fuel system.
@@ -87,6 +104,10 @@ Two components immediately became suspects:
 - Fuel Pump Metering Valve (also called the Inlet Metering Valve or Suction Control Valve)
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Ford's Pricing
 
@@ -105,6 +126,10 @@ Fortunately an aftermarket replacement valve could be purchased separately, savi
 Or so we hoped.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 One Repair... Another Problem
 
@@ -130,6 +155,10 @@ Ironically, we'd gone from having an engine that ran badly...
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Understanding the Fuel Metering Valve
 
 The Fuel Pump Metering Valve is a surprisingly important component.
@@ -150,6 +179,10 @@ No start.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 What Could Have Happened?
 
 At this stage there are several possibilities:
@@ -168,6 +201,10 @@ The result is exactly what we experienced:
 An engine that cranks endlessly without starting.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Lessons Learned
 
@@ -191,6 +228,10 @@ And a vehicle sitting in a workshop instead of earning money.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Story Continues
 
 At the time of writing, we're still chasing the final fault.
@@ -202,4 +243,5 @@ Until then...
 Sometimes one job really does become ten.
 
 And when you're earning **R150 a day**, every extra day off the road matters.
+
 <!-- PLEBVOX:END -->

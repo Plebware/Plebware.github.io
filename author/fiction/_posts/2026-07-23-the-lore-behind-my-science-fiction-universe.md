@@ -15,9 +15,8 @@ tags:
   - Plebware
 excerpt: "Explore the lore behind O.C. Verrocchio's science fiction universe, where humanity, artificial intelligence, and rival galactic powers shape the future of the Milky Way."
 ---
+
 <!-- PLEBVOX:START -->
-
-
 
 # **Lore Needs To Be Believable, Lovable and Memorable**
 
@@ -27,6 +26,10 @@ Some are built around a single starship. Others revolve around one great war or 
 
 The stories of Captain Cody and the crew of the **Star Ship Frederick** are only one thread in a much larger tapestry stretching across galaxies, governments, civilizations, and centuries.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## A Universe Rooted in Reality
 
 Although my stories take place around the year **2100 and beyond**, I wanted the setting to feel believable.
@@ -34,6 +37,10 @@ Although my stories take place around the year **2100 and beyond**, I wanted the
 Rather than inventing everything from nothing, I based the foundations of my universe on real astronomy. The Milky Way remains humanity's home galaxy, itself part of the Local Group, the Virgo Supercluster, and ultimately the immense Laniakea Supercluster. From that familiar foundation, history diverges into fiction as humanity expands beyond Earth and establishes colonies across multiple star systems.
 
 As mankind spread into space, entirely new civilizations emerged. Some remained loyal to Earth, while others developed their own cultures, ambitions, and political ideologies.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Great Powers
 
@@ -51,6 +58,10 @@ Between these great powers exist numerous independent organisations, including t
 
 Together these organisations create a political landscape where alliances shift, rivalries endure, and every decision has consequences.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## A New Age Needs New Standards
 
 As humanity expanded across the stars, old systems of measurement became increasingly inadequate.
@@ -63,6 +74,10 @@ Distance is measured using futuristic units such as **Quantum Units**, **Nanospa
 
 These systems are rarely the focus of a story, but they help create the illusion that this is a genuine civilization rather than simply today's world with faster spaceships.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Time Beyond Earth
 
 Life among the stars demanded more than new measurements.
@@ -72,6 +87,10 @@ It also required a new way of thinking about time.
 Months, seasons, and units of time have evolved to reflect the culture of an interstellar civilisation. Ordinary seconds become **Ticks**, minutes become **Cycles**, hours become **Spans**, while years are known as **Cyrons**. Even familiar concepts such as birthdays and holidays have evolved into **Birthturns** and **Holiturns**.
 
 These changes reinforce the idea that my characters no longer live in twenty-first-century society. They inhabit a civilization that has grown beyond its origins while still remembering where it came from.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## More Than Heroes and Villains
 
@@ -90,6 +109,10 @@ The New Galactic Order seeks stability through control.
 The Federation of Free Beings values unrestricted commerce above politics.
 
 Each believes its philosophy offers the best hope for the future, and that moral complexity is what makes the conflicts meaningful.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## An Ever-Expanding Universe
 

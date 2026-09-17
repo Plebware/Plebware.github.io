@@ -18,6 +18,10 @@ PlebMachine is a state-driven Linux desktop orchestration system designed to pro
 
 Version **1.30.08.26** is the current development release and has now passed a significant cross-distribution installation test.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 1.30.08.26 — Major Test Milestone
 
 The `plebmachine_1.30.08.26_amd64.deb` package was installed successfully on:
@@ -28,4 +32,3 @@ The `plebmachine_1.30.08.26_amd64.deb` package was installed successfully on:
 On SparkyLinux, the package was installed **without manual intervention**, and PlebMachine worked immediately after installation.
 
 <!-- PLEBVOX:END -->
-

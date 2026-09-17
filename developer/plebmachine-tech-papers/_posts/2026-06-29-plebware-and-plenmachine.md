@@ -3,10 +3,14 @@ layout: post
 title: "PlebWare and PlebMachine"
 date: 2026-06-29
 ---
+
 <!-- PLEBVOX:START -->
 
-
 # 🔑 **Two Connected Projects**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebWare — Personal Knowledge Publishing Platform
 
@@ -27,6 +31,10 @@ PlebWare is the knowledge layer.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## PlebMachine — Modular Software Environment
 
 PlebMachine is a software project designed around modular desktop computing.
@@ -36,6 +44,10 @@ Its purpose is to create a flexible user-focused computing environment where too
 PlebMachine is the technology layer.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Connection
 
@@ -47,4 +59,5 @@ Together:
 
 PlebMachine → Creates the environment  
 PlebWare → Publishes the knowledge
+
 <!-- PLEBVOX:END -->

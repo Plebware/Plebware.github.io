@@ -3,6 +3,7 @@ layout: post
 title: "The Appetite of the Soul"
 date: 2026-06-07
 ---
+
 <!-- PLEBVOX:START -->
 
 # “The Appetite of the Soul” 
@@ -123,4 +124,5 @@ The way I’m called to truly live.
 
 
 ----
+
 <!-- PLEBVOX:END -->

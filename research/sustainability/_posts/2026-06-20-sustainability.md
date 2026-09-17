@@ -3,6 +3,7 @@ layout: post
 title: "Sustainability 101: Caring for Our World and Future"
 date: 2026-06-20
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 What Is Sustainability?
@@ -21,6 +22,10 @@ Sustainability asks an important question:
 > "How can we improve today without damaging tomorrow?"
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Why Sustainability Matters
 
@@ -41,7 +46,15 @@ Sustainability encourages responsible choices.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 The Three Pillars of Sustainability
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 1. Environmental Sustainability
 
@@ -59,6 +72,10 @@ The goal is a healthier planet.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 2. Social Sustainability
 
 Social sustainability focuses on people and communities.
@@ -75,6 +92,10 @@ A sustainable future depends on people working together.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 3. Economic Sustainability
 
 Economic sustainability focuses on creating systems that can continue over time.
@@ -89,6 +110,10 @@ It considers:
 A strong economy and environmental responsibility can work together.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Everyday Sustainability
 
@@ -108,7 +133,15 @@ Small actions add up.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 The Reduce, Reuse, Repair, Recycle Approach
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Reduce
 
@@ -120,6 +153,10 @@ Examples:
 * Reduce waste
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Reuse
 
@@ -133,6 +170,10 @@ Examples:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Repair
 
 Fix things instead of throwing them away.
@@ -141,6 +182,10 @@ Repair skills help extend the life of products.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Recycle
 
 Process materials so they can become new products.
@@ -148,6 +193,10 @@ Process materials so they can become new products.
 Recycling is useful, but reducing waste is often even better.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Sustainable Technology
 
@@ -164,11 +213,19 @@ Technology can be part of the solution when used responsibly.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Sustainable Living
 
 A sustainable lifestyle considers the impact of everyday choices.
 
 Areas include:
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Home
 
@@ -176,15 +233,27 @@ Areas include:
 * Reducing waste
 * Maintaining equipment
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Food
 
 * Reducing food waste
 * Supporting responsible practices
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Transport
 
 * Using resources efficiently
 * Considering alternatives where practical
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Consumption
 
@@ -192,6 +261,10 @@ Areas include:
 * Choosing quality over unnecessary replacement
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Sustainability and Creativity
 
@@ -206,6 +279,10 @@ Creators can promote sustainability through:
 Stories and images can inspire people to think differently about the world.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Sustainability and Innovation
 
@@ -223,13 +300,25 @@ The future depends on people who can imagine better ways of doing things.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Common Sustainability Mistakes
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Thinking One Person Cannot Make a Difference
 
 Individual actions influence communities.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Chasing Perfection
 
@@ -239,6 +328,10 @@ Better choices matter.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Ignoring Long-Term Effects
 
 A convenient choice today may create problems tomorrow.
@@ -246,6 +339,10 @@ A convenient choice today may create problems tomorrow.
 Think beyond the present moment.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Final Thoughts
 
@@ -263,4 +360,5 @@ Every repaired item, every saved resource, and every thoughtful decision contrib
 
 *PlebTuition Series*
 *Learning, caring, and building a better tomorrow one choice at a time.*
+
 <!-- PLEBVOX:END -->

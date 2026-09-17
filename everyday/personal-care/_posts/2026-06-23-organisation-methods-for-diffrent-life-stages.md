@@ -3,9 +3,14 @@ layout: post
 title: "Organisation Methods For Different Life Stages"
 date: 2026-06-23
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 Personal Organisation Method
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## A Practical System For Life, Work, Creativity, and Home
 
@@ -24,9 +29,17 @@ The goal is **clarity, stability, and progress.**
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🧭 The Four Pillars Of Organisation
 
 Everything is organised into four main areas:
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🏠 Home
 
@@ -44,6 +57,10 @@ Includes:
 A peaceful home creates a peaceful mind.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 💻 Digital Life
 
@@ -63,6 +80,10 @@ A messy computer can become as stressful as a messy room.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 💼 Responsibilities
 
 The things that keep life running.
@@ -78,6 +99,10 @@ Includes:
 Use one trusted list instead of trying to remember everything.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ✍️ Growth & Creativity
 
@@ -96,7 +121,15 @@ Not everything valuable has a deadline.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 📅 Daily Method
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Morning Check-In (10 minutes)
 
@@ -114,6 +147,10 @@ Choose:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🌙 Evening Reset (10 minutes)
 
 Before ending the day:
@@ -127,11 +164,19 @@ A small reset prevents big problems.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🗂 The Three List System
 
 Avoid hundreds of complicated lists.
 
 Use only:
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔥 Now
 
@@ -145,6 +190,10 @@ Examples:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🌱 Growing
 
 Things being developed.
@@ -156,6 +205,10 @@ Examples:
 - Website improvements
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌙 Someday
 
@@ -169,7 +222,15 @@ Examples:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 👥 Different Needs, Shared System
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Otto (63)
 
@@ -187,6 +248,10 @@ Work smarter, preserve energy, and continue creating.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Juelz (40)
 
 Focus:
@@ -202,9 +267,17 @@ Manage the present while preparing for the future.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🧹 Weekly Housekeeping Day
 
 Once a week:
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Physical
 
@@ -212,11 +285,19 @@ Once a week:
 - Check supplies
 - Sort paperwork
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Digital
 
 - Backup important files
 - Remove junk files
 - Update systems
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Mental
 
@@ -225,6 +306,10 @@ Once a week:
 - Prepare the coming week
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔧 The Golden Rule
 
@@ -240,6 +325,10 @@ Keep it:
 - Repeatable
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Final Thought
 
@@ -342,4 +431,5 @@ A little organisation every day creates freedom, creativity, and peace.
 
 
 -----
+
 <!-- PLEBVOX:END -->

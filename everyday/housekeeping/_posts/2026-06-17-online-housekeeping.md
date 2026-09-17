@@ -3,9 +3,14 @@ layout: post
 title: "Online Housekeeping"
 date: 2026-06-17
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 Google Account and Google Drive Management Blueprint
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Purpose
 
@@ -23,6 +28,10 @@ The objectives are:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Master Rule
 
 Every Google Account should have a clearly defined role.
@@ -33,7 +42,15 @@ Think of each Google Drive as a separate department in an organization.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Account Structure
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 1. otto.brinkmeier@gmail.com
 
@@ -77,6 +94,10 @@ Personal Administration and Master Archive
 This becomes the "Head Office" account.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 2. othelloverrocchio@gmail.com
 
@@ -143,6 +164,10 @@ Everything related to O.C. Verricchio.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 3. gameheadcody@gmail.com
 
 ### Primary Role
@@ -180,6 +205,10 @@ Gaming and Entertainment
 Keep gaming completely separate from business and writing.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 4. plebware@gmail.com
 
@@ -225,6 +254,10 @@ Public-facing educational publishing.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 5. plebsoftware@gmail.com
 
 ### Primary Role
@@ -265,6 +298,10 @@ Software Engineering Department.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 6. plebdiy@gmail.com
 
 ### Primary Role
@@ -300,6 +337,10 @@ DIY, Crafts and Homesteading
 Practical skills and self-sufficiency.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 7. cody.dei.musici@gmail.com
 
@@ -337,6 +378,10 @@ Music and Audio Production
 All audio and music creation.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 8. concerned.disciple.cody@gmail.com
 
@@ -377,6 +422,10 @@ Faith-based publishing and ministry.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Recommended Shared Folder Structure
 
 Use this structure in every account.
@@ -394,6 +443,10 @@ Use this structure in every account.
 ```
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 File Lifecycle
 
@@ -447,7 +500,15 @@ ZIP archives and snapshots.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 GitHub Relationship
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebWare GitHub
 
@@ -473,12 +534,24 @@ Google Drive should be treated as your filing cabinet.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Backup Strategy
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Daily
 
 - Active writing projects
 - Current PlebMachine work
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Weekly
 
@@ -486,10 +559,18 @@ Google Drive should be treated as your filing cabinet.
 - Manuscripts
 - Devotion archives
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Monthly
 
 - Complete Google Drive exports
 - External SSD backup
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Annual
 
@@ -497,6 +578,10 @@ Google Drive should be treated as your filing cabinet.
 - Long-term preservation archive
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Master Principle
 
@@ -625,4 +710,5 @@ When every account has a clear mission, finding files becomes effortless and bac
 
 
 ----
+
 <!-- PLEBVOX:END -->

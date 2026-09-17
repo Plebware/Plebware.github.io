@@ -8,9 +8,9 @@ date: 2026-08-13
 
 # 🔑 The Food-Safety Chain — Who Is Watching What We Eat?
 
-<!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
+
+
 
 There are some stories that begin with a press release.
 
@@ -34,7 +34,7 @@ Those questions deserve answers.
 
 # 🔑 The Supply Chain Is Bigger Than the Shop.
 
-<!-- PLEBVOX:END -->
+
 
 South Africa has experienced serious concerns about food safety, particularly following incidents involving contaminated food and the illnesses and deaths of children.
 
@@ -54,11 +54,13 @@ If something goes wrong somewhere near the beginning of that chain, concentratin
 
 That is why food safety needs to be considered as a **chain**, rather than as a single shopkeeper's responsibility.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 # 🔑 What I Have Personally Observed.
 
-<!-- PLEBVOX:END -->
+
 
 Recently, I have noticed bulk food traders storing substantial quantities of products outside their premises.
 
@@ -90,7 +92,7 @@ And if it isn't, who is responsible for checking?
 
 # 🔑 Sunlight, Heat, And Food Quality.
 
-<!-- PLEBVOX:END -->
+
 
 Not every packaged food product becomes dangerous simply because it has been exposed to sunlight.
 
@@ -118,7 +120,7 @@ That is a question that can be answered through evidence, regulations, inspectio
 
 # 🔑 The Pasta Problem.
 
-<!-- PLEBVOX:END -->
+
 
 I have personally experienced another problem.
 
@@ -156,7 +158,7 @@ Without tracing the product, we simply do not know.
 
 # 🔑 Dry Goods Are Not Immune From Storage Problems.
 
-<!-- PLEBVOX:END -->
+
 
 Pasta, maize meal, flour, rice, cereal, and similar dry products may appear almost indestructible.
 
@@ -178,7 +180,7 @@ The date cannot magically reverse poor storage.
 
 # 🔑 The Expiry-Date Illusion.
 
-<!-- PLEBVOX:END -->
+
 
 I have also experienced another example with refrigerated yoghurt products.
 
@@ -200,7 +202,7 @@ Food safety depends upon the entire journey of the product.
 
 # 🔑 The Question About Inspection.
 
-<!-- PLEBVOX:END -->
+
 
 This brings me to the question that keeps bothering me.
 
@@ -246,7 +248,7 @@ They are questions about public health.
 
 # 🔑 The Problem With Only Watching The End Of The Chain.
 
-<!-- PLEBVOX:END -->
+
 
 Suppose a small shop receives a contaminated or infested product.
 
@@ -292,7 +294,7 @@ Every link matters.
 
 # 🔑 Poverty Makes Food Safety More Complicated.
 
-<!-- PLEBVOX:END -->
+
 
 There is another uncomfortable reality.
 
@@ -320,7 +322,7 @@ The people with the least financial ability to replace contaminated or spoiled f
 
 # 🔑 This Is Not About Nationality.
 
-<!-- PLEBVOX:END -->
+
 
 There is a temptation in South Africa to turn food-safety problems into arguments about particular communities.
 
@@ -358,7 +360,7 @@ And contaminated food does not care who is eating it.
 
 # 🔑 What Should We Be Asking?
 
-<!-- PLEBVOX:END -->
+
 
 If South Africa wants to protect consumers properly, perhaps the questions should include:
 
@@ -392,7 +394,7 @@ They should be directed at the **system**.
 
 # 🔑 From Observation To Investigation.
 
-<!-- PLEBVOX:END -->
+
 
 I am not an environmental-health inspector.
 
@@ -430,7 +432,7 @@ And then compare what the law says with what actually happens.
 
 # 🔑 The Food-Safety Chain Is Everyone's Business.
 
-<!-- PLEBVOX:END -->
+
 
 Ultimately, this isn't about attacking small traders.
 
@@ -464,7 +466,7 @@ And every one of them matters.
 
 # 🔑 A Concern, Not An Accusation.
 
-<!-- PLEBVOX:END -->
+
 
 This article records personal observations and raises questions for investigation.
 
@@ -481,6 +483,8 @@ The purpose of this article is simply to ask whether South Africa's food-safety 
 Because waiting for another family to become sick before asking where the food came from is surely not good enough.
 
 <!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 End.
 

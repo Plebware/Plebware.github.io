@@ -3,10 +3,20 @@ layout: post
 title: "PlebMachine Technical Papers"
 date: 2026-01-01
 ---
+
 <!-- PLEBVOX:START -->
 
 # PlebMachine Technical Papers 
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 01 - System Design Overview
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Purpose of This Section
 
@@ -17,6 +27,10 @@ It is not a blog.
 It is not a tutorial series.
 
 It is a collection of structured technical papers that describe how the system is built, how it behaves, and why it is designed the way it is.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What is PlebMachine?
 
@@ -38,6 +52,10 @@ Each mode represents a functional context such as:
 * System tools
 
 The system then adapts the environment accordingly.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Design Philosophy
 
@@ -63,6 +81,10 @@ The system should not assume a fixed desktop environment or workflow.
 
 The user defines the system state, not the other way around.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## What These Papers Contain
 
 The technical papers in this section may include:
@@ -80,6 +102,10 @@ The technical papers in this section may include:
 
 Each paper focuses on one concept at a time.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Not a Product Manual
 
 These documents are not intended to teach users how to click buttons.
@@ -93,6 +119,10 @@ They are intended for:
 * Advanced users
 * Researchers
 * Contributors
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Evolution of the System
 
@@ -112,6 +142,10 @@ The goal is not permanence.
 
 The goal is correctness and usability.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The PlebWare Engineering Perspective
 
 Within PlebWare, engineering is treated as a form of structured thinking.
@@ -126,6 +160,10 @@ Systems should be:
 
 Complexity is acceptable only when it is controlled and justified.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Closing Statement
 
 PlebMachine is not just software.
@@ -139,4 +177,5 @@ These technical papers exist to make that design visible, testable, and understa
 *Design should be explainable, not hidden.*
 
 **Otto Brinkmeier**
+
 <!-- PLEBVOX:END -->

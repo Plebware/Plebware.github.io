@@ -3,7 +3,9 @@ layout: post
 title: "Otto's Environment"
 date: 2026-07-22
 ---
+
 <!-- PLEBVOX:START -->
+
 # Why I Am Writing This Series
 
 Today I am writing what may well become the hardest article of my short career as a journalist, writer, digital tutor, and independent publisher.
@@ -23,8 +25,11 @@ It is **not** an attempt to persuade anyone to adopt my views.
 Nor is it intended as a complaint or a request for sympathy.
 
 Rather, it is an honest account of my own experiences and the circumstances that have shaped my life. Others may have experienced South Africa very differently, and I fully acknowledge that.
+
 <!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
+
 ## A Lifetime Among Many People
 
 One of the greatest privileges of my life has been meeting and working alongside people from many different backgrounds, cultures, languages, and communities.
@@ -32,6 +37,10 @@ One of the greatest privileges of my life has been meeting and working alongside
 Some have become close friends, others trusted colleagues, employers, clients, or fellow believers. These relationships have enriched my life in countless ways and continue to do so today.
 
 The observations I will share throughout this series are therefore not directed against any race, culture, or community. They are simply my experiences of living through changing times in the country of my birth.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Why Stay?
 
@@ -49,6 +58,10 @@ That does not mean I ignore the country's problems.
 
 It means I choose to remain hopeful despite them.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Why This Matters
 
 When readers encounter my articles about earning a modest income, repairing aging computers, maintaining old vehicles, or building projects like Plebware one step at a time, they sometimes wonder why I continue.
@@ -64,7 +77,11 @@ This series is intended to explain the journey that brought me here.
 Only by understanding the road behind us can we truly understand the destination ahead.
 
 ---
+
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
+
 ## This Series
 
 Future articles will explore topics including:
@@ -86,4 +103,5 @@ This series is not about assigning blame.
 It is about recording one ordinary South African's life as truthfully as I know how.
 
 If my experiences encourage someone else to persevere through difficult times, then sharing them will have been worthwhile.
+
 <!-- PLEBVOX:END -->

@@ -3,11 +3,16 @@ layout: post
 title: "Remaining Positive When the Headlines Are Not"
 date: 2026-06-30
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🌤️ Remaining Positive When the Headlines Are Not
 
 > *"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things."* — Philippians 4:8
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ⚽ Another Disappointment
 
@@ -21,6 +26,10 @@ One team celebrates while another goes home. As supporters, we share in both the
 
 It hurts for a while, but life moves on.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📰 Then Came the News
 
 No sooner had I accepted the football result than another series of headlines appeared.
@@ -30,6 +39,10 @@ Reports spoke of an alleged illegal military-style training facility near White 
 Whatever our personal opinions may be, one thing becomes obvious:
 
 The world feels increasingly uncertain.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌍 Living in an Age of Constant Anxiety
 
@@ -46,6 +59,10 @@ Natural disasters...
 
 If we are not careful, we begin carrying burdens that were never ours to carry.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🧠 Guarding Our Minds
 
 Remaining positive does **not** mean pretending problems do not exist.
@@ -58,6 +75,10 @@ Positive people acknowledge reality.
 
 Hopeful people believe reality is not the end of the story.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✝️ The Christian Perspective
 
 Jesus never promised His followers an easy world.
@@ -69,6 +90,10 @@ Instead He said:
 Our confidence is not built upon today's headlines.
 
 It is built upon an unchanging God.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 What Can We Control?
 
@@ -88,6 +113,10 @@ We can choose:
 - prayer instead of anxiety
 - hope instead of fear
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🌱 Choosing Hope Every Day
 
 Every generation has believed it was living through difficult times.
@@ -97,6 +126,10 @@ History reminds us that nations rise and fall, economies fluctuate, and politica
 Yet ordinary people continue raising families, helping neighbours, serving God, and building better communities.
 
 Perhaps that is where real hope begins—not in changing the whole world overnight, but in making our own corner of it a little brighter.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🙏 Final Thoughts
 
@@ -206,4 +239,5 @@ But because hope is stronger than today's headlines.
 </script>
 
 ---
+
 <!-- PLEBVOX:END -->

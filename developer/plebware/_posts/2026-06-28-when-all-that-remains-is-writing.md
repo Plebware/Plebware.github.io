@@ -3,6 +3,7 @@ layout: post
 title: "When All That Remains Is the Writing"
 date: 2026-06-28
 ---
+
 <!-- PLEBVOX:START -->
 
 # ✍️ When All That Remains Is the Writing
@@ -14,6 +15,10 @@ When all that remains is the writing—the creation of meaningful content—I fe
 My heart's desire has always been to master computers, not merely for my own benefit, but to share that knowledge with others. Teaching, writing, and helping people understand technology have always been central to my vision.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 💻 The Beginning — 0tronix Developments
 
@@ -31,6 +36,10 @@ The goal was never simply to build technology.
 The goal was to create resources that educate, inspire, and empower people.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 👨‍💻 The Human Element — PlebWare
 
@@ -53,6 +62,10 @@ have no purpose.
 Computers exist to serve humanity—not the other way around.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 The PlebWare Philosophy
 
@@ -78,6 +91,10 @@ It is the human being who gives every computer system its meaning, direction, an
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🚀 The Evolution — PlebMachine
 
 Today, that original vision has matured into something far greater than I could have imagined.
@@ -100,6 +117,10 @@ at the very centre of the computing experience.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🌍 PlebWare Today
 
 Alongside **PlebMachine** stands **PlebWare**, the publishing and educational arm of the project.
@@ -117,6 +138,10 @@ Through **plebware.github.io**, I document my journey by:
 The website has become both my workshop and my library—a place where ideas are transformed into knowledge that anyone can freely learn from.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🏁 Looking Back
 
@@ -136,6 +161,10 @@ Yet the purpose has remained exactly the same:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ❤️ What Remains
 
 When all the engineering is complete...
@@ -148,6 +177,10 @@ One task remains.
 
 The one I have always loved the most.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ✍️ To write.
 
 To create content that informs...
@@ -159,4 +192,5 @@ and equips the next generation of creators.
 ---
 
 > **"Technology is temporary. Knowledge endures. People give both their purpose."**
+
 <!-- PLEBVOX:END -->

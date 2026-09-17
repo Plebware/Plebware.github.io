@@ -3,6 +3,7 @@ layout: post
 title: "PlebWare Rebuild Completed"
 date: 2026-06-21
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🏗️ PlebWare Rebuild Completed
@@ -17,6 +18,10 @@ The objective was simple but ambitious: rebuild the entire foundation of PlebWar
 
 That objective has now been achieved.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🟢 Operational and Live
 
 The rebuilt platform is now fully operational and serving as the new home for the growing PlebWare ecosystem.
@@ -26,6 +31,10 @@ During the rework period, significant effort was invested into improving structu
 Rather than applying temporary fixes to aging systems, the decision was made to rebuild the framework properly, creating a stronger foundation capable of supporting future growth.
 
 The result is a cleaner, more organised platform designed around education, publishing, research, development, creativity, and practical knowledge sharing.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔧 What Remains
 
@@ -39,6 +48,10 @@ Current tasks include:
 
 These tasks are considered maintenance and refinement work rather than active reconstruction.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🚀 Entering the Next Phase
 
 With the major construction work now behind us, attention shifts toward preservation and consolidation.
@@ -46,6 +59,10 @@ With the major construction work now behind us, attention shifts toward preserva
 Older projects, archived content, historical websites, and legacy resources will gradually be brought into alignment with the new platform architecture. The goal is to preserve valuable work while presenting it through a consistent and modern framework.
 
 This next phase focuses on strengthening what has already been built rather than creating entirely new foundations.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📖 Looking Forward
 
@@ -152,4 +169,5 @@ PlebWare is ready for the future.
 
 
 ----
+
 <!-- PLEBVOX:END -->

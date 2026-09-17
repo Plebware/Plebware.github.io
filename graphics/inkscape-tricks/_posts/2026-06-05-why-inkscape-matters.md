@@ -3,8 +3,8 @@ layout: post
 title: "Why Inkscape Matters"
 date: 2026-06-05
 ---
-<!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 
 ## Drawing with Mathematics
 
@@ -21,6 +21,10 @@ Instead of storing images as coloured dots, vector graphics use mathematical des
 The result is remarkable.
 
 A logo created in Inkscape can be printed on a business card or enlarged to the size of a billboard without losing quality.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What is Inkscape?
 
@@ -43,6 +47,10 @@ Educational material
 Inkscape provides the tools necessary to produce high-quality results.
 
 Best of all, it is freely available to everyone.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Hidden Power of Vector Graphics
 
@@ -95,6 +103,10 @@ A researcher can create technical illustrations.
 Powerful design tools should not be reserved for large corporations.
 
 They should be available to everyone.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What This Section Covers
 
@@ -157,4 +169,5 @@ And the journey begins with a single line.
 "Great designs are not built from complexity. They are built from simple shapes used well."
 
 Otto Brinkmeier
+
 <!-- PLEBVOX:END -->

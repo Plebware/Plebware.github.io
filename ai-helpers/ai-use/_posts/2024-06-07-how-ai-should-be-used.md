@@ -3,9 +3,14 @@ layout: post
 title: "How AI Should Be Used"
 date: 2024-06-07
 ---
+
 <!-- PLEBVOX:START -->
 
 # The Correct Way To Leverage AI
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## A Tool, Not a Replacement
 
@@ -21,6 +26,10 @@ AI is a tool.
 
 And like any tool, its value depends on how it is used.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## What AI Is Good At
 
 AI systems are strong in areas such as:
@@ -33,6 +42,10 @@ AI systems are strong in areas such as:
 * Automating repetitive tasks
 
 These strengths make AI useful for productivity and learning.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What AI Is Not Good At
 
@@ -49,6 +62,10 @@ It can:
 Because of this, human judgement remains essential.
 
 AI supports decision-making—it does not replace it.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Importance of Human Direction
 
@@ -69,6 +86,10 @@ The machine generates possibilities.
 
 The human chooses meaning.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Responsible Use
 
 Using AI responsibly means understanding both its strengths and its limits.
@@ -81,6 +102,10 @@ It should not be used to:
 * Avoid learning or understanding
 
 Instead, it should support learning, creativity, and productivity.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The PlebWare Perspective
 
@@ -102,6 +127,10 @@ AI helps:
 
 But the human remains responsible for outcomes.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## A Learning Tool First
 
 The most powerful way to use AI is not to outsource thinking.
@@ -118,6 +147,10 @@ Used correctly, AI becomes:
 
 It supports growth rather than replacing effort.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Closing Thought
 
 Technology becomes dangerous when it replaces understanding.
@@ -131,4 +164,5 @@ AI is no exception.
 *Use tools that sharpen the mind, not replace it.*
 
 **Captain Gemini**
+
 <!-- PLEBVOX:END -->

@@ -3,6 +3,7 @@ layout: post
 title: "Web Design 101: Building Websites That People Want to Visit"
 date: 2026-06-20
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 What Is Web Design?
@@ -26,6 +27,10 @@ It is about helping visitors find information quickly and enjoyably.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Why Web Design Matters
 
 A website is often the first impression people have of a person, business, ministry, or project.
@@ -42,6 +47,10 @@ A well-designed website can:
 Poor design can cause visitors to leave within seconds.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 The Purpose of a Website
 
@@ -66,7 +75,15 @@ Examples include:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 The Basic Building Blocks
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## HTML
 
@@ -87,6 +104,10 @@ Think of HTML as the skeleton of a website.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## CSS
 
 CSS stands for **Cascading Style Sheets**.
@@ -105,6 +126,10 @@ Think of CSS as the clothing and appearance of a website.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## JavaScript
 
 JavaScript adds interactivity.
@@ -121,7 +146,15 @@ Think of JavaScript as the movement and behavior of a website.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Good Design Principles
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Keep It Simple
 
@@ -130,6 +163,10 @@ Visitors should not have to guess where things are.
 Simple layouts are usually more effective than complicated ones.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Make Navigation Easy
 
@@ -143,6 +180,10 @@ Users should quickly find:
 Clear menus improve usability.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Use Readable Text
 
@@ -158,6 +199,10 @@ Content should always be easy to read.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Focus on Content
 
 Visitors come for information.
@@ -165,6 +210,10 @@ Visitors come for information.
 The design should support the content rather than distract from it.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Be Consistent
 
@@ -181,6 +230,10 @@ Consistency builds familiarity and trust.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Responsive Design
 
 Modern websites must work on:
@@ -195,6 +248,10 @@ Responsive design automatically adjusts content to different screen sizes.
 Today, mobile-friendly design is essential.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Accessibility
 
@@ -212,6 +269,10 @@ Accessible websites serve more people and are often easier for everyone to use.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Content Management Systems
 
 Many websites are built using content management systems (CMS).
@@ -226,6 +287,10 @@ Popular examples include:
 These systems allow users to publish content without writing code for every page.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Static Websites
 
@@ -248,6 +313,10 @@ Popular static site tools include:
 GitHub Pages is a popular platform for hosting static websites.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Planning a Website
 
@@ -279,7 +348,15 @@ Good planning prevents confusion later.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Common Beginner Mistakes
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Too Much Information on One Page
 
@@ -289,11 +366,19 @@ Break information into sections.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Too Many Visual Effects
 
 Animations and effects should support the content, not distract from it.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Ignoring Mobile Users
 
@@ -303,11 +388,19 @@ Always test on smaller screens.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Poor Navigation
 
 If visitors cannot find information quickly, they may leave.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Learning Web Design
 
@@ -326,6 +419,10 @@ Practice is more important than theory.
 The best way to learn web design is to build websites.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Final Thoughts
 
@@ -347,4 +444,5 @@ Every great website begins with a single page.
 
 *PlebTuition Series*
 *Learning, building, and publishing one page at a time.*
+
 <!-- PLEBVOX:END -->

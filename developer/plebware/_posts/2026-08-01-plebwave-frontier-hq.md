@@ -7,18 +7,22 @@ tags: [whatsapp-community, plebwave-frontier-hq, tag3, tag4, tag5, tag6, tag7]
 mode: "developer"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
-
-
 
 <img src="/assets/images/plebwave-frontier-hq.webp"
      alt="PlebWave HQ Frontier"
      style="max-width:100%; height:auto;">
+
 # Community Architecture
 
 I have decided to consolidate my separate WhatsApp communities into a single umbrella community called **PlebWave Frontier HQ**.
 
 Rather than having unrelated groups, I want the community to function as a coherent ecosystem built around three permanent hubs. These hubs represent the three pillars of everything I create.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ⚒️ The Forge
 
@@ -40,6 +44,10 @@ The Forge represents the creation of tools and physical technology.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📜 The Scriptorium
 
 **Purpose:** Create and preserve knowledge.
@@ -59,6 +67,10 @@ Topics include:
 The Scriptorium represents ideas, software, documentation, and creative works.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🕊️ The Sanctuary
 
@@ -84,6 +96,10 @@ Topics include:
 The Sanctuary is not only about faith; it is also the communication hub where content reaches people through social media and community interaction.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Philosophy
 

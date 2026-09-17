@@ -5,6 +5,7 @@ date: 2026-07-17
 categories: [study, pleb-tuition]
 tags: [SASSA, grants, South Africa, pension, disability grant, e-life, government services]
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 PlebTuition: SASSA Address Change and E-Life Life Certificate Guide
@@ -20,11 +21,19 @@ Fortunately, both processes are straightforward when you know what to expect.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Changing Your Address at SASSA
 
 The good news is that you **do not need to return to the SASSA office where you originally registered.**
 
 You can visit **any SASSA local office** to update your address.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 What to Take
 
@@ -43,6 +52,10 @@ Once your information has been updated, the changes should normally be reflected
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 What Is SASSA E-Life?
 
 **E-Life** is SASSA's modern digital verification system that confirms grant beneficiaries are still alive.
@@ -50,6 +63,10 @@ Once your information has been updated, the changes should normally be reflected
 Previously, many beneficiaries had to visit a SASSA office every few months to obtain a traditional **Life Certificate**.
 
 Today, SASSA can verify your identity electronically using **fingerprint or facial biometric verification**, linked with records from the Department of Home Affairs.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Why E-Life Matters
 
@@ -61,6 +78,10 @@ The system helps to:
 - Speed up the verification process.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Where Can You Complete E-Life?
 
@@ -77,6 +98,10 @@ The fingerprint verification usually takes only a couple of minutes.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Quick Reference
 
 | Situation | Where to Go | What to Bring |
@@ -85,6 +110,10 @@ The fingerprint verification usually takes only a couple of minutes.
 | E-Life verification | SASSA office, participating pay point, Post Office, or participating bank | ID for biometric verification |
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Final Thoughts
 
@@ -106,4 +135,5 @@ Because paperwork should never stand between you and the support you've earned.
 
 **Otto & Juelz**  
 *Still at Your Service*
+
 <!-- PLEBVOX:END -->

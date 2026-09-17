@@ -3,10 +3,8 @@ layout: post
 title: "The Great Repository Reconstruction"
 date: 2026-06-08
 ---
+
 <!-- PLEBVOX:START -->
-
-
-
 
 # 🐾 CyberCat and Armadillo: The Great Repository Reconstruction
 
@@ -52,6 +50,10 @@ Finally, on 3 May 2026, the decision was made.
 
 The entire structure would be rebuilt.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🚧 Operation: Repository Reconstruction
 
 For weeks, the two companions worked.
@@ -75,6 +77,10 @@ Sometimes it exploded spectacularly.
 Sometimes Armadillo accidentally moved a folder into another folder which already contained the same folder.
 
 Nobody talked about that incident.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📚 The Nine Great Modes
 
@@ -141,6 +147,10 @@ Audio production, DAWs, sample packs and multimedia tools.
 The entertainment sector.
 
 Reviews, gaming, streaming and hobbies.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ⚙️ The Final Test
 
@@ -339,4 +349,5 @@ To Be Continued...
 
 
 ------
+
 <!-- PLEBVOX:END -->

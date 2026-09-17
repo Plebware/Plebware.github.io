@@ -3,6 +3,7 @@ layout: post
 title: "Correct Prompts For ChatGPT"
 date: 2026-06-17
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🤖 How To Prompt ChatGPT For Better Results
@@ -24,6 +25,10 @@ Think of ChatGPT as a highly intelligent assistant with no knowledge of what is 
 This guide explains how to write prompts that consistently produce useful, detailed, and accurate results.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🎯 The Golden Rule
 
@@ -51,7 +56,15 @@ The result will be dramatically better.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 The Seven Parts Of A Great Prompt
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 1. Be Specific
 
@@ -74,6 +87,10 @@ The AI now knows:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 2. Provide Context
 
 ChatGPT performs best when it understands your situation.
@@ -89,6 +106,10 @@ ChatGPT performs best when it understands your situation.
 Now the answer can be tailored to your needs.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 3. Define The Format
 
@@ -111,6 +132,10 @@ Examples:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 4. Identify Your Audience
 
 Who will read the content?
@@ -130,6 +155,10 @@ Examples:
 > Explain artificial intelligence to a 12-year-old using simple language and practical examples.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 5. Specify The Tone
 
@@ -157,6 +186,10 @@ The same information can be delivered in many different styles.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 6. Add Constraints
 
 Constraints help the AI focus.
@@ -176,6 +209,10 @@ Examples:
 > Create a devotional of at least 2,000 words using Markdown, Scripture references, practical applications, emojis, and a closing prayer.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 7. Refine The Result
 
@@ -203,9 +240,17 @@ Each refinement improves the result.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🚀 A Prompt Formula That Almost Always Works
 
 A simple formula is:
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Role + Task + Context + Format + Constraints
 
@@ -228,6 +273,10 @@ Requirements:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Example 1: Writing
 
 ```text
@@ -246,6 +295,10 @@ Identify plot holes, pacing issues, character weaknesses, and suggest improvemen
 ```
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Example 2: Linux
 
@@ -266,6 +319,10 @@ Use simple language and include terminal commands.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Example 3: Bible Study
 
 ```text
@@ -285,7 +342,15 @@ Include practical applications and historical background.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔥 Advanced Prompting Techniques
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Ask For Examples
 
@@ -299,6 +364,10 @@ Try:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Ask For Comparisons
 
 Instead of:
@@ -311,6 +380,10 @@ Try:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Ask For Step-By-Step Instructions
 
 Instead of:
@@ -322,6 +395,10 @@ Try:
 > Provide a step-by-step guide for installing software on MX Linux using APT and Flatpak.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Ask The AI To Think Like An Expert
 
@@ -342,7 +419,15 @@ Example:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ⚠️ Common Prompting Mistakes
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Being Too Vague
 
@@ -352,6 +437,10 @@ Example:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Not Defining Output Format
 
 ❌ Explain Git.
@@ -359,6 +448,10 @@ Example:
 ✅ Create a Markdown tutorial explaining Git for beginners.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Expecting Mind Reading
 
@@ -371,6 +464,10 @@ ChatGPT does not know:
 Unless you tell it.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Asking Too Many Unrelated Questions
 
@@ -386,6 +483,10 @@ Compare cars.
 ✅ Break large tasks into smaller prompts.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 💡 The Secret Most People Miss
 
@@ -407,6 +508,10 @@ Ask:
 Each interaction improves the quality of the result.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🎯 Final Thoughts
 

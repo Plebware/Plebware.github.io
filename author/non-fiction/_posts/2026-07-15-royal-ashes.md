@@ -7,6 +7,7 @@ tags: [life, memoir, wisdom, writing, education, plebware, legacy]
 mode: "author"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
 
 # 👑 Royal Ashes
@@ -31,6 +32,10 @@ If even one reader can avoid a mistake because I recorded my own... if one perso
 
 After all, are we not the sum of everything we have learned, experienced, created, and shared?
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📚 A Living Repository
 
 PlebWare was never intended to become merely another personal website.
@@ -40,6 +45,10 @@ It is a growing repository of knowledge—a place where writers, students, devel
 Whether you arrive seeking writing advice ✍️, programming knowledge 💻, graphic design 🎨, research techniques 🔬, or practical life experience 🌍, my hope is that you will leave having learned something valuable.
 
 That hope gives me renewed enthusiasm to continue writing with fresh energy and purpose every day.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ⚱️ What Becomes of Ashes?
 
@@ -54,6 +63,10 @@ But written words can outlive stone monuments.
 Ideas can outlive the people who first imagined them.
 
 Knowledge, once shared, can continue serving others long after its author has departed.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌱 Why I Continue
 
@@ -159,4 +172,5 @@ And if these **Royal Ashes** continue burning long after I am gone, then my life
 
     })();
 </script>
+
 <!-- PLEBVOX:END -->

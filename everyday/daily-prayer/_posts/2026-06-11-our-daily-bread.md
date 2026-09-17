@@ -4,6 +4,7 @@ layout: post
 title: "Our Daily Bread"
 date: 2026-06-11
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🙏 Daily Prayer: Starting and Ending the Day with God
@@ -13,6 +14,10 @@ Prayer is one of the simplest and most powerful gifts God has given to His child
 It requires no special building, no expensive equipment, and no advanced education. Whether we are at home, at work, travelling, or sitting quietly in a chair, we can speak to God at any time.
 
 Daily prayer is not merely a religious duty. It is a living conversation with our Heavenly Father.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Why Pray Every Day?
 
@@ -29,6 +34,10 @@ Daily prayer helps us:
 
 Prayer reminds us that we were never intended to carry life's burdens alone.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Beginning the Day with Prayer
 
 Before checking messages, reading the news, or beginning work, take a few moments to acknowledge God.
@@ -41,6 +50,10 @@ A simple morning prayer might include:
 * Committing your plans to Him
 
 The tone of the entire day can be changed by a few minutes spent with God.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Praying Throughout the Day
 
@@ -57,6 +70,10 @@ You can pray:
 
 Short prayers throughout the day help keep our hearts focused on God.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Ending the Day with Prayer
 
 Before sleep, spend time reflecting on the day.
@@ -71,6 +88,10 @@ Thank God for:
 Confess any failures and place tomorrow into His hands.
 
 There is great comfort in ending the day with prayer.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 A Simple Daily Prayer
 
@@ -98,6 +119,10 @@ There is great comfort in ending the day with prayer.
 >
 > Amen.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Power of Consistency
 
 A strong prayer life is not built in a single day.
@@ -105,6 +130,10 @@ A strong prayer life is not built in a single day.
 It grows through daily practice.
 
 A few minutes each day, faithfully spent with God, can transform a person's heart, perspective, and relationship with Him.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Final Thoughts
 
@@ -213,4 +242,5 @@ He is listening.
 
 
 ----
+
 <!-- PLEBVOX:END -->

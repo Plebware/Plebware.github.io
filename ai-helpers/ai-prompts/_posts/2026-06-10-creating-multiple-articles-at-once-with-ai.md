@@ -3,6 +3,7 @@ layout: post
 title: "Creating Multiple Articles at Once with AI"
 date: 2026-06-10
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 Creating Multiple Articles at Once with AI
@@ -12,6 +13,10 @@ One of the most interesting experiments I've attempted recently involved creatin
 Not because I was in a hurry.
 
 Rather because I wanted to see whether a single afternoon could produce several useful articles for the PlebWare Auto Publishing Platform.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 The Challenge
 
@@ -27,6 +32,10 @@ Normally these would be written separately.
 
 Instead, I decided to generate all three from the same real-world experience.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Setup
 
 While working, several activities were happening simultaneously:
@@ -39,6 +48,10 @@ While working, several activities were happening simultaneously:
 * ChatGPT was assisting with writing.
 
 Each activity generated ideas that could be transformed into content.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Using AI as a Writing Assistant
 
@@ -57,6 +70,10 @@ The author still provides:
 
 The AI helps assemble the pieces.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 A Real Example Prompt
 
 A useful approach is simply to record events as they happen:
@@ -64,6 +81,10 @@ A useful approach is simply to record events as they happen:
 > I'm cooking soup, listening to an audiobook, playing Raid Shadow Legends, editing GitHub Pages CSS, and writing articles simultaneously. Turn these notes into separate articles covering cooking, gaming, and AI-assisted productivity.
 
 From a single collection of notes, multiple articles can be produced.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 The Unexpected Result
 
@@ -78,6 +99,10 @@ The cooking process became a recipe article.
 The writing process became an AI productivity article.
 
 One afternoon generated content for three different sections of the website.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Lessons Learned
 
@@ -103,6 +128,10 @@ One experience can generate content for multiple sections:
 
 Many small articles published regularly often outperform waiting months for a single perfect article.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Final Thoughts
 
 The experiment was a success.
@@ -114,4 +143,5 @@ That is the real power of combining human creativity with AI assistance.
 Not replacing the author.
 
 Multiplying what a single author can accomplish.
+
 <!-- PLEBVOX:END -->

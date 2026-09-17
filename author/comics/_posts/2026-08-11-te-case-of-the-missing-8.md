@@ -3,10 +3,12 @@ layout: post
 title: "The Case of the Missing 8"
 date: 2026-08-11
 ---
+
+<!-- PLEBVOX:START -->
+
 <img src="{{ '/assets/images/look-look-again.webp' | relative_url }}" 
      alt="A Lesson On Observation: Look Look Again, Do You See What You See"
      style="max-width: 100%; height: auto;">
-<!-- PLEBVOX:START -->
 
 # 🔑 Come 7:15 Uncle.
 
@@ -94,6 +96,10 @@ I had arrived almost an hour early because I had confidently read something that
 
 And that, dear reader, is how a man can sit freezing outside a shop while everybody else is still comfortably at home.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 😂 The Moral of the Story
 
 Sometimes the problem isn't the message.
@@ -134,6 +140,10 @@ And when necessary...
 
 **Put your glasses on!**
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🌧️ A Cold Morning Reminder
 
 This particular morning added another layer to the comedy.
@@ -155,6 +165,10 @@ almost an hour before anyone else needed to be there.
 At least the vehicle was warm.
 
 My pride wasn't.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 A Little Wisdom
 
@@ -182,6 +196,10 @@ And sometimes the lesson is simply:
 
 With your glasses.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🙏 A Thought for Today
 
 Before reacting to something today, take a moment to make sure you have actually understood it.
@@ -200,6 +218,8 @@ And sometimes...
 
 a pair of glasses can save you an hour of sitting in the cold.
 
-<!-- PLEBVOX:END -->
+
 
 🗡️ *'God's Journalist' in conjunction with ChatGPT and the Holy Spirit*
+
+<!-- PLEBVOX:END -->

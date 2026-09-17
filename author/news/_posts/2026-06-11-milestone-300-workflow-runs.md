@@ -3,6 +3,7 @@ layout: post
 title: "🚀 PlebWare Milestone: 300 Workflow Runs Reached!"
 date: 2026-06-11
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🚀 PlebWare Milestone: 300 Workflow Runs Reached!
@@ -25,6 +26,10 @@ Some runs taught valuable lessons about automation, publishing, Markdown formatt
 
 GitHub Actions workflows serve as the engine room behind many modern websites, automatically building and deploying content whenever changes are made. Reaching 300 runs means the platform has undergone hundreds of automated build and deployment cycles during its evolution. GitHub provides workflow run history through its Actions system, allowing developers and publishers to track deployments and automation activities.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 What This Milestone Represents
 
 This achievement represents:
@@ -41,6 +46,10 @@ This achievement represents:
 
 What started as a simple publishing idea has evolved into a growing digital knowledge platform.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Road Ahead
 
 The journey is far from over.
@@ -56,6 +65,10 @@ Future goals include:
 * Continuing to explore AI-assisted publishing
 
 Each workflow run represents another step forward.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 A Thank You
 
@@ -168,4 +181,5 @@ Tomorrow we continue building.
 
 
 ----
+
 <!-- PLEBVOX:END -->

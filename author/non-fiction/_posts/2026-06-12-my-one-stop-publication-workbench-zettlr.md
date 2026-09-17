@@ -3,15 +3,24 @@ layout: post
 title: "My One-Stop Publication Workbench Zettlr"
 date: 2026-06-12
 ---
+
 <!-- PLEBVOX:START -->
 
 # ✍️ My One-Stop Publication Workbench
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## From Idea to Publication in One Application: Zettlr
 
 By **Otto Brinkmeier (O.C. Verricchio)**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📚 Introduction
 
@@ -28,6 +37,10 @@ Today, Zettlr serves as my **One-Stop Publication Workbench** — a place where 
 For my work on **PlebWare**, **PlebMachine**, daily Christian devotions, technical papers, journalism, science fiction, and educational content, Zettlr has become an indispensable companion.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 💡 Stage 1 — Capturing Ideas
 
@@ -59,6 +72,10 @@ Nothing is wasted.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📝 Stage 2 — Building Knowledge
 
 A single note often grows into a larger body of knowledge.
@@ -89,6 +106,10 @@ A Linux troubleshooting note may later become:
 The original note becomes the seed from which multiple publications can grow.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌍 Stage 3 — World Building
 
@@ -130,6 +151,10 @@ This makes developing large fictional universes significantly easier.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📚 Stage 4 — Manuscript Development
 
 When it is time to write a book, Zettlr becomes my manuscript workshop.
@@ -149,6 +174,10 @@ Rather than focusing on fonts, page layouts, and formatting, I can focus on the 
 The result is greater productivity and fewer interruptions to the creative process.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📰 Stage 5 — Journalism and Technical Writing
 
@@ -173,6 +202,10 @@ This aligns perfectly with the publishing philosophy behind PlebWare.
 The same source document can often be repurposed for multiple publication targets.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ✝️ Stage 6 — Devotional Writing
 
@@ -199,6 +232,10 @@ Because everything remains searchable, previous studies can easily be revisited 
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🎓 Stage 7 — Academic and Journal Publication
 
 Zettlr was originally designed with academic writing in mind.
@@ -215,6 +252,10 @@ For writers, researchers, and students, this makes it possible to move from init
 The same environment used for note-taking can also be used for producing publication-ready work.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌐 Stage 8 — GitHub Publication
 
@@ -251,6 +292,10 @@ Zettlr fits naturally into the publishing pipeline.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Why Zettlr Works for Me
 
 Many applications specialize in one part of the writing process.
@@ -277,6 +322,10 @@ For me, it functions as:
 Very few applications cover so much of the publishing journey in one place.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🏁 Conclusion
 

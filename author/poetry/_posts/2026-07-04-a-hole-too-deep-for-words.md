@@ -3,9 +3,14 @@ layout: post
 title: "A Hole Too Deep for Words"
 date: 2026-07-04
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🕳️ A Hole Too Deep for Words
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🖋️ Introduction
 
@@ -14,6 +19,10 @@ Some experiences cannot be fully explained with ordinary conversation.
 Sometimes circumstances become so overwhelming that facts alone fail to communicate what the heart is carrying. This poem was not written to seek sympathy, nor to provide easy answers. It is simply an honest expression of uncertainty, grief, faith, and the quiet determination to keep moving forward despite not knowing what tomorrow may hold.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📜 The Poem
 
@@ -80,6 +89,10 @@ I will not let go of hope.
 ```
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 💭 Reflection
 
 There are moments when words feel inadequate, and yet they remain the only bridge between our hearts and the world around us.
@@ -89,6 +102,10 @@ This poem is not about giving up. It is about standing in the middle of uncertai
 Even when Heaven seems silent, faith reminds us that silence is not the same as absence.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ✨ Final Thought
 
@@ -191,4 +208,5 @@ No matter how deep the hole may seem today, tomorrow still belongs to God.
 
 
 ----
+
 <!-- PLEBVOX:END -->

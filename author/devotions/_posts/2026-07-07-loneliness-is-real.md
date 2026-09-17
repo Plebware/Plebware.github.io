@@ -3,9 +3,14 @@ layout: post
 title: "Loneliness Is Real"
 date: 2026-07-07
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🙏 **Daily Devotion**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 **When Being Seen Becomes Rare**
 
@@ -14,6 +19,10 @@ date: 2026-07-07
 *Heavenly Father, open our eyes to see You more clearly, to see one another more deeply, and to become people who reflect Your love through genuine attention, compassion, and fellowship; in Jesus' Name, Amen.*
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📖 Introduction
 
@@ -31,6 +40,10 @@ As Christians, we remember that God never intended mankind to live in isolation.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✝️ A Lesson from Church History
 
 The earliest Christians understood that the Church was never meant to be merely a building or a weekly meeting.
@@ -43,6 +56,10 @@ From the Garden of Eden onwards, Scripture reveals that humanity was created to 
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📖 Scripture
 
 > **"And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together... but encouraging one another."**
@@ -54,6 +71,10 @@ From the Garden of Eden onwards, Scripture reveals that humanity was created to 
 > — John 13:35
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Points to Remember
 
@@ -79,6 +100,10 @@ You may become the answer to someone's silent prayer.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🪶 Reflection
 
 Before asking,
@@ -92,6 +117,10 @@ perhaps ask,
 Sometimes God heals our own loneliness as we become His hands and His heart to someone else.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📝 Poem
 
@@ -211,4 +240,5 @@ Can echo loud in Heaven.
 
 
 ------
+
 <!-- PLEBVOX:END -->

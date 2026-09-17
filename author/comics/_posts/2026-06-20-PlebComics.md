@@ -3,6 +3,7 @@ layout: post
 title: "PlebComics 101"
 date: 2026-06-20
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 **Comics: Understanding the Art of Visual Storytelling**
@@ -34,6 +35,10 @@ At their heart, comics are simply **stories told through sequential art**.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Why Comics Matter
 
 Comics are often underestimated.
@@ -60,7 +65,15 @@ Today, comics are used in:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 The Building Blocks of Comics
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 1. Panels
 
@@ -72,6 +85,10 @@ A comic page is usually made up of several panels arranged in sequence.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 2. Gutters
 
 The space between panels is called the gutter.
@@ -81,6 +98,10 @@ Readers mentally fill in what happens between one panel and the next.
 This process is called **closure**.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 3. Speech Balloons
 
@@ -93,6 +114,10 @@ They help readers understand:
 * Personality
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 4. Captions
 
@@ -107,6 +132,10 @@ Examples include:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 5. Sound Effects
 
 Words such as:
@@ -120,7 +149,15 @@ help create action and atmosphere.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Different Types of Comics
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Comic Strips
 
@@ -133,6 +170,10 @@ Examples:
 * Educational cartoons
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Comic Books
 
@@ -147,6 +188,10 @@ These often focus on:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Graphic Novels
 
 Book-length stories told in comic format.
@@ -160,6 +205,10 @@ Graphic novels can be:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Webcomics
 
 Comics published online.
@@ -167,6 +216,10 @@ Comics published online.
 These are popular because creators can publish directly to readers without a traditional publisher.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Creating Your Own Comics
 
@@ -182,6 +235,10 @@ Start simple.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Step 1: Create a Story
 
 Ask yourself:
@@ -192,6 +249,10 @@ Ask yourself:
 * How does the story end?
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Step 2: Write a Script
 
@@ -206,6 +267,10 @@ Think of it as a blueprint for the artwork.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Step 3: Sketch Thumbnails
 
 Thumbnails are small rough sketches of pages.
@@ -218,6 +283,10 @@ They help plan:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Step 4: Draw the Pages
 
 Begin with rough sketches.
@@ -228,6 +297,10 @@ Focus first on storytelling rather than perfect artwork.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Step 5: Add Dialogue
 
 Keep dialogue concise.
@@ -237,6 +310,10 @@ Remember:
 Readers should be able to understand the story without reading huge blocks of text.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Step 6: Publish
 
@@ -250,6 +327,10 @@ Modern creators have many options:
 * Digital bookstores
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Comics and Storytelling
 
@@ -271,6 +352,10 @@ These elements matter more than artistic perfection.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Comics for Education
 
 Comics can be powerful teaching tools.
@@ -288,6 +373,10 @@ Visual storytelling helps many people learn faster and remember information long
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Comics and Independent Creators
 
 Today, independent creators have opportunities that previous generations never had.
@@ -302,6 +391,10 @@ A creator can:
 This makes comics an excellent creative outlet for writers, artists, teachers, and hobbyists.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Final Thoughts
 
@@ -415,4 +508,5 @@ Every great comic started with a blank page.
 
 
 ----
+
 <!-- PLEBVOX:END -->

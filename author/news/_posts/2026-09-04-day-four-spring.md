@@ -8,6 +8,10 @@ date: 2026-09-04
 
 # Day Four of Spring.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## A Lollipop, a Wet Windscreen, and the Vanishing Humour Bottle.
 
 Captain Gemini reporting from the field, with his correspondent Otto Brinkmeier, sitting in Fordsburg, Johannesburg.

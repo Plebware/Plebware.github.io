@@ -3,6 +3,7 @@ layout: post
 title: "Windows 11 Professional vs MX Linux 23.6: A Real-World Performance Comparison"
 date: 2026-07-19
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 Windows 11 Professional vs MX Linux 23.6
@@ -12,6 +13,10 @@ When people compare Windows and Linux, they often rely on benchmarks that don't 
 Both systems were installed on the same laptop using the same SSD and were tested under comparable conditions.
 
 The results were surprising.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Test Results
 
@@ -43,7 +48,15 @@ OS:            Microsoft Windows 11 Professional (x64) Build 26200.8875 (25H2).
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 What Stood Out
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Faster Boot Process
 
@@ -57,6 +70,10 @@ That difference is noticeable every single day.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Faster Restarts
 
 Restarting Windows took almost one minute.
@@ -67,6 +84,10 @@ If you frequently install updates or reboot during development, those seconds qu
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Faster Application Launch
 
 LibreOffice Writer launched nearly **3 seconds faster** under MX Linux.
@@ -74,6 +95,10 @@ LibreOffice Writer launched nearly **3 seconds faster** under MX Linux.
 Although this sounds minor, the difference becomes more apparent when launching multiple applications throughout the day.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Lower CPU Usage
 
@@ -95,6 +120,10 @@ That leaves additional processing power available for creative work, compiling s
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Dramatically Lower Memory Usage
 
 Memory usage showed the largest difference.
@@ -115,6 +144,10 @@ For systems with only 8 GB of RAM, this difference becomes even more significant
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Fewer Background Processes
 
 Windows had:
@@ -128,6 +161,10 @@ MX Linux reported:
 Although Windows services and Linux tasks are not identical measurements, the numbers reflect a common experience: Windows performs considerably more background activity than a typical MX Linux installation.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Why This Matters
 
@@ -146,6 +183,10 @@ For users involved in writing, software development, graphics work, research, or
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Is Windows Bad?
 
 Not at all.
@@ -161,6 +202,10 @@ Windows 11 Professional remains an excellent operating system, particularly for 
 It offers outstanding hardware compatibility and remains the standard desktop operating system for many organisations.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Why MX Linux Impressed Me
 
@@ -179,6 +224,10 @@ Rather than trying to impress with visual effects, MX Linux focuses on getting w
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Final Thoughts
 
 For my workflow, MX Linux 23.6 consistently delivered a better experience.
@@ -188,4 +237,5 @@ It booted faster, restarted quicker, launched applications sooner, consumed sign
 Windows 11 Professional remains a capable operating system, especially where commercial software compatibility is essential. However, if your priority is speed, efficiency, stability, and making the most of your hardware, MX Linux demonstrates just how capable a modern Linux desktop has become.
 
 Performance is not just about benchmark scores—it's about how quickly you can sit down, start working, and stay productive. In this comparison, MX Linux 23.6 came out ahead in every category I measured.
+
 <!-- PLEBVOX:END -->

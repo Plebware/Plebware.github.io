@@ -3,6 +3,7 @@ layout: post
 title: "Moonlighting as a Driver: When the Wheels Stop Turning"
 date: 2026-06-11
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🚚 Moonlighting as a Driver: When the Wheels Stop Turning
@@ -12,6 +13,10 @@ Since retirement, I have taken on moonlighting work as a driver to supplement ou
 The pay is modest at **R150 per day**, but every Rand helps when you are living on a tight budget.
 
 Unfortunately, today was one of those days that reminds us that vehicles have minds of their own.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Another R150 Lost
 
@@ -33,6 +38,10 @@ Although it may seem like a minor part, a failed thrust bearing can leave a vehi
 For a moonlighting driver, that often means lost income.
 
 Today, another **R150 disappeared before the day even began.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 The Weekly Route
 
@@ -73,6 +82,10 @@ Friday returns us to the familiar route:
 
 By the end of the week, the route has become second nature, but no two days are ever exactly the same.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Life Behind the Wheel
 
 Many people imagine driving as simply sitting behind a steering wheel.
@@ -91,6 +104,10 @@ Sometimes the greatest challenge is not the road.
 
 Sometimes it is the vehicle itself.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Lessons From Today
 
 Today's breakdown serves as a reminder that even the best plans can be interrupted.
@@ -106,6 +123,10 @@ The route will continue.
 The work will continue.
 
 And the determination to provide for the household will continue.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Final Thoughts
 
@@ -214,4 +235,5 @@ When you work behind the wheel, you learn one important truth:
 
 
 ----
+
 <!-- PLEBVOX:END -->

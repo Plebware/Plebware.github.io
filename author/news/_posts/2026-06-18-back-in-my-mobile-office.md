@@ -3,9 +3,14 @@ layout: post
 title: "Back In My Mobile Office"
 date: 2026-06-18
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🚚 Update From The Mobile Office
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📝 Introduction
 
@@ -27,6 +32,10 @@ Sometimes the best ideas arrive while waiting at warehouses.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🛒 A Short Detour Into Shop Work
 
 During the course of stopping at the second purchase point, I was called away from the vehicle to help push the trolley while the buyer loaded it.
@@ -42,6 +51,10 @@ It is interesting how even ordinary workdays become opportunities to observe, re
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🚛 Back On The Road
 
 After returning to the Ford Ranger, I continued the delivery route.
@@ -53,6 +66,10 @@ The reason was that the South African Police Service (SAPS) were conducting chec
 These checks are part of the ongoing efforts to ensure that everyone operating within the law has the necessary paperwork.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🏠 Back On Stand-By
 
@@ -168,4 +185,5 @@ A story waiting to be written.
 
 
 -----
+
 <!-- PLEBVOX:END -->

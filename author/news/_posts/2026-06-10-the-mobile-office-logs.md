@@ -3,6 +3,7 @@ layout: post
 title: "💻 | The Mobile Office Logs"
 date: 2026-06-10
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🚗 Portable Publishing From The Field
@@ -12,6 +13,10 @@ Today’s dispatch comes straight from the real-world command centre: a **2010 F
 There’s something oddly satisfying about stepping out of a setup like this, locking in a thought, and pushing it live into the digital world moments later.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 💻 The Mobile Office in Action
 
@@ -28,6 +33,10 @@ The system is starting to feel less like “using tools” and more like **livin
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🚗 The Machine Behind It All
 
 The base station today:
@@ -43,6 +52,10 @@ Sometimes the best writing environment is simply… wherever you are.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ⚠️ Field Note: Small Oversight
 
 In the rush of stepping out, one small reminder from reality:
@@ -52,6 +65,10 @@ In the rush of stepping out, one small reminder from reality:
 A simple thing, but it fits the theme of field publishing — nothing is perfectly controlled, and the system adapts as you go.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🧭 Closing Reflection
 
@@ -156,4 +173,5 @@ And today, that newsroom just happened to be parked somewhere in Johannesburg tr
 
 
 ---
+
 <!-- PLEBVOX:END -->

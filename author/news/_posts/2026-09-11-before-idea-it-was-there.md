@@ -7,11 +7,12 @@ tags: [Otto-Brinkmeier, Commodore-VIC-20, Microsoft-BASIC, Computing-History, Pl
 mode: "author"
 author: Otto Brinkmeier
 ---
+
+<!-- PLEBVOX:START -->
+
 <img src="/assets/images/old-idea-new-concept.webp"
      alt="Retro Newspaper — The story of the teenage Otto dreaming about computer greatness, before the idea."
      style="max-width: 100%; height: auto;">
-
-<!-- PLEBVOX:START -->
 
 # Before the Idea, It Was There.
 
@@ -569,7 +570,7 @@ Then we look backwards and realise:
 
 **Before the idea had a name, it was already there.**
 
-<!-- PLEBVOX:END -->
+
 
 **Author's Note.**
 

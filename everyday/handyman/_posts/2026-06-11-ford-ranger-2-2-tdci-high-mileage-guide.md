@@ -3,6 +3,7 @@ layout: post
 title: "2010 Ford Ranger 2.2 TDCi 6-Speed: Surviving Beyond 200,000 km"
 date: 2026-06-11
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔧 2010 Ford Ranger 2.2 TDCi 6-Speed: Surviving Beyond 200,000 km
@@ -10,6 +11,10 @@ date: 2026-06-11
 The Ford Ranger 2.2 TDCi equipped with the Puma (Duratorq) diesel engine and 6-speed manual gearbox has earned a reputation as one of Ford's tougher modern diesel combinations. Many examples in South Africa have exceeded 300,000 km and some even reach 500,000 km on the original engine.
 
 However, once the odometer passes the 200,000 km mark, several known wear items begin demanding attention.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🚙 Understanding the 2.2 TDCi
 
@@ -19,7 +24,15 @@ When maintained correctly, the engine remains capable of many additional years o
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Common High-Mileage Problems
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔧 Turbocharger
 
@@ -41,6 +54,10 @@ When maintained correctly, the engine remains capable of many additional years o
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 💉 Fuel Injectors
 
 **Typical lifespan:** 150,000 – 220,000 km
@@ -60,6 +77,10 @@ When maintained correctly, the engine remains capable of many additional years o
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ♻️ EGR Valve and Cooler
 
 **Typical lifespan:** 120,000 – 180,000 km
@@ -78,6 +99,10 @@ When maintained correctly, the engine remains capable of many additional years o
 * Internal cooler leaks
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ⚙️ Oil Pump
 
@@ -110,7 +135,15 @@ The variable vane oil pump wears over time. Once oil pressure drops below accept
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🚨 The Big Three Problems
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 1️⃣ Oil Pump Failure
 
@@ -121,6 +154,10 @@ Check hot idle oil pressure regularly.
 A healthy engine should maintain more than **1.2 bar** at hot idle.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 2️⃣ EGR Cooler Failure
 
@@ -137,6 +174,10 @@ Ignoring the problem can result in cylinder head damage.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 3️⃣ Injector Washer Leaks
 
 Copper injector sealing washers can leak combustion gases.
@@ -150,6 +191,10 @@ Copper injector sealing washers can leak combustion gases.
 If neglected, carbon buildup can eventually restrict oil flow and contribute to engine failure.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🛞 Suspension and Chassis Wear
 
@@ -170,7 +215,15 @@ If neglected, carbon buildup can eventually restrict oil flow and contribute to 
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔧 Other Known Ranger Quirks
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Intercooler Hoses
 
@@ -186,6 +239,10 @@ Many owners upgrade to silicone hoses.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Vacuum Pump Leak
 
 A common oil leak appears at the rear of the cylinder head.
@@ -193,6 +250,10 @@ A common oil leak appears at the rear of the cylinder head.
 Fortunately, repairs are generally inexpensive.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Fuel Tank Breather Problems
 
@@ -202,6 +263,10 @@ A blocked breather can cause:
 * Fuel delivery issues when the tank is low
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Radiator End Tanks
 
@@ -214,6 +279,10 @@ Look for:
 * Sweet smell after driving
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Five Checks Every Owner Should Do
 
@@ -247,7 +316,15 @@ Low oil levels can destroy the gearbox.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🛢️ Maintenance That Keeps These Engines Alive
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Engine Oil
 
@@ -256,12 +333,20 @@ Low oil levels can destroy the gearbox.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Fuel Filter
 
 * Replace every 20,000 km
 * Drain water separator regularly
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Air Filter
 
@@ -272,6 +357,10 @@ Johannesburg's dusty conditions demand frequent inspection.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Coolant
 
 Use the correct OAT coolant mixture.
@@ -280,11 +369,19 @@ Replace every three years.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Gearbox, Diffs and Transfer Case
 
 Replace lubricants every 80,000 km.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 📈 Expected Lifespan
 
@@ -297,6 +394,10 @@ A well-maintained example can realistically achieve:
 * 500,000 km or more in exceptional cases
 
 The engine itself is remarkably durable. Most failures occur because supporting systems are ignored.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🏁 Final Thoughts
 
@@ -394,4 +495,5 @@ For many owners, preventative maintenance is far cheaper than replacing an engin
 </script>
 
 -----
+
 <!-- PLEBVOX:END -->

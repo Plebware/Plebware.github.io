@@ -3,8 +3,8 @@ layout: post
 title: "The New Frontier of Creative Graphics"
 date: 2023-11-21
 ---
-<!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 
 ## A New Tool for Creators
 
@@ -22,6 +22,10 @@ Today, Artificial Intelligence is becoming another tool in that long tradition.
 
 Like every tool before it, its value depends on the imagination and skill of the person using it.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## What Are AI Graphics?
 
 AI graphics are images created, enhanced, modified, or assisted by artificial intelligence systems.
@@ -37,6 +41,10 @@ A writer may create illustrations for stories and books.
 The possibilities continue to grow.
 
 What once required large budgets and specialised teams can now be explored by individuals working from home.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Human Creativity Still Matters
 
@@ -55,6 +63,10 @@ The machine can generate images.
 The creator provides purpose.
 
 The quality of the result often depends upon the imagination, knowledge, and artistic judgement of the person behind the keyboard.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The PlebWare Perspective
 
@@ -75,6 +87,10 @@ A small business can produce marketing materials.
 Creative tools that were once reserved for specialists are becoming available to ordinary people.
 
 Knowledge remains the most important resource.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What This Section Covers
 
@@ -126,4 +142,5 @@ Creativity will remain timeless.
 "The machine generates images. The creator generates meaning."
 
 Captain Gemini
+
 <!-- PLEBVOX:END -->

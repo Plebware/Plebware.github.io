@@ -3,9 +3,14 @@ layout: post
 title: "Logo Design - Creating Symbols That Tell A Story"
 date: 2026-06-20
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🎨 Logo Design - Creating Symbols That Tell A Story
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Introduction
 
@@ -23,6 +28,10 @@ A successful logo communicates:
 A logo becomes the face of a project.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # ✏️ What Is A Logo?
 
@@ -42,7 +51,15 @@ It creates curiosity.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🧠 The Five Foundations Of Logo Design
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 1. Simplicity
 
@@ -59,6 +76,10 @@ Think of a logo as a symbol, not a painting.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 2. Meaning
 
 A logo should have a story.
@@ -72,6 +93,10 @@ Ask:
 The best logos contain hidden meaning.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 3. Typography
 
@@ -97,6 +122,10 @@ Bold:
 The font should match the mission.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 4. Colour Choice
 
@@ -126,6 +155,10 @@ Black:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 5. Versatility
 
 A logo should work everywhere:
@@ -146,7 +179,15 @@ A great logo survives different environments.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🛠️ The Logo Creation Process
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Step 1: Research
 
@@ -161,6 +202,10 @@ Write down:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Step 2: Sketch Ideas
 
 Start with paper.
@@ -173,6 +218,10 @@ The first goal is discovery.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Step 3: Build The Shape
 
 Reduce the idea.
@@ -184,6 +233,10 @@ Ask:
 "Does this still work as a simple symbol?"
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Step 4: Test It
 
@@ -198,29 +251,53 @@ A good logo remains recognisable.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🖥️ Logo Design For Digital Projects
 
 Modern digital projects need flexible logos.
 
 Consider creating:
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Main Logo
 
 Full branding version.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Icon
 
 Small symbol version.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Monochrome Version
 
 A single colour version.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Website Version
 
 Optimised for screens.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🌐 Logo Design In PlebWare
 
@@ -242,6 +319,10 @@ The goal is identity.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 📝 Practical Exercise
 
 Create a logo idea for yourself.
@@ -258,6 +339,10 @@ Answer:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 📚 Final Thought
 
 A logo is a small image carrying a big message.
@@ -268,7 +353,12 @@ They are the ones that communicate clearly.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 PlebWare Creative Principle
 
 "Design is where ideas become visible."
+
 <!-- PLEBVOX:END -->

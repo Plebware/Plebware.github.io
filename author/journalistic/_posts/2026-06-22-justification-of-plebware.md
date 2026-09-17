@@ -3,9 +3,14 @@ layout: post
 title: "Justification of PlebWare"
 date: 2026-06-22
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 **100 Subcategories Is Not Too Much.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🏗️ A Response To The Critics
 
@@ -15,6 +20,10 @@ It was said that I have created too many subcategories.
 
 > “What a lot of Tommy-rot”
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🌱 What Is Ordained By Nature
 
 What is ordained by nature, should be rather expressed as what is right!
@@ -22,6 +31,10 @@ What is ordained by nature, should be rather expressed as what is right!
 Or even better:
 
 🙏 What is ordained by God, is always the right thing.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📚 Books, Knowledge, And Curiosity
 
@@ -37,6 +50,10 @@ The bitter pill is this:
 
 I have very many interests, and it is not by accident.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 👨‍👦 The Foundation Of Knowledge
 
 For you see, I had an earthly daddy, who invested a lot of money and effort in ensuring I had a good education.
@@ -49,6 +66,10 @@ For starters, he built a wall-sized bookshelf in our lounge, and filled it with:
 📖 Various other literary works  
 
 That foundation shaped the way I think.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🧠 Many Interests, One Purpose
 
@@ -68,6 +89,10 @@ What I am saying is:
 
 Although there are 100 subcategories, I am more than capable, and I love writing, in a graduated manner.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✍️ My Writing Style
 
 Do I have a fixed style of writing?
@@ -83,6 +108,10 @@ Especially now that I leverage AI to improve my written work.
 
 Especially now, at six-point-three decades of life experience, and having discovered that my purpose is to teach others to achieve.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ⌨️ The Keyboard Is Mightier Than The Pen
 
 With all that said, my motto:
@@ -92,6 +121,10 @@ With all that said, my motto:
 is not just a silly marketing ploy I thought up twenty-three years ago.
 
 Now is my time to prove it.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔥 A Mind In Motion
 
@@ -103,6 +136,10 @@ Be it:
 ⌨️ The full QWERTY layout on my laptop  
 
 From which this masterpiece is being produced.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ⚙️ The Engineer's Mind
 
@@ -117,6 +154,10 @@ That is why there are products such as:
 ⚙️ **PlebMachine**
 
 And for that I most certainly will not apologise.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🚀 The Journey Continues
 
@@ -224,4 +265,5 @@ And I will see it through to the end.
 
 
 -----
+
 <!-- PLEBVOX:END -->

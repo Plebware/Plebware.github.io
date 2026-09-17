@@ -3,9 +3,15 @@ layout: post
 title: "Why Christian Research Matters"
 date: 2026-06-07
 ---
+
 <!-- PLEBVOX:START -->
 
 # Why Christian Research Matters
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Searching for Truth
 
 The Christian faith is n---
@@ -23,6 +29,10 @@ The Apostle Paul commended those who searched the Scriptures daily to verify wha
 Research is therefore not the enemy of faith.
 
 Properly applied, it strengthens faith.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## More Than Opinions
 
@@ -44,6 +54,10 @@ The goal is not to follow traditions blindly, nor to accept every new idea that 
 
 The goal is to compare every teaching against Scripture.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Areas of Christian Research
 
 This section will explore a variety of subjects, including:
@@ -60,6 +74,10 @@ Comparative religion
 Current issues affecting the Church
 
 Each topic will be approached with a commitment to honesty, evidence, and Biblical examination.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## A Berean Mindset
 
@@ -93,6 +111,10 @@ Wisdom should lead to obedience.
 
 Obedience should lead to a closer relationship with Christ.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Looking Ahead
 
 The articles that follow will examine Scripture, history, doctrine, and evidence with a commitment to careful study and thoughtful discussion.
@@ -112,4 +134,5 @@ It is part of the lifelong pursuit of truth.
 "Truth Revealed by Blood and Fire"
 
 Cody - Dei Scriptor
+
 <!-- PLEBVOX:END -->

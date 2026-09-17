@@ -3,6 +3,7 @@ layout: post
 title: "Living on a Small Income: A Daily Budget for a Family of Two"
 date: 2026-06-11
 ---
+
 <!-- PLEBVOX:START -->
 
 ---
@@ -18,6 +19,10 @@ There are many articles about budgeting, but few discuss what budgeting looks li
 Our household consists of two adults, supported by a combination of SASSA income and moonlighting work as a driver.
 
 Our total monthly income is approximately **R7,800**.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Fixed Monthly Expenses
 
@@ -37,6 +42,10 @@ This leaves:
 
 for food, toiletries, and everything else.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Why We Prioritize Internet
 
 Some people view internet access as a luxury.
@@ -53,6 +62,10 @@ The fibre connection allows us to:
 
 In the modern world, internet access is increasingly becoming a necessity rather than a luxury.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Our Cat Is Family
 
 Many households have pets.
@@ -60,6 +73,10 @@ Many households have pets.
 In our case, our cat is not merely an animal but part of the family.
 
 The monthly cat food budget may seem high to some readers, but responsible pet ownership means ensuring that dependents are properly cared for before spending money on non-essential items.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Living on What Remains
 
@@ -79,6 +96,10 @@ This works out to approximately:
 
 for the entire household.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Making Every Rand Count
 
 When income is limited, success often depends less on how much money comes in and more on how carefully it is managed.
@@ -90,6 +111,10 @@ Strategies that help include:
 - Avoiding unnecessary debt
 - Reducing food waste
 - Tracking every major expense
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Final Thoughts
 
@@ -192,4 +217,5 @@ When that happens, even a limited income can provide dignity, stability, and pea
 
 
 ------
+
 <!-- PLEBVOX:END -->

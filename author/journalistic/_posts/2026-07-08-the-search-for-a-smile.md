@@ -3,6 +3,7 @@ layout: post
 title: "The Search for a Smile"
 date: 2026-07-08
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 Tears for Fears
@@ -210,4 +211,5 @@ One sentence...
 One act of faith...
 
 One ordinary day at a time.
+
 <!-- PLEBVOX:END -->

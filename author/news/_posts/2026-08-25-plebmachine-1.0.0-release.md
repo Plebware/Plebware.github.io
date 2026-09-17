@@ -12,6 +12,10 @@ PlebMachine has officially reached its **first public release: version 1.0.0.**
 
 What began as an idea for a lightweight productivity layer for Linux has now become a working, installable system that has been **tried and tested on multiple machines**.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🚀 PlebMachine 1.0.0.
 
 PlebMachine is a state-driven productivity layer for the Linux desktop. It can change the working environment according to the user's selected state and mode, bringing together applications, wallpapers, and desktop configuration into a coordinated workspace.
@@ -27,6 +31,10 @@ The first release includes:
 - PlebMachine Tools and configuration utilities.
 - Application launching and desktop environment management.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🧪 Tried and Tested.
 
 PlebMachine 1.0.0 has been **tried and tested on multiple machines**, including an older Dual-Core system.
@@ -35,11 +43,19 @@ The results have been extremely encouraging. PlebMachine runs smoothly on older 
 
 The Debian package is intended for **64-bit Debian-based Linux systems**, with MX Linux serving as the primary development and testing environment.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Download PlebMachine 1.0.0.
 
 **[Download PlebMachine 1.0.0 — Debian Package](https://github.com/Plebware/PlebMachine/releases/download/v1.0.0/plebmachine_1.0.0_amd64.deb)**
 
 The package is distributed through the official PlebMachine GitHub release.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🛠️ Installation.
 
@@ -48,6 +64,10 @@ After downloading the `.deb` package, install it from a terminal with:
 ```bash
 sudo apt install ./plebmachine_1.0.0_amd64.deb
 ```
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌱 This Is Only the Beginning.
 

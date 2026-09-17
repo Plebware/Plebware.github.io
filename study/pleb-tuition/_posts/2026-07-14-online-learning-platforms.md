@@ -7,10 +7,8 @@ tags: [free-learning, study, learn, improve, qualify, education, literacy]
 mode: "study"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
-
-
-
 
 # 🎓 Learning Platforms That Can Change Your Life
 The internet has transformed education.
@@ -18,6 +16,10 @@ The internet has transformed education.
 Today, anyone with a computer or smartphone and an internet connection can study subjects ranging from basic literacy to Artificial Intelligence, engineering, business management, theology, and computer programming.
 
 Many platforms are completely free. Others charge only for certificates while allowing the learning material itself to remain freely available.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## **[🔑 Alison](https://alison.com)**
 
@@ -41,6 +43,10 @@ Entrepreneurs
 Students
 Lifelong learners
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## **[🔑 Khan Academy](https://www.khanacademy.org)**
 
 One of the best completely free educational platforms available.
@@ -56,6 +62,10 @@ History
 Test Preparation
 Excellent for school learners, university preparation, and adults refreshing forgotten knowledge.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## **[🔑 Coursera](https://www.coursera.org)**
 
 Coursera partners with many world-leading universities and companies including:
@@ -66,6 +76,10 @@ Google
 IBM
 Microsoft
 Most courses can be audited free of charge.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## **[🔑 edX](https://www.edx.org)**
 
@@ -81,6 +95,10 @@ Data Science
 Artificial Intelligence
 Many university-level courses are available free to audit.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## **[🔑 OpenLearn](https://www.open.edu/openlearn/)**
 
 Provided by The Open University.
@@ -95,6 +113,10 @@ Health
 History
 Languages
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## **[🔑 MIT OpenCourseWare](https://ocw.mit.edu)**
 
 MIT freely publishes much of its curriculum, including:
@@ -104,6 +126,10 @@ Assignments
 Examinations
 Video lectures
 Subjects range from engineering and physics to economics and philosophy.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## **[🔑 Harvard Online Learning](https://pll.harvard.edu)**
 
@@ -117,6 +143,10 @@ Data Science
 Artificial Intelligence
 Many courses may be audited without charge.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## **[🔑 FutureLearn](https://www.futurelearn.com)**
 
 Courses include:
@@ -128,6 +158,10 @@ Psychology
 Technology
 Creative Arts
 Some courses remain permanently free while others offer free access for limited periods.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## **[🔑 freeCodeCamp](https://www.freecodecamp.org/learn)**
 
@@ -144,6 +178,10 @@ Machine Learning
 Data Analysis
 Students build real-world projects while learning.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## **[🔑 Google Skillshop](https://skillshop.withgoogle.com)**
 
 Google’s official professional training platform covering:
@@ -154,6 +192,10 @@ Digital Marketing
 Google Workspace
 Google Cloud
 Many courses include recognised Google certifications.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## **📚 Making the Most of Online Learning**
 The greatest advantage of online education is flexibility.
@@ -271,4 +313,5 @@ As with every environment, the one that shapes your future most profoundly is th
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

@@ -6,9 +6,8 @@ author: "The Digital Handy Man"
 date: "2026-07-21"
 tags: ["notetaking", "mindfulness", "creativity", "analogue", "self-reliance"]
 ---
+
 <!-- PLEBVOX:START -->
-
-
 
 # The Lost Art of Keeping a Notebook: Reclaiming Your Inner World
 
@@ -24,6 +23,10 @@ Let's talk about how to bring this practice back into your life.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Philosophy: Why Notebooks Still Matter
 
 In an age of abundance—abundant information, abundant notifications, abundant noise—the notebook is an act of curation. It is a filter.
@@ -37,6 +40,10 @@ Some of the greatest minds in history were obsessive note-takers. Leonardo da Vi
 For these thinkers, the notebook was not a chore; it was a compulsion. It was how they made sense of the world.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Core Principles of Notebooking
 
@@ -82,6 +89,10 @@ Neuroscience confirms what poets have always known: writing by hand engages more
 - **The Ownership:** Your handwriting is unique to you. It is a physical manifestation of your identity. A typed document is sterile; a handwritten page is alive.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Three Types of Notebooks to Try
 
@@ -131,6 +142,10 @@ Digital calendars are great for appointments, but they are terrible for *thinkin
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## How to Start (Without Overwhelming Yourself)
 
 Starting a notebook practice is simple, but it requires a shift in mindset. Here is how to avoid the common pitfalls.
@@ -155,6 +170,10 @@ Commit to this practice for 30 days. Do not judge the quality of your entries. J
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Digital vs. Analog Debate
 
 Let me be clear: I am not anti-digital. I use Obsidian and Logseq for specific purposes (as covered in my previous article). Digital tools are excellent for storing and searching large amounts of information.
@@ -166,6 +185,10 @@ The digital screen is optimized for consumption. The notebook is optimized for c
 Use both. Use them well. But do not let the convenience of the screen replace the intimacy of the page.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Final Thoughts
 

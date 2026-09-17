@@ -3,6 +3,7 @@ layout: post
 title: "My Journey Towards GIMP"
 date: 2026-07-02
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🎨 My Graphic Design Journey
@@ -10,6 +11,10 @@ date: 2026-07-02
 > *"Every picture tells a story. My goal is to ensure that story begins before the first word is ever read."*
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🖌️ A Lifelong Passion
 
@@ -20,6 +25,10 @@ Long before I considered myself an author or publisher, I was fascinated by the 
 In many ways, graphics are the first handshake between a project and its viewers. A thoughtfully designed visual invites people to explore further, while poor design can discourage even the most interested reader. In an increasingly visual world, strong graphics are no longer a luxury—they are an essential part of effective communication.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌟 What You'll Find Here
 
@@ -33,6 +42,10 @@ Those looking for freelance design work will also find examples of the services 
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 💾 Where It All Began
 
 Looking back, my journey into graphic design began with one of the simplest programs imaginable—**Microsoft Paint**.
@@ -44,6 +57,10 @@ From there I graduated to **Micrografx Picture Publisher**, which I discovered o
 Eventually I discovered **GIMP**, and it has remained my primary graphics editor ever since. Over the years I have watched it mature into an exceptionally capable application, one that continues to meet nearly all of my creative requirements.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🐧 Why I Choose Open Source
 
@@ -57,6 +74,10 @@ My work is therefore centred around applications such as **GIMP**, **Inkscape**,
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✨ More Than Just Pictures
 
 As I write these articles, I find myself both reminiscing about the past and looking towards the future. Graphic design has been a constant companion throughout my creative journey, evolving from a simple hobby into an important part of my work as an author, publisher, and educator.
@@ -67,6 +88,10 @@ Every image I create is another opportunity to tell a story.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🤖 AI as My Digital Sketchbook
 
 In recent years, artificial intelligence has become an invaluable part of my creative workflow. Rather than replacing my creativity, it has expanded it.
@@ -76,6 +101,10 @@ I frequently use AI image generators to create concept artwork, rough compositio
 However, I rarely consider an AI-generated image to be a finished piece. Instead, I treat it as a digital sketch—a starting point rather than the destination.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🎨 From AI Concept to Finished Artwork
 
@@ -89,6 +118,10 @@ The finished artwork becomes mine through refinement, editing, and countless cre
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✍️ Today I Paint With Words
 
 In many respects, my artistic process has evolved.
@@ -100,6 +133,10 @@ Today I often begin by **painting with words**.
 Through carefully written prompts I guide an AI towards the vision I have in my imagination. Once the concept is close enough, I take over and refine it using traditional digital art techniques until the final piece becomes uniquely my own.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🛠️ AI Is a Tool—Not the Artist
 
@@ -114,6 +151,10 @@ My goal has never been to press a button and claim someone else's work as my own
 My goal is to transform ideas into finished artwork that tells a story, communicates a message, and carries my own creative fingerprint.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 My Creative Philosophy
 
@@ -132,4 +173,5 @@ And creativity is what ultimately turns an idea into a finished masterpiece.
 ---
 
 > **"Every graphic begins as an idea. Whether sketched with a pencil, painted with a mouse, or described with carefully chosen words, it is the artist who transforms imagination into something worth sharing."** 🎨✨
+
 <!-- PLEBVOX:END -->

@@ -3,11 +3,16 @@ layout: post
 title: "Adding Images to GitHub Pages"
 date: 2026-06-22
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🖼️ Picture Perfect GitHub Pages
 
 One of the first things most people want to do when building a GitHub Pages website is add screenshots, logos, banners, diagrams, and photographs. Fortunately, GitHub Pages makes this easy once you understand where your images should be stored and how image paths work.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Step 1: Create an Images Folder
 
@@ -29,6 +34,10 @@ Many GitHub Pages and Jekyll-based sites store images in `assets/images/`.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Step 2: Upload Your Images
 
 Simply copy or upload your image files into the folder.
@@ -43,6 +52,10 @@ assets/images/screenshot.jpg
 Commit and push the files to GitHub.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Step 3: Display Images Using Markdown
 
@@ -62,6 +75,10 @@ The text inside the square brackets is called **alt text** and helps accessibili
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Step 4: Add Images Using HTML
 
 Sometimes you need more control over image size or alignment.
@@ -73,6 +90,10 @@ You can use standard HTML:
 ```
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Step 5: Resize Images
 
@@ -93,6 +114,10 @@ Or:
 ```
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Step 6: Center Images
 
@@ -116,6 +141,10 @@ Or:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Step 7: Make Images Clickable
 
 Wrap the image inside a link.
@@ -129,6 +158,10 @@ Wrap the image inside a link.
 When clicked, the full-size image opens.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Step 8: Using Relative Paths
 
@@ -162,6 +195,10 @@ GitHub Pages runs on Linux servers, which are case-sensitive.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Step 9: Images Inside Posts
 
 If you are writing a Jekyll post:
@@ -188,6 +225,10 @@ or
 ```
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Common Problems
 
@@ -242,6 +283,10 @@ when appropriate. GitHub Pages project sites often use repository-specific URLs,
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 PlebWare Recommendation
 
 For PlebWare projects, I recommend the following structure:
@@ -258,9 +303,14 @@ assets/
 
 This keeps graphics organised as the site grows and makes it easier to reference images throughout the project.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Final Thoughts
 
 Adding images to GitHub Pages is mostly about keeping your files organised and using the correct paths. Store images inside your repository, use relative paths whenever possible, and remember that GitHub Pages is case-sensitive.
 
 Once you understand those three rules, images become one of the easiest parts of managing a GitHub Pages website.
+
 <!-- PLEBVOX:END -->

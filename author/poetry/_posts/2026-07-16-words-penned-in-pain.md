@@ -7,11 +7,16 @@ tags: [poetry, emotions, reflection, healing, faith, hope, writing]
 mode: "author"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
 
 ## 🌧️ When Words Become Tears
 
 > *"Sometimes the deepest wounds become the ink that writes our strongest testimony."*
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Otto's Poem
 
@@ -165,4 +170,5 @@ One writing truth from deep within.
 
     })();
 </script>
+
 <!-- PLEBVOX:END -->

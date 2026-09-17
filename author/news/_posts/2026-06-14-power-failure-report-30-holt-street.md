@@ -3,17 +3,30 @@ layout: post
 title: "Powerless at 30 Holt Street"
 date: 2026-06-14
 ---
+
 <!-- PLEBVOX:START -->
 
 # ⚠️ Incident Report: Ongoing Power Failure at 30 Holt Street
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📅 Date
 
 14 June 2026
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📍 Location
 
 30 Holt Street
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔍 Summary
 
@@ -22,6 +35,10 @@ A power failure occurred on the property during the evening of 13 June 2026 and 
 The outage has left the entire property without electricity, affecting all residents and disrupting normal activities. The loss of power occurred while I was preparing to continue work on my laptop, effectively bringing my evening plans to a halt.
 
 As of the time of writing, electrical service has not yet been restored.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 💡 Impact on Residents
 
@@ -34,6 +51,10 @@ The outage has resulted in:
 * 🏠 General inconvenience and frustration among residents.
 * 🥶 Potential food storage concerns should the outage continue.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 💻 Personal Impact
 
 As a writer and computer user, I rely heavily on electricity for:
@@ -45,11 +66,19 @@ As a writer and computer user, I rely heavily on electricity for:
 
 Fortunately, my laptop battery remains at approximately **89%**, allowing limited continued use. However, this is only a temporary measure and does not solve the underlying problem.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 😠 Resident Sentiment
 
 The mood among residents is understandably negative. Many people are upset by the continued outage, particularly due to the uncertainty surrounding when power will be restored.
 
 Personally, I am extremely frustrated by what appears to be a recurring pattern of electrical issues affecting this property. Reliable electricity is a basic necessity, not a luxury.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📌 Current Status
 
@@ -57,6 +86,10 @@ Personally, I am extremely frustrated by what appears to be a recurring pattern 
 * 🔋 Laptop Battery: 89%
 * 🕒 Restoration Time: Unknown
 * 😒 Resident Frustration Level: High
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📝 Conclusion
 
@@ -153,4 +186,5 @@ A permanent and reliable solution to the property's electrical problems is urgen
 
 
 ----
+
 <!-- PLEBVOX:END -->

@@ -7,6 +7,7 @@ tags: [curry, beef, basmati, budget, pressure-cooker, spicy, hot]
 mode: "everyday"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 Curry In A Hurry
@@ -14,6 +15,10 @@ author: Otto Brinkmeier
 *A hearty pressure cooker beef curry with spicy basmati rice.*
 
 Sometimes the best meals come from using what you already have in the cupboard. This recipe was created to be quick, economical, and full of flavour without requiring hours of slow cooking. The pressure cooker does most of the hard work while the rice cooks alongside it.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🥩 Ingredients
 
@@ -32,6 +37,10 @@ Sometimes the best meals come from using what you already have in the cupboard. 
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🍚 Spicy Rice
 
 * Nur Johaan Basmati Rice
@@ -41,7 +50,15 @@ Sometimes the best meals come from using what you already have in the cupboard. 
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Method
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Step 1 – Brown the Meat
 
@@ -51,6 +68,10 @@ Sometimes the best meals come from using what you already have in the cupboard. 
 4. Add the beef and brown it on all sides.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Step 2 – Build the Curry
 
@@ -67,6 +88,10 @@ Cook everything together for about 2–3 minutes until fragrant.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Step 3 – Add the Sauce
 
 Mix the Minestrone Soup powder with approximately 500–600 ml of cold water until smooth.
@@ -76,6 +101,10 @@ Pour into the pressure cooker and stir well.
 The soup powder acts as both a thickener and flavour enhancer.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Step 4 – Pressure Cook
 
@@ -88,6 +117,10 @@ Allow a **10-minute natural pressure release**, then carefully release any remai
 If the sauce is thinner than desired, simmer uncovered for another 5–10 minutes.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Spicy Rice
 
@@ -104,6 +137,10 @@ While the curry cooks:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Serving
 
 Serve the curry over a generous helping of spicy basmati rice.
@@ -118,6 +155,10 @@ A spoonful of plain yoghurt also helps balance the heat from the habanero.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Cook's Notes
 
 * 🌶️ Habaneros are extremely hot—start with a small amount and add more only if needed.
@@ -126,6 +167,10 @@ A spoonful of plain yoghurt also helps balance the heat from the habanero.
 * 🍚 Basmati rice provides a light, fragrant contrast to the rich curry.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Joy Cooking Verdict
 
@@ -232,4 +277,5 @@ A spoonful of plain yoghurt also helps balance the heat from the habanero.
 
 
 -----
+
 <!-- PLEBVOX:END -->

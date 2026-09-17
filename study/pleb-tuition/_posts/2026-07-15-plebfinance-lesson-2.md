@@ -7,15 +7,24 @@ tags: debt, budgeting, financial-literacy, money-management, assets, liabilities
 mode: "study"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 PlebFinance Lesson 2
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🚗 Good Debt vs Bad Debt
 
 *"Not every debt is your enemy. The secret is knowing which debt builds your future and which debt quietly steals it."*
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📖 Introduction
 
@@ -38,6 +47,10 @@ We're plebs.
 Let's keep it simple.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🚀 Good Debt — The Turbo
 
@@ -75,6 +88,10 @@ Fixing the Ranger so it can return to work is very different from buying expensi
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✅ Signs of Good Debt
 
 * 💰 It has the potential to increase your income.
@@ -84,6 +101,10 @@ Fixing the Ranger so it can return to work is very different from buying expensi
 * 🔄 It moves your life forward instead of holding it back.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # ⛽ Bad Debt — The Leak
 
@@ -96,6 +117,10 @@ Bad debt works exactly like that.
 It drains your future income without giving much back in return.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ❌ Examples
 
@@ -113,6 +138,10 @@ That last example is often the beginning of a debt spiral.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🚨 Signs of Bad Debt
 
 * 📉 The item loses value quickly.
@@ -122,6 +151,10 @@ That last example is often the beginning of a debt spiral.
 * 😫 It makes tomorrow harder than today.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🧠 The Pleb Test
 
@@ -138,6 +171,10 @@ If you answer **No** to most of these questions...
 Walk away.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🏡 The PlebWare Rule
 
@@ -161,6 +198,10 @@ Think twice.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ⚠️ One Final Warning
 
 Even good debt carries risk.
@@ -177,6 +218,10 @@ A tool that helps someone else may become a burden if used carelessly.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🛠️ Practical Tips
 
 ### 🔑 Borrow for growth, not gratification.
@@ -190,6 +235,10 @@ A tool that helps someone else may become a burden if used carelessly.
 ### 🔑 Leave room in your budget for life's unexpected surprises.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🎯 Lesson Summary
 
@@ -304,4 +353,5 @@ Your answer may save you years of financial stress.
 
 
 ----
+
 <!-- PLEBVOX:END -->

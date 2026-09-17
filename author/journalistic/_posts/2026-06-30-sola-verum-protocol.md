@@ -3,9 +3,14 @@ layout: post
 title: "⚔️ The Sola Verum Protocol – Deep Fakes Must Be Stopped"
 date: 2026-06-30
 ---
+
 <!-- PLEBVOX:START -->
 
 # ⚔️ The Sola Verum Protocol
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🛡️ Deep Fakes Must Be Stopped: A Call to Action for Responsible AI Use
 
@@ -13,6 +18,10 @@ date: 2026-06-30
 > *Sanguine et Igne Veritas Revelata*
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌍 Why This Matters
 
@@ -27,6 +36,10 @@ For this reason, I applied for membership of the **Coalition for Content Provena
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ⚔️ The Sola Verum Protocol
 
 The **Sola Verum Protocol** is far more than a statement of intent.
@@ -40,6 +53,10 @@ Every article, every illustration, every voice recording, every design, and ever
 > **Truth — verified, transparent, and defended.**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🤖 Responsible AI, Not Fear of AI
 
@@ -74,6 +91,10 @@ I stand **for**:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🖼️ AI-Assisted Creative Work
 
 Some images featured on this website, together with my other websites and blogs, have been created with the assistance of Artificial Intelligence tools, including **OpenAI** and other creative platforms.
@@ -87,6 +108,10 @@ These tools are used solely to:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✍️ Original Authorship
 
 Despite making responsible use of AI-assisted creative tools:
@@ -98,6 +123,10 @@ AI serves as a creative assistant—not as the author.
 The ideas, research, structure, conclusions, and published works remain my own.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🛡️ A Personal Commitment
 
@@ -209,4 +238,5 @@ It should be built upon **truth**, **accountability**, and **integrity**.
 
 
 -----
+
 <!-- PLEBVOX:END -->

@@ -3,11 +3,16 @@ layout: post
 title: "Preparing for the March to March Protest"
 date: 2026-06-29
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🚗 A Monday at the Mechanic and Preparing for the National Protests
 
 > *"A productive day, even when plans change."*
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Monday's Progress
 
@@ -21,9 +26,17 @@ Sometimes it is these small maintenance jobs that keep a vehicle reliable enough
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🇿🇦 30 June 2026 – The "March to March" Protest
 
 Tomorrow, **30 June 2026**, South Africa is expected to experience demonstrations organised primarily by the **March and March** citizen movement, with participation from other organisations, including **Operation Dudula**.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📢 Main Objective
 
@@ -37,6 +50,10 @@ The organisers have described the demonstrations as **peaceful protests** focuse
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ⚠️ Government Response
 
 The South African government has indicated that:
@@ -47,6 +64,10 @@ The South African government has indicated that:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🏪 Local Situation
 
 Despite the government's call for business as usual, many businesses in my area are taking precautionary measures.
@@ -56,6 +77,10 @@ Several local shops have indicated that they will remain closed during the demon
 Like many South Africans, I will be watching events unfold and praying that the demonstrations remain peaceful and that everyone returns home safely.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🙏 Final Thoughts
 
@@ -154,4 +179,5 @@ Through it all, we continue moving forward, trusting God for wisdom, safety, and
 
 
 -----
+
 <!-- PLEBVOX:END -->

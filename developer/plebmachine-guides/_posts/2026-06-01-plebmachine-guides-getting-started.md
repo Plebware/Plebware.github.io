@@ -3,9 +3,14 @@ layout: post
 title: "PlebMachine Guides - Getting Started"
 date: 2026-06-01
 ---
+
 <!-- PLEBVOX:START -->
 
 # PlebMachine Guides - Getting Started
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What This Section Is
 
@@ -14,6 +19,10 @@ This section contains practical guides for using PlebMachine.
 Unlike technical papers, which explain how the system is designed internally, these guides focus on how to use it in real workflows.
 
 They are intended to be simple, clear, and actionable.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What is PlebMachine?
 
@@ -32,6 +41,10 @@ Instead of thinking in terms of programs, you think in terms of modes such as:
 
 Each mode provides a focused working environment.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## How to Use These Guides
 
 Each guide will focus on one practical task or concept.
@@ -49,6 +62,10 @@ The goal is not theory.
 
 The goal is usable understanding.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Core Idea
 
 PlebMachine is designed to reduce friction.
@@ -58,6 +75,10 @@ Instead of searching for tools, the system presents the tools needed for the cur
 Instead of switching contexts manually, the system adapts to the user’s intent.
 
 These guides show how to take advantage of that structure.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Basic Concept: Modes
 
@@ -78,6 +99,10 @@ A development mode prioritises terminals, editors, and debugging tools.
 
 A graphics mode prioritises design applications and assets.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Getting Started Philosophy
 
 You do not need to understand everything at once.
@@ -89,6 +114,10 @@ Learn how it behaves.
 Then expand gradually.
 
 PlebMachine is designed to be learned through use, not memorisation.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The PlebWare Approach
 
@@ -102,6 +131,10 @@ That means:
 * No rigid structure that cannot adapt
 
 Guides are written to help real users accomplish real tasks.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What This Section Will Include
 
@@ -118,6 +151,10 @@ Future guides may cover:
 
 Each guide will be practical and focused.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Closing Thought
 
 A system is only useful when it can be understood and used without confusion.
@@ -129,4 +166,5 @@ These guides exist to make sure PlebMachine remains accessible as it grows.
 *If a system cannot be used, it cannot be understood.*
 
 **Otto Brinkmeier**
+
 <!-- PLEBVOX:END -->

@@ -7,6 +7,7 @@ tags: [ford-ranger, diesel, perseverance, life, struggle, hope, faith]
 mode: "author"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
 
 # The Iron Steed That's Not Mine!
@@ -285,4 +286,5 @@ Until the road itself becomes the past.
         
     })();
 </script>
+
 <!-- PLEBVOX:END -->

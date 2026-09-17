@@ -6,9 +6,14 @@ category: "fiction"
 tags: [space-opera, starship-frederick, freedom-station, rebellions-dawn, captain-cody, unity-galactic-command, teaser, prologue,]
 mode: "author"
 ---
+
 <!-- PLEBVOX:START -->
 
 # Prologue: Rebellion's Dawn
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## En Route to Mobile 'Unity Galactic Command' Station
 
@@ -124,4 +129,5 @@ _“Welcome aboard the Frederick,”_ Cody greeted them. _“We’re honoured to
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

@@ -3,9 +3,15 @@ layout: post
 title: "From Ashes to Wisdom"
 date: 2026-07-15
 ---
+
 <!-- PLEBVOX:START -->
 
 # 👑 Royal Ashes
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## *When Yesterday's Ashes Become Tomorrow's Wisdom* 🔥
 
 ### 🌅 Opening Prayer
@@ -14,6 +20,10 @@ Heavenly Father, thank You that no season of our lives is ever wasted in Your ha
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📖 Key Scripture of the Day
 
 > **"One generation shall praise thy works to another, and shall declare thy mighty acts."**
@@ -21,6 +31,10 @@ Heavenly Father, thank You that no season of our lives is ever wasted in Your ha
 > **— Psalm 145:4 (KJV)** ✝️
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔥 Royal Ashes
 
@@ -58,7 +72,15 @@ Instead, may we faithfully pass His goodness from one generation to the next.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 📚 Four Scriptures for Reflection
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 1️⃣ God Uses Every Experience
 ### 📖 Romans 8:28 (KJV)
@@ -75,6 +97,10 @@ Instead of asking, *"Why did this happen?"* ask, *"Lord, how can You use this ex
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 2️⃣ Share God's Faithfulness
 ### 📖 Psalm 78:4 (KJV)
 
@@ -89,6 +115,10 @@ Every testimony strengthens someone else's faith.
 Tell someone this week about a time God answered a prayer or carried you through a difficult season.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 3️⃣ Wisdom Is Better Than Riches
 ### 📖 Proverbs 16:16 (KJV)
@@ -105,6 +135,10 @@ Spend time investing in God's Word today. Eternal wisdom always produces lasting
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 4️⃣ Finish Well
 ### 📖 2 Timothy 4:7 (KJV)
 
@@ -120,6 +154,10 @@ Ask yourself today: *If someone remembered only my faith, what would they learn 
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ⛪ Church History
 
 Throughout Christian history, believers have carefully preserved the testimonies of faithful men and women—not to honour the individuals themselves, but to magnify God's work in their lives.
@@ -129,6 +167,10 @@ Early Christians passed these testimonies from generation to generation, encoura
 Their experiences became living reminders that while people pass away, God's truth never does.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 📝 Daily Reflection
 
@@ -145,6 +187,10 @@ Ask God to use your life—even its broken places—to reveal His grace to other
 What feels like ashes today may become someone else's greatest source of hope tomorrow.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🌸 Poem
 
@@ -166,6 +212,10 @@ Every life surrendered whole,
 Leaves behind a richer soul.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🙏 Closing Prayer
 
@@ -264,4 +314,5 @@ Father, thank You for every lesson You have taught us throughout our lives. Help
 
 
 -----
+
 <!-- PLEBVOX:END -->

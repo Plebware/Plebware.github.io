@@ -3,9 +3,8 @@ layout: post
 title: "Otto's 40 Years-Plus In Computing"
 date: 2026-08-05
 ---
+
 <!-- PLEBVOX:START -->
-
-
 
 <p align="center">
   <img src="{{ '/assets/images/plebware-comic.webp' | relative_url }}"

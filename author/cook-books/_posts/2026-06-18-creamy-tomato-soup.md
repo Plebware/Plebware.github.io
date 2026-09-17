@@ -3,6 +3,7 @@ layout: post
 title: "🍅  Creamy Tomato Soup"
 date: 2026-06-18
 ---
+
 <!-- PLEBVOX:START -->
 
 <div align="center">
@@ -16,6 +17,10 @@ date: 2026-06-18
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🛒 Ingredients
 
 🥛 **4 Cups Milk**  
@@ -28,6 +33,10 @@ date: 2026-06-18
 🌿 **Fresh Basil for Garnish**  
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 👨‍🍳 Method
 
@@ -72,11 +81,19 @@ If the soup starts to curdle, don't panic — beat thoroughly with a whisk until
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🌿 Optional Garnish
 
 Finish with fresh basil leaves for a beautiful flavour boost. 🌱🍅
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Cook's Note
 
@@ -171,4 +188,5 @@ A simple old-fashioned tomato soup with a creamy twist — turning humble tomato
 
 
 -----
+
 <!-- PLEBVOX:END -->

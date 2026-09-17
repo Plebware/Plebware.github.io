@@ -3,6 +3,7 @@ layout: post
 title: "Why AI Image Generators Struggle to Follow Instructions"
 date: 2026-08-21
 ---
+
 <!-- PLEBVOX:START -->
 
 # Why AI Struggles to Recreate the Same Image.
@@ -41,6 +42,10 @@ The short answer is that an AI image generator does not think about an image in 
 
 And that difference becomes extremely important when you are trying to create a **repeatable visual template**.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The AI Is Not Really “Copying” Your Image.
 
 One of the biggest misunderstandings about generative AI is the idea that it works like a very sophisticated copy machine.
@@ -72,6 +77,10 @@ But that does not necessarily mean it possesses a precise internal blueprint say
 **“The monitor must begin at pixel 0, occupy approximately 66 percent of the canvas width, and the remaining 34 percent must remain visually uncluttered.”**
 
 That distinction is crucial.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## “Left” Does Not Mean “Pixel-Perfect Left.”
 
@@ -107,6 +116,10 @@ and
 
 can still produce surprisingly inconsistent results.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The More Instructions You Give It, the More Things Can Go Wrong.
 
 We naturally assume that giving an AI **more instructions** will make it more accurate.
@@ -138,6 +151,10 @@ And your carefully requested cybernetic cat may become a cybernetic fox.
 This isn't necessarily because the model is “stupid.”
 
 It is because the task involves many interacting constraints.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## And Then There Is the Really Annoying Problem.
 
@@ -178,6 +195,10 @@ Some systems provide additional controls such as seeds, reference images, image-
 Those can help.
 
 But they still don't magically turn a generative model into Photoshop.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## So How Do We Make AI Behave More Like a Designer?
 
@@ -228,6 +249,10 @@ You don't redesign the entire desktop every time you want a different wallpaper.
 
 You keep the template and change the artwork inside it.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## A Practical AI Template Prompt.
 
 For a PlebWare-style desktop wallpaper, I would start with something like this:
@@ -275,6 +300,10 @@ For a PlebWare-style desktop wallpaper, I would start with something like this:
 That final sentence is particularly important.
 
 **Composition is more important than decoration.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Don't Ask for “A Beautiful Wallpaper” First.
 
@@ -330,6 +359,10 @@ You are effectively telling the AI:
 
 > **“Here is the skeleton. You may change the clothing.”**
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Use a Reference Image Whenever Possible.
 
 Once you finally get the composition you want, **save it.**
@@ -347,6 +380,10 @@ Then, when your chosen AI system supports reference-image workflows, provide the
 This gives the model considerably more information than text alone.
 
 Reference-image workflows are particularly useful when the goal is to preserve a scene while changing selected elements, although maintaining both scene consistency and prompt adherence remains a difficult balancing act.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Think Like a Graphic Designer, Not a Customer.
 
@@ -386,6 +423,10 @@ Because desktop icons, panels, widgets, notifications, Conky information, and ap
 
 A beautiful picture with important detail everywhere is not necessarily a useful desktop.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The PlebWare Lesson.
 
 This is exactly the problem encountered when developing reusable PlebWare wallpaper designs.
@@ -413,6 +454,10 @@ rather than:
 > **“How do I get AI to make another cool picture?”**
 
 Those are two very different problems.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Golden Rule.
 
@@ -454,6 +499,10 @@ That is when AI image generation starts becoming less like rolling the dice...
 
 ...and more like working with a designer.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Image Placeholder.
 
 **Filename:** `ai-image-woes.webp`
@@ -465,6 +514,10 @@ The image should visually communicate the central joke of AI image generation:
 **“I told you exactly what I wanted.”**
 
 **AI:** “Yes. I made something completely different.”
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Final Thought.
 
@@ -494,7 +547,9 @@ Instead of becoming frustrated because the AI “can't follow instructions,” w
 
 That is a much better way to work with generative imagery.
 
-<!-- PLEBVOX:END -->
+
 
 ✍️ **Othello Cody Verrocchio**  
 **ChatGPT**
+
+<!-- PLEBVOX:END -->

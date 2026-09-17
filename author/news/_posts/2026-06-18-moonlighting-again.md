@@ -3,11 +3,16 @@ layout: post
 title: "Back On The Road — But The Battle Continues"
 date: 2026-06-18
 ---
+
 <!-- PLEBVOX:START -->
 
 # 📰 Back On The Road — But The Battle Continues
 
 ### By _Captain Cody Gemini_
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🚛 Return To Duty
 
@@ -17,6 +22,10 @@ This morning, 18 June 2026, I reported back for duty and am currently stationed 
 
 The company may be working to recover lost ground after weeks of operational disruptions, which could lead to increased workload over the coming days.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 💰 The Cost Of Downtime
 
 Returning to work is welcome news, but it does not erase the financial impact of the past several weeks.
@@ -24,6 +33,10 @@ Returning to work is welcome news, but it does not erase the financial impact of
 With six working days lost due to vehicle breakdowns and repairs, approximately R900.00 in income disappeared before a single bill could be paid.
 
 For a pensioner supplementing his income through contract driving work, such losses are significant.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ⚡ The Electricity Crisis
 
@@ -38,6 +51,10 @@ The prolonged outage resulted in:
 
 Sharon was forced to discard much of the contents of her freezer, creating another setback at a time when every rand matters.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔥 Another Concern
 
 Household gas supplies are now running dangerously low.
@@ -45,6 +62,10 @@ Household gas supplies are now running dangerously low.
 Under normal circumstances, this would have been manageable, but the unexpected financial losses have left little room for emergency spending.
 
 The challenge now is not merely surviving today's difficulties, but recovering from a chain of setbacks that arrived one after another.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🙏 Looking Forward
 
@@ -60,6 +81,10 @@ The road ahead may still be difficult, but at least the wheels are turning once 
 As I sit in Crown Mines awaiting my first load, I am reminded that many victories arrive quietly. Sometimes victory is not a sudden breakthrough.
 
 Sometimes victory is simply getting back to work after a difficult season and trusting God for the next step.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📖 Scripture
 
@@ -158,4 +183,5 @@ The battle continues, but so does the journey.
 
 
 -----
+
 <!-- PLEBVOX:END -->

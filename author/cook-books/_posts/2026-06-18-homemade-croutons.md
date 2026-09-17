@@ -3,6 +3,7 @@ layout: post
 title: "Homemade Croutons"
 date: 2026-06-18
 ---
+
 <!-- PLEBVOX:START -->
 
 <div align="center">
@@ -11,10 +12,18 @@ date: 2026-06-18
 
 </div>
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🥘 Ingredients
 
 - 🍞 4 Slices of Bread  
 - 🫒 Frying Fat / Cooking Oil  
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 👩‍🍳 Method
 
@@ -119,4 +128,5 @@ date: 2026-06-18
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

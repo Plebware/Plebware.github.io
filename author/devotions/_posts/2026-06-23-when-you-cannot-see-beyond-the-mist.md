@@ -3,6 +3,7 @@ layout: post
 title: "When You Cannot See Beyond the Mist"
 date: 2026-06-23
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🌅 Trusting God Through The Fog
@@ -32,11 +33,19 @@ One act of obedience.
 
 As we walk forward, the path becomes clearer.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 **Three Things to Remember**
 
 * God sees what you cannot see.
 * God's timing is perfect, even when it feels slow.
 * Today's small step of faith is enough for today.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🙏 **Prayer**
 
@@ -139,4 +148,5 @@ Amen.
 
 
 -----
+
 <!-- PLEBVOX:END -->

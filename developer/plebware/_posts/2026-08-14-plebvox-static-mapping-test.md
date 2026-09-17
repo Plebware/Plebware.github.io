@@ -21,11 +21,15 @@ On browsers that provide reliable boundary information, PlebVox can continue to 
 
 The heading is outside the PlebVox markers so it cannot alter the speech text or mapping.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🧪 Test Part 1 — Reliable Mobile Reading.
 
 The people who use PlebWare should be able to remain connected to knowledge. People learn, people create, and people remain part of the system. This section is intentionally long enough to make cumulative word drift obvious if inaccurate word-level estimation is being used.
 
-<!-- PLEBVOX:END -->
+
 
 <div style="margin:1.5rem 0;padding:1rem;border:3px solid currentColor;border-radius:10px;">
 <h2>📱 Android / Vivaldi Final Fallback Test.</h2>
@@ -37,3 +41,5 @@ The people who use PlebWare should be able to remain connected to knowledge. Peo
 <script>
 (function(){function load(){var s=document.createElement('script');s.src='https://raw.githubusercontent.com/Plebware/pleb-theme/fix/plebvox-static-alignment/assets/js/plebvox.js?v=20260814-18';s.async=false;document.head.appendChild(s);}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',load);else load();})();
 </script>
+
+<!-- PLEBVOX:END -->

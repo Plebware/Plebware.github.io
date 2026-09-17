@@ -3,13 +3,23 @@ layout: post
 title: "What Are You Really Hungry For??"
 date: 2026-06-07
 ---
+
 <!-- PLEBVOX:START -->
+
 ## 🍞 **What Desire Drives You?** 🌊
 
 > *A Devotion on Sacred Cravings, Purpose, and the Hunger Only God Can Fill* 
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🙏 **Opening Prayer** 
  _Lord Jesus, align my hunger with Your will so that what I crave most is never less than You Yourself. Amen_ 
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌅 *The Quiet Alarm Within Us* 
 Every human life is ruled by invisible alarms ⏰.
@@ -37,6 +47,10 @@ Scripture never treats hunger as accidental—it treats it as instruction.
 
 > 📖 “ _Give us this day our daily bread_ .” ( *Matthew 6:11* )
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📖 **The Second Hunger - Desiring God**
 
 > 📖 “ _Like newborn babies, crave pure spiritual milk…_ ” ( *1 Peter 2:2* )
@@ -54,6 +68,10 @@ This is not a metaphor for comfort—it is a revelation of dependence.
 To be human is to be hungry.
 
 To follow Christ is to learn what is worth being hungry for.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔥 **The Third Hunger: Purpose** 
 There is another hunger many people ignore—not because it is weak, but because it is dangerous if awakened:
@@ -76,6 +94,10 @@ And when that hunger is ignored…
 A person can still survive, but something inside begins to starve quietly.
 
 Even gifts unused become a kind of inner famine.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ✍️🔥 **A Thought-Provoking Poem: “The Appetite of the Soul”** 
 ```
@@ -280,4 +302,5 @@ And appetite often determines direction.
 </script>
 
 -----
+
 <!-- PLEBVOX:END -->

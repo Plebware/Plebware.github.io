@@ -12,6 +12,10 @@ A working collection of reusable PlebWare stickers featuring Otto and Juelz, tog
 
 Choose a sticker, look at the example, then copy the HTML block underneath it. The code includes centred sizing so it can be pasted directly into another PlebWare article.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✅ Approved
 
 The existing **Approved** sticker from the PlebWare image library.
@@ -42,6 +46,10 @@ The existing **Approved** sticker from the PlebWare image library.
 </div>
 ```
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🫂 I've Got You
 
 The existing Otto and Juelz **I've Got You** sticker — the little PlebWare reminder that we've got each other's backs.
@@ -71,6 +79,10 @@ The existing Otto and Juelz **I've Got You** sticker — the little PlebWare rem
        style="width:30%; max-width:240px; height:auto;">
 </div>
 ```
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🧩 More Stickers
 

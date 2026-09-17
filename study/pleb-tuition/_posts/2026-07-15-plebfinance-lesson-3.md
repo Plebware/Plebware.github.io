@@ -7,15 +7,24 @@ tags: budgeting, money-management, financial-literacy, personal-finance, saving,
 mode: "study"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 PlebFinance Lesson 3
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 💰 Every Rand Needs a Job
 
 *"Money is a terrible master, but an excellent employee."*
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📖 Introduction
 
@@ -36,6 +45,10 @@ Every Rand, Dollar, Euro or Pound that enters your pocket should arrive with a p
 Just as every employee in a company has a job description, every Rand you earn should know exactly what it has been hired to do.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🏃 A Rand Without a Job Is a Rand That Runs Away
 
@@ -77,6 +90,10 @@ A pleb simply cannot afford unemployed money.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 💼 Give Every Rand a Job Title
 
 Before your income reaches your account, decide where it will go.
@@ -90,6 +107,10 @@ Think of yourself as the manager of a small business.
 Your employees are Rands.
 
 Every employee needs a department.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🏢 The PlebFinance Job Board
 
@@ -108,6 +129,10 @@ Your own situation may require adjustments.
 The important thing is that **every Rand has somewhere to report for duty.**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🤔 Two Questions Every Rand Must Answer
 
@@ -149,6 +174,10 @@ Then they have become your financial manager.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 💵 A Practical Example
 
 Imagine you receive **R1,000**.
@@ -171,6 +200,10 @@ None are standing around looking for trouble.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ⚠️ Why This Matters
 
 Many people believe financial success begins with earning more money.
@@ -186,6 +219,10 @@ Income matters.
 Good habits matter even more.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🛠️ Practical Tips
 
@@ -227,6 +264,10 @@ Your budget should change with it.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 📝 Homework
 
 The next time money arrives in your account...
@@ -248,6 +289,10 @@ Even if all you receive is **R50**...
 Give that R50 a purpose.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🎯 Lesson Summary
 
@@ -274,6 +319,10 @@ And **you** are the Human Resources manager. 👔
 > **"The plans of the diligent lead surely to abundance, but everyone who is hasty comes only to poverty."** — Proverbs 21:5 📖
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📚 Coming Next
 
@@ -362,6 +411,5 @@ Learn how investing in tools, education and productive assets can increase your 
 
     })();
 </script>
-
 
 <!-- PLEBVOX:END -->

@@ -3,7 +3,9 @@ layout: post
 title: "Short Rib and Vegetable Soup While Multitasking"
 date: 2026-06-10
 ---
+
 <!-- PLEBVOX:START -->
+
 # 🔑 Short Rib and Vegetable Soup While Multitasking
 
 There are days when cooking is simply about getting food onto the table, and then there are days when cooking becomes part of a much larger adventure.
@@ -13,6 +15,10 @@ Today was one of those adventures.
 After spending the past two weeks fighting off a viral infection, I finally managed to get home early enough to enjoy a much-needed nap. After sleeping from 12:33 until 13:32, I woke up feeling refreshed enough to tackle several projects at once.
 
 One of those projects was supper.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Ingredients
 
@@ -27,6 +33,10 @@ One of those projects was supper.
 * 3 Stock Cubes
 * Approximately 1.5 to 2 litres Water
 * 500ml Leftover Mushroom Soup
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Method
 
@@ -48,6 +58,10 @@ The sealing ring was fitted and the soup left to steam and pressure cook.
 
 At approximately 17:00, I planned to add 500ml of leftover mushroom soup from the refrigerator to enrich both flavour and texture.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Result
 
 The result was a hearty, filling winter soup packed with vegetables, tender beef, barley, lentils, and split peas.
@@ -57,4 +71,5 @@ Perfect comfort food while recovering from illness and simultaneously working on
 Sometimes the simplest meals become memorable because of everything else happening around them.
 
 This was one of those meals.
+
 <!-- PLEBVOX:END -->

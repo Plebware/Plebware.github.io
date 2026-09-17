@@ -3,6 +3,7 @@ layout: post
 title: "The Day the Gas Ran Out"
 date: 2026-06-23
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔥 No Coffee For The Tired
@@ -23,6 +24,10 @@ Then silence.
 
 The 12kg gas bottle is empty.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ☕ A Small Event That Isn't Small
 
 To most people, running out of gas is a minor inconvenience.
@@ -42,6 +47,10 @@ Then reality intervened.
 Five days of lost income created a hole in the financial plan. What should have been a manageable expense suddenly became another obstacle standing in line behind several others.
 
 One unexpected problem rarely arrives alone.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🐪 The Straw That Broke the Camel Train
 
@@ -67,6 +76,10 @@ Rarely one large catastrophe.
 
 Usually many small annoyances forming a mountain.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Real Challenge
 
 The empty gas bottle is not the real problem.
@@ -87,6 +100,10 @@ The projects still move forward.
 
 Even if today's progress is slower than expected.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🧠 Lessons From Hard Times
 
 Periods of financial strain teach lessons that comfortable times often hide.
@@ -102,6 +119,10 @@ Most people who have lived long enough carry stories like these.
 Not stories of abundance.
 
 Stories of endurance.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🚂 Keep Moving
 
@@ -224,4 +245,5 @@ One solution at a time.
 
 
 ------
+
 <!-- PLEBVOX:END -->

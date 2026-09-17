@@ -3,6 +3,7 @@ layout: post
 title: "🔧 When the Engine Falls Silent: A Lesson in Faith"
 date: 2026-07-02
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔧 A Lesson in Faith
@@ -14,6 +15,10 @@ Yesterday was one of those days.
 Our work bakkie had just returned from the mechanic after repairs to an engine oil leak. Before that, the gearbox had been serviced, the prop shaft repaired, and the rear suspension attended to. Those repairs appeared successful, and the vehicle drove well.
 
 Then everything changed.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🚚 The Journey
 
@@ -45,6 +50,10 @@ The instruction was simple:
 
 That is exactly what I did.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ⚠️ The Next Day
 
 The mechanic arrived later than expected.
@@ -58,6 +67,10 @@ At the time of writing, I still do not know whether the engine is seized, whethe
 Only a proper inspection will reveal the truth.
 
 But it certainly doesn't sound encouraging.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 😔 When Problems Come in Waves
 
@@ -76,6 +89,10 @@ Unexpected expenses piled up.
 Now, the work vehicle itself may have suffered a major mechanical failure.
 
 There are moments when it feels as though every direction you turn presents another obstacle.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ✝️ Standing on Faith
 
@@ -97,6 +114,10 @@ I may need to depend more heavily on writing, publishing, Linux education, graph
 
 Perhaps this difficult season is also a season of preparation.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔥 Refusing to Give Up
 
 I have survived difficult seasons before.
@@ -112,6 +133,10 @@ This may simply be another chapter in that story.
 The engine may be silent.
 
 But hope does not have to be.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📖 "Trust in the LORD with all your heart and lean not on your own understanding; in all your ways acknowledge Him, and He shall direct your paths."
 
@@ -222,4 +247,5 @@ Until God opens the next door.
 
 
 -----
+
 <!-- PLEBVOX:END -->

@@ -3,9 +3,14 @@ layout: post
 title: "Plebware Publishing Architecture Blueprint"
 date: 2026-06-19
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 Plebware Publishing Architecture Blueprint
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Executive Summary
 
@@ -16,6 +21,10 @@ Over many years, multiple websites, domains, experiments, and content repositori
 The primary objective is to establish **Plebware.github.io** as the authoritative source for all current content while maintaining continuity with older projects.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 The Problem
 
@@ -45,6 +54,10 @@ This resulted in:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 The Core Solution
 
 The solution is not to delete or abandon historical projects.
@@ -60,6 +73,10 @@ All active publishing occurs within the Plebware ecosystem.
 Historical websites remain online as lightweight gateway pages.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Publishing Philosophy
 
@@ -77,7 +94,15 @@ This approach creates a coherent experience while allowing content diversity.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Architectural Model
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The City Model
 
@@ -124,6 +149,10 @@ Plebware
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Legacy Project Strategy
 
 Legacy projects remain online.
@@ -148,6 +177,10 @@ Plebware.github.io
 
 Example:
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## PlebChef
 
 Instead of hosting hundreds of recipes:
@@ -159,6 +192,10 @@ Instead of hosting hundreds of recipes:
 
 Example:
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## PlebDIY
 
 Instead of maintaining tutorials separately:
@@ -169,13 +206,25 @@ Instead of maintaining tutorials separately:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Why Preserve Legacy Projects?
 
 Preservation offers several benefits.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Historical Continuity
 
 The projects demonstrate the evolution of the Plebware concept.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Existing Links
 
@@ -183,15 +232,27 @@ Users may still have bookmarks.
 
 Search engines may still index older pages.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Brand Recognition
 
 Long-term followers may recognize older project names.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Reduced Maintenance
 
 Simple gateway pages require minimal upkeep.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 The Publishing Funnel
 
@@ -223,6 +284,10 @@ Instead of maintaining many independent ecosystems, all traffic flows toward a s
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Comics Integration
 
 The Comics initiative becomes part of the Leisure district.
@@ -248,6 +313,10 @@ The goal is accessibility without requiring zooming.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Future Expansion
 
 Future rooms may include:
@@ -262,6 +331,10 @@ Future rooms may include:
 All future development should strengthen the central platform rather than create additional disconnected sites.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Development Principle
 
@@ -279,6 +352,10 @@ This principle reduces fragmentation and strengthens the overall ecosystem.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Long-Term Vision
 
 Plebware is evolving from a collection of independent websites into a unified publishing platform.
@@ -292,4 +369,5 @@ Every article, comic, tutorial, recipe, project, and story contributes to a sing
 The future of Plebware is not more islands.
 
 The future of Plebware is one continent.
+
 <!-- PLEBVOX:END -->

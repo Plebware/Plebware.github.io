@@ -3,10 +3,20 @@ layout: post
 title: "PlebMachine White Paper: Bloom's Taxonomy As A Foundation For A Creative Learning System"
 date: 2026-06-22
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🧠 PlebMachine White Paper
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🌱 Building A Knowledge Ecosystem Inspired By Bloom's Taxonomy
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Introduction
 
@@ -25,6 +35,10 @@ The goal is simple:
 > Turn information into knowledge, knowledge into skill, and skill into creation. 🚀
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 📚 What Is Bloom's Taxonomy?
 
@@ -46,6 +60,10 @@ Instead of seeing learning as just collecting information, Bloom's Taxonomy show
 This idea strongly influences how PlebWare and PlebMachine are structured.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🖥️ PlebMachine As A Learning Operating Environment
 
@@ -82,7 +100,15 @@ Each mode becomes a learning pathway.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔄 Bloom's Cognitive Levels And PlebMachine
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 1. 📝 Remember — Information Storage
 
@@ -107,6 +133,10 @@ The knowledge exists.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 2. 💡 Understand — Making Meaning
 
 Information becomes useful when it is understood.
@@ -129,6 +159,10 @@ becomes:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 3. 🛠️ Apply — Turning Knowledge Into Action
 
 Knowledge becomes skill when it is used.
@@ -146,6 +180,10 @@ A command is no longer just remembered.
 It becomes a tool.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 4. 🔍 Analyse — Understanding Systems
 
@@ -165,6 +203,10 @@ This is where the user asks:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 5. ⚖️ Evaluate — Improving And Refining
 
 Creation requires judgement.
@@ -180,6 +222,10 @@ PlebMachine supports evaluation through:
 A project evolves.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 6. 🎨 Create — The Ultimate Goal
 
@@ -202,6 +248,10 @@ PlebMachine is not just about consuming information.
 It is about producing something new.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # ❤️ The Affective Domain — Values And Purpose
 
@@ -227,6 +277,10 @@ Technology becomes a tool for meaningful work.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🛠️ The Psychomotor Domain — Learning By Doing
 
 A computer is an instrument.
@@ -251,6 +305,10 @@ to:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🌐 Connection To PlebWare.github.io
 
 PlebWare acts as the publishing and education layer.
@@ -273,7 +331,15 @@ PlebWare documents the journey:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🏗️ PlebMachine + PlebWare Architecture
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebMachine
 
@@ -284,6 +350,10 @@ The workshop:
 - scripts
 - AI assistants
 - workflows
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebWare
 
@@ -298,6 +368,10 @@ The knowledge centre:
 Together they create a complete ecosystem.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 The Bigger Vision
 
@@ -314,6 +388,10 @@ to:
 "What am I trying to learn, build, or create?"
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🚀 Conclusion
 
@@ -335,4 +413,5 @@ It is a framework for turning curiosity into creativity.
 ---
 
 🗡️ *'God's Journalist' in conjunction with 'ChatGPT' and the 'Holy Spirit'*
+
 <!-- PLEBVOX:END -->

@@ -3,6 +3,7 @@ layout: post
 title: "Today the Gas Died"
 date: 2026-06-23
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔥 When the Flame Went Out
@@ -151,4 +152,5 @@ Of one more storm that chose to fail.
 
 
 -----
+
 <!-- PLEBVOX:END -->

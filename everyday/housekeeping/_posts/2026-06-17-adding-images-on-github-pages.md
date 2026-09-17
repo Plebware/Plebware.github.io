@@ -3,9 +3,14 @@ layout: post
 title: "Adding Images On GitHub Pages"
 date: 2026-06-17
 ---
+
 <!-- PLEBVOX:START -->
 
 # Embedding Centred Images In GitHub Pages Markdown
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Introduction
 
@@ -20,6 +25,10 @@ This tutorial shows how to:
 - Use Jekyll-compatible image paths
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # Step One: Create Your Image Folder
 
@@ -48,6 +57,10 @@ plebware.github.io
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # Step Two: Upload Your Image
 
 Place your image inside:
@@ -63,6 +76,10 @@ assets/images/StickerCreation.jpg
 ```
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # Step Three: Open Your Markdown Post
 
@@ -80,6 +97,10 @@ The front matter must always be at the top.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # Step Four: Add A Centered Image
 
 Immediately after the front matter add:
@@ -95,6 +116,10 @@ Immediately after the front matter add:
 ```
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # Step Five: Add Your Article Content
 
@@ -126,7 +151,15 @@ Prompt ChatGPT with:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # Understanding The Code
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Image Location
 
@@ -148,6 +181,10 @@ Website Root
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Alternative Jekyll Method
 
 For better compatibility with GitHub Pages themes:
@@ -163,6 +200,10 @@ This automatically handles:
 - GitHub Pages paths
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # Resize The Image
 
@@ -186,6 +227,10 @@ style="max-width:300px;"
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # Adding A Caption
 
 ```html
@@ -204,7 +249,15 @@ style="max-width:600px;">
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # Common Problems
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Image Not Showing
 
@@ -226,6 +279,10 @@ Linux is case-sensitive.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Wrong Folder
 
 Incorrect:
@@ -241,6 +298,10 @@ assets/images/StickerCreation.jpg
 ```
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Broken Link
 
@@ -258,6 +319,10 @@ instead of:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # Quick Template
 
 Copy this:
@@ -273,6 +338,10 @@ style="max-width:600px; height:auto;">
 ```
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Result
 
@@ -373,4 +442,5 @@ Perfect for PlebWare articles, tutorials, and creative posts.
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

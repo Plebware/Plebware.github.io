@@ -10,6 +10,10 @@ date: 2010-07-27
 
 # PlebTuition: Education for Ordinary People.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## What Is PlebTuition?
 
 PlebTuition was created from a simple observation.
@@ -130,7 +134,7 @@ Because the greatest investment a person can make is in their own knowledge.
 
 **"Education is not the filling of a bucket, but the lighting of a fire."**
 
-<!-- PLEBVOX:END -->
+
 
 ----
 
@@ -220,4 +224,5 @@ Because the greatest investment a person can make is in their own knowledge.
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

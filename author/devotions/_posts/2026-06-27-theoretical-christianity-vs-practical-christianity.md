@@ -3,6 +3,7 @@ layout: post
 title: "Theoretical Christianity Versus Practical Christianity"
 date: 2026-06-27
 ---
+
 <!-- PLEBVOX:START -->
 
 # 📖 Theoretical Training Versus Practical Training
@@ -12,11 +13,19 @@ date: 2026-06-27
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🙏 Opening Prayer
 
 Heavenly Father, thank You for giving us Your holy Word, not merely to increase our knowledge but to transform our hearts and shape our lives into the likeness of Jesus Christ; forgive us for the times we have been hearers without becoming doers, strengthen us through the Holy Spirit to obey what You teach us, help us to represent Christ faithfully in every conversation, every decision, and every trial, so that our lives may bring honour and glory to Your Name, through Jesus Christ our Lord. Amen.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 📚 Introduction
 
@@ -49,6 +58,10 @@ He lives in a way that honours it.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ✍️ Summary Poem
 
 **Not by words alone we're known,**
@@ -62,6 +75,10 @@ He lives in a way that honours it.
 **Miss the life Christ calls them to.**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # ⛪ Church History
 
@@ -78,6 +95,10 @@ The Gospel spread not only because it was preached...
 ...but because it was lived.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🌍 Head Knowledge Versus Heart Knowledge
 
@@ -104,6 +125,10 @@ God's Word must travel the short distance from our heads...
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🧪 Everyday Practical Examinations
 
 Every day God allows opportunities for our faith to be tested.
@@ -114,47 +139,91 @@ He already knows.
 
 But so that **we** may discover whether our faith is genuine.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ❤️ Love
 
 Can I love the difficult person today?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🤲 Forgiveness
 
 Can I release the one who wounded me?
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🙏 Humility
 
 Can I admit I was wrong?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🪞 Integrity
 
 Am I the same person in private as I am in public?
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 💪 Faith
 
 Will I trust God when prayers seem unanswered?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 👣 Obedience
 
 Will I obey even when obedience is costly?
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🗣️ Speech
 
 Do my words build others up?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ❤️‍🩹 Compassion
 
 Will I stop to help someone in need?
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ⏳ Stewardship
 
 Am I using God's gifts wisely?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🏃 Perseverance
 
 Will I continue faithfully even when life becomes difficult?
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 👑 Heavenly View
 
@@ -187,6 +256,10 @@ May that be the desire of every child of God.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Practical Tips
 
 * 📖 Read God's Word with the intention of obeying it.
@@ -198,6 +271,10 @@ May that be the desire of every child of God.
 * 👣 Remember that someone is always learning about Christ by watching your life.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # ✅ To Do Today
 
@@ -214,6 +291,10 @@ May that be the desire of every child of God.
 > **"Did my actions today honour Christ?"**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🌟 Final Thoughts
 
@@ -236,6 +317,10 @@ May we never become content with merely knowing Scripture.
 May we become living testimonies of the One who saved us.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🙏 Closing Prayer
 
@@ -334,4 +419,5 @@ Lord Jesus, thank You for calling us to follow You rather than merely admire You
 
 
 ----
+
 <!-- PLEBVOX:END -->

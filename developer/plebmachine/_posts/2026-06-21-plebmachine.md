@@ -3,6 +3,7 @@ layout: post
 title: "What Is PlebMachine?"
 date: 2026-06-21
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🖥️ What Is PlebMachine?
@@ -11,6 +12,10 @@ PlebMachine is a modular Linux desktop orchestration system designed to organize
 
 Rather than treating the desktop as a collection of unrelated applications, PlebMachine groups software into focused workspaces that support specific activities such as writing, research, development, graphics creation, music production, education, and leisure.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Core Idea
 
 The goal of PlebMachine is simple:
@@ -18,6 +23,10 @@ The goal of PlebMachine is simple:
 > One computer. Multiple workspaces. One consistent experience.
 
 Each mode provides a tailored environment with its own applications, shortcuts, wallpapers, settings, and workflow tools.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Why PlebMachine Exists
 
@@ -36,6 +45,10 @@ Examples include:
 * ✍️ Writing Mode
 * 🎮 Leisure Mode
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Modular Design
 
 Every component is designed to be modular.
@@ -45,6 +58,10 @@ This means:
 * Features can be added or removed independently.
 * Modes can evolve without affecting the entire system.
 * Users can customize workflows to match their needs.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Built on Linux
 
@@ -58,6 +75,10 @@ Benefits include:
 * Long-term stability
 * User control
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Looking Ahead
 
 PlebMachine continues to evolve as an educational and productivity platform that demonstrates how Linux can become a focused, organized, and enjoyable workspace.
@@ -67,4 +88,5 @@ The project combines practical computing, learning, publishing, and creativity i
 PlebMachine is not simply a desktop.
 
 It is a structured way of working.
+
 <!-- PLEBVOX:END -->

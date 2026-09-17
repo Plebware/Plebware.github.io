@@ -3,6 +3,7 @@ layout: post
 title: "PlebWare New Look?"
 date: 2026-06-07
 ---
+
 <!-- PLEBVOX:START -->
 
 # 📰 **The Story Behind PlebWare's New Look**
@@ -45,10 +46,18 @@ The rebuild has been a huge success. The new unified theme and centralised conte
 
 The transformation happened remarkably fast, with the major rebuild taking place from 3 May 2026 to 8 June 2026.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✨ **What This Means For You, The Visitor**
 Everything is now in one place, making content easier to find and the site cleaner to use. The unified design offers a more professional and cohesive experience. A growing library of content will be systematically added across all 12 modes.
 
 We have also added a dedicated News section to keep everyone informed about major updates and behind-the-scenes work.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🙏 **A Final Word**
 This rebuild represents a massive step forward, but a website is nothing without its visitors. Thank you for stopping by and being part of the PlebWare journey. There is a lot more to come.
@@ -142,4 +151,5 @@ This rebuild represents a massive step forward, but a website is nothing without
 
 
 ----
+
 <!-- PLEBVOX:END -->

@@ -7,17 +7,24 @@ tags: [warning, conviction, after-life, hell, death, christian, sanctification]
 mode: "author"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
 
-
-
-
 # Remember Lot's Wife
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## A Warning for Every Believer
 
 *"Remember Lot's wife."* — Luke 17:32
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Part 1: Introduction
 

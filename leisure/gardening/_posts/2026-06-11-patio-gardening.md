@@ -4,6 +4,7 @@ layout: post
 title: "Patio Gardening"
 date: 2026-06-11
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🌱 Patio Gardening: Growing Food in Pots and Cardboard Boxes
@@ -13,6 +14,10 @@ One of the wonderful things about gardening is that you do not need a large farm
 A sunny patio, a few containers, some recycled cardboard boxes, and a little patience can be enough to produce herbs, vegetables, and even potatoes.
 
 This article marks the beginning of the Gardening section on PlebWare. In future articles, I will document my experiments, successes, failures, and lessons learned while growing plants in limited spaces using affordable and often recycled materials.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Why Patio Gardening?
 
@@ -31,6 +36,10 @@ Benefits include:
 
 Even a few containers can provide a surprising harvest.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Gardening on a Budget
 
 One of the goals of this project is to explore low-cost gardening methods.
@@ -45,6 +54,10 @@ Rather than purchasing expensive raised beds and containers, I intend to experim
 * Organic growing methods where practical
 
 Gardening does not have to be expensive to be rewarding.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Growing Herbs in Containers
 
@@ -65,6 +78,10 @@ Many herbs thrive in pots and require only moderate care.
 
 A small collection of herbs can transform home cooking while reducing trips to the grocery store.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Potatoes in Cardboard Boxes
 
 One of the projects I am particularly interested in documenting is growing potatoes in cardboard boxes.
@@ -83,6 +100,10 @@ A sturdy cardboard box is partially filled with soil and compost. Seed potatoes 
 Over time, new potatoes develop beneath the soil.
 
 Future articles will follow this process from planting through harvest.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 What to Expect in This Gardening Series
 
@@ -104,6 +125,10 @@ Topics may include:
 
 Not every experiment will be successful, but every experiment should teach something useful.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Learning Through Experience
 
 Gardening is one of the few hobbies that rewards patience.
@@ -120,6 +145,10 @@ My hope is that these future articles will encourage others who may think they n
 
 Often all that is required is a container, some soil, a seed, and the willingness to begin.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Looking Ahead
 
 The journey starts with a few pots, a few boxes, and a willingness to experiment.
@@ -131,4 +160,5 @@ If you have ever considered growing your own food, perhaps this series will enco
 After all, every garden begins with a single seed.
 
 Happy gardening! 🌱
+
 <!-- PLEBVOX:END -->

@@ -3,11 +3,17 @@ layout: post
 title: "When Trust Dies - The Age of Distrust"
 date: 2026-07-10
 ---
+
 <!-- PLEBVOX:START -->
 
 # **The Breaking Point of Ordinary People** 
 
  
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑  **Broken Promises** 
 
 Governments promise.
@@ -22,6 +28,10 @@ Companies promise  better working conditions and rewards for faithful work, but 
 Families make false promises to each other.
 Churches preach promises,  but often those too are just empty words;  elders,  seasons, and congregants are too busy to apply love towards each other.
 Eventually, people stop believing everyone. 
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 *Economic Pressure Changes Character*
 
@@ -43,11 +53,19 @@ social media rewards shouting instead of listening.
 
 Feeling ignored eventually becomes anger,  something I see in my own life,  and that of my beloved spiritual son Juelz,  lately we are at each others throats over,  issues others have caused,  and because we cannot even keep our own promises to each other. 
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑  **Trust Is Earned Slowly but Lost Quickly** 
 
 One betrayal. One exposed lie. One dishonest business. One cheating spouse. One lying friend.
 
 Eventually, people begin expecting disappointment.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 **Sadly, Social Media Amplifies Outrage** 
 
@@ -61,6 +79,10 @@ Algorithms reward:
 
 Not because they're true... But simply because they keep people watching.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑  **Exhaustion Makes Us Less Compassionate** 
 
  People working long hours... paying higher prices... sleeping less...
@@ -68,16 +90,28 @@ Leads to negativity and abrasive reactions
 
 Eventually, even kind people become impatient,  angry 😠 and frustrated 😰.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 **The Loss of Community** 
 
 Years ago, neighbours knew one another.
 Today many people don't even know the family living next door.
 This leads to indifference and loneliness. Loneliness breeds suspicion.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 **Everyone Is Fighting Their Own Battle** 
 
 The rude cashier. The impatient driver. The angry customer. The exhausted nurse.
 You rarely know what happened to them before they met you.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 **We Have More Technology but Less Connection** 
 
@@ -87,6 +121,10 @@ Very few real conversations ever take place
 Communication increased...?
 
 Instead, understanding has decreased.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑  **Fear Is Becoming the Default Emotion**. 
 
@@ -99,17 +137,29 @@ Fear of:
 - Of the future
 Fear changes how societies behave.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 **Cynicism Feels Safer Than Hope** 
 
  People say:
 "Nothing will ever change."
 Not because they know... But because recurring disappointment has hurt them so often.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑  **The Cost of Constant Crisis*^ 
 
 Pandemics. Inflation. Load shedding. Wars. Job losses.
 
 Living in permanent crisis changes the human spirit. It turns good people into horrible people,  and turns horrible people into sociopathic monsters. 
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑  **Respect Has Become Conditional**
 
@@ -121,6 +171,10 @@ People increasingly treat others according to:
 - religion
 
 Instead of simply recognising shared humanity.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑  **Small Acts Still Matter** 
 
@@ -223,4 +277,5 @@ Perhaps society hasn't become filled with bad people. Perhaps it has become fill
 
 
 ----
+
 <!-- PLEBVOX:END -->

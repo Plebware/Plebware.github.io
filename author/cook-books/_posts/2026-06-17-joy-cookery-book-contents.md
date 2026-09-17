@@ -3,7 +3,9 @@ layout: post
 title: "Joy Cookery Book - Contents"
 date: 2026-06-17
 ---
+
 <!-- PLEBVOX:START -->
+
 <div align="center">
 
 <img src="/assets/images/joy-cookery-collection.png"
@@ -15,6 +17,10 @@ date: 2026-06-17
 
 # 🍳 Preserving the Past, Cooking for the Future
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📖 Introduction
 
 * Welcome to Joy Cookery Book
@@ -25,7 +31,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🍴 Kitchen Equipment and Utensils
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🥘 Pots
 
@@ -41,12 +55,20 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🥢 Woks
 
 1. Large Wok
 2. Medium Wok
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🍳 Frying Pans
 
@@ -56,12 +78,20 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🍟 Deep Frying Equipment
 
 1. Small Deep Fryer (22 cm Diameter × 25 cm Deep)
 2. Medium Deep Fry Basket
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🧀 Graters
 
@@ -71,11 +101,19 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ⚡ Pressure Cooking
 
 1. Pressure Cooker
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔪 Essential Utensils
 
@@ -93,7 +131,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🥣 Easy Meals
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Soups
 
@@ -112,6 +158,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🌾 Porridge
 
 1. Maize Meal Porridge
@@ -122,6 +172,10 @@ date: 2026-06-17
 6. Semolina Porridge
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ⚡ Quick Meals
 
@@ -140,7 +194,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🍞 Breads and Baking
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Basic Breads
 
@@ -152,6 +214,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Flat Breads
 
 1. Focaccia
@@ -162,6 +228,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Scones and Muffins
 
 1. Plain Scones
@@ -171,7 +241,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🍳 Breakfasts
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Traditional Breakfasts
 
@@ -183,6 +261,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Budget Breakfasts
 
 1. Porridge and Milk
@@ -192,7 +274,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🥩 Meat Dishes
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Beef
 
@@ -203,6 +293,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Chicken
 
 1. Roast Chicken
@@ -212,6 +306,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Pork
 
 1. Pork Chops
@@ -220,7 +318,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🥔 Vegetables and Side Dishes
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Potato Dishes
 
@@ -232,6 +338,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Vegetable Dishes
 
 1. Creamed Spinach
@@ -242,7 +352,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🍚 Rice, Pasta and Grains
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Rice
 
@@ -253,6 +371,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Pasta
 
 1. Macaroni Cheese
@@ -262,7 +384,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🫘 Beans, Lentils and Pulses
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Bean Dishes
 
@@ -272,6 +402,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Lentil Dishes
 
 1. Lentil Curry
@@ -280,7 +414,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🥗 Salads
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Green Salads
 
@@ -290,6 +432,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Traditional Salads
 
 1. Potato Salad
@@ -298,7 +444,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # Frying Pans🍰 Desserts
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Traditional Desserts
 
@@ -309,6 +463,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Fruit Desserts
 
 1. Stewed Fruit
@@ -317,7 +475,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🍪 Biscuits and Treats
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Biscuits
 
@@ -327,6 +493,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Sweets
 
 1. Fudge
@@ -335,7 +505,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🥫 Preserving and Pantry Skills
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Preserves
 
@@ -345,6 +523,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Pickles
 
 1. Pickled Onions
@@ -353,7 +535,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ☕ Beverages
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Hot Drinks
 
@@ -363,6 +553,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Cold Drinks
 
 1. Lemonade
@@ -371,7 +565,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🌿 Herbs and Spices
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Essentials
 
@@ -382,6 +584,10 @@ date: 2026-06-17
 5. Mixed Herbs
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Dried Herbs
 
@@ -394,6 +600,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Ground Spices
 
 1. Masala
@@ -405,6 +615,10 @@ date: 2026-06-17
 7. Cinnamon
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Whole Spices
 
@@ -420,6 +634,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Herb and Spice Blends
 
 1. Bouquet Garni
@@ -431,7 +649,15 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Kitchen Basics
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Cooking Methods
 
@@ -445,6 +671,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Food Storage
 
 1. Refrigeration
@@ -453,6 +683,10 @@ date: 2026-06-17
 4. Pantry Management
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Kitchen Safety
 
@@ -463,6 +697,10 @@ date: 2026-06-17
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 📝 Notes and Recipe Journal
 
 1. Family Favourites
@@ -472,6 +710,10 @@ date: 2026-06-17
 5. Personal Notes
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # ❤️ Final Thoughts
 
@@ -566,4 +808,5 @@ May this book bring joy to your kitchen, confidence to your cooking, and many me
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

@@ -3,6 +3,7 @@ layout: post
 title: "Tomato Soup With Soup Bone"
 date: 2026-06-18
 ---
+
 <!-- PLEBVOX:START -->
 
 <div align="center">
@@ -10,6 +11,10 @@ date: 2026-06-18
 # 🍅 Tomato Soup With Soup Bone 🍲
 
 </div>
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🥕 Ingredients
 
@@ -23,6 +28,10 @@ date: 2026-06-18
 - 🧂 Salt to taste  
 - 🌶️ Pepper to taste  
 - 🌿 Herbs to taste  
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 👩‍🍳 Method
 
@@ -42,6 +51,10 @@ date: 2026-06-18
 7. Mash the carrot and return it to the soup.
 8. Remove the soup bone.
 9. Add cornflour and gravy salt to thicken the soup.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌿 Optional Garnish
 
@@ -142,4 +155,5 @@ Serve with:
 
 
 -----
+
 <!-- PLEBVOX:END -->

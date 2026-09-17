@@ -3,6 +3,7 @@ layout: post
 title: "Mr Fix It All"
 date: 2026-06-11
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔧 How I Became A Handyman
@@ -29,6 +30,10 @@ Over the years, I became the person family, friends, neighbours, and co-workers 
 
 Thus began the journey of becoming **Mr Fix It All**.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Learning by Doing
 
 I did not learn my practical skills from YouTube videos or online courses.
@@ -49,6 +54,10 @@ But every mistake became a lesson.
 
 Every repair added another skill to the toolbox.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The Railway Years
 
 My years as an electrical fitter on the railways expanded those skills even further.
@@ -67,6 +76,10 @@ A train does not care about excuses.
 It either works or it doesn't.
 
 That mindset stays with you.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 A Handyman's Philosophy
 
@@ -88,6 +101,10 @@ Sometimes it requires creativity.
 
 But there is great satisfaction in restoring something to working order.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Why Repair Matters
 
 Modern society often encourages replacement.
@@ -103,6 +120,10 @@ Yet repairing an item can:
 * Preserve useful equipment
 
 Repairing something with your own hands creates a sense of accomplishment that cannot be purchased.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Lessons From a Lifetime of Fixing Things
 
@@ -128,6 +149,10 @@ Impatience causes more damage than faulty equipment.
 
 Every repair teaches something new.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Still Learning
 
 Even today, I continue to learn.
@@ -149,6 +174,10 @@ Understand the cause.
 Apply the solution.
 
 Test the result.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Final Thoughts
 
@@ -257,4 +286,5 @@ And so, whenever something breaks, I still hear that familiar call:
 
 
 -----
+
 <!-- PLEBVOX:END -->

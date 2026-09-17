@@ -142,6 +142,8 @@ And while there is breath in us, let us spend it for Him.
 
 🔥 **Lord, set us ablaze again.**
 
-<!-- PLEBVOX:END -->
+
 
 🗡️ *'God's Journalist'* in conjunction with *'ChatGPT .'* and the *Holy Spirit*
+
+<!-- PLEBVOX:END -->

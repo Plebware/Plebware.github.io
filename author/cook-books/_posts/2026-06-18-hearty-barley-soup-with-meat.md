@@ -3,6 +3,7 @@ layout: post
 title: "Hearty Barley Soup With Meat"
 date: 2026-06-18
 ---
+
 <!-- PLEBVOX:START -->
 
 <div align="center">
@@ -10,6 +11,10 @@ date: 2026-06-18
 # 🥣 Hearty Barley Soup With Meat 🥕
 
 </div>
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🥘 Ingredients
 
@@ -26,6 +31,10 @@ date: 2026-06-18
 - 🌶️ Pepper to taste  
 - 🍬 Pinch of Sugar  
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 👩‍🍳 Method
 
 1. Chop or cut the meat into small pieces.
@@ -41,6 +50,10 @@ date: 2026-06-18
 9. Add a pinch of sugar to balance the flavour.
 10. Just before serving, return the leftover meat to the soup after removing all bones.
 11. Add a little finely chopped parsley.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌿 Optional Garnish
 
@@ -141,4 +154,5 @@ Serve with:
     })();
 </script>
 ----
+
 <!-- PLEBVOX:END -->

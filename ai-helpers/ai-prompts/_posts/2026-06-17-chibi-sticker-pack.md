@@ -3,6 +3,7 @@ layout: post
 title: "Chibi Sticker-Pack Creation"
 date: 2026-06-17
 ---
+
 <!-- PLEBVOX:START -->
 
 <div align="center">
@@ -14,7 +15,6 @@ date: 2026-06-17
 </div>
 
 <br>
-
 
 ## Creating Stickers With ChatGPT
 
@@ -29,4 +29,5 @@ Clean, white background, vertical output with a thick white border.
 Create diverse cute expressions: laughing, crying, sleepy, surprised, confused, eating, grumpy, cute expressions… 
 Each expression should include cute text, for example: 
 Good morning! Whattt? / Huh? / I’m reminding you! / So sleepy / Wow! Approved! / Nice! / Hey you! Achoo! / Angry! / Huh??? / Good night :3 / Too cuteee / Am I cool yet?!
+
 <!-- PLEBVOX:END -->

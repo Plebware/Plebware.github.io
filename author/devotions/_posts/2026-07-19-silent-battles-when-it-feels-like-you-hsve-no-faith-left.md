@@ -3,6 +3,7 @@ layout: post
 title: "Silent Battles: When It Feels Like You Have No Faith Left"
 date: 2026-07-19
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 Silent Battles: When It Feels Like You Have No Faith Left
@@ -28,6 +29,10 @@ And perhaps the most frightening thought of all begins to whisper:
 If those words have ever crossed your mind, know this—you are not the first believer to ask them.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 When Yesterday Will Not Stay Buried
 
@@ -60,6 +65,10 @@ It is with accepting it ourselves.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Conviction Is Not Condemnation
 
 The Holy Spirit convicts us to bring us back to God.
@@ -81,6 +90,10 @@ What incredible mercy.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Faith Is More Than A Feeling
 
 We often mistake God's presence for our emotions.
@@ -98,6 +111,10 @@ Sometimes faith is simply saying:
 That quiet determination may be one of the purest expressions of faith we will ever offer.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Even The Great Heroes Struggled
 
@@ -123,6 +140,10 @@ There is a difference.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 God Has Not Left
 
 Jesus gave His followers a promise that has never been withdrawn.
@@ -140,6 +161,10 @@ Our emotions change.
 His character does not.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 When You Have Nothing Left
 
@@ -160,6 +185,10 @@ God has never required polished prayers.
 Only honest ones.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Closing Prayer
 
@@ -202,4 +231,5 @@ Grace and peace be with you always.
 
 🗡️ **God's Journalist**  
 *In conjunction with ChatGPT and the Holy Spirit.*
+
 <!-- PLEBVOX:END -->

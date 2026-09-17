@@ -3,6 +3,7 @@ layout: post
 title: "🧹 Clearing Away the Flotsam"
 date: 2026-06-28
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🧹 Clearing Away the Flotsam
@@ -22,6 +23,10 @@ It was an act of **self-preservation.**
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🌊 Learning From Past Wounds
 
 Over the years I have developed certain boundaries—not because I believe myself better than anyone else, but because repeated disappointments have taught me painful lessons.
@@ -38,6 +43,10 @@ Those words continually remind me to remain humble.
 Yet humility does not require us to continually place ourselves where we are repeatedly wounded.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🐑 When Shepherds Fail
 
@@ -59,6 +68,10 @@ To guide.
 Sadly, not every church leader lives according to that calling.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 💔 Silence Speaks Loudly
 
@@ -82,6 +95,10 @@ Sometimes silence says more than words ever could.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🚶 Walking Away Before Getting Burned
 
 Leaving was not done in anger.
@@ -101,6 +118,10 @@ It simply means allowing God—not people—to define our value.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🚶‍♂️ Practical Realities
 
 There was another practical challenge.
@@ -112,6 +133,10 @@ Without money for transport, attending became an exhausting journey that I could
 Sometimes God closes a door through circumstances long before we recognise what He is doing spiritually.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🙏 Waiting for God's Direction
 
@@ -131,6 +156,10 @@ Jesus warned us that this would happen.
 Those words are as relevant today as they were two thousand years ago.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ✨ My Prayer
 
@@ -153,6 +182,10 @@ For even when people disappoint us...
 > **— John 10:11**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Reflection
 
@@ -265,4 +298,5 @@ But our relationship with Jesus must always remain our first and strongest found
 
 
 -----
+
 <!-- PLEBVOX:END -->

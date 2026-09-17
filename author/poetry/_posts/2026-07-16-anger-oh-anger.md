@@ -7,6 +7,7 @@ tags: [poetry, anxiety, anger, perseverance, reflection, hope, healing]
 mode: "author"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
 
 ## 🌊 The Battle Within
@@ -136,4 +137,5 @@ Before the dawn reveals the light.
 
     })();
 </script>
+
 <!-- PLEBVOX:END -->

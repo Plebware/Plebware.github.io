@@ -3,11 +3,16 @@ layout: post
 title: "What is PlebMachine?"
 date: 2024-01-01
 ---
+
 <!-- PLEBVOX:START -->
 
 ## A Different Approach to Computing
 
 Most software is designed around applications.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebMachine is designed around people.
 
@@ -51,6 +56,10 @@ The result is often frustration rather than productivity.
 
 PlebMachine was conceived as an attempt to solve this problem.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Core Idea
 
 At its heart, PlebMachine is a mode-driven computing environment.
@@ -66,6 +75,10 @@ A graphics mode focuses on visual creation.
 A development mode focuses on programming and software engineering.
 
 The user enters a mode and receives an environment optimised for that activity.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The goal is simplicity.
 
@@ -88,6 +101,10 @@ Others fail.
 Both outcomes provide valuable lessons.
 
 Research allows the project to evolve through observation, testing, and practical experience.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The PlebWare Philosophy
 
@@ -115,6 +132,10 @@ Every tool should contribute to learning and self-improvement.
 
 These principles influence every aspect of the project.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## What This Section Covers
 
 The PlebMachine Research section documents:
@@ -135,6 +156,10 @@ Some articles will be highly technical.
 Others will focus on philosophy and design.
 
 Together they form a record of the project's evolution.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Looking Toward the Future
 
@@ -158,4 +183,5 @@ The journey continues.
 
 _**Otto Brinkmeier**_
 **Chief Developer, PlebMachine Project**
+
 <!-- PLEBVOX:END -->

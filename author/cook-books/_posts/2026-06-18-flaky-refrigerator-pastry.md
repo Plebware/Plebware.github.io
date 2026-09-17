@@ -3,6 +3,7 @@ layout: post
 title: "Flaky Refrigerator Pastry"
 date: 2026-06-18
 ---
+
 <!-- PLEBVOX:START -->
 
 <div align="center">
@@ -10,6 +11,10 @@ date: 2026-06-18
 # 🥐 Flaky Refrigerator Pastry
 
 </div>
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🥘 Ingredients
 
@@ -20,6 +25,10 @@ date: 2026-06-18
 - 💧 ½ Cup Hot Water
 - 🧂 1 Teaspoon Salt
 - 🌾 700g Sifted Flour
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 👩‍🍳 Method
 
@@ -32,6 +41,10 @@ date: 2026-06-18
 7. When required, cut off a portion of the pastry.
 8. Roll out and use as desired.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Uses
 
 This pastry is suitable for:
@@ -41,6 +54,10 @@ This pastry is suitable for:
 - 🍏 Fruit tarts
 - 🥐 Turnovers
 - 🥮 Family-sized bakes
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ❄️ Storage Tip
 
@@ -138,4 +155,5 @@ The pastry keeps well in the refrigerator and can be used as needed by cutting o
 </script>
 
 -----
+
 <!-- PLEBVOX:END -->

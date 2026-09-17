@@ -3,9 +3,14 @@ layout: post
 title: "Why Game Reviews Matter"
 date: 2026-06-07
 ---
+
 <!-- PLEBVOX:START -->
 
 ## Play To Learn - Play To Tell
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## More Than Just Entertainment
 
@@ -22,6 +27,10 @@ They are interactive systems.
 They are rule-based worlds.
 
 They are simulations of decision, consequence, and creativity.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What Makes Games Unique
 
@@ -41,6 +50,10 @@ Every action has structure:
 
 Games respond to input, creating a feedback loop between player and system.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Why Reviews Are Important
 
 Game reviews are not only about rating enjoyment.
@@ -57,6 +70,10 @@ A good review explores:
 
 This turns gaming into analysis rather than passive consumption.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Games as Learning Systems
 
 Games often teach without explicitly trying to teach.
@@ -72,6 +89,10 @@ They develop:
 
 Even simple games can contain complex systems beneath the surface.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The PlebWare Perspective
 
 Within PlebWare, leisure is not separate from learning.
@@ -86,6 +107,10 @@ A good review asks:
 * What does it ignore?
 * How does it guide player behaviour?
 * What kind of thinking does it encourage?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What This Section Covers
 
@@ -104,6 +129,10 @@ The focus is not hype or popularity.
 
 The focus is understanding how games work.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Leisure as Recovery and Exploration
 
 Leisure is not wasted time.
@@ -115,6 +144,10 @@ Games provide structured leisure.
 They offer goals, systems, and challenges without real-world consequences.
 
 This makes them valuable not only for enjoyment, but also for mental engagement.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Closing Thought
 
@@ -129,4 +162,5 @@ And reviewing it means understanding that system more deeply.
 *Play is one of the oldest forms of learning.*
 
 **O.C. Verricchio**
+
 <!-- PLEBVOX:END -->

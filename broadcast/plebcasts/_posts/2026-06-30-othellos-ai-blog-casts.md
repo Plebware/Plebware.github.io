@@ -3,6 +3,7 @@ layout: post
 title: "🎙️ Othello's AI Blog Casts"
 date: 2026-06-30
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🎙️ Othello's AI Blog Casts
@@ -21,7 +22,15 @@ So, grab a cup of coffee ☕, settle in, and join me as we explore the ever-evol
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🎧 Available AI Blog Casts
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🎙️ Deep Dive into Otto Brinkmeier
 
@@ -42,6 +51,10 @@ Powered by **Google Gemini**
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🎙️ Deep Dive into Digital Authenticity
 
 **🔗 Article:**  
@@ -60,6 +73,10 @@ Powered by **Google Gemini**
 03:25 UTC (05:25 SAST)
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🎙️ Deep Dive into The Bombed Shoulder
 
@@ -80,6 +97,10 @@ Powered by **Google Gemini**
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🚀 More to Come...
 
 This collection will continue to grow as new articles are transformed into professionally narrated AI blog casts. Each production combines thoughtful writing with modern AI voice technology, making knowledge accessible whether you're reading at your desk or listening on the move.
@@ -87,4 +108,5 @@ This collection will continue to grow as new articles are transformed into profe
 Thank you for joining me on this journey through technology, creativity, and lifelong learning.
 
 — **Othello Cody Verrocchio**
+
 <!-- PLEBVOX:END -->

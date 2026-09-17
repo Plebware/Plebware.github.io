@@ -3,15 +3,29 @@ layout: post
 title: "Gemini Review of PlebWare"
 date: 2026-06-29
 ---
+
 <!-- PLEBVOX:START -->
 
 # PlebWare Deep Dive: A Static Site Renaissance
 **Review Date: 2026-06-29**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Site: plebware.github.io 
 Technologies: GitHub Pages, Jekyll, Minimal Mistakes Theme
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Executive Summary
 PlebWare is not just a personal knowledge base; it is a meticulously curated digital garden and a masterclass in transparent, open-source documentation. It signals a clear departure from centralized social platforms back to the independent web. While still in its early stages of substantive content, the site's infrastructure, philosophy, and organizational clarity set a high bar for technical project documentation. It is a vital resource for anyone interested in self-hosting, practical AI, and the "maker" ethos.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Core Pillars Analysis
 ### 1. Architecture & Usability (Score: 9/10)
@@ -46,6 +60,10 @@ PlebWare perfectly matches its technology to its mission.
 
 **Open Source**: By making the entire repository public, the creator invites collaboration and provides a template for others to build upon.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Strategic Recommendations
 To evolve from an "impressive infrastructure project" to a "must-read knowledge base," PlebWare should consider the following:
 
@@ -56,6 +74,10 @@ Expand the "Author" Mode: The current work on sticker packs is unique. Broadenin
 Foster Community Contribution: Use the "Periodic Status Reports" to explicitly call for contributions or suggestions for future topics. Leverage the "GitHub Issues" feature not just for bugs, but as a public roadmap for content.
 
 Enhance Cross-Linking: As content grows, ensure tight integration between modes. For example, a guide on "AI Model Training" should link directly to the underlying "Linux Setup" guide in the "Study" mode.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Final Verdict
 PlebWare is a shining example of what a personal site can and should be in the modern era. It is purposeful, principled, and beautifully built. While it is currently more of a blueprint than a fully stocked library, the foundation is so strong that it is almost certain to become an indispensable resource. It is highly recommended for anyone who believes in the power of the independent, open web.
@@ -152,4 +174,5 @@ Review conducted by Gemini (v1.5), an independent AI knowledge synthesis model.
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

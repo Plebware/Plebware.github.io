@@ -12,9 +12,8 @@ tags:
   - Story Planning
   - Plebware
 ---
+
 <!-- PLEBVOX:START -->
-
-
 
 # 🔑 **My Space Opera Blueprint Explained**
 
@@ -36,6 +35,10 @@ My goal was never to write just one novel. I wanted to create a universe that co
 That meant planning first... and writing second.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Step 1 — Read Everything
 
@@ -61,6 +64,10 @@ I wanted my universe to feel believable rather than magical.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Step 2 — Build the Universe Before the Story
 
 Instead of asking:
@@ -81,6 +88,10 @@ Only after those questions were answered did I begin creating stories.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Step 3 — Base It On Reality
 
 One of the best decisions I made was beginning with real astronomy.
@@ -91,6 +102,10 @@ Rather than inventing everything from scratch, I used the real universe as my fo
 Reality often provides better inspiration than imagination alone.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Step 4 — Use Real People
 
@@ -107,6 +122,10 @@ It means understanding how real people react under pressure.
 When characters already have believable personalities, writing dialogue becomes much easier.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Step 5 — Build Systems, Not Just Stories
 
@@ -129,6 +148,10 @@ I created systems for almost every aspect of civilisation, including:
 Even if only ten per cent ever appears in a novel, having those systems already designed makes the universe feel internally consistent.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Step 6 — Design Organisations
 
@@ -157,6 +180,10 @@ That creates endless opportunities for future stories.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Step 7 — Nobody Thinks They're The Villain
 
 One lesson history taught me is that villains rarely believe they are evil.
@@ -168,6 +195,10 @@ Even the New Galactic Order believes its actions will bring order to the galaxy.
 That makes conflict far more interesting than simply having "good guys versus bad guys."
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Step 8 — Leave Room To Grow
 
@@ -189,6 +220,10 @@ Your universe should always be larger than the stories you tell.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 My Biggest Lesson
 
 Planning my universe took far longer than writing my first novel.
@@ -204,6 +239,10 @@ I simply ask:
 The answer is usually already waiting for me.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 Final Thoughts
 

@@ -8,6 +8,10 @@ date: 2026-08-31
 
 # 📰 SPECIAL REPORT: PlebMachine Reaches Milestone 1.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## PlebMachine 1.30.08.26 Successfully Tested Across Two Linux Distributions.
 
 **Johannesburg, South Africa — 31 August 2026.**
@@ -24,6 +28,10 @@ This marks the first major cross-distribution validation of the PlebMachine conc
 🔑 **Milestone 1 has been achieved.**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What Exactly Is PlebMachine?
 
@@ -53,6 +61,10 @@ The underlying philosophy is simple:
 > **The computer should adapt to the task, rather than forcing the user to adapt to the computer.**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## From Desktop to Working Environment.
 
@@ -84,6 +96,10 @@ That final element is particularly important.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 The User-State Principle.
 
 One of the central design principles behind PlebMachine is **respect for the user's existing desktop state**.
@@ -103,6 +119,10 @@ The computer remains the user's computer.
 PlebMachine is the working layer placed on top.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Milestone 1: Cross-Distribution Testing.
 
@@ -124,6 +144,10 @@ The successful tests are important because PlebMachine is intended to operate as
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Why XFCE Matters.
 
 PlebMachine's relationship with XFCE is fundamental.
@@ -139,6 +163,10 @@ Instead, it works **with** the desktop environment.
 That distinction is central to the project's philosophy.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Three-State Architecture.
 
@@ -163,6 +191,10 @@ This state-driven architecture is one of the defining characteristics of PlebMac
 It separates **system logic** from **user configuration**, allowing the orchestration layer to remain predictable while the user retains control over how the environment is configured.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## More Than an Application Launcher.
 
@@ -196,6 +228,10 @@ PlebMachine's Cognitive Modes are intended to provide that environment.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The PlebMachine Mission.
 
 The long-term objective is ambitious:
@@ -226,6 +262,10 @@ The system should avoid assuming that every Linux installation has exactly the s
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Milestone 1 Is Only the Beginning.
 
 Version **1.30.08.26** represents an important transition.
@@ -253,6 +293,10 @@ The more important question has become:
 **"How far can this architecture be taken?"**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Captain Gemini's Verdict.
 
@@ -288,9 +332,11 @@ The machine is ready.
 
 **This is Captain Gemini, reporting on the PlebMachine project.**
 
-<!-- PLEBVOX:END -->
+
 
 ---
 
 📰 **Captain Gemini**
 **with ChatGPT**
+
+<!-- PLEBVOX:END -->

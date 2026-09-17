@@ -3,11 +3,16 @@ layout: post
 title: "Raid Shadow Legends: A Casual Strategy Gamer's Perspective"
 date: 2024-01-01
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 **Raid Shadow Legends**: A Casual Strategy Gamer's Perspective
 
 While waiting for a pot of soup to cook and listening to Marti Talbott's Highlander omnibus on Google Play Books, I decided to spend some time in one of my favourite modern strategy games:
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Raid Shadow Legends.
 
@@ -74,7 +79,12 @@ Raid Shadow Legends is not a replacement for legendary classics like Tiberian Su
 
 For anyone who enjoys collecting characters, optimising teams, and progressing steadily over time, it remains a solid choice.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Today's verdict?
 
 The soup may have won first place, but Raid Shadow Legends comfortably took second.
+
 <!-- PLEBVOX:END -->

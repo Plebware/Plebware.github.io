@@ -3,6 +3,7 @@ layout: post
 title: "🧹 Clearing Away the Flotsam — A Poem"
 date: 2026-06-28
 ---
+
 <!-- PLEBVOX:START -->
 
 # **The Ship Within My Soul**
@@ -144,4 +145,5 @@ and saves those who are crushed in spirit."**
 
 
 ----
+
 <!-- PLEBVOX:END -->

@@ -10,7 +10,12 @@ author: Otto Brinkmeier
 ---
 
 <!-- PLEBVOX:START -->
+
 # The PlebWare Charter.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## From Concept to Fulfilment.
 
@@ -42,8 +47,8 @@ To remain financially independent while developing educational content, the comp
 * Invoice systems.
 * Payroll documentation.
 * Computer maintenance.
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
+
+
 ### Early Clients
 
 | Client.                                  | Services.                                  | Period     |
@@ -58,8 +63,11 @@ To remain financially independent while developing educational content, the comp
 | Lighthouse Ministries.                   | Website, Computer Maintenance.             | 2012–2014 |
 
 ---
+
 <!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
+
 # The Birth of PlebWare.
 
 During **2006**, Otto Brinkmeier met **Julian Boyd de Villiers**, who would eventually become his development partner.
@@ -75,8 +83,11 @@ The name represented software and knowledge created for **ordinary people** rath
 PlebWare officially became the project's identity in **2010**, replacing the earlier concepts that had evolved from the original 0tronix vision.
 
 ---
+
 <!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
+
 # The PlebDictionary
 
 As the project matured, Otto and Julian began creating a shared vocabulary that described the growing PlebWare ecosystem.
@@ -88,8 +99,11 @@ Originally there were more than twenty different terms, each describing a partic
 As the platform evolved into a publishing and education ecosystem, many of these became unnecessary.
 
 In **2026**, the terminology was refined to preserve only the core concepts that continue to define the PlebWare identity.
+
 <!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
+
 ## PlebTuition
 
 Originally, **PlebTuition** referred to downloadable PDF training manuals.
@@ -97,6 +111,10 @@ Originally, **PlebTuition** referred to downloadable PDF training manuals.
 Today it represents every form of learning produced by PlebWare, including written tutorials, online courses, videos, research articles, and educational resources.
 
 PlebTuition has become the educational heart of both the PlebWare publishing platform and the PlebMachine operating environment.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebPacks
 
@@ -106,9 +124,17 @@ Two of the original software collections remain archived on Download.com.
 
 Although software compilation packs are no longer produced, the name continues to represent downloadable information packs, educational bundles, and resource collections.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## PlebSticks
 
 A **PlebStick** is a portable USB flash drive containing software, educational material, or complete portable environments such as **PlebMachine** or **PlebSword**.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebBuddy
 
@@ -116,22 +142,41 @@ A **PlebStick** is a portable USB flash drive containing software, educational m
 
 Rather than simply describing customers, the term represents people who share the project's philosophy of learning, repairing, creating, and helping others.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## PlebSword
 
 PlebSword is a collection of Bible study resources built around the **e-Sword** platform, including commentaries, devotional material, church resources, and educational courses developed by PlebWare.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebChurch
 
 PlebChurch represents the ministry and Christian publishing branch of PlebWare, providing biblical teaching, devotional writing, educational resources, and digital outreach.
 
 ---
+
 <!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
+
 ## The PlebWare Founding Manifesto
 
 **30 June 2026**
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Technology Should Remain Connected to Humanity
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Preamble
 
@@ -148,8 +193,11 @@ Beginning on **25 May 2026**, the project underwent its most significant transfo
 That redevelopment was completed on **30 June 2026**, marking the beginning of continuous publication.
 
 ---
+
 <!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
+
 ## 🔑 Historical Timeline
 
 | Date       | Milestone                                                      |
@@ -163,8 +211,11 @@ That redevelopment was completed on **30 June 2026**, marking the beginning of c
 | 2026-06-30 | Publishing and Education Platform completed                    |
 
 ---
+
 <!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
+
 ## 🔑 Why PlebWare Exists
 
 The modern technology industry too often encourages replacement over repair, complexity over clarity, and dependence over understanding.
@@ -181,11 +232,19 @@ We believe ordinary people deserve technology that is:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Our Mission
 
 To publish, teach, document, preserve knowledge, and develop practical technology that places people before products.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Our Core Values
 
@@ -198,6 +257,10 @@ To publish, teach, document, preserve knowledge, and develop practical technolog
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Our Flagship Project — PlebMachine
 
 PlebMachine is a modular Linux desktop orchestration environment built upon state-driven engineering, recoverability, flexibility, and long-term maintainability.
@@ -207,6 +270,10 @@ Its guiding philosophy is simple:
 > **Build systems for ordinary people using ordinary hardware.**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 The Transformation
 
@@ -223,6 +290,10 @@ Today it is:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Founders
 
 * **Otto Wilhelm Friedrich Brinkmeier** — Founder, Architect & Chief Developer
@@ -230,6 +301,10 @@ Today it is:
 * **Martin de Walt** — Early Collaborator
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Publishing Covenant
 
@@ -243,6 +318,10 @@ Every publication shall strive to:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Our Commitment
 
 We commit ourselves to creating systems and publications that:
@@ -255,6 +334,10 @@ We commit ourselves to creating systems and publications that:
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Call to Action
 
 If you believe technology should be understandable, repairable, and accessible, then you already share the spirit of PlebWare.
@@ -262,6 +345,10 @@ If you believe technology should be understandable, repairable, and accessible, 
 **Learn. Build. Share. Teach.**
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Closing Declaration
 
@@ -272,6 +359,10 @@ The work of PlebWare will never truly be finished.
 Every article, tutorial, lesson, project, and publication adds to a growing body of knowledge dedicated to helping ordinary people understand extraordinary technology.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebWare
 
@@ -374,3 +465,5 @@ Every article, tutorial, lesson, project, and publication adds to a growing body
 </script>
 
 ----
+
+<!-- PLEBVOX:END -->

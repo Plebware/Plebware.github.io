@@ -4,9 +4,14 @@ layout: post
 title: "Keeping the Faith Without Becoming the Hero"
 date: 2026-06-17
 ---
+
 <!-- PLEBVOX:START -->
 
 # ✝️ Remaining Humble During The Darkest Days
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🙏 Opening Prayer
 
@@ -21,6 +26,10 @@ In Jesus' Name,
 Amen. ✝️
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📖 Introduction
 
@@ -46,6 +55,10 @@ But it also means resisting the temptation to make ourselves the center of the n
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📝 Summary Poem
 
 🌧️ When storms arise and shadows fall,
@@ -66,6 +79,10 @@ But it also means resisting the temptation to make ourselves the center of the n
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ⛪ Church History Example
 
 Many believers know the story of the Protestant Reformation and the work of Martin Luther.
@@ -83,6 +100,10 @@ This remains a valuable lesson today.
 Our lives may influence others 🌍, but our purpose is to point people toward Christ rather than toward ourselves.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Key Point One: Faith Looks Beyond Personal Circumstances
 
@@ -109,6 +130,10 @@ He trusts that growth is taking place beneath the soil even when nothing is visi
 Likewise, God may be working 🔨 in ways we cannot yet understand.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Key Point Two: Faith Trusts God's Character More Than Our Feelings
 
@@ -140,6 +165,10 @@ The believer must do the same, steering life by God's Word 📖 rather than emot
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔑 Key Point Three: Faith Gives Glory to God
 
 ### 📖 Scripture
@@ -170,6 +199,10 @@ Likewise, our lives should reflect God's light ✨ rather than our own importanc
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🌟 Final Thoughts
 
 Keeping the faith is not about proving how strong we are 💪.
@@ -191,6 +224,10 @@ But they are not the center of the story.
 And He remains faithful from beginning to end.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🙏 Closing Prayer
 
@@ -313,4 +350,5 @@ Amen. ✨
 
 
 ------
+
 <!-- PLEBVOX:END -->

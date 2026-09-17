@@ -3,6 +3,7 @@ layout: post
 title: "Down The Rabbit Hole: Computer History Story"
 date: 2025-06-01
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🐇 Down The Rabbit Hole: A Historical View Through The Eyes Of Alice
@@ -13,6 +14,10 @@ date: 2025-06-01
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📚 Introduction
 
 Alice sat cross-legged in the dimly lit corner of an old library, surrounded by dusty tomes whispering secrets of a world shaped by numbers. Her fingers brushed the yellowed pages, eyes widening as she traced the lineage of machines that transformed thought into calculation.
@@ -21,6 +26,10 @@ Like the famous journey into Wonderland, every page she turned led her further *
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🧮 The Dawn of Computation
 
 The **abacus**, with its beads and rods, was humanity's first step toward numerical mastery.
@@ -28,6 +37,10 @@ The **abacus**, with its beads and rods, was humanity's first step toward numeri
 Merchants and scholars once relied on this silent teacher, a mechanical extension of the human mind. Alice imagined traders deftly flicking beads, their fingers dancing across wooden frames, making commerce and accounting more efficient.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ⚙️ The Antikythera Mechanism
 
@@ -39,6 +52,10 @@ Alice pictured ancient astronomers using it to map the heavens, bridging myth an
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ➕ Early Mechanical Calculators
 
 Then came **Pascal's Arithmetic Machine** and **Leibniz's Stepped Reckoner**, early attempts to ease the burden of calculation.
@@ -46,6 +63,10 @@ Then came **Pascal's Arithmetic Machine** and **Leibniz's Stepped Reckoner**, ea
 Leibniz's machine, capable of multiplication and division, hinted at a future where gears and levers could perform tasks once reserved for human intellect.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 💡 The Birth of Programming
 
@@ -57,6 +78,10 @@ Ada's notes laid the foundation for modern programming, proving that computation
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 💻 Dreaming of Personal Computing
 
 Next, she discovered **Alan Kay's Dynabook**, a concept for a portable interactive computer imagined decades before laptops became commonplace.
@@ -65,6 +90,10 @@ Though unrealized during its time, its spirit lives on today in modern tablets a
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🖥️ Xerox Alto & TRS-80
 
 The journey led her to the **Xerox Alto**, a pioneer of the graphical user interface, and the **TRS-80 Model I**, one of the first affordable personal computers.
@@ -72,6 +101,10 @@ The journey led her to the **Xerox Alto**, a pioneer of the graphical user inter
 These machines transformed computing from a specialized scientific instrument into something ordinary people could own and enjoy.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🏡 The Rise of Personal Computing
 
@@ -85,6 +118,10 @@ It was an inspiration.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🍎 Apple Lisa & Macintosh (1984)
 
 She then encountered the **Apple Lisa**, a bridge between mechanical thinking and modern graphical computing.
@@ -94,6 +131,10 @@ Although a commercial failure, Lisa's intuitive interface paved the way for the 
 The Macintosh whispered poetry through its graphical interface and mouse, transforming computing into a creative medium accessible to artists, writers, musicians, and dreamers alike.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🌐 The World Wide Web (1989)
 
@@ -106,6 +147,10 @@ With HTML and URLs, the Web transformed the Internet from a collection of connec
 It became a global conversation.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🪟 Microsoft's Revolution
 
@@ -126,15 +171,27 @@ Together these innovations helped bring personal computing into millions of home
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🤖 The AI Revolution
 
 As Alice's fingers traced the final pages, she stumbled upon something both thrilling and unsettling—
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Artificial Intelligence.
 
 Unlike the rigid logic of early computers, AI sought to imitate aspects of human cognition, learning from data and continually improving over time.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🧠 The Foundations
 
@@ -148,6 +205,10 @@ Early AI systems, such as **ELIZA**, simulated conversation.
 Later came **IBM Deep Blue**, which famously defeated world chess champion **Garry Kasparov** in **1997**.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🚀 The Explosion of Machine Learning
 
@@ -178,6 +239,10 @@ It could even create.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🤔 Alice's Reflection
 
 Alice paused.
@@ -189,6 +254,10 @@ Or would it become an unchecked force that fundamentally reshaped creativity, em
 Like the **abacus**, the **Pascaline**, and the **Macintosh** before it, AI represented another chapter in humanity's never-ending technological evolution.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 📖 The Never-Ending Story
 
@@ -215,6 +284,10 @@ And humanity continues to fall ever deeper into its endless wonders.
 > *"Every generation believes it has reached the summit of technology, only to discover that it was merely standing on another stepping stone."*
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📚 Final Thoughts
 
@@ -315,4 +388,5 @@ Like Alice, we all find ourselves venturing further down the rabbit hole, discov
 
 
 -----
+
 <!-- PLEBVOX:END -->

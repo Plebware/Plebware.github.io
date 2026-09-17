@@ -3,6 +3,7 @@ layout: post
 title: "🥔 Creamy Potato & Onion Soup"
 date: 2026-06-18
 ---
+
 <!-- PLEBVOX:START -->
 
 <div align="center">
@@ -15,6 +16,10 @@ date: 2026-06-18
 </div>
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🛒 Ingredients
 
@@ -31,6 +36,10 @@ date: 2026-06-18
 🌿 **Spring Onions** *(to garnish)*  
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 👨‍🍳 Method
 
@@ -79,6 +88,10 @@ Serve hot with:
 🌿 Spring onions  
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Cook's Note
 
@@ -172,4 +185,5 @@ This is a classic comfort soup — simple ingredients transformed into a warm, c
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

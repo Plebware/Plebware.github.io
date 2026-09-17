@@ -3,6 +3,7 @@ layout: post
 title: "Why Song Lyrics Matter"
 date: 2026-06-07
 ---
+
 <!-- PLEBVOX:START -->
 
 ## Words That Carry Sound
@@ -18,6 +19,10 @@ They need silence between lines.
 Song lyrics exist in that space between poetry and sound. They are words designed not only to be read, but to be felt, remembered, and carried by music.
 
 Even when the melody fades, the words often remain.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## More Than Entertainment
 
@@ -113,4 +118,5 @@ And sometimes, the simplest lines are the ones that stay the longest.
 Words that sing do not disappear easily.
 
 O.C. Verricchio
+
 <!-- PLEBVOX:END -->

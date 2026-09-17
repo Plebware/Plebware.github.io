@@ -3,9 +3,14 @@ layout: post
 title: "The Death by a Thousand Expenses Economy"
 date: 2026-06-12
 ---
+
 <!-- PLEBVOX:START -->
 
 # 📰 Death by a Thousand Cuts
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## When Every Small Problem Becomes a Financial Problem
 
@@ -18,6 +23,10 @@ More often, it is the accumulation of dozens of smaller problems that gradually 
 For many South Africans, budgeting has become less about planning and more about damage control.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🚙 Vehicle Problems and Lost Income
 
@@ -38,6 +47,10 @@ A single missed day can disrupt an entire week's financial planning.
 Multiple missed days within a short period create a negative spiral that becomes increasingly difficult to escape.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🐱 Even Cat Food Becomes a Budget Issue
 
@@ -63,6 +76,10 @@ In a household operating on a tight budget, even small losses become noticeable.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ⚡ Electricity Costs That Continue Rising
 
 Another significant pressure comes from electricity.
@@ -84,6 +101,10 @@ Consumers effectively find themselves paying more while receiving less.
 It is difficult not to feel as though one is being charged premium prices for a service that consistently underperforms.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🌐 Why We Prioritize Internet Access
 
@@ -112,6 +133,10 @@ Like many consumers, we find ourselves paying more while questioning whether we 
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 📈 The Hidden Cost of Constant Increases
 
 Each individual increase appears manageable when viewed in isolation.
@@ -136,6 +161,10 @@ The cumulative effect is often far greater than any single increase.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 😓 The Human Factor
 
 Financial strain affects more than bank balances.
@@ -157,6 +186,10 @@ Not because they enjoy complaining, but because the problems remain unresolved.
 The stress does not disappear simply because it has been discussed before.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 The Real Challenge Facing Ordinary Households
 
@@ -274,4 +307,5 @@ And that may be one of the defining economic realities of our time.
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

@@ -3,9 +3,14 @@ layout: post
 title: "The Kakistocracy"
 date: 2026-06-16
 ---
+
 <!-- PLEBVOX:START -->
 
 # ⚡ When Parliament Becomes a Den of Thieves
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Introduction: When Living in a Kakistocracy
 
@@ -27,6 +32,10 @@ With these thoughts in mind, I turn my attention from Parliament and public affa
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🏠 Seventy Hours in the Dark
 
 As I write this report on Tuesday, 16 June 2026, electrical power has finally been restored after more than **66 hours without electricity**.
@@ -40,6 +49,10 @@ Food storage became difficult. Communication became limited. Devices required ch
 Personally, I was forced to leave my phone at a local shop simply to obtain enough charge to remain connected.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔌 Not the First Time
 
@@ -57,6 +70,10 @@ At what point does an isolated incident become a pattern?
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # ⚠️ Long-Standing Electrical Concerns
 
 The recent outage does not exist in isolation.
@@ -72,6 +89,10 @@ Residents have experienced a number of electrical concerns over an extended peri
 While any single issue might be explained away, the accumulation of multiple issues over time naturally creates concern among residents.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 💰 The Cost of Frustration
 
@@ -90,6 +111,10 @@ When questions remain unanswered, frustration grows.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🍇 Beyond Sour Grapes
 
 There is an old expression about "sour grapes."
@@ -107,6 +132,10 @@ To borrow a metaphor:
 When residents repeatedly raise concerns and feel that their voices are not being heard, resentment becomes inevitable.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 # 🔑 The Real Question
 
@@ -221,4 +250,5 @@ Because after more than sixty-six hours in darkness, patience itself begins to r
 
 
 -----
+
 <!-- PLEBVOX:END -->

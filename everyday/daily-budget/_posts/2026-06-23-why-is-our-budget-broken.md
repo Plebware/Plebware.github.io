@@ -3,6 +3,7 @@ layout: post
 title: "Why Is Our Budget Broken?"
 date: 2026-06-23
 ---
+
 <!-- PLEBVOX:START -->
 
 # 💸 Why Is Our Budget Broken?
@@ -20,6 +21,10 @@ The bills remain.
 The prices continue to rise.
 
 And the budget continues to struggle.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🤔 The Coffee Incident
 
@@ -45,6 +50,10 @@ But the coffee itself is not really the issue.
 
 The issue is what the increase represents.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ❓ The Questions I Keep Asking
 
 Why is our budget broken?
@@ -58,6 +67,10 @@ Why does every trip to the shop seem to cost more than the previous one?
 These are not merely complaints.
 
 They are questions that deserve answers.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ☕ Doing the Maths
 
@@ -119,6 +132,10 @@ However, when viewed alongside the previous increase, the coffee now costs almos
 
 For pensioners and low-income earners, these small increases add up very quickly.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ⚡ The Electricity Quandary
 
 Coffee is only one part of the problem.
@@ -161,6 +178,10 @@ As a result, our effective housing cost has risen to around:
 R2800 per month
 ```
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ⚖️ Why It Feels Unfair
 
 The financial burden is difficult enough.
@@ -178,6 +199,10 @@ The result is that different tenants appear to be carrying different financial b
 Whether this is justified or not is a separate discussion.
 
 What matters is that the lack of consistency creates understandable questions about fairness.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📈 The Bigger Picture
 
@@ -202,6 +227,10 @@ More often it breaks because dozens of small increases occur over time.
 Each increase appears manageable on its own.
 
 Yet together they quietly consume what little financial breathing room remains.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📝 Conclusion
 
@@ -314,4 +343,5 @@ And that tin of coffee?
 
 
 -----
+
 <!-- PLEBVOX:END -->

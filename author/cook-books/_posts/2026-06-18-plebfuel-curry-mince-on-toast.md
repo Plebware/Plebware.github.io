@@ -3,6 +3,7 @@ layout: post
 title: "PlebFuel Curry Mince on Toast"
 date: 2026-06-18
 ---
+
 <!-- PLEBVOX:START -->
 
 <div align="center">
@@ -16,6 +17,10 @@ date: 2026-06-18
 # 🍞🔥 PlebFuel Curry Mince on Toast
 
 A hearty, budget-friendly meal that delivers plenty of flavour without emptying the wallet. Perfect for busy days, tight budgets, or when you need something filling and satisfying in a hurry.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🛒 Ingredients
 
@@ -31,6 +36,10 @@ A hearty, budget-friendly meal that delivers plenty of flavour without emptying 
 - 🍞 Toasted bread for serving
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 👨‍🍳 Method
 
@@ -77,6 +86,10 @@ A hearty, budget-friendly meal that delivers plenty of flavour without emptying 
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🍽️ Serving Suggestion
 
 - Serve generously over thick slices of toasted bread.
@@ -84,6 +97,10 @@ A hearty, budget-friendly meal that delivers plenty of flavour without emptying 
 - Enjoy with a mug of tea or coffee for a truly South African budget meal.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 💡 Pleb Tip
 
@@ -192,4 +209,5 @@ If you are sensitive to chilli, start with **one habanero** and increase the qua
 
 
 ----
+
 <!-- PLEBVOX:END -->

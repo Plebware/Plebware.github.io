@@ -3,9 +3,14 @@ layout: post
 title: "The Search for a Smile"
 date: 2026-07-08
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 Searching For Joy 
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🌾 Summary Poem — The Search for a Smile 
 
@@ -36,11 +41,19 @@ One step, one prayer, one day at a time,
 Until His joy becomes my rhyme.
 ```
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🙏 Opening Prayer 
 
  Heavenly Father, when our hearts grow weary, our minds fall silent and our eyes see only the shadows around us, teach us to notice Your gentle fingerprints in ordinary moments, strengthen our faith when joy feels distant, help us to continue trusting You one step at a time, and remind us that even when we cannot feel Your presence, You are already working for our good through Christ our Lord, Amen. 
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📖 Introduction 
 
@@ -90,6 +103,10 @@ Continue.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✝️ A Lesson from Church History 
 
 Many Christians know the name of John Bunyan.
@@ -136,6 +153,10 @@ Jesus said:
 
 "_The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness._ "
  **Lamentations 3:22–23** 
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🙏 Closing Prayer 
 
@@ -231,4 +252,5 @@ Jesus said:
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

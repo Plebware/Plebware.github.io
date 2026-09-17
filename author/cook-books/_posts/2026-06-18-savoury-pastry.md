@@ -3,6 +3,7 @@ layout: post
 title: "🥐 Savoury Pastry"
 date: 2026-06-18
 ---
+
 <!-- PLEBVOX:START -->
 
 <div align="center">
@@ -10,6 +11,10 @@ date: 2026-06-18
 # 🥐 Cottage Cheese, Cherry Tomato & Spring Onion Pastry 🍅
 
 </div>
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🥘 Ingredients
 
@@ -19,6 +24,10 @@ date: 2026-06-18
 - 🧂 Salt to taste
 - 🌶️ Pepper to taste
 - 🥐 Prepared Pastry
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 👩‍🍳 Method
 
@@ -31,6 +40,10 @@ date: 2026-06-18
 6. Season with salt and pepper to taste.
 7. Place on a baking tray.
 8. Bake in a preheated oven until the pastry is golden brown and crisp.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Serving Suggestions
 
@@ -133,4 +146,5 @@ Serve:
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

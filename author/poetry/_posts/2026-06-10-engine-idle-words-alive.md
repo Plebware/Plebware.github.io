@@ -3,6 +3,7 @@ layout: post
 title: "⚡️ Field Poem From The Mobile Office"
 date: 2026-06-10
 ---
+
 <!-- PLEBVOX:START -->
 
 # ⚡️ ENGINE IDLE, WORDS ALIVE 🚗💻
@@ -127,4 +128,5 @@ before I sit down.
 
 
 -----
+
 <!-- PLEBVOX:END -->

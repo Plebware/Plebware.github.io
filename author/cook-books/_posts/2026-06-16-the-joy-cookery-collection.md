@@ -3,7 +3,9 @@ layout: post
 title: "The Joy Cookery Collection"
 date: 2026-06-16
 ---
+
 <!-- PLEBVOX:START -->
+
 <div align="center">
 
 <img src="/assets/images/joy-cookery-collection.png"
@@ -15,13 +17,25 @@ date: 2026-06-16
 
 # The Joy Cookery Collection
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Preserving the Past, Cooking for the Future
 
 ### A Personal Introduction
 
 My mother used a cookery booklet entitled:
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # Joy Cookery Book
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Tried and Tested Recipes and Hints for the Business Girl
 
@@ -145,4 +159,5 @@ Happy cooking!
 </script>
 
 ----
+
 <!-- PLEBVOX:END -->

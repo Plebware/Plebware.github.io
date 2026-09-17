@@ -3,9 +3,14 @@ layout: post
 title: "No Work No Pay!"
 date: 2026-06-13
 ---
+
 <!-- PLEBVOX:START -->
 
 # 📰 Missed Four Days — Yet Still Writing
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📖 Local Journal
 
@@ -26,6 +31,10 @@ For a pensioner trying to make ends meet while pursuing writing, technology proj
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✍️ The Calling Continues
 
 Despite the setbacks, another day has arrived, and with it comes another opportunity to write.
@@ -45,6 +54,10 @@ The articles still need to be published.
 The PlebWare and PlebMachine projects still need to move forward.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔄 The Multi-Tasking Dilemma
 
@@ -77,6 +90,10 @@ The challenge is maintaining quality while remaining productive.
 Quantity should never require sacrificing quality.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🙏 Morning Prayer
 
@@ -116,6 +133,10 @@ As the neighbourhood rooster announced the arrival of a new day, I found myself 
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🧺 A Day of Laundry
 
 Since I was not scheduled to work, I decided not to waste the day.
@@ -137,6 +158,10 @@ Not every productive day happens in front of a computer screen.
 Sometimes productivity looks like clean blankets drying in the winter sun.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ⚽ Football, Germany, and the World Cup Spirit
 
@@ -169,6 +194,10 @@ Five minutes later:
 Germany's first match is tomorrow against Curaçao, and I intend to watch as many German matches as possible.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Final Thoughts
 
@@ -289,4 +318,5 @@ One prayer at a time.
 
 
 ----
+
 <!-- PLEBVOX:END -->

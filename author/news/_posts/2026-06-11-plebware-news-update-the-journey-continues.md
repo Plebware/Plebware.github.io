@@ -3,9 +3,14 @@ layout: post
 title: "PlebWare News Update"
 date: 2026-06-11
 ---
+
 <!-- PLEBVOX:START -->
 
 # 📰 PlebWare: The Journey Continues
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Revamp Is Done
 
@@ -14,6 +19,10 @@ date: 2026-06-11
 What started as an idea has now become a functioning publishing and education platform with multiple content categories, a modern publishing workflow, and a steadily expanding library of articles and resources.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🏗️ The Rebuild Phase
 
@@ -40,6 +49,10 @@ During the rebuild, the following improvements were completed:
 The result is a platform that is easier to maintain, easier to expand, and easier for visitors to navigate.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📚 New Sections Added
 
@@ -71,6 +84,10 @@ These sections reflect the philosophy that knowledge should be practical and use
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ✍️ Publishing From Anywhere
 
 One of the most exciting developments is the success of the portable publishing workflow.
@@ -89,6 +106,10 @@ This flexibility allows content creation to continue regardless of location.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🤖 The PlebMachine Connection
 
 PlebWare serves as the publishing and educational front-end of the broader PlebMachine vision.
@@ -104,6 +125,10 @@ The goal is simple:
 PlebMachine development journals, Linux documentation, AI resources, tutorials, and educational material will continue to expand over the coming months.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📈 Current Status
 
@@ -124,6 +149,10 @@ PlebMachine development journals, Linux documentation, AI resources, tutorials, 
 PlebWare is now fully operational and ready for continued growth.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔮 Looking Ahead
 
@@ -156,6 +185,10 @@ The vision remains unchanged:
 > Learning should be available to everyone.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🎉 Final Thoughts
 
@@ -262,4 +295,5 @@ More articles, more tutorials, more experiments, and more discoveries are on the
 
 
 ----
+
 <!-- PLEBVOX:END -->

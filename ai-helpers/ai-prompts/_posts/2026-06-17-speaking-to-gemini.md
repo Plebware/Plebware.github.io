@@ -3,6 +3,7 @@ layout: post
 title: "Speaking To Gemini"
 date: 2026-06-17
 ---
+
 <!-- PLEBVOX:START -->
 
 # Mastering Prompt Engineering with Gemini
@@ -17,6 +18,10 @@ To get the best out of Gemini, think of your prompts as a bridge between your in
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 1. The Core Prompting Framework
 When constructing a prompt, consider the following four elements. You don't need all of them every time, but including them for complex tasks will drastically improve your results.
 
@@ -26,6 +31,10 @@ When constructing a prompt, consider the following four elements. You don't need
 * **Format:** Specify how you want the output structured. Do you need a table, a bulleted list, a code block, or a conversational paragraph?
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 2. Best Practices for High-Quality Results
 
@@ -49,6 +58,10 @@ Provide examples of what "getting it right" looks like. By showing the model a p
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 3. Advanced Tips for Power Users
 
 * **Handle Multimodal Inputs Coherently:** Treat images, audio, or video as equal to text. When referencing multiple media types, be explicit about how they should be integrated or analyzed together.
@@ -58,4 +71,5 @@ Provide examples of what "getting it right" looks like. By showing the model a p
 ---
 
 *Remember: Gemini is an assistant that evolves with your input. Experimentation, iteration, and clear, structured communication are your most powerful tools.*
+
 <!-- PLEBVOX:END -->

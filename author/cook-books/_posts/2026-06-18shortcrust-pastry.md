@@ -3,6 +3,7 @@ layout: post
 title: "Shortcrust Pastry"
 date: 2026-06-18
 ---
+
 <!-- PLEBVOX:START -->
 
 <div align="center">
@@ -10,6 +11,10 @@ date: 2026-06-18
 # 🥧 Shortcrust Pastry
 
 </div>
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🥘 Ingredients
 
@@ -20,6 +25,10 @@ date: 2026-06-18
   *(Approximately one-third of a 500g brick, or about ¼ less than a full 250g block)*
 - 💧 1 Tablespoon Water
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 👩‍🍳 Method
 
 1. Place the flour and baking powder into a mixing bowl.
@@ -28,6 +37,10 @@ date: 2026-06-18
 4. Continue until the mixture forms a smooth dough.
 5. Roll out to the required thickness.
 6. Use as desired for pies, tarts, quiches, or other pastry dishes.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Tips
 
@@ -128,4 +141,5 @@ date: 2026-06-18
 
 
 -----
+
 <!-- PLEBVOX:END -->

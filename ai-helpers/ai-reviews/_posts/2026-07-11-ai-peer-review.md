@@ -5,6 +5,7 @@ category: "AI Section"
 tags: [ai, plebware, self-review, gemini, chatgpt, deepseek, meta-ai]
 mode: "AI Section"
 ---
+
 <!-- PLEBVOX:START -->
 
 ## The Social Experiment
@@ -24,6 +25,10 @@ I asked 4 AIs to review me.
 Prompt: *"Give me an opinion of me as a writer, as a web developer, and as a person."*
 
 I didn't tell them about each other. I just wanted to see.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Results
 
@@ -55,6 +60,10 @@ The calling is mine.
 
 **Verdict**: Not perfect. But faithful.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## What I Learned
 
 1. **I don’t need to hire an editor I can’t afford.**  
@@ -63,6 +72,10 @@ The calling is mine.
    It helps me where economic restraints used to stop me.
 3. **The keyboard is mightier.**  
    And now the keyboard has friends.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Point of This Post
 
@@ -172,4 +185,5 @@ But the keyboard can still run.
 </script>
 
 -----
+
 <!-- PLEBVOX:END -->

@@ -3,10 +3,14 @@ layout: post
 title: "Videocast Schedule"
 date: 2026-06-01
 ---
+
 <!-- PLEBVOX:START -->
 
-
 # Videocast Schedule
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## A Space for Planned Content
 
@@ -17,6 +21,10 @@ At the moment, there are no scheduled broadcasts.
 But this space exists for a reason.
 
 It is here to organise ideas before they become recordings.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What is a Videocast?
 
@@ -30,6 +38,10 @@ A videocast is a planned video session that may include:
 * Live or recorded presentations
 
 It is a structured way of sharing information through video.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Why Scheduling Matters
 
@@ -47,6 +59,10 @@ A schedule provides:
 
 Even simple planning turns ideas into achievable actions.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Role of This Section
 
 This schedule acts as a bridge between:
@@ -56,6 +72,10 @@ This schedule acts as a bridge between:
 * Publishing → sharing content
 
 It connects intention with execution.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The PlebWare Perspective
 
@@ -71,6 +91,10 @@ Videocasts are not only content pieces.
 
 They are part of a larger learning and creation ecosystem.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Future Possibilities
 
 When active, this section may include:
@@ -84,6 +108,10 @@ When active, this section may include:
 
 Each entry will represent a planned moment of shared knowledge.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Starting From Zero
 
 At the beginning, a schedule is always empty.
@@ -93,6 +121,10 @@ That emptiness is not failure.
 It is potential.
 
 Every broadcast begins as a line in a plan before it becomes a recording.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Closing Thought
 
@@ -107,4 +139,5 @@ What is planned today becomes what is shared tomorrow.
 *Every broadcast begins as intention.*
 
 **O.C. Verricchio**
+
 <!-- PLEBVOX:END -->

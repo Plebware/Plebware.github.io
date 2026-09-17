@@ -3,11 +3,16 @@ layout: post
 title: "ExplainingComputers"
 date: 2026-06-12
 ---
+
 <!-- PLEBVOX:START -->
 
 # 💻 One of YouTube’s Best Technology Classrooms
 
 ![ExplainingComputers](https://img.shields.io/badge/YouTube-Technology-red)
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🔑 Introduction
 
@@ -16,6 +21,10 @@ In an age where many technology channels focus on hype, controversy, or sensatio
 Created and presented by Christopher Barnatt, the channel has become one of the most respected sources of technology education on YouTube. Barnatt spent twenty-five years teaching computing and future studies at the University of Nottingham before dedicating his efforts to creating technology content for a worldwide audience.
 
 Whether you are a Linux enthusiast, Raspberry Pi hobbyist, programmer, system builder, technology student, or simply curious about the future of computing, there is something valuable to learn from every episode.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🎥 Channel Overview
 
@@ -46,6 +55,10 @@ The channel is known for clear explanations, practical demonstrations, and a tea
 🌍 ExplainingComputers 
 </a>
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 👨‍🏫 About Christopher Barnatt
 
 Christopher Barnatt is more than a content creator.
@@ -60,6 +73,10 @@ Some of his best-known works include:
 * 📖 *25 Things You Need to Know About the Future*
 
 His academic background gives his videos a level of depth and credibility that is increasingly rare on modern social media platforms.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🐧 Why Linux Users Love This Channel
 
@@ -77,6 +94,10 @@ Christopher regularly reviews and demonstrates:
 
 Many older computers have found a second life through Linux distributions introduced on the channel. Recent videos have included topics such as lightweight Linux distributions for older hardware and Linux alternatives to Microsoft Office.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔬 A Focus on Learning Rather Than Hype
 
 One of the channel's greatest strengths is its commitment to education.
@@ -90,6 +111,10 @@ Unlike many technology influencers who focus on rapid-fire news or clickbait hea
 
 This approach has helped the channel build a loyal audience of over one million subscribers while maintaining a reputation for accuracy and thoughtful analysis.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🚀 Why It Matters
 
 Technology changes rapidly.
@@ -101,6 +126,10 @@ New technologies emerge every year.
 Channels like ExplainingComputers help ordinary users understand these changes without requiring a university degree in computer science.
 
 For Linux users, makers, hobbyists, and lifelong learners, the channel serves as a free classroom available anywhere in the world.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 🏆 Final Thoughts
 
@@ -116,6 +145,10 @@ Happy learning! 🚀🐧💻
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 🔗 Useful Links
 
 📺 YouTube Channel
@@ -125,4 +158,5 @@ https://www.youtube.com/@ExplainingComputers/featured
 https://www.explainingcomputers.com
 
 📚 Author: Christopher Barnatt
+
 <!-- PLEBVOX:END -->

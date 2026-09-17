@@ -3,7 +3,9 @@ layout: post
 title: "light Overcomes The Darkness"
 date: 2026-06-16
 ---
+
 <!-- PLEBVOX:START -->
+
 <div align="center">
 
 <img src="/assets/images/Light_Out.png"
@@ -14,6 +16,10 @@ date: 2026-06-16
 ----
 
 # ⚡ When the Lights Go Out, God Still Sees
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Opening Prayer 🙏
 
@@ -28,6 +34,10 @@ _In Jesus' Name,_
 _Amen._
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📖 Introduction: Life in the Dark
 
@@ -48,6 +58,10 @@ It is easy to complain about the failures of others.
 It is much harder to guard our own hearts.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## ✍️ Summary Poem
 
@@ -74,6 +88,10 @@ The Lord is working faithfully.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## ⛪ Church History: Light During Hard Times
 
 Many believers throughout church history endured hardships far greater than power outages.
@@ -88,13 +106,25 @@ Their examples remind us that comfort is a blessing, but faithfulness is a choic
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Key Point 1: God Sees What Others Ignore
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Scripture 📖
 
 > "The eyes of the LORD are in every place, beholding the evil and the good."
 >
 > — Proverbs 15:3
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Practical Application 🛠️
 
@@ -110,6 +140,10 @@ Yet God sees every situation completely.
 
 Nothing escapes His attention.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Heaven's View ☁️
 
 While we focus on delayed repairs and unanswered questions, God sees the entire picture. He knows every frustration, every inconvenience, and every burden we carry.
@@ -118,13 +152,25 @@ His awareness is perfect even when human accountability is lacking.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Key Point 2: Guard Your Heart Against Bitterness
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Scripture 📖
 
 > "Keep thy heart with all diligence; for out of it are the issues of life."
 >
 > — Proverbs 4:23
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Practical Application 🛠️
 
@@ -136,6 +182,10 @@ One of the enemy's favourite tactics is to turn legitimate grievances into consu
 
 When problems persist, we must continually bring our frustrations before God rather than allowing them to harden our hearts.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Heaven's View ☁️
 
 The Lord is often more concerned with what adversity is producing inside us than what adversity is doing around us.
@@ -146,13 +196,25 @@ Difficult circumstances expose hidden weaknesses that God desires to heal.
 
 ---
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 # 🔑 Key Point 3: The True Light Never Fails
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Scripture 📖
 
 > "I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life."
 >
 > — John 8:12
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Practical Application 🛠️
 
@@ -170,6 +232,10 @@ Christ never fails.
 
 When every earthly source of certainty disappears, His promises remain unchanged.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Heaven's View ☁️
 
 God's kingdom has never experienced a power outage.
@@ -183,6 +249,10 @@ His purposes have never been interrupted.
 The believer walks in a light that no darkness can extinguish.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## 📝 Final Thoughts
 
@@ -205,6 +275,10 @@ When frustrations rise, He still reigns.
 And that is enough.
 
 ---
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Closing Prayer 🙏
 
@@ -316,4 +390,5 @@ _Amen._
 </script>
 
 -----
+
 <!-- PLEBVOX:END -->

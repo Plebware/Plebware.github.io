@@ -3,8 +3,8 @@ layout: post
 title: "Why GIMP Matters"
 date: 2022-01-18
 ---
-<!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 
 # Creativity Without Barriers
 
@@ -19,6 +19,10 @@ The tools help, but the imagination comes first.
 For millions of users around the world, GIMP has become a gateway into digital art, image editing, graphic design, photography, illustration, and visual storytelling.
 
 Most importantly, it allows anyone to begin.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What is GIMP?
 
@@ -61,6 +65,10 @@ Every mistake becomes a lesson.
 
 Every project becomes an opportunity to learn.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The PlebWare Perspective
 
 PlebWare has always promoted technology that is accessible, understandable, and practical.
@@ -83,6 +91,10 @@ Knowledge becomes more important than budget.
 
 Skill becomes more important than software cost.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## What This Section Covers
 
 The GIMP Tricks section explores:
@@ -104,6 +116,10 @@ The emphasis will always remain practical.
 The objective is not merely to explain features.
 
 The objective is to help users create better images.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## A Tool for Storytellers
 
@@ -144,4 +160,5 @@ The skills will follow.
 "Creativity is not limited by the cost of the tools, but by the willingness to use them."
 
 Otto Brinkmeier
+
 <!-- PLEBVOX:END -->

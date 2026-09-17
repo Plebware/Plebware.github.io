@@ -3,6 +3,7 @@ layout: post
 title: "Why We Tell Stories"
 date: 2024-01-18
 ---
+
 <!-- PLEBVOX:START -->
 
 # Captain's Log 0001 - Why We Tell Stories
@@ -29,6 +30,10 @@ The greatest tragedy is not that a story ends.
 
 The greatest tragedy is that many stories are never told at all.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## The Forgotten Library
 
 Imagine for a moment a library larger than any ever built.
@@ -53,6 +58,10 @@ But because their authors never believed anyone would want to read them.
 
 That belief is almost always wrong.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Every Writer Begins as a Beginner
 
 Many people believe that writers are born with a special gift.
@@ -75,6 +84,10 @@ The difference between a writer and a non-writer is often simply this:
 
 The writer starts.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Why This Journal Exists
 
 This journal is a place to explore writing, publishing, storytelling, creativity, journalism, technology, and the curious adventure of being human.
@@ -92,6 +105,10 @@ To encourage people to create, learn, and share what they know.
 Because knowledge locked away benefits no one.
 
 A story shared may outlive its author.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Final Transmission
 

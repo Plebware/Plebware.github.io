@@ -3,9 +3,8 @@ layout: post
 title: "From Bored to God's Journalist"
 date: 2026-08-06
 ---
+
 <!-- PLEBVOX:START -->
-
-
 
 # 🔑 From Bored to God's Journalist
 

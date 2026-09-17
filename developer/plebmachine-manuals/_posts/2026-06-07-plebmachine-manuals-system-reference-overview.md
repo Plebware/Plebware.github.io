@@ -3,10 +3,14 @@ layout: post
 title: "PlebMachine Manuals"
 date: 2026-06-07
 ---
+
 <!-- PLEBVOX:START -->
 
-
 # PlebMachine System Reference Overview
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Purpose of This Section
 
@@ -19,6 +23,10 @@ It is not philosophical.
 It is the structured description of how the system is defined, configured, and operated.
 
 If the Guides explain *how to use the system*, and the Tech Papers explain *how it is designed*, then the Manuals define *what the system is*.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What is PlebMachine?
 
@@ -37,6 +45,10 @@ Each mode represents a defined operational context such as:
 
 Each context adjusts the environment accordingly.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Role of the Manuals
 
 The manuals serve as the authoritative reference layer for:
@@ -49,6 +61,10 @@ The manuals serve as the authoritative reference layer for:
 * System boundaries and rules
 
 They describe the system as it is intended to operate.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Core System Structure
 
@@ -74,6 +90,10 @@ Defines user-defined settings and persistent system state.
 
 Handles runtime behaviour, scripts, and active mode switching.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Mode System Definition
 
 A mode is a defined system state that controls:
@@ -86,6 +106,10 @@ A mode is a defined system state that controls:
 Modes are not applications.
 
 Modes are system-wide operational states.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Standard Mode Types
 
@@ -100,6 +124,10 @@ PlebMachine defines a baseline set of modes:
 
 Each mode has a defined purpose and expected behaviour.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Configuration Principles
 
 All configuration within PlebMachine follows these principles:
@@ -111,6 +139,10 @@ All configuration within PlebMachine follows these principles:
 * Clear separation of concerns
 
 Configuration is treated as part of the system, not an external afterthought.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## System Boundaries
 
@@ -127,6 +159,10 @@ It assumes:
 
 It does not require a specific distribution or desktop environment.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Reference vs Implementation
 
 This manual defines behaviour, not code.
@@ -136,6 +172,10 @@ Where ambiguity exists:
 * Tech Papers define experimental or theoretical approaches
 * Guides explain practical usage
 * Manuals define authoritative structure
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The PlebWare Engineering Standard
 
@@ -148,6 +188,10 @@ PlebWare systems prioritise:
 
 The manual layer ensures these principles remain consistent.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Closing Statement
 
 The PlebMachine Manuals exist to define the system in a stable, referenceable form.
@@ -159,4 +203,5 @@ They are the anchor point between design, implementation, and usage.
 *A system is only real when it can be clearly defined.*
 
 **Otto Brinkmeier**
+
 <!-- PLEBVOX:END -->

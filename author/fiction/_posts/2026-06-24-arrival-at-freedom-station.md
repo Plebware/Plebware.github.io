@@ -6,8 +6,8 @@ category: "fiction"
 tags: [space-opera, starship-frederick, freedom-station, rebellions-dawn, captain-cody, unity-gallactic-command, teaser]
 mode: "author"
 ---
-<!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 
 ## Arrival at Freedom Station
 
@@ -18,6 +18,10 @@ As Captain Cody and his officers disembarked, General Steele stepped forward. _�
 _“General Steele,”_ Cody replied with a respectful nod. _“It’s an honour to be here. Allow me to introduce my crew and our additional personnel from the Unity Galactic Command.”_
 
 Introductions were made, and the delegates exchanged pleasantries with Reverend Pratt, Vice Admiral Ramirez, Admiral Bowman, Rear Admiral Hayes, and Lieutenant Taylor.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Tour of the Space Market
 
@@ -30,6 +34,10 @@ _“Freedom Station is a hub of interstellar commerce,”_ Admiral Nova explaine
 They passed a stall run by a Lizard Man, his scales shimmering in the artificial light. Nearby, an Ant Man negotiated with a Cat Man over a piece of rare tech.
 
 _“Keep an eye out,”_ Cody advised his team. _“Reports of suspicious activities have been increasing.”_
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Luncheon at the Station
 
@@ -150,4 +158,5 @@ by **O.C. Verrocchio**
 
 
 ----
+
 <!-- PLEBVOX:END -->

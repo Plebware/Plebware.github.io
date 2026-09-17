@@ -7,9 +7,15 @@ tags: [stress, arguments, complaints, shouting, cussing, profanity, rage]
 mode: "author"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
 
 # 🔑 When Faith Is Drowning - When Home Becomes the Battlefield
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## **The Hidden Weight of Constant Stress**
 
 *By O.C. Verrocchio*
@@ -85,4 +91,5 @@ Keep praying.
 Keep hoping.
 
 Even the longest storm eventually runs out of rain.
+
 <!-- PLEBVOX:END -->

@@ -3,6 +3,7 @@ layout: post
 title: "Why Linux Research Matters"
 date: 2026-06-07
 ---
+
 <!-- PLEBVOX:START -->
 
 ## More Than Just an Operating System
@@ -124,6 +125,10 @@ Users can customise their environments.
 
 Knowledge can replace unnecessary expenditure.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## What This Section Covers
 
 The Linux Research section explores topics such as:
@@ -142,6 +147,10 @@ Linux for education and productivity
 The focus is practical knowledge rather than technical complexity for its own sake.
 
 The goal is to help ordinary users become confident and capable.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Journey Never Ends
 
@@ -192,6 +201,10 @@ A user can examine configuration files, read documentation, inspect processes, a
 The result is not merely a working computer.
 
 The result is knowledge.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Why Research Is Important
 

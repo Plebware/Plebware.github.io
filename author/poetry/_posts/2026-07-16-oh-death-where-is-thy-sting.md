@@ -7,6 +7,7 @@ tags: [poetry, death, suffering, faith, endurance, reflection, hope]
 mode: "author"
 author: Otto Brinkmeier
 ---
+
 <!-- PLEBVOX:START -->
 
 ## 🕯️ A Cry From the Valley of Shadows
@@ -152,4 +153,5 @@ Grace gives me strength to answer the call.
 })();
 </script>
 ```
+
 <!-- PLEBVOX:END -->
