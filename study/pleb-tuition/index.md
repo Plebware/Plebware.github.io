@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Pleb‑Tuition
+title: PlebTuition.
 ---
 
-# 📚 Pleb‑Tuition
+# 📚 PlebWare Tuition For Ordinary, or Extraordinary Folks.
 
 Learning materials, tutorials, and self‑education resources.
 
