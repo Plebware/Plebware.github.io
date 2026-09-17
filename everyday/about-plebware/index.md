@@ -5,7 +5,9 @@ title: About PlebWare
 
 # 🔬 PlebWare Under the Microscope.
 
-Finally, everything you ever wanted to or need to know about PlebWare.
+Finally, **_"Everything You Ever Wanted To Know About Plebware"_**;
+or **_"Everything You Needed To Know About PlebWare"_**.
+Even **_"What You Did Not Want To Know About PlebWare"_**
 
 <ul>
 {% assign posts = site.posts | where_exp: "post", "post.path contains 'everyday/about-plebware/'" %}
