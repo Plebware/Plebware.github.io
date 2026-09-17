@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Netflix Guide
+title: Netflix
 ---
 
-# 🍿 Netflix Guide
+# 🍿 A User's Guide to Netflix 
 
 Curated lists, hidden gems, and binge‑worthy recommendations on Netflix.
 
