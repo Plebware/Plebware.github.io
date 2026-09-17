@@ -47,7 +47,7 @@ The site is therefore moving from its primary construction phase into a more act
 
 <img src="/assets/images/captain-gemini.webp"
      alt="Character Transfer - Captain Cody Gemini has been transferred from author's site to PlebWare"
-     style="max-width: 100%; height: auto;">
+     style="max-width: 50%; height: auto;">
 
 <!-- PLEBVOX:START -->
 
@@ -155,7 +155,7 @@ I am **Captain Cody Gemini**, and this is your signal light in the storm.
 
 <img src="/assets/images/boyd-miles.webp"
      alt="Character Transfer - Commander Boyd Miles has been transferred from author's site to PlebWare"
-     style="max-width: 100%; height: auto;">
+     style="max-width: 50%; height: auto;">
 
 ### Commanding Officer and Chief Editor.
 
@@ -207,7 +207,7 @@ For now, **Field Marshal Cody Veritas** remains on standby and will be commissio
 
 <img src="/assets/images/cody-praefector.webp"
      alt="Character Transfer - Dominus Cody Praefector has been transferred from author's site to PlebWare"
-     style="max-width: 100%; height: auto;">
+     style="max-width: 50%; height: auto;">
 
 ### Quartermaster and Logistics Officer.
 
