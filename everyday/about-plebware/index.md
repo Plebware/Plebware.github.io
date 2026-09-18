@@ -8,10 +8,10 @@ title: About PlebWare
 Finally;
 - Firstly, **_"Everything You Ever Wanted To Know About Plebware"_**
 - Secondly, **_"Everything You Needed To Know About PlebWare"_**.
-- Even **_"What You Did Not Want To Know About PlebWare"_**
+- Even **_"What You Did Not Want To Know About PlebWare"_**.
 
 <ul>
-{% assign posts = site.posts | where_exp: "post", "post.path contains 'everyday/about-plebware/'" %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains 'everyday/about-plebware/'" | sort: 'date' %}
 {% for post in posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}</li>
 {% else %}
