@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Who? What? Where? When?"
+title: "READ THIS FIRST?"
 date: 2026-09-17
 category: "about-plebware"
 tags: [plebware, device operator, end user, human element, key element, plebmachine, pleb ecosystem]
