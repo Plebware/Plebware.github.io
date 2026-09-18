@@ -10,8 +10,6 @@ author: Otto Brinkmeier
 
 ---
 
-<!-- PLEBVOX:END -->
-
 <!-- PLEBVOX:START -->
 
 # The Person Behind the Device.
