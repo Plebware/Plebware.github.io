@@ -27,7 +27,43 @@ Which turns your **Debian - XFCE** desktop into a smart, context‑aware environ
 <!-- PLEBVOX:END -->
 
 ---
+---
 
+## 📰 Latest PlebWare Update.
+
+{% assign latest_update = site.updates | sort: 'date' | reverse | first %}
+
+{% if latest_update %}
+### {{ latest_update.title }}
+
+<small>{{ latest_update.date | date: "%d %B %Y" }}</small>
+
+{% if latest_update.excerpt %}
+{{ latest_update.excerpt | strip_html | truncate: 280 }}
+{% endif %}
+
+[Read the Latest PlebWare Update →]({{ latest_update.url | relative_url }})
+{% endif %}
+
+---
+
+## 📊 PlebWare Library.
+
+<div class="plebware-stats">
+  <p>📚 <strong>{{ site.posts.size }}</strong> Articles Published.</p>
+
+  {% assign plebvox_count = 0 %}
+
+  {% for post in site.posts %}
+    {% if post.content contains 'PLEBVOX:START' %}
+      {% assign plebvox_count = plebvox_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+  <p>🎧 <strong>{{ plebvox_count }}</strong> Articles Empowered by PlebVox.</p>
+</div>
+
+---
 ## 🔎 Find Something Useful.
 
 With hundreds of articles covering technology, creativity, practical life, writing, research, education and entertainment, there is plenty to explore.
@@ -70,62 +106,6 @@ The catalogue below shows the **12 most recent published articles across all Ple
 
 {% endfor %}
 
----
-
-## 📰 Latest PlebWare Update.
-
-{% assign latest_update = site.updates | sort: 'date' | reverse | first %}
-
-{% if latest_update %}
-### {{ latest_update.title }}
-
-<small>{{ latest_update.date | date: "%d %B %Y" }}</small>
-
-{% if latest_update.excerpt %}
-{{ latest_update.excerpt | strip_html | truncate: 280 }}
-{% endif %}
-
-[Read the Latest PlebWare Update →]({{ latest_update.url | relative_url }})
-{% endif %}
-
----
-
-## 📊 PlebWare Library.
-
-<div class="plebware-stats">
-  <p>📚 <strong>{{ site.posts.size }}</strong> Articles Published.</p>
-
-  {% assign plebvox_count = 0 %}
-
-  {% for post in site.posts %}
-    {% if post.content contains 'PLEBVOX:START' %}
-      {% assign plebvox_count = plebvox_count | plus: 1 %}
-    {% endif %}
-  {% endfor %}
-
-  <p>🎧 <strong>{{ plebvox_count }}</strong> Articles Empowered by PlebVox.</p>
-</div>
-
----
-
-<!-- PLEBVOX:START -->
-
-## 👤 Plebware — The User.
-
-.
-**Plebware** represents the ordinary human being.
-
-Not a corporation.
-Not a technical abstraction.
-Not somebody who needs to be an expert before they are allowed to understand technology.
-
-The Plebware philosophy starts with the person:
-
-**learn it - understand it - use it - improve it - make it your own.**
-
-<!-- PLEBVOX:END -->
-
----
 
 <!-- PLEBVOX:START -->
 
