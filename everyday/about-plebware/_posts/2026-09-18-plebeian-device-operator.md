@@ -10,11 +10,11 @@ author: Otto Brinkmeier
 
 ---
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 # The Person Behind the Device.
-
-<!-- PLEBVOX:END -->
 
 ## 👤 Plebware — The Operator.
 
@@ -38,11 +38,11 @@ And Plebware is certainly not a measure of intelligence.
 
 **Plebware is the human being who operates the technology.**
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🧭 The Device Operator.
-
-<!-- PLEBVOX:END -->
 
 Every technological system eventually comes down to one simple relationship.
 
@@ -74,11 +74,11 @@ The software exists to help the person.
 
 The PlebWare ecosystem exists to connect the two.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🧠 You Do Not Have to Be an Expert.
-
-<!-- PLEBVOX:END -->
 
 Modern technology often creates the impression that ordinary people are expected to understand the technology before they are allowed to use it properly.
 
@@ -114,11 +114,11 @@ In the same way, a computer user should not be required to become a systems engi
 
 **Expertise is optional.**
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🔧 Learn It.
-
-<!-- PLEBVOX:END -->
 
 PlebWare does not encourage people to remain ignorant of their technology.
 
@@ -150,11 +150,11 @@ Then another.
 
 Knowledge grows through use.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🔍 Understand It.
-
-<!-- PLEBVOX:END -->
 
 Learning something and understanding something are not necessarily the same thing.
 
@@ -180,11 +180,11 @@ A configuration becomes something understandable.
 
 A problem becomes something that can potentially be solved.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🛠️ Use It.
-
-<!-- PLEBVOX:END -->
 
 Technology only becomes useful when it is used.
 
@@ -204,11 +204,11 @@ PlebWare therefore does not attempt to dictate one perfect way to use a device.
 
 Instead, it provides tools, systems, information, and organisation that allow the person to make the device useful.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🔄 Improve It.
-
-<!-- PLEBVOX:END -->
 
 Once a person understands a system, the next natural step is improvement.
 
@@ -242,11 +242,11 @@ The tools can evolve.
 
 And the person using the technology becomes part of that evolution.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🏠 Make It Your Own.
-
-<!-- PLEBVOX:END -->
 
 This may be the most important principle of all.
 
@@ -272,11 +272,11 @@ When people understand their technology well enough to change it, organise it, a
 
 It becomes **their working environment.**
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🌍 Why "Plebware"?
-
-<!-- PLEBVOX:END -->
 
 The word is deliberately constructed around the ordinary person.
 
@@ -300,11 +300,11 @@ The infrastructure is important.
 
 But none of those things have a purpose without somebody using them.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 💻 Plebware and PlebMachine.
-
-<!-- PLEBVOX:END -->
 
 PlebMachine is one expression of this philosophy.
 
@@ -322,11 +322,11 @@ The complexity belongs behind the interface.
 
 The human being remains in control.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🤝 The Operator Is Not the Machine.
-
-<!-- PLEBVOX:END -->
 
 There is a growing tendency to describe people in technical terms.
 
@@ -374,11 +374,11 @@ The technology should accommodate the human being.
 
 Not the other way around.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🚪 There Is No Entrance Examination.
-
-<!-- PLEBVOX:END -->
 
 Nobody should need a qualification before being allowed to explore technology.
 
@@ -406,11 +406,11 @@ That is true for beginners.
 
 It is also true for experts.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🧩 From Consumer to Participant.
-
-<!-- PLEBVOX:END -->
 
 The traditional technology relationship often looks like this:
 
@@ -442,11 +442,11 @@ A person can move from simply using technology to understanding how it works.
 
 Then from understanding it to helping improve it.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🔑 The PlebWare Principle.
-
-<!-- PLEBVOX:END -->
 
 The principle can be reduced to five simple steps:
 
@@ -474,11 +474,11 @@ An invitation to build.
 
 An invitation to take ownership of the tools that have become such an important part of modern life.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🌱 The Ordinary Person Is the Point.
-
-<!-- PLEBVOX:END -->
 
 PlebWare is not about making technology appear clever.
 
@@ -506,11 +506,11 @@ And an ordinary person should be able to sit down at a computer and simply **get
 
 That person is the Plebware.
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🌐 Welcome to PlebWare.
-
-<!-- PLEBVOX:END -->
 
 PlebWare is the world we build around the person.
 
@@ -546,11 +546,11 @@ https://plebware.github.io/everyday/about-plebware/fiction/2026/09/18/plebeian-d
 
 **Welcome to PlebWare.**
 
+<!-- PLEBVOX:END -->
+
 <!-- PLEBVOX:START -->
 
 ## 🧭 The Public About Section.
-
-<!-- PLEBVOX:END -->
 
 The **About PlebWare** section exists to explain the ideas behind the ecosystem in plain language.
 
