@@ -5,7 +5,7 @@ date: 2026-09-18
 ---
 <div style="text-align: center;">
   <img src="/assets/images/root-opt-plebmachine.webp"
-       alt="Alt Text - write appropriate alternative text here"
+       alt="Alt Text - A Human Readable Graphical View of opt/plebmachine"
        style="width: 70%; max-width: 100%; height: auto;">
 </div>
 
