@@ -106,8 +106,7 @@ The catalogue below shows the **12 most recent published articles across all Ple
 
 {% endfor %}
 
-
-<!-- PLEBVOX:START -->
+-----
 
 
 ## 🤝 PlebWare Contributors.
@@ -166,7 +165,6 @@ The contributor list below is **generated automatically from the PlebWare GitHub
 })();
 </script>
 
-<!-- PLEBVOX:END -->
 
 ---
 
