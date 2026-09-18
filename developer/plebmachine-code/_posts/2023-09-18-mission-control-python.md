@@ -12,17 +12,17 @@ Workspace & Mode Management: Maps 12 distinct functional modes (Everyday, Author
 
 ### **System States:**
 
-OFF: Disables active modes, locking all workspaces to an "OFF" background layout.
+**OFF**: Disables active modes, locking all workspaces to an "OFF" background layout.
 
-COGNITIVE: Prompts the user before switching modes (via cognitive-pause.sh) to prevent accidental loss of unsaved work.
+**COGNITIVE**: Prompts the user before switching modes (via **cognitive-pause.sh**) to prevent accidental loss of unsaved work.
 
-AUTOMATIC: Instantly switches workspaces and triggers associated software launching scripts.
+**AUTOMATIC**: Instantly switches workspaces and triggers associated software launching scripts.
 
-Dynamic Wallpaper Engine: Automatically selects and sets wallpapers matching the specific active mode and time of day (morning, afternoon, evening, or night).
+**Dynamic Wallpaper Engine**: Automatically selects and sets wallpapers matching the specific active mode and time of day (morning, afternoon, evening, or night).
 
-Single Instance Enforcer: Uses file locking (/tmp/plebmachine-gui.lock) via fcntl to guarantee only one GUI instance runs at a time.
+**Single Instance Enforcer**: Uses file locking (/tmp/plebmachine-gui.lock) via fcntl to guarantee only one GUI instance runs at a time.
 
-Persistent Configuration: Stores system state, active modes, and timestamps in ~/.config/plebmachine/state.conf. Logs actions to /tmp/plebmachine-gui.log.
+**Persistent Configuration**: Stores system state, active modes, and timestamps in ~/.config/plebmachine/state.conf. Logs actions to /tmp/plebmachine-gui.log.
 
 ### **Dependencies**
 System & Python Libraries
@@ -41,18 +41,19 @@ The script assumes the existence of several helper executables and assets:
 
 bash: Required to invoke background shell tasks via subprocess.Popen.
 
-Workspace Switcher: /opt/plebmachine/bin/workspace-switch.sh
+**Workspace Switcher**: /opt/plebmachine/bin/**workspace-switch.sh**
 
-Cognitive Pause Prompt: /opt/plebmachine/bin/cognitive-pause.sh
+**Cognitive Pause Prompt**: /opt/plebmachine/bin/**cognitive-pause.sh**
 
-Wallpaper Manager: /opt/plebmachine/bin/wallpaper-apply.sh
+**Wallpaper Manager**: /opt/plebmachine/bin/**wallpaper-apply.sh**
 
-Mode-Specific Tools: Tool launcher scripts matching /opt/plebmachine/bin/{mode_id}-tools.sh (e.g., author-tools.sh).
+**Mode-Specific Tools**: Tool launcher scripts matching /opt/plebmachine/bin/{mode_id}-tools.sh (e.g., author-tools.sh).
 
 ### **File Assets & Paths**
-Icons: /opt/plebmachine/icons/128x128/plebmachine.png and /opt/plebmachine/icons/state/*
+**Icons**: /opt/plebmachine/icons/128x128/plebmachine.png and /opt/plebmachine/icons/state/*
 
-Wallpapers: /usr/local/share/plebmachine-wallpapers/{mode_id}-{time_of_day}.jpg (or .png)
+**Wallpapers**: /usr/local/share/plebmachine-wallpapers/{mode_id}-{time_of_day}.jpg (or .png)
+
 ```
 #!/usr/bin/env python3
 
