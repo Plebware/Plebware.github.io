@@ -6,8 +6,8 @@ date: 2026-09-19
 
 
 
-Mode-Specific Tool for Everyday
-# Script Breakdown: `{mode}-tools.sh` (Mode Application Dispatcher)
+# Mode-Specific Tool for Everyday
+## Script Breakdown: `{mode}-tools.sh` (Mode Application Dispatcher)
 
 This script manages software launching when switching between **PlebMachine** operational modes. It dynamically infers its assigned mode based on its script filename, reads system state settings, and either auto-launches a primary application or presents an interactive GUI checklist for selective app launches.
 
