@@ -15,7 +15,7 @@ This script manages software launching when switching between **PlebMachine** op
 
 ## Key Functionality
 
-* **Environment Initialization:** Sets explicit display variables (`DISPLAY`, `XAUTHORITY`, and `GDK_BACKEND=x11`) to ensure graphical applications launch properly when invoked by background processes.
+* **Environment Initialisation:** Sets explicit display variables (`DISPLAY`, `XAUTHORITY`, and `GDK_BACKEND=x11`) to ensure graphical applications launch properly when invoked by background processes.
 * **Dynamic Mode Extraction:** Strips file extensions and path headers from `$0` (e.g., extracting `author` from `author-tools.sh`) so a single script can serve as a unified master template or symlinked launcher across all 12 operational modes.
 * **State Detection:** Reads `~/.config/plebmachine/state.conf` to check if the current system state is set to `AUTOMATIC` or `COGNITIVE` (defaulting to `COGNITIVE` if the config file is absent).
 * **State-Driven Application Execution:**
