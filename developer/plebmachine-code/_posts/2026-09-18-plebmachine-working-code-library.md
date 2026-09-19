@@ -4,7 +4,11 @@ title: "PlebMachine Working Code Library — Explainer and Recovery Guide."
 date: 2026-09-18
 ---
 
+<!-- PLEBVOX:START -->
+
 # PlebMachine Working Code: The Safe Way Back.
+
+<!-- PLEBVOX:END -->
 
 PlebMachine is continuously being developed.
 
@@ -22,13 +26,18 @@ Its governing principle is simple:
 
 > **If it works, preserve it before experimenting.**
 
+<!-- PLEBVOX:START -->
+
 ## 🔑 Working Code Catalogue.
 
 **[Open the PlebMachine Working Code Catalogue](https://plebware.github.io/developer/plebmachine-code/)**
 
 This is the online catalogue of documented, tested, known-good PlebMachine code.
 
----
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What Is the Working Code Library?
 
@@ -48,7 +57,10 @@ The purpose is straightforward:
 
 Instead of trying to remember what the previous version looked like, the developer can return to the catalogue, locate the required file, copy the known-good code, and overwrite the experimental version.
 
----
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Three PlebMachine Development Layers.
 
@@ -84,7 +96,10 @@ If the experiment succeeds, it can eventually become the new working version.
 
 If it fails, the known-good version can be restored.
 
----
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Every Working File Gets a Record.
 
@@ -112,7 +127,10 @@ The complete known-good code follows.
 
 This makes the page useful not only as documentation, but as a practical recovery resource.
 
----
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## What Does “WORKING” Mean?
 
@@ -135,7 +153,10 @@ A script may look correct and still fail when it interacts with:
 
 The Working Code Library therefore records **tested code**, not merely proposed code.
 
----
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Experimental Code Stays Experimental.
 
@@ -358,6 +379,9 @@ The principle remains unchanged:
 
 **Known-good code is a recovery tool.**
 
+
+
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
