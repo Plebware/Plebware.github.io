@@ -26,8 +26,7 @@ Which turns your **Debian - XFCE** desktop into a smart, context‑aware environ
 – whether you are writing, coding, researching, or taking a break.
 <!-- PLEBVOX:END -->
 
----
----
+-----
 
 ## 📰 Latest PlebWare Update.
 
@@ -72,23 +71,17 @@ Use the navigation above or search the library.
 
 **[🔎 Search PlebWare →](/search/)**
 
-**[📚 Browse All Articles →](/all-posts/)**
+**[📚 Browse All A---rticles →](/all-posts/)**
 
 **[📊 View the 12-Mode Subcategory Dashboard →](/subcategory-dashboard/)**
 
----
-
-## 🏠 Everyday Mode — Latest by Subcategory.
-
-{% include category-index.html section_slug="everyday" %}
-
----
+-----
 
 ## 📰 Recent Articles.
 
 The PlebWare library is continually growing.
 
-The catalogue below shows the **12 most recent published articles across all PlebWare modes**, including Everyday.
+The catalogue below shows the **12 most recently published articles across all PlebWare modes**, including Everyday.
 
 {% assign recent_posts = site.posts | sort: 'date' | reverse %}
 
@@ -108,6 +101,11 @@ The catalogue below shows the **12 most recent published articles across all Ple
 
 -----
 
+## 🏠 Everyday Mode — Latest by Subcategory.
+
+{% include category-index.html section_slug="everyday" %}
+
+-----
 
 ## 🤝 PlebWare Contributors.
 
