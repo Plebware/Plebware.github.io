@@ -357,3 +357,282 @@ The principle remains unchanged:
 **Known-good code is not just documentation.**
 
 **Known-good code is a recovery tool.**
+
+
+<!-- PLEBVOX:START -->
+
+## 🔧 Developer Maintenance Note: Tools Script DRY Refactoring Opportunity.
+
+The PlebMachine tools architecture contains a clear **DRY — Don't Repeat Yourself — maintenance opportunity**.
+
+The older design used approximately twelve mode-specific application-dispatch scripts. Although each script serves a different mode, much of its internal structure is identical: environment initialisation, PlebMachine state parsing, AUTOMATIC versus COGNITIVE handling, Zenity rendering, application dispatch, and common error handling.
+
+The duplication is therefore largely in the **system logic**, while the genuinely different information is the **mode configuration**.
+
+This is a valid refactoring opportunity, but it is a **Low Priority / Maintenance** item. Stability takes precedence over code reduction.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## The Original Twelve-Script Pattern.
+
+The older architecture can be represented as twelve mode-specific tools scripts: author-tools.sh, study-tools.sh, research-tools.sh, graphics-tools.sh, music-tools.sh, video-tools.sh, broadcast-tools.sh, ai-helpers-tools.sh, developer-tools.sh, accounting-tools.sh, leisure-tools.sh, and everyday-tools.sh.
+
+Each script contains its own copy of the general dispatch machinery. The mode-specific data changes, but much of the processing logic does not.
+
+One important example is the mode-specific case block defining DEFAULT_APP and ZENITY_ITEMS. Another is filename self-inspection, where the script derives the active mode from its own execution name.
+
+The filename mechanism is conceptually:
+
+    SCRIPT_NAME=$(basename "$0" .sh)
+    MODE=${SCRIPT_NAME%-tools}
+
+For example, author-tools.sh becomes the author mode.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## From Twelve Implementations to One Common Engine.
+
+The preferred long-term direction is a common tools engine such as /opt/plebmachine/plebmachine-tools.sh.
+
+The common engine would contain the shared system logic: environment initialisation, state loading, mode detection, AUTOMATIC handling, COGNITIVE handling, Zenity interaction, application dispatch, error handling, logging, and common validation.
+
+The mode-specific differences can then become configuration.
+
+Conceptually:
+
+    PlebMachine Tools Engine
+              │
+              ▼
+    plebmachine-tools.sh
+              │
+       ┌──────┼──────┐
+       ▼      ▼      ▼
+    Author Graphics Developer
+       │      │      │
+       └──────┼──────┘
+              ▼
+       Mode Configuration
+
+This separates **system logic** from **mode configuration**.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## Symlink Standardization.
+
+A possible implementation is to provide familiar mode-specific entry points as symbolic links to the common engine.
+
+> **One implementation. Multiple entry points.**
+
+However, this must remain a proposal until tested. The installation must confirm that $0 produces the expected mode name, basename behaves correctly, mode detection remains reliable, executable permissions are preserved, packaging preserves the links, and recovery remains straightforward.
+
+A symlink is not automatically safe merely because it points to the correct file.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## Where Should Mode Data Live?
+
+There are three practical approaches.
+
+### Option A — One Central Case Block.
+
+Keep one central case block in the common engine. This is already a substantial improvement because the common logic exists only once.
+
+### Option B — Configuration Files.
+
+Move mode-specific information into configuration, such as author.default_app=libreoffice or graphics.default_app=gimp.
+
+### Option C — Hybrid Configuration.
+
+Keep core behaviour in the common engine while configuration supplies default applications, application lists, Zenity menu entries, mode-specific options, and optional tools.
+
+The hybrid approach is consistent with separating stable system logic from user or mode configuration.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## Why DRY Matters.
+
+The purpose is not simply to make the source code shorter.
+
+The real benefit is consistency. If a bug exists in common Zenity handling, twelve duplicated scripts potentially have to be inspected and updated. With one common engine, the common logic can be corrected once and the affected modes can then be tested.
+
+The maintenance surface becomes smaller, and the risk of one mode retaining an outdated copy of common logic is reduced.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## Refactoring Must Not Break Working Code.
+
+The Working Code Library changes how this refactor should be approached.
+
+A cleaner implementation is not automatically a better implementation if it breaks working behaviour.
+
+The safe sequence is:
+
+    WORKING
+       ↓
+    PRESERVE
+       ↓
+    EXPERIMENT
+       ↓
+    TEST
+       ↓
+    VERIFY
+       ↓
+    PROMOTE
+
+If the refactor fails:
+
+    EXPERIMENT
+       ↓
+      FAIL
+       ↓
+    RESTORE
+       ↓
+      TEST
+       ↓
+    WORKING
+
+The existing working scripts must therefore be preserved before the common engine replaces them.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## Proposed Refactoring Sequence.
+
+### Stage 1 — Preserve.
+
+- [ ] Preserve every currently working tools script.
+- [ ] Record its verification status and installed path.
+- [ ] Record tested environments.
+- [ ] Preserve the complete working source.
+
+### Stage 2 — Identify Common Logic.
+
+- [ ] Compare the existing scripts.
+- [ ] Identify common functions and state handling.
+- [ ] Identify common Zenity and error handling.
+- [ ] Separate mode-specific configuration.
+
+### Stage 3 — Build the Common Engine.
+
+Create or verify plebmachine-tools.sh.
+
+### Stage 4 — Test.
+
+- [ ] Test AUTOMATIC.
+- [ ] Test COGNITIVE.
+- [ ] Test mode detection.
+- [ ] Test application dispatch.
+- [ ] Test Zenity behaviour.
+- [ ] Test configuration loading.
+- [ ] Test every supported mode.
+
+### Stage 5 — Test Entry Points.
+
+If symlinks are introduced, test every mode-specific entry point and confirm that $0 is interpreted correctly.
+
+### Stage 6 — Promote.
+
+Only after successful verification should the refactored implementation become the new WORKING version.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## What Must Not Be Lost.
+
+The refactor must preserve AUTOMATIC mode behaviour, COGNITIVE mode behaviour, mode identification, application launching, Zenity menus, existing configuration paths, application mappings, error handling, permissions, supported distributions, installation behaviour, and recovery procedures.
+
+The objective is not:
+
+> Make the script smaller.
+
+The objective is:
+
+> **Remove unnecessary duplication without changing the behaviour that already works.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## Developer Decision.
+
+The duplicated mode-specific tools scripts represent a valid **Low Priority / Maintenance** refactoring opportunity.
+
+There is no reason to destabilise a working system merely to remove duplication. The refactor becomes worthwhile when a tools-system change requires touching multiple scripts, a common bug must be corrected, packaging is revised, configuration is redesigned, more modes are introduced, or long-term maintenance becomes unnecessarily difficult.
+
+The preferred direction is one common PlebMachine Tools Engine with mode-specific configuration and, where appropriate, familiar mode-specific entry points provided through symbolic links.
+
+The implementation remains subject to testing.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## The Rule for This Refactor.
+
+> **If it works, preserve it before experimenting.**
+
+Then:
+
+> **Refactor one controlled component at a time.**
+
+Then:
+
+> **Test before promoting.**
+
+And finally:
+
+> **If the refactor fails, restore the known-good version.**
+
+That turns refactoring into a controlled engineering process rather than a risky replacement exercise.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## Build → Test → Verify → Preserve → Refactor.
+
+    BUILD
+      ↓
+    TEST
+      ↓
+    VERIFY
+      ↓
+    PRESERVE
+      ↓
+    REFACTOR
+      ↓
+    TEST
+      ↓
+    VERIFY
+      ↓
+    PROMOTE
+
+If the refactor fails:
+
+    FAIL
+      ↓
+    RESTORE
+      ↓
+    TEST
+      ↓
+    WORKING
+
+The Working Code Library does not stop development.
+
+**It makes development recoverable.**
+
+<!-- PLEBVOX:END -->
