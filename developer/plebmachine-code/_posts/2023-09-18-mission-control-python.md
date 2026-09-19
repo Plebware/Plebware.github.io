@@ -7,6 +7,15 @@ date: 2026-09-18
 This Python script is the GTK3-based desktop interface for PlebMachine Mission Control (v3.0). 
 It acts as a workspace and environment orchestrator designed to switch desktop modes and handle wallpapers based on system states and time-of-day settings.
 
+**mission-control.py**
+
+🔑 Status: WORKING
+📅 Verified: 2026-09-18
+💻 Tested on: MX Linux / SparkyLinux
+🧩 Language: Python
+📍 Installed path: /opt/plebmachine/mission-control.py
+📝 Purpose: Main PlebMachine Mission Control interface
+⚠️ Experimental versions: Keep out of this section.
 ## **Key Functionality**
 Workspace & Mode Management: Maps 12 distinct functional modes (Everyday, Author, Study, Research, Graphics, Music, Video, Broadcast, AI Helpers, Developer, Accounting, Leisure) across 12 desktop workspaces.
 
