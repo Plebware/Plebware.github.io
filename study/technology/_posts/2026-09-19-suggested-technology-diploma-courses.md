@@ -37,7 +37,7 @@ These are courses worth knowing about and potentially adding to your future lear
 **Level:** Advanced  
 **Approximate duration:** 10–15 hours
 
-[Diploma in Fundamentals of Artificial Intelligence — Alison](https://alison.com/course/diploma-in-fundamentals-of-artificial-intelligence)
+<a href="https://alison.com/course/diploma-in-fundamentals-of-artificial-intelligence" target="_blank" rel="noopener noreferrer">Diploma in Fundamentals of Artificial Intelligence — Alison</a>
 
 This is a useful course for somebody who wants to move beyond simply *using* artificial intelligence and start understanding some of the underlying ideas.
 
@@ -63,7 +63,7 @@ It is particularly interesting as a possible **next step after introductory AI s
 **Level:** Advanced  
 **Approximate duration:** 10–15 hours
 
-[Diploma in Applied Generative AI — Alison](https://alison.com/course/diploma-in-applied-generative-ai)
+<a href="https://alison.com/course/diploma-in-applied-generative-ai" target="_blank" rel="noopener noreferrer">Diploma in Applied Generative AI — Alison</a>
 
 This course approaches Generative AI from an applied and organisational perspective.
 
@@ -90,7 +90,7 @@ For people already experimenting with ChatGPT, Gemini, Claude, DeepSeek, Meta AI
 **Level:** Advanced  
 **Approximate duration:** 10–15 hours
 
-[Diploma in Machine Learning with Python — Alison](https://alison.com/course/diploma-in-machine-learning-with-python)
+<a href="https://alison.com/course/diploma-in-machine-learning-with-python" target="_blank" rel="noopener noreferrer">Diploma in Machine Learning with Python — Alison</a>
 
 This is where the learning becomes considerably more technical.
 
@@ -120,7 +120,7 @@ This is not necessarily the first technology course somebody should tackle, but 
 **Level:** Beginner  
 **Approximate duration:** 10–15 hours
 
-[Diploma in Python Programming — Alison](https://alison.com/course/diploma-in-python-programming-revised)
+<a href="https://alison.com/course/diploma-in-python-programming-revised" target="_blank" rel="noopener noreferrer">Diploma in Python Programming — Alison</a>
 
 Python is one of the most useful programming languages to have in an AI and technology learning toolbox.
 
@@ -146,7 +146,7 @@ For somebody who has never really programmed before, this may be a more approach
 **Level:** Advanced  
 **Approximate duration:** 6–10 hours
 
-[Diploma in Using Python for Data Science — Alison](https://alison.com/course/diploma-in-using-python-for-data-science)
+<a href="https://alison.com/course/diploma-in-using-python-for-data-science" target="_blank" rel="noopener noreferrer">Diploma in Using Python for Data Science — Alison</a>
 
 This course takes Python into the world of data science.
 
