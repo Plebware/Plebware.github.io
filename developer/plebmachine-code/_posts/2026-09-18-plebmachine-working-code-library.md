@@ -115,7 +115,7 @@ For example:
 - 📅 **Verified:** 2026-09-18
 - 💻 **Tested on:** MX Linux / SparkyLinux
 - 🧩 **Language:** Python
-- 📍 **Installed path:** `/opt/plebmachine/mission-control.py`
+- 📍 **Installed path:** `/opt/plebmachine/control-center/mission-control.py`
 - 📝 **Purpose:** Main PlebMachine Mission Control interface
 - ⚠️ **Experimental versions:** Keep out of this section.
 
