@@ -249,6 +249,81 @@ At this stage, these results should be treated as evidence of **intermittent lat
 
 ---
 
+## 7. Incident and Follow-Up Test — 20 September 2026
+
+### Connection Error Immediately Before Testing — 10:50 SAST
+
+A further connection error was experienced immediately before this test batch was run. The full automated test was then started at **10:50:24 SAST**.
+
+### Router — 192.168.1.254
+
+- **20 packets transmitted**
+- **19 packets received**
+- **5% packet loss**
+- Average: **7.616 ms**
+- Minimum: **1.716 ms**
+- Maximum: **108.006 ms**
+- Standard deviation: **23.667 ms**
+
+One packet did not receive a reply. Packet 16 recorded a **108 ms** response.
+
+### Cloudflare — 1.1.1.1
+
+- **20 packets transmitted**
+- **20 received**
+- **0% packet loss**
+- Average: **10.702 ms**
+- Minimum: **3.634 ms**
+- Maximum: **69.466 ms**
+- Standard deviation: **16.528 ms**
+
+Notable latency spikes included **46.6 ms**, **69.5 ms**, and **18.7 ms**.
+
+### Google — 8.8.8.8
+
+- **20 packets transmitted**
+- **20 received**
+- **0% packet loss**
+- Average: **5.570 ms**
+- Minimum: **4.472 ms**
+- Maximum: **8.801 ms**
+- Standard deviation: **1.148 ms**
+
+This was comparatively stable, with all recorded responses below 9 ms.
+
+### MTR — 8.8.8.8
+
+100-packet MTR:
+
+- Hop 1: **0.0% loss**
+- Hop 2: **0.0% loss**
+- Hop 3: **0.0% loss**
+- Final destination: **0.0% reported loss**
+- Final average: **7.9 ms**
+- Best: **4.5 ms**
+- Worst: **72.3 ms**
+- Standard deviation: **9.2 ms**
+
+Although MTR reported no packet loss, latency variation was visible across the route, with a worst reported value of **72.3 ms** at the final destination.
+
+### DNS
+
+All three DNS tests completed successfully:
+
+- Router DNS `192.168.1.254`: **NOERROR**, **4 ms**
+- Cloudflare `1.1.1.1`: **NOERROR**, **4 ms**
+- Google `8.8.8.8`: **NOERROR**, **8 ms**
+
+### Observation
+
+This test is significant because it was performed **immediately after another connection error** and recorded **5% packet loss to the local router itself**, together with a **108.006 ms maximum router response**.
+
+The external tests did not show packet loss during this particular batch, although Cloudflare also showed substantial latency variation.
+
+The results do not by themselves identify the fault location. However, the combination of a reported connection error immediately beforehand and packet loss to the local gateway provides useful evidence for comparison with future incidents and Metro Fibre's network-side monitoring.
+
+---
+
 ## 7. Important Technical Observation
 
 The testing demonstrates why the investigation should not rely exclusively on conventional speed testing.
@@ -267,7 +342,7 @@ The same measurements should be taken when the connection is actually unstable.
 
 ---
 
-## 8. What We Are Asking Metro Fibre to Investigate
+## 9. What We Are Asking Metro Fibre to Investigate
 
 Please investigate the service for possible intermittent problems that may not be visible during a single speed test, including:
 
@@ -284,7 +359,7 @@ Please also check whether the service shows any historical or intermittent fault
 
 ---
 
-## 9. Requested Technical Response
+## 10. Requested Technical Response
 
 We would appreciate a technical investigation rather than another basic speed test alone.
 
@@ -298,7 +373,7 @@ Please advise:
 
 ---
 
-## 10. Evidence Available
+## 11. Evidence Available
 
 The following evidence can be supplied to support the investigation:
 
@@ -316,7 +391,7 @@ Further tests will be recorded during periods of actual instability so that they
 
 ---
 
-## 11. Summary for Technical Support
+## 12. Summary for Technical Support
 
 **The issue being reported is recurring internet instability, not simply inadequate internet speed.**
 
