@@ -308,6 +308,58 @@ The spikes alone do **not** prove that Metro Fibre has a fault. Their value is t
 
 <!-- PLEBVOX:START -->
 
+## 📊 Follow-Up Results — 20 September 2026 - 08:08 to 08:11
+
+Additional testing was performed shortly after the original baseline.
+
+### MTR to Google DNS — 8.8.8.8
+
+Command:
+
+```bash
+mtr -rwzc 100 8.8.8.8
+```
+
+Results:
+
+- **100 packets sent**
+- **0.0% loss** at hops 1–3
+- **1.0% loss reported at the final destination**
+- Final hop average latency: **7.1 ms**
+- Final hop best: **4.6 ms**
+- Final hop worst: **37.6 ms**
+- Final hop standard deviation: **5.7 ms**
+
+The 1% destination loss is worth recording, but by itself it does **not establish a fault**, particularly because the intermediate hops showed 0% loss. It should be compared with repeated tests during periods of actual instability.
+
+### DNS Resolution Tests
+
+Three DNS queries were successful:
+
+| DNS Server | Query | Result | Query Time |
+|---|---|---|---:|
+| Local router — `192.168.1.254` | `dig google.com` | Successful | **8 ms** |
+| Cloudflare — `1.1.1.1` | `dig @1.1.1.1 google.com` | Successful | **4 ms** |
+| Google — `8.8.8.8` | `dig @8.8.8.8 google.com` | Successful | **8 ms** |
+
+The local router is currently providing DNS through **192.168.1.254**.
+
+All three DNS tests returned a valid answer with **NOERROR**, indicating that DNS resolution was functioning normally during this test period.
+
+The returned Google IP addresses differed between the tests, which is normal because large services such as Google can use distributed DNS and different addresses for different resolvers or locations.
+
+### Interpretation of the Follow-Up Test
+
+At approximately **08:08–08:11**, DNS resolution was fast and successful through all three tested paths, while the MTR to 8.8.8.8 showed **1% packet loss at the final destination** and a maximum observed latency of **37.6 ms**.
+
+This provides additional evidence for the troubleshooting record, but it should be treated as a **baseline observation rather than proof of an ISP fault**.
+
+The important next comparison will be to run the same tests **during an actual period of instability**.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📊 What to Record for Every Test
 
 Use a simple table or log:
