@@ -52,14 +52,13 @@ Took a break to calm down; Otto was angry!
 -----
 ## 2. Test Environment
 
-**Testing system:** Linux desktop  
-**Connection:** Ethernet/LAN cable  
+**Testing system:** Lenovo laptop  
+**Operating systems used:** Linux and Windows 11 Pro  
+**Connection:** Wi-Fi only  
 **Router/Gateway:** 192.168.1.254  
 **External test destinations:** Cloudflare DNS (1.1.1.1), Google DNS (8.8.8.8), Google services.
 
-A new Cat5 LAN cable is currently being used.
-
-The network interface also shows normal green/orange link and activity indicators.
+**Important:** All tests recorded in this report were performed from the Lenovo laptop over **Wi-Fi**. None of the tests were performed using a LAN/Ethernet cable.
 
 ---
 
@@ -484,7 +483,7 @@ This Windows test represents a **stable snapshot** at 12:49:55 SAST:
 
 This contrasts with the **10:50 SAST incident test**, when the router recorded **5% packet loss** and a **108.006 ms** maximum response immediately after a connection error.
 
-Because this Windows test used Wi-Fi, it should not be treated as a direct replacement for the earlier Ethernet results. It is nevertheless useful as a cross-platform and cross-time observation. Continued testing during actual connection failures remains the most valuable evidence.
+Because all tests recorded in this report were performed over Wi-Fi from the Lenovo laptop, the results should be interpreted as observations of the fibre service as experienced through the same local wireless path. The Linux and Windows results are therefore useful as cross-platform and cross-time observations, but they do not provide an Ethernet-versus-Wi-Fi comparison. Continued testing during actual connection failures remains the most valuable evidence.
 
 
 ---
@@ -547,8 +546,7 @@ The following evidence can be supplied to support the investigation:
 - DNS test results.
 - Speed-test results.
 - Screenshots.
-- Ethernet interface statistics.
-- Link-speed and duplex information.
+- Network interface and Wi-Fi configuration information.
 - Chronological records of incidents.
 - Previous communication regarding the fault.
 
