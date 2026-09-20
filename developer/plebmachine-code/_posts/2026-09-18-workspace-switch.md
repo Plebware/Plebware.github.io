@@ -6,11 +6,68 @@ date: 2026-09-18
 
 # **workspace-switch.sh**
 
+This shell script takes a PlebMachine mode name as a command-line argument, maps that mode to a workspace number, and asks the desktop window manager to switch to the corresponding virtual desktop.
 
-This shell script takes a mode name as a command-line argument, maps it to a specific workspace index, and commands the desktop window manager to switch active virtual desktops.Key FunctionalityMode-to-Workspace Mapping: Translates input strings (everyday, author, study, etc.) into target workspace indices (1 through 12).0-Based Index Offset Adjustment: Converts 1-based workspace numbers into 0-based index values (WS - 1) required by standard X11 window managers:everyday (1) $\rightarrow$ Desktop 0author (2) $\rightarrow$ Desktop 1leisure (12) $\rightarrow$ Desktop 11Fallback Switch Mechanism: Uses wmctrl as the primary desktop switcher. If wmctrl is unavailable, it automatically falls back to xdotool.Error Handling: Exits with status 1 if an unrecognized mode is supplied or if neither window switcher utility is present on the system.DependenciesRequired Utilitiesbash: Required to execute the script syntax and case matching.Window Management Tools (At least one required)wmctrl: Command-line tool to interact with EWMH/NetWM compatible X Window Managers.xdotool: Command-line X11 automation tool (used as the backup switcher via set_desktop).System EnvironmentX11 Display Server: Both wmctrl and xdotool rely on an active X11 session and an EWMH-compliant window manager (such as Xfwm4, Openbox, or KWin) configured with at least 12 virtual desktops.
+## Key Functionality
 
+### Mode-to-Workspace Mapping
 
-```
+The script maps the 12 PlebMachine modes to workspace values 1 through 12:
+
+- everyday → 1
+- author → 2
+- study → 3
+- research → 4
+- graphics → 5
+- music → 6
+- video → 7
+- broadcast → 8
+- ai_helpers → 9
+- developer → 10
+- accounting → 11
+- leisure → 12
+
+### Workspace Command
+
+The script passes the selected workspace value directly to the available desktop-switching utility:
+
+- **wmctrl** is used first with `wmctrl -s "$WS"`.
+- If `wmctrl` is not installed, the script falls back to **xdotool** with `xdotool set_desktop "$WS"`.
+
+The current code does **not** subtract 1 from the mapped workspace value. The previous documentation incorrectly described a `WS - 1` conversion. That statement has been removed so that this article now describes the code that is actually preserved below.
+
+The exact workspace numbering expected by `wmctrl` and `xdotool` should be confirmed during runtime testing on the PlebMachine target desktop. This documentation review does not claim that the current 1–12 mapping has been runtime-verified.
+
+### Error Handling
+
+The script exits with status 1 when:
+
+- an unrecognized mode is supplied; or
+- neither `wmctrl` nor `xdotool` is available.
+
+## Dependencies
+
+### Required Utilities
+
+- **Bash** — required to execute the script.
+- **wmctrl** — preferred workspace-switching utility when installed.
+- **xdotool** — fallback workspace-switching utility.
+
+At least one of `wmctrl` or `xdotool` must be available for the script to perform a workspace switch.
+
+## System Environment
+
+The script is intended for an X11 desktop environment with a window manager that provides multiple virtual desktops. PlebMachine currently targets XFCE/Xfwm4 on its Debian-based test systems.
+
+## Runtime Verification
+
+This article preserves the code and documents its current behaviour. It does **not** mark the script as runtime verified.
+
+Before this script is classified as **WORKING**, test the installed copy on the current PlebMachine target system and confirm that all 12 mode mappings land on the intended workspaces.
+
+---
+
+```bash
 #!/bin/bash
 # workspace-switch.sh - Switch to the specified workspace
 
@@ -49,11 +106,13 @@ fi
 **Review subject:** Workspace Switcher
 
 - **Documentation review:** Complete for the version currently preserved in this article.
-- **Description:** The article identifies the script's role, execution flow, dependencies, and/or configuration where those details are available.
-- **Code preservation:** The working code shown in this article has been retained as the reference copy; this review does not replace or rewrite the script itself.
+- **Description:** The article now describes the actual preserved code, including mode mapping, command selection, dependencies, and error handling.
+- **Documentation correction:** Removed the previous claim that the script converts the workspace value from 1-based to 0-based with `WS - 1`. The current code passes `WS` directly to `wmctrl` or `xdotool`.
+- **Code preservation:** The existing shell code has been retained as the reference copy.
+- **Runtime verification:** The workspace numbering behaviour remains a runtime-testing item. This article does not claim successful execution until the installed script is tested on the current PlebMachine target system.
+- **Duplicate cleanup:** The later 2026-09-19 duplicate article is being removed because it contained the same shell code without adding distinct implementation value.
 - **PlebVox:** None. Script/code articles in the PlebMachine Working Code Library are intentionally kept free of PlebVox markers.
-- **Runtime verification:** This repository review is not a substitute for running the script on the current PlebMachine test system. Runtime status should only be marked **WORKING** when the current installed copy has been tested successfully.
 - **Maintenance note:** If the installed PlebMachine implementation changes, this article should be reviewed and updated so the documented code, paths, dependencies, and behaviour remain aligned with the tested version.
 
 **Review date:** 2026-09-20  
-**Review scope:** Documentation, code preservation, description quality, and PlebVox exclusion.\n
+**Review scope:** Documentation accuracy, code preservation, duplicate cleanup, runtime-verification status, and PlebVox exclusion.
