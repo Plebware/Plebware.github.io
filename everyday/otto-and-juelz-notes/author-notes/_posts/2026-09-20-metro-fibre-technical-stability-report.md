@@ -27,18 +27,28 @@ The connection can sometimes produce normal or very good performance while insta
        alt="Alt Text - Golf Clash Crash"
        style="width: 70%; max-width: 100%; height: auto;">
 </div>
+
+**This Fault Occurred at 06:02 SAST**
 -----
 <div style="text-align: center;">
   <img src="/assets/images/playdemic-ea-crash.webp"
        alt="Alt Text - Playdemic Crash"
        style="width: 70%; max-width: 100%; height: auto;">
 </div>
+
+**This Fault Occurred at 06:29 SAST**
 -----
 <div style="text-align: center;">
   <img src="/assets/images/Raid Crash.webp"
        alt="Alt Text - Raid Shadow Legends Crash"
        style="width: 70%; max-width: 100%; height: auto;">
 </div>
+
+**This Fault Occurred at 7:29 SAST**
+-----
+Took a break to calm down; Otto was angry!
+**Had to reset the modem** by unplugging it for 5min **before getting internet back to run tests**.
+
 -----
 ## 2. Test Environment
 
