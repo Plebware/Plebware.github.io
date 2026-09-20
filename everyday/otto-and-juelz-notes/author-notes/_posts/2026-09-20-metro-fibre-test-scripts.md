@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Metro Fibre Internet Stability — Evidence and Reporting Note"
+title: "Metro Fibre Internet Stability — TEST SCRIPTS"
 date: 2026-09-20
 ---
 
 # 🛜 Metro Fibre Internet Stability — A Note for Otto and Juelz
-
-<!-- PLEBVOX:START -->
 
 ## 📝 Why This Note Exists
 
@@ -24,9 +22,7 @@ The language used during the argument is deliberately **not reproduced here**. T
 
 **The purpose of this note is therefore not to assign blame. It is to create evidence.**
 
-<!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
 
 ## 🎯 What We Need to Establish
 
@@ -47,9 +43,6 @@ A single speed test showing good download and upload speeds does **not** necessa
 
 A connection can deliver excellent throughput while still suffering from intermittent packet loss, latency spikes, routing problems, or short interruptions.
 
-<!-- PLEBVOX:END -->
-
-<!-- PLEBVOX:START -->
 
 ## 🔬 Internet Tests Otto Can Perform
 
@@ -283,9 +276,12 @@ Photographing the lights is not proof of an ISP fault, but it can be recorded as
 
 The important evidence is what the operating system reports about the Ethernet interface and what the external network tests show.
 
-<!-- PLEBVOX:END -->
+##  **All In One Test**
 
-<!-- PLEBVOX:START -->
+```
+echo "===== METRO FIBRE TEST ====="; echo "Time: $(date '+%Y-%m-%d %H:%M:%S %Z')"; echo; echo "=== ROUTER 192.168.1.254 ==="; ping -c 20 192.168.1.254; echo; echo "=== CLOUDFLARE 1.1.1.1 ==="; ping -c 20 1.1.1.1; echo; echo "=== GOOGLE 8.8.8.8 ==="; ping -c 20 8.8.8.8; echo; echo "=== MTR GOOGLE 100 PACKETS ==="; mtr -rwzc 100 8.8.8.8; echo; echo "=== DNS ROUTER ==="; dig google.com; echo; echo "=== DNS CLOUDFLARE ==="; dig @1.1.1.1 google.com; echo; echo "=== DNS GOOGLE ==="; dig @8.8.8.8 google.com; echo; echo "===== TEST COMPLETE ====="
+
+```
 
 ## 📈 Baseline Results — 20 September 2026 - 08:06
 
