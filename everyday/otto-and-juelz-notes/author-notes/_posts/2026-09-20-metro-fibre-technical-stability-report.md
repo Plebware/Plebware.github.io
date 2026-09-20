@@ -22,7 +22,24 @@ This report is intended to provide technical evidence for investigation rather t
 The connection can sometimes produce normal or very good performance while instability is not occurring. Therefore, individual speed tests should not be considered sufficient evidence that the service is consistently stable.
 
 ---
-
+<div style="text-align: center;">
+  <img src="/assets/images/golfclash-crash.webp"
+       alt="Alt Text - Golf Clash Crash"
+       style="width: 70%; max-width: 100%; height: auto;">
+</div>
+-----
+<div style="text-align: center;">
+  <img src="/assets/images/playdemic-ea-crash.webp"
+       alt="Alt Text - Playdemic Crash"
+       style="width: 70%; max-width: 100%; height: auto;">
+</div>
+-----
+<div style="text-align: center;">
+  <img src="/assets/images/Raid Crash.webp"
+       alt="Alt Text - Raid Shadow Legends Crash"
+       style="width: 70%; max-width: 100%; height: auto;">
+</div>
+-----
 ## 2. Test Environment
 
 **Testing system:** Linux desktop  
