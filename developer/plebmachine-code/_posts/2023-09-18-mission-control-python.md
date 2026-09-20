@@ -640,7 +640,6 @@ class MissionControl(Gtk.Window):
     # ============================================================
     # BUTTON HANDLERS
     # ============================================================
-This Python script is the GTK3-based desktop interface for PlebMachine Mission Control (v3.0). It acts as a workspace and environment orchestrator designed to switch desktop modes and handle wallpapers based on system states and time-of-day settings.
     def on_off_btn_clicked(self, widget):
         if self.current_state != "off":
             self.log("Turning system OFF")
