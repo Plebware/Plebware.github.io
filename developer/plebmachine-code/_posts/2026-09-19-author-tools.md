@@ -4,11 +4,7 @@ title: "Author Tools"
 date: 2026-09-19
 ---
 
-
-
 # Mode-Specific Tool for Author
-
-
 
 ## Script Breakdown: `{mode}-tools.sh` (Mode Application Dispatcher)
 
