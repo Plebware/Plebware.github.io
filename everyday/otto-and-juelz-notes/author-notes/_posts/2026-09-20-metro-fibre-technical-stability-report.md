@@ -137,9 +137,92 @@ All three DNS queries completed successfully and quickly.
 
 Different Google IP addresses were returned by the different resolvers. This is normal behaviour for a large distributed service and does not, by itself, indicate a problem.
 
+
 ---
 
-## 6. Important Technical Observation
+## 6. Follow-Up Test — 20 September 2026
+
+### 08:23–08:26 SAST
+
+A second complete test batch was performed using the same combined terminal command.
+
+#### Router — 192.168.1.254
+
+- **20 packets transmitted**
+- **0% packet loss**
+- Average: **7.463 ms**
+- Minimum: **1.341 ms**
+- Maximum: **77.547 ms**
+- Standard deviation: **16.991 ms**
+
+Notable individual latency spikes:
+- Packet 6: **77.5 ms**
+- Packet 17: **15.1 ms**
+- Packet 18: **24.0 ms**
+
+#### Cloudflare — 1.1.1.1
+
+- **20 packets transmitted**
+- **0% packet loss**
+- Average: **16.744 ms**
+- Minimum: **3.589 ms**
+- Maximum: **77.542 ms**
+- Standard deviation: **25.571 ms**
+
+Notable individual latency spikes:
+- Packet 1: **62.8 ms**
+- Packet 6: **63.5 ms**
+- Packet 11: **66.5 ms**
+- Packet 16: **77.5 ms**
+
+#### Google — 8.8.8.8
+
+- **20 packets transmitted**
+- **0% packet loss**
+- Average: **9.359 ms**
+- Minimum: **4.734 ms**
+- Maximum: **41.069 ms**
+- Standard deviation: **8.823 ms**
+
+Notable individual latency spikes:
+- Packet 2: **22.0 ms**
+- Packet 7: **22.4 ms**
+- Packet 17: **41.1 ms**
+
+#### MTR — 8.8.8.8
+
+100-packet MTR:
+
+- Hop 1: **0.0% loss**
+- Hop 2: **0.0% loss**
+- Hop 3: **0.0% loss**
+- Final destination: **1.0% reported loss**
+- Final average: **6.5 ms**
+- Best: **4.5 ms**
+- Worst: **32.9 ms**
+- Standard deviation: **3.7 ms**
+
+#### DNS
+
+All three DNS tests completed successfully:
+
+- Router DNS `192.168.1.254`: **NOERROR**, **8 ms**
+- Cloudflare `1.1.1.1`: **NOERROR**, **4 ms**
+- Google `8.8.8.8`: **NOERROR**, **8 ms**
+
+Different Google IP addresses were returned by the resolvers, which is normal for a distributed service.
+
+### Observation
+
+This second test batch is particularly useful because the **router itself recorded a 77.547 ms maximum response**, despite **0% packet loss**.
+
+Similar latency spikes were also visible when testing external destinations.
+
+At this stage, these results should be treated as evidence of **intermittent latency variation**, not as proof of a specific fault location. Repeated tests at different times, especially during a period when the internet is visibly unstable, will help establish whether the pattern is persistent.
+
+---
+
+## 7. Important Technical Observation
 
 The testing demonstrates why the investigation should not rely exclusively on conventional speed testing.
 
@@ -157,7 +240,7 @@ The same measurements should be taken when the connection is actually unstable.
 
 ---
 
-## 7. What We Are Asking Metro Fibre to Investigate
+## 8. What We Are Asking Metro Fibre to Investigate
 
 Please investigate the service for possible intermittent problems that may not be visible during a single speed test, including:
 
@@ -174,7 +257,7 @@ Please also check whether the service shows any historical or intermittent fault
 
 ---
 
-## 8. Requested Technical Response
+## 9. Requested Technical Response
 
 We would appreciate a technical investigation rather than another basic speed test alone.
 
@@ -188,7 +271,7 @@ Please advise:
 
 ---
 
-## 9. Evidence Available
+## 10. Evidence Available
 
 The following evidence can be supplied to support the investigation:
 
@@ -206,7 +289,7 @@ Further tests will be recorded during periods of actual instability so that they
 
 ---
 
-## 10. Summary for Technical Support
+## 11. Summary for Technical Support
 
 **The issue being reported is recurring internet instability, not simply inadequate internet speed.**
 
