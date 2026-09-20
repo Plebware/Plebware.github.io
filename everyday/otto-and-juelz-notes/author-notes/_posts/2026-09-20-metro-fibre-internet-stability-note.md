@@ -287,6 +287,27 @@ The important evidence is what the operating system reports about the Ethernet i
 
 <!-- PLEBVOX:START -->
 
+## 📈 Baseline Results — 20 September 2026 - 08:06
+
+The connection was tested while it appeared to be behaving normally. All supplied ping tests recorded **0% packet loss**.
+
+- **Router:** average **1.995 ms**, maximum **4.089 ms**
+- **8.8.8.8:** average **5.777 ms**, maximum **7.683 ms**
+- **1.1.1.1 — repeat test:** average **4.624 ms**, maximum **6.598 ms**
+- **Google:** average **9.796 ms**, maximum **56.804 ms**
+- **1.1.1.1 — earlier test:** average **9.726 ms**, maximum **62.664 ms**
+- **100-packet MTR to 1.1.1.1:** **0.0% loss** at every reported hop; final hop average **8.6 ms**, maximum **94.9 ms**
+
+These results show a **healthy baseline for packet loss and ordinary latency**, while also showing that occasional latency spikes were observable even during an otherwise good period.
+
+The spikes alone do **not** prove that Metro Fibre has a fault. Their value is that they provide a comparison point. If the connection becomes unstable again, the same tests can be repeated and compared against this baseline.
+
+**Good results are worth keeping. They give us something concrete to compare with the bad periods.**
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📊 What to Record for Every Test
 
 Use a simple table or log:
