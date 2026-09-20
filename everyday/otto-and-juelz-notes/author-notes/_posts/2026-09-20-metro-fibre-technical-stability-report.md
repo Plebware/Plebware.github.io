@@ -399,9 +399,97 @@ At 12:30 SAST, the local router was responding normally with **0% packet loss** 
 
 This supports the value of continued time-correlated testing: the connection can appear normal at one moment while isolated latency spikes remain visible at another destination. These results do not identify the fault location by themselves, but they provide additional evidence for comparison against future incidents and Metro Fibre's network-side monitoring.
 
+
 ---
 
-## 9. Important Technical Observation
+## 9. Windows 11 Cross-Platform Test — 20 September 2026
+
+### 12:49:55 SAST
+
+A further test batch was performed from **Windows 11 Pro** over Wi-Fi. This provides a useful cross-platform comparison with the earlier Linux testing.
+
+### Local Router — 192.168.1.254
+
+- **20 packets transmitted**
+- **20 packets received**
+- **0% packet loss**
+- Minimum: **2 ms**
+- Maximum: **4 ms**
+- Average: **2 ms**
+
+All 20 router responses were between 2 and 4 ms.
+
+### Cloudflare — 1.1.1.1
+
+- **20 packets transmitted**
+- **20 packets received**
+- **0% packet loss**
+- Minimum: **4 ms**
+- Maximum: **20 ms**
+- Average: **5 ms**
+
+One response reached **20 ms**, while most responses were between 4 and 9 ms.
+
+### Google — 8.8.8.8
+
+- **20 packets transmitted**
+- **20 packets received**
+- **0% packet loss**
+- Minimum: **4 ms**
+- Maximum: **8 ms**
+- Average: **5 ms**
+
+This was comparatively stable, with all responses below 9 ms.
+
+### Route to Google
+
+Windows tracert reported four hops:
+
+- Hop 1: **192.168.1.254**
+- Hop 2: **196.50.234.64**
+- Hop 3: **102.33.29.245**
+- Hop 4: **8.8.8.8**
+
+The route completed successfully without displayed timeouts.
+
+### DNS
+
+The Windows DNS tests produced the following results:
+
+- Router DNS 192.168.1.254: successful response.
+- Cloudflare DNS 1.1.1.1: **DNS request timed out after 2 seconds**, followed by a successful answer for google.com.
+- Google DNS 8.8.8.8: successful response.
+
+The Cloudflare result is worth recording because the resolver eventually returned an answer but Windows reported a timeout first. This is an observation of intermittent DNS response behaviour, not proof of a Metro Fibre fault.
+
+### Windows Network Configuration
+
+The Windows system was connected through:
+
+- **Realtek 8821CE Wireless LAN 802.11ac**
+- IPv4 address: **192.168.1.109**
+- Default gateway: **192.168.1.254**
+- DHCP server: **192.168.1.254**
+
+The physical Ethernet adapter was reported as disconnected during this test, so this particular Windows test was conducted over **Wi-Fi**, rather than the Ethernet connection used for the earlier Linux measurements.
+
+### Observation
+
+This Windows test represents a **stable snapshot** at 12:49:55 SAST:
+
+- Local router: **0% loss**, maximum **4 ms**
+- Cloudflare: **0% loss**, maximum **20 ms**
+- Google: **0% loss**, maximum **8 ms**
+- DNS generally successful, with one Cloudflare timeout followed by a successful response.
+
+This contrasts with the **10:50 SAST incident test**, when the router recorded **5% packet loss** and a **108.006 ms** maximum response immediately after a connection error.
+
+Because this Windows test used Wi-Fi, it should not be treated as a direct replacement for the earlier Ethernet results. It is nevertheless useful as a cross-platform and cross-time observation. Continued testing during actual connection failures remains the most valuable evidence.
+
+
+---
+
+## 10. Important Technical Observation
 
 The testing demonstrates why the investigation should not rely exclusively on conventional speed testing.
 
@@ -419,7 +507,7 @@ The same measurements should continue to be taken when the connection is actuall
 
 ---
 
-## 10. What We Are Asking Metro Fibre to Investigate
+## 11. What We Are Asking Metro Fibre to Investigate
 
 Please investigate the service for possible intermittent problems that may not be visible during a single speed test, including:
 
@@ -436,7 +524,7 @@ Please also check whether the service shows any historical or intermittent fault
 
 ---
 
-## 11. Requested Technical Response
+## 12. Requested Technical Response
 
 We would appreciate a technical investigation rather than another basic speed test alone.
 
@@ -450,7 +538,7 @@ Please advise:
 
 ---
 
-## 12. Evidence Available
+## 13. Evidence Available
 
 The following evidence can be supplied to support the investigation:
 
@@ -468,7 +556,7 @@ Further tests will be recorded during periods of actual instability so that they
 
 ---
 
-## 13. Summary for Technical Support
+## 14. Summary for Technical Support
 
 **The issue being reported is recurring internet instability, not simply inadequate internet speed.**
 
