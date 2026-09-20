@@ -22,7 +22,47 @@ The language used during the argument is deliberately **not reproduced here**. T
 
 **The purpose of this note is therefore not to assign blame. It is to create evidence.**
 
+### **Windows Power Shell**
+```
+Write-Host "===== METRO FIBRE WINDOWS TEST =====" -ForegroundColor Cyan
+Write-Host "Time: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss zzz')"
+Write-Host ""
 
+Write-Host "=== ROUTER 192.168.1.254 ===" -ForegroundColor Yellow
+ping.exe -n 20 192.168.1.254
+Write-Host ""
+
+Write-Host "=== CLOUDFLARE 1.1.1.1 ===" -ForegroundColor Yellow
+ping.exe -n 20 1.1.1.1
+Write-Host ""
+
+Write-Host "=== GOOGLE 8.8.8.8 ===" -ForegroundColor Yellow
+ping.exe -n 20 8.8.8.8
+Write-Host ""
+
+Write-Host "=== ROUTE TO GOOGLE ===" -ForegroundColor Yellow
+tracert.exe -d 8.8.8.8
+Write-Host ""
+
+Write-Host "=== DNS ROUTER ===" -ForegroundColor Yellow
+nslookup.exe google.com 192.168.1.254
+Write-Host ""
+
+Write-Host "=== DNS CLOUDFLARE ===" -ForegroundColor Yellow
+nslookup.exe google.com 1.1.1.1
+Write-Host ""
+
+Write-Host "=== DNS GOOGLE ===" -ForegroundColor Yellow
+nslookup.exe google.com 8.8.8.8
+Write-Host ""
+
+Write-Host "=== NETWORK CONFIGURATION ===" -ForegroundColor Yellow
+ipconfig.exe /all
+Write-Host ""
+
+Write-Host "=== TEST COMPLETE ===" -ForegroundColor Cyan
+Write-Host "End Time: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss zzz')"
+```
 
 ## 🎯 What We Need to Establish
 
