@@ -4,8 +4,6 @@ title: "Everyday Tools"
 date: 2026-09-19
 ---
 
-
-
 # Mode-Specific Tool for Everyday
 ## Script Breakdown: `{mode}-tools.sh` (Mode Application Dispatcher)
 
