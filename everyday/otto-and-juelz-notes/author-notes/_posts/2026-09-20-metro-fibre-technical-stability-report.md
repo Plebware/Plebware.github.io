@@ -566,6 +566,103 @@ A technical investigation using Metro Fibre's network-side monitoring, together 
 
 ---
 
+## 15. Evening Test — 20 September 2026
+
+### 20:21–20:24 SAST
+
+A further complete test batch was performed from the Lenovo laptop running MX Linux over Wi-Fi.
+
+### Router — 192.168.1.254
+
+- **20 packets transmitted**
+- **20 packets received**
+- **0% packet loss**
+- Average: **2.458 ms**
+- Minimum: **1.583 ms**
+- Maximum: **12.634 ms**
+- Standard deviation: **2.365 ms**
+
+Most responses were approximately 1.6–2.0 ms. One response reached **12.6 ms**, with another at **3.32 ms**.
+
+### Cloudflare — 1.1.1.1
+
+- **20 packets transmitted**
+- **20 packets received**
+- **0% packet loss**
+- Average: **4.863 ms**
+- Minimum: **3.597 ms**
+- Maximum: **15.657 ms**
+- Standard deviation: **2.550 ms**
+
+Most responses were below 6 ms, with one response reaching **15.7 ms**.
+
+### Google — 8.8.8.8
+
+- **20 packets transmitted**
+- **20 packets received**
+- **0% packet loss**
+- Average: **9.499 ms**
+- Minimum: **4.560 ms**
+- Maximum: **50.396 ms**
+- Standard deviation: **10.605 ms**
+
+Notable latency spikes included:
+
+- Packet 4: **24.4 ms**
+- Packet 13: **50.4 ms**
+- Packet 19: **19.0 ms**
+
+### MTR — 8.8.8.8
+
+100-packet MTR:
+
+- Hop 1: **0.0% loss**
+- Hop 2: **0.0% loss**
+- Hop 3: **0.0% loss**
+- Final destination: **0.0% reported loss**
+- Final average: **5.7 ms**
+- Best: **4.6 ms**
+- Worst: **25.3 ms**
+- Standard deviation: **2.1 ms**
+
+The MTR showed **0% reported packet loss at every reported hop**. The second hop nevertheless recorded a worst response of **49.1 ms**, while the final destination recorded a worst response of **25.3 ms**.
+
+### DNS
+
+All three DNS tests completed successfully:
+
+- Router DNS 192.168.1.254: **NOERROR**, **4 ms**
+- Cloudflare 1.1.1.1: **NOERROR**, **4 ms**
+- Google 8.8.8.8: **NOERROR**, **4 ms**
+
+### Observation
+
+This evening test shows **stable connectivity with 0% packet loss**, but measurable intermittent latency variation remains visible.
+
+The local router was generally responding around 1.6–2.0 ms, but reached **12.634 ms**. Cloudflare reached **15.657 ms**, while Google recorded a larger **50.396 ms** maximum.
+
+The result should not be interpreted as proof of a specific fault location. It is another useful time-stamped data point showing that the connection can have no packet loss while isolated latency spikes remain present.
+
+Compared with the earlier **10:50 SAST incident test**, this is a materially different condition: the 10:50 test recorded **5% packet loss to the local router and a 108.006 ms maximum router response**, whereas the 20:21 test recorded **0% loss and a 12.634 ms router maximum**.
+
+---
+
+## 16. Updated Overall Observation
+
+The additional evening test strengthens the value of maintaining a chronological record of the connection rather than relying on one-off speed tests.
+
+The recorded data now includes periods showing:
+
+- **0% packet loss with low and stable latency**.
+- **0% packet loss with isolated latency spikes**.
+- **1% reported final-destination loss in some MTR tests**.
+- **5% packet loss to the local router immediately after a reported connection error**.
+- A local-router maximum response of **108.006 ms** during that incident test.
+
+This variation is consistent with an intermittent problem requiring time-correlated investigation. The customer-side tests alone do not establish where the fault originates, but they provide measurable evidence that can be compared against Metro Fibre's network-side monitoring and historical service records.
+
+---
+
 **Prepared for:** Metro Fibre Technical Support  
 **Date:** 20 September 2026  
 **Document type:** Customer technical evidence report
