@@ -10,7 +10,7 @@ location: "Ford Ranger - Forest Hill - En route to Crown Mines"
 
 <!-- PLEBVOX:START -->
 
-# Starting The Day Correctly.
+**Starting The Day Correctly.**
 
 **By God's Journalist - Cody - Dei Scriptor**  
 *Wednesday Morning, 9 September 2026 — From the Ford Ranger in Forest Hill, en route to Crown Mines.*
@@ -21,9 +21,10 @@ When we wake up in the morning, one of the first things we should do is thank Go
 
 <!-- PLEBVOX:START -->
 
-### Opening Prayer.
+**Opening Prayer.**
 
-> Heavenly Father, on this morning, the ninth day of Spring twenty twenty-six, I sit here in the Ford Ranger in Forest Hill, getting ready for my trip to Crown Mines.
+
+_> Heavenly Father, on this morning, the ninth day of Spring twenty twenty-six, I sit here in the Ford Ranger in Forest Hill, getting ready for my trip to Crown Mines.
 >
 > I thank You, Lord, for a good night's rest. I thank You, Lord, for everything that You do, and for the gifts and abilities You have bestowed upon me. I thank You for this day.
 >
@@ -31,13 +32,12 @@ When we wake up in the morning, one of the first things we should do is thank Go
 >
 > Also, in my free time while I wait, help me to think clearly about the tasks that You have called me to do regarding my **PlebWare.github.io** publishing and teaching platform, the **PlebMachine** I am developing that integrates with it, and the information I can share as a writer.
 >
-> In Jesus' precious name, Amen.
-
+> In Jesus' precious name, Amen._
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-### The Message: He Shows Us Bits and Pieces.
+**The Message: He Shows Us Bits and Pieces.**
 
 It is important to start the day right. When we begin the day with God, we remind ourselves that we are not walking through it alone. God's guidance and blessing are something we should seek every day.
 
@@ -59,7 +59,7 @@ Our responsibility is to walk faithfully through the portion of the road God has
 
 <!-- PLEBVOX:START -->
 
-### Scriptures for Today.
+**Scriptures for Today.**
 
 > **Matthew 6:34 (KJV)**  
 > *Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.*
@@ -82,9 +82,10 @@ Our responsibility is to walk faithfully through the portion of the road God has
 
 <!-- PLEBVOX:START -->
 
-### Closing Prayer.
+**Closing Prayer.**
 
-> Heavenly Father, I thank You for this opportunity to share Your Word. I thank You, Lord, that I am also now doing WhatsApp broadcasts again by popular demand. I pray that You use them to bless those who read these devotions.
+
+_> Heavenly Father, I thank You for this opportunity to share Your Word. I thank You, Lord, that I am also now doing WhatsApp broadcasts again by popular demand. I pray that You use them to bless those who read these devotions.
 >
 > I pray that You help me to make these devotions meaningful, encouraging, and useful to those who receive them. Bless this day for everybody who reads this, and help each person to deal faithfully with the day that You have placed before them.
 >
@@ -92,8 +93,7 @@ Our responsibility is to walk faithfully through the portion of the road God has
 >
 > In Jesus' name, Father, I ask. Hallowed be Your name.
 >
-> **Amen.**
-
+> **Amen.**_
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
@@ -111,26 +111,26 @@ Our responsibility is to walk faithfully through the portion of the road God has
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
 ```
-_Starting The Day Correctly._
+**Starting The Day Correctly.**
 
 *By God's Journalist - Cody - Dei Scriptor*  
-_Wednesday Morning, 9 September 2026 — From the Ford Ranger in Forest Hill, en route to Crown Mines._
+**Wednesday Morning, 9 September 2026 — From the Ford Ranger in Forest Hill, en route to Crown Mines.**
 
 When we wake up in the morning, one of the first things we should do is thank God for giving us another day of life. Then we should seek to live that day to its fullest potential, asking God to guide our every step.
 
-_Opening Prayer._
+**Opening Prayer.**
 
-> Heavenly Father, on this morning, the ninth day of Spring twenty twenty-six, I sit here in the Ford Ranger in Forest Hill, getting ready for my trip to Crown Mines.
->
-> I thank You, Lord, for a good night's rest. I thank You, Lord, for everything that You do, and for the gifts and abilities You have bestowed upon me. I thank You for this day.
->
-> I pray that You guide my every step and my every turn as I navigate this vehicle through traffic and through town. Please give me vigilance and wisdom to drive safely and honourably, so that I may bring honour to Your name in everything I do. Help me to be a good worker and to do the work before me faithfully.
->
-> Also, in my free time while I wait, help me to think clearly about the tasks that You have called me to do regarding my *PlebWare.github.io* publishing and teaching platform, the *PlebMachine* I am developing that integrates with it, and the information I can share as a writer.
->
-> In Jesus' precious name, Amen.
+> _Heavenly Father, on this morning, the ninth day of Spring twenty twenty-six, I sit here in the Ford Ranger in Forest Hill, getting ready for my trip to Crown Mines._
+**>**
+> _I thank You, Lord, for a good night's rest. I thank You, Lord, for everything that You do, and for the gifts and abilities You have bestowed upon me. I thank You for this day._
+**>**
+> _I pray that You guide my every step and my every turn as I navigate this vehicle through traffic and through town. Please give me vigilance and wisdom to drive safely and honourably, so that I may bring honour to Your name in everything I do. Help me to be a good worker and to do the work before me faithfully._
+**>**
+> _Also, in my free time while I wait, help me to think clearly about the tasks that You have called me to do regarding my *PlebWare.github.io* publishing and teaching platform, the *PlebMachine* I am developing that integrates with it, and the information I can share as a writer._
+**>**
+> _In Jesus' precious name, Amen._
 
-_The Message: He Shows Us Bits and Pieces._
+**The Message: He Shows Us Bits and Pieces.**
 
 It is important to start the day right. When we begin the day with God, we remind ourselves that we are not walking through it alone. God's guidance and blessing are something we should seek every day.
 
@@ -148,7 +148,7 @@ We can make plans, prepare wisely, and work faithfully, but we cannot control ev
 
 Our responsibility is to walk faithfully through the portion of the road God has illuminated. We do not need to see the entire journey before taking the next step.
 
-_Scriptures for Today._
+**Scriptures for Today.**
 
 > *Matthew 6:34 (KJV)*  
 > _Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof._
@@ -167,23 +167,23 @@ _Scriptures for Today._
 > *James 4:14 (KJV)*  
 > _Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away._
 
-_Closing Prayer._
+**Closing Prayer.**
 
-> Heavenly Father, I thank You for this opportunity to share Your Word. I thank You, Lord, that I am also now doing WhatsApp broadcasts again by popular demand. I pray that You use them to bless those who read these devotions.
->
-> I pray that You help me to make these devotions meaningful, encouraging, and useful to those who receive them. Bless this day for everybody who reads this, and help each person to deal faithfully with the day that You have placed before them.
->
-> Help us not to become consumed by yesterday or anxious about tomorrow. Give us wisdom for today, strength for today, and faith for today.
->
-> In Jesus' name, Father, I ask. Hallowed be Your name.
->
-> *Amen.*
+> _Heavenly Father, I thank You for this opportunity to share Your Word. I thank You, Lord, that I am also now doing WhatsApp broadcasts again by popular demand. I pray that You use them to bless those who read these devotions._
+**>**
+> _I pray that You help me to make these devotions meaningful, encouraging, and useful to those who receive them. Bless this day for everybody who reads this, and help each person to deal faithfully with the day that You have placed before them._
+**>**
+> _Help us not to become consumed by yesterday or anxious about tomorrow. Give us wisdom for today, strength for today, and faith for today._
+**>**
+> _In Jesus' name, Father, I ask. Hallowed be Your name._
+**>**
+> _*Amen.*_
 
-🗡️ *God's Journalist*  
-*Cody - Dei Scriptor*  
-_ChatGPT — and the Holy Spirit._  
-_PlebWare Publishing — Open and Free._
+**🗡️ *God's Journalist*  **
+***Cody - Dei Scriptor*  **
+__ChatGPT — and the Holy Spirit._  _
+**PlebWare Publishing — Open and Free.**
 
 _Captured via Meta AI — Mobile Field Notes — Forest Hill._  
-_PlebWare Publishing — PlebWare — Open and Free._
+**PlebWare Publishing — PlebWare — Open and Free.**
 ```
