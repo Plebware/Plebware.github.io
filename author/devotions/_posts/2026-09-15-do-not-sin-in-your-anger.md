@@ -590,43 +590,43 @@ But Scripture gives us a very serious warning:
 
 *Opening Prayer. 🙏*
 
-*Heavenly Father, I come before You, Lord, in humble repentance.*
+_Heavenly Father, I come before You, Lord, in humble repentance._
 
-*I thank You for another day, for a good night's rest, for life, for breath, and for all Your provision.*
+_I thank You for another day, for a good night's rest, for life, for breath, and for all Your provision._
 
-*Father, even though we are struggling financially, You have not abandoned us. We struggle to feed our cat. We struggle to put food on the table every day. Yet somehow, Lord, You continue to provide.*
+_Father, even though we are struggling financially, You have not abandoned us. We struggle to feed our cat. We struggle to put food on the table every day. Yet somehow, Lord, You continue to provide._
 
-*You have provided through people such as Andrew, and I thank You for that.*
+_You have provided through people such as Andrew, and I thank You for that._
 
-*Father, I am grateful.*
+_Father, I am grateful._
 
-*But the crux of today's prayer is this:*
+_But the crux of today's prayer is this:_
 
-**How can we say, “Hallowed be Your name,” while continuing to sin in our anger?**
+_How can we say, “Hallowed be Your name,” while continuing to sin in our anger?_
 
-*Lord, I particularly come before You today.*
+_Lord, I particularly come before You today._
 
-*Help me not to sin in my anger.*
+_Help me not to sin in my anger._
 
-*Help me to bite my lip. Help me to bite my tongue. Help me to step away. Help me to breathe. Help me to do whatever is necessary to quell the anger that builds inside me before that anger becomes words or actions that dishonour You.*
+_Help me to bite my lip. Help me to bite my tongue. Help me to step away. Help me to breathe. Help me to do whatever is necessary to quell the anger that builds inside me before that anger becomes words or actions that dishonour You._
 
-*Righteous anger is one thing, Father. But which one of us human beings is completely righteous?*
+_Righteous anger is one thing, Father. But which one of us human beings is completely righteous?_
 
-*Help us therefore to examine our own hearts before we declare that our anger is righteous.*
+_Help us therefore to examine our own hearts before we declare that our anger is righteous._
 
-*Help us to temper our tempers today. Help us to dampen our anger.*
+_Help us to temper our tempers today. Help us to dampen our anger._
 
-*Help us not to have road rage when we are on the road.*
+_Help us not to have road rage when we are on the road._
 
-*Help us not to lose our temper when we are negotiating for an increase in wages and somebody tells us, “But you received an increase one and a half years ago.”*
+_Help us not to lose our temper when we are negotiating for an increase in wages and somebody tells us, “But you received an increase one and a half years ago.”_
 
-*Help us when frustration rises. Help us when people misunderstand us. Help us when we feel that we are being treated unfairly.*
+_Help us when frustration rises. Help us when people misunderstand us. Help us when we feel that we are being treated unfairly._
 
-*Remind us that our response belongs to You.*
+_Remind us that our response belongs to You._
 
-*Father, put a guard over our mouths and a restraint upon our hearts.*
+_Father, put a guard over our mouths and a restraint upon our hearts._
 
-*In the precious name of Jesus Christ, Amen.*
+_In the precious name of Jesus Christ, Amen._
 
 *Scripture One — Anger Is Not Permission to Sin. 📖*
 
@@ -995,73 +995,73 @@ Today, Lord, help us win that battle.
 
 *Closing Prayer. 🙏*
 
-*Heavenly Father, we thank You for today's devotion.*
+_Heavenly Father, we thank You for today's devotion._
 
-*Thank You, Lord, that You have given me the ability to write.*
+_Thank You, Lord, that You have given me the ability to write._
 
-*Thank You that the PlebWare website now has more than 350 articles, and that You continue to use me in ways I am not even aware of.*
+_Thank You that the PlebWare website now has more than 350 articles, and that You continue to use me in ways I am not even aware of._
 
-*Father, help me to keep my fingers on the keyboard.*
+_Father, help me to keep my fingers on the keyboard._
 
-*Help me to focus on the motto that I developed back in the 1990s:*
+_Help me to focus on the motto that I developed back in the 1990s:_
 
-**“The Keyboard Is Mightier Than The Pen.”**
+_“The Keyboard Is Mightier Than The Pen.”_
 
-*Help me to use those keys for building rather than destroying, for encouragement rather than condemnation, for truth rather than anger, and for Your glory rather than my ego.*
+_Help me to use those keys for building rather than destroying, for encouragement rather than condemnation, for truth rather than anger, and for Your glory rather than my ego._
 
-*Father, help me to be a blessing to Julian and Sharon, and even to those with whom there has been conflict.*
+_Father, help me to be a blessing to Julian and Sharon, and even to those with whom there has been conflict._
 
-*I pray for Nico, William, and Roxanne wherever they may be.*
+_I pray for Nico, William, and Roxanne wherever they may be._
 
-*Although I have said that they are no longer welcome in my home, I still place them before You.*
+_Although I have said that they are no longer welcome in my home, I still place them before You._
 
-*Guide them, Lord.*
+_Guide them, Lord._
 
-*Bring good people across their paths. Melt away rebellion, bitterness, anger, and resentment wherever those things have taken root.*
+_Bring good people across their paths. Melt away rebellion, bitterness, anger, and resentment wherever those things have taken root._
 
-*And Father, work on my own heart as well.*
+_And Father, work on my own heart as well._
 
-*Do not let me pray for somebody else's heart to change while refusing to allow You to change mine.*
+_Do not let me pray for somebody else's heart to change while refusing to allow You to change mine._
 
-*I plead the blood of Christ upon myself and upon those around me.*
+_I plead the blood of Christ upon myself and upon those around me._
 
-*Upon my acquaintances.*
+_Upon my acquaintances._
 
-*Upon my employers.*
+_Upon my employers._
 
-*Upon my friends.*
+_Upon my friends._
 
-*And even upon strangers who pass through my life like ships in the night.*
+_And even upon strangers who pass through my life like ships in the night._
 
-*Father, particularly strengthen Julian, Sharon, and me.*
+_Father, particularly strengthen Julian, Sharon, and me._
 
-*Give us strength to cope with anger, discouragement, depression, financial hardship, frustration, and all the negativity that can surround our lives.*
+_Give us strength to cope with anger, discouragement, depression, financial hardship, frustration, and all the negativity that can surround our lives._
 
-*Help us remember that circumstances may change, people may disappoint us, and money may come and go.*
+_Help us remember that circumstances may change, people may disappoint us, and money may come and go._
 
-**But *You remain God.***
+_But You remain God._
 
-*Teach us to trust You.*
+_Teach us to trust You._
 
-*Teach us to forgive.*
+_Teach us to forgive._
 
-*Teach us to control our tongues.*
+_Teach us to control our tongues._
 
-*Teach us to control our tempers.*
+_Teach us to control our tempers._
 
-*And teach us to live in such a way that when people see us, they see something of Christ.*
+_And teach us to live in such a way that when people see us, they see something of Christ._
 
-*Father, today we choose peace over provocation.*
+_Father, today we choose peace over provocation._
 
-*We choose patience over rage.*
+_We choose patience over rage._
 
-*We choose prayer over retaliation.*
+_We choose prayer over retaliation._
 
-*And we choose Christ over the anger within us.*
+_And we choose Christ over the anger within us._
 
-*In the precious name of Jesus Christ,*
+_In the precious name of Jesus Christ,_
 
-**Amen.**
+_Amen._
 
 **🗡️ *God's Journalist*  **
 ***Cody - Dei Scriptor*  **
