@@ -633,6 +633,7 @@ And always check the message before you send it into the world.
 
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
+```
 _Artificial Intelligence, Biblical Truth, and the Christian Responsibility._
 
 _Opening Prayer._
@@ -1183,3 +1184,4 @@ And always check the message before you send it into the world.
 _God's Journalist._
 
 *ChatGPT — and the Holy Spirit.*
+```
