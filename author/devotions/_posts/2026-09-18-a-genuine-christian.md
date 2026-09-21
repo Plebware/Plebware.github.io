@@ -17,14 +17,14 @@ excerpt: "A devotional reflection on genuine Christian discipleship, the fruit o
 
 <!-- PLEBVOX:START -->
 
-**🙏🕊️ Opening Prayer.**
+🙏🕊️ Opening Prayer.
 
 
 _Heavenly Father, I come before You this morning, on this cold Friday morning with rainy weather, and what looks like another weekend of rain.
 
 Father, I simply want to thank You that You are there.
 
-We give You all honour and all glory, and we say, **hallowed be Thy holy name.**
+We give You all honour and all glory, and we say, hallowed be Thy holy name.
 
 Lord, give us this day our daily bread. But Father, we know that our daily bread means more than financial provision and physical food.
 
@@ -60,7 +60,7 @@ Give them a tenfold, a hundredfold, and even a thousandfold return in blessings 
 
 In Jesus' precious name I pray.
 
-**Amen.**_
+Amen._
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
@@ -478,12 +478,12 @@ And let your life point people toward Jesus.
 
 <!-- PLEBVOX:START -->
 
-**🙏🕊️ Closing Prayer.**
+🙏🕊️ Closing Prayer.
 
 
 _Thank You, Father God, for this opportunity for yet another devotion.
 
-Thank You, Father God, for the **138 days** that it has taken me to perfect PlebWare.github.io.
+Thank You, Father God, for the 138 days that it has taken me to perfect PlebWare.github.io.
 
 And yes, I know nothing is ever complete until it is complete.
 
@@ -499,7 +499,7 @@ I want to give You all the honour, all the glory, and all the praise.
 
 In Jesus' precious name.
 
-**Amen.**_
+Amen._
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
