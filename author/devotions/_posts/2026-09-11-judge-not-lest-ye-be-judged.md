@@ -804,23 +804,23 @@ And perhaps that is where today's uncomfortable question begins:
 
 *🙏 Opening Prayer — Lord, Teach Me Not to Sit in Your Chair.*
 
-*Lord God,*
+_Lord God,_
 
-*Teach me to examine my own heart before I examine somebody else's.*
+_Teach me to examine my own heart before I examine somebody else's._
 
-*Search me, O God, and know my heart. Try me, and know my thoughts, and see if there be any wicked way in me.*
+_Search me, O God, and know my heart. Try me, and know my thoughts, and see if there be any wicked way in me._
 
-**Psalm 139:23–24**
+_Psalm 139:23–24_
 
-*Give me conviction where I need correction, humility where I am proud, courage where I am weak, and grace where I am tempted to condemn.*
+_Give me conviction where I need correction, humility where I am proud, courage where I am weak, and grace where I am tempted to condemn._
 
-*Help me understand the difference between loving correction and destructive judgment.*
+_Help me understand the difference between loving correction and destructive judgment._
 
-*And Lord, when I am tempted to pick up Your gavel, remind me that it belongs to You.*
+_And Lord, when I am tempted to pick up Your gavel, remind me that it belongs to You._
 
-*In the name of Jesus Christ,*
+_In the name of Jesus Christ,_
 
-**Amen.**
+_Amen._
 
 *📖 The Scripture — The Beam in My Own Eye.*
 
@@ -1312,42 +1312,42 @@ And neither do you.
 
 *🙏 Closing Prayer — Lord, Take Back Your Chair.*
 
-*Father God,*
+_Father God,_
 
-*Forgive me for the times I have judged people without knowing their whole story.*
+_Forgive me for the times I have judged people without knowing their whole story._
 
-*Forgive me for the times I have called gossip concern.*
+_Forgive me for the times I have called gossip concern._
 
-*Forgive me for the times I have judged somebody else's weakness while ignoring my own.*
+_Forgive me for the times I have judged somebody else's weakness while ignoring my own._
 
-*Teach me to speak truth with love.*
+_Teach me to speak truth with love._
 
-*Teach me to correct with humility.*
+_Teach me to correct with humility._
 
-*Teach me to restore rather than crush.*
+_Teach me to restore rather than crush._
 
-*And when I am struggling, Lord, help me remember that my unfinished battle does not erase the victories You have already given me.*
+_And when I am struggling, Lord, help me remember that my unfinished battle does not erase the victories You have already given me._
 
-*Help me to keep fighting.*
+_Help me to keep fighting._
 
-*Help me to keep changing.*
+_Help me to keep changing._
 
-*Help me to keep trusting You.*
+_Help me to keep trusting You._
 
-**And above all, Lord, *take back Your chair whenever I try to sit in it.***
+_And above all, Lord, take back Your chair whenever I try to sit in it._
 
-*Let me leave the gavel where it belongs.*
+_Let me leave the gavel where it belongs._
 
-*In Your hands.*
+_In Your hands._
 
-*As Jesus taught us:*
+_As Jesus taught us:_
 
 > _*“Be ye therefore merciful, as your Father also is merciful.”*  _
 > _— *Luke 6:36 (KJV)*_
 
-*In the name of Jesus Christ,*
+_In the name of Jesus Christ,_
 
-**Amen.**
+_Amen._
 
 *🕊️ Ending Thought — Romans 8:1–2.*
 
