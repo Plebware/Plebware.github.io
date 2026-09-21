@@ -44,7 +44,7 @@ And perhaps that is where today's uncomfortable question begins:
 
 <!-- PLEBVOX:START -->
 
-**🙏 Opening Prayer — Lord, Teach Me Not to Sit in Your Chair.**
+🙏 Opening Prayer — Lord, Teach Me Not to Sit in Your Chair.
 
 
 _Lord God,
@@ -53,7 +53,7 @@ Teach me to examine my own heart before I examine somebody else's.
 
 Search me, O God, and know my heart. Try me, and know my thoughts, and see if there be any wicked way in me.
 
-**Psalm 139:23–24**
+Psalm 139:23–24
 
 Give me conviction where I need correction, humility where I am proud, courage where I am weak, and grace where I am tempted to condemn.
 
@@ -63,7 +63,7 @@ And Lord, when I am tempted to pick up Your gavel, remind me that it belongs to 
 
 In the name of Jesus Christ,
 
-**Amen.**_
+Amen._
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
@@ -604,7 +604,7 @@ And neither do you.
 
 <!-- PLEBVOX:START -->
 
-**🙏 Closing Prayer — Lord, Take Back Your Chair.**
+🙏 Closing Prayer — Lord, Take Back Your Chair.
 
 
 _Father God,
@@ -629,7 +629,7 @@ Help me to keep changing.
 
 Help me to keep trusting You.
 
-And above all, Lord, **take back Your chair whenever I try to sit in it.**
+And above all, Lord, take back Your chair whenever I try to sit in it.
 
 Let me leave the gavel where it belongs.
 
@@ -637,12 +637,12 @@ In Your hands.
 
 As Jesus taught us:
 
-> **“Be ye therefore merciful, as your Father also is merciful.”**  
-> — **Luke 6:36 (KJV)**
+> “Be ye therefore merciful, as your Father also is merciful.”  
+> — Luke 6:36 (KJV)
 
 In the name of Jesus Christ,
 
-**Amen.**_
+Amen._
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
