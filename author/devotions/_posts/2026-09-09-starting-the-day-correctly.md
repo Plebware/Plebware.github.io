@@ -110,6 +110,7 @@ Our responsibility is to walk faithfully through the portion of the road God has
 
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
+```
 _Starting The Day Correctly._
 
 *By God's Journalist - Cody - Dei Scriptor*  
@@ -185,3 +186,4 @@ _PlebWare Publishing — Open and Free._
 
 _Captured via Meta AI — Mobile Field Notes — Forest Hill._  
 _PlebWare Publishing — PlebWare — Open and Free._
+```
