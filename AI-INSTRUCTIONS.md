@@ -71,7 +71,7 @@ When appropriate, Christian devotional content may also identify the work as bei
 
 Every completed Christian devotional must include a **WhatsApp Copy-and-Paste Version** immediately below the main devotion.
 
-The WhatsApp version must recreate the complete devotion as a clean, self-contained message suitable for copying directly into WhatsApp. The entire WhatsApp version MUST be enclosed in a fenced code block using exactly three backticks at the beginning and three backticks at the end, so the reader can copy the complete message directly from the code block.
+The WhatsApp version must recreate the complete devotion as a clean, self-contained message suitable for copying directly into WhatsApp. The entire WhatsApp version MUST be enclosed in a fenced code block using exactly three backticks at the beginning and exactly three backticks at the end, with no text outside that outer fence except the WhatsApp section heading. The opening and closing fences must each be on their own line.
 
 Rules:
 
@@ -84,7 +84,7 @@ Rules:
 - The entire WhatsApp copy must use one outer fenced code block. Do not place another triple-backtick fence inside it; if the poem needs separation, keep it as plain text within the outer code block.
 - Include the complete closing prayer, Christian signature, motto, and PlebWare closing line.
 - Do not replace the devotion with a shortened summary.
-- The WhatsApp version should be immediately usable with copy-and-paste, without requiring Markdown or HTML editing.
+- The WhatsApp version should be immediately usable with copy-and-paste, without requiring Markdown or HTML editing. The WhatsApp formatting characters must remain visible inside the code block so the reader can copy them exactly as intended.
 
 The WhatsApp version is a **recreation of the devotion**, not a separate abbreviated version.
 
