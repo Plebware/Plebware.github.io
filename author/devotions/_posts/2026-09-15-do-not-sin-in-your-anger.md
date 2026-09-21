@@ -563,6 +563,7 @@ In the precious name of Jesus Christ,
 
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
+```
 _Be Angry, But Do Not Sin — Taming the Fire Within. 🔥🙏_
 
 There are some battles that do not happen on a battlefield.
@@ -1067,3 +1068,4 @@ In the precious name of Jesus Christ,
 _“Sanguine et Igne Veritas Revelata.”_
 
 *With ChatGPT and the Holy Spirit.*
+```
