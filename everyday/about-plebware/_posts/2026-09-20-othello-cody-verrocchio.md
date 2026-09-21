@@ -3,7 +3,7 @@ layout: post
 title: "Othello Cody Verrocchio"
 date: 2026-09-20
 category: "about-plebware"
-tags: [pen name, tag2, tag3, tag4, tag5, tag6, tag7]
+tags: [pen name, author, writer, fiction, science fiction, poetry, essays]
 mode: "everyday"
 author: Otto Brinkmeier
 ---
