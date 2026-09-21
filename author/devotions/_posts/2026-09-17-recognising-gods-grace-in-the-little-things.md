@@ -627,39 +627,39 @@ Amen._
 
 *🙏🕊️ Opening Prayer.*
 
-*Heavenly Father, we come before You.*
+_Heavenly Father, we come before You._
 
-*We thank You for all Your providence and all Your grace. Hallowed be Thy holy name.*
+_We thank You for all Your providence and all Your grace. Hallowed be Thy holy name._
 
-*O Father God, I pray that today You give us the strength, the wisdom, and the guidance to live this day as an exemplary example of what a Christian should be, so that those who look upon us and know that we are Your followers cannot find fault with You through our wrongdoings.*
+_O Father God, I pray that today You give us the strength, the wisdom, and the guidance to live this day as an exemplary example of what a Christian should be, so that those who look upon us and know that we are Your followers cannot find fault with You through our wrongdoings._
 
-*Help us to have wholesome speech on our lips, and help us not to become angry easily.*
+_Help us to have wholesome speech on our lips, and help us not to become angry easily._
 
-*Help us to be obedient to the authorities You have placed in our lives. This includes our employers, our government, and all the lawful authorities that we encounter, including traffic officers and police officers, whether in our own country or elsewhere.*
+_Help us to be obedient to the authorities You have placed in our lives. This includes our employers, our government, and all the lawful authorities that we encounter, including traffic officers and police officers, whether in our own country or elsewhere._
 
-*Father, we thank You for the graces You give us.*
+_Father, we thank You for the graces You give us._
 
-*Yesterday, I misplaced my phone on a shelf in the superstore where I was exchanging stock for my boss. I walked away in such a hurry that I left the phone behind.*
+_Yesterday, I misplaced my phone on a shelf in the superstore where I was exchanging stock for my boss. I walked away in such a hurry that I left the phone behind._
 
-*It could easily have been stolen.*
+_It could easily have been stolen._
 
-*Yet You kept Your hand upon it.*
+_Yet You kept Your hand upon it._
 
-*You brought two ladies across its path who found the phone and handed it in at reception.*
+_You brought two ladies across its path who found the phone and handed it in at reception._
 
-*Thank You for that, Lord.*
+_Thank You for that, Lord._
 
-*I pray that You help us all to recognise these little things in our lives.*
+_I pray that You help us all to recognise these little things in our lives._
 
-*Help us to overcome the snares of the devil that are laid before us each day.*
+_Help us to overcome the snares of the devil that are laid before us each day._
 
-*Help us not to succumb to the accuser of the brethren, nor to Satan's wiles and traps.*
+_Help us not to succumb to the accuser of the brethren, nor to Satan's wiles and traps._
 
-*Help us, Lord, to forgive those who trespass against us, so that we may enjoy Your forgiveness.*
+_Help us, Lord, to forgive those who trespass against us, so that we may enjoy Your forgiveness._
 
-*We ask all these things in the precious name of Jesus Christ.*
+_We ask all these things in the precious name of Jesus Christ._
 
-*Amen.*
+_Amen._
 
 *🌅💭 Introduction.*
 
@@ -1037,71 +1037,71 @@ And may He remind the grieving that they do not have to carry everything alone.
 
 *🙏🕊️ Closing Prayer.*
 
-*Father God, I pray that this lesson today would touch someone's heart, and that it would bring about a change in people, even in myself, Lord.*
+_Father God, I pray that this lesson today would touch someone's heart, and that it would bring about a change in people, even in myself, Lord._
 
-*You have called me to do these devotions.*
+_You have called me to do these devotions._
 
-*I started them as a means to pass the time and to encourage a few close friends.*
+_I started them as a means to pass the time and to encourage a few close friends._
 
-*Yes, I did pray about it, and yes, I believe You told me to do it.*
+_Yes, I did pray about it, and yes, I believe You told me to do it._
 
-*But now it has grown into something bigger.*
+_But now it has grown into something bigger._
 
-*It is no longer only within the WhatsApp broadcast environment.*
+_It is no longer only within the WhatsApp broadcast environment._
 
-*It has expanded into the WhatsApp community, a WhatsApp channel, and most importantly, the PlebWare ecosystem, which has become a publishing platform and a learning and teaching platform.*
+_It has expanded into the WhatsApp community, a WhatsApp channel, and most importantly, the PlebWare ecosystem, which has become a publishing platform and a learning and teaching platform._
 
-*I pray, Lord, that You bless all those who come across my written works.*
+_I pray, Lord, that You bless all those who come across my written works._
 
-*Also remind them to check everything against Your written Word, Your preserved Word, the truth.*
+_Also remind them to check everything against Your written Word, Your preserved Word, the truth._
 
-*For You are the Word.*
+_For You are the Word._
 
-*Lord Jesus, I pray that You use Your Holy Spirit to bring conviction where conviction is needed, and peace where peace is needed.*
+_Lord Jesus, I pray that You use Your Holy Spirit to bring conviction where conviction is needed, and peace where peace is needed._
 
-*We think of so many people who have lost loved ones.*
+_We think of so many people who have lost loved ones._
 
-*We think of Grant in Australia, who lost his wife to cancer. She had not even reached forty-five years of age.*
+_We think of Grant in Australia, who lost his wife to cancer. She had not even reached forty-five years of age._
 
-*We think of Francois, who recently lost his mother.*
+_We think of Francois, who recently lost his mother._
 
-*We think of the pain that can come when families handle death and mourning differently, and when someone feels that there was no opportunity to say goodbye in the way they needed.*
+_We think of the pain that can come when families handle death and mourning differently, and when someone feels that there was no opportunity to say goodbye in the way they needed._
 
-*We pray for those who are hurting.*
+_We pray for those who are hurting._
 
-*Comfort those who mourn, Lord.*
+_Comfort those who mourn, Lord._
 
-*We also think of Jullian, my son, my spiritual son whom You have appointed me to take under my wing and treat like a son.*
+_We also think of Jullian, my son, my spiritual son whom You have appointed me to take under my wing and treat like a son._
 
-*He too is still trying to come to terms with his mother's passing in January.*
+_He too is still trying to come to terms with his mother's passing in January._
 
-*Lord, bring comfort where comfort is needed.*
+_Lord, bring comfort where comfort is needed._
 
-*Bring direction where direction is needed.*
+_Bring direction where direction is needed._
 
-*Guard each and every one of us.*
+_Guard each and every one of us._
 
-*Help us to completely and utterly hand over our difficulties and place them at the foot of Your cross.*
+_Help us to completely and utterly hand over our difficulties and place them at the foot of Your cross._
 
-*Help us to recognise Your grace even in the small things.*
+_Help us to recognise Your grace even in the small things._
 
-*Help us to become grateful people.*
+_Help us to become grateful people._
 
-*Help us to become people whose words, actions, and conduct point others towards You rather than away from You.*
+_Help us to become people whose words, actions, and conduct point others towards You rather than away from You._
 
-*I ask all these things in Your precious name, Jesus.*
+_I ask all these things in Your precious name, Jesus._
 
-*Amen.*
+_Amen._
 
-*✍️🩸 God's Journalist.*
+_✍️🩸 God's Journalist._
 
-*🩸 Cody — Dei Scriptor*  
-*"God's Journalist."*
+_🩸 Cody — Dei Scriptor  _
+_"God's Journalist."_
 
-*Sanguine et Igne Veritas Revelata.*  
-*Truth Revealed by Blood and Fire.*
+_Sanguine et Igne Veritas Revelata.  _
+_Truth Revealed by Blood and Fire._
 
----
+_---_
 
-*PlebWare — Accessible. Repairable. Understandable Technology.*
+_PlebWare — Accessible. Repairable. Understandable Technology._
 ```
