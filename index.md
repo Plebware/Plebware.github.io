@@ -48,7 +48,7 @@ Which turns your **Debian - XFCE** desktop into a smart, context‑aware environ
 
 ## 📊 PlebWare Library.
 - **NB! - Not all articles are suited for PlebVox** 
- (like technical and code-related articles)
+- (like technical and code-related articles)
 <div class="plebware-stats">
   <p>📚 <strong>{{ site.posts.size }}</strong> Articles Published.</p>
 
