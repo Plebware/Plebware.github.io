@@ -636,35 +636,35 @@ And always check the message before you send it into the world.
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
 ```
-**Artificial Intelligence, Biblical Truth, and the Christian Responsibility.**
+*Artificial Intelligence, Biblical Truth, and the Christian Responsibility.*
 
-**Opening Prayer.**
+*Opening Prayer.*
 
-**Heavenly Father, I come before You today.**
+*Heavenly Father, I come before You today.*
 
-**I ask, Lord, that You give me wisdom when advising my brothers and sisters about using artificial intelligence when doing Bible study and biblical writing, including devotions.**
+*I ask, Lord, that You give me wisdom when advising my brothers and sisters about using artificial intelligence when doing Bible study and biblical writing, including devotions.*
 
-**Lord, help us understand the importance of making sure that the Scriptures we use are correct and true according to Your Word as recorded in the Bible.**
+*Lord, help us understand the importance of making sure that the Scriptures we use are correct and true according to Your Word as recorded in the Bible.*
 
-**Help us to hear the Holy Spirit and to seek Your guidance when we write with artificial intelligence.**
+*Help us to hear the Holy Spirit and to seek Your guidance when we write with artificial intelligence.*
 
-**And Lord, this does not apply only to devotions. It applies to everything we write or communicate, whether it is an encouragement to a friend, an article, a report, or something as simple as a message.**
+*And Lord, this does not apply only to devotions. It applies to everything we write or communicate, whether it is an encouragement to a friend, an article, a report, or something as simple as a message.*
 
-**Artificial intelligence is becoming part of everyday life. In fact, we have already been using forms of artificial intelligence for years, sometimes without even realizing it. Grammar and writing tools, search engines, recommendation systems, social media platforms, and video services increasingly use automated systems and artificial intelligence to help process and present information.**
+*Artificial intelligence is becoming part of everyday life. In fact, we have already been using forms of artificial intelligence for years, sometimes without even realizing it. Grammar and writing tools, search engines, recommendation systems, social media platforms, and video services increasingly use automated systems and artificial intelligence to help process and present information.*
 
-**Lord, give us wisdom in using this technology so that we do not abuse it, misuse it, or allow it to distort Your Word.**
+*Lord, give us wisdom in using this technology so that we do not abuse it, misuse it, or allow it to distort Your Word.*
 
-**Help us never to allow technology to become more authoritative than Scripture.**
+*Help us never to allow technology to become more authoritative than Scripture.*
 
-**Help us remember that artificial intelligence is a tool created by human beings. It is not the Holy Spirit, it is not the Bible, and it is not God.**
+*Help us remember that artificial intelligence is a tool created by human beings. It is not the Holy Spirit, it is not the Bible, and it is not God.*
 
-**Give us discernment so that we can use technology without allowing technology to use us.**
+*Give us discernment so that we can use technology without allowing technology to use us.*
 
-**I ask this in Jesus' precious name.**
+*I ask this in Jesus' precious name.*
 
-**Amen.**
+*Amen.*
 
-**Introduction — The Technology Is Here.**
+*Introduction — The Technology Is Here.*
 
 Many people are strongly opposed to artificial intelligence.
 
@@ -718,7 +718,7 @@ Artificial intelligence may assist us.
 
 It must never replace the Word of God.
 
-**Church History — Christians Have Always Used the Tools of Their Generation.**
+*Church History — Christians Have Always Used the Tools of Their Generation.*
 
 There is an important lesson in church history.
 
@@ -760,9 +760,9 @@ Technology changes.
 
 The responsibility to seek truth does not.
 
-**Scripture One — Study and Handle the Word Correctly.**
+*Scripture One — Study and Handle the Word Correctly.*
 
-**2 Timothy 2:15.**
+*2 Timothy 2:15.*
 
 > "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth."
 
@@ -790,9 +790,9 @@ But we must still do the studying.
 
 The responsibility cannot be outsourced.
 
-**Scripture Two — Test Everything.**
+*Scripture Two — Test Everything.*
 
-**1 Thessalonians 5:21.**
+*1 Thessalonians 5:21.*
 
 > "Test all things; hold fast what is good."
 
@@ -825,9 +825,9 @@ A Christian should not live in fear of technology.
 
 A Christian should live according to truth.
 
-**Scripture Three — Search the Scriptures.**
+*Scripture Three — Search the Scriptures.*
 
-**Acts 17:11.**
+*Acts 17:11.*
 
 The Bereans provide us with a wonderful example.
 
@@ -863,7 +863,7 @@ Not the artificial intelligence.
 
 *The Word of God.*
 
-**A Word of Caution — AI Can Sound Convincing.**
+*A Word of Caution — AI Can Sound Convincing.*
 
 One of the dangers of artificial intelligence is that it can produce remarkably confident answers.
 
@@ -901,7 +901,7 @@ Understand the context.
 
 Then decide whether the explanation actually agrees with the passage.
 
-**Artificial Intelligence and Fake Content.**
+*Artificial Intelligence and Fake Content.*
 
 There is another responsibility we must consider.
 
@@ -931,33 +931,33 @@ We should therefore avoid judging a person's spiritual condition merely from som
 
 Instead, we should test the message itself and remain truthful about what we actually know.
 
-**Practical Christian Guidelines for Using Artificial Intelligence.**
+*Practical Christian Guidelines for Using Artificial Intelligence.*
 
 Here are some simple rules that Christians can put into practice.
 
-**1. Use artificial intelligence as an assistant, not an authority.**
+*1. Use artificial intelligence as an assistant, not an authority.*
 
 Let it help you organise your thoughts.
 
 Do not let it become your spiritual authority.
 
-**2. Check every Scripture reference.**
+*2. Check every Scripture reference.*
 
 If artificial intelligence gives you a verse, open your Bible and verify it.
 
-**3. Read the context.**
+*3. Read the context.*
 
 Do not build an entire doctrine around one isolated sentence.
 
 Read the verses before and after it.
 
-**4. Ask for sources.**
+*4. Ask for sources.*
 
 When researching historical, scientific, or theological claims, ask where the information came from.
 
 Then verify important claims independently.
 
-**5. Never blindly copy and paste.**
+*5. Never blindly copy and paste.*
 
 Read what the system produced.
 
@@ -969,7 +969,7 @@ Ask yourself:
 
 *"Is this what I actually believe?"*
 
-**6. Pray before producing Christian material.**
+*6. Pray before producing Christian material.*
 
 Ask God for wisdom.
 
@@ -977,41 +977,41 @@ The technology can assist with the words.
 
 God must guide the heart.
 
-**7. Remember who is responsible.**
+*7. Remember who is responsible.*
 
 If you publish it under your name, you are responsible for what you publish.
 
 Saying, "The artificial intelligence wrote it," does not remove that responsibility.
 
-**A Simple Five-Step Bible and AI Check.**
+*A Simple Five-Step Bible and AI Check.*
 
 Before publishing or sharing Christian material created with assistance from artificial intelligence, try this:
 
 *PAUSE.*
 
-**1. Pray.**
+*1. Pray.*
 
 Ask God for wisdom and discernment.
 
-**2. Check.**
+*2. Check.*
 
 Verify every Scripture reference.
 
-**3. Read.**
+*3. Read.*
 
 Read the surrounding biblical context.
 
-**4. Compare.**
+*4. Compare.*
 
 Compare the explanation with the wider teaching of Scripture.
 
-**5. Review.**
+*5. Review.*
 
 Read the final message as a Christian before sharing it with somebody else.
 
 This simple process can prevent many avoidable mistakes.
 
-**What Would God Want Us to Do?**
+*What Would God Want Us to Do?*
 
 Based upon these Scriptures, the Christian responsibility is clear.
 
@@ -1037,7 +1037,7 @@ But Christians may use technology while serving God.
 
 The important question is whether we are using the tool wisely, honestly, and responsibly.
 
-**To-Do for Today.**
+*To-Do for Today.*
 
 Today, take one Christian message, devotion, social-media post, or Bible-related article that you have recently received.
 
@@ -1061,7 +1061,7 @@ If something is wrong, correct it before passing it on.
 
 If you are uncertain, do not present uncertainty as fact.
 
-**To-Do for the Future.**
+*To-Do for the Future.*
 
 From now on, whenever artificial intelligence helps you prepare something important, establish a simple personal rule:
 
@@ -1081,7 +1081,7 @@ Let artificial intelligence help with the work.
 
 But keep responsibility for the work.
 
-**A Poem — The Tool Is Not the Truth.**
+*A Poem — The Tool Is Not the Truth.*
 
 The machine may form the sentence,  
 And polish every line,  
@@ -1108,7 +1108,7 @@ But never lose your sight:
 The Bible is the measuring rod,  
 And Christ remains the Light.
 
-**Worth-To-Do Today.**
+*Worth-To-Do Today.*
 
 Today, before you share something:
 
@@ -1122,7 +1122,7 @@ If artificial intelligence helped you create it, that does not change the questi
 
 It makes them even more important.
 
-**Heavenly View — Who Is Really in Charge?**
+*Heavenly View — Who Is Really in Charge?*
 
 Artificial intelligence may be powerful.
 
@@ -1160,7 +1160,7 @@ And the Truth is not an algorithm.
 
 *The Truth is found in Jesus Christ and revealed to us through God's Word.*
 
-**Final Thought.**
+*Final Thought.*
 
 Before you share something today, ask yourself three questions:
 
@@ -1183,7 +1183,7 @@ Listen for the Holy Spirit.
 And always check the message before you send it into the world.
 
 🩸 *Cody — Dei Scriptor*  
-**God's Journalist.**
+*God's Journalist.*
 
 *ChatGPT — and the Holy Spirit.*
 ```
