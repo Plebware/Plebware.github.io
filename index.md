@@ -98,7 +98,7 @@ With hundreds of articles covering technology, creativity, practical life, writi
 
 ------
 
-Use the **navigation found on every** page or search the library.
+Use the **navigation found on every page** or search the library.
 
 **[🔎 Search PlebWare →](/search/)**
 
@@ -106,8 +106,9 @@ Use the **navigation found on every** page or search the library.
 
 **[📊 View the 12-Mode Subcategory Dashboard →](/subcategory-dashboard/)**
 
+------
 
-## 📰 Recent Articles.
+## 📰 **Recent Articles**.
 
 The PlebWare library is continually growing.
 
