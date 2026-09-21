@@ -593,6 +593,7 @@ In Jesus' precious name.
 
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
+```
 _🙏 Let Your Life Carry the Name._
 
 _🙏🕊️ Opening Prayer._
@@ -1502,3 +1503,4 @@ _Truth Revealed by Blood and Fire._
 ---
 
 *PlebWare — Accessible. Repairable. Understandable Technology.*
+```
