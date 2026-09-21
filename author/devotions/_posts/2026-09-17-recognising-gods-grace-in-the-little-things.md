@@ -17,7 +17,7 @@ excerpt: "A devotional reflection on recognising God's grace, giving thanks in d
 
 <!-- PLEBVOX:START -->
 
-**🙏🕊️ Opening Prayer.**
+🙏🕊️ Opening Prayer.
 
 
 _Heavenly Father, we come before You.
@@ -469,7 +469,7 @@ And may He remind the grieving that they do not have to carry everything alone.
 
 <!-- PLEBVOX:START -->
 
-**🙏🕊️ Closing Prayer.**
+🙏🕊️ Closing Prayer.
 
 
 _Father God, I pray that this lesson today would touch someone's heart, and that it would bring about a change in people, even in myself, Lord.
