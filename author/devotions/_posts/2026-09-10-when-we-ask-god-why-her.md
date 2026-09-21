@@ -296,7 +296,7 @@ It is also measured by the love they gave while they were here.
 
 <!-- PLEBVOX:START -->
 
-**A Prayer For Grant, Erin And Samuel.**
+A Prayer For Grant, Erin And Samuel.
 
 
 _Father God,
