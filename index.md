@@ -54,6 +54,14 @@ PlebMachine turns your **Debian XFCE desktop** into a smart, context-aware envir
 
 ---
 
+<div style="text-align: center;">
+  <img src="/assets/images/ultimate-github-library.webp"
+       alt="Plebware Legacy Manifesto"
+       style="width:100%; max-width:700px; height:auto;">
+</div>
+
+------
+
 ## 📊 PlebWare Library.
 - **NB! - Not all articles are suited for PlebVox** 
 - (like technical and code-related articles)
@@ -71,7 +79,15 @@ PlebMachine turns your **Debian XFCE desktop** into a smart, context-aware envir
   <p>🎧 <strong>{{ plebvox_count }}</strong> Articles Empowered by PlebVox.</p>
 </div>
 
----
+------
+
+<div style="text-align: center;">
+  <img src="/assets/images/finding-something-useful.webp"
+       alt="Plebware Legacy Manifesto"
+       style="width:100%; max-width:700px; height:auto;">
+</div>
+
+------
 ## 🔎 Find Something Useful.
 
 With hundreds of articles covering technology, creativity, practical life, writing, research, education and entertainment, there is plenty to explore.
@@ -80,11 +96,10 @@ Use the navigation above or search the library.
 
 **[🔎 Search PlebWare →](/search/)**
 
-**[📚 Browse All A---rticles →](/all-posts/)**
+**[📚 Browse All Articles →](/all-posts/)**
 
 **[📊 View the 12-Mode Subcategory Dashboard →](/subcategory-dashboard/)**
 
------
 
 ## 📰 Recent Articles.
 
