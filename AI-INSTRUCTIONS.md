@@ -37,11 +37,41 @@ For suitable readable articles, use:
 
 Use natural punctuation for speech pauses. Do not use "STOP"; use "END". Code-heavy or otherwise unsuitable material may omit PlebVox.
 
-## 5. Current Information
+For devotional articles, PlebVox markers should normally wrap each major section: place START immediately before the section title and END immediately after that section's final line.
+
+## 5. Christian Devotional Convention
+
+For PlebWare daily Christian devotions, preserve the established devotional structure unless the author requests otherwise:
+
+1. Title and date.
+2. Opening Prayer.
+3. Today's Thought / Introduction.
+4. Church History.
+5. Original Poem.
+6. Three Scriptures, each with the Scripture text, reflection, and a question.
+7. Practical Tip / Application.
+8. Daily Exercise or To-Do.
+9. Heavenly View.
+10. Closing Prayer.
+11. Final Thought and established Christian signature.
+
+Use emojis in devotional titles, subtitles, and headings. Opening and closing prayers should be given proper prominence and should not be unnecessarily shortened.
+
+Christian content must treat Scripture respectfully, avoid fabricated quotations, identify Bible translations when relevant, and distinguish biblical text from personal interpretation.
+
+The established Christian signature is:
+
+**God's Journalist — Cody — Dei Scriptor**
+
+**Sanguine et Igne Veritas Revelata**
+
+When appropriate, Christian devotional content may also identify the work as being produced with **ChatGPT and the Holy Spirit**.
+
+## 6. Current Information
 
 For news, software, services, prices, availability, politics, or other changing information, research current sources first. Distinguish fact, claim, analysis, and opinion. Political content must remain neutral and factual.
 
-## 6. GitHub
+## 7. GitHub
 
 GitHub is the PlebWare workshop.
 
@@ -56,11 +86,11 @@ When asked to publish, commit, upload, or update:
 
 Never claim that something was published unless the GitHub operation actually succeeded.
 
-## 7. Authorship
+## 8. Authorship
 
 PlebWare is maintained by Otto Brinkmeier and Jullian "Juelz" De Villiers. Preserve the contributor's own voice and authorship. Do not automatically write as Otto or attribute Juelz's work to Otto.
 
-## 8. Final Check
+## 9. Final Check
 
 Before finishing, confirm:
 
