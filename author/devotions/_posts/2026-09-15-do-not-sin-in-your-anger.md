@@ -38,7 +38,7 @@ But Scripture gives us a very serious warning:
 
 <!-- PLEBVOX:START -->
 
-**Opening Prayer. 🙏**
+Opening Prayer. 🙏
 
 
 _Heavenly Father, I come before You, Lord, in humble repentance.
@@ -53,7 +53,7 @@ Father, I am grateful.
 
 But the crux of today's prayer is this:
 
-**How can we say, “Hallowed be Your name,” while continuing to sin in our anger?**
+How can we say, “Hallowed be Your name,” while continuing to sin in our anger?
 
 Lord, I particularly come before You today.
 
@@ -483,7 +483,7 @@ Today, Lord, help us win that battle.
 
 <!-- PLEBVOX:START -->
 
-**Closing Prayer. 🙏**
+Closing Prayer. 🙏
 
 
 _Heavenly Father, we thank You for today's devotion.
@@ -496,7 +496,7 @@ Father, help me to keep my fingers on the keyboard.
 
 Help me to focus on the motto that I developed back in the 1990s:
 
-**“The Keyboard Is Mightier Than The Pen.”**
+“The Keyboard Is Mightier Than The Pen.”
 
 Help me to use those keys for building rather than destroying, for encouragement rather than condemnation, for truth rather than anger, and for Your glory rather than my ego.
 
@@ -530,7 +530,7 @@ Give us strength to cope with anger, discouragement, depression, financial hards
 
 Help us remember that circumstances may change, people may disappoint us, and money may come and go.
 
-But **You remain God.**
+But You remain God.
 
 Teach us to trust You.
 
@@ -552,7 +552,7 @@ And we choose Christ over the anger within us.
 
 In the precious name of Jesus Christ,
 
-**Amen.**_
+Amen._
 <!-- PLEBVOX:END -->
 
 🗡️ **God's Journalist**  
