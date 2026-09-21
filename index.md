@@ -129,17 +129,20 @@ The catalogue below shows the **12 most recently published articles across all P
 
 {% endfor %}
 
+-------
+
+## 🏠 Everyday Mode — Latest by Subcategory.
+Not everyone does the same things every day, and yet there are some things we all have in common.
+
 ------
 
 <div style="text-align: center;">
-  <img src="/assets/images/everyday-collage.webp"
+  <img src="/assets/images/everyday-life.webp"
        alt="Plebware Legacy Manifesto"
        style="width:100%; max-width:700px; height:auto;">
 </div>
 
 ------
-
-## 🏠 Everyday Mode — Latest by Subcategory.
 
 {% include category-index.html section_slug="everyday" %}
 
