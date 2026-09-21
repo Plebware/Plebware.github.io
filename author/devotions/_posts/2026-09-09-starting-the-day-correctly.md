@@ -121,13 +121,13 @@ When we wake up in the morning, one of the first things we should do is thank Go
 *Opening Prayer.*
 
 > _Heavenly Father, on this morning, the ninth day of Spring twenty twenty-six, I sit here in the Ford Ranger in Forest Hill, getting ready for my trip to Crown Mines._
-*>*
+> __
 > _I thank You, Lord, for a good night's rest. I thank You, Lord, for everything that You do, and for the gifts and abilities You have bestowed upon me. I thank You for this day._
-*>*
+> __
 > _I pray that You guide my every step and my every turn as I navigate this vehicle through traffic and through town. Please give me vigilance and wisdom to drive safely and honourably, so that I may bring honour to Your name in everything I do. Help me to be a good worker and to do the work before me faithfully._
-*>*
+> __
 > _Also, in my free time while I wait, help me to think clearly about the tasks that You have called me to do regarding my *PlebWare.github.io* publishing and teaching platform, the *PlebMachine* I am developing that integrates with it, and the information I can share as a writer._
-*>*
+> __
 > _In Jesus' precious name, Amen._
 
 *The Message: He Shows Us Bits and Pieces.*
@@ -170,13 +170,13 @@ Our responsibility is to walk faithfully through the portion of the road God has
 *Closing Prayer.*
 
 > _Heavenly Father, I thank You for this opportunity to share Your Word. I thank You, Lord, that I am also now doing WhatsApp broadcasts again by popular demand. I pray that You use them to bless those who read these devotions._
-*>*
+> __
 > _I pray that You help me to make these devotions meaningful, encouraging, and useful to those who receive them. Bless this day for everybody who reads this, and help each person to deal faithfully with the day that You have placed before them._
-*>*
+> __
 > _Help us not to become consumed by yesterday or anxious about tomorrow. Give us wisdom for today, strength for today, and faith for today._
-*>*
+> __
 > _In Jesus' name, Father, I ask. Hallowed be Your name._
-*>*
+> __
 > _*Amen.*_
 
 **🗡️ *God's Journalist*  **
