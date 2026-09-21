@@ -564,7 +564,7 @@ In the precious name of Jesus Christ,
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
 ```
-**Be Angry, But Do Not Sin — Taming the Fire Within. 🔥🙏**
+*Be Angry, But Do Not Sin — Taming the Fire Within. 🔥🙏*
 
 There are some battles that do not happen on a battlefield.
 
@@ -588,47 +588,47 @@ But Scripture gives us a very serious warning:
 
 *We can be angry without allowing anger to become our master.*
 
-**Opening Prayer. 🙏**
+*Opening Prayer. 🙏*
 
-**Heavenly Father, I come before You, Lord, in humble repentance.**
+*Heavenly Father, I come before You, Lord, in humble repentance.*
 
-**I thank You for another day, for a good night's rest, for life, for breath, and for all Your provision.**
+*I thank You for another day, for a good night's rest, for life, for breath, and for all Your provision.*
 
-**Father, even though we are struggling financially, You have not abandoned us. We struggle to feed our cat. We struggle to put food on the table every day. Yet somehow, Lord, You continue to provide.**
+*Father, even though we are struggling financially, You have not abandoned us. We struggle to feed our cat. We struggle to put food on the table every day. Yet somehow, Lord, You continue to provide.*
 
-**You have provided through people such as Andrew, and I thank You for that.**
+*You have provided through people such as Andrew, and I thank You for that.*
 
-**Father, I am grateful.**
+*Father, I am grateful.*
 
-**But the crux of today's prayer is this:**
+*But the crux of today's prayer is this:*
 
-***How can we say, “Hallowed be Your name,” while continuing to sin in our anger?***
+**How can we say, “Hallowed be Your name,” while continuing to sin in our anger?**
 
-**Lord, I particularly come before You today.**
+*Lord, I particularly come before You today.*
 
-**Help me not to sin in my anger.**
+*Help me not to sin in my anger.*
 
-**Help me to bite my lip. Help me to bite my tongue. Help me to step away. Help me to breathe. Help me to do whatever is necessary to quell the anger that builds inside me before that anger becomes words or actions that dishonour You.**
+*Help me to bite my lip. Help me to bite my tongue. Help me to step away. Help me to breathe. Help me to do whatever is necessary to quell the anger that builds inside me before that anger becomes words or actions that dishonour You.*
 
-**Righteous anger is one thing, Father. But which one of us human beings is completely righteous?**
+*Righteous anger is one thing, Father. But which one of us human beings is completely righteous?*
 
-**Help us therefore to examine our own hearts before we declare that our anger is righteous.**
+*Help us therefore to examine our own hearts before we declare that our anger is righteous.*
 
-**Help us to temper our tempers today. Help us to dampen our anger.**
+*Help us to temper our tempers today. Help us to dampen our anger.*
 
-**Help us not to have road rage when we are on the road.**
+*Help us not to have road rage when we are on the road.*
 
-**Help us not to lose our temper when we are negotiating for an increase in wages and somebody tells us, “But you received an increase one and a half years ago.”**
+*Help us not to lose our temper when we are negotiating for an increase in wages and somebody tells us, “But you received an increase one and a half years ago.”*
 
-**Help us when frustration rises. Help us when people misunderstand us. Help us when we feel that we are being treated unfairly.**
+*Help us when frustration rises. Help us when people misunderstand us. Help us when we feel that we are being treated unfairly.*
 
-**Remind us that our response belongs to You.**
+*Remind us that our response belongs to You.*
 
-**Father, put a guard over our mouths and a restraint upon our hearts.**
+*Father, put a guard over our mouths and a restraint upon our hearts.*
 
-**In the precious name of Jesus Christ, Amen.**
+*In the precious name of Jesus Christ, Amen.*
 
-**Scripture One — Anger Is Not Permission to Sin. 📖**
+*Scripture One — Anger Is Not Permission to Sin. 📖*
 
 > *“Be ye angry, and sin not: let not the sun go down upon your wrath.”*  
 > — Ephesians 4:26, KJV
@@ -649,13 +649,13 @@ The danger begins when anger takes the steering wheel.
 
 That is when words become weapons, when we deliberately hurt somebody because we are hurt, when road frustration becomes road rage, and when a disagreement becomes an argument.
 
-**To-Do.**
+*To-Do.*
 
 When anger rises today, *delay your response.*
 
 Do not answer immediately. Do not send the message immediately. Do not shout immediately. Do not make a decision while the emotional fire is burning.
 
-**Practical To-Do.**
+*Practical To-Do.*
 
 Try this:
 
@@ -667,7 +667,7 @@ Take three slow breaths. Then say:
 
 Only then speak.
 
-**A Tip for Application.**
+*A Tip for Application.*
 
 If you know that a particular situation triggers your anger, prepare your response *before* the situation happens.
 
@@ -677,7 +677,7 @@ For example:
 
 Walking away for five minutes is not weakness. Sometimes it is wisdom.
 
-**God's View — The Heavenly View.**
+*God's View — The Heavenly View.*
 
 From Heaven's perspective, the victory is not necessarily winning the argument.
 
@@ -685,7 +685,7 @@ The victory is *keeping your character when you could have lost it.*
 
 God is not impressed because we shouted louder. He is honoured when we exercise self-control.
 
-**Scripture Two — A Soft Answer Can Stop a Fire. 📖**
+*Scripture Two — A Soft Answer Can Stop a Fire. 📖*
 
 > *“A soft answer turneth away wrath: but grievous words stir up anger.”*  
 > — Proverbs 15:1, KJV
@@ -700,13 +700,13 @@ Someone raises their voice. We raise ours. They become aggressive. We become agg
 
 And suddenly two people who might have solved a problem are fighting one another instead.
 
-**To-Do.**
+*To-Do.*
 
 Today, deliberately lower your voice when someone raises theirs.
 
 Do not mirror their anger.
 
-**Practical To-Do.**
+*Practical To-Do.*
 
 When somebody speaks angrily to you, try answering:
 
@@ -714,7 +714,7 @@ When somebody speaks angrily to you, try answering:
 
 That one sentence can change the direction of a conversation.
 
-**A Tip for Application.**
+*A Tip for Application.*
 
 Remember:
 
@@ -724,7 +724,7 @@ If they are at 100 degrees, you don't have to become 101.
 
 Be the thermostat, not the thermometer.
 
-**God's View — The Heavenly View.**
+*God's View — The Heavenly View.*
 
 God sees something we often forget.
 
@@ -734,7 +734,7 @@ That does not mean we tolerate abuse or injustice. It means we refuse to become 
 
 Heaven sees restraint not as surrender, but as strength under control.
 
-**Scripture Three — Slow Down Before You Speak. 📖**
+*Scripture Three — Slow Down Before You Speak. 📖*
 
 > *“Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath.”*  
 > — James 1:19, KJV
@@ -755,11 +755,11 @@ We become *swift to speak, swift to anger, slow to listen.*
 
 And that is where trouble begins.
 
-**To-Do.**
+*To-Do.*
 
 Listen before answering, especially when you believe you already know what the other person is going to say.
 
-**Practical To-Do.**
+*Practical To-Do.*
 
 Before responding during a disagreement, ask yourself three questions:
 
@@ -769,7 +769,7 @@ Before responding during a disagreement, ask yourself three questions:
 
 That third question can be incredibly revealing.
 
-**A Tip for Application.**
+*A Tip for Application.*
 
 Give yourself a *ten-second rule.*
 
@@ -783,7 +783,7 @@ and:
 
 *“Thank God I kept my mouth shut.”*
 
-**God's View — The Heavenly View.**
+*God's View — The Heavenly View.*
 
 God already knows the whole story. We do not.
 
@@ -795,7 +795,7 @@ Therefore, humility requires us to admit:
 
 That little admission can extinguish a surprisingly large fire.
 
-**Scripture Four — Self-Control Is Part of the Fruit. 📖**
+*Scripture Four — Self-Control Is Part of the Fruit. 📖*
 
 > *“But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance.”*  
 > — Galatians 5:22–23, KJV
@@ -810,13 +810,13 @@ The Holy Spirit does not merely comfort us after we lose our temper. He works wi
 
 That does not mean we will never become angry. It means anger does not have to command us.
 
-**To-Do.**
+*To-Do.*
 
 Practice one deliberate act of self-control today.
 
 When you feel yourself becoming angry, *choose not to react immediately.*
 
-**Practical To-Do.**
+*Practical To-Do.*
 
 Use a physical reminder. Touch your wrist. Take a breath. Step outside. Drink some water. Pray.
 
@@ -826,7 +826,7 @@ Whatever harmless action reminds you:
 
 The goal is not to hurt ourselves. The goal is to interrupt the emotional cycle long enough for wisdom to take over.
 
-**A Tip for Application.**
+*A Tip for Application.*
 
 Create a simple prayer for moments of anger:
 
@@ -834,7 +834,7 @@ Create a simple prayer for moments of anger:
 
 Repeat it until the emotional intensity begins to fall.
 
-**God's View — The Heavenly View.**
+*God's View — The Heavenly View.*
 
 Heaven is not asking us to become emotionless robots.
 
@@ -846,7 +846,7 @@ A controlled fire can provide warmth. An uncontrolled fire can destroy a house.
 
 Anger is much the same.
 
-**Church History — The Discipline of the Early Christians. ⛪**
+*Church History — The Discipline of the Early Christians. ⛪*
 
 The early Christian Church understood that following Christ was not merely about what happened inside a church building.
 
@@ -880,9 +880,9 @@ The Church has spent centuries wrestling with the same human problem we face tod
 
 *How do we stand for what is right without allowing our hearts to become wrong?*
 
-**A Thought-Provoking Poem — The Fire Within. 🔥**
+*A Thought-Provoking Poem — The Fire Within. 🔥*
 
-**The Fire Within.**
+*The Fire Within.*
 
 There is a fire that burns inside,  
 A spark that anger feeds;  
@@ -919,7 +919,7 @@ And let the old self cease.
 For sometimes holiness looks like  
 Simply choosing peace.
 
-**Worth-To-Do Today. 🔑**
+*Worth-To-Do Today. 🔑*
 
 Today, before anger gets the better of you:
 
@@ -949,7 +949,7 @@ That is a difficult question.
 
 It is also a worthwhile one.
 
-**The Practical Challenge. 🎯**
+*The Practical Challenge. 🎯*
 
 Today I am going to try something simple.
 
@@ -971,7 +971,7 @@ Not through my own strength alone.
 
 Through Christ.
 
-**Heavenly View. ☁️**
+*Heavenly View. ☁️*
 
 Perhaps Heaven sees something that we often fail to see.
 
@@ -993,79 +993,79 @@ Not the person standing opposite us.
 
 Today, Lord, help us win that battle.
 
-**Closing Prayer. 🙏**
+*Closing Prayer. 🙏*
 
-**Heavenly Father, we thank You for today's devotion.**
+*Heavenly Father, we thank You for today's devotion.*
 
-**Thank You, Lord, that You have given me the ability to write.**
+*Thank You, Lord, that You have given me the ability to write.*
 
-**Thank You that the PlebWare website now has more than 350 articles, and that You continue to use me in ways I am not even aware of.**
+*Thank You that the PlebWare website now has more than 350 articles, and that You continue to use me in ways I am not even aware of.*
 
-**Father, help me to keep my fingers on the keyboard.**
+*Father, help me to keep my fingers on the keyboard.*
 
-**Help me to focus on the motto that I developed back in the 1990s:**
+*Help me to focus on the motto that I developed back in the 1990s:*
 
-***“The Keyboard Is Mightier Than The Pen.”***
+**“The Keyboard Is Mightier Than The Pen.”**
 
-**Help me to use those keys for building rather than destroying, for encouragement rather than condemnation, for truth rather than anger, and for Your glory rather than my ego.**
+*Help me to use those keys for building rather than destroying, for encouragement rather than condemnation, for truth rather than anger, and for Your glory rather than my ego.*
 
-**Father, help me to be a blessing to Julian and Sharon, and even to those with whom there has been conflict.**
+*Father, help me to be a blessing to Julian and Sharon, and even to those with whom there has been conflict.*
 
-**I pray for Nico, William, and Roxanne wherever they may be.**
+*I pray for Nico, William, and Roxanne wherever they may be.*
 
-**Although I have said that they are no longer welcome in my home, I still place them before You.**
+*Although I have said that they are no longer welcome in my home, I still place them before You.*
 
-**Guide them, Lord.**
+*Guide them, Lord.*
 
-**Bring good people across their paths. Melt away rebellion, bitterness, anger, and resentment wherever those things have taken root.**
+*Bring good people across their paths. Melt away rebellion, bitterness, anger, and resentment wherever those things have taken root.*
 
-**And Father, work on my own heart as well.**
+*And Father, work on my own heart as well.*
 
-**Do not let me pray for somebody else's heart to change while refusing to allow You to change mine.**
+*Do not let me pray for somebody else's heart to change while refusing to allow You to change mine.*
 
-**I plead the blood of Christ upon myself and upon those around me.**
+*I plead the blood of Christ upon myself and upon those around me.*
 
-**Upon my acquaintances.**
+*Upon my acquaintances.*
 
-**Upon my employers.**
+*Upon my employers.*
 
-**Upon my friends.**
+*Upon my friends.*
 
-**And even upon strangers who pass through my life like ships in the night.**
+*And even upon strangers who pass through my life like ships in the night.*
 
-**Father, particularly strengthen Julian, Sharon, and me.**
+*Father, particularly strengthen Julian, Sharon, and me.*
 
-**Give us strength to cope with anger, discouragement, depression, financial hardship, frustration, and all the negativity that can surround our lives.**
+*Give us strength to cope with anger, discouragement, depression, financial hardship, frustration, and all the negativity that can surround our lives.*
 
-**Help us remember that circumstances may change, people may disappoint us, and money may come and go.**
+*Help us remember that circumstances may change, people may disappoint us, and money may come and go.*
 
 **But *You remain God.***
 
-**Teach us to trust You.**
+*Teach us to trust You.*
 
-**Teach us to forgive.**
+*Teach us to forgive.*
 
-**Teach us to control our tongues.**
+*Teach us to control our tongues.*
 
-**Teach us to control our tempers.**
+*Teach us to control our tempers.*
 
-**And teach us to live in such a way that when people see us, they see something of Christ.**
+*And teach us to live in such a way that when people see us, they see something of Christ.*
 
-**Father, today we choose peace over provocation.**
+*Father, today we choose peace over provocation.*
 
-**We choose patience over rage.**
+*We choose patience over rage.*
 
-**We choose prayer over retaliation.**
+*We choose prayer over retaliation.*
 
-**And we choose Christ over the anger within us.**
+*And we choose Christ over the anger within us.*
 
-**In the precious name of Jesus Christ,**
+*In the precious name of Jesus Christ,*
 
-***Amen.***
+**Amen.**
 
 **🗡️ *God's Journalist*  **
 ***Cody - Dei Scriptor*  **
-**“Sanguine et Igne Veritas Revelata.”**
+*“Sanguine et Igne Veritas Revelata.”*
 
 *With ChatGPT and the Holy Spirit.*
 ```
