@@ -69,16 +69,23 @@ When appropriate, Christian devotional content may also identify the work as bei
 
 ### Devotional Formatting Rules
 
-These formatting rules are mandatory for Christian devotional articles unless the author explicitly requests otherwise:
+These formatting rules are mandatory for Christian devotional articles unless the author explicitly requests otherwise.
 
-- **Titles and section titles are always bold**, using two asterisks around the title: `**Title**`.
-- *Prayers are always italic*, using two underscores around the prayer text: `_Prayer text_`.
-- Poems are always presented in **monospace**, enclosed between three backticks on their own lines:
-  ```
-  poem text
-  ```
+**Main devotion (normal Markdown):**
 
-These rules apply consistently to devotional formatting. The WhatsApp copy-and-paste version remains subject to its single outer triple-backtick fence rule; therefore, do not create a nested triple-backtick fence inside that outer WhatsApp fence. The poem content must still be preserved in the WhatsApp version in a clean, copyable form.
+- **Titles and section titles are always bold**, using **two asterisks** around the title: `**Title**`.
+- **Prayers are always italic**, using **underscores** around the complete prayer: `_Prayer text_`.
+- **Poems are always monospace**, enclosed between **three backticks** on their own lines.
+- Do not substitute WhatsApp formatting for the main devotion. The main devotion uses normal Markdown: `**bold**`, `_italic_`, and triple-backtick poems.
+
+**WhatsApp copy-and-paste version:**
+
+- WhatsApp **bold uses exactly one asterisk on each side**: `*bold text*`. Never use `**bold text**` for WhatsApp.
+- WhatsApp _italic text and prayers use underscores_: `_italic text_` and `_Prayer text_`.
+- The WhatsApp version must **not inherit the main devotion's double-asterisk bold formatting**.
+- Poems must remain plain text inside the single outer triple-backtick WhatsApp fence. **Never add nested triple-backticks** around the poem inside that outer fence.
+
+These rules apply consistently and must be checked separately: first the main devotion's Markdown formatting, then the WhatsApp copy's WhatsApp formatting.
 
 ## 6. WhatsApp Devotional Copy
 
