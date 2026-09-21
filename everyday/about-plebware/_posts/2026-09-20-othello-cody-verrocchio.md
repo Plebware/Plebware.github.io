@@ -30,8 +30,10 @@ Not because I was trying to hide who I was.
 Quite the opposite.
 
 I was trying to give the different parts of myself somewhere to live.
+
 <!-- PLEBVOX:END -->
 -----
+
 <!-- PLEBVOX:START -->
 
 ## Meet the Creator: One Storyteller, Multiple Pen Names
@@ -53,6 +55,7 @@ These names may look like different people.
 They aren't.
 
 They are different doors into the same workshop.
+
 <!-- PLEBVOX:END -->
 -----
 <!-- PLEBVOX:START -->
@@ -62,6 +65,7 @@ They are different doors into the same workshop.
 Why would one person need several names?
 
 For me, the answer is surprisingly simple:
+
 <!-- PLEBVOX:END -->
 -----
 <!-- PLEBVOX:START -->
@@ -113,8 +117,10 @@ A pseudonym can simply be another name.
 A persona can become a framework through which ideas are developed.
 
 Othello became my framework for storytelling.
+
 <!-- PLEBVOX:END -->
 -----
+
 <!-- PLEBVOX:START -->
 
 ## But Why Keep Otto?
@@ -142,8 +148,10 @@ You break something.
 You learn something.
 
 Then you build something else.
+
 <!-- PLEBVOX:END -->
 -----
+
 <!-- PLEBVOX:START -->
 
 ## One Person, Many Names
@@ -165,8 +173,10 @@ They are collaborators.
 And somewhere in the middle of all of it is the same person, sitting at the keyboard.
 
 **Me.**
+
 <!-- PLEBVOX:END -->
 -----
+
 <!-- PLEBVOX:START -->
 
 ## Why This Matters on GitHub
@@ -196,3 +206,5 @@ And, having chosen the cane, I suppose I had better keep writing.
 **— O.C. Verrocchio**
 
 **_The Keyboard Is Mightier Than The Pen_**
+<!-- PLEBVOX:END -->
+-----
