@@ -9,7 +9,7 @@ tags: [devotion, memorial, grief, Cindy Petersen, faith, suffering, hope, prayer
 
 <!-- PLEBVOX:START -->
 
-# When We Ask God, Why Her?
+**When We Ask God, Why Her?**
 
 **By God's Journalist - Cody - Dei Scriptor**  
 *Thursday, 10 September 2026.*
@@ -32,7 +32,7 @@ And that hurt almost as much as the news itself.
 
 <!-- PLEBVOX:START -->
 
-## Thirteen Days Too Late.
+**Thirteen Days Too Late.**
 
 Cindy was only forty-five.
 
@@ -76,7 +76,7 @@ I wish I could have reached out sooner.
 
 <!-- PLEBVOX:START -->
 
-## I Remember The Green Bowl.
+**I Remember The Green Bowl.**
 
 Some memories seem insignificant until someone is gone.
 
@@ -118,7 +118,7 @@ But through the small pieces of love they leave behind.
 
 <!-- PLEBVOX:START -->
 
-## A Family That Served Others.
+**A Family That Served Others.**
 
 Grant and Cindy were Christians.
 
@@ -146,7 +146,7 @@ Because sometimes there aren't easy answers.
 
 <!-- PLEBVOX:START -->
 
-## Why, Lord?
+**Why, Lord?**
 
 I have asked God that question.
 
@@ -206,7 +206,7 @@ I don't pretend to have an answer.
 
 <!-- PLEBVOX:START -->
 
-## Faith Does Not Mean We Never Ask Why.
+**Faith Does Not Mean We Never Ask Why.**
 
 I think sometimes Christians are afraid to admit that they don't understand God.
 
@@ -256,7 +256,7 @@ But I know this:
 
 <!-- PLEBVOX:START -->
 
-## What Cindy Leaves Behind.
+**What Cindy Leaves Behind.**
 
 Cindy leaves behind more than grief.
 
@@ -296,9 +296,10 @@ It is also measured by the love they gave while they were here.
 
 <!-- PLEBVOX:START -->
 
-## A Prayer For Grant, Erin And Samuel.
+**A Prayer For Grant, Erin And Samuel.**
 
-Father God,
+
+_Father God,
 
 I don't understand.
 
@@ -342,13 +343,12 @@ Give me the strength to discover what that is.
 
 In the name of Jesus Christ,
 
-Amen.
-
+Amen._
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## A Final Thought.
+**A Final Thought.**
 
 I only found out thirteen days after Cindy died.
 
@@ -501,10 +501,10 @@ And may the Lord teach those of us who remain how to live the days we have been 
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
 ```
-_When We Ask God, Why Her?_
+**When We Ask God, Why Her?**
 
 *By God's Journalist - Cody - Dei Scriptor*  
-_Thursday, 10 September 2026._
+**Thursday, 10 September 2026.**
 
 There are some pieces of news that you read and simply cannot process.
 
@@ -520,7 +520,7 @@ I only found out thirteen days later.
 
 And that hurt almost as much as the news itself.
 
-_Thirteen Days Too Late._
+**Thirteen Days Too Late.**
 
 Cindy was only forty-five.
 
@@ -560,7 +560,7 @@ Still, I wish I had known.
 
 I wish I could have reached out sooner.
 
-_I Remember The Green Bowl._
+**I Remember The Green Bowl.**
 
 Some memories seem insignificant until someone is gone.
 
@@ -598,7 +598,7 @@ Not physically.
 
 But through the small pieces of love they leave behind.
 
-_A Family That Served Others._
+**A Family That Served Others.**
 
 Grant and Cindy were Christians.
 
@@ -622,7 +622,7 @@ This is where Christianity becomes something more than easy answers.
 
 Because sometimes there aren't easy answers.
 
-_Why, Lord?_
+**Why, Lord?**
 
 I have asked God that question.
 
@@ -678,7 +678,7 @@ And in those exhausted moments, the mind can wander into dark questions.
 
 I don't pretend to have an answer.
 
-_Faith Does Not Mean We Never Ask Why._
+**Faith Does Not Mean We Never Ask Why.**
 
 I think sometimes Christians are afraid to admit that they don't understand God.
 
@@ -724,7 +724,7 @@ But I know this:
 
 *I can take the question to God.*
 
-_What Cindy Leaves Behind._
+**What Cindy Leaves Behind.**
 
 Cindy leaves behind more than grief.
 
@@ -760,55 +760,55 @@ A person's life is not measured only by how long they lived.
 
 It is also measured by the love they gave while they were here.
 
-_A Prayer For Grant, Erin And Samuel._
+**A Prayer For Grant, Erin And Samuel.**
 
-Father God,
+**Father God,**
 
-I don't understand.
+**I don't understand.**
 
-I don't understand why Cindy had to leave this world at only forty-five years of age.
+**I don't understand why Cindy had to leave this world at only forty-five years of age.**
 
-I don't understand why a husband must bury his wife.
+**I don't understand why a husband must bury his wife.**
 
-I don't understand why children must continue without their mother.
+**I don't understand why children must continue without their mother.**
 
-But You understand what I cannot.
+**But You understand what I cannot.**
 
-So today I pray for Grant.
+**So today I pray for Grant.**
 
-Give him strength when he feels he has none left.
+**Give him strength when he feels he has none left.**
 
-Give him courage for the mornings when getting out of bed feels impossible.
+**Give him courage for the mornings when getting out of bed feels impossible.**
 
-Give him peace in the moments when the memories hurt.
+**Give him peace in the moments when the memories hurt.**
 
-I pray for Erin and Samuel.
+**I pray for Erin and Samuel.**
 
-Surround them with people who will love them, protect them and help them through the years ahead.
+**Surround them with people who will love them, protect them and help them through the years ahead.**
 
-Let them remember their mother not only through the pain of losing her, but through the joy of having known her.
+**Let them remember their mother not only through the pain of losing her, but through the joy of having known her.**
 
-And Lord, when I ask You, "Why her?"
+**And Lord, when I ask You, "Why her?"**
 
-Help me remember that I am not required to understand everything in order to trust You.
+**Help me remember that I am not required to understand everything in order to trust You.**
 
-Help me with my own exhaustion.
+**Help me with my own exhaustion.**
 
-Help me with my financial struggles.
+**Help me with my financial struggles.**
 
-Help me when I feel that my life has little left to offer.
+**Help me when I feel that my life has little left to offer.**
 
-Remind me that my worth is not measured by my bank balance, my productivity, my age, or the number of things I have accomplished.
+**Remind me that my worth is not measured by my bank balance, my productivity, my age, or the number of things I have accomplished.**
 
-If You have kept me here, then there must still be something You want me to do.
+**If You have kept me here, then there must still be something You want me to do.**
 
-Give me the strength to discover what that is.
+**Give me the strength to discover what that is.**
 
-In the name of Jesus Christ,
+**In the name of Jesus Christ,**
 
-Amen.
+**Amen.**
 
-_A Final Thought._
+**A Final Thought.**
 
 I only found out thirteen days after Cindy died.
 
@@ -873,5 +873,5 @@ And may the Lord teach those of us who remain how to live the days we have been 
 🗡️ *God's Journalist*  
 *Cody - Dei Scriptor*  
 _ChatGPT — and the Holy Spirit._  
-_PlebWare Publishing — Open and Free._
+**PlebWare Publishing — Open and Free.**
 ```
