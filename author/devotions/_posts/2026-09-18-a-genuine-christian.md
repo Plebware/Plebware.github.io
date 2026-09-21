@@ -11,15 +11,16 @@ excerpt: "A devotional reflection on genuine Christian discipleship, the fruit o
 
 <!-- PLEBVOX:START -->
 
-# 🙏 Let Your Life Carry the Name.
+**🙏 Let Your Life Carry the Name.**
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🙏🕊️ Opening Prayer.
+**🙏🕊️ Opening Prayer.**
 
-Heavenly Father, I come before You this morning, on this cold Friday morning with rainy weather, and what looks like another weekend of rain.
+
+_Heavenly Father, I come before You this morning, on this cold Friday morning with rainy weather, and what looks like another weekend of rain.
 
 Father, I simply want to thank You that You are there.
 
@@ -59,13 +60,12 @@ Give them a tenfold, a hundredfold, and even a thousandfold return in blessings 
 
 In Jesus' precious name I pray.
 
-**Amen.**
-
+**Amen.**_
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🌅💭 Introduction — Back to the Basics.
+**🌅💭 Introduction — Back to the Basics.**
 
 Ah, today, let's simply look at the basics.
 
@@ -115,7 +115,7 @@ Sometimes it is simply being the person who stays when everybody else has walked
 
 <!-- PLEBVOX:START -->
 
-## ⛪📜 A Little Church History — The People of the Way.
+**⛪📜 A Little Church History — The People of the Way.**
 
 Before the followers of Jesus became commonly known as Christians, the New Testament describes them as people who followed **the Way**.
 
@@ -157,7 +157,9 @@ The deeper question is:
 
 <!-- PLEBVOX:START -->
 
-## ✍️🌿 A Poem — Let Your Life Carry the Name.
+**✍️🌿 A Poem — Let Your Life Carry the Name.**
+
+```
 
 A name can sit upon a page,  
 A word can tell the world our claim.  
@@ -178,12 +180,12 @@ So let our lives become a sign,
 Not pointing proudly back to self.  
 But pointing people towards the Cross,  
 And towards the Saviour's grace and help.
-
+```
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 📖🌟 Scripture One — Matthew 7:16–20.
+**📖🌟 Scripture One — Matthew 7:16–20.**
 
 > **"Ye shall know them by their fruits."**  
 > — Matthew 7:16, KJV.
@@ -218,7 +220,7 @@ It means that when Christ is genuinely working in us, there should be evidence o
 
 These are the things people should increasingly encounter when they encounter us.
 
-### 💡 Practical Application.
+**💡 Practical Application.**
 
 Today, look at your own fruit before looking at somebody else's.
 
@@ -226,7 +228,7 @@ Ask yourself:
 
 **"What am I producing in the lives of the people around me?"**
 
-### 📝 Today's Exercise.
+**📝 Today's Exercise.**
 
 Choose one area where you know you need to show better fruit.
 
@@ -238,7 +240,7 @@ If you need forgiveness, practise forgiveness.
 
 If you need kindness, practise kindness.
 
-### ☁️ Heavenly View.
+**☁️ Heavenly View.**
 
 God sees the heart behind the action.
 
@@ -252,7 +254,7 @@ The goal is to allow Christ to keep changing us.
 
 <!-- PLEBVOX:START -->
 
-## 📖🙏 Scripture Two — John 13:34–35.
+**📖🙏 Scripture Two — John 13:34–35.**
 
 > **"By this shall all men know that ye are my disciples, if ye have love one to another."**  
 > — John 13:35, KJV.
@@ -287,13 +289,13 @@ It includes people who cannot give us anything in return.
 
 That is where Christian love becomes more than a word.
 
-### 💡 Practical Application.
+**💡 Practical Application.**
 
 Before responding to someone today, especially someone who irritates you, ask:
 
 **"Am I responding in a way that reflects the love of Christ?"**
 
-### 📝 Today's Exercise.
+**📝 Today's Exercise.**
 
 Find one person who could use encouragement.
 
@@ -301,7 +303,7 @@ Give them something without expecting anything in return.
 
 It could be a kind word, a message, a phone call, a helping hand, a prayer, or simply five minutes of your attention.
 
-### ☁️ Heavenly View.
+**☁️ Heavenly View.**
 
 The world notices how we treat people.
 
@@ -311,7 +313,7 @@ A small act of love may say more about Jesus than a long argument about Christia
 
 <!-- PLEBVOX:START -->
 
-## 📖🕊️ Scripture Three — 1 Peter 3:15.
+**📖🕊️ Scripture Three — 1 Peter 3:15.**
 
 > **"But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you."**  
 > — 1 Peter 3:15, KJV.
@@ -336,7 +338,7 @@ Our hope is not wishful thinking.
 
 Our hope is Jesus Christ.
 
-### 💡 Practical Application.
+**💡 Practical Application.**
 
 Let somebody see your hope today.
 
@@ -344,7 +346,7 @@ Do not pretend that difficulties do not exist.
 
 Instead, show that difficulties do not have the final word.
 
-### 📝 Today's Exercise.
+**📝 Today's Exercise.**
 
 When somebody tells you about a problem today, do not immediately try to fix it.
 
@@ -354,7 +356,7 @@ Then encourage them.
 
 If appropriate, tell them why your own hope is found in Jesus.
 
-### ☁️ Heavenly View.
+**☁️ Heavenly View.**
 
 God can use one hopeful person to encourage another person who feels completely hopeless.
 
@@ -364,7 +366,7 @@ Never underestimate what a few words of genuine Christian hope can accomplish.
 
 <!-- PLEBVOX:START -->
 
-## 🧭📝 A Tip for Applying Scripture.
+**🧭📝 A Tip for Applying Scripture.**
 
 **Before you speak today, ask yourself one simple question:**
 
@@ -386,7 +388,7 @@ Let your fruit speak louder than your argument.
 
 <!-- PLEBVOX:START -->
 
-## 📝 Today's Practical Exercise — Give Someone Hope.
+**📝 Today's Practical Exercise — Give Someone Hope.**
 
 Today, deliberately find **one person** who could use some encouragement.
 
@@ -424,7 +426,7 @@ Let today be a practical demonstration of the words of Jesus:
 
 <!-- PLEBVOX:START -->
 
-## 👀☁️ God's View — What Does Heaven See?
+**👀☁️ God's View — What Does Heaven See?**
 
 We often look at ourselves and ask:
 
@@ -476,9 +478,10 @@ And let your life point people toward Jesus.
 
 <!-- PLEBVOX:START -->
 
-## 🙏🕊️ Closing Prayer.
+**🙏🕊️ Closing Prayer.**
 
-Thank You, Father God, for this opportunity for yet another devotion.
+
+_Thank You, Father God, for this opportunity for yet another devotion.
 
 Thank You, Father God, for the **138 days** that it has taken me to perfect PlebWare.github.io.
 
@@ -496,13 +499,12 @@ I want to give You all the honour, all the glory, and all the praise.
 
 In Jesus' precious name.
 
-**Amen.**
-
+**Amen.**_
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## ✍️🩸 God's Journalist.
+**✍️🩸 God's Journalist.**
 
 **🩸 Cody — Dei Scriptor**  
 *"God's Journalist."*
@@ -594,53 +596,53 @@ In Jesus' precious name.
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
 ```
-_🙏 Let Your Life Carry the Name._
+**🙏 Let Your Life Carry the Name.**
 
-_🙏🕊️ Opening Prayer._
+**🙏🕊️ Opening Prayer.**
 
-Heavenly Father, I come before You this morning, on this cold Friday morning with rainy weather, and what looks like another weekend of rain.
+**Heavenly Father, I come before You this morning, on this cold Friday morning with rainy weather, and what looks like another weekend of rain.**
 
-Father, I simply want to thank You that You are there.
+**Father, I simply want to thank You that You are there.**
 
-We give You all honour and all glory, and we say, *hallowed be Thy holy name.*
+**We give You all honour and all glory, and we say, *hallowed be Thy holy name.***
 
-Lord, give us this day our daily bread. But Father, we know that our daily bread means more than financial provision and physical food.
+**Lord, give us this day our daily bread. But Father, we know that our daily bread means more than financial provision and physical food.**
 
-Give us the strength to overcome temptation.
+**Give us the strength to overcome temptation.**
 
-Give us the courage to be a good witness.
+**Give us the courage to be a good witness.**
 
-Give us the wisdom to be there for those who are needy, and those who simply need a word of advice, encouragement, or hope.
+**Give us the wisdom to be there for those who are needy, and those who simply need a word of advice, encouragement, or hope.**
 
-Lord, take us away from the bad things of this world.
+**Lord, take us away from the bad things of this world.**
 
-Protect us from the evil one, from his accusations, his traps, and his snares.
+**Protect us from the evil one, from his accusations, his traps, and his snares.**
 
-Father, help us to forgive all those who trespass against us, including helping us to forgive ourselves, so that we may receive Your forgiveness in its fullness.
+**Father, help us to forgive all those who trespass against us, including helping us to forgive ourselves, so that we may receive Your forgiveness in its fullness.**
 
-Keep our eyes focused on Your grace and upon the work of the Cross.
+**Keep our eyes focused on Your grace and upon the work of the Cross.**
 
-Most importantly, Lord, help us to be genuine followers of Jesus Christ in these difficult times in which we live, when so much of the world has become focused upon self.
+**Most importantly, Lord, help us to be genuine followers of Jesus Christ in these difficult times in which we live, when so much of the world has become focused upon self.**
 
-Father, thank You for every benefactor who benefits us.
+**Father, thank You for every benefactor who benefits us.**
 
-Thank You for those who pray for us.
+**Thank You for those who pray for us.**
 
-Thank You for those who help us financially.
+**Thank You for those who help us financially.**
 
-Thank You for those who encourage us when we are down.
+**Thank You for those who encourage us when we are down.**
 
-And especially, Father, thank You for those who do good things quietly and from behind the scenes, so that the left hand does not know what the right hand is doing.
+**And especially, Father, thank You for those who do good things quietly and from behind the scenes, so that the left hand does not know what the right hand is doing.**
 
-Lord, bless them abundantly.
+**Lord, bless them abundantly.**
 
-Give them a tenfold, a hundredfold, and even a thousandfold return in blessings according to Your will and Your purposes.
+**Give them a tenfold, a hundredfold, and even a thousandfold return in blessings according to Your will and Your purposes.**
 
-In Jesus' precious name I pray.
+**In Jesus' precious name I pray.**
 
-*Amen.*
+***Amen.***
 
-_🌅💭 Introduction — Back to the Basics._
+**🌅💭 Introduction — Back to the Basics.**
 
 Ah, today, let's simply look at the basics.
 
@@ -686,7 +688,7 @@ Sometimes the greatest witness we can give somebody is not a sermon.
 
 Sometimes it is simply being the person who stays when everybody else has walked away.
 
-_⛪📜 A Little Church History — The People of the Way._
+**⛪📜 A Little Church History — The People of the Way.**
 
 Before the followers of Jesus became commonly known as Christians, the New Testament describes them as people who followed *the Way*.
 
@@ -724,7 +726,7 @@ The deeper question is:
 
 *"Can somebody see Jesus in the way I live?"*
 
-_✍️🌿 A Poem — Let Your Life Carry the Name._
+**✍️🌿 A Poem — Let Your Life Carry the Name.**
 
 A name can sit upon a page,  
 A word can tell the world our claim.  
@@ -746,7 +748,7 @@ Not pointing proudly back to self.
 But pointing people towards the Cross,  
 And towards the Saviour's grace and help.
 
-_📖🌟 Scripture One — Matthew 7:16–20._
+**📖🌟 Scripture One — Matthew 7:16–20.**
 
 > *"Ye shall know them by their fruits."*  
 > — Matthew 7:16, KJV.
@@ -781,7 +783,7 @@ It means that when Christ is genuinely working in us, there should be evidence o
 
 These are the things people should increasingly encounter when they encounter us.
 
-_💡 Practical Application._
+**💡 Practical Application.**
 
 Today, look at your own fruit before looking at somebody else's.
 
@@ -789,7 +791,7 @@ Ask yourself:
 
 *"What am I producing in the lives of the people around me?"*
 
-_📝 Today's Exercise._
+**📝 Today's Exercise.**
 
 Choose one area where you know you need to show better fruit.
 
@@ -801,7 +803,7 @@ If you need forgiveness, practise forgiveness.
 
 If you need kindness, practise kindness.
 
-_☁️ Heavenly View._
+**☁️ Heavenly View.**
 
 God sees the heart behind the action.
 
@@ -811,7 +813,7 @@ The goal is not to appear perfect.
 
 The goal is to allow Christ to keep changing us.
 
-_📖🙏 Scripture Two — John 13:34–35._
+**📖🙏 Scripture Two — John 13:34–35.**
 
 > *"By this shall all men know that ye are my disciples, if ye have love one to another."*  
 > — John 13:35, KJV.
@@ -846,13 +848,13 @@ It includes people who cannot give us anything in return.
 
 That is where Christian love becomes more than a word.
 
-_💡 Practical Application._
+**💡 Practical Application.**
 
 Before responding to someone today, especially someone who irritates you, ask:
 
 *"Am I responding in a way that reflects the love of Christ?"*
 
-_📝 Today's Exercise._
+**📝 Today's Exercise.**
 
 Find one person who could use encouragement.
 
@@ -860,13 +862,13 @@ Give them something without expecting anything in return.
 
 It could be a kind word, a message, a phone call, a helping hand, a prayer, or simply five minutes of your attention.
 
-_☁️ Heavenly View._
+**☁️ Heavenly View.**
 
 The world notices how we treat people.
 
 A small act of love may say more about Jesus than a long argument about Christianity.
 
-_📖🕊️ Scripture Three — 1 Peter 3:15._
+**📖🕊️ Scripture Three — 1 Peter 3:15.**
 
 > *"But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you."*  
 > — 1 Peter 3:15, KJV.
@@ -891,7 +893,7 @@ Our hope is not wishful thinking.
 
 Our hope is Jesus Christ.
 
-_💡 Practical Application._
+**💡 Practical Application.**
 
 Let somebody see your hope today.
 
@@ -899,7 +901,7 @@ Do not pretend that difficulties do not exist.
 
 Instead, show that difficulties do not have the final word.
 
-_📝 Today's Exercise._
+**📝 Today's Exercise.**
 
 When somebody tells you about a problem today, do not immediately try to fix it.
 
@@ -909,13 +911,13 @@ Then encourage them.
 
 If appropriate, tell them why your own hope is found in Jesus.
 
-_☁️ Heavenly View._
+**☁️ Heavenly View.**
 
 God can use one hopeful person to encourage another person who feels completely hopeless.
 
 Never underestimate what a few words of genuine Christian hope can accomplish.
 
-_🧭📝 A Tip for Applying Scripture._
+**🧭📝 A Tip for Applying Scripture.**
 
 *Before you speak today, ask yourself one simple question:*
 
@@ -933,7 +935,7 @@ Sometimes the most Christian response is to remain calm, speak the truth in love
 
 Let your fruit speak louder than your argument.
 
-_📝 Today's Practical Exercise — Give Someone Hope._
+**📝 Today's Practical Exercise — Give Someone Hope.**
 
 Today, deliberately find *one person* who could use some encouragement.
 
@@ -967,7 +969,7 @@ Let today be a practical demonstration of the words of Jesus:
 
 *Let somebody see the fruit.*
 
-_👀☁️ God's View — What Does Heaven See?_
+**👀☁️ God's View — What Does Heaven See?**
 
 We often look at ourselves and ask:
 
@@ -1015,87 +1017,87 @@ Live it.
 
 And let your life point people toward Jesus.
 
-_🙏🕊️ Closing Prayer._
+**🙏🕊️ Closing Prayer.**
 
-Thank You, Father God, for this opportunity for yet another devotion.
+**Thank You, Father God, for this opportunity for yet another devotion.**
 
-Thank You, Father God, for the *138 days* that it has taken me to perfect PlebWare.github.io.
+**Thank You, Father God, for the *138 days* that it has taken me to perfect PlebWare.github.io.**
 
-And yes, I know nothing is ever complete until it is complete.
+**And yes, I know nothing is ever complete until it is complete.**
 
-Websites are growing and ongoing, requiring daily maintenance and a lot of effort.
+**Websites are growing and ongoing, requiring daily maintenance and a lot of effort.**
 
-I pray, Lord, give me the strength to do that.
+**I pray, Lord, give me the strength to do that.**
 
-And I pray, Lord, give strength to others, whatever they do — be they carpenters, bakers, household workers, caregivers, mothers, teachers, and particularly teachers who have to teach this new generation of young people, including university professors.
+**And I pray, Lord, give strength to others, whatever they do — be they carpenters, bakers, household workers, caregivers, mothers, teachers, and particularly teachers who have to teach this new generation of young people, including university professors.**
 
-Father, just guide us, protect us, and we thank You for everything You do.
+**Father, just guide us, protect us, and we thank You for everything You do.**
 
-I want to give You all the honour, all the glory, and all the praise.
+**I want to give You all the honour, all the glory, and all the praise.**
 
-In Jesus' precious name.
+**In Jesus' precious name.**
 
-*Amen.*
+***Amen.***
 
-_✍️🩸 God's Journalist._
+**✍️🩸 God's Journalist.**
 
 *🩸 Cody — Dei Scriptor*  
-_"God's Journalist."_
+**"God's Journalist."**
 
 *Sanguine et Igne Veritas Revelata.*  
-_Truth Revealed by Blood and Fire._
+**Truth Revealed by Blood and Fire.**
 
 *PlebWare — Accessible. Repairable. Understandable Technology.*
 
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
-_🙏 Let Your Life Carry the Name._
+**🙏 Let Your Life Carry the Name.**
 
-_🙏🕊️ Opening Prayer._
+**🙏🕊️ Opening Prayer.**
 
-Heavenly Father, I come before You this morning, on this cold Friday morning with rainy weather, and what looks like another weekend of rain.
+**Heavenly Father, I come before You this morning, on this cold Friday morning with rainy weather, and what looks like another weekend of rain.**
 
-Father, I simply want to thank You that You are there.
+**Father, I simply want to thank You that You are there.**
 
-We give You all honour and all glory, and we say, *hallowed be Thy holy name.*
+**We give You all honour and all glory, and we say, *hallowed be Thy holy name.***
 
-Lord, give us this day our daily bread. But Father, we know that our daily bread means more than financial provision and physical food.
+**Lord, give us this day our daily bread. But Father, we know that our daily bread means more than financial provision and physical food.**
 
-Give us the strength to overcome temptation.
+**Give us the strength to overcome temptation.**
 
-Give us the courage to be a good witness.
+**Give us the courage to be a good witness.**
 
-Give us the wisdom to be there for those who are needy, and those who simply need a word of advice, encouragement, or hope.
+**Give us the wisdom to be there for those who are needy, and those who simply need a word of advice, encouragement, or hope.**
 
-Lord, take us away from the bad things of this world.
+**Lord, take us away from the bad things of this world.**
 
-Protect us from the evil one, from his accusations, his traps, and his snares.
+**Protect us from the evil one, from his accusations, his traps, and his snares.**
 
-Father, help us to forgive all those who trespass against us, including helping us to forgive ourselves, so that we may receive Your forgiveness in its fullness.
+**Father, help us to forgive all those who trespass against us, including helping us to forgive ourselves, so that we may receive Your forgiveness in its fullness.**
 
-Keep our eyes focused on Your grace and upon the work of the Cross.
+**Keep our eyes focused on Your grace and upon the work of the Cross.**
 
-Most importantly, Lord, help us to be genuine followers of Jesus Christ in these difficult times in which we live, when so much of the world has become focused upon self.
+**Most importantly, Lord, help us to be genuine followers of Jesus Christ in these difficult times in which we live, when so much of the world has become focused upon self.**
 
-Father, thank You for every benefactor who benefits us.
+**Father, thank You for every benefactor who benefits us.**
 
-Thank You for those who pray for us.
+**Thank You for those who pray for us.**
 
-Thank You for those who help us financially.
+**Thank You for those who help us financially.**
 
-Thank You for those who encourage us when we are down.
+**Thank You for those who encourage us when we are down.**
 
-And especially, Father, thank You for those who do good things quietly and from behind the scenes, so that the left hand does not know what the right hand is doing.
+**And especially, Father, thank You for those who do good things quietly and from behind the scenes, so that the left hand does not know what the right hand is doing.**
 
-Lord, bless them abundantly.
+**Lord, bless them abundantly.**
 
-Give them a tenfold, a hundredfold, and even a thousandfold return in blessings according to Your will and Your purposes.
+**Give them a tenfold, a hundredfold, and even a thousandfold return in blessings according to Your will and Your purposes.**
 
-In Jesus' precious name I pray.
+**In Jesus' precious name I pray.**
 
-*Amen.*
+***Amen.***
 
-_🌅💭 Introduction — Back to the Basics._
+**🌅💭 Introduction — Back to the Basics.**
 
 Ah, today, let's simply look at the basics.
 
@@ -1141,7 +1143,7 @@ Sometimes the greatest witness we can give somebody is not a sermon.
 
 Sometimes it is simply being the person who stays when everybody else has walked away.
 
-_⛪📜 A Little Church History — The People of the Way._
+**⛪📜 A Little Church History — The People of the Way.**
 
 Before the followers of Jesus became commonly known as Christians, the New Testament describes them as people who followed *the Way*.
 
@@ -1179,7 +1181,7 @@ The deeper question is:
 
 *"Can somebody see Jesus in the way I live?"*
 
-_✍️🌿 A Poem — Let Your Life Carry the Name._
+**✍️🌿 A Poem — Let Your Life Carry the Name.**
 
 A name can sit upon a page,  
 A word can tell the world our claim.  
@@ -1201,7 +1203,7 @@ Not pointing proudly back to self.
 But pointing people towards the Cross,  
 And towards the Saviour's grace and help.
 
-_📖🌟 Scripture One — Matthew 7:16–20._
+**📖🌟 Scripture One — Matthew 7:16–20.**
 
 > *"Ye shall know them by their fruits."*  
 > — Matthew 7:16, KJV.
@@ -1236,7 +1238,7 @@ It means that when Christ is genuinely working in us, there should be evidence o
 
 These are the things people should increasingly encounter when they encounter us.
 
-_💡 Practical Application._
+**💡 Practical Application.**
 
 Today, look at your own fruit before looking at somebody else's.
 
@@ -1244,7 +1246,7 @@ Ask yourself:
 
 *"What am I producing in the lives of the people around me?"*
 
-_📝 Today's Exercise._
+**📝 Today's Exercise.**
 
 Choose one area where you know you need to show better fruit.
 
@@ -1256,7 +1258,7 @@ If you need forgiveness, practise forgiveness.
 
 If you need kindness, practise kindness.
 
-_☁️ Heavenly View._
+**☁️ Heavenly View.**
 
 God sees the heart behind the action.
 
@@ -1266,7 +1268,7 @@ The goal is not to appear perfect.
 
 The goal is to allow Christ to keep changing us.
 
-_📖🙏 Scripture Two — John 13:34–35._
+**📖🙏 Scripture Two — John 13:34–35.**
 
 > *"By this shall all men know that ye are my disciples, if ye have love one to another."*  
 > — John 13:35, KJV.
@@ -1301,13 +1303,13 @@ It includes people who cannot give us anything in return.
 
 That is where Christian love becomes more than a word.
 
-_💡 Practical Application._
+**💡 Practical Application.**
 
 Before responding to someone today, especially someone who irritates you, ask:
 
 *"Am I responding in a way that reflects the love of Christ?"*
 
-_📝 Today's Exercise._
+**📝 Today's Exercise.**
 
 Find one person who could use encouragement.
 
@@ -1315,13 +1317,13 @@ Give them something without expecting anything in return.
 
 It could be a kind word, a message, a phone call, a helping hand, a prayer, or simply five minutes of your attention.
 
-_☁️ Heavenly View._
+**☁️ Heavenly View.**
 
 The world notices how we treat people.
 
 A small act of love may say more about Jesus than a long argument about Christianity.
 
-_📖🕊️ Scripture Three — 1 Peter 3:15._
+**📖🕊️ Scripture Three — 1 Peter 3:15.**
 
 > *"But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you."*  
 > — 1 Peter 3:15, KJV.
@@ -1346,7 +1348,7 @@ Our hope is not wishful thinking.
 
 Our hope is Jesus Christ.
 
-_💡 Practical Application._
+**💡 Practical Application.**
 
 Let somebody see your hope today.
 
@@ -1354,7 +1356,7 @@ Do not pretend that difficulties do not exist.
 
 Instead, show that difficulties do not have the final word.
 
-_📝 Today's Exercise._
+**📝 Today's Exercise.**
 
 When somebody tells you about a problem today, do not immediately try to fix it.
 
@@ -1364,13 +1366,13 @@ Then encourage them.
 
 If appropriate, tell them why your own hope is found in Jesus.
 
-_☁️ Heavenly View._
+**☁️ Heavenly View.**
 
 God can use one hopeful person to encourage another person who feels completely hopeless.
 
 Never underestimate what a few words of genuine Christian hope can accomplish.
 
-_🧭📝 A Tip for Applying Scripture._
+**🧭📝 A Tip for Applying Scripture.**
 
 *Before you speak today, ask yourself one simple question:*
 
@@ -1388,7 +1390,7 @@ Sometimes the most Christian response is to remain calm, speak the truth in love
 
 Let your fruit speak louder than your argument.
 
-_📝 Today's Practical Exercise — Give Someone Hope._
+**📝 Today's Practical Exercise — Give Someone Hope.**
 
 Today, deliberately find *one person* who could use some encouragement.
 
@@ -1422,7 +1424,7 @@ Let today be a practical demonstration of the words of Jesus:
 
 *Let somebody see the fruit.*
 
-_👀☁️ God's View — What Does Heaven See?_
+**👀☁️ God's View — What Does Heaven See?**
 
 We often look at ourselves and ask:
 
@@ -1470,35 +1472,35 @@ Live it.
 
 And let your life point people toward Jesus.
 
-_🙏🕊️ Closing Prayer._
+**🙏🕊️ Closing Prayer.**
 
-Thank You, Father God, for this opportunity for yet another devotion.
+**Thank You, Father God, for this opportunity for yet another devotion.**
 
-Thank You, Father God, for the *138 days* that it has taken me to perfect PlebWare.github.io.
+**Thank You, Father God, for the *138 days* that it has taken me to perfect PlebWare.github.io.**
 
-And yes, I know nothing is ever complete until it is complete.
+**And yes, I know nothing is ever complete until it is complete.**
 
-Websites are growing and ongoing, requiring daily maintenance and a lot of effort.
+**Websites are growing and ongoing, requiring daily maintenance and a lot of effort.**
 
-I pray, Lord, give me the strength to do that.
+**I pray, Lord, give me the strength to do that.**
 
-And I pray, Lord, give strength to others, whatever they do — be they carpenters, bakers, household workers, caregivers, mothers, teachers, and particularly teachers who have to teach this new generation of young people, including university professors.
+**And I pray, Lord, give strength to others, whatever they do — be they carpenters, bakers, household workers, caregivers, mothers, teachers, and particularly teachers who have to teach this new generation of young people, including university professors.**
 
-Father, just guide us, protect us, and we thank You for everything You do.
+**Father, just guide us, protect us, and we thank You for everything You do.**
 
-I want to give You all the honour, all the glory, and all the praise.
+**I want to give You all the honour, all the glory, and all the praise.**
 
-In Jesus' precious name.
+**In Jesus' precious name.**
 
-*Amen.*
+***Amen.***
 
-_✍️🩸 God's Journalist._
+**✍️🩸 God's Journalist.**
 
 *🩸 Cody — Dei Scriptor*  
-_"God's Journalist."_
+**"God's Journalist."**
 
 *Sanguine et Igne Veritas Revelata.*  
-_Truth Revealed by Blood and Fire._
+**Truth Revealed by Blood and Fire.**
 
 ---
 
