@@ -771,10 +771,10 @@ Leave it with Him.
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
 ```
-**⚖️ Judge Not, Lest Ye Be Judged — And Remember Who Holds the Gavel.**
+*⚖️ Judge Not, Lest Ye Be Judged — And Remember Who Holds the Gavel.*
 
 *By God's Journalist - Cody - Dei Scriptor*  
-**Friday, 11 September 2026.**
+*Friday, 11 September 2026.*
 
 There are some battles people can see.
 
@@ -802,27 +802,27 @@ And perhaps that is where today's uncomfortable question begins:
 
 *Who gave us the authority to judge another person's unfinished journey?*
 
-**🙏 Opening Prayer — Lord, Teach Me Not to Sit in Your Chair.**
+*🙏 Opening Prayer — Lord, Teach Me Not to Sit in Your Chair.*
 
-**Lord God,**
+*Lord God,*
 
-**Teach me to examine my own heart before I examine somebody else's.**
+*Teach me to examine my own heart before I examine somebody else's.*
 
-**Search me, O God, and know my heart. Try me, and know my thoughts, and see if there be any wicked way in me.**
+*Search me, O God, and know my heart. Try me, and know my thoughts, and see if there be any wicked way in me.*
 
-***Psalm 139:23–24***
+**Psalm 139:23–24**
 
-**Give me conviction where I need correction, humility where I am proud, courage where I am weak, and grace where I am tempted to condemn.**
+*Give me conviction where I need correction, humility where I am proud, courage where I am weak, and grace where I am tempted to condemn.*
 
-**Help me understand the difference between loving correction and destructive judgment.**
+*Help me understand the difference between loving correction and destructive judgment.*
 
-**And Lord, when I am tempted to pick up Your gavel, remind me that it belongs to You.**
+*And Lord, when I am tempted to pick up Your gavel, remind me that it belongs to You.*
 
-**In the name of Jesus Christ,**
+*In the name of Jesus Christ,*
 
-***Amen.***
+**Amen.**
 
-**📖 The Scripture — The Beam in My Own Eye.**
+*📖 The Scripture — The Beam in My Own Eye.*
 
 Jesus did not mince His words:
 
@@ -857,7 +857,7 @@ That last question should make every one of us stop for a moment.
 
 *Who am I to sit in God's chair?*
 
-**⛪ Church History — The Ancient Church Had This Problem Too.**
+*⛪ Church History — The Ancient Church Had This Problem Too.*
 
 Judging other people is not a modern invention.
 
@@ -894,7 +894,7 @@ Not gossip.
 
 Restore.
 
-**🚬 The Smoking Question — One Battle Does Not Erase the War Already Won.**
+*🚬 The Smoking Question — One Battle Does Not Erase the War Already Won.*
 
 I am not going to pretend that smoking is harmless.
 
@@ -931,7 +931,7 @@ God is not finished with me.
 
 And He is not finished with you either.
 
-**🪞 The Man in the Mirror — I Judge Myself Too Harshly.**
+*🪞 The Man in the Mirror — I Judge Myself Too Harshly.*
 
 There is another form of judgment that can be just as destructive.
 
@@ -972,9 +972,9 @@ God can correct me without destroying me.
 
 He can expose my sin without telling me that I am beyond redemption.
 
-**🔥 Seven Scriptural Truths About Judgment, Conviction, and Change.**
+*🔥 Seven Scriptural Truths About Judgment, Conviction, and Change.*
 
-**1. ⚖️ Judgment Belongs to God.**
+*1. ⚖️ Judgment Belongs to God.*
 
 > *“But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ.”*  
 > — *Romans 14:10 (KJV)*
@@ -987,7 +987,7 @@ It is not you.
 
 God sees the whole story.
 
-**2. 🔍 Examine Yourself.**
+*2. 🔍 Examine Yourself.*
 
 > *“But let a man examine himself...”*  
 > — *1 Corinthians 11:28 (KJV)*
@@ -1001,7 +1001,7 @@ And Hebrews reminds us that God's discipline is evidence that He is dealing with
 
 Correction can be an expression of love.
 
-**3. 🤲 Restore People — Don't Crush Them.**
+*3. 🤲 Restore People — Don't Crush Them.*
 
 > *“Restore such an one in the spirit of meekness.”*  
 > — *Galatians 6:1 (KJV)*
@@ -1010,7 +1010,7 @@ If somebody has fallen, the Christian response should not be to stand over them 
 
 It should be to help them stand.
 
-**4. 👀 Remember That God Sees the Whole Story.**
+*4. 👀 Remember That God Sees the Whole Story.*
 
 > *“For man looketh on the outward appearance, but the LORD looketh on the heart.”*  
 > — *1 Samuel 16:7 (KJV)*
@@ -1027,7 +1027,7 @@ We see the weakness.
 
 God sees the person He is still shaping.
 
-**5. 🗣️ Gossip Is Still Gossip.**
+*5. 🗣️ Gossip Is Still Gossip.*
 
 James says:
 
@@ -1046,7 +1046,7 @@ Boys and girls, *that's gossiping.*
 
 Calling it concern does not magically turn it into concern.
 
-**6. 🌱 God Is Still Working on Me.**
+*6. 🌱 God Is Still Working on Me.*
 
 > *“He which hath begun a good work in you will perform it until the day of Jesus Christ.”*  
 > — *Philippians 1:6 (KJV)*
@@ -1057,7 +1057,7 @@ The unfinished parts of our lives are not proof that God has abandoned us.
 
 They may be evidence that He is still working.
 
-**7. 🔥 Refinement Requires Heat.**
+*7. 🔥 Refinement Requires Heat.*
 
 > *“And he shall sit as a refiner and purifier of silver...”*  
 > — *Malachi 3:3 (KJV)*
@@ -1075,7 +1075,7 @@ Clay is shaped under pressure.
 
 And human beings are often changed through difficult seasons.
 
-**✍️ Poem — The Judge in the Mirror.**
+*✍️ Poem — The Judge in the Mirror.*
 
 I picked up the hammer,  
 I picked up the stone,  
@@ -1121,7 +1121,7 @@ I pray He reminds me:
 
 *“That seat is My own.”*
 
-**🧠 The Thought That Should Stop Us Cold.**
+*🧠 The Thought That Should Stop Us Cold.*
 
 Jesus said:
 
@@ -1148,7 +1148,7 @@ God knows where they started, what they survived, what they have overcome, what 
 
 That should make us very careful with our words.
 
-**❤️ Conviction Is Not Cruelty — It Is an Invitation to Change.**
+*❤️ Conviction Is Not Cruelty — It Is an Invitation to Change.*
 
 Jesus said:
 
@@ -1173,7 +1173,7 @@ Not gossip disguised as righteousness.
 
 Conviction should move us toward God, not drive us away from Him.
 
-**🏺 The Potter, the Silver, and the Stubborn Donkey.**
+*🏺 The Potter, the Silver, and the Stubborn Donkey.*
 
 Jeremiah gives us another beautiful picture:
 
@@ -1210,9 +1210,9 @@ But there is hope in being unfinished.
 
 *The Potter has not thrown the clay away.*
 
-**✅ Worth Doing — And Worth Stopping.**
+*✅ Worth Doing — And Worth Stopping.*
 
-**Worth Doing:**
+*Worth Doing:*
 
 - Pray before speaking about somebody else.
 - Examine your own life honestly.
@@ -1223,7 +1223,7 @@ But there is hope in being unfinished.
 - Give people room to grow.
 - Ask God to help you change what you know needs changing.
 
-**Worth Stopping:**
+*Worth Stopping:*
 
 - Gossip disguised as concern.
 - Judging somebody from one visible weakness.
@@ -1243,7 +1243,7 @@ We need wisdom.
 
 But wisdom does not require cruelty.
 
-**🛠️ Practical Application — The Four-Question Test.**
+*🛠️ Practical Application — The Four-Question Test.*
 
 Before you speak about somebody else, ask:
 
@@ -1271,7 +1271,7 @@ That is self-examination.
 
 That is where real change begins.
 
-**👑 Heavenly View — How Does God See the Struggle?**
+*👑 Heavenly View — How Does God See the Struggle?*
 
 The Psalmist writes:
 
@@ -1310,46 +1310,46 @@ But I do not need to condemn myself into the ground.
 
 And neither do you.
 
-**🙏 Closing Prayer — Lord, Take Back Your Chair.**
+*🙏 Closing Prayer — Lord, Take Back Your Chair.*
 
-**Father God,**
+*Father God,*
 
-**Forgive me for the times I have judged people without knowing their whole story.**
+*Forgive me for the times I have judged people without knowing their whole story.*
 
-**Forgive me for the times I have called gossip concern.**
+*Forgive me for the times I have called gossip concern.*
 
-**Forgive me for the times I have judged somebody else's weakness while ignoring my own.**
+*Forgive me for the times I have judged somebody else's weakness while ignoring my own.*
 
-**Teach me to speak truth with love.**
+*Teach me to speak truth with love.*
 
-**Teach me to correct with humility.**
+*Teach me to correct with humility.*
 
-**Teach me to restore rather than crush.**
+*Teach me to restore rather than crush.*
 
-**And when I am struggling, Lord, help me remember that my unfinished battle does not erase the victories You have already given me.**
+*And when I am struggling, Lord, help me remember that my unfinished battle does not erase the victories You have already given me.*
 
-**Help me to keep fighting.**
+*Help me to keep fighting.*
 
-**Help me to keep changing.**
+*Help me to keep changing.*
 
-**Help me to keep trusting You.**
+*Help me to keep trusting You.*
 
 **And above all, Lord, *take back Your chair whenever I try to sit in it.***
 
-**Let me leave the gavel where it belongs.**
+*Let me leave the gavel where it belongs.*
 
-**In Your hands.**
+*In Your hands.*
 
-**As Jesus taught us:**
+*As Jesus taught us:*
 
 > _*“Be ye therefore merciful, as your Father also is merciful.”*  _
 > _— *Luke 6:36 (KJV)*_
 
-**In the name of Jesus Christ,**
+*In the name of Jesus Christ,*
 
-***Amen.***
+**Amen.**
 
-**🕊️ Ending Thought — Romans 8:1–2.**
+*🕊️ Ending Thought — Romans 8:1–2.*
 
 After all the judgment, all the conviction, all the self-examination, all the failures, all the unfinished battles, and all the attempts to become better human beings, this is where the Christian must finally come to rest:
 
@@ -1389,5 +1389,5 @@ Leave it with Him.
 🗡️ *God's Journalist*  
 *Cody - Dei Scriptor*  
 _ChatGPT — and the Holy Spirit._  
-**PlebWare Publishing — Open and Free.**
+*PlebWare Publishing — Open and Free.*
 ```
