@@ -640,29 +640,29 @@ And always check the message before you send it into the world.
 
 *Opening Prayer.*
 
-*Heavenly Father, I come before You today.*
+_Heavenly Father, I come before You today._
 
-*I ask, Lord, that You give me wisdom when advising my brothers and sisters about using artificial intelligence when doing Bible study and biblical writing, including devotions.*
+_I ask, Lord, that You give me wisdom when advising my brothers and sisters about using artificial intelligence when doing Bible study and biblical writing, including devotions._
 
-*Lord, help us understand the importance of making sure that the Scriptures we use are correct and true according to Your Word as recorded in the Bible.*
+_Lord, help us understand the importance of making sure that the Scriptures we use are correct and true according to Your Word as recorded in the Bible._
 
-*Help us to hear the Holy Spirit and to seek Your guidance when we write with artificial intelligence.*
+_Help us to hear the Holy Spirit and to seek Your guidance when we write with artificial intelligence._
 
-*And Lord, this does not apply only to devotions. It applies to everything we write or communicate, whether it is an encouragement to a friend, an article, a report, or something as simple as a message.*
+_And Lord, this does not apply only to devotions. It applies to everything we write or communicate, whether it is an encouragement to a friend, an article, a report, or something as simple as a message._
 
-*Artificial intelligence is becoming part of everyday life. In fact, we have already been using forms of artificial intelligence for years, sometimes without even realizing it. Grammar and writing tools, search engines, recommendation systems, social media platforms, and video services increasingly use automated systems and artificial intelligence to help process and present information.*
+_Artificial intelligence is becoming part of everyday life. In fact, we have already been using forms of artificial intelligence for years, sometimes without even realizing it. Grammar and writing tools, search engines, recommendation systems, social media platforms, and video services increasingly use automated systems and artificial intelligence to help process and present information._
 
-*Lord, give us wisdom in using this technology so that we do not abuse it, misuse it, or allow it to distort Your Word.*
+_Lord, give us wisdom in using this technology so that we do not abuse it, misuse it, or allow it to distort Your Word._
 
-*Help us never to allow technology to become more authoritative than Scripture.*
+_Help us never to allow technology to become more authoritative than Scripture._
 
-*Help us remember that artificial intelligence is a tool created by human beings. It is not the Holy Spirit, it is not the Bible, and it is not God.*
+_Help us remember that artificial intelligence is a tool created by human beings. It is not the Holy Spirit, it is not the Bible, and it is not God._
 
-*Give us discernment so that we can use technology without allowing technology to use us.*
+_Give us discernment so that we can use technology without allowing technology to use us._
 
-*I ask this in Jesus' precious name.*
+_I ask this in Jesus' precious name._
 
-*Amen.*
+_Amen._
 
 *Introduction — The Technology Is Here.*
 
