@@ -770,6 +770,7 @@ Leave it with Him.
 
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
+```
 _⚖️ Judge Not, Lest Ye Be Judged — And Remember Who Holds the Gavel._
 
 *By God's Journalist - Cody - Dei Scriptor*  
@@ -1389,3 +1390,4 @@ Leave it with Him.
 *Cody - Dei Scriptor*  
 _ChatGPT — and the Holy Spirit._  
 _PlebWare Publishing — Open and Free._
+```
