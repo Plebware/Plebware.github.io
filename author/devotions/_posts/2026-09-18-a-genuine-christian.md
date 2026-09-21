@@ -600,47 +600,47 @@ Amen._
 
 *🙏🕊️ Opening Prayer.*
 
-*Heavenly Father, I come before You this morning, on this cold Friday morning with rainy weather, and what looks like another weekend of rain.*
+_Heavenly Father, I come before You this morning, on this cold Friday morning with rainy weather, and what looks like another weekend of rain._
 
-*Father, I simply want to thank You that You are there.*
+_Father, I simply want to thank You that You are there._
 
-**We give You all honour and all glory, and we say, *hallowed be Thy holy name.***
+_We give You all honour and all glory, and we say, hallowed be Thy holy name._
 
-*Lord, give us this day our daily bread. But Father, we know that our daily bread means more than financial provision and physical food.*
+_Lord, give us this day our daily bread. But Father, we know that our daily bread means more than financial provision and physical food._
 
-*Give us the strength to overcome temptation.*
+_Give us the strength to overcome temptation._
 
-*Give us the courage to be a good witness.*
+_Give us the courage to be a good witness._
 
-*Give us the wisdom to be there for those who are needy, and those who simply need a word of advice, encouragement, or hope.*
+_Give us the wisdom to be there for those who are needy, and those who simply need a word of advice, encouragement, or hope._
 
-*Lord, take us away from the bad things of this world.*
+_Lord, take us away from the bad things of this world._
 
-*Protect us from the evil one, from his accusations, his traps, and his snares.*
+_Protect us from the evil one, from his accusations, his traps, and his snares._
 
-*Father, help us to forgive all those who trespass against us, including helping us to forgive ourselves, so that we may receive Your forgiveness in its fullness.*
+_Father, help us to forgive all those who trespass against us, including helping us to forgive ourselves, so that we may receive Your forgiveness in its fullness._
 
-*Keep our eyes focused on Your grace and upon the work of the Cross.*
+_Keep our eyes focused on Your grace and upon the work of the Cross._
 
-*Most importantly, Lord, help us to be genuine followers of Jesus Christ in these difficult times in which we live, when so much of the world has become focused upon self.*
+_Most importantly, Lord, help us to be genuine followers of Jesus Christ in these difficult times in which we live, when so much of the world has become focused upon self._
 
-*Father, thank You for every benefactor who benefits us.*
+_Father, thank You for every benefactor who benefits us._
 
-*Thank You for those who pray for us.*
+_Thank You for those who pray for us._
 
-*Thank You for those who help us financially.*
+_Thank You for those who help us financially._
 
-*Thank You for those who encourage us when we are down.*
+_Thank You for those who encourage us when we are down._
 
-*And especially, Father, thank You for those who do good things quietly and from behind the scenes, so that the left hand does not know what the right hand is doing.*
+_And especially, Father, thank You for those who do good things quietly and from behind the scenes, so that the left hand does not know what the right hand is doing._
 
-*Lord, bless them abundantly.*
+_Lord, bless them abundantly._
 
-*Give them a tenfold, a hundredfold, and even a thousandfold return in blessings according to Your will and Your purposes.*
+_Give them a tenfold, a hundredfold, and even a thousandfold return in blessings according to Your will and Your purposes._
 
-*In Jesus' precious name I pray.*
+_In Jesus' precious name I pray._
 
-**Amen.**
+_Amen._
 
 *🌅💭 Introduction — Back to the Basics.*
 
@@ -1019,83 +1019,83 @@ And let your life point people toward Jesus.
 
 *🙏🕊️ Closing Prayer.*
 
-*Thank You, Father God, for this opportunity for yet another devotion.*
+_Thank You, Father God, for this opportunity for yet another devotion._
 
-**Thank You, Father God, for the *138 days* that it has taken me to perfect PlebWare.github.io.**
+_Thank You, Father God, for the 138 days that it has taken me to perfect PlebWare.github.io._
 
-*And yes, I know nothing is ever complete until it is complete.*
+_And yes, I know nothing is ever complete until it is complete._
 
-*Websites are growing and ongoing, requiring daily maintenance and a lot of effort.*
+_Websites are growing and ongoing, requiring daily maintenance and a lot of effort._
 
-*I pray, Lord, give me the strength to do that.*
+_I pray, Lord, give me the strength to do that._
 
-*And I pray, Lord, give strength to others, whatever they do — be they carpenters, bakers, household workers, caregivers, mothers, teachers, and particularly teachers who have to teach this new generation of young people, including university professors.*
+_And I pray, Lord, give strength to others, whatever they do — be they carpenters, bakers, household workers, caregivers, mothers, teachers, and particularly teachers who have to teach this new generation of young people, including university professors._
 
-*Father, just guide us, protect us, and we thank You for everything You do.*
+_Father, just guide us, protect us, and we thank You for everything You do._
 
-*I want to give You all the honour, all the glory, and all the praise.*
+_I want to give You all the honour, all the glory, and all the praise._
 
-*In Jesus' precious name.*
+_In Jesus' precious name._
 
-**Amen.**
+_Amen._
 
-*✍️🩸 God's Journalist.*
+_✍️🩸 God's Journalist._
 
-*🩸 Cody — Dei Scriptor*  
-*"God's Journalist."*
+_🩸 Cody — Dei Scriptor  _
+_"God's Journalist."_
 
-*Sanguine et Igne Veritas Revelata.*  
-*Truth Revealed by Blood and Fire.*
+_Sanguine et Igne Veritas Revelata.  _
+_Truth Revealed by Blood and Fire._
 
-*PlebWare — Accessible. Repairable. Understandable Technology.*
+_PlebWare — Accessible. Repairable. Understandable Technology._
 
-*📱 WHATSAPP COPY-AND-PASTE VERSION*
+_📱 WHATSAPP COPY-AND-PASTE VERSION_
 
-*🙏 Let Your Life Carry the Name.*
+_🙏 Let Your Life Carry the Name._
 
-*🙏🕊️ Opening Prayer.*
+_🙏🕊️ Opening Prayer._
 
-*Heavenly Father, I come before You this morning, on this cold Friday morning with rainy weather, and what looks like another weekend of rain.*
+_Heavenly Father, I come before You this morning, on this cold Friday morning with rainy weather, and what looks like another weekend of rain._
 
-*Father, I simply want to thank You that You are there.*
+_Father, I simply want to thank You that You are there._
 
-**We give You all honour and all glory, and we say, *hallowed be Thy holy name.***
+_We give You all honour and all glory, and we say, hallowed be Thy holy name._
 
-*Lord, give us this day our daily bread. But Father, we know that our daily bread means more than financial provision and physical food.*
+_Lord, give us this day our daily bread. But Father, we know that our daily bread means more than financial provision and physical food._
 
-*Give us the strength to overcome temptation.*
+_Give us the strength to overcome temptation._
 
-*Give us the courage to be a good witness.*
+_Give us the courage to be a good witness._
 
-*Give us the wisdom to be there for those who are needy, and those who simply need a word of advice, encouragement, or hope.*
+_Give us the wisdom to be there for those who are needy, and those who simply need a word of advice, encouragement, or hope._
 
-*Lord, take us away from the bad things of this world.*
+_Lord, take us away from the bad things of this world._
 
-*Protect us from the evil one, from his accusations, his traps, and his snares.*
+_Protect us from the evil one, from his accusations, his traps, and his snares._
 
-*Father, help us to forgive all those who trespass against us, including helping us to forgive ourselves, so that we may receive Your forgiveness in its fullness.*
+_Father, help us to forgive all those who trespass against us, including helping us to forgive ourselves, so that we may receive Your forgiveness in its fullness._
 
-*Keep our eyes focused on Your grace and upon the work of the Cross.*
+_Keep our eyes focused on Your grace and upon the work of the Cross._
 
-*Most importantly, Lord, help us to be genuine followers of Jesus Christ in these difficult times in which we live, when so much of the world has become focused upon self.*
+_Most importantly, Lord, help us to be genuine followers of Jesus Christ in these difficult times in which we live, when so much of the world has become focused upon self._
 
-*Father, thank You for every benefactor who benefits us.*
+_Father, thank You for every benefactor who benefits us._
 
-*Thank You for those who pray for us.*
+_Thank You for those who pray for us._
 
-*Thank You for those who help us financially.*
+_Thank You for those who help us financially._
 
-*Thank You for those who encourage us when we are down.*
+_Thank You for those who encourage us when we are down._
 
-*And especially, Father, thank You for those who do good things quietly and from behind the scenes, so that the left hand does not know what the right hand is doing.*
+_And especially, Father, thank You for those who do good things quietly and from behind the scenes, so that the left hand does not know what the right hand is doing._
 
-*Lord, bless them abundantly.*
+_Lord, bless them abundantly._
 
-*Give them a tenfold, a hundredfold, and even a thousandfold return in blessings according to Your will and Your purposes.*
+_Give them a tenfold, a hundredfold, and even a thousandfold return in blessings according to Your will and Your purposes._
 
-*In Jesus' precious name I pray.*
+_In Jesus' precious name I pray._
 
-**Amen.**
+_Amen._
 
 *🌅💭 Introduction — Back to the Basics.*
 
@@ -1474,35 +1474,35 @@ And let your life point people toward Jesus.
 
 *🙏🕊️ Closing Prayer.*
 
-*Thank You, Father God, for this opportunity for yet another devotion.*
+_Thank You, Father God, for this opportunity for yet another devotion._
 
-**Thank You, Father God, for the *138 days* that it has taken me to perfect PlebWare.github.io.**
+_Thank You, Father God, for the 138 days that it has taken me to perfect PlebWare.github.io._
 
-*And yes, I know nothing is ever complete until it is complete.*
+_And yes, I know nothing is ever complete until it is complete._
 
-*Websites are growing and ongoing, requiring daily maintenance and a lot of effort.*
+_Websites are growing and ongoing, requiring daily maintenance and a lot of effort._
 
-*I pray, Lord, give me the strength to do that.*
+_I pray, Lord, give me the strength to do that._
 
-*And I pray, Lord, give strength to others, whatever they do — be they carpenters, bakers, household workers, caregivers, mothers, teachers, and particularly teachers who have to teach this new generation of young people, including university professors.*
+_And I pray, Lord, give strength to others, whatever they do — be they carpenters, bakers, household workers, caregivers, mothers, teachers, and particularly teachers who have to teach this new generation of young people, including university professors._
 
-*Father, just guide us, protect us, and we thank You for everything You do.*
+_Father, just guide us, protect us, and we thank You for everything You do._
 
-*I want to give You all the honour, all the glory, and all the praise.*
+_I want to give You all the honour, all the glory, and all the praise._
 
-*In Jesus' precious name.*
+_In Jesus' precious name._
 
-**Amen.**
+_Amen._
 
-*✍️🩸 God's Journalist.*
+_✍️🩸 God's Journalist._
 
-*🩸 Cody — Dei Scriptor*  
-*"God's Journalist."*
+_🩸 Cody — Dei Scriptor  _
+_"God's Journalist."_
 
-*Sanguine et Igne Veritas Revelata.*  
-*Truth Revealed by Blood and Fire.*
+_Sanguine et Igne Veritas Revelata.  _
+_Truth Revealed by Blood and Fire._
 
----
+_---_
 
-*PlebWare — Accessible. Repairable. Understandable Technology.*
+_PlebWare — Accessible. Repairable. Understandable Technology._
 ```
