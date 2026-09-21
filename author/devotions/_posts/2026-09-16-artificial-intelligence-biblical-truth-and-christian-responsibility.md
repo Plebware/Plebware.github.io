@@ -16,7 +16,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-**Opening Prayer.**
+Opening Prayer.
 
 
 _Heavenly Father, I come before You today.
