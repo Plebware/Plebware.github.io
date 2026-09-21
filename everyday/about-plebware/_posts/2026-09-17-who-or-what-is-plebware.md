@@ -11,7 +11,7 @@ author: Otto Brinkmeier
 <div style="text-align: center;">
   <img src="/assets/images/plebware-legacy-manifesto.webp"
        alt="Plebware Legacy Manifesto"
-       style="width:100%; max-width:400px; height:auto;">
+       style="width:100%; max-width:700px; height:auto;">
 </div>
 
 <!-- PLEBVOX:START -->
