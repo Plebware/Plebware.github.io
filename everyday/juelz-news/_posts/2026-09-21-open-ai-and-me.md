@@ -29,10 +29,10 @@ One of the earliest projects I can remember was a humorous poem about:
 
 The situation revolved around:
 
-* ⚡ Loadshedding
-* 🕯️ Darkness and candles
-* 💅 Sharon attempting to do her nails anyway
-* 😂 Turning an everyday South African inconvenience into something ridiculous
+- ⚡ Loadshedding
+- 🕯️ Darkness and candles
+- 💅 Sharon attempting to do her nails anyway
+- 😂 Turning an everyday South African inconvenience into something ridiculous
 
 This established one of the recurring themes in my creative work with ChatGPT:
 
@@ -52,9 +52,9 @@ I asked ChatGPT for a **belated birthday poem for Brian Maine**.
 
 Brian was described to GPT as:
 
-* 👨‍🍳 A chef
-* 🍽️ Someone involved in the food industry
-* 🤝 A friend
+- 👨‍🍳 A chef
+- 🍽️ Someone involved in the food industry
+- 🤝 A friend
 
 The goal was to create something personal and humorous rather than a generic birthday message.
 
@@ -100,9 +100,9 @@ The overall objective was to get my Linux system configured properly and eventua
 
 My then setup included:
 
-* 🐧 **SparkyLinux 12**
-* 🖥️ **KDE Plasma**
-* 🎮 **Raid: Shadow Legends**
+- 🐧 **SparkyLinux 12**
+- 🖥️ **KDE Plasma**
+- 🎮 **Raid: Shadow Legends**
 
 I was also interested in installing the **full KDE Plasma environment**.
 
@@ -166,31 +166,31 @@ I wanted to use **PlayOnLinux** to manage the Windows software environment, for 
 
 The latest project, 🦯 **The Cane Otto Chose**, brings together several recurring elements of our work:
 
-🧑 Otto as a recurring character
-😂 Your particular sense of humour
-🗣️ Your conversational writing style
-✍️ AI-assisted writing
-🔄 Multiple refinement passes
-🐙 GitHub
-🚀 Actual publication
+- 🧑 Otto as a recurring character
+- 😂 My own particular sense of humour
+- 🗣️ My conversational writing style
+- ✍️ AI-assisted writing
+- 🔄 Multiple refinement passes
+- 🐙 GitHub
+- 🚀 Actual publication
 
 In that sense, it is a good snapshot of how our work together has evolved.
 
 From:
 
-💅 Auntie Sharon doing her nails during loadshedding
+### 💅 Auntie Sharon doing her nails during loadshedding
 
 to:
 
-🐧 Troubleshooting Wine on SparkyLinux
+### 🐧 Troubleshooting Wine on SparkyLinux
 
 to:
 
-🖼️ Editing Otto and Tayler
+### 🖼️ Editing Otto and Taylor
 
 to:
 
-🦯 Writing and publishing The Cane Otto Chose
+### 🦯 Writing and publishing The Cane Otto Chose
 
 our projects have gradually expanded from individual questions into ongoing creative and technical projects with actual outputs and workflows.
 
@@ -201,6 +201,7 @@ our projects have gradually expanded from individual questions into ongoing crea
 <!-- PLEBVOX:START -->\
 
 🗓️ **Four Years at a Glance**
+```
 2023 🟢
  │
  └── 💅 Auntie Sharon
@@ -231,18 +232,18 @@ our projects have gradually expanded from individual questions into ongoing crea
               │
               ▼
         🚀 Create → Refine → Publish
-        
-# 🎯 **The Big Picture**
+```        
+## 🎯 **The Big Picture**
 
 Over the period I can currently reconstruct, we've effectively used ChatGPT as:
 
-🧑‍💻 Technical assistant
-✍️ Writing partner
-😂 Comedy collaborator
-🎮 Gaming helper
-🖼️ Image editor
-🤖 AI assistant
-🌐 Publishing assistant
+- 🧑‍💻 Technical assistant
+- ✍️ Writing partner
+- 😂 Comedy collaborator
+- 🎮 Gaming helper
+- 🖼️ Image editor
+- 🤖 AI assistant
+- 🌐 Publishing assistant
 
 And the projects have gradually moved from individual questions and pieces of writing toward complete workflows where an idea gets created, refined, and ultimately published or used.
 
