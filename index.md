@@ -123,7 +123,15 @@ The catalogue below shows the **12 most recently published articles across all P
 
 {% endfor %}
 
------
+------
+
+<div style="text-align: center;">
+  <img src="/assets/images/everyday-collage.webp"
+       alt="Plebware Legacy Manifesto"
+       style="width:100%; max-width:700px; height:auto;">
+</div>
+
+------
 
 ## 🏠 Everyday Mode — Latest by Subcategory.
 
