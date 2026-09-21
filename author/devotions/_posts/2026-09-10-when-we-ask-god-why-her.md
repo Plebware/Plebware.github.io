@@ -762,51 +762,51 @@ It is also measured by the love they gave while they were here.
 
 *A Prayer For Grant, Erin And Samuel.*
 
-*Father God,*
+_Father God,_
 
-*I don't understand.*
+_I don't understand._
 
-*I don't understand why Cindy had to leave this world at only forty-five years of age.*
+_I don't understand why Cindy had to leave this world at only forty-five years of age._
 
-*I don't understand why a husband must bury his wife.*
+_I don't understand why a husband must bury his wife._
 
-*I don't understand why children must continue without their mother.*
+_I don't understand why children must continue without their mother._
 
-*But You understand what I cannot.*
+_But You understand what I cannot._
 
-*So today I pray for Grant.*
+_So today I pray for Grant._
 
-*Give him strength when he feels he has none left.*
+_Give him strength when he feels he has none left._
 
-*Give him courage for the mornings when getting out of bed feels impossible.*
+_Give him courage for the mornings when getting out of bed feels impossible._
 
-*Give him peace in the moments when the memories hurt.*
+_Give him peace in the moments when the memories hurt._
 
-*I pray for Erin and Samuel.*
+_I pray for Erin and Samuel._
 
-*Surround them with people who will love them, protect them and help them through the years ahead.*
+_Surround them with people who will love them, protect them and help them through the years ahead._
 
-*Let them remember their mother not only through the pain of losing her, but through the joy of having known her.*
+_Let them remember their mother not only through the pain of losing her, but through the joy of having known her._
 
-*And Lord, when I ask You, "Why her?"*
+_And Lord, when I ask You, "Why her?"_
 
-*Help me remember that I am not required to understand everything in order to trust You.*
+_Help me remember that I am not required to understand everything in order to trust You._
 
-*Help me with my own exhaustion.*
+_Help me with my own exhaustion._
 
-*Help me with my financial struggles.*
+_Help me with my financial struggles._
 
-*Help me when I feel that my life has little left to offer.*
+_Help me when I feel that my life has little left to offer._
 
-*Remind me that my worth is not measured by my bank balance, my productivity, my age, or the number of things I have accomplished.*
+_Remind me that my worth is not measured by my bank balance, my productivity, my age, or the number of things I have accomplished._
 
-*If You have kept me here, then there must still be something You want me to do.*
+_If You have kept me here, then there must still be something You want me to do._
 
-*Give me the strength to discover what that is.*
+_Give me the strength to discover what that is._
 
-*In the name of Jesus Christ,*
+_In the name of Jesus Christ,_
 
-*Amen.*
+_Amen._
 
 *A Final Thought.*
 
