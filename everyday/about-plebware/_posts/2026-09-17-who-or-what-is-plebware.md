@@ -9,9 +9,9 @@ author: Otto Brinkmeier
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/images/approved.png"
-       alt="Approved PlebWare sticker"
-       style="width:50%; max-width:400px; height:auto;">
+  <img src="/assets/images/plebware-legacy-manifesto.webp"
+       alt="Plebware Legacy Manifesto"
+       style="width:100%; max-width:400px; height:auto;">
 </div>
 
 <!-- PLEBVOX:START -->
