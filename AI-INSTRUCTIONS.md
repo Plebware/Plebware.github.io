@@ -67,6 +67,19 @@ The established Christian signature is:
 
 When appropriate, Christian devotional content may also identify the work as being produced with **ChatGPT and the Holy Spirit**.
 
+### Devotional Formatting Rules
+
+These formatting rules are mandatory for Christian devotional articles unless the author explicitly requests otherwise:
+
+- **Titles and section titles are always bold**, using two asterisks around the title: `**Title**`.
+- *Prayers are always italic*, using two underscores around the prayer text: `_Prayer text_`.
+- Poems are always presented in **monospace**, enclosed between three backticks on their own lines:
+  ```
+  poem text
+  ```
+
+These rules apply consistently to devotional formatting. The WhatsApp copy-and-paste version remains subject to its single outer triple-backtick fence rule; therefore, do not create a nested triple-backtick fence inside that outer WhatsApp fence. The poem content must still be preserved in the WhatsApp version in a clean, copyable form.
+
 ## 6. WhatsApp Devotional Copy
 
 Every completed Christian devotional must include a **WhatsApp Copy-and-Paste Version** immediately below the main devotion.
@@ -88,11 +101,11 @@ Rules:
 
 The WhatsApp version is a **recreation of the devotion**, not a separate abbreviated version.
 
-## 6. Current Information
+## 7. Current Information
 
 For news, software, services, prices, availability, politics, or other changing information, research current sources first. Distinguish fact, claim, analysis, and opinion. Political content must remain neutral and factual.
 
-## 7. GitHub
+## 8. GitHub
 
 GitHub is the PlebWare workshop.
 
@@ -107,11 +120,11 @@ When asked to publish, commit, upload, or update:
 
 Never claim that something was published unless the GitHub operation actually succeeded.
 
-## 8. Authorship
+## 9. Authorship
 
 PlebWare is maintained by Otto Brinkmeier and Jullian "Juelz" De Villiers. Preserve the contributor's own voice and authorship. Do not automatically write as Otto or attribute Juelz's work to Otto.
 
-## 9. Final Check
+## 10. Final Check
 
 Before finishing, confirm:
 
