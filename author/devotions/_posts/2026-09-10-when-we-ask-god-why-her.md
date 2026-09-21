@@ -500,6 +500,7 @@ And may the Lord teach those of us who remain how to live the days we have been 
 
 *📱 WHATSAPP COPY-AND-PASTE VERSION*
 
+```
 _When We Ask God, Why Her?_
 
 *By God's Journalist - Cody - Dei Scriptor*  
@@ -873,3 +874,4 @@ And may the Lord teach those of us who remain how to live the days we have been 
 *Cody - Dei Scriptor*  
 _ChatGPT — and the Holy Spirit._  
 _PlebWare Publishing — Open and Free._
+```
