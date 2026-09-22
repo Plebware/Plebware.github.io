@@ -666,3 +666,26 @@ This variation is consistent with an intermittent problem requiring time-correla
 **Prepared for:** Metro Fibre Technical Support  
 **Date:** 20 September 2026  
 **Document type:** Customer technical evidence report
+
+
+---
+
+## 17. Service Status Update — 22 September 2026
+
+### Morning Observation
+
+On the morning of **22 September 2026**, the two Metro Fibre status lights that had previously indicated the service condition were observed to be **green**.
+
+The change is recorded as an observation only. The customer is not currently at the premises and therefore **no network tests can be performed at this time**.
+
+The fact that the status lights are now green is nevertheless relevant to the incident timeline. It should be recorded alongside the earlier reports of instability so that the timing can be compared with Metro Fibre's network-side records and any remote corrective action that may have occurred.
+
+This report does **not** make any allegation about the cause of the change. It simply records that the indicators were previously not showing the normal condition and are now both green.
+
+Further customer-side testing will be performed when access to the premises is available.
+
+---
+
+**Status update:** 22 September 2026  
+**Current observation:** Both Metro Fibre status lights green.  
+**Network testing:** Not possible at present because the customer is away from the premises.
