@@ -62,7 +62,6 @@ bash: Required to invoke background shell tasks via subprocess.Popen.
 **Icons**: /opt/plebmachine/icons/128x128/plebmachine.png and /opt/plebmachine/icons/state/*
 
 **Wallpapers**: /usr/local/share/plebmachine-wallpapers/{mode_id}-{time_of_day}.jpg (or .png)
-
 ```
 #!/usr/bin/env python3
 
@@ -583,7 +582,39 @@ class MissionControl(Gtk.Window):
             if result.returncode == 0:
                 self.log(f"Set wallpaper for {mode}: {wallpaper_path}")
                 return True
-            else:
+          PlebMachine Mission Control (v3.0). It acts as a workspace and environment orchestrator designed to switch desktop modes and handle wallpapers based on system states and time-of-day settings.
+            self.switch_mode(mode)
+
+    def on_destroy(self, widget):
+        self.log("PlebMachine GUI shutting down")
+        Gtk.main_quit()
+
+
+# ============================================================
+# MAIN
+# ============================================================
+
+def main():
+    try:
+        import fcntl
+        lock_file = open("/tmp/plebmachine-gui.lock", "w")
+        try:
+            fcntl.lockf(lock_file, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        except IOError:
+            print("PlebMachine GUI is already running!")
+            sys.exit(1)
+
+        app = MissionControl()
+        Gtk.main()
+
+    except Exception as e:
+        print(f"Fatal error: {e}")
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()
+  else:
                 self.log(f"wallpaper-apply.sh failed: {result.stderr}", "error")
                 return False
         else:
@@ -640,6 +671,7 @@ class MissionControl(Gtk.Window):
     # ============================================================
     # BUTTON HANDLERS
     # ============================================================
+
     def on_off_btn_clicked(self, widget):
         if self.current_state != "off":
             self.log("Turning system OFF")
@@ -648,7 +680,7 @@ class MissionControl(Gtk.Window):
             self.save_state()
             self.status_label.set_text("Status: System turned OFF")
         else:
-            self.status_label.set_text("Status: System is OFF — click COGNITIVE or AUTOMATIC to turn ON")This Python script is the GTK3-based desktop interface for PlebMachine Mission Control (v3.0). It acts as a workspace and environment orchestrator designed to switch desktop modes and handle wallpapers based on system states and time-of-day settings.
+            self.status_label.set_text("Status: System is OFF — click COGNITIVE or AUTOMATIC to turn ON")
 
     def on_state_clicked(self, widget, state):
         if self.current_state == state:
