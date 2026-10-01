@@ -47,7 +47,7 @@ Every journey has a beginning—even when the earliest pages are written more fr
 <div style="text-align: center;">
   <img src="/assets/images/polished-reviewed.webp"
        alt="Alt Text - This Page has been human reviewed for continuity"
-       style="width: 100%; max-width: 100%; height: auto;">
+       style="width: 30%; max-width: 100%; height: auto;">
 </div>
 
 
