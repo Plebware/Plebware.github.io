@@ -679,3 +679,8 @@ It is what we do with **Jesus Christ**.
 _With ChatGPT and the Holy Spirit._
 
 <!-- PLEBVOX:END -->
+<div style="text-align: center;">
+  <img src="/assets/images/polished-reviewed.webp"
+       alt="Alt Text - This Page has been human reviewed for continuity"
+       style="width: 30%; max-width: 100%; height: auto;">
+</div>
