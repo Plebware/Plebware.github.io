@@ -44,6 +44,12 @@ As I continue writing these memoirs, later chapters become much clearer. Friends
 
 Every journey has a beginning—even when the earliest pages are written more from history than from memory.
 
+<div style="text-align: center;">
+  <img src="/assets/images/polished-reviewed.webp"
+       alt="Alt Text - This Page has been human reviewed for continuity"
+       style="width: 100%; max-width: 100%; height: auto;">
+</div>
+
 
 ---
 <!-- Comments Section -->
