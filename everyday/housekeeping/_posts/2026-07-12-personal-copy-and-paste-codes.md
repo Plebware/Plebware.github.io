@@ -490,6 +490,92 @@ The toolbox grows because the project grows.
 
 ---
 
+## 🔑 9. Creating and Editing Links
+
+<!-- PLEBVOX:START -->
+
+Links let readers move from one PlebWare article to another, or visit a useful external website. When manually editing a link, there are two things to check:
+
+- **The destination** — the URL inside the link.
+- **The link text** — the words the reader sees and clicks.
+
+For example, suppose you want the words **The Joy Cookery Collection** to open the relevant article.
+
+<!-- PLEBVOX:END -->
+
+### HTML Link — Recommended for Manual Link Editing
+
+Copy this example and replace the URL and visible words with your own:
+
+```html
+<a href="https://plebware.github.io/author/cook-books/2026/06/16/the-joy-cookery-collection.html">The Joy Cookery Collection</a>
+```
+
+<!-- PLEBVOX:START -->
+
+In this example:
+
+- `href="..."` contains the destination address.
+- `The Joy Cookery Collection` is the clickable text.
+- The closing `</a>` marks the end of the link.
+
+**This link opens in the same browser tab.** That is the preferred choice when linking from one PlebWare article to another and then using the site's **Return to the article I came from** feature.
+
+For a normal same-tab link, leave out `target="_blank"` and `rel="noopener noreferrer"`. Those attributes are not needed for this example.
+
+<!-- PLEBVOX:END -->
+
+### Markdown Link — A Simpler Alternative
+
+When you are writing ordinary Markdown, you can also use this format:
+
+```markdown
+[The Joy Cookery Collection](https://plebware.github.io/author/cook-books/2026/06/16/the-joy-cookery-collection.html)
+```
+
+<!-- PLEBVOX:START -->
+
+The words inside the square brackets become the clickable text. The address inside the round brackets is the destination.
+
+Use Markdown when you are writing normal article text. Use HTML when you need to edit an existing HTML link or control its attributes.
+
+<!-- PLEBVOX:END -->
+
+### How the Contextual Return Link Works
+
+<!-- PLEBVOX:START -->
+
+PlebWare's article layout includes a **Return to the article I came from** feature. The site's JavaScript helps remember the previous PlebWare article when a reader follows an internal article link.
+
+When creating or manually editing an ordinary link from one PlebWare article to another:
+
+1. Use the destination article's real URL.
+2. Keep the link in the same tab by leaving out `target="_blank"`.
+3. Do **not** add a `pleb_from` parameter yourself. The site's link-handling code manages that.
+4. After making the change, test the link on the live site: open the source article, follow the link, and try the return link at the bottom of the destination article.
+
+The return feature cannot always identify a previous article when a reader arrives directly from a search engine, a bookmark, or another website. In that situation, PlebWare may show a message explaining that no earlier PlebWare article was recorded in that tab.
+
+<!-- PLEBVOX:END -->
+
+### Quick Link Checklist
+
+<!-- PLEBVOX:START -->
+
+Before saving a manually edited link, check:
+
+- [ ] The URL points to the correct page.
+- [ ] The visible link text describes what the reader will open.
+- [ ] For an ordinary PlebWare-to-PlebWare link, it opens in the same tab.
+- [ ] The link does not contain a mistyped URL or an unnecessary `pleb_from` parameter.
+- [ ] You test the link after the site has rebuilt.
+
+**Golden rule:** change the destination and the visible words as needed, but leave the working return-link machinery to PlebWare.
+
+<!-- PLEBVOX:END -->
+
+---
+
 ## 🔑 Quick Reference
 
 <!-- PLEBVOX:START -->
