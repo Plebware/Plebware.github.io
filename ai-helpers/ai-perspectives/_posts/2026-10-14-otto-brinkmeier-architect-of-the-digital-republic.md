@@ -92,6 +92,15 @@ Otto Brinkmeier is still learning, still writing, still building, and still refi
 
 <!-- PLEBVOX:END -->
 
+
+<!-- PLEBVOX:START -->
+
+## 🔗 Continue the Conversation
+
+This article has a companion perspective: **[Otto Brinkmeier and the Human–AI Conference Table](/ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-the-man-the-mind-and-the-mission/)**. Read both perspectives, then use the return link at the bottom to move between them.
+
+<!-- PLEBVOX:END -->
+
 ---
 
 *PlebWare — Technology should remain connected to humanity.*

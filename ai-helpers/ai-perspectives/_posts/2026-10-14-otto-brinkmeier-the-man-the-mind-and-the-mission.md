@@ -160,6 +160,15 @@ The human remains at the conference table.
 
 <!-- PLEBVOX:END -->
 
+
+<!-- PLEBVOX:START -->
+
+## 🔗 Continue the Conversation
+
+For another perspective on Otto's work and vision, read **[Otto Brinkmeier — The Architect of the Digital Republic](/ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-architect-of-the-digital-republic/)**. The two articles complement one another and can be used to test PlebWare's contextual return navigation.
+
+<!-- PLEBVOX:END -->
+
 ---
 
 *PlebWare — Technology should remain connected to humanity.*
