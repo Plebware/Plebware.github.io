@@ -1,4 +1,5 @@
 title: "Plebware Control Centre"
+description: "PlebWare is a human-centred knowledge and learning environment for accessible technology, practical computing, writing, creativity, and independent learning."
 baseurl: ""
 url: "https://plebware.github.io"
 repository: Plebware/Plebware.github.io   # ← Add this line
