@@ -133,13 +133,13 @@ You do not need to include every optional field on every page. Follow the real r
 
 **Do not paste SEO meta tags, canonical links, Open Graph tags, Twitter Card tags, or JSON-LD structured data into each article.** These belong in the shared site theme, where they can be generated consistently and safely.
 
-When the SEO implementation is in place, the theme should:
+The shared theme now handles the standard SEO metadata:
 
-- generate a meta description from the page's available description or content, with a site-wide fallback;
-- generate the canonical URL using Jekyll's `absolute_url` filter;
-- safely encode values used in JSON-LD with `jsonify`;
-- emit structured data only when it matches the page type and available information;
-- maintain social-sharing metadata without duplicating existing tags.
+- generates a meta description from the page's available description or content, with a site-wide fallback;
+- generates the canonical URL using Jekyll's `absolute_url` filter;
+- safely encodes values used in JSON-LD with `jsonify`;
+- emits `BlogPosting` structured data only for pages using the post layout;
+- maintains Open Graph and Twitter Card metadata without duplicating the existing tags.
 
 A page-specific `description:` may be added to front matter when a carefully written summary would help describe that particular page. It should remain optional; ordinary articles should not require extra SEO fields.
 
