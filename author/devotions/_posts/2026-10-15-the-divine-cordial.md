@@ -359,7 +359,8 @@ _I may not understand everything God permits, but I will seek Him in my sufferin
 
 Copy the complete devotion below into WhatsApp. Formatting characters are included so the bold, italics, Scripture quotations, and prayers can be pasted directly.
 
-\`\`\`
+```
+
 🕊️ *THE DIVINE CORDIAL — WHEN SUFFERING BECOMES A SCHOOL OF GRACE*
 
 *Date: 15 October 2026.*
@@ -630,7 +631,8 @@ _I may not understand everything God permits, but I will seek Him in my sufferin
 *Sanguine et Igne Veritas Revelata*
 
 _With ChatGPT and the Holy Spirit, in service to the Gospel and to the glory of God._
-\`\`\`
+
+```
 
 ---
 
