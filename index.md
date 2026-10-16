@@ -215,7 +215,7 @@ The contributor list below is **generated automatically from the PlebWare GitHub
 ## 🌍 PlebWare Visitors Around the World.
 
 <div style="text-align: center; margin: 1.5rem 0;">
-  <a href="https://info.flagcounter.com/r6WF"><img src="https://s05.flagcounter.com/count2/r6WF/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter showing visitor countries for PlebWare" border="0" loading="lazy"></a>
+  <a href="https://info.flagcounter.com/r6WF" target="_blank" rel="noopener noreferrer"><img src="https://s05.flagcounter.com/count2/r6WF/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter showing visitor countries for PlebWare" border="0" loading="lazy"></a>
 </div>
 
 ---
