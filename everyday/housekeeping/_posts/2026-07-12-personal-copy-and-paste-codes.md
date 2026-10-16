@@ -74,7 +74,7 @@ To insert PlebWare's **Human Verified Image**, put this marker on its own line i
 <!-- REVIEWED -->
 ```
 
-The shared PlebWare theme is being configured to replace this marker automatically with the image at:
+The shared PlebWare theme replaces this marker automatically with the image below once the updated theme has deployed:
 
 `/assets/images/polished-reviewed.webp`
 
@@ -139,7 +139,7 @@ Write the introduction here in clear, natural language.
 <!-- PLEBVOX:END -->
 ```
 
-**Important:** the date in a new post's filename and its front matter can affect its generated URL. Follow the repository's existing naming and permalink conventions; do not rename or red­ate an established post casually.
+**Important:** the date in a new post's filename and its front matter can affect its generated URL. Follow the repository's existing naming and permalink conventions; do not rename or redate an established post casually.
 
 ---
 
