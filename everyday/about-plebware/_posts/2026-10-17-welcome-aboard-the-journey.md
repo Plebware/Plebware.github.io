@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome Aboard the Journey"
+title: "A Personal Introduction to PlebWare"
 date: 2026-10-17
 description: "Meet the person behind PlebWare and discover the experiences, challenges, faith, and determination that helped shape its journey."
 category: "about-plebware"
