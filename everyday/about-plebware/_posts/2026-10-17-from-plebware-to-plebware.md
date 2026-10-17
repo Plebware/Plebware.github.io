@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Plebware to PlebWare: The Skeleton Crew"
+title: "PlebWare History and the People Behind It"
 date: 2026-10-17
 description: "The story of Plebware's early days, the loss of its original domain, and the small creative partnership rebuilding PlebWare for a new generation."
 category: "about-plebware"
