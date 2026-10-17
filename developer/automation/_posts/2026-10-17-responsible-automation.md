@@ -284,7 +284,7 @@ Research into automation and artificial intelligence continues to examine their 
 
 Khogali and Mekid, in their 2023 review of automation and AI, emphasise the importance of ethical considerations, human values, openness, and continued collaborative research.
 
-📚 <a href="[[https://example.com/](https://doi.org/10.1016/j.techsoc.2023.102232)](https://doi.org/10.1016/j.techsoc.2023.102232)" target="_blank" rel="noopener noreferrer">Reference: Khogali, H. O., and Mekid, S. (2023). *The blended future of automation and AI: Examining some long-term societal and ethical impact features.* Technology in Society, 73, 102232.</a>
+📚 <a href="https://doi.org/10.1016/j.techsoc.2023.102232" target="_blank" rel="noopener noreferrer">Reference: Khogali, H. O., and Mekid, S. (2023). <em>The blended future of automation and AI: Examining some long-term societal and ethical impact features.</em> Technology in Society, 73, 102232.</a>
 
 These questions will not be settled by technology alone. They require thoughtful design, informed users, responsible organisations, and a willingness to reconsider assumptions when evidence shows that something is not working.
 
