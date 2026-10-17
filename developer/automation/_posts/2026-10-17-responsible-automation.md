@@ -123,6 +123,7 @@ Automation is not automatically beneficial simply because it is technically impr
 The United Nations has highlighted how digital technologies can expand access to education, public services, and economic opportunities while also creating risks involving inequality, privacy, and the misuse of personal information.
 
 🌐 Reference:<a href="[The Impact of Digital Technologies — United Nations](https://www.un.org/en/un75/impact-digital-technologies)" target="_blank"</a>
+<a href="[https://example.com](https://www.un.org/en/un75/impact-digital-technologies)" target="_blank" rel="noopener noreferrer">The Impact of Digital Technologies — United Nations</a>
 
 
 ### 🔒 Privacy and surveillance.
@@ -284,7 +285,7 @@ Research into automation and artificial intelligence continues to examine their 
 
 Khogali and Mekid, in their 2023 review of automation and AI, emphasise the importance of ethical considerations, human values, openness, and continued collaborative research.
 
-📚 Reference: Khogali, H. O., and Mekid, S. (2023). *The blended future of automation and AI: Examining some long-term societal and ethical impact features.* Technology in Society, 73, 102232. [https://doi.org/10.1016/j.techsoc.2023.102232](https://doi.org/10.1016/j.techsoc.2023.102232)
+📚 <a href="[[https://example.com/](https://doi.org/10.1016/j.techsoc.2023.102232)](https://doi.org/10.1016/j.techsoc.2023.102232)" target="_blank" rel="noopener noreferrer">Reference: Khogali, H. O., and Mekid, S. (2023). *The blended future of automation and AI: Examining some long-term societal and ethical impact features.* Technology in Society, 73, 102232.</a>
 
 These questions will not be settled by technology alone. They require thoughtful design, informed users, responsible organisations, and a willingness to reconsider assumptions when evidence shows that something is not working.
 
