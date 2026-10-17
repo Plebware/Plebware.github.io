@@ -1,210 +1,292 @@
 ---
 layout: post
-title: "Othello Cody Verrocchio"
+title: "The Many Faces of Cody"
 date: 2026-09-20
+description: "Meet the creative identities of Otto Brinkmeier, from Othello Cody Verrocchio and Christian writing to journalism, technology, music, gaming, and everyday life."
 category: "about-plebware"
-tags: [pen name, author, writer, fiction, science fiction, poetry, essays]
+tags: [Othello Cody Verrocchio, Otto Brinkmeier, Pen Names, Writing, Creativity, Journalism, PlebWare]
 mode: "everyday"
-author: Otto Brinkmeier
+author: "Otto Brinkmeier"
 ---
-<!-- PLEBVOX:START -->
-
-# **The Cane I Chose**
-
-## Why Otto Brinkmeier Created Othello Cody Verrocchio
-
-I plucked the rod with which to tan my own backside.
-
-I then spent a painstaking amount of time curing it for maximum pliability and tensile strength, before applying it to myself.
-
-That, in rather absurd terms, is how I came to create **Othello Cody Verrocchio**.
-
-It sounds ridiculous, but there is a serious idea behind it.
-
-I am one person. My legal name is **Otto Wilhelm Friedrich Brinkmeier**, but over the years I discovered that one name was not always enough to contain all the things I wanted to write, build, explore, and create.
-
-So I began creating pen names.
-
-Not because I was trying to hide who I was.
-
-Quite the opposite.
-
-I was trying to give the different parts of myself somewhere to live.
-
-<!-- PLEBVOX:END -->
------
 
 <!-- PLEBVOX:START -->
 
-## Meet the Creator: One Storyteller, Multiple Pen Names
+# One Creator, Many Identities
 
-I write and create under several pen names, also known as pseudonyms or personas.
+I am one person, but my interests have never fitted neatly into a single box.
 
-They are all me — one real person — but each name represents a different side of my work, interests, and creative personality.
+I write. I build things. I experiment with technology. I explore faith, history, storytelling, music, games, and the practical business of everyday life.
 
-**Othello Cody Verrocchio** is my primary pen name for published literary works, including my science-fiction projects and the *Divine Origins* series.
+Over time, I developed different names for different kinds of work.
 
-**God's Journalist**, also known as *Dei Scriptor*, is the name I use for Christian writing and daily devotions.
+These identities are not separate people, and they are not an attempt to hide who I am. They are creative signposts: ways to distinguish the different roles, interests, and kinds of work that make up my life.
 
-**Otto Wilhelm Friedrich Brinkmeier** is my legal name, but it has also become my technical identity. It is the name associated with projects such as the **PlebMachine** cognitive desktop system, **PlebWare**, software development, technical documentation, and my more practical experiments with computers.
+My legal name is Otto Wilhelm Friedrich Brinkmeier. Some people know me as Otto. Others encounter one of my creative names.
 
-Then there are the occasional characters and personas: **Lazar Cody Mendicant**, **Dei Interretialis**, **Captain Gemini**, and others that have appeared when a particular project, joke, experiment, or piece of writing demanded its own identity.
+Behind them all is the same human being.
 
-These names may look like different people.
+## How Othello Cody Verrocchio Began
 
-They aren't.
+Othello Cody Verrocchio became my principal literary identity.
 
-They are different doors into the same workshop.
+The name brings together elements that have personal meaning to me. Othello and Cody are connected to my own name and creative history. Verrocchio comes from Andrea del Verrocchio, the Renaissance artist and master associated with the training of Leonardo da Vinci and other artists.
 
-<!-- PLEBVOX:END -->
------
-<!-- PLEBVOX:START -->
+I spent approximately twelve years studying Renaissance art, and the name Verrocchio appealed to me because of that interest in artistic skill, learning, and creative development.
 
-## So Why Do It?
+Othello Cody Verrocchio gives my literary work a recognisable identity — a name that can appear on a story, a book, or a piece of creative writing.
 
-Why would one person need several names?
+But Othello is only one part of the picture.
 
-For me, the answer is surprisingly simple:
+## Meet the Creative Identities
 
-<!-- PLEBVOX:END -->
------
-<!-- PLEBVOX:START -->
+Each name below represents a particular interest or working role. The boundaries are not absolute; creative work often crosses from one field into another.
 
-**Organisation.**
+### Othello Cody Verrocchio — Fiction Writer and Storyteller
 
-Writing science fiction and designing software do not necessarily put my brain in the same place.
+My principal literary identity.
 
-The person who wants to build a fictional universe filled with cosmic mysteries, theological questions, strange technologies, and philosophical dilemmas is not quite the same fellow who wants to spend three hours figuring out why a Linux configuration file refuses to behave.
+Othello is the storyteller: the identity associated with fiction, imaginative worlds, philosophical questions, and the exploration of ideas through narrative.
 
-Yet both are me.
+### Cody Dei Scriptor — Christian Writer
 
-Rather than constantly forcing every idea into one enormous identity, I began separating the work into creative spaces.
+The name I use for Christian writing, including reflections on faith, Scripture, discipleship, and the practical application of Christian belief.
 
-Think of it as an author writing science fiction under one name and romance under another.
+The work is intended to explore faith honestly and encourage readers to think about how belief shapes everyday life.
 
-Except my genres are somewhat stranger.
+### Captain Cody Gemini — News and Site Reports
 
-Mine are more like:
+A reporting identity used for PlebWare news, site developments, project updates, and journalistic-style dispatches.
 
-> **cosmic faith-driven stories**
+The captain's log is a fitting format for documenting a continuing journey: what has happened, what is being built, what has changed, and what comes next.
 
-and
+### Cody Veritas — Journalism and the Search for Truth
 
-> **human-centric computer tools.**
+A professional journalistic identity centred on investigation, truth-seeking, and careful examination of claims.
 
-## And Then There Was Othello
+The name Veritas evokes truth. It serves as a reminder that reporting should distinguish between what is known, what is believed, and what still needs to be verified.
 
-Othello Cody Verrocchio was not created overnight.
+### Dei Interretialis — Web Design and Development
 
-The name evolved.
+An early web-development identity, associated with the diploma designation **Dip. WBDM**.
 
-There was a desire to have an identity that belonged specifically to my literary work — something that could stand on the cover of a book, at the top of a story, or beneath a piece of philosophical fiction.
+This identity belongs to the world of websites, coding, digital construction, and learning how the internet works.
 
-**Othello** became the storyteller.
+It reflects the practical side of my long-running interest in technology.
 
-**Cody** remained part of the identity I had already built through other creative work.
+### Lazar Cody Mendicant — Business Thinker and Strategist
 
-And **Verrocchio** gave the name the particular character I was looking for.
+An identity for business thinking, correspondence, strategy, and the practical questions involved in making an idea sustainable.
 
-Eventually, Othello stopped being merely a pseudonym.
+Ideas need imagination, but they also need planning, resources, and a realistic understanding of what can be achieved.
 
-He became a creative identity.
+### Anton Cody Forgewright — Artisan and Craftsman
 
-That distinction matters.
+The maker and teacher.
 
-A pseudonym can simply be another name.
+This identity represents hands-on work, practical skills, craftsmanship, repair, and the satisfaction of learning how something works by working with it.
 
-A persona can become a framework through which ideas are developed.
+Not everything valuable happens on a computer screen.
 
-Othello became my framework for storytelling.
+### Cody Cr@zy Otto — Music Reviewer and Composer
 
-<!-- PLEBVOX:END -->
------
+The musical side of my creative life: listening, reviewing, composing, and exploring the ideas and emotions that music can communicate.
 
-<!-- PLEBVOX:START -->
+### Cody Gamehead — Gaming Critic and Enthusiast
 
-## But Why Keep Otto?
+The identity associated with gaming, game criticism, and the enjoyment and examination of games as creative and technical products.
 
-Because Otto isn't going anywhere.
+Games can be entertainment, but they can also be examined for their design, storytelling, mechanics, and cultural influence.
 
-Otto is the builder.
+### Federico Cody Brincheri — Cook and Culinary Experimenter
 
-Otto is the technician, experimenter, tinkerer, documenter, and occasionally the poor fool who decides that creating his own solution will be easier than using somebody else's.
+The kitchen has its own kind of workshop.
 
-Sometimes it is.
+This identity represents cooking, trying recipes, experimenting with ingredients, and learning through the practical process of preparing food.
 
-Sometimes it is precisely the opposite.
+### Wilhelm Cody Spotchandler — Cleaner of Spaces
 
-Hence the cane.
+A name for the work of organising and cleaning both physical and digital spaces.
 
-There is a certain irony in creating elaborate systems to solve problems that might have been avoided by simply leaving things alone.
+There is satisfaction in making a cluttered environment more usable, whether that means tidying a room, organising files, or improving the structure of a website.
 
-But that is also part of the creative process.
+### Cody Vox Scriptorius — Blogger and Podcast Host
 
-You build something.
+The voice of blogging, spoken content, and podcast-style communication.
 
-You break something.
+Writing is one way to share an idea. Speaking it aloud can make it accessible in another way.
 
-You learn something.
+This identity fits the work of turning thoughts and experiences into content that people can read or listen to.
 
-Then you build something else.
+### Aurelian Cody Vectorius — Driver and Road Observer
 
-<!-- PLEBVOX:END -->
------
+The driver who carries stories from the road.
 
-<!-- PLEBVOX:START -->
+Everyday journeys bring encounters, observations, problems, and experiences that can become material for reflection and writing.
 
-## One Person, Many Names
+The road is not separate from life. It is one of the places where life happens.
 
-The important thing to understand is that these identities are not competing with one another.
+### Dominus Cody Praefector — Retired Team Leader and Project Foreman
 
-They are collaborators.
+The organiser and former team leader: the person concerned with coordinating people, managing work, and helping a project move from intention to completion.
 
-**Otto** can build the machine.
+That role belongs to the practical side of leadership and responsibility.
 
-**Othello** can write the story.
+## Why Have So Many Names?
 
-**God's Journalist** can ask the spiritual questions.
+At first glance, the list might seem excessive.
 
-**Dei Interretialis** can wander into the web.
+Why not use one name for everything?
 
-**Lazar** can probably find a way to turn the whole thing into a marketing opportunity.
+For me, the answer is organisation and creative freedom.
 
-And somewhere in the middle of all of it is the same person, sitting at the keyboard.
+Writing fiction is different from documenting a Linux project. Christian reflection is different from music criticism. A cooking experiment does not necessarily belong in the same creative space as a technical report.
 
-**Me.**
+Different names help identify the kind of work a reader is encountering.
 
-<!-- PLEBVOX:END -->
------
+They also remind me that a person can have several interests without needing to reduce themselves to just one of them.
 
-<!-- PLEBVOX:START -->
+The identities are not competing for ownership of my life. They are different ways of organising the work I do.
 
-## Why This Matters on GitHub
+## One Person Behind the Names
 
-GitHub might seem like an odd place to explain all of this.
+It is important to be clear about this.
 
-But increasingly, my creative and technical worlds overlap.
+These names do not represent a collection of different people. They are creative identities associated with one creator.
 
-My repositories are not merely collections of code. Some contain documentation, experiments, writing, philosophy, tools, world-building, and ideas about how humans interact with technology.
+Where a name is used, the surrounding work should make its purpose understandable. The identities are labels for creative roles, not claims that several separate individuals are secretly involved.
 
-So if you encounter **Otto Brinkmeier** in one repository and **Othello Cody Verrocchio** in another, you haven't discovered two developers.
+Otto remains the person doing the work.
 
-You have discovered two aspects of the same creator.
+Othello can tell a story.
+
+Cody Dei Scriptor can explore a question of faith.
+
+Cody Veritas can examine a claim.
+
+Dei Interretialis can work on the web.
+
+Anton Cody Forgewright can turn to practical craftsmanship.
+
+Each name gives a particular part of my work a place to belong.
+
+## How This Connects to PlebWare
+
+PlebWare brings together many of my interests: writing, learning, technology, research, creativity, and experimentation.
+
+It is a natural home for work that does not fit into a single narrow category.
+
+That does not mean every identity or every piece of work must appear on PlebWare. It means that the wider project reflects the range of interests that have helped shape it.
+
+The same curiosity that led me from the Commodore VIC-20 to personal computers and websites continues to influence my writing and technical projects today.
+
+The tools change. The subjects change. The names sometimes change.
+
+The person behind the work remains.
+
+## The Full Mosaic
+
+Every persona carries a piece of me.
+
+Together, they form a mosaic of a life spent learning, creating, working, believing, experimenting, and trying to understand the world.
+
+I am a writer, a believer, a builder, a driver, a craftsman, a student of technology, and a person with more ideas than time to pursue them all.
+
+I do not claim to have mastered every subject represented by these names. Each identity is an invitation to explore a particular field, and every field offers more to learn.
+
+Perhaps that is the real point.
+
+A person does not have to be only one thing.
+
+We can develop new skills, explore unfamiliar subjects, and find new ways to express what matters to us.
 
 The names are signposts.
 
-They tell you which part of the workshop you have walked into.
+The work is the journey.
 
-And perhaps that is the real reason I created Othello.
+And behind them all is one person, still learning.
 
-I didn't create another person.
+— Otto Brinkmeier
 
-I created another **place for myself to create**.
-
-And, having chosen the cane, I suppose I had better keep writing.
-
-**— O.C. Verrocchio**
-
-**_The Keyboard Is Mightier Than The Pen_**
 <!-- PLEBVOX:END -->
+
 -----
+
+<!-- Comments Section -->
+
+<div id="comments-section">
+    <h3>💬 Comments</h3>
+    <div id="utterances-container"></div>
+</div>
+
+<script>
+    // === UTTERANCES WITH DYNAMIC THEME ===
+    (function() {
+        'use strict';
+
+        let currentTheme = null;
+
+        function loadUtterances(theme) {
+            const container = document.getElementById('utterances-container');
+            if (!container) return;
+
+            container.innerHTML = '';
+
+            const script = document.createElement('script');
+            script.src = 'https://utteranc.es/client.js';
+            script.setAttribute('repo', 'plebware/plebware.github.io');
+            script.setAttribute('issue-term', 'pathname');
+            script.setAttribute('theme', theme);
+            script.setAttribute('crossorigin', 'anonymous');
+            script.async = true;
+
+            container.appendChild(script);
+            currentTheme = theme;
+        }
+
+        function getTheme() {
+            const isDark = document.body.classList.contains('dark-theme');
+            return isDark ? 'github-dark' : 'github-light';
+        }
+
+        function init() {
+            const theme = getTheme();
+            loadUtterances(theme);
+        }
+
+        function onThemeChange() {
+            const newTheme = getTheme();
+            if (newTheme !== currentTheme) {
+                loadUtterances(newTheme);
+            }
+        }
+
+        document.addEventListener('themeChanged', onThemeChange);
+
+        const observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.attributeName === 'class') {
+                    onThemeChange();
+                }
+            });
+        });
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                init();
+                observer.observe(document.body, {
+                    attributes: true,
+                    attributeFilter: ['class']
+                });
+            });
+        } else {
+            init();
+            observer.observe(document.body, {
+                attributes: true,
+                attributeFilter: ['class']
+            });
+        }
+
+    })();
+</script>
+
+<!-- PLEBVOX:END -->
