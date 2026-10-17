@@ -85,6 +85,8 @@ The point is that we can still do something.
 
 The current PlebWare website is not simply a restoration of the old site. It is a new chapter built on the lessons, interests, and ideas that came before it.
 
+For the wider philosophy behind this work, see [The PlebWare Manifesto](/about/manifesto/). For the short announcement of the site's rebirth, read [PlebWare Reborn: The Vision Continues](/everyday/news/2026/10/17/plebware-reborn-online-base.html).
+
 The online environment has changed dramatically since the early days of free web space and modest personal websites. Today, we can use modern publishing tools, version control, open-source software, and new ways of learning and collaborating.
 
 PlebWare is using those opportunities to build a more organised home for its work.
