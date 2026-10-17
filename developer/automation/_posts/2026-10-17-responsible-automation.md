@@ -122,8 +122,7 @@ Automation is not automatically beneficial simply because it is technically impr
 
 The United Nations has highlighted how digital technologies can expand access to education, public services, and economic opportunities while also creating risks involving inequality, privacy, and the misuse of personal information.
 
-🌐 Reference:<a href="[The Impact of Digital Technologies — United Nations](https://www.un.org/en/un75/impact-digital-technologies)" target="_blank"</a>
-<a href="[https://example.com](https://www.un.org/en/un75/impact-digital-technologies)" target="_blank" rel="noopener noreferrer">The Impact of Digital Technologies — United Nations</a>
+🌐 Reference: <a href="https://www.un.org/en/un75/impact-digital-technologies" target="_blank" rel="noopener noreferrer">The Impact of Digital Technologies — United Nations</a>.
 
 
 ### 🔒 Privacy and surveillance.
