@@ -27,6 +27,12 @@ PlebMachine turns your **Debian XFCE desktop** into a smart, context-aware envir
 
 <!-- PLEBVOX:END -->
 
+## 🧭 New to PlebWare?
+
+Start with [Welcome Aboard the Journey →](/everyday/about-plebware/2026/10/17/welcome-aboard-the-journey.html), a personal introduction to the people, experiences, and values behind this project.
+
+You can also explore [Who or What Is PlebWare? →](/everyday/about-plebware/2026/09/17/who-or-what-is-plebware.html) for the meaning behind the name and the wider ecosystem.
+
 -----
 
 <div style="text-align: center;">
