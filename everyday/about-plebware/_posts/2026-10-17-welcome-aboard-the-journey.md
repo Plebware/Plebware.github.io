@@ -21,6 +21,8 @@ This is not the story of a corporation with a large budget or a team of professi
 
 Welcome aboard.
 
+If you would like to understand the idea behind the name, start with [Who or What Is PlebWare?](/everyday/about-plebware/2026/09/17/who-or-what-is-plebware.html). This personal introduction tells another part of the story: the people, experiences, and values behind the project.
+
 ## No Free Lunch — The Beginning
 
 In 1999, I discovered the possibilities of having a website on the internet. The opportunity came with a modest allowance of approximately five megabytes of free web space.
