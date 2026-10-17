@@ -302,4 +302,6 @@ We need to identify the tasks where it genuinely helps, implement those tasks re
 
 ---
 
+<!-- REVIEWED -->
+
 ✍️ *Written by Otto Brinkmeier for PlebWare. The principles described for PlebWare and PlebMachine are proposed design commitments and should be implemented, tested, and reviewed as the projects develop.*
