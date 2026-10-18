@@ -40,6 +40,7 @@ You can also explore [Who or What Is PlebWare? →](/everyday/about-plebware/202
        alt="Plebware Legacy Manifesto"
        style="width:100%; max-width:700px; height:auto;">
 </div>
+
 -----
 
 ## 📰 Latest PlebWare Update.
