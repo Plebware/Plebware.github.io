@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - Study PlebMachine User (Mode 03)"
-description: "Explore Study PlebMachine User, Mode 03 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "study"
 permalink: /study/03-study-plebmachine-user/
 ---
