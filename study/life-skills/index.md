@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Life Skills
+title: 04 - Life Skills
 ---
 
 # 🧠 Life Skills
