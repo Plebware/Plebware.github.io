@@ -34,7 +34,8 @@ Start with [Welcome Aboard the Journey →](/everyday/about-plebware/2026/10/17/
 You can also explore [Who or What Is PlebWare? →](/everyday/about-plebware/2026/09/17/who-or-what-is-plebware.html) for the meaning behind the name and the wider ecosystem.
 
 -----
-
+<!-- SPACE -->
+----
 <div style="text-align: center;">
   <img src="/assets/images/plebware-legacy-manifesto.webp"
        alt="Plebware Legacy Manifesto"
@@ -66,7 +67,8 @@ You can also explore [Who or What Is PlebWare? →](/everyday/about-plebware/202
 - (like technical and code-related articles)
 
 ---
-
+<!-- SPACE -->
+---
 <div style="text-align: center;">
   <img src="/assets/images/ultimate-github-library.webp"
        alt="Plebware Legacy Manifesto"
@@ -88,7 +90,9 @@ You can also explore [Who or What Is PlebWare? →](/everyday/about-plebware/202
 
   <p>🎧 <strong>{{ plebvox_count }}</strong> Articles Empowered by PlebVox.</p>
 </div>
-
+---
+<!-- SPACE -->
+---
 
 ## 🔎 Find Something Useful.
 
@@ -102,6 +106,8 @@ With hundreds of articles covering technology, creativity, practical life, writi
        alt="Plebware Legacy Manifesto"
        style="width:100%; max-width:700px; height:auto;">
 </div>
+---
+<!-- SPACE -->
 
 ------
 
@@ -114,7 +120,8 @@ Use the **navigation found on every page** or search the library.
 **[📊 View the 12-Mode Subcategory Dashboard →](/subcategory-dashboard/)**
 
 ------
-
+<!-- SPACE -->
+----
 ## 📰 **Recent Articles**.
 
 The PlebWare library is continually growing.
