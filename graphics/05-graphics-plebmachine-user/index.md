@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - Graphics PlebMachine User (Mode 05)"
-description: "Explore Graphics PlebMachine User, Mode 05 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "graphics"
 permalink: /graphics/05-graphics-plebmachine-user/
 ---
