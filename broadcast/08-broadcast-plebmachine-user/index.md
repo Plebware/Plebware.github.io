@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - Broadcast PlebMachine User (Mode 08)"
-description: "Explore Broadcast PlebMachine User, Mode 08 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "broadcast"
 permalink: /broadcast/08-broadcast-plebmachine-user/
 ---
