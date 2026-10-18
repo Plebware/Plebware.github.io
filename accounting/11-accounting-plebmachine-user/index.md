@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - Accounting PlebMachine User (Mode 11)"
-description: "Explore Accounting PlebMachine User, Mode 11 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "accounting"
 permalink: /accounting/11-accounting-plebmachine-user/
 ---
