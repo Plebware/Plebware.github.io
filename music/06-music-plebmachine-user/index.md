@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - Music PlebMachine User (Mode 06)"
-description: "Explore Music PlebMachine User, Mode 06 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "music"
 permalink: /music/06-music-plebmachine-user/
 ---
