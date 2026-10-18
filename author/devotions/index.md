@@ -2,7 +2,7 @@
 layout: default
 title: 02 - Devotionals
 ---
-# A Clear, Reader-Friendly Article Heading
+# God's Journalist Views
 
 <!-- PLEBVOX:START -->
 
