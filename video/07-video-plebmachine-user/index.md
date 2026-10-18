@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - Video PlebMachine User (Mode 07)"
-description: "Explore Video PlebMachine User, Mode 07 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "video"
 permalink: /video/07-video-plebmachine-user/
 ---
