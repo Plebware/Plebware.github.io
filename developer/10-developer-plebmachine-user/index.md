@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - Developer PlebMachine User (Mode 10)"
-description: "Explore Developer PlebMachine User, Mode 10 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "developer"
 permalink: /developer/10-developer-plebmachine-user/
 ---
