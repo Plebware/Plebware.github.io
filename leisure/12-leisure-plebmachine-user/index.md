@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - Leisure PlebMachine User (Mode 12)"
-description: "Explore Leisure PlebMachine User, Mode 12 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "leisure"
 permalink: /leisure/12-leisure-plebmachine-user/
 ---
