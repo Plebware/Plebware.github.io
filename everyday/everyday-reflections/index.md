@@ -3,6 +3,9 @@ layout: default
 title: 03 - Everyday Reflections
 ---
 
+<!-- PLEBVOX:START -->
+
+
 🪞 **Everyday Reflections**
 
 **Everyday Reflections** is the place for thoughts, observations, experiences, ideas, lessons learned, and the occasional rabbit hole that does not quite belong in one of the more specialised Everyday sections.
@@ -14,6 +17,15 @@ Some reflections may be about writing, technology, Linux, artificial intelligenc
 The purpose is not to turn every thought into a technical article.
 
 Sometimes an ordinary observation is worth recording simply because it tells us something about how people actually live, learn, work, create, and use technology.
+
+
+
+<!-- PLEBVOX:END -->
+
+----
+
+<!-- PLEBVOX:START -->
+
 
 ### 🔑 A Place for the Human Side of PlebWare.
 
@@ -42,6 +54,13 @@ They may even be slightly eccentric.
 
 That is allowed.
 
+<!-- PLEBVOX:END -->
+
+
+----
+
+<!-- PLEBVOX:START -->
+
 ### 🖥️ From the Desktop to the Website.
 
 PlebMachine is being developed around the idea that technology should adapt to the human operator.
@@ -54,6 +73,13 @@ Likewise, something discovered while using the website may suggest an improvemen
 
 **The two should learn from one another.**
 
+----
+
+<!-- PLEBVOX:END -->
+
+<!-- REVIEWED -->
+
+
 ### 📚 The Reflections.
 
 <ul>
@@ -64,3 +90,4 @@ Likewise, something discovered while using the website may suggest an improvemen
   <li>No Everyday Reflections posts yet.</li>
 {% endfor %}
 </ul>
+
