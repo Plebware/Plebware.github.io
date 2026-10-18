@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - Everyday PlebMachine User (Mode 01)"
-description: "Explore Everyday PlebMachine User, Mode 01 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "everyday"
 permalink: /everyday/01-everyday-plebmachine-user/
 ---
