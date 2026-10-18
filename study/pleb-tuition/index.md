@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 01 - PlebTuition.
+title: 02 - PlebTuition.
 ---
 
 # 📚 PlebWare Tuition — Learning Without Limits.
