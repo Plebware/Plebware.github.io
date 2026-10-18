@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - Author PlebMachine User (Mode 02)"
-description: "Explore Author PlebMachine User, Mode 02 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "author"
 permalink: /author/02-author-plebmachine-user/
 ---
