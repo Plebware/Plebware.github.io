@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - Research PlebMachine User (Mode 04)"
-description: "Explore Research PlebMachine User, Mode 04 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "research"
 permalink: /research/04-research-plebmachine-user/
 ---
