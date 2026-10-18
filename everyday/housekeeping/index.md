@@ -1,17 +1,28 @@
 ---
 layout: default
-title: Housekeeping
+title: 01a - Housekeeping
 ---
 
 # 🧹 **Housekeeping**
 
 
-**Good housekeeping** extends far beyond keeping a home neat. **It is the practice of maintaining order**, cleanliness, efficiency, and reliability in every environment we depend upon — from our **living spaces** and **workplaces** to our computers, websites, and digital projects.
+**Good housekeeping** extends far beyond keeping a home neat. **It is the practice of maintaining order, cleanliness, efficiency, and reliability in every environment we depend on — from our **living spaces** and **workplaces** to our computers, websites, and digital projects. **
 
 **Housekeeping covers:** daily cleaning routines, home organisation strategies, maintenance schedules, decluttering methods, and practical systems that help prevent small problems from becoming larger ones. A **well-maintained environment** saves time, reduces stress, improves productivity, and extends the lifespan of the tools and equipment we use every day.
 
-----
+<img src="/assets/images/transparent-spacer-32x32.webp"
+     alt=""
+     width="32"
+     height="32"
+     aria-hidden="true">
 
+----
+<img src="/assets/images/transparent-spacer-32x32.webp"
+     alt=""
+     width="32"
+     height="32"
+     aria-hidden="true">
+----
 <ul>
 {% assign posts = site.posts | where_exp: "post", "post.path contains 'everyday/housekeeping/'" %}
 {% for post in posts %}
