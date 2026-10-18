@@ -2,7 +2,7 @@
 layout: post
 title: "Personal Copy-and-Paste Codes – PlebWare Collaborator Quick Reference"
 date: 2026-07-13
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-18
 category: "housekeeping"
 tags: [copy, paste, collaborators, links, images, reviewed, front-matter, plebvox]
 mode: "everyday"
@@ -109,7 +109,33 @@ The marker is the easiest option for ordinary PlebWare articles. The manual snip
 
 ---
 
-## 3. 📝 Start a New Article
+## 3. 📏 Add Whitespace with the SPACE Marker
+
+Need a small, predictable gap in an article? Put the following marker on its own line wherever you want a 32 × 32 pixel transparent spacer:
+
+```html
+<!-- SPACE -->
+```
+
+The shared PlebWare theme can replace this marker with the transparent image at `/assets/images/transparent-spacer-32x32.webp` once marker handling has been implemented and deployed. Until that theme support is available, the comment itself is invisible and will **not** create whitespace on its own.
+
+### Manual fallback
+
+If the marker is not being processed by the theme, use this HTML directly:
+
+```html
+<img src="{{ '/assets/images/transparent-spacer-32x32.webp' | relative_url }}"
+     alt=""
+     width="32"
+     height="32"
+     aria-hidden="true">
+```
+
+This is a decorative spacer, so its alternative text is intentionally empty. The image is 32 pixels wide and 32 pixels high.
+
+---
+
+## 4. 📝 Start a New Article
 
 Jekyll front matter belongs at the very top of the file. Keep the three opening and closing dashes.
 
