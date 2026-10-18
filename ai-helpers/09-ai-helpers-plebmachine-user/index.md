@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "01 - AI Helpers PlebMachine User (Mode 09)"
-description: "Explore AI Helpers PlebMachine User, Mode 09 of PlebMachine, with tutorials, tools, practical guides, and learning resources from PlebWare."
 mode: "ai-helpers"
 permalink: /ai-helpers/09-ai-helpers-plebmachine-user/
 ---
