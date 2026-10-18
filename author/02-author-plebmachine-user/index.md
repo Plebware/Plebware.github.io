@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "01 - Author PlebMachine User (Mode 02)"
+title: 01 - Author PlebMachine User (Mode 02)
 mode: "author"
 permalink: /author/02-author-plebmachine-user/
 ---
