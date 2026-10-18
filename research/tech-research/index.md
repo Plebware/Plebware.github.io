@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tech Research
+title: 02 - Tech Research
 ---
 
 # 🔬 Tech Research
