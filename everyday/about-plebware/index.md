@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "02-about-plebware"
+title: "02 - About PlebWare"
 ---
 
 # 🔬 PlebWare Under the Microscope
