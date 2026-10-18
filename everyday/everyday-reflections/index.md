@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Everyday Reflections
+title: 03 - Everyday Reflections
 ---
 
 🪞 **Everyday Reflections**
