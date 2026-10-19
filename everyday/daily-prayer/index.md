@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Daily Prayer
+title: 07 - Daily Prayer
 ---
 
 # 🙏 Daily Prayer
