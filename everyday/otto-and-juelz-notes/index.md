@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Otto and Juelz - Notes
+title: 13 - PlebWare  Notes
 ---
 
-# 📝 Otto and Juelz - Notes
+# 📝 Otto and Juelz - Notes on PlebWare
 
 A shared notebook for the ideas, experiments, discoveries, and working notes of Otto and Juelz.
 
