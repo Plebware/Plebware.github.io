@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cook Books
+title: 08 - Cook Books
 ---
 
 # 📖 Cook Books
