@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Literacy Research"
+title: 06 - Digital Literacy Research
 date: 2026-09-15
 category: "research"
 tags: [digital-literacy, technology, privacy, digital-skills, plebware]
