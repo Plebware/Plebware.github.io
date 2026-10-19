@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Artificial Intelligence Research"
+title: "04 - Researching Artificial Intelligence"
 date: 2026-09-16
 category: "research"
 tags: [artificial-intelligence, ai, technology, digital-literacy, plebware]
