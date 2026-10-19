@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christian Research
+title: 12 - Christian Research
 ---
 
 # ✝️ Christian Research
