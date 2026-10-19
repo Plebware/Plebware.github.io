@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fitness Training
+title: 10 - Fitness Training
 ---
 
 # 💪 Fitness Training
