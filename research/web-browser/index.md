@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web Browser Research
+title: 10 - Web Browser Research
 ---
 
 # 🌐 Web Browser Research
