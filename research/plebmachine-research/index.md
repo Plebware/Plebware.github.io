@@ -1,9 +1,9 @@
 ---
 layout: default
-title: PlebMachine Research
+title: 08 - PlebMachine Research
 ---
 
-# 08 - ⚙️ PlebMachine Research
+#  ⚙️ PlebMachine Research
 
 Architecture, orchestration, and state‑driven design for PlebMachine.
 
