@@ -43,4 +43,10 @@ Use this section to learn the basics, explore suitable applications, follow prac
 
 PlebMachine helps shape the desktop around your chosen activity. PlebWare helps you understand the activity, learn the tools, and find the information needed to make progress. Neither replaces your judgement: technology should serve people, not take control away from them.
 
+----
+
+<!-- REVIEWED -->
+
+----
+
 [Return to the main Author section.]({{ '/author/' | relative_url }})
