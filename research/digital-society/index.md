@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Society Research"
+title: 07 - Digital Society Research
 date: 2026-09-16
 category: "research"
 tags: [digital-society, technology, society, digital-literacy, plebware]
