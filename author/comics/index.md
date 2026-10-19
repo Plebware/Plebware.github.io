@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comics
+title: 09 - Comics
 ---
 
 # 🎨 Comics
