@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gemini Notebook Research
+title: * - Gemini Notebook Research
 ---
 
 # 📓 Gemini Notebook Research
