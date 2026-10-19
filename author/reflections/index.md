@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Author Reflections
+title: 06 - Author Reflections
 mode: "author"
 ---
 
