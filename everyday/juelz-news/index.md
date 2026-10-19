@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Juelz News
+title: 15 - Juelz News
 mode: "everyday"
 author: "Juelz Smit"
 ---
