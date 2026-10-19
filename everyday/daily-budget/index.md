@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Daily Budget
+title: 08 - Daily Budget
 ---
 
 # 💰 Daily Budget
