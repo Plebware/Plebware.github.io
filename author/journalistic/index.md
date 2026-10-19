@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Journalistic Writing
+title: 07 - Journalistic Writing
 ---
 
 # 📰 Journalistic Writing
