@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cybersecurity Research"
+title: "03 - Cybersecurity Research"
 date: 2026-09-16
 category: "research"
 tags: [cybersecurity, privacy, security, digital-literacy, plebware]
