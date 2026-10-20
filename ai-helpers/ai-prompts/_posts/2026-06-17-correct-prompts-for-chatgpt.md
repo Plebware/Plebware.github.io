@@ -18,7 +18,7 @@ date: 2026-06-17
 
 *"The quality of the answer is often determined by the quality of the question."*
 
-Many people try ChatGPT once or twice and conclude that it is inaccurate, confusing, or not particularly useful. In most cases the problem is not the AI—it is the prompt.
+Many people try ChatGPT once or twice and conclude that it is inaccurate, confusing, or not particularly useful. In most cases the problem is not the Artificial Intelligence—it is the prompt.
 
 Think of ChatGPT as a highly intelligent assistant with no knowledge of what is inside your head. The more information you provide, the better the response becomes.
 
@@ -78,7 +78,7 @@ Vague questions produce vague answers.
 
 > Write a 1,500-word article about military science fiction, including examples from classic and modern novels.
 
-The AI now knows:
+The Artificial Intelligence now knows:
 
 * Topic
 * Length
@@ -192,7 +192,7 @@ The same information can be delivered in many different styles.
 
 ## 6. Add Constraints
 
-Constraints help the AI focus.
+Constraints help the Artificial Intelligence focus.
 
 Examples:
 
@@ -400,7 +400,7 @@ Try:
 
 <!-- PLEBVOX:START -->
 
-## Ask The AI To Think Like An Expert
+## Ask The Artificial Intelligence To Think Like An Expert
 
 Examples:
 
@@ -431,9 +431,9 @@ Example:
 
 ## Being Too Vague
 
-❌ Tell me about AI.
+❌ Tell me about Artificial Intelligence.
 
-✅ Explain how AI assists authors writing science fiction.
+✅ Explain how Artificial Intelligence assists authors writing science fiction.
 
 ---
 
