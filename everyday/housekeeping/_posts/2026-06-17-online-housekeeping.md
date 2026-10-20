@@ -111,7 +111,7 @@ Author and Publishing Headquarters
    - ___WINDOWS
    - __IconRepository
    - Author's art
-   - Avantars AI
+   - Avantars Artificial Intelligence
    - BOOK-COVERS
    - Brandon
    - 
@@ -233,7 +233,7 @@ PlebWare Publishing Organization
 #### 📁 Tutorials
 
 - Linux Tutorials
-- AI Tutorials
+- Artificial Intelligence Tutorials
 - Writing Tutorials
 
 #### 📁 Media
