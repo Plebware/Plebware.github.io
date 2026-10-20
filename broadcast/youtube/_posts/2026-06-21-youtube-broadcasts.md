@@ -69,7 +69,7 @@ Examples include:
 
 * Linux tutorials
 * Programming lessons
-* AI demonstrations
+* Artificial Intelligence demonstrations
 * Graphic design techniques
 * Productivity workflows
 * Research methods
