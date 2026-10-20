@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence Peer Review: What 4 AIs Say About Otto"
+title: "Artificial Intelligence Peer Review: What Four Artificial Intelligence Systems Say About Otto"
 date: 2026-07-11
 category: "AI Section"
 tags: [ai, plebware, self-review, gemini, chatgpt, deepseek, meta-ai]
