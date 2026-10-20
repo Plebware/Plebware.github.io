@@ -275,3 +275,5 @@ The contributor list below is **generated automatically from the PlebWare GitHub
     } else { init(); observer.observe(document.body, { attributes: true, attributeFilter: ['class'] }); }
 })();
 </script>
+
+<!-- GitHub Pages refresh trigger: 2026-10-20 -->
