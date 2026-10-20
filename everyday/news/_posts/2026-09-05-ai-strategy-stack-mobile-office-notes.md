@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "AI Strategy Stack — Mobile Office Notes."
+title: "Artificial Intelligence Strategy Stack — Mobile Office Notes."
 date: 2026-09-05
 ---
 
 <!-- PLEBVOX:START -->
 
-# The Mobile Office Gets an AI Upgrade.
+# The Mobile Office Gets an Artificial Intelligence Upgrade.
 
 **Date:** 2026-09-05  
 **Location:** Fordsburg Office (Ford) — Mobile Setup.  
@@ -16,11 +16,11 @@ date: 2026-09-05
 
 <!-- CLIPBOX:START -->
 
-## A Pocket-Sized AI Command Centre.
+## A Pocket-Sized Artificial Intelligence Command Centre.
 
 This morning's little experiment from the Fordsburg mobile office is another step in turning the smartphone into a genuine portable PlebMachine.
 
-Instead of expecting one AI system to do absolutely everything, the workflow is now divided into dedicated roles.
+Instead of expecting one Artificial Intelligence system to do absolutely everything, the workflow is now divided into dedicated roles.
 
 That means each tool gets a job — and, importantly, doesn't have to carry the whole workload.
 
@@ -28,7 +28,7 @@ That means each tool gets a job — and, importantly, doesn't have to carry the 
 
 <!-- PLEBVOX:START -->
 
-## The Current AI Strategy.
+## The Current Artificial Intelligence Strategy.
 
 ### 1. Gemini — Primary Assistant.
 
@@ -66,7 +66,7 @@ The interesting part is that this isn't really a demotion.
 
 It is **specialisation**.
 
-Instead of asking every AI to be everything, each one gets a defined place in the toolbox.
+Instead of asking every Artificial Intelligence to be everything, each one gets a defined place in the toolbox.
 
 <!-- PLEBVOX:END -->
 
@@ -106,13 +106,13 @@ GitHub provides the workshop and publishing infrastructure, while Markdown remai
 
 ## Why This Matters.
 
-The point isn't to collect AI tools simply because they are available.
+The point isn't to collect Artificial Intelligence tools simply because they are available.
 
 The point is to build a **working ecosystem** where each tool contributes something useful.
 
 The mobile phone becomes the terminal.
 
-The AI tools become specialised assistants.
+The Artificial Intelligence tools become specialised assistants.
 
 PlebMachine provides the local working environment.
 
@@ -124,7 +124,7 @@ It is a deliberately decentralised approach to getting useful work done without 
 
 All tools remain focused on being **open, accessible, and free for personal use**, with the broader goal of empowering people who are priced out of expensive corporate software ecosystems.
 
-Today's Fordsburg mobile-office experiment may look like a simple collection of AI apps on a phone.
+Today's Fordsburg mobile-office experiment may look like a simple collection of Artificial Intelligence apps on a phone.
 
 But underneath it is something rather more interesting:
 
