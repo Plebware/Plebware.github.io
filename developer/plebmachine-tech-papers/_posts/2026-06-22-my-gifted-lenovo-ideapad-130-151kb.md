@@ -10,7 +10,7 @@ date: 2026-06-22
 
 One of the most significant hardware gifts I have received is my **Lenovo IdeaPad 130-15IKB**, which currently carries the computer name **PLEBMACHINE**.
 
-Although not a gaming machine, it provides an excellent balance between performance, reliability, and efficiency. It has become a valuable platform for writing, Linux experimentation, AI research, web publishing, and ongoing PlebMachine development.
+Although not a gaming machine, it provides an excellent balance between performance, reliability, and efficiency. It has become a valuable platform for writing, Linux experimentation, Artificial Intelligence research, web publishing, and ongoing PlebMachine development.
 
 ---
 
@@ -53,7 +53,7 @@ This processor delivers more than enough performance for:
 - ✍️ Writing and publishing
 - 🌐 Web development
 - 🐧 Linux testing
-- 🤖 AI-assisted productivity
+- 🤖 Artificial Intelligence-assisted productivity
 - 📚 Research and study
 - 🎨 Light graphics work
 
@@ -217,7 +217,7 @@ It is well suited for:
 As a dedicated **PlebMachine** development platform, this laptop provides:
 
 - ✍️ Writing capability for PlebWare publishing
-- 🤖 AI-assisted research and development
+- 🤖 Artificial Intelligence-assisted research and development
 - 🌐 GitHub Pages content creation
 - 🐧 Linux testing and deployment
 - 📚 Educational content production
