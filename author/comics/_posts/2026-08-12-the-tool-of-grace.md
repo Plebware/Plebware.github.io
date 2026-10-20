@@ -96,7 +96,7 @@ It is being used for:
 * **Graphics, image preparation, and creative projects.**
 * **Website development and GitHub work.**
 * **Organising projects, documents, backups, and archives.**
-* **Working with AI tools as part of the writing and development process.**
+* **Working with Artificial Intelligence tools as part of the writing and development process.**
 * **Learning new technologies and finding practical ways to make them useful.**
 
 Some of the things created on this machine will eventually be read by people I will never meet.
