@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Creating Multiple Articles at Once with AI"
+title: "Creating Multiple Articles at Once with Artificial Intelligence"
 date: 2026-06-10
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Creating Multiple Articles at Once with AI
+# 🔑 Creating Multiple Articles at Once with Artificial Intelligence
 
 One of the most interesting experiments I've attempted recently involved creating multiple pieces of content simultaneously using artificial intelligence.
 
@@ -26,7 +26,7 @@ Create three completely different articles at the same time.
 
 1. A recipe.
 2. A game review.
-3. An article about AI-assisted productivity.
+3. An article about Artificial Intelligence-assisted productivity.
 
 Normally these would be written separately.
 
@@ -53,13 +53,13 @@ Each activity generated ideas that could be transformed into content.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Using AI as a Writing Assistant
+## 🔑 Using Artificial Intelligence as a Writing Assistant
 
 My preferred writing assistant remains ChatGPT.
 
-The role of AI is not to replace the author.
+The role of Artificial Intelligence is not to replace the author.
 
-The role of AI is to help organise thoughts, improve structure, and transform rough notes into readable articles.
+The role of Artificial Intelligence is to help organise thoughts, improve structure, and transform rough notes into readable articles.
 
 The author still provides:
 
@@ -68,7 +68,7 @@ The author still provides:
 * The facts
 * The personality
 
-The AI helps assemble the pieces.
+The Artificial Intelligence helps assemble the pieces.
 
 <!-- PLEBVOX:END -->
 
@@ -78,7 +78,7 @@ The AI helps assemble the pieces.
 
 A useful approach is simply to record events as they happen:
 
-> I'm cooking soup, listening to an audiobook, playing Raid Shadow Legends, editing GitHub Pages CSS, and writing articles simultaneously. Turn these notes into separate articles covering cooking, gaming, and AI-assisted productivity.
+> I'm cooking soup, listening to an audiobook, playing Raid Shadow Legends, editing GitHub Pages CSS, and writing articles simultaneously. Turn these notes into separate articles covering cooking, gaming, and Artificial Intelligence-assisted productivity.
 
 From a single collection of notes, multiple articles can be produced.
 
@@ -96,7 +96,7 @@ The gaming session became a review.
 
 The cooking process became a recipe article.
 
-The writing process became an AI productivity article.
+The writing process became an Artificial Intelligence productivity article.
 
 One afternoon generated content for three different sections of the website.
 
@@ -110,7 +110,7 @@ One afternoon generated content for three different sections of the website.
 
 Interesting articles often begin as simple notes.
 
-### 🔑 Lesson 2: AI Works Best with Real Experiences
+### 🔑 Lesson 2: Artificial Intelligence Works Best with Real Experiences
 
 The more authentic the source material, the better the final article.
 
@@ -138,7 +138,7 @@ The experiment was a success.
 
 While the soup simmered, the game farmed resources, the audiobook played, and website improvements were planned, three articles emerged from one afternoon's activities.
 
-That is the real power of combining human creativity with AI assistance.
+That is the real power of combining human creativity with Artificial Intelligence assistance.
 
 Not replacing the author.
 
