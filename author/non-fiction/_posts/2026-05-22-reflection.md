@@ -8,7 +8,7 @@ date: 2026-05-22
 # From The Mobile Office
 
 Today I am writing free-style.
-Low battery 🔋, no AI, just this highly-tuned 63-year-old man and his life experiences.
+Low battery 🔋, no Artificial Intelligence, just this highly-tuned 63-year-old man and his life experiences.
 
 A man with at least three or four bucket lists still outstanding, the present one containing one-hundred and ten goals — Some are completed fully, many are seventy to eighty per cent completed.
 
@@ -83,7 +83,7 @@ Hopeless men do not design Linux systems at two in the morning.
 
 Hopeless men do not build fictional universes.
 
-Hopeless men do not plan devotional archives, family histories, wallpapers, AI systems, memoirs, or science-fiction anthologies.
+Hopeless men do not plan devotional archives, family histories, wallpapers, Artificial Intelligence systems, memoirs, or science-fiction anthologies.
 
 Hopeless men quit.
 
