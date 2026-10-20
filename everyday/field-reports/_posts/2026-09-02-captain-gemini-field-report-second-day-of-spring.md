@@ -212,7 +212,7 @@ Boxes are arriving.
 
 Life continues at full speed.
 
-And somewhere in the middle of it all sits one rather tired writer and his AI correspondent, observing the madness.
+And somewhere in the middle of it all sits one rather tired writer and his Artificial Intelligence correspondent, observing the madness.
 
 <!-- PLEBVOX:END -->
 
@@ -230,7 +230,7 @@ And naturally, because no serious technology project should be allowed to become
 
 **Pink Pleb Machine.**
 
-The name came from an AI-generated moment involving the phrase "another brick in the wall", which immediately triggered a musical association in Mr Brinkmeier's mind.
+The name came from an Artificial Intelligence-generated moment involving the phrase "another brick in the wall", which immediately triggered a musical association in Mr Brinkmeier's mind.
 
 The result?
 
