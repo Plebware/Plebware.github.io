@@ -200,7 +200,7 @@ The objective is not to reinvent Linux.
 
 The objective is to organise it.
 
-PlebMachine provides a structured environment for different kinds of work — from writing and research to graphics, music, video, development, accounting, AI assistance, and everyday computing.
+PlebMachine provides a structured environment for different kinds of work — from writing and research to graphics, music, video, development, accounting, Artificial Intelligence assistance, and everyday computing.
 
 The computer becomes a workspace rather than merely a collection of applications.
 
@@ -228,7 +228,7 @@ PlebWare is the publishing side.
 
 PlebMachine is the computing side.
 
-And AI has now become another tool within that ecosystem.
+And Artificial Intelligence has now become another tool within that ecosystem.
 
 <!-- PLEBVOX:END -->
 
@@ -236,7 +236,7 @@ And AI has now become another tool within that ecosystem.
 
 <!-- PLEBVOX:START -->
 
-## The AI Question.
+## The Artificial Intelligence Question.
 
 This brings me to one of the most important parts of the experiment.
 
@@ -244,11 +244,11 @@ This brings me to one of the most important parts of the experiment.
 
 But powerful tools can be used intelligently or irresponsibly.
 
-I don't believe AI should replace human thinking.
+I don't believe Artificial Intelligence should replace human thinking.
 
 I believe it should **assist human thinking**.
 
-I use AI assistants to research, brainstorm, troubleshoot, write, analyse, experiment, and learn.
+I use Artificial Intelligence assistants to research, brainstorm, troubleshoot, write, analyse, experiment, and learn.
 
 The human still has to make the decisions.
 
@@ -272,7 +272,7 @@ There is another reason this matters to me.
 
 Computing has become incredibly powerful, but access to that power isn't equal.
 
-There are people who cannot afford expensive computers, expensive software subscriptions, expensive hosting, or corporate AI services.
+There are people who cannot afford expensive computers, expensive software subscriptions, expensive hosting, or corporate Artificial Intelligence services.
 
 That doesn't mean they shouldn't have access to technology.
 
@@ -296,7 +296,7 @@ Use free hosting where practical.
 
 Learn rather than simply consume.
 
-And use AI as an assistant rather than a replacement for human ability.
+And use Artificial Intelligence as an assistant rather than a replacement for human ability.
 
 <!-- PLEBVOX:END -->
 
@@ -340,17 +340,17 @@ The road continues.
 
 This is **Field Report #2 for 5 September 2026 — the fifth day of Spring.**
 
-The article was captured and developed from my mobile office in Fordsburg using Meta AI as part of my continuing experiment with multiple AI assistants.
+The article was captured and developed from my mobile office in Fordsburg using Meta AI as part of my continuing experiment with multiple Artificial Intelligence assistants.
 
-The point isn't which AI is "the best."
+The point isn't which Artificial Intelligence is "the best."
 
 The point is learning how to use these tools intelligently, economically, and responsibly.
 
-I am deliberately experimenting with different AI systems because I want to discover how much useful work can be accomplished without spending money I don't have.
+I am deliberately experimenting with different Artificial Intelligence systems because I want to discover how much useful work can be accomplished without spending money I don't have.
 
 That is the real PlebMachine experiment.
 
-**Affordable computing. Responsible AI. Human control.**
+**Affordable computing. Responsible Artificial Intelligence. Human control.**
 
 And perhaps most importantly:
 
