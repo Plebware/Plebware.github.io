@@ -148,22 +148,22 @@ Inkscape is to vector graphics (SVG) what GIMP is to raster (JPG/PNG). It is use
 ---
 
 ### Upscayl
-**The AI that Respects You**
+**The Artificial Intelligence that Respects You**
 
-Most AI image upscalers require you to upload your images to the cloud. Upscayl runs *locally* on your machine using AI models.
+Most Artificial Intelligence image upscalers require you to upload your images to the cloud. Upscayl runs *locally* on your machine using Artificial Intelligence models.
 
 **Why it stays in my workflow:**
 - **Privacy:** Your images never leave your computer.
 - **Offline:** You can use it without an internet connection.
-- **Quality:** It uses advanced AI models (Real-ESRGAN) to enhance and enlarge images with impressive results.
+- **Quality:** It uses advanced Artificial Intelligence models (Real-ESRGAN) to enhance and enlarge images with impressive results.
 
 **Who it's for:** Anyone who needs to restore old photos or improve image resolution without trusting a third-party server.
 
 ---
 
-## 🤖 AI: The Modern Assistant
+## 🤖 Artificial Intelligence: The Modern Assistant
 
-AI is a powerful tool, but it is also a privacy minefield. These tools allow you to leverage AI while maintaining control.
+Artificial Intelligence is a powerful tool, but it is also a privacy minefield. These tools allow you to leverage Artificial Intelligence while maintaining control.
 
 ### ChatGPT (Web Interface)
 **The Generalist**
@@ -189,7 +189,7 @@ LM Studio is a desktop application that lets you download and run Large Language
 - **Model Exploration:** You can easily download different models (like Llama 3, Mistral) and test them side-by-side.
 - **No Censorship (Usually):** Local models often have less restrictive guardrails than their cloud counterparts, allowing for more nuanced discussion.
 
-**Who it's for:** AI enthusiasts, privacy advocates, and developers who want to experiment with local AI.
+**Who it's for:** Artificial Intelligence enthusiasts, privacy advocates, and developers who want to experiment with local Artificial Intelligence.
 
 ---
 
