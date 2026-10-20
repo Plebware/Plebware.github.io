@@ -29,9 +29,9 @@ In this article, we will explore how to use it sensibly, what it can do for a re
 
 ---
 
-## 📓 1. What Is Gemini Notebook?
-
 <!-- PLEBVOX:START -->
+
+## 📓 1. What Is Gemini Notebook?
 
 Google renamed NotebookLM to **Gemini Notebook in July 2026**. According to Google's official website, the change reflects its wider effort to integrate notebooks into the Gemini AI experience. Existing notebooks remain accessible.
 
@@ -64,9 +64,10 @@ Official references:
 
 ---
 
+<!-- PLEBVOX:START -->
+
 ## 💰 2. Can You Use It Without Paying?
 
-<!-- PLEBVOX:START -->
 
 For someone trying to make every rand count, free access is an important consideration.
 
@@ -92,9 +93,9 @@ Do not buy a subscription merely because a feature looks impressive. First estab
 
 ---
 
-## 🐧 3. Managing a Linux Software Project Like PlebMachine.
-
 <!-- PLEBVOX:START -->
+
+## 🐧 3. Managing a Linux Software Project Like PlebMachine.
 
 A software project can accumulate an enormous amount of information: source code, configuration files, design decisions, bug reports, installation instructions, test results, and ideas for future improvements.
 
@@ -153,9 +154,9 @@ The notebook becomes a documentation assistant, not the final authority on your 
 
 ---
 
-## 🌐 4. Improving a Website Like PlebWare.
-
 <!-- PLEBVOX:START -->
+
+## 🌐 4. Improving a Website Like PlebWare.
 
 A website is more than a collection of articles. It is a system that helps visitors find information, understand ideas, learn new skills, and discover related material.
 
@@ -209,9 +210,9 @@ The goal is not to link everything to everything else. It is to help readers dis
 
 ---
 
-## ✍️ 5. A Research and Writing Partner.
-
 <!-- PLEBVOX:START -->
+
+## ✍️ 5. A Research and Writing Partner.
 
 Research often begins with scattered notes, multiple documents, and questions that are not yet clearly defined.
 
@@ -240,9 +241,9 @@ The author's voice and judgement still matter. AI-generated writing should be ed
 
 ---
 
-## 🔐 6. Privacy, Security, and Accuracy.
-
 <!-- PLEBVOX:START -->
+
+## 🔐 6. Privacy, Security, and Accuracy.
 
 A tool that can read documents deserves careful consideration, especially when those documents contain personal information or confidential project material.
 
@@ -278,9 +279,9 @@ For important decisions, return to the original sources and verify the relevant 
 
 ---
 
-## 🎬 7. What About AI-Generated Videos and Landscape Formats?
-
 <!-- PLEBVOX:START -->
+
+## 🎬 7. What About AI-Generated Videos and Landscape Formats?
 
 AI video generation is an attractive feature, particularly for people creating educational content, presentations, or social media material.
 
@@ -298,9 +299,9 @@ Do not build a workflow around a feature until you have confirmed that it is ava
 
 ---
 
-## 🚀 8. Your First Notebook — A Simple Starting Exercise.
-
 <!-- PLEBVOX:START -->
+
+## 🚀 8. Your First Notebook — A Simple Starting Exercise.
 
 You do not need to organise an entire project on the first day. Begin with a small experiment.
 
@@ -342,9 +343,9 @@ This final step matters. A notebook is a place to think and investigate; it shou
 
 ---
 
-## 📚 9. Official Sources and Further Reading.
-
 <!-- PLEBVOX:START -->
+
+## 📚 9. Official Sources and Further Reading.
 
 The following official Google resources support the product information and guidance in this article.
 
@@ -361,9 +362,9 @@ Product features and limits were checked against the official resources availabl
 
 ---
 
-## 💡 10. The Bigger Lesson — Technology Should Expand Opportunity.
-
 <!-- PLEBVOX:START -->
+
+## 💡 10. The Bigger Lesson — Technology Should Expand Opportunity.
 
 The real value of an AI research assistant is not that it can produce a large quantity of text. It is that it can help people make better use of information they already possess.
 
@@ -388,3 +389,8 @@ You do not need to spend a fortune to begin learning, researching, developing, a
 *PlebWare — Technology should remain connected to humanity.*
 
 *Otto — The Keyboard Is Mightier Than The Pen.*
+<!-- SPACE -->
+<!-- REVIEWED -->
+<!-- SPACE -->
+
+This article was written by prompting Gemini to explain how to use Gemini Notebook, then collaborating with ChatGPT to polish the grammar and provide independent perspectives on its pros and cons.
