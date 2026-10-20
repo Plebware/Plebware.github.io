@@ -12,7 +12,7 @@ date: 2026-06-30
 
 <!-- PLEBVOX:START -->
 
-## 🛡️ Deep Fakes Must Be Stopped: A Call to Action for Responsible AI Use
+## 🛡️ Deep Fakes Must Be Stopped: A Call to Action for Responsible Artificial Intelligence Use
 
 > ***"Truth Revealed by Blood and Fire"***
 > *Sanguine et Igne Veritas Revelata*
@@ -27,7 +27,7 @@ date: 2026-06-30
 
 The rapid spread of **deep fakes** and synthetic media is steadily eroding public trust and distorting our understanding of truth. Images, voices, videos, and even written content can now be fabricated so convincingly that distinguishing fact from fiction has become increasingly difficult.
 
-As someone who actively works with Artificial Intelligence to demonstrate its **redemptive and constructive potential**, I believe AI should be a tool that serves humanity rather than deceives it.
+As someone who actively works with Artificial Intelligence to demonstrate its **redemptive and constructive potential**, I believe Artificial Intelligence should be a tool that serves humanity rather than deceives it.
 
 For this reason, I applied for membership of the **Coalition for Content Provenance and Authenticity (C2PA)** as a public demonstration of my commitment to digital authenticity. It is an endeavour that I intend to pursue regardless of whether my application is ultimately accepted.
 
@@ -58,11 +58,11 @@ Every article, every illustration, every voice recording, every design, and ever
 
 <!-- PLEBVOX:START -->
 
-## 🤖 Responsible AI, Not Fear of AI
+## 🤖 Responsible Artificial Intelligence, Not Fear of Artificial Intelligence
 
 I am **not opposed to Artificial Intelligence**.
 
-On the contrary, I believe AI has enormous potential to:
+On the contrary, I believe Artificial Intelligence has enormous potential to:
 
 * 💡 Educate
 * 📚 Assist research
@@ -77,13 +77,13 @@ I stand firmly against:
 
 * ❌ Deep fakes designed to deceive
 * ❌ Synthetic media intended to manipulate
-* ❌ Fraudulent AI-generated identities
+* ❌ Fraudulent Artificial Intelligence-generated identities
 * ❌ Disinformation campaigns
-* ❌ The misuse of AI to spread lies or damage reputations
+* ❌ The misuse of Artificial Intelligence to spread lies or damage reputations
 
 I stand **for**:
 
-* ✅ Responsible AI development
+* ✅ Responsible Artificial Intelligence development
 * ✅ Transparency
 * ✅ Ethical content creation
 * ✅ Provenance and authenticity
@@ -95,7 +95,7 @@ I stand **for**:
 
 <!-- PLEBVOX:START -->
 
-## 🖼️ AI-Assisted Creative Work
+## 🖼️ Artificial Intelligence-Assisted Creative Work
 
 Some images featured on this website, together with my other websites and blogs, have been created with the assistance of Artificial Intelligence tools, including **OpenAI** and other creative platforms.
 
@@ -114,11 +114,11 @@ These tools are used solely to:
 
 ## ✍️ Original Authorship
 
-Despite making responsible use of AI-assisted creative tools:
+Despite making responsible use of Artificial Intelligence-assisted creative tools:
 
 > **All written works, articles, devotions, research, and book designs remain the original intellectual creations of Othello Cody Verrocchio.**
 
-AI serves as a creative assistant—not as the author.
+Artificial Intelligence serves as a creative assistant—not as the author.
 
 The ideas, research, structure, conclusions, and published works remain my own.
 
@@ -134,9 +134,9 @@ I wish to reiterate my position clearly.
 
 I am **not against Artificial Intelligence**.
 
-I stand for the **ethical, transparent, and responsible use of AI**.
+I stand for the **ethical, transparent, and responsible use of Artificial Intelligence**.
 
-I oppose the creation and distribution of **deepfakes**, deceptive synthetic media, and every form of irresponsible AI usage that seeks to undermine trust, truth, and human dignity.
+I oppose the creation and distribution of **deepfakes**, deceptive synthetic media, and every form of irresponsible Artificial Intelligence usage that seeks to undermine trust, truth, and human dignity.
 
 The future of Artificial Intelligence should not be built upon deception.
 
