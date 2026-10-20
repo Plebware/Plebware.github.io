@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Why AI Image Generators Struggle to Follow Instructions"
+title: "Why Artificial Intelligence Image Generators Struggle to Follow Instructions"
 date: 2026-08-21
 ---
 
 <!-- PLEBVOX:START -->
 
-# Why AI Struggles to Recreate the Same Image.
+# Why Artificial Intelligence Struggles to Recreate the Same Image.
 
 <img src="/assets/images/ai-image-woes.webp" alt="AI Image Woes — a humorous science-fiction illustration showing an AI struggling to recreate the same image while repeatedly changing the composition, monitor position, and reserved desktop space." style="max-width: 100%; height: auto;">
 
-There is a peculiar moment that almost every serious AI image creator eventually experiences.
+There is a peculiar moment that almost every serious Artificial Intelligence image creator eventually experiences.
 
 You create an image.
 
@@ -18,7 +18,7 @@ It is exactly what you wanted.
 
 The composition is right. The lighting is right. The furniture is in the right place. The screen is exactly where you wanted it. There is a lovely empty area for your desktop widgets.
 
-So you ask the AI:
+So you ask the Artificial Intelligence:
 
 > “Make another one exactly like this, but change the scene.”
 
@@ -34,11 +34,11 @@ The camera has mysteriously moved six feet to the left.
 
 The thing that was supposed to occupy the left two-thirds of the image now occupies half of it.
 
-And the AI cheerfully presents the result as though nothing has happened.
+And the Artificial Intelligence cheerfully presents the result as though nothing has happened.
 
 **What the hell just happened?**
 
-The short answer is that an AI image generator does not think about an image in quite the same way that a human designer does.
+The short answer is that an Artificial Intelligence image generator does not think about an image in quite the same way that a human designer does.
 
 And that difference becomes extremely important when you are trying to create a **repeatable visual template**.
 
@@ -46,9 +46,9 @@ And that difference becomes extremely important when you are trying to create a 
 
 <!-- PLEBVOX:START -->
 
-## The AI Is Not Really “Copying” Your Image.
+## The Artificial Intelligence Is Not Really “Copying” Your Image.
 
-One of the biggest misunderstandings about generative AI is the idea that it works like a very sophisticated copy machine.
+One of the biggest misunderstandings about generative Artificial Intelligence is the idea that it works like a very sophisticated copy machine.
 
 It doesn't.
 
@@ -94,7 +94,7 @@ there is little ambiguity.
 
 The designer understands that the **composition itself** is the requirement.
 
-An AI may instead interpret the instruction more semantically:
+An Artificial Intelligence may instead interpret the instruction more semantically:
 
 > “A monitor should appear somewhere toward the left side.”
 
@@ -122,7 +122,7 @@ can still produce surprisingly inconsistent results.
 
 ## The More Instructions You Give It, the More Things Can Go Wrong.
 
-We naturally assume that giving an AI **more instructions** will make it more accurate.
+We naturally assume that giving an Artificial Intelligence **more instructions** will make it more accurate.
 
 Sometimes it does.
 
@@ -200,15 +200,15 @@ But they still don't magically turn a generative model into Photoshop.
 
 <!-- PLEBVOX:START -->
 
-## So How Do We Make AI Behave More Like a Designer?
+## So How Do We Make Artificial Intelligence Behave More Like a Designer?
 
-The answer is to stop asking the AI to solve **everything at once**.
+The answer is to stop asking the Artificial Intelligence to solve **everything at once**.
 
 Instead, separate the job into two stages.
 
 ### Stage One: Build the Template.
 
-Tell the AI that you are **not asking for the final artwork**.
+Tell the Artificial Intelligence that you are **not asking for the final artwork**.
 
 You are asking it to create a reusable composition.
 
@@ -253,7 +253,7 @@ You keep the template and change the artwork inside it.
 
 <!-- PLEBVOX:START -->
 
-## A Practical AI Template Prompt.
+## A Practical Artificial Intelligence Template Prompt.
 
 For a PlebWare-style desktop wallpaper, I would start with something like this:
 
@@ -309,7 +309,7 @@ That final sentence is particularly important.
 
 This is where many experiments go wrong.
 
-If you tell the AI:
+If you tell the Artificial Intelligence:
 
 > “Create a beautiful futuristic wallpaper.”
 
@@ -355,7 +355,7 @@ These can change later:
 
 That separation is extremely powerful.
 
-You are effectively telling the AI:
+You are effectively telling the Artificial Intelligence:
 
 > **“Here is the skeleton. You may change the clothing.”**
 
@@ -373,7 +373,7 @@ Don't assume you can recreate it tomorrow.
 
 Keep the successful image as your master reference.
 
-Then, when your chosen AI system supports reference-image workflows, provide the original template and explicitly state:
+Then, when your chosen Artificial Intelligence system supports reference-image workflows, provide the original template and explicitly state:
 
 > **Preserve the composition, camera position, proportions, spatial zones, monitor position, and empty Conky area. Change only the requested visual theme.**
 
@@ -389,7 +389,7 @@ Reference-image workflows are particularly useful when the goal is to preserve a
 
 There is another lesson hidden inside all this.
 
-When we use an AI image generator casually, we tend to behave like customers.
+When we use an Artificial Intelligence image generator casually, we tend to behave like customers.
 
 We say:
 
@@ -447,11 +447,11 @@ That changes the job completely.
 
 The question becomes:
 
-> **“How do I get AI to create a family of images that belong to the same visual environment?”**
+> **“How do I get Artificial Intelligence to create a family of images that belong to the same visual environment?”**
 
 rather than:
 
-> **“How do I get AI to make another cool picture?”**
+> **“How do I get Artificial Intelligence to make another cool picture?”**
 
 Those are two very different problems.
 
@@ -463,7 +463,7 @@ Those are two very different problems.
 
 If you remember only one thing from this article, remember this:
 
-> **Don't ask AI to recreate an image from your description when what you really need is a composition.**
+> **Don't ask Artificial Intelligence to recreate an image from your description when what you really need is a composition.**
 
 Create the composition first.
 
@@ -475,13 +475,13 @@ Define what is variable.
 
 Then generate your variations.
 
-AI is extraordinarily good at producing possibilities.
+Artificial Intelligence is extraordinarily good at producing possibilities.
 
 It is becoming increasingly good at following complex instructions.
 
 But precise spatial control and reproducibility remain challenging problems, particularly when many constraints have to be satisfied simultaneously.
 
-The trick isn't necessarily to force the AI to become a pixel-perfect copy machine.
+The trick isn't necessarily to force the Artificial Intelligence to become a pixel-perfect copy machine.
 
 The trick is to **change the way we ask it to work.**
 
@@ -495,7 +495,7 @@ And most importantly:
 
 **Tell it what must remain unchanged.**
 
-That is when AI image generation starts becoming less like rolling the dice...
+That is when Artificial Intelligence image generation starts becoming less like rolling the dice...
 
 ...and more like working with a designer.
 
@@ -507,13 +507,13 @@ That is when AI image generation starts becoming less like rolling the dice...
 
 **Filename:** `ai-image-woes.webp`
 
-*Suggested image:* A humorous science-fiction workstation in which an AI hologram is desperately trying to reconstruct the same wallpaper several times. Multiple versions of the room should be visible, each slightly wrong: one has the monitor too small, another has it in the centre, another has filled the supposedly empty Conky area, and another has moved the camera. A frustrated human designer looks at the results in disbelief.
+*Suggested image:* A humorous science-fiction workstation in which an Artificial Intelligence hologram is desperately trying to reconstruct the same wallpaper several times. Multiple versions of the room should be visible, each slightly wrong: one has the monitor too small, another has it in the centre, another has filled the supposedly empty Conky area, and another has moved the camera. A frustrated human designer looks at the results in disbelief.
 
-The image should visually communicate the central joke of AI image generation:
+The image should visually communicate the central joke of Artificial Intelligence image generation:
 
 **“I told you exactly what I wanted.”**
 
-**AI:** “Yes. I made something completely different.”
+**Artificial Intelligence:** “Yes. I made something completely different.”
 
 <!-- PLEBVOX:END -->
 
@@ -521,7 +521,7 @@ The image should visually communicate the central joke of AI image generation:
 
 ## Final Thought.
 
-AI image generation is not broken because it refuses to obey.
+Artificial Intelligence image generation is not broken because it refuses to obey.
 
 It is difficult because **human instructions contain far more spatial information than language alone can conveniently express.**
 
@@ -533,7 +533,7 @@ we are asking a generative model to solve a surprisingly complicated design prob
 
 Understanding that changes the entire creative process.
 
-Instead of becoming frustrated because the AI “can't follow instructions,” we can design our prompts and workflows around what the technology is actually good at.
+Instead of becoming frustrated because the Artificial Intelligence “can't follow instructions,” we can design our prompts and workflows around what the technology is actually good at.
 
 **Generate.**
 
