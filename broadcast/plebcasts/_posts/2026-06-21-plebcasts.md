@@ -145,7 +145,7 @@ Subjects may include:
 
 * Technology trends
 * Open source software
-* AI developments
+* Artificial Intelligence developments
 * Publishing
 * Creativity
 * Community projects
