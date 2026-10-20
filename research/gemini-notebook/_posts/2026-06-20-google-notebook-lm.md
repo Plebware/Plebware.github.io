@@ -157,7 +157,7 @@ For fiction writers, a notebook can become a knowledge base for an entire univer
 
 Researchers often collect many sources.
 
-NotebookLM helps organize:
+NotebookLM helps organise:
 
 * Ideas
 * Evidence
@@ -184,7 +184,7 @@ A theology student or Bible student can create notebooks containing:
 Possible questions:
 
 * "What themes appear in these passages?"
-* "Summarize these teachings."
+* "Summarise these teachings."
 * "Compare these viewpoints."
 
 The tool assists study, while careful reading and discernment remain important.
@@ -201,7 +201,7 @@ NotebookLM is an example of AI being used as a knowledge tool.
 
 AI can help with:
 
-* Organizing information
+* Organising information
 * Finding patterns
 * Explaining concepts
 
@@ -225,7 +225,7 @@ NotebookLM works well for:
 
 * Research projects
 * Learning subjects
-* Organizing notes
+* Organising notes
 * Preparing lessons
 * Understanding documents
 * Planning content
@@ -278,3 +278,7 @@ It is about understanding it.
 *Learning, researching, and discovering one idea at a time.*
 
 <!-- PLEBVOX:END -->
+
+<!-- SPACE -->
+<!-- REVIEWED -->
+<!-- SPACE -->
