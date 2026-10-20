@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "R0 AI Video Creation: What Can We Actually Make for Free?"
+title: "R0 Artificial Intelligence Video Creation: What Can We Actually Make for Free?"
 date: 2026-09-19
 ---
 
 <!-- PLEBVOX:START -->
 
-# Making AI Video Without Spending a Cent.
+# Making Artificial Intelligence Video Without Spending a Cent.
 
 Artificial intelligence has made video creation considerably more accessible.
 
 But there is an important question that often gets buried underneath the excitement:
 
-**What can an ordinary person actually create without paying for an AI subscription?**
+**What can an ordinary person actually create without paying for an Artificial Intelligence subscription?**
 
-This article is a practical exploration of **R0 AI video creation**, with particular attention to tools that can be used from South Africa.
+This article is a practical exploration of **R0 Artificial Intelligence video creation**, with particular attention to tools that can be used from South Africa.
 
 The goal is not to find the most expensive or most powerful video generator.
 
@@ -49,7 +49,7 @@ This article therefore separates those categories rather than pretending they ar
 
 ## Google Vids: Ten Free Generations a Month.
 
-Google Vids is one of the clearest examples of genuinely useful free AI video creation.
+Google Vids is one of the clearest examples of genuinely useful free Artificial Intelligence video creation.
 
 Google states that personal Google accounts receive **10 video generations every month at no cost**, using Veo 3.1. Videos can be generated from a text prompt or a photograph.
 
@@ -69,7 +69,7 @@ It is, however, enough to experiment with:
 
 Google Vids also provides conventional video-editing functions, screen recording through its Chrome extension, and the ability to publish directly to YouTube.
 
-The important point is that the AI generation allowance is **monthly**, not ten generations every day.
+The important point is that the Artificial Intelligence generation allowance is **monthly**, not ten generations every day.
 
 For an R0 workflow, those ten generations should therefore be treated as a limited resource.
 
@@ -93,7 +93,7 @@ The free Gemini experience can help with:
 
 The important distinction is that we should **not automatically count Gemini Free as a free Veo video generator**.
 
-Free AI features and free video-generation quotas are separate things, and Google's video-generation products and limits can change.
+Free Artificial Intelligence features and free video-generation quotas are separate things, and Google's video-generation products and limits can change.
 
 For an R0 workflow, Gemini can therefore act as the **writer and planning assistant**, while another service performs the actual video generation.
 
@@ -105,9 +105,9 @@ That division of labour is perfectly acceptable.
 
 ## Meta Muse: Interesting, But Not Yet in South Africa.
 
-Meta's Muse is one of the more interesting developments in the AI world.
+Meta's Muse is one of the more interesting developments in the Artificial Intelligence world.
 
-Meta describes Muse as a personal AI agent capable of taking actions rather than merely answering questions.
+Meta describes Muse as a personal Artificial Intelligence agent capable of taking actions rather than merely answering questions.
 
 However, availability is regional.
 
@@ -211,7 +211,7 @@ Therefore, a hosted Wan2.2 Space should be considered an **R0 experiment**, not 
 
 ## Other Free Video Generators Worth Investigating.
 
-The AI video landscape changes quickly.
+The Artificial Intelligence video landscape changes quickly.
 
 Other services worth investigating include:
 
@@ -252,13 +252,13 @@ PlebWare therefore treats the free allowance as part of the tool's specification
 
 ## The R0 Video Laboratory.
 
-The most interesting discovery is that we do not necessarily need one AI service to do everything.
+The most interesting discovery is that we do not necessarily need one Artificial Intelligence service to do everything.
 
 A practical R0 workflow can divide the work between several tools.
 
 ### Step One — Write.
 
-Use a free AI assistant to develop:
+Use a free Artificial Intelligence assistant to develop:
 
 - The idea.
 - Script.
@@ -298,7 +298,7 @@ This is particularly useful for:
 
 Use a normal video editor to combine:
 
-- AI-generated clips.
+- Artificial Intelligence-generated clips.
 - Screen recordings.
 - Still images.
 - Narration.
@@ -306,7 +306,7 @@ Use a normal video editor to combine:
 - Titles.
 - Subtitles.
 
-The AI does not have to generate the entire finished movie.
+The Artificial Intelligence does not have to generate the entire finished movie.
 
 It only needs to provide the pieces that are difficult or expensive to create manually.
 
@@ -316,7 +316,7 @@ It only needs to provide the pieces that are difficult or expensive to create ma
 
 ## Ten Short Clips Can Become Something Bigger.
 
-An eight-second AI clip may sound insignificant.
+An eight-second Artificial Intelligence clip may sound insignificant.
 
 It isn't.
 
@@ -325,18 +325,18 @@ Suppose a video contains:
 1. An opening title.
 2. A five-to-eight-second establishing shot.
 3. A screen recording.
-4. Another AI-generated transition.
+4. Another Artificial Intelligence-generated transition.
 5. A still illustration.
-6. Another short AI sequence.
+6. Another short Artificial Intelligence sequence.
 7. Narration.
 8. Subtitles.
 9. A closing graphic.
 
-The AI-generated material may only represent a small part of the finished production.
+The Artificial Intelligence-generated material may only represent a small part of the finished production.
 
 That is the important lesson.
 
-**AI does not need to make the whole video.**
+**Artificial Intelligence does not need to make the whole video.**
 
 It can provide the difficult little pieces around which a human-built production is assembled.
 
@@ -346,7 +346,7 @@ It can provide the difficult little pieces around which a human-built production
 
 ## R0 Does Not Mean Zero Work.
 
-There is a temptation to think that free AI video means:
+There is a temptation to think that free Artificial Intelligence video means:
 
 > "Type one sentence and receive a finished film."
 
@@ -382,19 +382,19 @@ It is about giving ordinary people useful tools.
 
 The experiment has produced a simple philosophy:
 
-> **Don't ask what the most expensive AI can do. Ask what an ordinary person can create with what is already available.**
+> **Don't ask what the most expensive Artificial Intelligence can do. Ask what an ordinary person can create with what is already available.**
 
 A free Google account can provide a limited amount of Veo-powered video generation.
 
-A free AI assistant can help write the script.
+A free Artificial Intelligence assistant can help write the script.
 
 Open-source models such as Wan2.2 can provide another route to video generation.
 
-Hosted AI services can sometimes provide access to powerful models without requiring the user to own a powerful GPU.
+Hosted Artificial Intelligence services can sometimes provide access to powerful models without requiring the user to own a powerful GPU.
 
 And ordinary Linux video editors can assemble the pieces.
 
-The result is not unlimited AI video.
+The result is not unlimited Artificial Intelligence video.
 
 It is something more useful:
 
@@ -412,13 +412,13 @@ At the beginning of this experiment, the toolkit looks something like this:
 |---|---|---|
 | **Google Vids** | Veo video generation and editing | 10 personal video generations per month |
 | **Gemini Free** | Scripts, prompts and planning | Do not assume free Veo generation in Gemini |
-| **Meta Muse** | Future AI-agent experimentation | Not currently available to this South African account |
+| **Meta Muse** | Future Artificial Intelligence-agent experimentation | Not currently available to this South African account |
 | **Wan2.2** | Open-source video generation | Local generation needs powerful GPU hardware |
 | **Hugging Face Spaces** | Hosted Wan2.2 experimentation | Queues and availability can change |
-| **Pika** | Short AI-video experiments | Free allowance can change |
-| **Kling** | AI-video experimentation | Free limits can change |
-| **PixVerse** | AI-video experimentation | Free limits can change |
-| **Hailuo** | AI-video experimentation | Free access can change |
+| **Pika** | Short Artificial Intelligence-video experiments | Free allowance can change |
+| **Kling** | Artificial Intelligence-video experimentation | Free limits can change |
+| **PixVerse** | Artificial Intelligence-video experimentation | Free limits can change |
+| **Hailuo** | Artificial Intelligence-video experimentation | Free access can change |
 | **Runway** | One-time experimentation | Free credits are limited |
 | **Kdenlive and other Linux editors** | Final assembly and editing | Human editing is still required |
 
@@ -432,13 +432,13 @@ It is a toolbox.
 
 ## What We Have Learned.
 
-The biggest lesson from this experiment is not that AI video has become free.
+The biggest lesson from this experiment is not that Artificial Intelligence video has become free.
 
 It hasn't.
 
 The more accurate statement is:
 
-> **Useful pieces of AI video creation can now be accessed for R0.**
+> **Useful pieces of Artificial Intelligence video creation can now be accessed for R0.**
 
 That distinction matters.
 
@@ -464,7 +464,7 @@ And that is exactly where PlebWare begins.
 
 We started this investigation with a simple question:
 
-**Can we make useful AI video without paying for an AI subscription?**
+**Can we make useful Artificial Intelligence video without paying for an Artificial Intelligence subscription?**
 
 The answer is:
 
@@ -474,7 +474,7 @@ Not infinitely.
 
 Not effortlessly.
 
-Not with every AI model.
+Not with every Artificial Intelligence model.
 
 But enough to experiment, learn, create and discover what is actually possible.
 
