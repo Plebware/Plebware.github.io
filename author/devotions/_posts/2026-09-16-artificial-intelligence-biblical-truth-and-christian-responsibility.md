@@ -265,7 +265,7 @@ Not the artificial intelligence.
 
 <!-- PLEBVOX:START -->
 
-**A Word of Caution — AI Can Sound Convincing.**
+**A Word of Caution — Artificial Intelligence Can Sound Convincing.**
 
 One of the dangers of artificial intelligence is that it can produce remarkably confident answers.
 
@@ -397,7 +397,7 @@ Saying, "The artificial intelligence wrote it," does not remove that responsibil
 
 <!-- PLEBVOX:START -->
 
-**A Simple Five-Step Bible and AI Check.**
+**A Simple Five-Step Bible and Artificial Intelligence Check.**
 
 Before publishing or sharing Christian material created with assistance from artificial intelligence, try this:
 
