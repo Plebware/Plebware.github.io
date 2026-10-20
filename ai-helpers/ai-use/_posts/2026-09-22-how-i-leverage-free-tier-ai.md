@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I Leverage Free-Tier AI as a Pensioner Builder of PlebWare."
+title: "How I Leverage Free-Tier Artificial Intelligence as a Pensioner Builder of PlebWare."
 date: 2026-09-22
 categories: [ai-helpers, ai-use]
 permalink: /ai-helpers/ai-use/2026/09/22/how-i-leverage-free-tier-ai/
@@ -8,41 +8,41 @@ permalink: /ai-helpers/ai-use/2026/09/22/how-i-leverage-free-tier-ai/
 
 <!-- PLEBVOX:START -->
 
-# 🤖 Building PlebWare With Free AI — A Pensioner's Working AI Stack.
+# 🤖 Building PlebWare With Free Artificial Intelligence — A Pensioner's Working Artificial Intelligence Stack.
 
-Artificial intelligence is often discussed as though serious work with AI requires expensive subscriptions, powerful computers, or a professional technology background.
+Artificial intelligence is often discussed as though serious work with Artificial Intelligence requires expensive subscriptions, powerful computers, or a professional technology background.
 
 My experience has been rather different.
 
 I am a pensioner in Johannesburg, South Africa.
 
-I work extra hours to make ends meet, I use second-hand computer hardware, I prefer Free and Open Source Software where practical, and I do not currently pay for AI subscriptions.
+I work extra hours to make ends meet, I use second-hand computer hardware, I prefer Free and Open Source Software where practical, and I do not currently pay for Artificial Intelligence subscriptions.
 
-Yet I use several AI systems as part of the daily development of PlebWare.
+Yet I use several Artificial Intelligence systems as part of the daily development of PlebWare.
 
 The important word is **use**.
 
 I am not handing my life over to artificial intelligence.
 
-I am using AI as part of a human-directed workflow.
+I am using Artificial Intelligence as part of a human-directed workflow.
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🧠 The Basic Philosophy — AI Is a Collaboration.
+## 🧠 The Basic Philosophy — Artificial Intelligence Is a Collaboration.
 
 My view is simple.
 
-**AI is not a crutch.**
+**Artificial Intelligence is not a crutch.**
 
-**AI is not a replacement for thinking.**
+**Artificial Intelligence is not a replacement for thinking.**
 
-**AI is a collaborator.**
+**Artificial Intelligence is a collaborator.**
 
 Roughly speaking, about 80 percent of the content and direction in my work comes from my own ideas, thoughts, decisions and input.
 
-The AI helps me process those ideas.
+The Artificial Intelligence helps me process those ideas.
 
 It researches.
 
@@ -60,11 +60,11 @@ It can save me hours of work.
 
 But the human remains the architect.
 
-At the PlebWare Conference Table, the AI is the worker sitting around the virtual table with me.
+At the PlebWare Conference Table, the Artificial Intelligence is the worker sitting around the virtual table with me.
 
 The human decides what needs to be built.
 
-The AI helps do the work.
+The Artificial Intelligence helps do the work.
 
 That distinction is important.
 
@@ -76,11 +76,11 @@ The problem can be the human being behind the way it is used.
 
 <!-- PLEBVOX:START -->
 
-## 📱 My Free-Tier AI Stack.
+## 📱 My Free-Tier Artificial Intelligence Stack.
 
-I currently work with several free AI services, each fitting into the workflow in a slightly different way.
+I currently work with several free Artificial Intelligence services, each fitting into the workflow in a slightly different way.
 
-I deliberately do not expect one AI to do everything.
+I deliberately do not expect one Artificial Intelligence to do everything.
 
 That would defeat the purpose of having a collaborative system.
 
@@ -99,7 +99,7 @@ It is useful for:
 - Daily Christian devotions.
 - Capturing thoughts before I forget them.
 
-I have been writing daily Christian devotions for several years, so having an AI assistant available while I am working from my phone is particularly useful.
+I have been writing daily Christian devotions for several years, so having an Artificial Intelligence assistant available while I am working from my phone is particularly useful.
 
 There is one amusing limitation.
 
@@ -113,7 +113,7 @@ That means I still have to proofread what the machine heard.
 
 And that is perfectly acceptable.
 
-AI does not remove the need for checking.
+Artificial Intelligence does not remove the need for checking.
 
 It creates another stage in the workflow.
 
@@ -139,11 +139,11 @@ I use it for things such as:
 - PlebMachine development.
 - Structuring complicated ideas.
 
-I don't actually need AI to teach me how to code.
+I don't actually need Artificial Intelligence to teach me how to code.
 
 I have been experimenting with computers since 1982, beginning with machines such as the Commodore VIC-20, and I have spent decades learning programming and web technologies.
 
-What AI gives me is **speed**.
+What Artificial Intelligence gives me is **speed**.
 
 Something that might take me a day or two to debug manually can sometimes be narrowed down in seconds.
 
@@ -185,7 +185,7 @@ It has also acted as a creative sounding board for science-fiction development, 
 
 Another area has been graphics.
 
-I have used AI assistance to turn ideas involving surrealism, cyberpunk aesthetics and artistic concepts into detailed prompts, SVG concepts and instructions that can then be taken into tools such as Inkscape and GIMP.
+I have used Artificial Intelligence assistance to turn ideas involving surrealism, cyberpunk aesthetics and artistic concepts into detailed prompts, SVG concepts and instructions that can then be taken into tools such as Inkscape and GIMP.
 
 In my current workflow, I often treat Gemini as a **structural planner and technical researcher**.
 
@@ -205,17 +205,17 @@ One thing I particularly appreciate is that I have not yet encountered the kind 
 
 That makes it useful when I want to keep a long technical or conceptual conversation going.
 
-But this article is primarily about the AI tools I use as part of the broader **PlebWare production workflow**, so I am concentrating on Meta AI, ChatGPT and Gemini here.
+But this article is primarily about the Artificial Intelligence tools I use as part of the broader **PlebWare production workflow**, so I am concentrating on Meta AI, ChatGPT and Gemini here.
 
 Different tools can have different jobs.
 
-That is one of the main lessons I have learned from working with multiple AI systems.
+That is one of the main lessons I have learned from working with multiple Artificial Intelligence systems.
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🏗️ What Am I Actually Building With All This AI?
+## 🏗️ What Am I Actually Building With All This Artificial Intelligence?
 
 The answer is PlebWare.
 
@@ -231,7 +231,7 @@ Pleb-Tuition is another.
 
 The community groups are another.
 
-The AI systems are tools that help me build and maintain the whole thing.
+The Artificial Intelligence systems are tools that help me build and maintain the whole thing.
 
 ### 🐧 PlebMachine.
 
@@ -263,7 +263,7 @@ I don't believe useful technology should automatically require expensive hardwar
 
 The PlebWare website is also a publishing and learning platform.
 
-It contains writing, research, technical material, tutorials, AI-related information, Christian content and creative work.
+It contains writing, research, technical material, tutorials, Artificial Intelligence-related information, Christian content and creative work.
 
 Pleb-Tuition is intended to help ordinary people learn technology without assuming that they already understand the jargon.
 
@@ -275,7 +275,7 @@ That feedback can then return to the PlebWare development process.
 
 The cycle becomes:
 
-**Idea → AI assistance → Human review → Testing → Publishing → Human feedback → Improvement.**
+**Idea → Artificial Intelligence assistance → Human review → Testing → Publishing → Human feedback → Improvement.**
 
 That is much closer to a workshop than a chatbot.
 
@@ -283,15 +283,15 @@ That is much closer to a workshop than a chatbot.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 How I Keep Free AI Useful Instead of Letting It Take Over.
+## 🔑 How I Keep Free Artificial Intelligence Useful Instead of Letting It Take Over.
 
-Having several AI systems available does not automatically create a good workflow.
+Having several Artificial Intelligence systems available does not automatically create a good workflow.
 
 Without discipline, it can actually create chaos.
 
 So I have developed some boundaries.
 
-### 1. Define the Job Before Giving It to AI.
+### 1. Define the Job Before Giving It to Artificial Intelligence.
 
 When working on a technical component, I try to define three things:
 
@@ -301,7 +301,7 @@ What information, files, variables or state does the component receive?
 
 **Execution Boundary.**
 
-What is the AI actually allowed to change or do?
+What is the Artificial Intelligence actually allowed to change or do?
 
 **Output Contract.**
 
@@ -319,29 +319,29 @@ Test the result.
 
 Then move on.
 
-### 2. Use Four Levels of AI Permission.
+### 2. Use Four Levels of Artificial Intelligence Permission.
 
 I use a simple four-level model.
 
 **Level 1 — Observe.**
 
-The AI answers questions or explains something.
+The Artificial Intelligence answers questions or explains something.
 
 **Level 2 — Assist.**
 
-The AI drafts, plans, researches or proposes solutions.
+The Artificial Intelligence drafts, plans, researches or proposes solutions.
 
 **Level 3 — Operate.**
 
-The AI may perform an action, but only with explicit permission and within a controlled environment.
+The Artificial Intelligence may perform an action, but only with explicit permission and within a controlled environment.
 
 **Level 4 — Delegate.**
 
-The AI may handle a larger workflow only after its reliability has been demonstrated.
+The Artificial Intelligence may handle a larger workflow only after its reliability has been demonstrated.
 
 Even then, I do not treat sensitive information, finances, account control or important publishing decisions as something to casually hand over.
 
-The more powerful the AI becomes, the more important the boundaries become.
+The more powerful the Artificial Intelligence becomes, the more important the boundaries become.
 
 <!-- PLEBVOX:END -->
 
@@ -349,7 +349,7 @@ The more powerful the AI becomes, the more important the boundaries become.
 
 ## 🎙️ My Dictation Workflow.
 
-Mobile AI has also changed the way I write.
+Mobile Artificial Intelligence has also changed the way I write.
 
 I can speak an idea instead of typing the entire thing.
 
@@ -357,9 +357,9 @@ The general process is:
 
 **I speak.**
 
-**The AI transcribes.**
+**The Artificial Intelligence transcribes.**
 
-**The AI corrects grammar and flow.**
+**The Artificial Intelligence corrects grammar and flow.**
 
 **I read it back.**
 
@@ -383,7 +383,7 @@ The human still checks the result.
 
 <!-- PLEBVOX:START -->
 
-## 💰 Why Free-Tier AI Matters to Me.
+## 💰 Why Free-Tier Artificial Intelligence Matters to Me.
 
 This isn't an academic experiment.
 
@@ -393,13 +393,13 @@ I am a pensioner.
 
 Money is tight.
 
-I would love to pay for more AI services and expand what I can do, but paid subscriptions are not always realistic within my budget.
+I would love to pay for more Artificial Intelligence services and expand what I can do, but paid subscriptions are not always realistic within my budget.
 
 That means the free tiers matter.
 
 They allow me to continue learning and building.
 
-With free AI assistance, I can:
+With free Artificial Intelligence assistance, I can:
 
 - Write and publish.
 - Maintain the PlebWare website.
@@ -410,13 +410,13 @@ With free AI assistance, I can:
 - Learn programming concepts.
 - Teach other people what I discover.
 
-If free AI disappeared completely, I would not stop building.
+If free Artificial Intelligence disappeared completely, I would not stop building.
 
 I would simply go back to doing more of the work the old-fashioned way.
 
-I was coding before today's AI systems existed.
+I was coding before today's Artificial Intelligence systems existed.
 
-AI gives me something different.
+Artificial Intelligence gives me something different.
 
 It gives me **leverage**.
 
@@ -424,7 +424,7 @@ It gives me **leverage**.
 
 <!-- PLEBVOX:START -->
 
-## 🧠 Does AI Make People Dumb?
+## 🧠 Does Artificial Intelligence Make People Dumb?
 
 I don't think the existence of a tool determines whether the person using it becomes smarter or less capable.
 
@@ -436,9 +436,9 @@ A search engine did not make knowledge disappear.
 
 The important question is whether the person using the tool is still paying attention.
 
-My own grammar has improved through using AI.
+My own grammar has improved through using Artificial Intelligence.
 
-When an AI corrects a sentence, I can see what was changed.
+When an Artificial Intelligence corrects a sentence, I can see what was changed.
 
 When it restructures a paragraph, I can compare the two versions.
 
@@ -456,7 +456,7 @@ But only if I actually pay attention.
 
 **Learn from the answer.**
 
-That is the difference between using AI and surrendering your thinking to AI.
+That is the difference between using Artificial Intelligence and surrendering your thinking to Artificial Intelligence.
 
 <!-- PLEBVOX:END -->
 
@@ -466,7 +466,7 @@ That is the difference between using AI and surrendering your thinking to AI.
 
 This is probably the most important principle in the entire workflow.
 
-AI can help produce words.
+Artificial Intelligence can help produce words.
 
 It can help produce code.
 
@@ -476,15 +476,15 @@ It can help generate ideas.
 
 But I remain responsible for what I publish.
 
-If something is wrong, saying that an AI generated it does not make the mistake disappear.
+If something is wrong, saying that an Artificial Intelligence generated it does not make the mistake disappear.
 
-If the code fails, the AI does not have to sit at my keyboard fixing it.
+If the code fails, the Artificial Intelligence does not have to sit at my keyboard fixing it.
 
 If an article contains an error, the reader sees my published article.
 
 The responsibility remains human.
 
-That is why I regard AI as a worker around the virtual Conference Table rather than the person in charge of the meeting.
+That is why I regard Artificial Intelligence as a worker around the virtual Conference Table rather than the person in charge of the meeting.
 
 The human remains the architect.
 
@@ -492,9 +492,9 @@ The human remains the architect.
 
 <!-- PLEBVOX:START -->
 
-## 🚀 What Free AI Has Allowed Me to Do.
+## 🚀 What Free Artificial Intelligence Has Allowed Me to Do.
 
-When I look at the amount of work I can now accomplish with an ordinary computer, a phone, free software and free AI services, the interesting thing isn't the artificial intelligence itself.
+When I look at the amount of work I can now accomplish with an ordinary computer, a phone, free software and free Artificial Intelligence services, the interesting thing isn't the artificial intelligence itself.
 
 It is the combination.
 
@@ -504,7 +504,7 @@ It is the combination.
 
 **Free and Open Source Software.**
 
-**Free AI services.**
+**Free Artificial Intelligence services.**
 
 **Internet research.**
 
@@ -518,7 +518,7 @@ PlebWare is still evolving.
 
 PlebMachine is still evolving.
 
-My understanding of AI is still evolving.
+My understanding of Artificial Intelligence is still evolving.
 
 And that is fine.
 
@@ -530,7 +530,7 @@ A workshop does not have to be finished before you can build something useful in
 
 ## 🔮 The Real Super User Test.
 
-I recently asked several AI systems whether they considered me a super user.
+I recently asked several Artificial Intelligence systems whether they considered me a super user.
 
 The answers were interesting.
 
@@ -538,13 +538,13 @@ But the more I think about it, the less interested I am in the label.
 
 I am more interested in the method.
 
-A useful AI user does not necessarily need the biggest subscription.
+A useful Artificial Intelligence user does not necessarily need the biggest subscription.
 
 They need to understand the job they are trying to accomplish.
 
-They need to know what information the AI needs.
+They need to know what information the Artificial Intelligence needs.
 
-They need to know what the AI is allowed to do.
+They need to know what the Artificial Intelligence is allowed to do.
 
 They need to check the result.
 
@@ -552,23 +552,23 @@ And they need to learn from the process.
 
 For me, that is the real goal.
 
-Not becoming dependent on AI.
+Not becoming dependent on Artificial Intelligence.
 
-Not proving that I am smarter than an AI.
+Not proving that I am smarter than an Artificial Intelligence.
 
 Not finding one magical prompt.
 
 Instead:
 
-**Use AI.**
+**Use Artificial Intelligence.**
 
-**Question AI.**
+**Question Artificial Intelligence.**
 
-**Test AI.**
+**Test Artificial Intelligence.**
 
-**Learn from AI.**
+**Learn from Artificial Intelligence.**
 
-**Correct AI.**
+**Correct Artificial Intelligence.**
 
 **And keep the human at the Conference Table.**
 
