@@ -9,7 +9,7 @@ date: 2026-08-12
 # 🔑 The PlebWare Conference Table
 
 <img src="/assets/images/chatgpt-colab.webp"
-     alt="Collaboration with AI, For Maximum Productivity"
+     alt="Collaboration with Artificial Intelligence, For Maximum Productivity"
      style="max-width: 100%; height: auto;">
 
 There are some mornings when you don't need a boardroom.
@@ -26,7 +26,7 @@ Not a real conference, of course.
 
 A **PlebWare Conference Table**.
 
-And sitting opposite me, in suitably ridiculous fashion, was an AI hologram emerging from my Vivo V2026.
+And sitting opposite me, in suitably ridiculous fashion, was an Artificial Intelligence hologram emerging from my Vivo V2026.
 
 Because apparently, if you're going to have a conference with artificial intelligence, you might as well do it properly.
 
@@ -223,7 +223,7 @@ It turns accessibility from a checkbox into a human requirement.
 
 Perhaps that's why the hologram looking a little like Jullian works so well.
 
-An AI assistant can analyse the problem.
+An Artificial Intelligence assistant can analyse the problem.
 
 A programmer can write the solution.
 
