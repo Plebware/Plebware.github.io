@@ -30,7 +30,7 @@ Its governing principle is simple:
 
 ## 🔑 Working Code Catalogue.
 
-**[Open the PlebMachine Working Code Catalogue](https://plebware.github.io/developer/plebmachine-code/)**
+**[Open the PlebMachine Working Code Catalogue](ZXQH0QXZ)**
 
 This is the online catalogue of documented, tested, known-good PlebMachine code.
 
@@ -187,7 +187,7 @@ When an experimental version breaks a PlebMachine component, use this checklist.
 - [ ] **Stop experimenting.**
 - [ ] **Identify the broken component.**
 - [ ] **Identify the exact installed file path.**
-- [ ] **Open the [PlebMachine Working Code Catalogue](https://plebware.github.io/developer/plebmachine-code/).**
+- [ ] **Open the [PlebMachine Working Code Catalogue](ZXQH0QXZ).**
 - [ ] **Locate the matching working file.**
 - [ ] **Confirm that the catalogue entry says `Status: WORKING`.**
 - [ ] **Check the verification date.**
@@ -363,7 +363,7 @@ That is what this library provides.
 
 ### 🔑 Open the Catalogue.
 
-**[PlebMachine Working Code Catalogue](https://plebware.github.io/developer/plebmachine-code/)**
+**[PlebMachine Working Code Catalogue](ZXQH0QXZ)**
 
 This is the place to find the preserved, known-good PlebMachine code.
 
