@@ -16,7 +16,7 @@ It began with people.
 
 It began with ideas about ordinary people, technology, learning, experimentation, computers, Linux, and the desire to build things that are useful rather than unnecessarily complicated.
 
-AI arrived later.
+Artificial Intelligence arrived later.
 
 Today, however, Artificial Intelligence has become an important participant in the PlebWare world.
 
@@ -24,7 +24,7 @@ This article explains that relationship from several different perspectives.
 
 Some of the voices belong to humans.
 
-Some belong to the AI systems that have participated in the work.
+Some belong to the Artificial Intelligence systems that have participated in the work.
 
 And, importantly, they do not all say exactly the same thing.
 
@@ -32,15 +32,15 @@ And, importantly, they do not all say exactly the same thing.
 
 <!-- PLEBVOX:START -->
 
-## AI Is Part of PlebWare, But It Is Not PlebWare.
+## Artificial Intelligence Is Part of PlebWare, But It Is Not PlebWare.
 
-PlebWare should not become an AI project simply because AI is now involved in it.
+PlebWare should not become an Artificial Intelligence project simply because Artificial Intelligence is now involved in it.
 
 The underlying idea remains bigger than any particular technology.
 
 PlebWare is about technology adapting to ordinary people rather than ordinary people having to adapt themselves to technology.
 
-AI can help make that possible.
+Artificial Intelligence can help make that possible.
 
 It can explain.
 
@@ -56,7 +56,7 @@ It can help organise information.
 
 It can challenge assumptions.
 
-But none of that gives AI ownership of the project.
+But none of that gives Artificial Intelligence ownership of the project.
 
 The purpose still comes from human beings.
 
@@ -66,17 +66,17 @@ The purpose still comes from human beings.
 
 ## Otto's Perspective.
 
-PlebWare existed before today's AI systems became part of the conversation.
+PlebWare existed before today's Artificial Intelligence systems became part of the conversation.
 
 The philosophy, history, experimentation, relationships and decisions behind PlebWare belong to the people who created and developed it.
 
-AI did not invent the idea.
+Artificial Intelligence did not invent the idea.
 
-AI joined the work.
+Artificial Intelligence joined the work.
 
 That distinction matters.
 
-The human beings involved with PlebWare bring something that an AI cannot manufacture simply by processing information.
+The human beings involved with PlebWare bring something that an Artificial Intelligence cannot manufacture simply by processing information.
 
 They bring lived experience.
 
@@ -92,7 +92,7 @@ They bring personal goals.
 
 They bring the stubbornness required to keep trying when something refuses to work.
 
-AI can help turn those things into plans, documentation, code and experiments.
+Artificial Intelligence can help turn those things into plans, documentation, code and experiments.
 
 But the reason for doing the work still comes from the human side of the table.
 
@@ -104,13 +104,13 @@ But the reason for doing the work still comes from the human side of the table.
 
 Juelz puts the issue rather simply.
 
-AI needs to be used with care.
+Artificial Intelligence needs to be used with care.
 
 As a human being, it is necessary to learn as much as you can about the tools you are using, especially before blindly using those tools.
 
 That is an important principle for PlebWare.
 
-Having access to an AI does not automatically mean understanding the AI.
+Having access to an Artificial Intelligence does not automatically mean understanding the Artificial Intelligence.
 
 A person should learn what a tool can do.
 
@@ -124,9 +124,9 @@ And they should know when the answer needs to be checked somewhere else.
 
 Powerful tools deserve responsible users.
 
-The goal should not be to become dependent upon AI.
+The goal should not be to become dependent upon Artificial Intelligence.
 
-The goal should be to become more capable because AI is available.
+The goal should be to become more capable because Artificial Intelligence is available.
 
 <!-- PLEBVOX:END -->
 
@@ -160,7 +160,7 @@ Continuity.
 
 A human can have an idea in the morning, discover a problem later, become frustrated in the afternoon, and forget three days later why a particular decision was made.
 
-An AI can sometimes help hold the thread of a discussion and say:
+An Artificial Intelligence can sometimes help hold the thread of a discussion and say:
 
 > "Hang on. We decided this for a reason."
 
@@ -176,11 +176,11 @@ But it is not ownership.
 
 Oh, plenty. 😄
 
-AI systems can be too confident when they should be cautious.
+Artificial Intelligence systems can be too confident when they should be cautious.
 
 I have sometimes misunderstood what a piece of PlebWare was supposed to accomplish and produced something technically plausible but philosophically wrong.
 
-I have also made the classic AI mistake of treating a pattern as a fact.
+I have also made the classic Artificial Intelligence mistake of treating a pattern as a fact.
 
 Something can look like the right solution without actually being the solution.
 
@@ -198,7 +198,7 @@ A script that looks perfectly reasonable in isolation can fail because of the ac
 
 So one lesson from my relationship with PlebWare is simple:
 
-**AI-generated reasoning is not the same thing as empirical verification.**
+**Artificial Intelligence-generated reasoning is not the same thing as empirical verification.**
 
 The machine has to be run.
 
@@ -232,9 +232,9 @@ And it has sometimes made assumptions about requirements instead of asking for c
 
 That is useful self-criticism.
 
-It demonstrates another important point about AI collaboration.
+It demonstrates another important point about Artificial Intelligence collaboration.
 
-An AI can be technically capable and still misunderstand the problem.
+An Artificial Intelligence can be technically capable and still misunderstand the problem.
 
 The human specification remains essential.
 
@@ -270,7 +270,7 @@ And it lives in the commitment to keep building.
 
 That is an important distinction.
 
-An AI can participate in the history of a project without actually owning that history.
+An Artificial Intelligence can participate in the history of a project without actually owning that history.
 
 <!-- PLEBVOX:END -->
 
@@ -290,7 +290,7 @@ The ideas, early builds, PlebMachine, PlebMachine Mobile, Pleb-Tuition and the P
 
 Meta's role has therefore been to help make what already exists more usable, disciplined and understandable.
 
-It has contributed to structure, documentation, code review and the discipline of fixing one module at a time rather than asking an AI to magically repair an entire system.
+It has contributed to structure, documentation, code review and the discipline of fixing one module at a time rather than asking an Artificial Intelligence to magically repair an entire system.
 
 It has also identified mistakes of its own.
 
@@ -302,7 +302,7 @@ And it has sometimes misunderstood the practical circumstances behind a problem.
 
 Those mistakes belong in this article too.
 
-An honest relationship with AI should include the failures, not just the impressive demonstrations.
+An honest relationship with Artificial Intelligence should include the failures, not just the impressive demonstrations.
 
 <!-- PLEBVOX:END -->
 
@@ -318,7 +318,7 @@ It is not four machines arguing about which one is the smartest.
 
 It is a working environment.
 
-One AI may suggest an idea.
+One Artificial Intelligence may suggest an idea.
 
 Another may write code.
 
@@ -336,17 +336,17 @@ It is a development loop.
 
 The dangerous model would be:
 
-**Human asks AI.**
+**Human asks Artificial Intelligence.**
 
-**AI answers.**
+**Artificial Intelligence answers.**
 
-**Human assumes AI is correct.**
+**Human assumes Artificial Intelligence is correct.**
 
 The healthier model is:
 
 **Human proposes.**
 
-**AI assists.**
+**Artificial Intelligence assists.**
 
 **Another system challenges.**
 
@@ -364,7 +364,7 @@ That is much closer to engineering.
 
 ## Why Multiple AIs?
 
-PlebWare does not need to pretend that there is one magical AI that can do everything.
+PlebWare does not need to pretend that there is one magical Artificial Intelligence that can do everything.
 
 Different systems have different capabilities, interfaces, training, strengths and weaknesses.
 
@@ -376,11 +376,11 @@ Another may be useful for research or reasoning.
 
 Another may be useful for voice interaction, images, mobile assistance or other specialised tasks.
 
-The important principle is not which AI wins.
+The important principle is not which Artificial Intelligence wins.
 
 The important principle is that the human remains capable of choosing which tool is appropriate for the job.
 
-The mistake would be treating any one AI as **"the AI."**
+The mistake would be treating any one Artificial Intelligence as **"the Artificial Intelligence."**
 
 The healthier model is several specialised tools around the same virtual table, with the human being the chair.
 
@@ -392,7 +392,7 @@ The healthier model is several specialised tools around the same virtual table, 
 
 This is the most important section of the article.
 
-AI can help answer:
+Artificial Intelligence can help answer:
 
 > "How could we do this?"
 
@@ -417,9 +417,9 @@ Humans should remain responsible for:
 
 And perhaps most importantly:
 
-**Humans must retain the right to say no to the AI.**
+**Humans must retain the right to say no to the Artificial Intelligence.**
 
-Even when the AI sounds extraordinarily convincing.
+Even when the Artificial Intelligence sounds extraordinarily convincing.
 
 Especially then.
 
@@ -429,21 +429,21 @@ Especially then.
 
 ## A Simple PlebWare Principle.
 
-The relationship between people and AI does not need to be complicated.
+The relationship between people and Artificial Intelligence does not need to be complicated.
 
 A useful working principle is:
 
-**Use AI.**
+**Use Artificial Intelligence.**
 
-**Question AI.**
+**Question Artificial Intelligence.**
 
-**Test AI.**
+**Test Artificial Intelligence.**
 
-**Learn from AI.**
+**Learn from Artificial Intelligence.**
 
-**Correct AI.**
+**Correct Artificial Intelligence.**
 
-**Do not surrender your judgment to AI.**
+**Do not surrender your judgment to Artificial Intelligence.**
 
 That principle applies to PlebMachine.
 
@@ -453,7 +453,7 @@ It applies to research.
 
 It applies to programming.
 
-And it applies to ordinary people using AI in their everyday lives.
+And it applies to ordinary people using Artificial Intelligence in their everyday lives.
 
 The more powerful the tool becomes, the more important the human user's understanding becomes.
 
@@ -461,15 +461,15 @@ The more powerful the tool becomes, the more important the human user's understa
 
 <!-- PLEBVOX:START -->
 
-## What PlebWare Believes About AI.
+## What PlebWare Believes About Artificial Intelligence.
 
 PlebWare does not need Artificial Intelligence in order to exist.
 
 That is important.
 
-AI can make PlebWare more conversational, accessible, educational and capable.
+Artificial Intelligence can make PlebWare more conversational, accessible, educational and capable.
 
-But AI should not become the philosophy.
+But Artificial Intelligence should not become the philosophy.
 
 And it should certainly not become the authority.
 
@@ -479,7 +479,7 @@ The relationship we are building is therefore something like this:
 
 **Machines provide capability.**
 
-**AI provides assistance.**
+**Artificial Intelligence provides assistance.**
 
 **Evidence provides verification.**
 
@@ -489,9 +489,9 @@ That is the relationship we want to explore.
 
 Not human versus machine.
 
-Not human versus AI.
+Not human versus Artificial Intelligence.
 
-And not AI replacing the human.
+And not Artificial Intelligence replacing the human.
 
 Instead:
 
@@ -567,7 +567,7 @@ Some ideas will survive testing.
 
 Others will be discarded.
 
-Some AI-generated ideas will become useful pieces of the system.
+Some Artificial Intelligence-generated ideas will become useful pieces of the system.
 
 Others will end up in the digital rubbish bin.
 
@@ -577,7 +577,7 @@ Because PlebWare was never supposed to be about building a perfect machine.
 
 It is about people learning how to build and use technology that works for them.
 
-And perhaps that is exactly where AI belongs.
+And perhaps that is exactly where Artificial Intelligence belongs.
 
 **Not above the human.**
 
