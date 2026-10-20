@@ -130,7 +130,7 @@ We built online platforms together.
 
 We created music together using Virtual DJ, Audacity, and FL Studio.
 
-Today we use AI audio generators, Mixxx, and LMMS alongside some of those original tools.
+Today we use Artificial Intelligence audio generators, Mixxx, and LMMS alongside some of those original tools.
 
 We are working together on PlebMachine.
 
@@ -242,7 +242,7 @@ We could not afford to employ designers, developers, analysts, and other special
 
 Artificial Intelligence has changed that equation.
 
-By leveraging AI, we have already saved hundreds, if not thousands, of hours of work.
+By leveraging Artificial Intelligence, we have already saved hundreds, if not thousands, of hours of work.
 
 Tasks that once required days of research can sometimes be reduced to hours.
 
@@ -258,7 +258,7 @@ Research can be organised.
 
 And concepts that previously remained trapped inside my head can actually be turned into working projects.
 
-That does not mean AI does everything for us.
+That does not mean Artificial Intelligence does everything for us.
 
 It doesn't.
 
@@ -272,7 +272,7 @@ We still have to correct mistakes.
 
 And ultimately, we still have to do the work.
 
-But for two people with limited financial resources, AI has become something we could never afford to buy in human form:
+But for two people with limited financial resources, Artificial Intelligence has become something we could never afford to buy in human form:
 
 **A team.**
 
