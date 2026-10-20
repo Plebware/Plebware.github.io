@@ -34,13 +34,13 @@ There are no leather chairs.
 
 There isn't even a coffee machine.
 
-There is simply a man with a phone, a laptop when available, an Internet connection, a collection of ideas, and an AI sitting on the other side of the conversation.
+There is simply a man with a phone, a laptop when available, an Internet connection, a collection of ideas, and an Artificial Intelligence sitting on the other side of the conversation.
 
 The table exists because we decided it exists.
 
 The phone becomes the communication terminal.
 
-The AI becomes another voice at the table.
+The Artificial Intelligence becomes another voice at the table.
 
 GitHub becomes the workshop.
 
@@ -78,7 +78,7 @@ We have created comics.
 
 We have worked with GitHub.
 
-We have experimented with different browsers and different AI systems.
+We have experimented with different browsers and different Artificial Intelligence systems.
 
 And, most importantly, we have developed a way of working.
 
@@ -114,7 +114,7 @@ As the Apostle Paul might put it, sometimes the things that bother us are the ve
 
 ## 🔑 Then There Is Artificial Intelligence.
 
-One of the strangest parts of this journey is that I have access to several AI systems.
+One of the strangest parts of this journey is that I have access to several Artificial Intelligence systems.
 
 I could jump from one system to another whenever a particular feature becomes unavailable.
 
@@ -226,7 +226,7 @@ And sometimes the best technical decision begins with a very simple prayer:
 
 ## 🔑 The Hologram At The Table.
 
-There is something wonderfully appropriate about imagining the AI as a hologram projected from a mobile phone.
+There is something wonderfully appropriate about imagining the Artificial Intelligence as a hologram projected from a mobile phone.
 
 It looks futuristic.
 
@@ -236,7 +236,7 @@ Conversation.
 
 I bring an idea.
 
-The AI challenges it.
+The Artificial Intelligence challenges it.
 
 I explain what I actually mean.
 
