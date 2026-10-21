@@ -32,12 +32,12 @@ PlebMachine turns your **Debian XFCE desktop** into a smart, context-aware envir
 ### Made By Two Plebs - For The People.
 Plebware engineers human-centred software architectures and cognitive desktop solutions. By pairing lightweight, high-efficiency design with zero-overhead execution, Plebware transforms modern computing into an intentional, distraction-free environment.
 
-<div class="hero-actions">
+<div class="hero-actions" style="display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin:1.5rem 0;">
   <!-- Primary Button -->
-  <a href="https://plebware.github.io/developer/plebmachine/2026/09/23/plebmachine-2027-critical-plan-of-action.html" class="btn btn-primary">Critical Plan of Action and Architecture</a>
+  <a href="https://plebware.github.io/developer/plebmachine/2026/09/23/plebmachine-2027-critical-plan-of-action.html" class="btn btn-primary" style="display:inline-block; padding:12px 20px; background-color:#1769aa; color:#ffffff; text-decoration:none; font-weight:700; border:2px solid #1769aa; border-radius:8px; line-height:1.4;">Critical Plan of Action and Architecture</a>
   
   <!-- Secondary Button -->
-  <a href="https://plebware.github.io/developer/plebmachine/2026/10/10/the-story-behind-plebmachine-pro.html" class="btn btn-secondary">The Story Behind PlebMachine Pro</a>
+  <a href="https://plebware.github.io/developer/plebmachine/2026/10/10/the-story-behind-plebmachine-pro.html" class="btn btn-secondary" style="display:inline-block; padding:12px 20px; background-color:#ffffff; color:#1769aa; text-decoration:none; font-weight:700; border:2px solid #1769aa; border-radius:8px; line-height:1.4;">The Story Behind PlebMachine Pro</a>
 </div>
 
 
