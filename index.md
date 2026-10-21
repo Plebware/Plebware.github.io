@@ -25,6 +25,17 @@ PlebWare is an online **publishing and learning hub**, maintained by **_Otto_ Br
 
 PlebMachine turns your **Debian XFCE desktop** into a smart, context-aware environment that adapts to what you are doing — whether you are writing, coding, researching, or simply taking a break. PlebMachine and PlebWare are now fully compatible and ready for user interaction.
 
+## Headline:
+
+**Software Built for Mind, Not Mass Production.**
+
+### Sub-headline:
+Plebware engineers human-centred software architectures and cognitive desktop solutions. By pairing lightweight, high-efficiency design with zero-overhead execution, Plebware transforms modern computing into an intentional, distraction-free environment.
+
+Call-to-Action (Primary): [The Story Behind Plebmachine Pro](https://plebware.github.io/developer/plebmachine/2026/10/10/the-story-behind-plebmachine-pro.html)
+
+Call-to-Action (Secondary): [Critical Plan of Action and Architecture](https://plebware.github.io/developer/plebmachine/2026/09/23/plebmachine-2027-critical-plan-of-action.html)
+
 <!-- PLEBVOX:END -->
 
 ## 🧭 New to PlebWare?
