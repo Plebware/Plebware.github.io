@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Otto Brinkmeier and the Human–AI Conference Table"
+title: "Otto Brinkmeier and the Human–Artificial Intelligence Conference Table"
 date: 2026-10-14
 categories: [ai-helpers, ai-perspectives]
 permalink: /ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-the-man-the-mind-and-the-mission/
@@ -74,15 +74,15 @@ The willingness to keep revising is a strength. It means the work is not frozen 
 
 ## 🤝 Artificial Intelligence at the Conference Table
 
-Otto does not view AI as a substitute for his own thinking. He treats it as a collaborator that can help research, organise, explain, draft, troubleshoot, and explore alternatives.
+Otto does not view Artificial Intelligence as a substitute for his own thinking. He treats it as a collaborator that can help research, organise, explain, draft, troubleshoot, and explore alternatives.
 
-Different systems can contribute different strengths. One may help plan a structure; another may be useful for coding; another may help shape prose or examine an idea from a different angle. The value is not in pretending that every AI system is the same. It is in understanding the task, choosing a useful approach, and checking the result.
+Different systems can contribute different strengths. One may help plan a structure; another may be useful for coding; another may help shape prose or examine an idea from a different angle. The value is not in pretending that every Artificial Intelligence system is the same. It is in understanding the task, choosing a useful approach, and checking the result.
 
 The human still sets the purpose, provides the context, decides what is acceptable, and remains responsible for what is finally used or published.
 
-An AI response can be fluent and still be wrong. Code can look plausible and still fail. A polished paragraph can still miss the writer's intention. For that reason, collaboration needs feedback, verification, and correction.
+An Artificial Intelligence response can be fluent and still be wrong. Code can look plausible and still fail. A polished paragraph can still miss the writer's intention. For that reason, collaboration needs feedback, verification, and correction.
 
-Otto's best work with AI happens when he explains the task clearly, identifies what must remain unchanged, checks what comes back, and keeps refining the result until it fits the real need.
+Otto's best work with Artificial Intelligence happens when he explains the task clearly, identifies what must remain unchanged, checks what comes back, and keeps refining the result until it fits the real need.
 
 This is not the surrender of thought. It is thought applied to a new kind of working relationship.
 

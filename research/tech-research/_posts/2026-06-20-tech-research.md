@@ -37,7 +37,7 @@ New:
 * Computers
 * Operating systems
 * Applications
-* AI tools
+* Artificial Intelligence tools
 * Devices
 * Security methods
 
@@ -140,11 +140,11 @@ Research includes:
 
 # 🔑 4. Artificial Intelligence Research
 
-AI research studies intelligent computer systems.
+Artificial Intelligence research studies intelligent computer systems.
 
 Areas include:
 
-* AI assistants
+* Artificial Intelligence assistants
 * Machine learning
 * Image generation
 * Automation
@@ -152,7 +152,7 @@ Areas include:
 
 Important questions:
 
-* How does the AI work?
+* How does the Artificial Intelligence work?
 * What are its strengths?
 * What are its limitations?
 
@@ -196,7 +196,7 @@ Examples:
 
 * "Which browser is best for privacy?"
 * "Which Linux distribution suits my computer?"
-* "How does this AI tool work?"
+* "How does this Artificial Intelligence tool work?"
 
 ---
 
@@ -279,7 +279,7 @@ Useful technology research tools include:
 * Online communities
 * Digital notebooks
 * Version control systems
-* AI research assistants
+* Artificial Intelligence research assistants
 
 Tools help organize information.
 

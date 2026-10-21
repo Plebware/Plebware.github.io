@@ -27,7 +27,7 @@ Reaching 200 published articles is about far more than a number. It reflects yea
 Today, PlebWare includes:
 
 * 📚 200 published articles
-* 🧠 12 Knowledge Modes covering Linux, AI, writing, research, graphics, development, music, broadcasting, finance, and everyday life
+* 🧠 12 Knowledge Modes covering Linux, Artificial Intelligence, writing, research, graphics, development, music, broadcasting, finance, and everyday life
 * 🗂️ More than 100 organised content categories
 * ⚙️ Stable automated publishing through GitHub Pages and GitHub Actions
 * 📱 A responsive design for desktop and mobile devices
@@ -41,7 +41,7 @@ Today, PlebWare includes:
 
 Much of the work so far has focused on building a solid foundation. That foundation is now in place.
 
-From here, the emphasis shifts to what matters most: creating more tutorials, devotionals, research, Linux guides, AI experiments, creative writing, and practical knowledge that others can learn from and enjoy.
+From here, the emphasis shifts to what matters most: creating more tutorials, devotionals, research, Linux guides, Artificial Intelligence experiments, creative writing, and practical knowledge that others can learn from and enjoy.
 
 <!-- PLEBVOX:END -->
 

@@ -85,7 +85,7 @@ Without the user...
 
 * Hardware is nothing more than electronics.
 * Software is nothing more than stored instructions.
-* AI is nothing more than dormant potential.
+* Artificial Intelligence is nothing more than dormant potential.
 
 It is the human being who gives every computer system its meaning, direction, and purpose.
 

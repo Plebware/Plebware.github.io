@@ -410,7 +410,7 @@ Browsers are becoming more than simple website viewers.
 
 Modern browsers now include:
 
-* AI tools
+* Artificial Intelligence tools
 * Password management
 * Privacy features
 * Media tools

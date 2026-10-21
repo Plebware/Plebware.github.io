@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gemini Notebook – A Practical AI Research Assistant on a Budget"
+title: "Gemini Notebook – A Practical Artificial Intelligence Research Assistant on a Budget"
 date: 2026-10-19
 category: "research"
 tags: [gemini-notebook-research, notebooklm, artificial-intelligence, digital-literacy, linux-research, plebmachine-research, website-management, open-source, cybersecurity, digital-society]
@@ -11,7 +11,7 @@ description: "Discover how Google's Gemini Notebook can help individuals researc
 
 <!-- PLEBVOX:START -->
 
-# 🧠 Your Own AI Research Assistant — Without an Enterprise Budget.
+# 🧠 Your Own Artificial Intelligence Research Assistant — Without an Enterprise Budget.
 
 Imagine having a research assistant who can help you understand your documents, organise your ideas, compare information from different sources, and turn rough notes into a useful plan.
 
@@ -21,7 +21,7 @@ That is the opportunity offered by **Google Gemini Notebook**, formerly known as
 
 For people living on a limited income, independent developers, students, writers, and lifelong learners, this technology is worth exploring. It can help make information easier to understand and more useful, even when money, time, or computing resources are limited.
 
-But there is an important distinction: an AI research assistant is not a replacement for your own judgement, your original files, or proper technical testing.
+But there is an important distinction: an Artificial Intelligence research assistant is not a replacement for your own judgement, your original files, or proper technical testing.
 
 In this article, we will explore how to use it sensibly, what it can do for a real project, and where its limitations matter.
 
@@ -33,9 +33,9 @@ In this article, we will explore how to use it sensibly, what it can do for a re
 
 ## 📓 1. What Is Gemini Notebook?
 
-Google renamed NotebookLM to **Gemini Notebook in July 2026**. According to Google's official website, the change reflects its wider effort to integrate notebooks into the Gemini AI experience. Existing notebooks remain accessible.
+Google renamed NotebookLM to **Gemini Notebook in July 2026**. According to Google's official website, the change reflects its wider effort to integrate notebooks into the Gemini Artificial Intelligence experience. Existing notebooks remain accessible.
 
-Official website: [Gemini Notebook](https://notebook.google/).
+Official website: [Gemini Notebook](ZXQH0QXZ).
 
 Think of a notebook as a workspace built around information you choose to collect. Depending on the features available to your account, you can add documents and other supported sources, ask questions about them, and generate useful summaries or other research materials.
 
@@ -51,16 +51,16 @@ For example:
 
 A particularly useful feature is that answers can include citations pointing back to source material. This gives you a way to check whether an answer is supported by the documents you supplied.
 
-That does not make every answer automatically correct. The sources might be incomplete, outdated, contradictory, or misunderstood by the AI. You should follow the citations and verify important claims.
+That does not make every answer automatically correct. The sources might be incomplete, outdated, contradictory, or misunderstood by the Artificial Intelligence. You should follow the citations and verify important claims.
 
-**The central idea is simple:** give the AI relevant information, ask a clear question, inspect its answer, and use your own judgement.
+**The central idea is simple:** give the Artificial Intelligence relevant information, ask a clear question, inspect its answer, and use your own judgement.
 
 <!-- PLEBVOX:END -->
 
 Official references:
 
-- [Gemini Notebook — official website](https://notebook.google/)
-- [Google Help — Using chat in Gemini Notebook](https://support.google.com/gemininotebook/answer/16179559)
+- [Gemini Notebook — official website](ZXQH0QXZ)
+- [Google Help — Using chat in Gemini Notebook](ZXQH0QXZ)
 
 ---
 
@@ -71,7 +71,7 @@ Official references:
 
 For someone trying to make every rand count, free access is an important consideration.
 
-Gemini Notebook offers standard access, with higher limits and additional features available through certain eligible paid plans. The exact limits and available features can change, so check Google's current [plans and usage limits](https://support.google.com/gemininotebook/answer/16213268) before making plans around a particular feature.
+Gemini Notebook offers standard access, with higher limits and additional features available through certain eligible paid plans. The exact limits and available features can change, so check Google's current [plans and usage limits](ZXQH0QXZ) before making plans around a particular feature.
 
 The free offering can be useful for individual research, learning, organising project information, and preparing written material. You do not necessarily need an expensive enterprise subscription to start experimenting.
 
@@ -114,7 +114,7 @@ Start by collecting selected project documents, such as:
 - Bug reports, test results, and known limitations.
 - Installation instructions and user guides.
 
-Use clear filenames and explain the purpose of each source. Avoid dumping thousands of unrelated files into a notebook and expecting the AI to understand the entire project automatically.
+Use clear filenames and explain the purpose of each source. Avoid dumping thousands of unrelated files into a notebook and expecting the Artificial Intelligence to understand the entire project automatically.
 
 For a large project, divide the material into manageable collections according to purpose.
 
@@ -126,7 +126,7 @@ You could ask:
 
 > I am considering separating the workspace environment switcher from the main control script. Using the architecture notes and source files supplied, identify three lightweight design options. For each option, explain the benefits, disadvantages, dependencies, and possible risks on a low-spec MX Linux computer. Distinguish facts supported by my sources from assumptions that need testing.
 
-This encourages the AI to reason about your actual project rather than produce a generic recommendation.
+This encourages the Artificial Intelligence to reason about your actual project rather than produce a generic recommendation.
 
 ### 🛠️ Example: investigate a bug.
 
@@ -194,7 +194,7 @@ Ask:
 
 A notebook can review the content you provide, but it cannot establish actual search rankings, visitor behaviour, or click-through rates from article text alone.
 
-Those questions require appropriate tools and live data, such as [Google Search Console](https://search.google.com/search-console/about).
+Those questions require appropriate tools and live data, such as [Google Search Console](ZXQH0QXZ).
 
 ### 🔗 Connect related articles.
 
@@ -235,7 +235,7 @@ This approach is useful for research articles, technical explainers, educational
 
 It is also valuable for writers who need help organising large amounts of background material before beginning the actual writing.
 
-The author's voice and judgement still matter. AI-generated writing should be edited for accuracy, originality, tone, and relevance rather than published automatically.
+The author's voice and judgement still matter. Artificial Intelligence-generated writing should be edited for accuracy, originality, tone, and relevance rather than published automatically.
 
 <!-- PLEBVOX:END -->
 
@@ -247,11 +247,11 @@ The author's voice and judgement still matter. AI-generated writing should be ed
 
 A tool that can read documents deserves careful consideration, especially when those documents contain personal information or confidential project material.
 
-Google states that Gemini Notebook content is not used to train its foundational generative AI models unless you provide feedback. Google also explains that feedback may include your prompts, uploads, responses, and other associated material, which can be reviewed to improve its products.
+Google states that Gemini Notebook content is not used to train its foundational generative Artificial Intelligence models unless you provide feedback. Google also explains that feedback may include your prompts, uploads, responses, and other associated material, which can be reviewed to improve its products.
 
 Account type matters: eligible Google Workspace and education accounts have additional data-handling protections. Read the current terms that apply to your own account rather than assuming every account receives identical treatment.
 
-Official reference: [Privacy and Terms of Use in Gemini Notebook](https://support.google.com/gemininotebook/answer/17004255).
+Official reference: [Privacy and Terms of Use in Gemini Notebook](ZXQH0QXZ).
 
 ### 🛡️ Protect sensitive information.
 
@@ -265,11 +265,11 @@ Before uploading documents:
 
 For financial documents, a notebook may help explain terminology or compare figures you have deliberately provided. It should not be treated as a qualified financial adviser or as a substitute for checking statements and calculations yourself.
 
-### ⚖️ Remember that AI can be wrong.
+### ⚖️ Remember that Artificial Intelligence can be wrong.
 
 Even when an answer includes citations, the interpretation may be incomplete or incorrect.
 
-A source can be outdated. Two sources can contradict each other. A document may omit an important fact. The AI can misunderstand a technical requirement or produce a plausible-sounding answer that the evidence does not support.
+A source can be outdated. Two sources can contradict each other. A document may omit an important fact. The Artificial Intelligence can misunderstand a technical requirement or produce a plausible-sounding answer that the evidence does not support.
 
 For important decisions, return to the original sources and verify the relevant details.
 
@@ -281,9 +281,9 @@ For important decisions, return to the original sources and verify the relevant 
 
 <!-- PLEBVOX:START -->
 
-## 🎬 7. What About AI-Generated Videos and Landscape Formats?
+## 🎬 7. What About Artificial Intelligence-Generated Videos and Landscape Formats?
 
-AI video generation is an attractive feature, particularly for people creating educational content, presentations, or social media material.
+Artificial Intelligence video generation is an attractive feature, particularly for people creating educational content, presentations, or social media material.
 
 However, availability can differ by product, plan, account, and the particular generation feature being used. The existence of a portrait video option does not, by itself, prove that Google has deliberately removed landscape video for all free users.
 
@@ -307,7 +307,7 @@ You do not need to organise an entire project on the first day. Begin with a sma
 
 ### Step 1. Open Gemini Notebook.
 
-Visit [notebook.google](https://notebook.google/) and sign in with your Google account. Check that the service and features you need are available to your account.
+Visit [notebook.google](ZXQH0QXZ) and sign in with your Google account. Check that the service and features you need are available to your account.
 
 ### Step 2. Choose one subject.
 
@@ -349,12 +349,12 @@ This final step matters. A notebook is a place to think and investigate; it shou
 
 The following official Google resources support the product information and guidance in this article.
 
-1. **[Gemini Notebook — official website](https://notebook.google/).** Product overview, the relationship with NotebookLM, and the current research experience.
-2. **[Using chat in Gemini Notebook](https://support.google.com/gemininotebook/answer/16179559).** Explains source-based questions, citations, generated outputs, and the need to check AI results.
-3. **[Gemini Notebook plans and usage limits](https://support.google.com/gemininotebook/answer/16213268).** Current plan information and usage limits, which may change.
-4. **[Privacy and Terms of Use](https://support.google.com/gemininotebook/answer/17004255).** Explains how content and feedback are handled.
-5. **[Frequently asked questions](https://support.google.com/gemininotebook/answer/16269187).** Information about source limits, access, and common problems.
-6. **[Google Search Console](https://search.google.com/search-console/about).** A separate tool for examining website search performance.
+1. **[Gemini Notebook — official website](ZXQH0QXZ).** Product overview, the relationship with NotebookLM, and the current research experience.
+2. **[Using chat in Gemini Notebook](ZXQH0QXZ).** Explains source-based questions, citations, generated outputs, and the need to check Artificial Intelligence results.
+3. **[Gemini Notebook plans and usage limits](ZXQH0QXZ).** Current plan information and usage limits, which may change.
+4. **[Privacy and Terms of Use](ZXQH0QXZ).** Explains how content and feedback are handled.
+5. **[Frequently asked questions](ZXQH0QXZ).** Information about source limits, access, and common problems.
+6. **[Google Search Console](ZXQH0QXZ).** A separate tool for examining website search performance.
 
 Product features and limits were checked against the official resources available on 19 October 2026. Because Google's services evolve, readers should consult the current documentation before relying on a specific limit or feature.
 
@@ -366,17 +366,17 @@ Product features and limits were checked against the official resources availabl
 
 ## 💡 10. The Bigger Lesson — Technology Should Expand Opportunity.
 
-The real value of an AI research assistant is not that it can produce a large quantity of text. It is that it can help people make better use of information they already possess.
+The real value of an Artificial Intelligence research assistant is not that it can produce a large quantity of text. It is that it can help people make better use of information they already possess.
 
 An independent developer can use it to understand architecture notes. A writer can organise research. A student can ask questions about reading material. A website maintainer can review content for clarity and consistency.
 
 These are practical uses that do not require an enterprise-sized organisation.
 
-But the best results come from combining AI assistance with reliable sources, organised files, sensible privacy practices, and human judgement.
+But the best results come from combining Artificial Intelligence assistance with reliable sources, organised files, sensible privacy practices, and human judgement.
 
 For a project such as PlebMachine, the software must still be tested. For a website such as PlebWare, proposed changes must still be checked against the live repository. For a research article, factual claims must still be verified.
 
-AI can help us work through the information. It should not take away our responsibility for the decisions.
+Artificial Intelligence can help us work through the information. It should not take away our responsibility for the decisions.
 
 You do not need to spend a fortune to begin learning, researching, developing, and publishing. Start with the resources you have, use free tools thoughtfully, and invest your time where it produces genuine value.
 

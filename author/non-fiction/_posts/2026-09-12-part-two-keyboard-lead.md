@@ -103,7 +103,7 @@ I just read *The Wizard of Oz* — no thanks to *Raid: Shadow Legends* implement
 
 The question now is, what will I do with this?
 
-Perhaps I should submit another article to *Everyday AI Magazine*, about how to work with Artificial Intelligence Agents without getting the poor Tin Woodman all rusted up.
+Perhaps I should submit another article to *Everyday Artificial Intelligence Magazine*, about how to work with Artificial Intelligence Agents without getting the poor Tin Woodman all rusted up.
 
 <!-- PLEBVOX:END -->
 
@@ -117,7 +117,7 @@ But in reality, we are only really starting to find the beginning of a monumenta
 
 The journey of the modern writer.
 
-No longer just armed with a keyboard, but now also a microphone, via Portable PlebMachine, an effective AI Publishing Assistant, and a whole lot of determination.
+No longer just armed with a keyboard, but now also a microphone, via Portable PlebMachine, an effective Artificial Intelligence Publishing Assistant, and a whole lot of determination.
 
 So it is the end for now.
 

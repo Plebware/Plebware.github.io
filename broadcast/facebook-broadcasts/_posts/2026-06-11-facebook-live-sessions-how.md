@@ -95,9 +95,9 @@ Show how you configure your desktop environment, install software, customize wor
 
 Share your writing process, discuss story development, or work on a chapter while interacting with readers.
 
-### AI Discussions
+### Artificial Intelligence Discussions
 
-Demonstrate prompt engineering, AI-assisted research, image generation, or content creation.
+Demonstrate prompt engineering, Artificial Intelligence-assisted research, image generation, or content creation.
 
 ### Bible Studies
 

@@ -26,15 +26,15 @@ Like every tool before it, its value depends on the imagination and skill of the
 
 <!-- PLEBVOX:START -->
 
-## What Are AI Graphics?
+## What Are Artificial Intelligence Graphics?
 
-AI graphics are images created, enhanced, modified, or assisted by artificial intelligence systems.
+Artificial Intelligence graphics are images created, enhanced, modified, or assisted by artificial intelligence systems.
 
 An artist may begin with a written description.
 
-A designer may use AI to generate concepts.
+A designer may use Artificial Intelligence to generate concepts.
 
-A photographer may improve an image through AI-assisted editing.
+A photographer may improve an image through Artificial Intelligence-assisted editing.
 
 A writer may create illustrations for stories and books.
 
@@ -48,9 +48,9 @@ What once required large budgets and specialised teams can now be explored by in
 
 ## Human Creativity Still Matters
 
-One misconception is that AI replaces creativity.
+One misconception is that Artificial Intelligence replaces creativity.
 
-In reality, AI requires direction.
+In reality, Artificial Intelligence requires direction.
 
 It needs ideas.
 
@@ -72,7 +72,7 @@ The quality of the result often depends upon the imagination, knowledge, and art
 
 PlebWare has always promoted accessible technology.
 
-AI graphics continue that tradition.
+Artificial Intelligence graphics continue that tradition.
 
 A pensioner can illustrate a memoir.
 
@@ -94,24 +94,24 @@ Knowledge remains the most important resource.
 
 ## What This Section Covers
 
-The AI Graphics section explores:
+The Artificial Intelligence Graphics section explores:
 
-AI image generation
+Artificial Intelligence image generation
 Prompt writing techniques
 Creative workflows
 Story illustration
 Book cover design
 Character creation
 Concept art
-AI-assisted image editing
+Artificial Intelligence-assisted image editing
 Graphic design principles
-Combining AI and traditional graphics tools
+Combining Artificial Intelligence and traditional graphics tools
 
 The focus will remain practical, educational, and creative.
 
 Technology and Imagination
 
-AI is neither magic nor a threat to creativity.
+Artificial Intelligence is neither magic nor a threat to creativity.
 
 It is a tool.
 
@@ -125,7 +125,7 @@ It belongs to creators who can bridge both worlds.
 
 Looking Ahead
 
-The journey into AI graphics is only beginning.
+The journey into Artificial Intelligence graphics is only beginning.
 
 New tools appear every year.
 

@@ -410,7 +410,7 @@ Linux, PlebMachine, automation, desktop orchestration, scripting, and software d
 
 ### **Artificial Intelligence.**
 
-Research, experimentation, AI-assisted development, AI reviews, and practical exploration of emerging tools.
+Research, experimentation, Artificial Intelligence-assisted development, Artificial Intelligence reviews, and practical exploration of emerging tools.
 
 ### **Digital Creativity.**
 

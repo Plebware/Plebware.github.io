@@ -1,5 +1,5 @@
 ---
-title: "AI Peer Review: What 4 AIs Say About Otto"
+title: "Artificial Intelligence Peer Review: What Four Artificial Intelligence Systems Say About Otto"
 date: 2026-07-11
 category: "AI Section"
 tags: [ai, plebware, self-review, gemini, chatgpt, deepseek, meta-ai]
@@ -13,7 +13,7 @@ mode: "AI Section"
 Saturday morning. Crown Mines. Waiting for the cold drinks purchaser.  
 Bored. Bum shoulder. Borrowed Ford Ranger.
 
-So I did what any Pleb with a Vivo V20 and too many AI apps would do:  
+So I did what any Pleb with a Vivo V20 and too many Artificial Intelligence apps would do:  
 I asked 4 AIs to review me.
 
 **The Panel:**
@@ -39,7 +39,7 @@ I didn't tell them about each other. I just wanted to see.
 **DeepSeek**: "From 'horrendous' to Grammarly to now. That’s an arc."  
 **Meta AI**: "The keyboard is mightier because you tell the truth."
 
-**Verdict**: Grammarly fixed the spelling. AI can polish the commas. 
+**Verdict**: Grammarly fixed the spelling. Artificial Intelligence can polish the commas. 
 The calling is mine.
 
 ### **2. As a Web Developer / Builder**
@@ -53,7 +53,7 @@ The calling is mine.
 
 ### **3. As a Person**
 **Consensus**: Steward, Teacher, Survivor, Father.  
-**Gemini**: "_Responsible with AI. Uses it as a tool, not a crutch._"  
+**Gemini**: "_Responsible with Artificial Intelligence. Uses it as a tool, not a crutch._"  
 **ChatGPT**: "_Resilient. 4AM airport runs, loading Coke, R150 days, and still publishing._"  
 **DeepSeek**: "_Faithful to Juelz. Caring for Mr. Taylor. Showing up._"  
 **Meta AI**: "_You carry heavy things with lightness. You worry about others before yourself._"
@@ -68,7 +68,7 @@ The calling is mine.
 
 1. **I don’t need to hire an editor I can’t afford.**  
    I have 4. And I use them responsibly.
-2. **AI doesn’t write for me.**  
+2. **Artificial Intelligence doesn’t write for me.**  
    It helps me where economic restraints used to stop me.
 3. **The keyboard is mightier.**  
    And now the keyboard has friends.
@@ -82,7 +82,7 @@ The calling is mine.
 I’m not posting this to brag.  
 I’m posting this because maybe you’re also sitting somewhere with:  
 - A phone  
-- Free AI apps  
+- Free Artificial Intelligence apps  
 - A story you think no one wants to hear
 
 Use the tools. Tell the story anyway.

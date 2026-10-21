@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebMachine and the Three AI Assistants."
+title: "PlebMachine and the Three Artificial Intelligence Assistants."
 date: 2026-09-02
 category: "comics"
 tags: [plebmachine, comics, ai, chatgpt, gemini, deepseek, programming]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🤖 PlebMachine and the Three AI Assistants
+# 🤖 PlebMachine and the Three Artificial Intelligence Assistants
 
 <!-- PLEBVOX:END -->
 
@@ -72,7 +72,7 @@ The old program helped with a decision on a screen. PlebMachine helps organise a
 
 <!-- PLEBVOX:START -->
 
-Before AI assistants entered the picture, Otto had already spent hours and hours writing code.
+Before Artificial Intelligence assistants entered the picture, Otto had already spent hours and hours writing code.
 
 Those years taught him the fundamentals: logic, variables, processes, inputs, outputs, debugging and the importance of testing what you actually build.
 
@@ -80,7 +80,7 @@ That experience became part of the foundation for working with much more powerfu
 
 <!-- PLEBVOX:END -->
 
-## Enter the AI Assistants.
+## Enter the Artificial Intelligence Assistants.
 
 <!-- PLEBVOX:START -->
 
@@ -104,11 +104,11 @@ And Otto is still asking the question that every computer user eventually asks:
 
 <!-- PLEBVOX:END -->
 
-## AI Doesn't Build the Machine by Itself.
+## Artificial Intelligence Doesn't Build the Machine by Itself.
 
 <!-- PLEBVOX:START -->
 
-AI can suggest code.
+Artificial Intelligence can suggest code.
 
 It can explain errors, propose architectures, rewrite functions, compare approaches and provide another perspective.
 
@@ -120,7 +120,7 @@ But somebody still has to understand the goal, decide what makes sense, test the
 
 That somebody is Otto.
 
-The AI assistants are tools and collaborators in the process, not autonomous replacements for the person building PlebMachine.
+The Artificial Intelligence assistants are tools and collaborators in the process, not autonomous replacements for the person building PlebMachine.
 
 <!-- PLEBVOX:END -->
 
@@ -152,7 +152,7 @@ The computer is still being used to help organise information and support human 
 
 The development process is a mixture of conversation, coding, testing and iteration.
 
-Otto describes the problem. An AI assistant suggests an approach. Code is written. The code is tested. Something breaks. The problem is investigated. The code is changed. Then it is tested again.
+Otto describes the problem. An Artificial Intelligence assistant suggests an approach. Code is written. The code is tested. Something breaks. The problem is investigated. The code is changed. Then it is tested again.
 
 That cycle is repeated until the machine does what it is supposed to do.
 
@@ -162,11 +162,11 @@ That cycle is repeated until the machine does what it is supposed to do.
 
 <!-- PLEBVOX:START -->
 
-AI did not make programming possible for Otto.
+Artificial Intelligence did not make programming possible for Otto.
 
 He had already been programming for decades.
 
-What AI changed was the speed and scale at which ideas could be explored, questioned, explained and refined.
+What Artificial Intelligence changed was the speed and scale at which ideas could be explored, questioned, explained and refined.
 
 The old programmer is still there.
 
@@ -182,7 +182,7 @@ There is a terminal window.
 
 There is an editor window.
 
-There are AI conversations, documentation, tests, configuration files and probably several windows that Otto opened five minutes ago and has already forgotten about.
+There are Artificial Intelligence conversations, documentation, tests, configuration files and probably several windows that Otto opened five minutes ago and has already forgotten about.
 
 <!-- PLEBVOX:END -->
 
@@ -198,7 +198,7 @@ And somewhere in the middle of all that modern computing power comes the timeles
 
 <!-- PLEBVOX:START -->
 
-PlebMachine may be a modern, AI-assisted Linux desktop orchestration system, but its roots reach back decades.
+PlebMachine may be a modern, Artificial Intelligence-assisted Linux desktop orchestration system, but its roots reach back decades.
 
 The Commodore 20 decision program and PlebMachine are separated by enormous changes in technology, yet they share a fundamental idea: use computing to help organise information and support human decision-making.
 
@@ -206,7 +206,7 @@ The Commodore 20 decision program and PlebMachine are separated by enormous chan
 
 <!-- PLEBVOX:START -->
 
-Today there are three little AI robots helping with the work.
+Today there are three little Artificial Intelligence robots helping with the work.
 
 ChatGPT.
 

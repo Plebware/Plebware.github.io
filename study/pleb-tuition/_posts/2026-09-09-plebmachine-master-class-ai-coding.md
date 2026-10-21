@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "PlebMachine Master Class — Relearning Systems Coding With AI"
+title: "PlebMachine Master Class — Relearning Systems Coding With Artificial Intelligence"
 date: 2026-09-09
 categories: [study, pleb-tuition]
 tags: [plebmachine, ai, coding, linux, xfce, bash, python, systems-architecture, relearning, plebware]
 ---
 <!-- PLEBVOX:START -->
 
-# 🧠 PlebMachine Master Class: Relearning to Code With AI.
+# 🧠 PlebMachine Master Class: Relearning to Code With Artificial Intelligence.
 
 Returning to programming after years away can feel rather strange.
 
@@ -21,7 +21,7 @@ You now have access to artificial intelligence that can explain code, generate c
 
 That changes the game.
 
-This Master Class explores how to use AI without surrendering control of the system you are building.
+This Master Class explores how to use Artificial Intelligence without surrendering control of the system you are building.
 
 <!-- PLEBVOX:END -->
 
@@ -37,15 +37,15 @@ It is not really a lesson about Python.
 
 It is not even really a lesson about PlebMachine.
 
-The deeper subject is **how to think about software when working alongside an AI assistant**.
+The deeper subject is **how to think about software when working alongside an Artificial Intelligence assistant**.
 
 The central principle is simple:
 
-**The AI can be the worker, but the human must remain the architect.**
+**The Artificial Intelligence can be the worker, but the human must remain the architect.**
 
-If the architecture is vague, the AI can make technically plausible changes that damage the system.
+If the architecture is vague, the Artificial Intelligence can make technically plausible changes that damage the system.
 
-If the architecture is clearly defined, the AI becomes an extraordinarily useful development partner.
+If the architecture is clearly defined, the Artificial Intelligence becomes an extraordinarily useful development partner.
 
 <!-- PLEBVOX:END -->
 
@@ -81,7 +81,7 @@ And modularity is one of the most important ideas in this entire Master Class.
 
 ## 🧩 2. Think in Components, Not in One Giant Program.
 
-Imagine asking an AI:
+Imagine asking an Artificial Intelligence:
 
 > "Fix PlebMachine."
 
@@ -89,7 +89,7 @@ That sounds reasonable.
 
 It is actually a dangerous request.
 
-The AI does not automatically know which parts of PlebMachine are sacred, which are experimental, which are deprecated, and which are deliberately separated.
+The Artificial Intelligence does not automatically know which parts of PlebMachine are sacred, which are experimental, which are deprecated, and which are deliberately separated.
 
 It may decide that the easiest solution is to rewrite several components.
 
@@ -163,7 +163,7 @@ That is a chain of responsibility.
 
 ## 🔑 4. The Golden Rule: Define the Boundary.
 
-Before asking an AI to modify code, define what that component is **allowed to do**.
+Before asking an Artificial Intelligence to modify code, define what that component is **allowed to do**.
 
 For example:
 
@@ -189,13 +189,13 @@ When each component remains inside its boundary, the entire system becomes easie
 
 <!-- PLEBVOX:START -->
 
-## 🤖 5. AI-Assisted Relearning.
+## 🤖 5. Artificial Intelligence-Assisted Relearning.
 
 When returning to programming with an LLM, one of the greatest dangers is not bad syntax.
 
 It is **hallucinated context**.
 
-An AI may know a great deal about Linux.
+An Artificial Intelligence may know a great deal about Linux.
 
 It may know Bash.
 
@@ -223,7 +223,7 @@ Those things must be supplied by you.
 
 ## 🔐 6. The Master System Prompt Guardrail.
 
-A powerful way of preventing architectural drift is to establish a technical constraint envelope before asking the AI to work.
+A powerful way of preventing architectural drift is to establish a technical constraint envelope before asking the Artificial Intelligence to work.
 
 The following prompt can be reused when beginning a serious PlebMachine development session.
 
@@ -280,15 +280,15 @@ Strict Architectural Constraints:
 
 ## 🔑 Why This Prompt Matters.
 
-This prompt does not magically make an AI infallible.
+This prompt does not magically make an Artificial Intelligence infallible.
 
 What it does is establish a **contract**.
 
-The AI now has a much smaller area in which it is expected to operate.
+The Artificial Intelligence now has a much smaller area in which it is expected to operate.
 
 That reduces the temptation to solve every problem by rewriting everything.
 
-It also gives you something important when reviewing AI-generated code:
+It also gives you something important when reviewing Artificial Intelligence-generated code:
 
 **You can compare the proposed solution against the architectural rules.**
 
@@ -300,7 +300,7 @@ It also gives you something important when reviewing AI-generated code:
 
 ## 🧱 7. Component Isolation Strategy.
 
-Never ask an AI:
+Never ask an Artificial Intelligence:
 
 > "Can you fix this whole system?"
 
@@ -340,7 +340,7 @@ on-mode-change <mode-id>
 
 The script expects a mode identifier.
 
-That gives the AI something concrete to work with.
+That gives the Artificial Intelligence something concrete to work with.
 
 Instead of:
 
@@ -402,7 +402,7 @@ That may be:
 - A successful exit status.
 - Or a deliberate failure.
 
-A good AI request therefore describes not merely what should happen, but also what **must remain unchanged**.
+A good Artificial Intelligence request therefore describes not merely what should happen, but also what **must remain unchanged**.
 
 That final part is often forgotten.
 
@@ -701,13 +701,13 @@ The principle is:
 
 <!-- PLEBVOX:START -->
 
-## 🚫 17. Resist the AI's Favourite Solution: More Code.
+## 🚫 17. Resist the Artificial Intelligence's Favourite Solution: More Code.
 
-One of the easiest traps when working with an AI is accepting complexity simply because the AI can generate it.
+One of the easiest traps when working with an Artificial Intelligence is accepting complexity simply because the Artificial Intelligence can generate it.
 
 You ask for a small fix.
 
-The AI proposes:
+The Artificial Intelligence proposes:
 
 - A new Python service.
 - A configuration database.
@@ -732,7 +732,7 @@ PlebMachine's philosophy is deliberately conservative.
 
 <!-- PLEBVOX:START -->
 
-## 🧪 18. How to Ask AI to Fix a Component.
+## 🧪 18. How to Ask Artificial Intelligence to Fix a Component.
 
 A strong technical request can follow this pattern.
 
@@ -760,7 +760,7 @@ That is a dramatically better engineering request than:
 
 <!-- PLEBVOX:START -->
 
-## 🔍 19. The Five-Step AI Debugging Method.
+## 🔍 19. The Five-Step Artificial Intelligence Debugging Method.
 
 When something breaks, use this sequence.
 
@@ -784,7 +784,7 @@ Can the component be tested independently?
 
 Only after understanding the failure should the code be changed.
 
-This prevents the classic AI-development mistake of changing five things because one thing failed.
+This prevents the classic Artificial Intelligence-development mistake of changing five things because one thing failed.
 
 <!-- PLEBVOX:END -->
 
@@ -792,11 +792,11 @@ This prevents the classic AI-development mistake of changing five things because
 
 <!-- PLEBVOX:START -->
 
-## 🔑 20. Ask the AI to Explain Before It Changes.
+## 🔑 20. Ask the Artificial Intelligence to Explain Before It Changes.
 
 One of the most useful habits when relearning programming is this:
 
-**Ask the AI to explain the existing code before asking it to rewrite the code.**
+**Ask the Artificial Intelligence to explain the existing code before asking it to rewrite the code.**
 
 You can say:
 
@@ -814,7 +814,7 @@ Only then:
 
 > "Provide the corrected version."
 
-This sequence turns the AI from a code vending machine into a teaching assistant.
+This sequence turns the Artificial Intelligence from a code vending machine into a teaching assistant.
 
 And that is much more valuable when your real objective is to relearn.
 
@@ -826,19 +826,19 @@ And that is much more valuable when your real objective is to relearn.
 
 ## 🧠 21. The Human Still Has to Understand the Machine.
 
-AI makes it tempting to stop learning.
+Artificial Intelligence makes it tempting to stop learning.
 
-Why learn Bash if the AI can write Bash?
+Why learn Bash if the Artificial Intelligence can write Bash?
 
-Why learn Python if the AI can write Python?
+Why learn Python if the Artificial Intelligence can write Python?
 
-Why understand Linux if the AI can explain Linux?
+Why understand Linux if the Artificial Intelligence can explain Linux?
 
 Because the moment something goes wrong, someone still has to decide whether the proposed solution makes sense.
 
-The person who understands the architecture can evaluate the AI.
+The person who understands the architecture can evaluate the Artificial Intelligence.
 
-The person who does not understand the architecture can only hope the AI is correct.
+The person who does not understand the architecture can only hope the Artificial Intelligence is correct.
 
 That is a very different position.
 
@@ -949,7 +949,7 @@ You need to understand failure.
 
 And you need to know where one component should stop and another should begin.
 
-AI can help you rebuild all of that.
+Artificial Intelligence can help you rebuild all of that.
 
 But you must remain involved in the reasoning.
 
@@ -976,9 +976,9 @@ The human defines:
 - The system state.
 - The desired result.
 
-**The AI is the implementation worker.**
+**The Artificial Intelligence is the implementation worker.**
 
-The AI can:
+The Artificial Intelligence can:
 
 - Explain.
 - Generate.
@@ -988,7 +988,7 @@ The AI can:
 - Document.
 - Suggest alternatives.
 
-But the AI should not quietly redefine the architecture.
+But the Artificial Intelligence should not quietly redefine the architecture.
 
 <!-- PLEBVOX:END -->
 
@@ -998,11 +998,11 @@ But the AI should not quietly redefine the architecture.
 
 ## 🧰 28. The Master Class Quick Reference.
 
-When working with AI on PlebMachine, remember:
+When working with Artificial Intelligence on PlebMachine, remember:
 
 🔑 **Define the architecture first.**
 
-🔑 **Give the AI explicit boundaries.**
+🔑 **Give the Artificial Intelligence explicit boundaries.**
 
 🔑 **Work on one component at a time.**
 
@@ -1034,13 +1034,13 @@ Programming is becoming increasingly conversational.
 
 You can describe what you want.
 
-An AI can produce a first implementation.
+An Artificial Intelligence can produce a first implementation.
 
 You can test it.
 
 You can explain what went wrong.
 
-The AI can help analyse the failure.
+The Artificial Intelligence can help analyse the failure.
 
 Then you iterate.
 
@@ -1068,7 +1068,7 @@ Those questions still belong to the architect.
 
 # 🏁 Conclusion: Keep Your Hands on the Steering Wheel.
 
-Relearning to code in the age of AI is not about memorising every command.
+Relearning to code in the age of Artificial Intelligence is not about memorising every command.
 
 It is about learning how to **think clearly enough to direct the machine**.
 
@@ -1086,7 +1086,7 @@ Modular scripts.
 
 A controlled interface.
 
-And an AI that works inside the boundaries established by the human developer.
+And an Artificial Intelligence that works inside the boundaries established by the human developer.
 
 The result is not merely faster coding.
 
@@ -1098,7 +1098,7 @@ You need to understand enough to ask the right questions, recognise a dangerous 
 
 That is the real skill.
 
-**The AI may write the code.
+**The Artificial Intelligence may write the code.
 
 The architect decides what the code is allowed to become.**
 
@@ -1116,13 +1116,13 @@ Define the boundaries.
 
 Isolate the components.
 
-Use AI intelligently.
+Use Artificial Intelligence intelligently.
 
 Test everything.
 
 Keep learning.**
 
-That is how a returning programmer can turn an AI from a shortcut into a genuine development partner.
+That is how a returning programmer can turn an Artificial Intelligence from a shortcut into a genuine development partner.
 
 <!-- PLEBVOX:END -->
 

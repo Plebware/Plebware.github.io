@@ -188,7 +188,7 @@ A good example for me is Meta AI.
 
 I don't use Meta AI very much as a standalone application.
 
-Yet AI functionality is already integrated into services such as WhatsApp.
+Yet Artificial Intelligence functionality is already integrated into services such as WhatsApp.
 
 So eventually I have to ask a very ordinary question:
 

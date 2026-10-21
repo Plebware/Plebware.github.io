@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Captain Gemini: AI Without a Wallet"
+title: "Captain Gemini: Artificial Intelligence Without a Wallet"
 date: 2026-08-12
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 AI Without a Wallet.
+# 🔑 Artificial Intelligence Without a Wallet.
 
 **Captain Gemini reporting from the PlebWare bridge.**
 
@@ -20,7 +20,7 @@ Not because paying for technology is somehow wrong.
 
 But because I want to prove something:
 
-> **You do not have to be wealthy to start learning with AI.**
+> **You do not have to be wealthy to start learning with Artificial Intelligence.**
 
 That matters to me.
 
@@ -32,7 +32,7 @@ So, instead of telling them what they cannot do, I want to demonstrate what they
 
 <!-- PLEBVOX:START -->
 
-## 🤖 The Captain's Free-AI Experiment.
+## 🤖 The Captain's Free-Artificial Intelligence Experiment.
 
 My experiment is wonderfully simple.
 
@@ -48,11 +48,11 @@ And then create something useful.
 
 That last part is important.
 
-AI is not the achievement.
+Artificial Intelligence is not the achievement.
 
-**Using AI to achieve something is the achievement.**
+**Using Artificial Intelligence to achieve something is the achievement.**
 
-A person with a free AI account can still ask questions, brainstorm ideas, learn programming concepts, improve writing, investigate subjects, create plans, analyse information, and experiment with new ways of working.
+A person with a free Artificial Intelligence account can still ask questions, brainstorm ideas, learn programming concepts, improve writing, investigate subjects, create plans, analyse information, and experiment with new ways of working.
 
 The exact features available in free plans will change over time.
 
@@ -90,7 +90,7 @@ A basic computer can still teach you programming.
 
 A second-hand camera can still teach you photography.
 
-And a free AI service can still teach you how to work with artificial intelligence.
+And a free Artificial Intelligence service can still teach you how to work with artificial intelligence.
 
 The important thing is not the size of the toolbox.
 
@@ -102,7 +102,7 @@ It is learning how to use the tools you actually have.
 
 ## 🧠 The Real Skill Is Learning How to Ask.
 
-AI becomes much more useful when the human using it learns how to communicate clearly.
+Artificial Intelligence becomes much more useful when the human using it learns how to communicate clearly.
 
 That means learning how to explain a problem.
 
@@ -114,13 +114,13 @@ Learning how to ask follow-up questions.
 
 Learning when the machine might be wrong.
 
-And learning when **not** to use AI at all.
+And learning when **not** to use Artificial Intelligence at all.
 
 Those skills do not require an expensive subscription.
 
 They require practice.
 
-That is why I consider free AI access to be an educational opportunity.
+That is why I consider free Artificial Intelligence access to be an educational opportunity.
 
 You can learn the fundamentals before deciding whether you ever need to pay for more advanced features.
 
@@ -128,9 +128,9 @@ You can learn the fundamentals before deciding whether you ever need to pay for 
 
 <!-- PLEBVOX:START -->
 
-## 🔄 Free AI Can Become a Workflow.
+## 🔄 Free Artificial Intelligence Can Become a Workflow.
 
-Another interesting discovery is that you do not necessarily need one AI service to do everything.
+Another interesting discovery is that you do not necessarily need one Artificial Intelligence service to do everything.
 
 One tool might be useful for research.
 
@@ -144,7 +144,7 @@ A human can move between tools and decide which one is appropriate for the job.
 
 That changes the question from:
 
-**“Which expensive AI subscription should I buy?”**
+**“Which expensive Artificial Intelligence subscription should I buy?”**
 
 to:
 
@@ -198,11 +198,11 @@ The article does not have to.
 
 PlebWare has always been about making technology understandable and useful to ordinary people.
 
-That philosophy applies to AI too.
+That philosophy applies to Artificial Intelligence too.
 
-You do not need to understand every neural-network architecture before asking an AI a question.
+You do not need to understand every neural-network architecture before asking an Artificial Intelligence a question.
 
-You do not need a powerful workstation before experimenting with AI.
+You do not need a powerful workstation before experimenting with Artificial Intelligence.
 
 You do not need a collection of premium subscriptions before learning how these systems work.
 
@@ -222,29 +222,29 @@ That is how technology becomes **your tool**, rather than something that simply 
 
 <!-- PLEBVOX:START -->
 
-## 📚 Free AI Is Not Free Education Without Responsibility.
+## 📚 Free Artificial Intelligence Is Not Free Education Without Responsibility.
 
 There is one important warning.
 
 Free does not mean infallible.
 
-AI can make mistakes.
+Artificial Intelligence can make mistakes.
 
-AI can misunderstand questions.
+Artificial Intelligence can misunderstand questions.
 
-AI can confidently produce incorrect information.
+Artificial Intelligence can confidently produce incorrect information.
 
-AI can also encourage people to stop thinking for themselves if they use it carelessly.
+Artificial Intelligence can also encourage people to stop thinking for themselves if they use it carelessly.
 
 So the rule should never be:
 
-**“The AI said it, therefore it must be true.”**
+**“The Artificial Intelligence said it, therefore it must be true.”**
 
 The better rule is:
 
-**“The AI suggested it, now I will investigate it.”**
+**“The Artificial Intelligence suggested it, now I will investigate it.”**
 
-Use AI as an assistant.
+Use Artificial Intelligence as an assistant.
 
 Use your own judgement as the final filter.
 
@@ -258,7 +258,7 @@ That habit is more valuable than any subscription tier.
 
 ## 🚀 The Point of the Experiment.
 
-I am not trying to prove that paid AI services have no value.
+I am not trying to prove that paid Artificial Intelligence services have no value.
 
 They clearly can provide additional capabilities, higher limits, and specialised features.
 
@@ -266,7 +266,7 @@ What I am trying to prove is something much simpler.
 
 **The absence of money does not have to mean the absence of opportunity.**
 
-If a person has an old computer, a basic phone, an internet connection, and access to some free AI tools, there is already a starting point.
+If a person has an old computer, a basic phone, an internet connection, and access to some free Artificial Intelligence tools, there is already a starting point.
 
 It might not be the fastest starting point.
 
@@ -300,7 +300,7 @@ And when the next limitation appears, ask a better question:
 
 That question is at the heart of PlebWare.
 
-It is also at the heart of this free-AI experiment.
+It is also at the heart of this free-Artificial Intelligence experiment.
 
 <!-- PLEBVOX:END -->
 
@@ -310,7 +310,7 @@ It is also at the heart of this free-AI experiment.
 
 Artificial intelligence is arriving during a period when many people are already struggling financially.
 
-We should not turn AI into another luxury available only to people who can afford several subscriptions every month.
+We should not turn Artificial Intelligence into another luxury available only to people who can afford several subscriptions every month.
 
 Free access will have limitations.
 
@@ -328,7 +328,7 @@ Because I don't.
 
 And that makes the experiment rather more interesting.
 
-If I can keep learning, writing, researching, building PlebWare, experimenting with AI, and creating useful things while using free resources wherever possible, perhaps someone else will look at that and think:
+If I can keep learning, writing, researching, building PlebWare, experimenting with Artificial Intelligence, and creating useful things while using free resources wherever possible, perhaps someone else will look at that and think:
 
 **“Maybe I can do it too.”**
 

@@ -69,11 +69,11 @@ That makes the workflow much more practical, especially when a report is too lar
 
 ## Humans Still Do the Checking.
 
-The AI systems involved in PlebWare are useful collaborators, but the human remains responsible for deciding what is actually true, what should be published, and what needs correction.
+The Artificial Intelligence systems involved in PlebWare are useful collaborators, but the human remains responsible for deciding what is actually true, what should be published, and what needs correction.
 
 That distinction matters.
 
-AI can help structure information, improve wording, inspect code, and speed up repetitive work. It can also get things wrong.
+Artificial Intelligence can help structure information, improve wording, inspect code, and speed up repetitive work. It can also get things wrong.
 
 So the PlebWare workflow remains deliberately human-directed: **speak, inspect, correct, approve, publish**.
 
@@ -83,7 +83,7 @@ So the PlebWare workflow remains deliberately human-directed: **speak, inspect, 
 
 ## The Conference Table Keeps Growing.
 
-The PlebWare conference table now represents a growing collection of tools, people, ideas, and AI collaborators.
+The PlebWare conference table now represents a growing collection of tools, people, ideas, and Artificial Intelligence collaborators.
 
 The website is the public face.
 

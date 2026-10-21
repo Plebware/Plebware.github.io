@@ -4,12 +4,12 @@ title: "Non-Artificial Intelligence Writing."
 date: 2026-09-12
 ---
 <img src="/assets/images/elf-otto.webp"
-     alt="Imagine How To Write - Non AI writing - Polished by AI."
+     alt="Imagine How To Write - Non Artificial Intelligence writing - Polished by Artificial Intelligence."
      style="max-width: 100%; height: auto;">
 
 <!-- PLEBVOX:START -->
 
-# The Author Before the AI.
+# The Author Before the Artificial Intelligence.
 
 It is not difficult to write without using an Artificial Intelligence Agent.
 
@@ -87,7 +87,7 @@ And sometimes, it produces amazing results.
 
 That will be the ultimate test of tonight's experiment.
 
-I started writing about not using AI.
+I started writing about not using Artificial Intelligence.
 
 I was sitting under the carport.
 
@@ -173,7 +173,7 @@ And now I remember it.
 
 This is where I think the relationship between an author and Artificial Intelligence becomes interesting.
 
-AI can take raw material and help shape it.
+Artificial Intelligence can take raw material and help shape it.
 
 It can help organise thoughts.
 
@@ -211,11 +211,11 @@ That is tonight's experiment.
 
 If this becomes a useful PlebWare article, then the experiment has worked.
 
-Not because AI wrote the ideas.
+Not because Artificial Intelligence wrote the ideas.
 
 The ideas were already here.
 
-AI merely helped me shape what I had already brought to the table.
+Artificial Intelligence merely helped me shape what I had already brought to the table.
 
 Perhaps that is the real lesson.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NotebookLM 101: Your AI-Powered Research Assistant"
+title: "NotebookLM 101: Your Artificial Intelligence-Powered Research Assistant"
 date: 2026-06-20
 ---
 
@@ -8,7 +8,7 @@ date: 2026-06-20
 
 # 🔑 What Is NotebookLM?
 
-NotebookLM is an AI-powered research and note-taking tool designed to help people understand, organize, and work with information.
+NotebookLM is an Artificial Intelligence-powered research and note-taking tool designed to help people understand, organize, and work with information.
 
 Instead of searching the entire internet for answers, NotebookLM focuses on the sources you provide.
 
@@ -197,15 +197,15 @@ The tool assists study, while careful reading and discernment remain important.
 
 # 🔑 NotebookLM and Artificial Intelligence
 
-NotebookLM is an example of AI being used as a knowledge tool.
+NotebookLM is an example of Artificial Intelligence being used as a knowledge tool.
 
-AI can help with:
+Artificial Intelligence can help with:
 
 * Organising information
 * Finding patterns
 * Explaining concepts
 
-However, AI should be treated as a helper.
+However, Artificial Intelligence should be treated as a helper.
 
 People should still:
 
@@ -238,7 +238,7 @@ NotebookLM works well for:
 
 # 🔑 Things to Remember
 
-AI tools are powerful, but they are not perfect.
+Artificial Intelligence tools are powerful, but they are not perfect.
 
 Always remember:
 

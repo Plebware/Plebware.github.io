@@ -64,9 +64,9 @@ These three concepts are related, but they describe different capabilities.
 
 - **💻 Digitalisation:** Using digital technologies to improve how information is handled and how work is performed.
 - **⚙️ Automation:** Making a task or process happen automatically, or with less repeated human intervention.
-- **🧠 Artificial intelligence (AI):** Systems designed to perform tasks that may involve recognising patterns, interpreting language, generating content, or supporting decisions.
+- **🧠 Artificial intelligence (Artificial Intelligence):** Systems designed to perform tasks that may involve recognising patterns, interpreting language, generating content, or supporting decisions.
 
-These capabilities can work together. A digital publishing system might store articles as Markdown files, automatically validate their metadata, and use an AI assistant to suggest improvements to their wording.
+These capabilities can work together. A digital publishing system might store articles as Markdown files, automatically validate their metadata, and use an Artificial Intelligence assistant to suggest improvements to their wording.
 
 Each part has a different job.
 
@@ -193,7 +193,7 @@ Local processing and simple configuration can sometimes provide the required fun
 
 ### 🪶 4. Simplicity is a strength.
 
-A predictable script or configuration rule may be safer, faster, and easier to maintain than an AI-powered system.
+A predictable script or configuration rule may be safer, faster, and easier to maintain than an Artificial Intelligence-powered system.
 
 Use the simplest approach that adequately solves the problem.
 
@@ -205,7 +205,7 @@ Where feasible, automated changes should be reversible. Systems should protect e
 
 Automation can perform a task, but responsibility for how it is designed, deployed, and used remains with the people and organisations involved.
 
-AI-generated suggestions and automated test results should be evaluated according to the task they actually perform.
+Artificial Intelligence-generated suggestions and automated test results should be evaluated according to the task they actually perform.
 
 ### 🔄 7. Systems should improve through feedback.
 
@@ -247,7 +247,7 @@ A website can benefit from automated checks for broken links, missing metadata, 
 
 Structured metadata and search-engine optimisation can also benefit from automation. A system can verify whether required fields exist, while a human assesses whether an article is accurate, relevant, and useful.
 
-AI assistants can contribute to research, outlining, editing, and technical problem-solving. Their output should still be checked, especially when it contains factual claims or references to external sources.
+Artificial Intelligence assistants can contribute to research, outlining, editing, and technical problem-solving. Their output should still be checked, especially when it contains factual claims or references to external sources.
 
 Automation should strengthen the publishing process, not replace the author's responsibility for what appears on the website.
 
@@ -282,9 +282,9 @@ Not every automation requires the same level of scrutiny. Automatically formatti
 
 Research into automation and artificial intelligence continues to examine their social, ethical, economic, and environmental effects.
 
-Khogali and Mekid, in their 2023 review of automation and AI, emphasise the importance of ethical considerations, human values, openness, and continued collaborative research.
+Khogali and Mekid, in their 2023 review of automation and Artificial Intelligence, emphasise the importance of ethical considerations, human values, openness, and continued collaborative research.
 
-📚 <a href="https://doi.org/10.1016/j.techsoc.2023.102232" target="_blank" rel="noopener noreferrer">Reference: Khogali, H. O., and Mekid, S. (2023). <em>The blended future of automation and AI: Examining some long-term societal and ethical impact features.</em> Technology in Society, 73, 102232.</a>
+📚 <a href="https://doi.org/10.1016/j.techsoc.2023.102232" target="_blank" rel="noopener noreferrer">Reference: Khogali, H. O., and Mekid, S. (2023). <em>The blended future of automation and Artificial Intelligence: Examining some long-term societal and ethical impact features.</em> Technology in Society, 73, 102232.</a>
 
 These questions will not be settled by technology alone. They require thoughtful design, informed users, responsible organisations, and a willingness to reconsider assumptions when evidence shows that something is not working.
 

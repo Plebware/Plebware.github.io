@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "How AI Should Be Used"
+title: "How Artificial Intelligence Should Be Used"
 date: 2024-06-07
 ---
 
 <!-- PLEBVOX:START -->
 
-# The Correct Way To Leverage AI
+# The Correct Way To Leverage Artificial Intelligence
 
 <!-- PLEBVOX:END -->
 
@@ -22,7 +22,7 @@ Others dismiss it as a passing trend.
 
 The truth is more balanced.
 
-AI is a tool.
+Artificial Intelligence is a tool.
 
 And like any tool, its value depends on how it is used.
 
@@ -30,9 +30,9 @@ And like any tool, its value depends on how it is used.
 
 <!-- PLEBVOX:START -->
 
-## What AI Is Good At
+## What Artificial Intelligence Is Good At
 
-AI systems are strong in areas such as:
+Artificial Intelligence systems are strong in areas such as:
 
 * Generating ideas quickly
 * Summarising large amounts of information
@@ -41,15 +41,15 @@ AI systems are strong in areas such as:
 * Supporting brainstorming and creativity
 * Automating repetitive tasks
 
-These strengths make AI useful for productivity and learning.
+These strengths make Artificial Intelligence useful for productivity and learning.
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## What AI Is Not Good At
+## What Artificial Intelligence Is Not Good At
 
-AI is not perfect.
+Artificial Intelligence is not perfect.
 
 It can:
 
@@ -61,7 +61,7 @@ It can:
 
 Because of this, human judgement remains essential.
 
-AI supports decision-making—it does not replace it.
+Artificial Intelligence supports decision-making—it does not replace it.
 
 <!-- PLEBVOX:END -->
 
@@ -69,13 +69,13 @@ AI supports decision-making—it does not replace it.
 
 ## The Importance of Human Direction
 
-AI does not decide what matters.
+Artificial Intelligence does not decide what matters.
 
 Humans do.
 
-Without clear direction, AI output can become unfocused or irrelevant.
+Without clear direction, Artificial Intelligence output can become unfocused or irrelevant.
 
-Good use of AI always includes:
+Good use of Artificial Intelligence always includes:
 
 * Clear intent
 * Critical thinking
@@ -92,7 +92,7 @@ The human chooses meaning.
 
 ## Responsible Use
 
-Using AI responsibly means understanding both its strengths and its limits.
+Using Artificial Intelligence responsibly means understanding both its strengths and its limits.
 
 It should not be used to:
 
@@ -109,7 +109,7 @@ Instead, it should support learning, creativity, and productivity.
 
 ## The PlebWare Perspective
 
-Within PlebWare, AI is treated as a collaborative system.
+Within PlebWare, Artificial Intelligence is treated as a collaborative system.
 
 Not an authority.
 
@@ -117,7 +117,7 @@ Not a replacement for skill.
 
 But a partner in exploration and creation.
 
-AI helps:
+Artificial Intelligence helps:
 
 * Writers improve drafts
 * Developers explore solutions
@@ -133,11 +133,11 @@ But the human remains responsible for outcomes.
 
 ## A Learning Tool First
 
-The most powerful way to use AI is not to outsource thinking.
+The most powerful way to use Artificial Intelligence is not to outsource thinking.
 
 It is to enhance thinking.
 
-Used correctly, AI becomes:
+Used correctly, Artificial Intelligence becomes:
 
 * A tutor
 * A brainstorming partner
@@ -157,7 +157,7 @@ Technology becomes dangerous when it replaces understanding.
 
 Technology becomes powerful when it strengthens it.
 
-AI is no exception.
+Artificial Intelligence is no exception.
 
 ---
 

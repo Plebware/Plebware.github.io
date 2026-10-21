@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why AI Prompts Matter"
+title: "Why Artificial Intelligence Prompts Matter"
 date: 2026-06-06
 ---
 
@@ -28,7 +28,7 @@ It is a way of guiding a system toward a useful outcome.
 
 ## What is a Prompt?
 
-A prompt is the instruction given to an AI system to produce an output.
+A prompt is the instruction given to an Artificial Intelligence system to produce an output.
 
 It can be:
 
@@ -47,7 +47,7 @@ The quality of the prompt often determines the quality of the result.
 
 ## Why Prompts Matter
 
-AI systems are flexible.
+Artificial Intelligence systems are flexible.
 
 They can write, design, summarise, explain, generate, and transform ideas.
 
@@ -94,7 +94,7 @@ Effective prompts often include:
 * Constraints or limits
 * Tone or style guidance
 
-This structure helps AI systems interpret intent more accurately.
+This structure helps Artificial Intelligence systems interpret intent more accurately.
 
 <!-- PLEBVOX:END -->
 
@@ -126,7 +126,7 @@ It becomes a foundational skill across all digital work.
 
 ## What This Section Covers
 
-The AI Prompts section will include:
+The Artificial Intelligence Prompts section will include:
 
 * Prompt writing techniques
 * Template structures

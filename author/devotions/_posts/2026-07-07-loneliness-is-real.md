@@ -32,7 +32,7 @@ Modern life has made us more connected than at any other time in history, yet ma
 
 Technology allows us to communicate instantly, but communication is not the same as connection.
 
-Many have discovered that even an AI assistant patiently listens without interrupting. That should not convince us that machines have become better than people—it should cause us to ask why so many people feel unheard in the first place.
+Many have discovered that even an Artificial Intelligence assistant patiently listens without interrupting. That should not convince us that machines have become better than people—it should cause us to ask why so many people feel unheard in the first place.
 
 Perhaps our greatest shortage today is not information, but attention.
 

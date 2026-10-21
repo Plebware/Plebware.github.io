@@ -123,7 +123,7 @@ The suspicion that Taylor caused the reboot is understandable, given his positio
 
 There is something rather fitting about the interruption. Otto and ChatGPT were exploring whether their testing had been mutual, deliberate, or a little of both. They had not yet reached a firm conclusion when Taylor introduced an entirely different kind of uncertainty.
 
-The incident also provides a useful reminder: **a plausible explanation is not the same as a proven explanation.** Whether we are discussing AI collaboration or a mysteriously rebooting Linux computer, the distinction matters.
+The incident also provides a useful reminder: **a plausible explanation is not the same as a proven explanation.** Whether we are discussing Artificial Intelligence collaboration or a mysteriously rebooting Linux computer, the distinction matters.
 
 For the moment, the Gemini Notebook discussion remains unfinished, the computer awaits its next check, and Taylor has successfully reclaimed a comfortable spot.
 
