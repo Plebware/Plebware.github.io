@@ -34,10 +34,10 @@ Plebware engineers human-centred software architectures and cognitive desktop so
 
 <div class="hero-actions">
   <!-- Primary Button -->
-  <a href="[#architecture](https://plebware.github.io/developer/plebmachine/2026/09/23/plebmachine-2027-critical-plan-of-action.html)" class="btn btn-primary">Critical Plan of Action and Architecture</a>
+  <a href="https://plebware.github.io/developer/plebmachine/2026/09/23/plebmachine-2027-critical-plan-of-action.html" class="btn btn-primary">Critical Plan of Action and Architecture</a>
   
   <!-- Secondary Button -->
-  <a href="The Story Behind Plebmachine Pro](https://plebware.github.io/developer/plebmachine/2026/10/10/the-story-behind-plebmachine-pro.html" class="btn btn-secondary">The Story Behind Plebmachine Pro</a>
+  <a href="https://plebware.github.io/developer/plebmachine/2026/10/10/the-story-behind-plebmachine-pro.html" class="btn btn-secondary">The Story Behind PlebMachine Pro</a>
 </div>
 
 
