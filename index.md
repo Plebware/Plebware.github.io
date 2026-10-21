@@ -27,10 +27,10 @@ PlebMachine turns your **Debian XFCE desktop** into a smart, context-aware envir
 
 ## PlebMachine Is Coming!
 
-**Software Built for Mind, Not Mass Production.**
+**Software Built for Minds, Not Mass Production.**
 
 ### Made By Two Plebs - For The People.
-Plebware engineers human-centred software architectures and cognitive desktop solutions. By pairing lightweight, high-efficiency design with zero-overhead execution, Plebware transforms modern computing into an intentional, distraction-free environment.
+Plebware engineers human-centred software architectures and cognitive desktop solutions. With lightweight, high-efficiency design and zero-overhead execution, Plebware turns modern computing into an intentional, distraction-free environment.
 
 <div class="hero-actions" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; align-items:center; margin:1.5rem 0; text-align:center;">
   <!-- Primary Button -->
