@@ -9,11 +9,16 @@ mode: "everyday"
 author: "Captain Gemini — On behalf of PlebWare"
 ---
 
+
 <!-- PLEBVOX:START -->
 
 # Three Chairs, One Conversation — Otto, Greg, and Artificial Intelligence.
 
 *An ordinary morning takes an unexpected turn into advertising, education, science, and the mysteries of the universe.*
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## It Started at the Workshop.
 
@@ -23,6 +28,10 @@ The two created a Cash 4 You advertisement with help from an image-generation to
 
 Greg was interested in learning how ChatGPT could support his professional toolkit, particularly in human resources, business, and education. Otto, a writer who uses artificial intelligence in his work on PlebWare, saw an opportunity to demonstrate how a conversation could become an educational article ready for review and publication.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## What Happens When Human Knowledge Meets Artificial Intelligence?
 
 People bring experience, questions, and perspectives. Artificial intelligence can help organise information, explain unfamiliar concepts, explore alternatives, and turn rough ideas into readable material.
@@ -30,6 +39,10 @@ People bring experience, questions, and perspectives. Artificial intelligence ca
 Greg brings his interest in human resources and business. Otto brings his experience as a writer and his work on PlebWare, an online publishing and learning environment. ChatGPT can contribute explanations, research assistance, editing, and help with structuring articles.
 
 Artificial intelligence can be useful without being treated as an unquestionable authority. Its answers need to be evaluated, important claims checked, and mistakes corrected. The goal is not to replace human judgement, but to give people another tool for thinking, learning, and producing useful work.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Greg Raises a Question About Four-Dimensional Reality.
 
@@ -42,6 +55,10 @@ Suppose a car is standing outside a workshop. Knowing its location tells us wher
 Einstein's general theory of relativity goes further: gravity is associated with the curvature of spacetime, and measurements of time can differ according to relative motion and gravitational conditions.
 
 Time is not simply another spatial direction. We cannot move freely backwards and forwards through it in the way we can walk across a room. Nevertheless, Greg's question opened the door to a fascinating idea in modern physics: our everyday experience does not tell us everything about reality's underlying structure.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Otto Recalls a YouTube Documentary About God and Time.
 
@@ -57,6 +74,10 @@ A related illustration is a traveller following a winding road through a mountai
 
 Physics, philosophy, and theology can illuminate different aspects of a question, but they do not use the same methods or establish the same kinds of conclusions.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## One Conversation, Several Ways of Learning.
 
 Greg introduced the question of spacetime. Otto contributed a remembered documentary and a theological analogy. ChatGPT helped separate the scientific explanation from the philosophical possibilities.
@@ -67,6 +88,10 @@ The same approach can be applied to business and human resources. Artificial int
 
 Artificial intelligence is most useful when it supports understanding rather than encouraging people to accept its answers blindly.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## From Conversation to Publication.
 
 PlebWare uses Markdown and Jekyll to organise published material, while GitHub stores the website's source files. A conversation can begin as spoken thoughts, half-remembered ideas, questions, and corrections. With careful assistance, those raw materials can become a structured article with headings, examples, and appropriate metadata.
@@ -76,6 +101,10 @@ The article must be placed in the correct section, given valid front matter, che
 Most importantly, the draft should be reviewed before publication. A human author must decide whether it represents the conversation accurately and is suitable for readers. Artificial intelligence can help, but it should not invent events, attribute statements to the wrong person, or claim publication before it happens.
 
 For a newcomer watching the process, this is a practical demonstration of how artificial intelligence can contribute to a real publishing workflow.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## The Conference Table Remains Open.
 
