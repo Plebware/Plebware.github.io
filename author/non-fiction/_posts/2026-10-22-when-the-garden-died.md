@@ -368,3 +368,21 @@ I offer this piece as part of a wider autobiographical journey through grief, co
 *Personal nonfiction — PlebWare.*
 
 <!-- PLEBVOX:END -->
+------
+
+-----
+<img src="/assets/images/transparent-spacer-32x32.webp"
+     alt=""
+     width="32"
+     height="32"
+     aria-hidden="true">
+
+
+<!---VOXED--->
+
+<img src="/assets/images/transparent-spacer-32x32.webp"
+     alt=""
+     width="32"
+     height="32"
+     aria-hidden="true">
+-----
