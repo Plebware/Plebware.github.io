@@ -61,6 +61,7 @@ You can also explore [Who or What Is PlebWare? →](/everyday/about-plebware/202
 -----
 
 ## 📰 Latest PlebWare Update.
+This Update is updated occasionally when major updates or site changes are implemented.
 
 {% assign latest_update = site.updates | sort: 'date' | reverse | first %}
 
