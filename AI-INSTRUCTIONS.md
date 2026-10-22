@@ -1,4 +1,4 @@
-# PlebWare AI Instructions
+# AI-INSTRUCTIONS
 
 **Purpose:** This file is the canonical working standard for AI agents authorised to work on the PlebWare project.
 
