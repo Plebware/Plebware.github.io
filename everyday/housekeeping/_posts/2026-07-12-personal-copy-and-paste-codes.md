@@ -89,7 +89,7 @@ These equivalent markers are also supported:
 <!-- HUMAN_VERIFIED_IMAGE -->
 ```
 
-Use just **one** marker where you want the image to appear. The marker itself remains invisible; the rendered page displays the image centred at **60% of the available content width**, with a 100% maximum so it stays within the screen on mobile. This automatic feature depends on the shared theme's updated JavaScript having deployed.
+Use just **one** marker where you want the image to appear. The marker itself remains invisible; the rendered page displays the image centred at **100% of the available content width**, with a 100% maximum so it stays within the screen on mobile. This automatic feature depends on the shared theme's updated JavaScript having deployed.
 
 ### Manual fallback
 
@@ -101,7 +101,7 @@ If you need to insert the image explicitly, or are working somewhere that does n
        alt="Human Verified Image — PlebWare reviewed content"
        loading="lazy"
        decoding="async"
-       style="width: 60%; max-width: 100%; height: auto;">
+       style="width: 100%; max-width: 100%; height: auto;">
 </div>
 ```
 
