@@ -107,6 +107,20 @@ If you need to insert the image explicitly, or are working somewhere that does n
 
 The marker is the easiest option for ordinary PlebWare articles. The manual snippet is the fallback when automatic marker replacement is unavailable.
 
+### 🔊 PlebVox Human-Listened and Approved Marker
+
+For a PlebVox-enabled article that a human moderator has listened to in full and approved, put this exact marker on its own line:
+
+```html
+<!---VOXED--->
+```
+
+The shared PlebWare theme replaces it with the dedicated image:
+
+`/assets/images/plebvox-verified.webp`
+
+This marker is distinct from `<!-- REVIEWED -->`. Use `<!---VOXED--->` only after a human moderator has fully listened to the article's PlebVox rendition and approved it. It signals both the full listening review and approval; it must not be used merely because PlebVox is enabled.
+
 ---
 
 ## 3. 📏 Add Whitespace with the SPACE Marker
