@@ -37,6 +37,10 @@ For suitable readable articles, use:
 
 Use natural punctuation for speech pauses. Do not use "STOP"; use "END". Code-heavy or otherwise unsuitable material may omit PlebVox.
 
+### PlebVox Human Listening Verification
+
+The marker `<!---VOXED--->` is reserved for an article whose PlebVox audio rendition has been listened to in full and approved by a human moderator. The shared theme renders `/assets/images/plebvox-verified.webp` for this marker. Do not use it merely because an article has PlebVox enabled. Keep it distinct from `<!-- REVIEWED -->`, which indicates general human-reviewed content.
+
 For devotional articles, PlebVox markers should normally wrap each major section: place START immediately before the section title and END immediately after that section's final line.
 
 ## 5. Christian Devotional Convention
