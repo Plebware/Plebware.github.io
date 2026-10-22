@@ -2,7 +2,7 @@
 layout: post
 title: "Personal Copy-and-Paste Codes – PlebWare Collaborator Quick Reference"
 date: 2026-07-13
-last_modified_at: 2026-10-18
+last_modified_at: 2026-10-22
 category: "housekeeping"
 tags: [copy, paste, collaborators, links, images, reviewed, front-matter, plebvox]
 mode: "everyday"
@@ -120,6 +120,14 @@ The shared PlebWare theme replaces it with the dedicated image:
 `/assets/images/plebvox-verified.webp`
 
 This marker is distinct from `<!-- REVIEWED -->`. Use `<!---VOXED--->` only after a human moderator has fully listened to the article's PlebVox rendition and approved it. It signals both the full listening review and approval; it must not be used merely because PlebVox is enabled.
+
+**Verification conventions at a glance:**
+
+- `<!-- REVIEWED -->` — general human-reviewed content; displays `/assets/images/polished-reviewed.webp`.
+- `<!---VOXED--->` — PlebVox audio listened to in full and approved by a human moderator; displays `/assets/images/plebvox-verified.webp`.
+- `<!-- PLEBVOX:START -->` and `<!-- PLEBVOX:END -->` — mark the text intended for PlebVox narration; they are not verification badges.
+
+Use only the marker that matches what has actually been checked. The verification markers should be placed on their own line at the intended image position. Their automatic image display requires the updated shared theme JavaScript to be deployed.
 
 ---
 
