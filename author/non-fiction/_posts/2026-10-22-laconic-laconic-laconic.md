@@ -170,3 +170,27 @@ And never allow one person's disbelief to convince you that your desire to learn
 ✍️ **Otto Brinkmeier**
 
 *Personal nonfiction — PlebWare.*
+
+<img src="/assets/images/transparent-spacer-32x32.webp"
+     alt=""
+     width="32"
+     height="32"
+     aria-hidden="true">
+
+-----
+<img src="/assets/images/transparent-spacer-32x32.webp"
+     alt=""
+     width="32"
+     height="32"
+     aria-hidden="true">
+
+
+<!---VOXED--->
+
+<img src="/assets/images/transparent-spacer-32x32.webp"
+     alt=""
+     width="32"
+     height="32"
+     aria-hidden="true">
+-----
+
