@@ -28,7 +28,7 @@ PlebMachine turns your **Debian XFCE desktop** into a smart, context-aware envir
 ## **ABOUT PlebWare**
 <div class="hero-actions" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; align-items:center; margin:1.5rem 0; text-align:center;">
   <!-- Primary Button -->
-  <a href="https://plebware.github.io/everyday/about-plebware/" class="btn btn-primary" style="display:inline-block; padding:12px 20px; background-color:#6b7280; color:#ffffff; text-decoration:none; font-weight:700; border:2px solid #6b7280; border-radius:8px; line-height:1.4;">Otto's Environment</a>
+  <a href="https://plebware.github.io/everyday/about-plebware/" class="btn btn-primary" style="display:inline-block; padding:12px 20px; background-color:#6b7280; color:#ffffff; text-decoration:none; font-weight:700; border:2px solid #6b7280; border-radius:8px; line-height:1.4;">PlebWare Under The Microscope</a>
   
   <!-- Secondary Button -->
   <a href="https://plebware.github.io/about/the-plebware-lexicon/" class="btn btn-secondary" style="display:inline-block; padding:12px 20px; background-color:#ffffff; color:#1769aa; text-decoration:none; font-weight:700; border:2px solid #1769aa; border-radius:8px; line-height:1.4;">The PlebWare Lexicon</a>
