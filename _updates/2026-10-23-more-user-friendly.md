@@ -16,7 +16,7 @@ author: "Otto Brinkmeier"
 
 It has been a hectic few months building this site.
 
-Although I have built many websites over the past 27 years — well over a hundred, by my best estimate — PlebWare is the first website I am genuinely excited about. I am proud to say that it is the best site I have built to date.
+Although I have built many websites over the past 27 years — well over a hundred, by my best estimate — PlebWare is the first website I am genuinely excited about. This is the best site I have built to date.
 
 And we are not finished yet!
 
@@ -36,7 +36,7 @@ Since our last site update, PlebWare has continued to evolve, with improvements 
 
 * **A better listening experience:** A patience notice helps readers understand that audio may take a few moments to load while text is being cached.
 
-* **Smarter return navigation:** The new site-wide **“Return to the article I came from”** feature works across articles, category indexes and other pages. It now includes development work to remember the reader's position, making it easier to return to the exact place they left off.
+* **Smarter return navigation:** The new site-wide **“Return to the article you came from”** feature works across articles, category indexes and other pages. It now includes development work to remember the reader's position, making it easier to return to the exact place they left off.
 
 * **Improved documentation:** The AI instructions and copy-and-paste conventions have been updated to help ensure that future changes follow the same standards across the PlebWare ecosystem.
 
@@ -45,7 +45,7 @@ These changes reflect PlebWare's continuing commitment to making its growing kno
 
 ## 🛠️ A Website That Makes Life Easier.
 
-One of PlebWare's greatest strengths is that it is being developed to make life easier for everyone involved.
+One of PlebWare's strengths is that it's designed to make life easier for everyone involved.
 
 For publishers and collaborators, the site supports structured Markdown, reusable code snippets, consistent publishing conventions and content creation through voice dictation.
 
@@ -91,18 +91,18 @@ Each subcategory has its own index page, its own `_posts/` collection and a star
 
 The twelve modes are:
 
-1. Everyday
-2. Author
-3. Study
-4. Research
-5. Graphics
-6. Music
-7. Video
-8. Broadcast
-9. AI Helpers
-10. Developer
-11. Accounting
-12. Leisure
+1. Everyday.
+2. Author.
+3. Study.
+4. Research.
+5. Graphics.
+6. Music.
+7. Video.
+8. Broadcast.
+9. AI Helpers.
+10. Developer.
+11. Accounting.
+12. Leisure.
 
 The initial structure was merged into the main GitHub branch, adding 24 files.
 
@@ -148,7 +148,7 @@ AI is a collaborator and tool — not the owner of the project.
 
 ## 🔍 **Improving SEO and Discoverability.**
 
-Another important area of progress has been search-engine optimisation.
+Another important area of progress has been search engine optimisation.
 
 We have refined the site's metadata conventions and implemented structured data intended to help search engines understand individual articles.
 
@@ -174,7 +174,7 @@ This is another example of a broader development principle: metadata, navigation
 
 We have also started examining the site through Lighthouse rather than relying solely on how quickly it appears to load.
 
-The results you shared were:
+The results were:
 
 - **Performance:** 94
 - **Largest Contentful Paint (LCP):** 1.5 seconds
@@ -226,11 +226,11 @@ The review covers:
 - Punctuation and grammar being checked.
 - Publisher approval.
 
-This is an important distinction in an era when publishing can be accelerated by AI.
+This is an important distinction in an era when publishing can be accelerated by Artificial Intelligence.
 
 Generating text is not the same as verifying it. Producing code is not the same as testing it. Creating structured data is not the same as confirming that it works as intended.
 
-PlebWare's aim is to combine useful tools with responsible human oversight.
+PlebWare aims to combine useful tools with responsible human oversight.
 
 <!-- PLEBVOX:END -->
 
@@ -260,7 +260,7 @@ Our goal is to make PlebWare's knowledge base more accessible to people who pref
 
 🛡️ **Human oversight makes the difference.** The marker provides a clear distinction between content that is available for listening and content that has received an additional human listening review and approval.
 
-**PlebWare's commitment:** Combining useful technology, accessible content, thoughtful writing, and responsible human oversight—because information should be not only readable, but listenable too. 💙
+**PlebWare's commitment:** Combining useful technology, accessible content, thoughtful writing, and responsible human oversight—because information should not only be readable, but hearable too. 💙
 
 
 <!-- PLEBVOX:END -->
@@ -271,7 +271,7 @@ Our goal is to make PlebWare's knowledge base more accessible to people who pref
 
 ## 🌐📖 **Proper Return to Article Feature**
 
- **“Return to the article I came from”** feature, making it easier to move around the knowledge base without losing your place. Whether you follow a link from an article, browse a category index, explore another page, or arrive from an external website, the return feature helps you navigate back to where your journey began. 🌐📖
+ **“Return to the article you came from”** feature, making it easier to move around the knowledge base without losing your place. Whether you follow a link from an article, browse a category index, explore another page, or arrive from an external website, the return feature helps you navigate back to where your journey began. 🌐📖
 
   🧭 **And there’s more!** The feature has been enhanced to remember your reading position. Instead of simply returning you to the beginning of a page, PlebWare can use your saved scroll position and a nearby heading to help restore the point you were reading. This is particularly useful when exploring long articles, following references, or moving between related topics.
 
@@ -292,15 +292,15 @@ Our goal is to make PlebWare's knowledge base more accessible to people who pref
 
 The PlebWare conference table continues to bring together ideas, research, writing, testing and technical collaboration.
 
-Different Artificial Intelligence systems can contribute different perspectives. They can help investigate a problem, suggest a solution, inspect a draft or identify a possible weakness.
+Different Artificial Intelligence systems are leveraged to contribute different perspectives. They help us investigate a problem, suggest a solution, inspect a draft or identify a possible weakness.
 
-But the final decisions remain with the human project owner.
+But the final decisions remain with us, human project owners.
 
 That is how we want to work: research, discuss, build, test, correct, approve and then publish.
 
-GitHub is our workshop. Markdown is one of our principal publishing languages. The website is our public knowledge platform.
+GitHub is our workshop. Markdown is one of our principal publishing languages. Artificial Intelligence is our tool, whereas the website is our public knowledge platform.
 
-And the person behind the project remains responsible for what gets built.
+And the person behind the project remains responsible for what gets written, created and built.
 
 <!-- PLEBVOX:END -->
 
@@ -324,7 +324,7 @@ That discipline is part of building a platform people can trust.
 
 PlebWare has come a long way since May 2026, and way further than the day it was conceptualised in 2006
 
-Here on GitHub, what began as a repository for a **RainMeter powered PlebMachine**, was gone further than just developing website, as it has grown into a connected environment for publishing, learning, creativity, research and software development.
+Here on GitHub, what began as a repository for a ** RainMeter-powered PlebMachine**, was gone further than just developing website, as it has grown into a connected environment for publishing, learning, creativity, research and software development.
 
 The work is not measured only in articles, lines of code or pages added.
 
@@ -356,3 +356,9 @@ PlebWare is not finished. It is a living project, shaped by every experiment, ev
 
 <!-- PLEBVOX:END -->
 ---
+<!-- SPACE -->
+<!---VOXED--->
+<!-- SPACE -->
+<!-- REVIEWED -->
+---
+
