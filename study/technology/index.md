@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Technology"
+title: 06 - Technology
 permalink: /study/technology/
 ---
 
