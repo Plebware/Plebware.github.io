@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Rainmeter – Developer Section
+title: 07 - PlebMachine Rainmeter - Version
 ---
 
-# 🖥️ Rainmeter – Skins, Widgets & Automation
+# 🖥️ Using Rainmeter to simulate PlebMachine – Skins, Widgets & Automation
 
 Documentation, tutorials, and custom Rainmeter skins for desktop customisation.
 
