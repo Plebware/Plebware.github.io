@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Perspectives
+title: 02 AI Perspectives
 ---
 
 # 🤖 AI Perspectives
