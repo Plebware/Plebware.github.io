@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sounds
+title: 06 - Sounds
 ---
 
 # 🔊 Sounds
