@@ -2,7 +2,7 @@
 layout: post
 title: "Personal Copy-and-Paste Codes – PlebWare Collaborator Quick Reference"
 date: 2026-07-13
-last_modified_at: 2026-10-22
+last_modified_at: 2026-10-23
 category: "housekeeping"
 tags: [copy, paste, collaborators, links, images, reviewed, front-matter, plebvox]
 mode: "everyday"
@@ -46,6 +46,16 @@ Or use HTML when you need more control:
 ```
 
 Replace the example address and visible text with verified details. Do not add `target="_blank"` to ordinary internal PlebWare article links unless there is a specific reason.
+
+### ↩ Return to the page you came from
+
+The shared PlebWare theme provides **“Return to the article I came from”** on every page, including article pages, category and subcategory indexes, and other landing/index pages. Collaborators do not need to add a return link, script, or dialog to individual articles.
+
+For ordinary internal PlebWare links, keep navigation in the same tab unless there is a specific reason to open a new tab. The shared return feature records the page being left and supports intentional new-tab navigation too. Do not manually add the `pleb_from` query parameter; the shared script manages it and cleans it from the visible URL.
+
+If someone opens a page directly or arrives from an external search engine without a prior PlebWare page in that tab, the return control explains that there is no earlier page and offers **Search PlebWare** and **Browse All Articles** as useful alternatives.
+
+When changing the shared feature, inspect `Plebware/pleb-theme` first. Keep the control, dialog, and script in the shared default layout so the feature works across the whole site, not only on post pages. After deployment, test article-to-article, index-to-article, article-to-index, index-to-index, new-tab navigation, and direct-entry fallback.
 
 ---
 
