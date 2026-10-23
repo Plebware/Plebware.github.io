@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Research
+title: 04 - AI Research
 ---
 
 # 🔬 AI Research
