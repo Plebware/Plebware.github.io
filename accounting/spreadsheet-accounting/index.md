@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spreadsheet Accounting
+title: 09 - Spreadsheet Accounting
 ---
 
 # 📊 Spreadsheet Accounting
