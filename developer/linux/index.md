@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linux – Developer Section
+title: 12 - Linux – Developer Section
 ---
 
 # 🐧 Linux
