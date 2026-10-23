@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inkscape Tricks
+title: 04 - Inkscape Tricks
 ---
 
 # ✏️ Inkscape Tricks
