@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cartoons
+title: 08 - Cartoons
 ---
 
 # 🖊️ Cartoons
