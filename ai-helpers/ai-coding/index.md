@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Coding
+title: 09 - AI Coding
 ---
 
 # 🤖 AI Coding
