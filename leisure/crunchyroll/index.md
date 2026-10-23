@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Crunchyroll
+title: 07 - Crunchyroll
 ---
 
 # 🎌 Crunchyroll
