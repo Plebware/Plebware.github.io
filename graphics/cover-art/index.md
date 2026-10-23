@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cover Art
+title: 06 - Cover Art
 ---
 
 # 🎨 Cover Art
