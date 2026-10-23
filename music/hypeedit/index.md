@@ -1,9 +1,9 @@
 ---
 layout: default
-title: HypeEdit
+title: 08 - HypeEdit
 ---
 
-# 🎵 08 - HypeEdit
+# 🎵 HypeEdit
 
 Audio production with HypeEdit, focusing on editing and effects.
 
