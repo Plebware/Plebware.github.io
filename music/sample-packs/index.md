@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 09 - Sample Packs
+title: 10 - Sample Packs
 ---
 
 # 📀 Sample Packs
