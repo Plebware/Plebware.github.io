@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FL Studio Tips
+title: 05 - FL Studio Tips
 ---
 
 # 🎹 FL Studio Tips
