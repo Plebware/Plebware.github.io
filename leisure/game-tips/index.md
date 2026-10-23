@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Game Tips
+title: 03 - Game Tips
 ---
 
 # 🎯 Game Tips
