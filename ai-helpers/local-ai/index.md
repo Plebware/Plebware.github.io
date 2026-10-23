@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Local AI
+title: 10 - Local AI
 ---
 
 # 🖥️ Local AI
