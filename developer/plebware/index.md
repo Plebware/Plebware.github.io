@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PlebWare – Developer Section
+title: 09 - PlebWare – Developer Notes
 ---
 
 # 💻 PlebWare – Developer Documentation
