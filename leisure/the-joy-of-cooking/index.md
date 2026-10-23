@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Joy of Cooking
+title: 08 - The Joy of Cooking
 ---
 
 # 🍲 The Joy of Cooking
