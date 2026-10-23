@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GnuCash Tips
+title: 08 - GnuCash Tips
 ---
 
 # 💰 GnuCash Tips
