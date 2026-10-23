@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Game Reviews
+title: 02 - Game Reviews
 ---
 
 # 🎮 Game Reviews
