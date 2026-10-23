@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kick
+title: 04 - Kick
 ---
 
 # ⚡ Kick
