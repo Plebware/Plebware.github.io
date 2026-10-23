@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIXXX
+title: 03 - MIXXX
 ---
 
 # 🎛️ MIXXX
