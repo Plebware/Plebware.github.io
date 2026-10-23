@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gardening
+title: 09 - Gardening
 ---
 
 # 🌱 Gardening
