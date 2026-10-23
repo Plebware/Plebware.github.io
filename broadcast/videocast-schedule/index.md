@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 08 Videocast Schedule
+title: 08 - Videocast Schedule
 ---
 
 # 🎥 Videocast Schedule
