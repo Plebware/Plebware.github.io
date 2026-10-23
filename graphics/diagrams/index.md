@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diagrams
+title: 09 - Diagrams
 ---
 
 # 📊 Diagrams
