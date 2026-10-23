@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PlebMachine – Code
+title: 06 - PlebMachine – Code
 ---
 
 # ⚙️ All PlebMachine Scripts
