@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PlebWare Site Stickers
+title: 10 - PlebWare Site Stickers
 ---
 
 <!-- PLEBVOX:START -->
