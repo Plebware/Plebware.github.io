@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Invoicing
+title: 04 - Invoicing
 ---
 
 # 📄 Invoicing
