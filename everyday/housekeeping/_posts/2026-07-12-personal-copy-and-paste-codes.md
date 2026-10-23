@@ -51,11 +51,13 @@ Replace the example address and visible text with verified details. Do not add `
 
 The shared PlebWare theme provides **“Return to the article I came from”** on every page, including article pages, category and subcategory indexes, and other landing/index pages. Collaborators do not need to add a return link, script, or dialog to individual articles.
 
-For ordinary internal PlebWare links, keep navigation in the same tab unless there is a specific reason to open a new tab. The shared return feature records the page being left and supports intentional new-tab navigation too. Do not manually add the `pleb_from` query parameter; the shared script manages it and cleans it from the visible URL.
+For ordinary internal PlebWare links, keep navigation in the same tab unless there is a specific reason to open a new tab. The shared return feature records the page being left and supports intentional new-tab navigation too. Do not manually add the `pleb_from`, `pleb_scroll`, or `pleb_anchor` query parameters; the shared script manages them and cleans them from the visible URL.
+
+The return feature also records the source page's **scroll position** and a nearby heading or element ID. When someone returns, it restores the saved position, with the anchor as a fallback if a numeric position is unavailable. Existing `#heading` fragments are preserved. Collaborators do not need to add manual anchors throughout articles: the shared script uses existing heading IDs where available and the saved scroll position for precision.
 
 If someone opens a page directly or arrives from an external search engine without a prior PlebWare page in that tab, the return control explains that there is no earlier page and offers **Search PlebWare** and **Browse All Articles** as useful alternatives.
 
-When changing the shared feature, inspect `Plebware/pleb-theme` first. Keep the control, dialog, and script in the shared default layout so the feature works across the whole site, not only on post pages. After deployment, test article-to-article, index-to-article, article-to-index, index-to-index, new-tab navigation, and direct-entry fallback.
+When changing the shared feature, inspect `Plebware/pleb-theme` first. Keep the control, dialog, and script in the shared default layout so the feature works across the whole site, not only on post pages. After deployment, test article-to-article, index-to-article, article-to-index, index-to-index, return-to-scroll-position, named-fragment preservation, new-tab navigation, and direct-entry fallback.
 
 ---
 
