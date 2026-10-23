@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Total Launcher
+title: 08 - PlebMachine - Total Launcher Version
 ---
 
 # 🚀 Total Launcher
