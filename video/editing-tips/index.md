@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video Editing Tips
+title: 04 - Video Editing Tips
 ---
 
 # 🎞️ Video Editing Tips
