@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tax
+title: 07 - Tax
 ---
 
 # 🏛️ Tax
