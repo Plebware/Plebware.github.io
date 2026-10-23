@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PlebMachine Tech Papers
+title: 02 - PlebMachine Tech Papers
 ---
 
 # 📄 PlebMachine Tech Papers
