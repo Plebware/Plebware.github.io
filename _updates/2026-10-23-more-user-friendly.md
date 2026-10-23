@@ -238,7 +238,7 @@ PlebWare's aim is to combine useful tools with responsible human oversight.
 
 <!-- PLEBVOX:START -->
 
-## 🔊 ### PlebVox Human-Listened and Approved Marker.
+## 🔊 PlebVox Human-Listened and Approved Marker.
 
 Where the **"AUDIBLY REVIEWED"** Image appears, the article has been revisited and **Listened to** by Otto, Juelz or Othello.
 
