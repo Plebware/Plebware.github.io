@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Logo Design
+title: 07 - Logo Design
 ---
 
 # 🏷️ Logo Design
