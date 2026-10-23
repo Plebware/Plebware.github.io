@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Android
+title: 07 - AI Android
 ---
 
 # 📱 AI Android
