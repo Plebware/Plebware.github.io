@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web Graphics
+title: 05 - Web Graphics
 ---
 
 # 🌐 Web Graphics
