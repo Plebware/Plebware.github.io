@@ -3,7 +3,7 @@ layout: default
 title: AI Prompts
 ---
 
-# 💬 AI Prompts
+# 💬 03 - AI Prompts
 
 Prompt engineering examples, templates, and experiments.
 
