@@ -3,7 +3,7 @@ layout: default
 title: 04 - LMMS
 ---
 
-# 🎛️ LMMS — Create Your Own Music.
+# 🎹 LMMS — Create Your Own Music.
 
 LMMS (Linux MultiMedia Studio) is a digital audio workstation for creating music on your computer. It allows you to compose melodies, build beats, arrange patterns, work with instruments and effects, and produce musical projects.
 
