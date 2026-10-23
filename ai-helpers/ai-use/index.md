@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Use
+title: 06 - AI Use
 ---
 
 # 🧠 AI Use
