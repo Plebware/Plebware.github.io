@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Graphic Design
+title: 10 - Graphic Design
 ---
 
 # 🎨 Graphic Design
