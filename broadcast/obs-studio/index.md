@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OBS Studio
+title: 02 - OBS Studio
 ---
 
 # 🎥 OBS Studio
