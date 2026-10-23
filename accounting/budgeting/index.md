@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Budgeting
+title: 02 - Budgeting
 ---
 
 # 💰 Budgeting
