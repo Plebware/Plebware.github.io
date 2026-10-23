@@ -1,3 +1,4 @@
+---
 layout: post
 title: "PlebWare Site Progress — More User Friendly, 23 October 2026"
 date: 2026-10-23
