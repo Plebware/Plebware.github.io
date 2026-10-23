@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reports
+title: 06 - Reports
 ---
 
 # 📊 Reports
