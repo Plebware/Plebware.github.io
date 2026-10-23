@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Writing
+title: 08 - AI Writing
 ---
 
 # ✍️ AI Writing
