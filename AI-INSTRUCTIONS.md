@@ -18,6 +18,19 @@ These references are living documents. Follow the current versions, not remember
 - Never put explanatory prose inside code blocks.
 - Do not make unrelated changes.
 
+## 3. Site-Wide Contextual Return
+
+The contextual **“Return to the article I came from”** control is a shared PlebWare feature and must work from every page using the shared theme, including article pages, category/subcategory index pages, and other index or landing pages.
+
+- Implement the control and its dialog in the shared default layout, not only in the post layout.
+- Load the return script site-wide so internal navigation from any page can provide a return destination.
+- Keep ordinary internal links in the same tab unless there is a specific reason otherwise; the shared script also supports new-tab links.
+- If a visitor opens a page directly or arrives from an external search engine without a previous PlebWare page in that tab, provide a clear fallback to Search and All Articles rather than inventing a return destination.
+- Keep return handling restricted to same-origin PlebWare URLs and remove the internal source parameter from the visible URL after it is read.
+- Test article-to-article, index-to-article, article-to-index, index-to-index, new-tab, direct-entry, and first-visit fallback behaviour after the theme deploys.
+
+Do not add a second copy of the return control or dialog to individual layouts when the shared default layout already provides them.
+
 ## 3. Articles
 
 - Use valid Jekyll front matter.
