@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to Cook
+title: 07 - How to Cook
 ---
 
 # 🍳 How to Cook
