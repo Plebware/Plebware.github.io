@@ -1,11 +1,12 @@
 ---
 layout: default
-title: PlebMachine Guides
+title: 04 - PlebMachine Guides
 ---
 
 # 📘 PlebMachine Guides
 
 Step‑by‑step tutorials for setting up and using PlebMachine modules.
+As well as specific user case setups
 
 <ul>
 {% assign posts = site.posts | where_exp: "post", "post.path contains 'developer/plebmachine-guides/'" %}
