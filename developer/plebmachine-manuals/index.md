@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PlebMachine Manuals
+title: 03 - PlebMachine Manuals
 ---
 
 # 📖 PlebMachine Manuals
