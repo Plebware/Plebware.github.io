@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 07 - AI Generated Video
+title: 08 - AI Generated Video
 ---
 
 # 🤖 AI Generated Video
