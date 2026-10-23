@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cam Recorder
+title: 07 - Cam Recorder
 ---
 
 # 📷 Cam Recorder
