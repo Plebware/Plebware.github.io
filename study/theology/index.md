@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Theology
+title: 05 - Theology
 ---
 
 # ✝️ Theology
