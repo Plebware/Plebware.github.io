@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PlebMachine – Developer Section
+title: 05 - PlebMachine – History
 ---
 
 # ⚙️ PlebMachine
