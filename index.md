@@ -25,6 +25,15 @@ PlebWare is an online **publishing and learning hub**, maintained by **_Otto_ Br
 
 PlebMachine turns your **Debian XFCE desktop** into a smart, context-aware environment that adapts to what you are doing — whether you are writing, coding, researching, or simply taking a break. PlebMachine and PlebWare are now fully compatible and ready for user interaction.
 
+## **ABOUT PlebWare**
+<div class="hero-actions" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; align-items:center; margin:1.5rem 0; text-align:center;">
+  <!-- Primary Button -->
+  <a href="https://plebware.github.io/about/2026/07/22/ottos-environment.html" class="btn btn-primary" style="display:inline-block; padding:12px 20px; background-color:#6b7280; color:#ffffff; text-decoration:none; font-weight:700; border:2px solid #6b7280; border-radius:8px; line-height:1.4;">Otto's Environment</a>
+  
+  <!-- Secondary Button -->
+  <a href="https://plebware.github.io/about/the-plebware-lexicon/" class="btn btn-secondary" style="display:inline-block; padding:12px 20px; background-color:#ffffff; color:#1769aa; text-decoration:none; font-weight:700; border:2px solid #1769aa; border-radius:8px; line-height:1.4;">The PlebWare Lexicon</a>
+</div>
+
 ## PlebMachine Is Coming!
 
 **Software Built for Minds, Not Mass Production.**
