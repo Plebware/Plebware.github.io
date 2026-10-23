@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Graphics
+title: 02 - AI Graphics
 ---
 
 # 🤖 AI Graphics
