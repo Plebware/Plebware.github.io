@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GIMP Tricks
+title: 03 - GIMP Tricks
 ---
 
 # 🎨 GIMP Tricks
