@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GitHub Pages – Developer Section
+title: 10 - GitHub Pages – Developer Section
 ---
 
 # 🐙 GitHub Pages – Site Deployment & Automation
