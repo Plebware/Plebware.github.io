@@ -146,7 +146,7 @@ The human being decides what to build, evaluates the results, corrects mistakes 
 
 AI is a collaborator and tool — not the owner of the project.
 
-## 🔍 ** Improving SEO and Discoverability.**
+## 🔍 **Improving SEO and Discoverability.**
 
 Another important area of progress has been search-engine optimisation.
 
