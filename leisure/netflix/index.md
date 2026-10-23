@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Netflix
+title: 06 - Netflix
 ---
 
 # 🍿 A User's Guide to Netflix 
