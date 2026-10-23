@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Podcast Schedule
+title: 10 - Podcast Schedule
 ---
 
 # 🎙️ Podcast Schedule
