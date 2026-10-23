@@ -13,7 +13,7 @@ tags: "PlebWare, Plebware, Lexicon, PlebMachine, Plebstick, PlebTuition, PlebVox
 
 ## A Vocabulary for the PlebWare Ecosystem.
 
-Words matter.
+**Words matter.**
 
 Within PlebWare, certain names have specific meanings. They describe people, ideas, projects, technologies and relationships within the wider ecosystem.
 
@@ -47,7 +47,7 @@ The fundamental idea is simple:
 
 It encompasses the knowledge, software, writing, education, media, research, creative work, community and projects developed around the PlebWare philosophy.
 
-The capitalization is deliberate.
+The capitalisation is deliberate.
 
 **Plebware means the user.**
 
@@ -105,9 +105,10 @@ It is concerned with sharing the Gospel, encouraging Christian fellowship and pu
 
 **PlebCircle**, with a capital **P** and capital **C**, is the community-oriented part of the wider PlebWare ecosystem.
 
-It is the name replacing **The Circle** for the user's WhatsApp community spaces, providing a place for people to gather around shared interests, communication, creativity and collaboration.
+It is the name replacing **The Circle** and **PlebWave Frontier HQ** for the user's WhatsApp community spaces, providing a place for people to gather around shared interests, communication, creativity and collaboration.
 
 PlebCircle is about the people participating in the ecosystem rather than the technology itself.
+[**Learn More**](https://plebware.github.io/PlebCircle/)
 
 <!-- PLEBVOX:END -->
 
@@ -217,13 +218,13 @@ PlebWave may include written, spoken, visual and multimedia forms of communicati
 
 <!-- PLEBVOX:START -->
 
-## PlebWaveFrontier.
+## PlebCircle.
 
-**PlebWaveFrontier**, with a capital **P**, **W** and **F**, is part of the wider people and community side of the PlebWare ecosystem.
+**PlebCircle**, with a capital **P** and **C**, is part of the wider people and community side of the PlebWare ecosystem.
 
 It represents a place where ideas, creativity, communication and collaboration can meet.
 
-The Frontier is where the next experiment begins.
+The **PlebCircle** is where the next experiment begins.
 
 <!-- PLEBVOX:END -->
 
@@ -339,3 +340,15 @@ At the centre of the entire ecosystem is one principle:
 That is PlebWare.
 
 <!-- PLEBVOX:END -->
+
+----
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
+
+<!---VOXED--->
+
+----
+
+
