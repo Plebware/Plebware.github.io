@@ -47,7 +47,6 @@ One thing is certain: I am getting rather good at journaling. Am I writing about
 
 The first piece was a personal journal passage about grocery delivery and household needs. The feedback suggested that the authentic personal voice was one of the passage's strengths. The weaker areas were flow, sentence control and organisation. Polishing the sentences does not have to mean polishing away the person who wrote them.
 
-<!-- PLEBVOX:END -->
 <!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
 
 | Reviewer | Overall assessment | Notes |
@@ -84,7 +83,6 @@ The combined editorial assessment found the strongest elements in the sense of c
 
 The figures below are a combined editorial assessment of the passage, not four separate AI ratings. The individual scorecards were not retained in a form that allows a reliable reviewer-by-reviewer comparison.
 
-<!-- PLEBVOX:END -->
 <!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
 
 | Editorial dimension | Approximate score |
@@ -128,7 +126,6 @@ The feedback generally recognised the scene’s pace and movement. The more crit
 
 Meta AI’s submitted wording and scores were virtually identical to DeepSeek’s assessment, so they cannot be treated as fully independent opinions.
 
-<!-- PLEBVOX:END -->
 <!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
 
 | Reviewer / assessment | Score and observations |
