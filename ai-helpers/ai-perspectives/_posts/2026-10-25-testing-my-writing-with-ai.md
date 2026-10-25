@@ -11,7 +11,7 @@ excerpt: "A three-part writing experiment using ChatGPT, Gemini, DeepSeek and Me
 
 <!-- PLEBVOX:START -->
 
-# ✍️ Four AI Perspectives on My Writing
+# ✍️ Four AI Perspectives on My Writing.
 
 I decided to test my writing by giving three different pieces to four artificial intelligence assistants: ChatGPT, Gemini, DeepSeek and Meta AI. The aim was not to find a machine that would declare me a great writer. I wanted useful outside perspectives on what works, what needs attention, and whether different AI systems notice the same things.
 
@@ -23,7 +23,7 @@ This was a personal experiment, not a scientific study. The scores are editorial
 
 <!-- PLEBVOX:START -->
 
-## 🧪 How the Experiment Worked
+## 🧪 How the Experiment Worked.
 
 I compared the feedback from four AI assistants, paying attention to voice, clarity, flow, structure, mechanics, atmosphere, action, and originality where those categories were relevant. I also kept track of where the evidence was incomplete. Not every original scorecard was retained, and some later assessments were combined editorial summaries rather than independent scores supplied by each assistant.
 
@@ -33,12 +33,21 @@ That distinction matters. A fair comparison should not pretend that a reconstruc
 
 <!-- PLEBVOX:START -->
 
-## 🛒 Test One — A Personal Journal Entry
+## 🛒 Test One — A Personal Journal Entry.
 
-The first piece was a personal journal passage about grocery delivery and household needs. It was ordinary life rather than a dramatic story, so the central test was whether the writing sounded genuine and communicated the experience clearly.
+### ✍️ Polished Article.
 
-The feedback suggested that the authentic personal voice was one of the passage's strengths. The weaker areas were flow, sentence control and organisation. That is a useful reminder that a piece can feel real and still benefit from careful editing. Polishing the sentences does not have to mean polishing away the person who wrote them.
+Writing by typing on my portable PlebMachine is almost second nature. Once again, Checkers Sixty60 made another much-needed delivery, and at least our hunger was sated. Unfortunately, the dishwashing liquid bottle, the thick bleach and the Handy Andy bottles are still as empty as they were yesterday.
 
+If only a small cash deposit could miraculously make it into my account, I might just have enough to put more electricity units on our prepaid meter and cover a small packet of flour, coffee, some needed cat food, meat and spices. Also still outstanding are cooking oil and margarine or butter — commodities we have gone without for so long that I would not be surprised if I forgot how to use the butter knife.
+
+One thing is certain: I am getting rather good at journaling. Am I writing about the things I want to write about? Not really, but my word-weaving skills are becoming better and better.
+
+### 🔎 What the Feedback Suggested.
+
+The first piece was a personal journal passage about grocery delivery and household needs. The feedback suggested that the authentic personal voice was one of the passage's strengths. The weaker areas were flow, sentence control and organisation. Polishing the sentences does not have to mean polishing away the person who wrote them.
+
+<!-- PLEBVOX:END -->
 <!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
 
 | Reviewer | Overall assessment | Notes |
@@ -55,14 +64,27 @@ The feedback suggested that the authentic personal voice was one of the passage'
 
 <!-- PLEBVOX:START -->
 
-## ⛪ Test Two — The Jackson’s Dam / Rietvlei Church Picnic
+## ⛪ Test Two — The Jackson’s Dam, Rietvlei Church Picnic (2020).
 
-The second piece recalled a church picnic at Jackson’s Dam / Rietvlei. Its emotional centre was the feeling that the congregation was more than a group of people who happened to attend the same church. It felt like a biological family.
+### ✍️ Polished Article.
+
+It was a beautiful Sunday summer morning, and we were to have a community picnic after church. A few of us congregants were tasked with leaving church early to book a spot for our small congregation’s summer picnic. This event is one of my pleasant memories of the communal spirit we had at Cornerstone Church South Side.
+
+I remember that Lance Moodly and I were paired up; we set up two portable gazebos and placed some blankets on the ground in anticipation of our fellow church members arriving. There were two or three teams of two tasked with the setup, but for the life of me I am having a hard time remembering who the other guys were.
+
+Eventually, the rest of our congregation arrived, and the fun began in earnest. We played volleyball, and a few guys tried their hand at casting a line, as Jackson’s Dam is a renowned fishing spot here in Johannesburg South. That particular Sunday turned out to be a wonderful time of fellowship, brotherhood, and absolute social bliss.
+
+The atmosphere was completely laid-back, jolly, and easygoing, even though it was a typical sweltering Highveld summer day. The sense of sharing and caring was on another level; outsiders looking in could easily have mistaken us for a biological family.
+
+People went for walks around the dam, children played on the park equipment, and everyone simply had a whale of a time.
+
+### 🔎 What the Feedback Suggested.
 
 The combined editorial assessment found the strongest elements in the sense of community, the authentic voice and the atmosphere of the setting. The main opportunities for improvement were sharper sensory details, clearer action in places, and more control over sentences and punctuation.
 
-The individual scorecards from this test were not retained in a form that allowed a reliable reviewer-by-reviewer comparison. The following figures are therefore a combined editorial assessment of the passage, not four separate AI ratings. I would rather be transparent about that limitation than invent a precision the records do not support.
+The figures below are a combined editorial assessment of the passage, not four separate AI ratings. The individual scorecards were not retained in a form that allows a reliable reviewer-by-reviewer comparison.
 
+<!-- PLEBVOX:END -->
 <!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
 
 | Editorial dimension | Approximate score |
@@ -82,14 +104,31 @@ The individual scorecards from this test were not retained in a form that allowe
 
 <!-- PLEBVOX:START -->
 
-## 🚀 Test Three — A Science-Fiction Boarding Action
+## 🚀 Test Three — A Science-Fiction Boarding Action.
 
-The third passage moved into science fiction. A boarding party takes a disruptor aboard the pirate ship *Reckless Maiden*, evades the pirates, and returns to the *Unity-Star-Ship Frederick*. For this test, I focused on action continuity, pacing, dialogue, genre tone and the distinctiveness of the imagined world. The passage had already been proofread, so the main interest was creative effectiveness rather than treating every grammar correction as a measure of storytelling skill.
+### ✍️ Polished Article.
+
+The pirates crumpled to the floor, leaving the disruptor unguarded. “Disruptor secured,” Quinn confirmed, his voice barely above a whisper.
+
+“Good work,” Cody’s voice crackled over the comms. “Extract it and get back to Unity Starship *Frederick*. We’ve got movement on the pirate’s bridge—prepare for resistance.”
+
+Just as the boarding party prepared to retreat, the pirate ship’s alarms blared to life. The captain of the *Reckless Maiden* had realized something was amiss. From the bridge, her angry voice thundered over the ship’s intercom.
+
+“We’ve been betrayed! All hands, repel boarders!”
+
+“Looks like we overstayed our welcome,” MacDonald quipped, his fingers working quickly to disconnect the disruptor from its housing.
+
+“Move!” Jacobs barked as the sounds of hurried footsteps echoed through the corridor. The team made a dash for the shuttle, disruptor in tow, as pirates closed in from all sides. Blaster fire erupted around them, but they kept moving, dodging the shots with precision and returning fire only when necessary.
+
+Finally, they reached the airlock, sealing it behind them just as the first wave of pirates arrived, pounding on the reinforced doors. The shuttle detached with a jolt, speeding away from the *Reckless Maiden* and back toward the safety of Unity Starship *Frederick*.
+
+### 🔎 What the Feedback Suggested.
 
 The feedback generally recognised the scene’s pace and movement. The more critical comments raised questions about originality, world detail, character voice and tension. In action fiction, readers need to understand not only what happens next, but also why the moment matters and what makes this particular universe feel different from other science-fiction settings.
 
-There is an important caveat: Meta AI’s submitted wording and scores were virtually identical to DeepSeek’s assessment. I therefore cannot treat them as fully independent opinions. That limits how much weight the apparent agreement should carry.
+Meta AI’s submitted wording and scores were virtually identical to DeepSeek’s assessment, so they cannot be treated as fully independent opinions.
 
+<!-- PLEBVOX:END -->
 <!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
 
 | Reviewer / assessment | Score and observations |
@@ -105,7 +144,7 @@ There is an important caveat: Meta AI’s submitted wording and scores were virt
 
 <!-- PLEBVOX:START -->
 
-## 📊 The Three Tests at a Glance
+## 📊 The Three Tests at a Glance.
 
 Looking across all three exercises, the overall assessments landed in a fairly narrow range. That does not mean the pieces were equally strong in every respect. Each had a different job: the journal entry needed to sound personal and clear, the picnic memory needed to bring a community and a place to life, and the science-fiction scene needed to keep action understandable while making its world distinctive.
 
@@ -123,7 +162,7 @@ Looking across all three exercises, the overall assessments landed in a fairly n
 
 <!-- PLEBVOX:START -->
 
-## 🧭 What I Learned
+## 🧭 What I Learned.
 
 **First, an authentic voice is worth protecting.** The journal and memoir feedback both pointed towards the value of writing that sounds like a real person remembering and describing real life. Editing should make that voice easier to hear, not replace it with generic polished prose.
 
@@ -139,7 +178,7 @@ Looking across all three exercises, the overall assessments landed in a fairly n
 
 <!-- PLEBVOX:START -->
 
-## 🔬 What I Would Test Next
+## 🔬 What I Would Test Next.
 
 A useful next experiment would compare an original passage with a carefully revised version while keeping the purpose and voice intact. I would ask each assistant to identify specific examples of weak sentence flow, missing sensory detail, unclear action, and generic phrasing rather than simply requesting a score.
 
@@ -149,7 +188,7 @@ I would also keep every reviewer’s original scorecard and the exact version of
 
 <!-- PLEBVOX:START -->
 
-## 💬 Final Reflection
+## 💬 Final Reflection.
 
 This experiment did not produce a definitive verdict on my writing, and that was never the point. It gave me a clearer view of the strengths I want to retain and the weaknesses I can work on. The most useful outcome is not a number out of ten; it is a practical list of things to try in the next piece.
 
