@@ -53,6 +53,8 @@ For suitable readable articles, use:
 
 Use natural punctuation for speech pauses. Do not use "STOP"; use "END". Code-heavy or otherwise unsuitable material may omit PlebVox.
 
+**Include section titles in narration.** For every suitable article section, place `<!-- PLEBVOX:START -->` immediately before the section heading and `<!-- PLEBVOX:END -->` after the section’s spoken content. Do not place START after the heading, or the title will be omitted from read-aloud. When a table is excluded from narration, put the table-exclusion markers around the table inside the section’s PlebVox boundaries, then place END after the exclusion block.
+
 ### PlebVox Human Listening Verification
 
 The marker `<!---VOXED--->` is reserved for an article whose PlebVox audio rendition has been listened to in full and approved by a human moderator. The shared theme renders `/assets/images/plebvox-verified.webp` for this marker. Do not use it merely because an article has PlebVox enabled. Keep it distinct from `<!-- REVIEWED -->`, which indicates general human-reviewed content.
