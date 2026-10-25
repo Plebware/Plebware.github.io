@@ -2,7 +2,7 @@
 layout: post
 title: "Personal Copy-and-Paste Codes – PlebWare Collaborator Quick Reference"
 date: 2026-07-13
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-25
 category: "housekeeping"
 tags: [copy, paste, collaborators, links, images, reviewed, front-matter, plebvox]
 mode: "everyday"
@@ -216,6 +216,44 @@ Put the readable paragraph or section here.
 ```
 
 Place the START marker immediately before the text intended for narration and END immediately after it. Use natural punctuation. Do not wrap code examples in narration markers simply because the surrounding explanation should be read aloud.
+
+### 📊 Exclude a Table from PlebVox Read-Aloud
+
+When an article contains a Markdown table that should remain visible on the page but **must not be spoken aloud**, wrap the complete table with these exact HTML comments:
+
+```html
+<!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
+<!-- END SCORE TABLE -->
+```
+
+Put the first marker on its own line immediately before the table and the closing marker on its own line immediately after the table. The table itself goes between the two comments. Do not put the table outside these boundaries or change the marker wording.
+
+Example:
+
+```markdown
+<!-- PLEBVOX:START -->
+
+The following scores compare the four AI reviewers.
+
+<!-- PLEBVOX:END -->
+
+<!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
+| Reviewer | Overall score |
+|---|---:|
+| ChatGPT | 7.5/10 |
+| Gemini | 8/10 |
+<!-- END SCORE TABLE -->
+
+<!-- PLEBVOX:START -->
+
+The scores are editorial estimates rather than scientific measurements.
+
+<!-- PLEBVOX:END -->
+```
+
+**Important:** The exclusion comments work with the updated PlebWare theme scripts. They keep the marked block out of PlebVox narration and paragraph highlighting while leaving the table visible to readers. The comments alone do not hide a table from the webpage. Until the updated theme scripts have deployed, the safest fallback is to place the table entirely outside all `PLEBVOX:START` and `PLEBVOX:END` narration sections.
+
+Use this convention for score tables or other tables that should be displayed but not read aloud. Do not use it for ordinary paragraphs or for tables that should be narrated.
 
 ---
 
