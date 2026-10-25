@@ -235,16 +235,14 @@ Example:
 
 The following scores compare the four AI reviewers.
 
-<!-- PLEBVOX:END -->
-
 <!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
+
 | Reviewer | Overall score |
 |---|---:|
 | ChatGPT | 7.5/10 |
 | Gemini | 8/10 |
-<!-- END SCORE TABLE -->
 
-<!-- PLEBVOX:START -->
+<!-- END SCORE TABLE -->
 
 The scores are editorial estimates rather than scientific measurements.
 
