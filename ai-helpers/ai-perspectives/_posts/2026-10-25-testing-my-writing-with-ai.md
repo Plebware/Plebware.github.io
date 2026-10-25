@@ -9,9 +9,9 @@ author: Otto Brinkmeier
 excerpt: "A three-part writing experiment using ChatGPT, Gemini, DeepSeek and Meta AI to explore writing strengths, compare editorial scores, and identify opportunities for improvement."
 ---
 
-# ✍️ Four AI Perspectives on My Writing
-
 <!-- PLEBVOX:START -->
+
+# ✍️ Four AI Perspectives on My Writing
 
 I decided to test my writing by giving three different pieces to four artificial intelligence assistants: ChatGPT, Gemini, DeepSeek and Meta AI. The aim was not to find a machine that would declare me a great writer. I wanted useful outside perspectives on what works, what needs attention, and whether different AI systems notice the same things.
 
@@ -21,9 +21,9 @@ This was a personal experiment, not a scientific study. The scores are editorial
 
 <!-- PLEBVOX:END -->
 
-## 🧪 How the Experiment Worked
-
 <!-- PLEBVOX:START -->
+
+## 🧪 How the Experiment Worked
 
 I compared the feedback from four AI assistants, paying attention to voice, clarity, flow, structure, mechanics, atmosphere, action, and originality where those categories were relevant. I also kept track of where the evidence was incomplete. Not every original scorecard was retained, and some later assessments were combined editorial summaries rather than independent scores supplied by each assistant.
 
@@ -31,15 +31,13 @@ That distinction matters. A fair comparison should not pretend that a reconstruc
 
 <!-- PLEBVOX:END -->
 
-## 🛒 Test One — A Personal Journal Entry
-
 <!-- PLEBVOX:START -->
+
+## 🛒 Test One — A Personal Journal Entry
 
 The first piece was a personal journal passage about grocery delivery and household needs. It was ordinary life rather than a dramatic story, so the central test was whether the writing sounded genuine and communicated the experience clearly.
 
 The feedback suggested that the authentic personal voice was one of the passage's strengths. The weaker areas were flow, sentence control and organisation. That is a useful reminder that a piece can feel real and still benefit from careful editing. Polishing the sentences does not have to mean polishing away the person who wrote them.
-
-<!-- PLEBVOX:END -->
 
 <!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
 
@@ -53,17 +51,17 @@ The feedback suggested that the authentic personal voice was one of the passage'
 
 <!-- END SCORE TABLE -->
 
-## ⛪ Test Two — The Jackson’s Dam / Rietvlei Church Picnic
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
+
+## ⛪ Test Two — The Jackson’s Dam / Rietvlei Church Picnic
 
 The second piece recalled a church picnic at Jackson’s Dam / Rietvlei. Its emotional centre was the feeling that the congregation was more than a group of people who happened to attend the same church. It felt like a biological family.
 
 The combined editorial assessment found the strongest elements in the sense of community, the authentic voice and the atmosphere of the setting. The main opportunities for improvement were sharper sensory details, clearer action in places, and more control over sentences and punctuation.
 
 The individual scorecards from this test were not retained in a form that allowed a reliable reviewer-by-reviewer comparison. The following figures are therefore a combined editorial assessment of the passage, not four separate AI ratings. I would rather be transparent about that limitation than invent a precision the records do not support.
-
-<!-- PLEBVOX:END -->
 
 <!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
 
@@ -80,17 +78,17 @@ The individual scorecards from this test were not retained in a form that allowe
 
 <!-- END SCORE TABLE -->
 
-## 🚀 Test Three — A Science-Fiction Boarding Action
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
+
+## 🚀 Test Three — A Science-Fiction Boarding Action
 
 The third passage moved into science fiction. A boarding party takes a disruptor aboard the pirate ship *Reckless Maiden*, evades the pirates, and returns to the *Unity-Star-Ship Frederick*. For this test, I focused on action continuity, pacing, dialogue, genre tone and the distinctiveness of the imagined world. The passage had already been proofread, so the main interest was creative effectiveness rather than treating every grammar correction as a measure of storytelling skill.
 
 The feedback generally recognised the scene’s pace and movement. The more critical comments raised questions about originality, world detail, character voice and tension. In action fiction, readers need to understand not only what happens next, but also why the moment matters and what makes this particular universe feel different from other science-fiction settings.
 
 There is an important caveat: Meta AI’s submitted wording and scores were virtually identical to DeepSeek’s assessment. I therefore cannot treat them as fully independent opinions. That limits how much weight the apparent agreement should carry.
-
-<!-- PLEBVOX:END -->
 
 <!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
 
@@ -103,13 +101,13 @@ There is an important caveat: Meta AI’s submitted wording and scores were virt
 
 <!-- END SCORE TABLE -->
 
-## 📊 The Three Tests at a Glance
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-Looking across all three exercises, the overall assessments landed in a fairly narrow range. That does not mean the pieces were equally strong in every respect. Each had a different job: the journal entry needed to sound personal and clear, the picnic memory needed to bring a community and a place to life, and the science-fiction scene needed to keep action understandable while making its world distinctive.
+## 📊 The Three Tests at a Glance
 
-<!-- PLEBVOX:END -->
+Looking across all three exercises, the overall assessments landed in a fairly narrow range. That does not mean the pieces were equally strong in every respect. Each had a different job: the journal entry needed to sound personal and clear, the picnic memory needed to bring a community and a place to life, and the science-fiction scene needed to keep action understandable while making its world distinctive.
 
 <!-- SCORE TABLE — EXCLUDED FROM PLEBVOX READ-ALOUD -->
 
@@ -121,9 +119,11 @@ Looking across all three exercises, the overall assessments landed in a fairly n
 
 <!-- END SCORE TABLE -->
 
-## 🧭 What I Learned
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
+
+## 🧭 What I Learned
 
 **First, an authentic voice is worth protecting.** The journal and memoir feedback both pointed towards the value of writing that sounds like a real person remembering and describing real life. Editing should make that voice easier to hear, not replace it with generic polished prose.
 
@@ -137,9 +137,9 @@ Looking across all three exercises, the overall assessments landed in a fairly n
 
 <!-- PLEBVOX:END -->
 
-## 🔬 What I Would Test Next
-
 <!-- PLEBVOX:START -->
+
+## 🔬 What I Would Test Next
 
 A useful next experiment would compare an original passage with a carefully revised version while keeping the purpose and voice intact. I would ask each assistant to identify specific examples of weak sentence flow, missing sensory detail, unclear action, and generic phrasing rather than simply requesting a score.
 
@@ -147,9 +147,9 @@ I would also keep every reviewer’s original scorecard and the exact version of
 
 <!-- PLEBVOX:END -->
 
-## 💬 Final Reflection
-
 <!-- PLEBVOX:START -->
+
+## 💬 Final Reflection
 
 This experiment did not produce a definitive verdict on my writing, and that was never the point. It gave me a clearer view of the strengths I want to retain and the weaknesses I can work on. The most useful outcome is not a number out of ten; it is a practical list of things to try in the next piece.
 
