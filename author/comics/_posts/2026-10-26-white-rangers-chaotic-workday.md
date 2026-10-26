@@ -49,5 +49,5 @@ The white Ranger may have had a chaotic workday, but at least it came home with 
 
 Illustration: White Ranger’s Chaotic Workday.webp
 
-More cartoons at https://plebware.github.io/graphics/cartoons/
+More cartoons at https://plebware.github.io/author/comics/
 ```
