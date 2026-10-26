@@ -61,42 +61,50 @@ The same principle can work positively. A small regular saving may look insignif
 
 ## 🧾 3. When R61 Stands Between a Budget and Trouble
 
-Consider an illustrative household budget in which three sources of income cover the monthly cost of living. The names and identities of the people involved are deliberately omitted; the figures are retained to show how the arithmetic works.
+Consider an illustrative household budget in whic,h three sources of income cover the monthly cost of living. The names and identities of the people involved are deliberately omitted; the figures are retained to show how the arithmetic works.
 
 ### Monthly income
 
-- Pension income: **R2,400**
-- Second pension income: **R2,400**
-- Additional work income: **R3,200**
+- First income: **R24,000**
+- Second income: **R24,000**
+- Additional income: **R32,000**
 
 **Total monthly income: R8,000**
 
 ### Monthly expenses
 
-- Rent: **R1,500**
-- Electricity: **R1,000**
-- Internet: **R569**
-- Cat food: **R775**
-- Household cleaning: **R175**
-- Personal consumables: **R1,054**
-- Coffee: **R916**
-- Groceries and food: **R1,950**
+- Rent: **R15,000**
+- Electricity: **R10,000**
+- Internet: **R5,690**
+- Cat food: **R7,750**
+- Household cleaning: **R1,750**
+- Personal consumables: **R10,540**
+- Catering: **R9,160**
+- Groceries and food: **R19,500**
 
-**Total monthly expenses: R7,939**
+**Total monthly expenses: R79,390**
 
-That leaves **R61** at the end of the month.
+That leaves **R610** at the end of the month.
 
-R61 is not a comfortable emergency fund. It is the narrow space between the planned budget and an unexpected cost. The example is not intended as a judgement about any household's spending; it shows how quickly a tight budget can be affected by a change.
+R610 is not a comfortable emergency fund. It is the narrow space between the planned budget and an unexpected cost. The example is not intended as a judgement about any household's spending; it shows how quickly a tight budget can be affected by a change.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ### 🚗 Domino One: An Unexpected Vehicle Repair
 
-Imagine that a vehicle needed for everyday responsibilities suddenly requires a repair costing R2,000. This is a hypothetical example, not a claim that a particular repair will cost that amount.
+Imagine that a vehicle needed for everyday responsibilities suddenly requires a repair costing R20,000. This is a hypothetical example, not a claim that a particular repair will cost that amount.
 
-The budget has R61 left, so the repair creates a shortfall of **R1,939** if all other income and expenses remain unchanged.
+The budget has R61 left, so the repair creates a shortfall of **R19,390** if all other income and expenses remain unchanged.
 
 The first domino is the repair. The next may be using money intended for food or electricity, delaying another payment, or borrowing. Each response can produce its own consequences.
 
 South African financial guidance recognises unexpected car repairs as one possible reason to use an emergency fund when a vehicle is needed for work or essential transport. See <a href="https://www.standardbank.co.za/southafrica/personal/learn/when-to-use-your-emergency-fund" target="_blank" rel="noopener noreferrer">Standard Bank's guide to when to use an emergency fund</a>.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ### 🔁 Domino Two: Borrowing From Tomorrow
 
@@ -110,9 +118,13 @@ Borrowing is not always avoidable, and this example is not a criticism of people
 
 Now consider what happens if the additional work income of R3,200 temporarily disappears.
 
-The remaining income would be **R4,800**. Against monthly expenses of R7,939, that would create a shortfall of **R3,139** before any unexpected repair is added.
+The remaining income would be **R48,000**. Against monthly expenses of R79,390, that would create a shortfall of **R31,390** before any unexpected repair is added.
 
 This demonstrates why the reliability of income matters as much as the total. A budget can balance on paper while still being exposed to a change in one of its income sources.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ### 🪙 Domino Four: Every Rand Already Has a Job
 
@@ -122,9 +134,9 @@ The budget example also reminds us to distinguish between figures and people. A 
 
 ### 🌱 Domino Five: The Positive Financial Chain
 
-Small improvements can also trigger positive consequences. If a household can safely free up and save an extra R100 per month, the monthly buffer would rise from R61 to R161. An extra R300 would raise it to R361, and an extra R500 would raise it to R561.
+Small improvements can also trigger positive consequences. If a household can safely free up and save an extra R1000 per month, the monthly buffer would rise from R610 to R1610. An extra R3000 would raise it to R3610, and an extra R5000 would raise it to R5610.
 
-Saving R100 every month for a year would add **R1,200**, before any interest. That may not cover every emergency, but it is more protection than having no reserve at all.
+Saving R1000 every month for a year would add **R12,000**, before any interest. That may not cover every emergency, but it is more protection than having no reserve at all.
 
 These figures are illustrations, not instructions to cut any particular expense. Essential costs, personal circumstances, and the risks of going without something must be considered before making changes.
 
@@ -216,3 +228,12 @@ Sometimes we cannot stop the first domino. But we may still be able to prevent t
 ---
 
 *The household budget and vehicle repair are illustrative examples used to explain the domino effect. They are not personal financial advice, and the hypothetical repair amount should not be treated as a quote or estimate.*
+
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
+
+<!---VOXED--->
+
