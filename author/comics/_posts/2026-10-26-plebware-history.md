@@ -57,5 +57,5 @@ Which, of course, means the workshop never stays tidy for long.
 
 Illustration: plebware-history.webp
 
-More cartoons at https://plebware.github.io/graphics/cartoons/
+More cartoons at https://plebware.github.io/author/comics/
 ```
