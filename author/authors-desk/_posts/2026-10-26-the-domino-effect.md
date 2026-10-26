@@ -96,7 +96,7 @@ R610 is not a comfortable emergency fund. It is the narrow space between the pla
 
 Imagine that a vehicle needed for everyday responsibilities suddenly requires a repair costing R20,000. This is a hypothetical example, not a claim that a particular repair will cost that amount.
 
-The budget has R61 left, so the repair creates a shortfall of **R19,390** if all other income and expenses remain unchanged.
+The budget has R610 left, so the repair creates a shortfall of **R19,390** if all other income and expenses remain unchanged.
 
 The first domino is the repair. The next may be using money intended for food or electricity, delaying another payment, or borrowing. Each response can produce its own consequences.
 
@@ -116,7 +116,7 @@ Borrowing is not always avoidable, and this example is not a criticism of people
 
 ### 🧩 Domino Three: Depending on Additional Income
 
-Now consider what happens if the additional work income of R3,200 temporarily disappears.
+Now consider what happens if the additional work income of R32,000 temporarily disappears.
 
 The remaining income would be **R48,000**. Against monthly expenses of R79,390, that would create a shortfall of **R31,390** before any unexpected repair is added.
 
@@ -128,7 +128,7 @@ This demonstrates why the reliability of income matters as much as the total. A 
 
 ### 🪙 Domino Four: Every Rand Already Has a Job
 
-When the monthly surplus is only R61, there is little room to absorb a surprise. The issue is not simply the size of the emergency; it is the small amount of flexibility available when it arrives.
+When the monthly surplus is only R610, there is little room to absorb a surprise. The issue is not simply the size of the emergency; it is the small amount of flexibility available when it arrives.
 
 The budget example also reminds us to distinguish between figures and people. A set of numbers can illustrate a financial mechanism, but it cannot tell the whole story of the household behind them.
 
