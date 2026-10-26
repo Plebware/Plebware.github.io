@@ -247,7 +247,7 @@ Under those experience states are twelve dedicated working environments.
 
 **Broadcast** is intended for live streaming and podcasting.
 
-**AI-Helpers** provides a dedicated place to work with artificial intelligence, whether through online services, applications or local models.
+**AI Helpers** provides a dedicated place to work with Artificial Intelligence, whether through online services, applications or local models.
 
 **Developer** provides an environment for programmers and software developers.
 
@@ -431,7 +431,7 @@ I write devotions.
 
 I design software.
 
-I talk to AI.
+I talk to Artificial Intelligence.
 
 I rethink ideas that have been living in my head for years.
 

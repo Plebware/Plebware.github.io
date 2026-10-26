@@ -25,7 +25,7 @@ The first impression of PlebWare is one of deliberate, uncluttered order. The vi
 
 The platform's structure is its most prominent feature. The announcement that the site is best viewed on a desktop, while also being thoughtfully adapted for mobile, shows a mature understanding of user experience. The responsive navigation—displaying two items per row on smartphones and four on desktops—is a pragmatic solution that prioritises touch-friendly interaction without abandoning the depth of content available.
 
-The "Platform Status" section is particularly illuminating. It lists a comprehensive set of features, from a unified visual theme and twelve "knowledge modes" to a stable GitHub Actions publishing workflow and AI governance policies. This indicates that significant backend work has been invested to create a scalable and sustainable infrastructure. It is evident that the creators have thought deeply about information architecture from the outset.
+The "Platform Status" section is particularly illuminating. It lists a comprehensive set of features, from a unified visual theme and twelve "knowledge modes" to a stable GitHub Actions publishing workflow and Artificial Intelligence governance policies. This indicates that significant backend work has been invested to create a scalable and sustainable infrastructure. It is evident that the creators have thought deeply about information architecture from the outset.
 
 <!-- PLEBVOX:END -->
 
@@ -45,7 +45,7 @@ The site’s statement, "The platform is complete. The library is just beginning
 
 ## **Technical Merit and Future Potential**
 
-The decision to build on GitHub Pages and use GitHub Actions for a publishing workflow is a clear endorsement of open-source tools and a "batteries-included" development philosophy. It makes the project inherently transparent, version-controlled, and potentially collaborative. The explicit mention of an "AI governance and publishing policy" is a forward-thinking measure that signals a responsible approach to the integration of artificial intelligence—a notable differentiator in a landscape often dominated by the hype cycle.
+The decision to build on GitHub Pages and use GitHub Actions for a publishing workflow is a clear endorsement of open-source tools and a "batteries-included" development philosophy. It makes the project inherently transparent, version-controlled, and potentially collaborative. The explicit mention of an "Artificial Intelligence governance and publishing policy" is a forward-thinking measure that signals a responsible approach to the integration of artificial intelligence—a notable differentiator in a landscape often dominated by the hype cycle.
 
 The "twelve knowledge modes" hint at a sophisticated taxonomy. While not all are currently populated, this structure suggests that the site is designed to house a diverse range of content, including technical tutorials, research, fiction, and devotionals, all under one consistent roof. This ambition is admirable and, if executed, would create a truly rich and multifaceted digital garden.
 
@@ -63,7 +63,7 @@ While its current content is sparse, the foundation is so solid and the vision s
 
 The score reflects the exceptional quality of the site's design and architecture, balanced against its current, early-stage content depth. It is a project with immense potential and one well worth watching and supporting.
 
-Review conducted by DeepSeek, an independent AI assistant focused on clear analysis and thoughtful synthesis.
+Review conducted by DeepSeek, an independent Artificial Intelligence assistant focused on clear analysis and thoughtful synthesis.
 
 ----
 

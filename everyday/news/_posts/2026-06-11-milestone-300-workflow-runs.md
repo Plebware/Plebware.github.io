@@ -22,7 +22,7 @@ Some runs were successful deployments.
 
 Some runs exposed errors that needed fixing.
 
-Some runs taught valuable lessons about automation, publishing, Markdown formatting, GitHub Pages deployment, and the growing capabilities of modern AI-assisted publishing.
+Some runs taught valuable lessons about automation, publishing, Markdown formatting, GitHub Pages deployment, and the growing capabilities of modern Artificial Intelligence-assisted publishing.
 
 GitHub Actions workflows serve as the engine room behind many modern websites, automatically building and deploying content whenever changes are made. Reaching 300 runs means the platform has undergone hundreds of automated build and deployment cycles during its evolution. GitHub provides workflow run history through its Actions system, allowing developers and publishers to track deployments and automation activities.
 
@@ -41,7 +41,7 @@ This achievement represents:
 * Development of Linux tutorials
 * Publishing of devotionals
 * Science fiction writing projects
-* AI experimentation and workflow testing
+* Artificial Intelligence experimentation and workflow testing
 * Countless lessons learned along the way
 
 What started as a simple publishing idea has evolved into a growing digital knowledge platform.
@@ -62,7 +62,7 @@ Future goals include:
 * Creating additional Linux resources
 * Building larger knowledge collections
 * Enhancing automation workflows
-* Continuing to explore AI-assisted publishing
+* Continuing to explore Artificial Intelligence-assisted publishing
 
 Each workflow run represents another step forward.
 

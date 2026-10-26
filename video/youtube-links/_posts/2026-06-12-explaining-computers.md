@@ -8,7 +8,7 @@ date: 2026-06-12
 
 # 💻 One of YouTube’s Best Technology Classrooms
 
-![ExplainingComputers](https://img.shields.io/badge/YouTube-Technology-red)
+![ExplainingComputers](ZXQH0QXZ)
 
 <!-- PLEBVOX:END -->
 
@@ -67,7 +67,7 @@ He served as a lecturer and later senior lecturer at the University of Nottingha
 
 Some of his best-known works include:
 
-* 📖 *Digital Genesis: The Future of Computing, Robots and AI*
+* 📖 *Digital Genesis: The Future of Computing, Robots and Artificial Intelligence*
 * 📖 *3D Printing*
 * 📖 *The Next Big Thing*
 * 📖 *25 Things You Need to Know About the Future*

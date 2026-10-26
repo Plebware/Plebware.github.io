@@ -66,7 +66,7 @@ I had flu.
 
 And 400 MB.
 
-So I summoned the **Giant Cloud AI**.
+So I summoned the **Giant Cloud Artificial Intelligence**.
 
 <!-- PLEBVOX:END -->
 
@@ -162,15 +162,15 @@ This was the moment when the whole situation became hilarious.
 
 We are constantly being told that artificial intelligence is going to transform civilisation.
 
-AI will manage financial systems.
+Artificial Intelligence will manage financial systems.
 
-AI will revolutionise medicine.
+Artificial Intelligence will revolutionise medicine.
 
-AI will reshape education.
+Artificial Intelligence will reshape education.
 
-AI will change the workplace.
+Artificial Intelligence will change the workplace.
 
-AI may eventually become smarter than us.
+Artificial Intelligence may eventually become smarter than us.
 
 And yet I was sitting in City Deep, freezing my backside off, watching a machine with access to an astronomical amount of computational power fail to understand the digital equivalent of:
 
@@ -178,7 +178,7 @@ And yet I was sitting in City Deep, freezing my backside off, watching a machine
 
 That is where the joke becomes more interesting.
 
-The problem wasn't necessarily that the AI was unintelligent.
+The problem wasn't necessarily that the Artificial Intelligence was unintelligent.
 
 The problem was that I had asked a **generative system** to perform a job that was fundamentally **deterministic**.
 
@@ -238,13 +238,13 @@ And that was precisely why it worked.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Sixth Sense: We May Be Using AI Backwards.
+## 🔑 The Sixth Sense: We May Be Using Artificial Intelligence Backwards.
 
 And this is where my City Deep meltdown gave me a slightly more serious thought.
 
-Perhaps the great AI revolution isn't going to be about replacing every traditional tool with an AI model.
+Perhaps the great Artificial Intelligence revolution isn't going to be about replacing every traditional tool with an Artificial Intelligence model.
 
-Perhaps the real revolution will be learning **when not to use AI**.
+Perhaps the real revolution will be learning **when not to use Artificial Intelligence**.
 
 We have become so fascinated with enormous models that we sometimes forget the humble software tools that already solve problems perfectly.
 
@@ -258,7 +258,7 @@ And if I tell a program to leave 90 percent of an image alone, I don't want it t
 
 Sometimes the smartest system is the one that knows:
 
-**This isn't an AI problem.**
+**This isn't an Artificial Intelligence problem.**
 
 It's a paint-bucket problem.
 
@@ -282,7 +282,7 @@ One does not automatically make the other obsolete.
 
 In fact, the future may belong to systems that combine both.
 
-Use AI when reasoning, interpretation, generation or creativity are genuinely useful.
+Use Artificial Intelligence when reasoning, interpretation, generation or creativity are genuinely useful.
 
 Use traditional software when precision, repeatability and control are what matter.
 
@@ -290,7 +290,7 @@ And when possible, let the user decide which one gets the job.
 
 That is a much more interesting vision of artificial intelligence than:
 
-**"Put AI everywhere because AI."**
+**"Put Artificial Intelligence everywhere because Artificial Intelligence."**
 
 <!-- PLEBVOX:END -->
 
@@ -368,7 +368,7 @@ I'm keeping my paint bucket.
 
 ## ✍️ Author's Note.
 
-This was written after a real-world attempt to make a very small graphical modification using generative AI while working in City Deep with limited mobile data.
+This was written after a real-world attempt to make a very small graphical modification using generative Artificial Intelligence while working in City Deep with limited mobile data.
 
 The frustration was genuine.
 

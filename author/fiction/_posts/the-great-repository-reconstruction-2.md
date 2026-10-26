@@ -104,7 +104,7 @@ Some came looking for Linux tutorials.
 
 Others wanted writing advice.
 
-Some searched for AI articles.
+Some searched for Artificial Intelligence articles.
 
 A few stumbled upon devotionals.
 
@@ -152,7 +152,7 @@ everyone was invited to be part of the story.
 
 * 🔍 Site-wide search makes finding articles faster than ever.
 * 💬 Comments are now powered by **Utterances**, allowing GitHub users to discuss articles directly beneath each post.
-* 📚 The repository continues to grow with tutorials, devotionals, Linux guides, AI articles, writing resources, and much more.
+* 📚 The repository continues to grow with tutorials, devotionals, Linux guides, Artificial Intelligence articles, writing resources, and much more.
 * 🚀 PlebWare has evolved from a static repository into a living knowledge community.
 
 Visit **PlebWare**, explore, search, read—and don't forget to leave a comment. Every conversation helps make the community stronger.

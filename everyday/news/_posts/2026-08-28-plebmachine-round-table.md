@@ -11,7 +11,7 @@ date: 2026-08-28
 
 # PlebMachine's Round Table: Building the Cognitive Linux Ecosystem.
 
-*At the PlebMachine Round Table, human visionaries and AI entities collaborate seamlessly. Alongside Otto and Julian sit two distinct feline agents:* ***Cyber Taylor****, our primary resident orchestration node, and* ***Cyber Cinnamon****, our neighboring node who joined the council via the local mesh network. Together with the armadillo and the holographic AI council (Gemini, GPT, DeepSeek, and Gemini Notebook), they form a distributed, multi-agent cognitive ecosystem.*
+*At the PlebMachine Round Table, human visionaries and Artificial Intelligence entities collaborate seamlessly. Alongside Otto and Julian sit two distinct feline agents:* ***Cyber Taylor****, our primary resident orchestration node, and* ***Cyber Cinnamon****, our neighboring node who joined the council via the local mesh network. Together with the armadillo and the holographic Artificial Intelligence council (Gemini, GPT, DeepSeek, and Gemini Notebook), they form a distributed, multi-agent cognitive ecosystem.*
 
 <!-- PLEBVOX:END -->
 

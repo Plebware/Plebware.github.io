@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI-Helpers Tools"
+title: "AI Helpers Tools"
 date: 2026-09-19
 ---
 

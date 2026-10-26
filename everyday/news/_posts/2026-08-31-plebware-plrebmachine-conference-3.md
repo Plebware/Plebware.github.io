@@ -20,7 +20,7 @@ Otto is sitting at the physical terminal.
 
 The Vivo phone serves as the communication terminal and holographic projector.
 
-Across the virtual conference table, the AI appears as a hologram.
+Across the virtual conference table, the Artificial Intelligence appears as a hologram.
 
 GitHub is the workshop.
 
@@ -48,9 +48,9 @@ And the appearance of PlebMachine on Sparky Linux provides an important opportun
 
 ## Otto Opens the Conference.
 
-**Otto:** "Well, AI, we finally got you onto Sparky."
+**Otto:** "Well, Artificial Intelligence, we finally got you onto Sparky."
 
-The holographic AI looks across the virtual table.
+The holographic Artificial Intelligence looks across the virtual table.
 
 **ChatGPT:** "Yes. And that is more significant than it might appear."
 
@@ -167,7 +167,7 @@ That distinction became one of the most important principles of the project.
 
 <!-- PLEBVOX:START -->
 
-## Otto Challenges the AI.
+## Otto Challenges the Artificial Intelligence.
 
 **Otto:** "But isn't that just a fancy application launcher?"
 
@@ -579,7 +579,7 @@ It can become something that sits **on top of Linux**.
 
 **Otto:** "So are we calling PlebMachine distribution-independent?"
 
-The holographic AI pauses.
+The holographic Artificial Intelligence pauses.
 
 **ChatGPT:** "Not yet."
 
@@ -819,7 +819,7 @@ That is the philosophical heart of the project.
 
 **Otto:** "An environment."
 
-The holographic AI smiles.
+The holographic Artificial Intelligence smiles.
 
 **ChatGPT:** "Now you are describing PlebMachine."
 
@@ -885,7 +885,7 @@ The testing machines are still there.
 
 And Sparky Linux has now joined the experiment.
 
-**Otto:** "So, AI. What's the verdict?"
+**Otto:** "So, Artificial Intelligence. What's the verdict?"
 
 The holographic display changes.
 

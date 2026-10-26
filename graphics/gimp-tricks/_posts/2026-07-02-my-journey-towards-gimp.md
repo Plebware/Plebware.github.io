@@ -92,13 +92,13 @@ Every image I create is another opportunity to tell a story.
 
 <!-- PLEBVOX:START -->
 
-# 🤖 AI as My Digital Sketchbook
+# 🤖 Artificial Intelligence as My Digital Sketchbook
 
 In recent years, artificial intelligence has become an invaluable part of my creative workflow. Rather than replacing my creativity, it has expanded it.
 
-I frequently use AI image generators to create concept artwork, rough compositions, mood boards, and placeholder illustrations. These **first drafts** allow me to explore ideas rapidly, experiment with different styles, and visualise scenes long before I commit to a final design.
+I frequently use Artificial Intelligence image generators to create concept artwork, rough compositions, mood boards, and placeholder illustrations. These **first drafts** allow me to explore ideas rapidly, experiment with different styles, and visualise scenes long before I commit to a final design.
 
-However, I rarely consider an AI-generated image to be a finished piece. Instead, I treat it as a digital sketch—a starting point rather than the destination.
+However, I rarely consider an Artificial Intelligence-generated image to be a finished piece. Instead, I treat it as a digital sketch—a starting point rather than the destination.
 
 ---
 
@@ -106,13 +106,13 @@ However, I rarely consider an AI-generated image to be a finished piece. Instead
 
 <!-- PLEBVOX:START -->
 
-## 🎨 From AI Concept to Finished Artwork
+## 🎨 From Artificial Intelligence Concept to Finished Artwork
 
 Once I have settled on a concept that captures the vision in my mind, I import the artwork into **GIMP**, **Inkscape**, and other graphics applications where the real craftsmanship begins.
 
 There I repaint sections, adjust colours, redraw elements, create vector graphics, combine multiple images, remove unwanted artefacts, add typography, and reshape the composition until it reflects my own creative identity.
 
-The AI helps me discover possibilities.
+The Artificial Intelligence helps me discover possibilities.
 
 The finished artwork becomes mine through refinement, editing, and countless creative decisions.
 
@@ -130,7 +130,7 @@ Years ago I painted with a mouse and graphics tablet.
 
 Today I often begin by **painting with words**.
 
-Through carefully written prompts I guide an AI towards the vision I have in my imagination. Once the concept is close enough, I take over and refine it using traditional digital art techniques until the final piece becomes uniquely my own.
+Through carefully written prompts I guide an Artificial Intelligence towards the vision I have in my imagination. Once the concept is close enough, I take over and refine it using traditional digital art techniques until the final piece becomes uniquely my own.
 
 ---
 
@@ -138,13 +138,13 @@ Through carefully written prompts I guide an AI towards the vision I have in my 
 
 <!-- PLEBVOX:START -->
 
-## 🛠️ AI Is a Tool—Not the Artist
+## 🛠️ Artificial Intelligence Is a Tool—Not the Artist
 
-To me, AI is neither a shortcut nor a replacement for artistic ability.
+To me, Artificial Intelligence is neither a shortcut nor a replacement for artistic ability.
 
 It is simply another tool—much like a camera, a paintbrush, or a graphics tablet.
 
-The imagination still belongs to the artist; AI merely helps bring those ideas to the canvas more quickly.
+The imagination still belongs to the artist; Artificial Intelligence merely helps bring those ideas to the canvas more quickly.
 
 My goal has never been to press a button and claim someone else's work as my own.
 
@@ -162,7 +162,7 @@ Today, I still paint.
 
 The only difference is that instead of beginning with a brushstroke, I often begin with carefully chosen words.
 
-AI helps me imagine.
+Artificial Intelligence helps me imagine.
 
 Open-source software helps me create.
 

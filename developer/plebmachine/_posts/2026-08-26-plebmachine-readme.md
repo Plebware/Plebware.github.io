@@ -8,8 +8,8 @@ date: 2026-08-26
 
 # PlebMachine – Cognitive Desktop Orchestrator
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/PlebWare/plebmachine/releases)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Version](ZXQH0QXZ)](ZXQH1QXZ)
+[![License: GPL v3](ZXQH0QXZ)](ZXQH1QXZ)
 
 **PlebMachine** turns your XFCE desktop into a smart, context‑aware environment that adapts to what you are doing – whether you are writing, coding, researching, or taking a break.
 
@@ -31,7 +31,7 @@ It runs on top of XFCE (and other lightweight desktops) and is built entirely wi
 
 ## ✨ Features
 
-- **12 Cognitive Modes** – Author, Research, Developer, Music, Graphics, AI, Leisure, and more. Each mode launches the apps you need.
+- **12 Cognitive Modes** – Author, Research, Developer, Music, Graphics, Artificial Intelligence, Leisure, and more. Each mode launches the apps you need.
 - **Time‑aware Wallpapers** – Each mode has four wallpapers for morning, afternoon, evening, and night – automatically changing with your system clock.
 - **Three Operational States** –  
   - **Automatic** – instant transitions.  
@@ -55,7 +55,7 @@ It runs on top of XFCE (and other lightweight desktops) and is built entirely wi
 ## 📦 Installation (FOR BETA TESTING ONLY)
 
 The easiest way to install PlebMachine is via the **Debian package** (`.deb`).  
-Download the latest release from the [Releases page](https://github.com/PlebWare/plebmachine/releases) and install it.
+Download the latest release from the [Releases page](ZXQH0QXZ) and install it.
 <!-- PLEBVOX:END -->
 
 ### Using `apt` (recommended – resolves dependencies)

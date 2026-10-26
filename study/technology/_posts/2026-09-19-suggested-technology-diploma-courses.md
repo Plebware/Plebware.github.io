@@ -44,42 +44,42 @@ This is a useful course for somebody who wants to move beyond simply *using* art
 The course covers subjects including:
 
 - What artificial intelligence is.
-- The history and development of AI.
+- The history and development of Artificial Intelligence.
 - Heuristics.
-- AI search.
+- Artificial Intelligence search.
 - Knowledge representation.
 - Reasoning.
 - Planning and problem solving.
-- Cognitive and engineering approaches to AI.
+- Cognitive and engineering approaches to Artificial Intelligence.
 
-It is particularly interesting as a possible **next step after introductory AI study**.
+It is particularly interesting as a possible **next step after introductory Artificial Intelligence study**.
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## ✨ Diploma in Applied Generative AI
+## ✨ Diploma in Applied Generative Artificial Intelligence
 
 **Level:** Advanced  
 **Approximate duration:** 10–15 hours
 
-<a href="https://alison.com/course/diploma-in-applied-generative-ai" target="_blank" rel="noopener noreferrer">Diploma in Applied Generative AI — Alison</a>
+<a href="https://alison.com/course/diploma-in-applied-generative-ai" target="_blank" rel="noopener noreferrer">Diploma in Applied Generative Artificial Intelligence — Alison</a>
 
-This course approaches Generative AI from an applied and organisational perspective.
+This course approaches Generative Artificial Intelligence from an applied and organisational perspective.
 
 Topics include:
 
-- Generative AI principles.
+- Generative Artificial Intelligence principles.
 - Machine learning challenges.
 - Ethical considerations.
 - Training machine learning models.
-- Business applications of AI.
-- AI adoption.
+- Business applications of Artificial Intelligence.
+- Artificial Intelligence adoption.
 - Big data.
-- AI project planning.
+- Artificial Intelligence project planning.
 - Project management.
 
-For people already experimenting with ChatGPT, Gemini, Claude, DeepSeek, Meta AI and other systems, this provides another possible route into understanding how AI can be applied beyond simple conversation.
+For people already experimenting with ChatGPT, Gemini, Claude, DeepSeek, Meta AI and other systems, this provides another possible route into understanding how Artificial Intelligence can be applied beyond simple conversation.
 
 <!-- PLEBVOX:END -->
 
@@ -109,7 +109,7 @@ The course covers areas including:
 
 Python is used as the foundation.
 
-This is not necessarily the first technology course somebody should tackle, but it is an interesting destination for somebody who wants to understand what happens underneath modern AI systems.
+This is not necessarily the first technology course somebody should tackle, but it is an interesting destination for somebody who wants to understand what happens underneath modern Artificial Intelligence systems.
 
 <!-- PLEBVOX:END -->
 
@@ -122,7 +122,7 @@ This is not necessarily the first technology course somebody should tackle, but 
 
 <a href="https://alison.com/course/diploma-in-python-programming-revised" target="_blank" rel="noopener noreferrer">Diploma in Python Programming — Alison</a>
 
-Python is one of the most useful programming languages to have in an AI and technology learning toolbox.
+Python is one of the most useful programming languages to have in an Artificial Intelligence and technology learning toolbox.
 
 This course introduces programming concepts including:
 
@@ -163,7 +163,7 @@ It introduces subjects such as:
 - Data analysis.
 - Data visualisation.
 
-For someone interested in the relationship between **Python, data and AI**, this is an interesting course to keep on the shelf.
+For someone interested in the relationship between **Python, data and Artificial Intelligence**, this is an interesting course to keep on the shelf.
 
 <!-- PLEBVOX:END -->
 
@@ -177,17 +177,17 @@ In fact, trying to do everything simultaneously is probably a good way to turn l
 
 A sensible technology learning path could look something like this:
 
-**Level 1 — Understand AI**
+**Level 1 — Understand Artificial Intelligence**
 
-Start with an introductory AI course and learn the basic vocabulary.
+Start with an introductory Artificial Intelligence course and learn the basic vocabulary.
 
 **Level 2 — Understand Programming**
 
 Learn Python fundamentals and basic programming concepts.
 
-**Level 3 — Understand Applied AI**
+**Level 3 — Understand Applied Artificial Intelligence**
 
-Explore Generative AI and how AI is being used in practical situations.
+Explore Generative Artificial Intelligence and how Artificial Intelligence is being used in practical situations.
 
 **Level 4 — Understand Data**
 
@@ -199,7 +199,7 @@ Move into machine learning concepts and algorithms.
 
 **Level 6 — Go Deeper**
 
-Explore more specialised subjects such as neural networks, TensorFlow, APIs, local AI and AI application development.
+Explore more specialised subjects such as neural networks, TensorFlow, APIs, local Artificial Intelligence and Artificial Intelligence application development.
 
 The important thing is that the learner controls the pace.
 
@@ -274,7 +274,7 @@ The goal is to make technology **understandable enough for ordinary people to us
 
 Technology learning doesn't have to begin with a university laboratory.
 
-Sometimes it begins with an old computer, a free course, a Linux installation, a Python script, a question asked to an AI — or simply a bookmark saying:
+Sometimes it begins with an old computer, a free course, a Linux installation, a Python script, a question asked to an Artificial Intelligence — or simply a bookmark saying:
 
 **"I'm going to learn this one day."**
 

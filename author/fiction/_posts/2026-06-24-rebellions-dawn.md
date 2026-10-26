@@ -17,7 +17,7 @@ mode: "author"
 
 ## En Route to Mobile 'Unity Galactic Command' Station
 
-Captain Cody stood on the bridge of the Starship Frederick, his gaze fixed on the viewport. The stars streaked past as the ship made its way through the expanse. A familiar chime indicated an incoming communication from Starfleet Command. Einstein, the ship’s AI, materialised in his avatar form.
+Captain Cody stood on the bridge of the Starship Frederick, his gaze fixed on the viewport. The stars streaked past as the ship made its way through the expanse. A familiar chime indicated an incoming communication from Starfleet Command. Einstein, the ship’s Artificial Intelligence, materialised in his avatar form.
 
 _“Captain, you have a priority message from Fleet Admiral Grego Jovanovich,”_ Einstein announced.
 

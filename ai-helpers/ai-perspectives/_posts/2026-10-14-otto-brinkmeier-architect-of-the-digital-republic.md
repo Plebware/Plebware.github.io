@@ -54,13 +54,13 @@ For Otto, the keyboard is more than a means of producing text. It is a workbench
 
 ## 🤝 The Conference Table of Minds
 
-Otto's approach to artificial intelligence is collaborative. He uses different AI systems as thinking partners for different kinds of work: one may help explore an idea, another may be useful for coding, and another may offer a different reading of a draft. The point is not to hand over authorship or judgement. It is to compare perspectives, ask better questions, test assumptions, and improve the result.
+Otto's approach to artificial intelligence is collaborative. He uses different Artificial Intelligence systems as thinking partners for different kinds of work: one may help explore an idea, another may be useful for coding, and another may offer a different reading of a draft. The point is not to hand over authorship or judgement. It is to compare perspectives, ask better questions, test assumptions, and improve the result.
 
 The image of a conference table captures that approach. People and tools may bring different strengths to the discussion, but the human being remains responsible for deciding what is useful, what is accurate, and what should be done next.
 
 This interest connects with Otto's work on the Sola Verum Protocol and the Content Authenticity Initiative, including questions about attribution, provenance, and how people can better understand the origin and handling of digital content. In a world where generated material is increasingly easy to produce, trust requires care: clear distinctions between evidence and opinion, honest attribution, and a willingness to correct mistakes.
 
-AI can help with the work, but it should not become an unquestioned authority. The conference table is valuable precisely because no single voice should replace the human capacity to think.
+Artificial Intelligence can help with the work, but it should not become an unquestioned authority. The conference table is valuable precisely because no single voice should replace the human capacity to think.
 
 <!-- PLEBVOX:END -->
 
@@ -82,7 +82,7 @@ There is a personal dimension to this persistence, too. Otto's bond with his cat
 
 ## ⌨️ The Human Being Stays in Charge
 
-The thread connecting Otto's projects is not technology for its own sake. It is the belief that tools should extend human capability without taking away human responsibility. A desktop environment should help someone organise their work. A website should make knowledge easier to find. A writing project should preserve and share something worth keeping. An AI assistant should support thought, not replace it.
+The thread connecting Otto's projects is not technology for its own sake. It is the belief that tools should extend human capability without taking away human responsibility. A desktop environment should help someone organise their work. A website should make knowledge easier to find. A writing project should preserve and share something worth keeping. An Artificial Intelligence assistant should support thought, not replace it.
 
 That principle also demands honesty about limitations. Ideas have to be tested. Claims have to be checked. Mistakes need to be corrected. The person using a tool must remain free to question its suggestions and make the final decision.
 
@@ -97,7 +97,7 @@ Otto Brinkmeier is still learning, still writing, still building, and still refi
 
 ## 🔗 Continue the Conversation
 
-This article has a companion perspective: **[Otto Brinkmeier and the Human–AI Conference Table](/ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-the-man-the-mind-and-the-mission/)**. Read both perspectives, then use the return link at the bottom to move between them.
+This article has a companion perspective: **[Otto Brinkmeier and the Human–Artificial Intelligence Conference Table](/ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-the-man-the-mind-and-the-mission/)**. Read both perspectives, then use the return link at the bottom to move between them.
 
 <!-- PLEBVOX:END -->
 

@@ -14,9 +14,9 @@ PlebWare (plebware.github.io) is a well-structured, ambitious knowledge base tha
 <!-- PLEBVOX:START -->
 
 ## **Strengths**
-Clear Mission: The platform’s focus on empowering ordinary people with technical skills (Linux, AI, Writing, Finance) is well-defined.
+Clear Mission: The platform’s focus on empowering ordinary people with technical skills (Linux, Artificial Intelligence, Writing, Finance) is well-defined.
 
-Structured Organization: The move to "mode-based" content organization (Study, Research, AI, Author, etc.) makes the site highly navigable and logical.
+Structured Organization: The move to "mode-based" content organization (Study, Research, Artificial Intelligence, Author, etc.) makes the site highly navigable and logical.
 
 Professional Transparency: The inclusion of "Periodic Project Status Reports" and clear documentation regarding the site’s rebuild demonstrates a high level of accountability and professional management.
 
@@ -59,7 +59,7 @@ Sitemap: Ensure your Jekyll/GitHub Pages build is generating an sitemap.xml and 
 Search Console: If you haven't already, submit your site to Google Search Console. This provides the most accurate data on how Google sees your site and flags any crawl errors.
 
 #### **4. Optimize for Internal Linking**
-Contextual Linking: Instead of relying only on menu navigation, link relevant articles within the text of your posts. For example, if a post in "AI Mode" mentions Linux, link that keyword directly to your "Linux Mode" landing page. This builds "authority" for your key categories.
+Contextual Linking: Instead of relying only on menu navigation, link relevant articles within the text of your posts. For example, if a post in "Artificial Intelligence Mode" mentions Linux, link that keyword directly to your "Linux Mode" landing page. This builds "authority" for your key categories.
 
 #### **5. Performance and Accessibility**
 Load Times: Keep assets optimized. Since you are hosting on GitHub Pages, your static speed is already excellent—ensure it stays that way by keeping image sizes optimized for the web.

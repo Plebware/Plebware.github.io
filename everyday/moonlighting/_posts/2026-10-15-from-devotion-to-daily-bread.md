@@ -42,7 +42,7 @@ The devotion was published on PlebWare. Then the day moved from the page into pr
 
 The next task was improving the search-engine optimisation of the PlebWare website.
 
-I did this using my Vido smartphone, which has become my portable PlebMachine. I was not sitting behind my usual computer with a keyboard and mouse. I worked through voice prompts and conversations with AI assistants.
+I did this using my Vido smartphone, which has become my portable PlebMachine. I was not sitting behind my usual computer with a keyboard and mouse. I worked through voice prompts and conversations with Artificial Intelligence assistants.
 
 Gemini and ChatGPT helped analyse the technical questions, while I acted as the intermediary. I carried the information from one assistant to the other, compared their explanations, and brought the discussion back again several times—roughly three or four rounds of checking and cross-checking.
 
@@ -54,7 +54,7 @@ After the changes, the validation tests passed. I then tested several PlebWare l
 
 That difference was useful to understand. An index page is not necessarily expected to qualify for the same rich result as an individual article. The test gave us evidence that the implementation was being recognised where it was meant to be recognised; it did not promise better rankings or instant search traffic.
 
-What struck me most was the way the work was done. I was using a phone, voice prompts, and a process of questioning, comparing, and checking. The AI tools did not make the decisions for me. I still had to understand the explanations well enough to judge what we were changing and why.
+What struck me most was the way the work was done. I was using a phone, voice prompts, and a process of questioning, comparing, and checking. The Artificial Intelligence tools did not make the decisions for me. I still had to understand the explanations well enough to judge what we were changing and why.
 
 <!-- PLEBVOX:END -->
 
@@ -156,7 +156,7 @@ The practical problems were not all solved. The vehicle still needed attention, 
 
 Looking back, the day's events seemed to echo the subject of the morning's devotion in an unexpected way.
 
-I began by writing about suffering, grace, and the possibility of good emerging from difficult circumstances. Then I spent time solving technical problems on a website, using nothing more than a smartphone and a chain of AI-assisted conversations. After that came traffic, delays, a vehicle losing power, and the loss of tomorrow's driving work.
+I began by writing about suffering, grace, and the possibility of good emerging from difficult circumstances. Then I spent time solving technical problems on a website, using nothing more than a smartphone and a chain of Artificial Intelligence-assisted conversations. After that came traffic, delays, a vehicle losing power, and the loss of tomorrow's driving work.
 
 And in the middle of all that, a friend arranged for groceries to arrive at just the right time.
 

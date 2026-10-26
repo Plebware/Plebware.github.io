@@ -179,11 +179,11 @@ Algorithms change.
 
 People discover that something they have been doing for years suddenly makes a website unhappy.
 
-And then everyone starts shouting about AI.
+And then everyone starts shouting about Artificial Intelligence.
 
 My response is fairly simple.
 
-AI is a tool.
+Artificial Intelligence is a tool.
 
 People have been using software tools to improve their writing for years.
 
@@ -199,7 +199,7 @@ Word processors are tools.
 
 Even the algorithms deciding what appears in search results are built with increasingly sophisticated forms of machine intelligence.
 
-So I am not going to lose sleep because the internet has entered another phase of figuring out how to deal with AI-assisted work.
+So I am not going to lose sleep because the internet has entered another phase of figuring out how to deal with Artificial Intelligence-assisted work.
 
 Technology changes.
 
@@ -253,11 +253,11 @@ Not perfect.
 
 Nothing built by humans is perfect.
 
-And neither is everything made with AI.
+And neither is everything made with Artificial Intelligence.
 
-After all, AI is prompted by humans. The quality of what comes out is influenced by the quality of what goes in — and humans can make mistakes. Then, of course, there is the occasional AI hallucination, where the machine confidently wanders off into territory that exists nowhere except inside its own generated answer.
+After all, Artificial Intelligence is prompted by humans. The quality of what comes out is influenced by the quality of what goes in — and humans can make mistakes. Then, of course, there is the occasional Artificial Intelligence hallucination, where the machine confidently wanders off into territory that exists nowhere except inside its own generated answer.
 
-So whether it is written by a human, assisted by AI, or generated with AI, it still needs somebody to think about it, check it and take responsibility for it.
+So whether it is written by a human, assisted by Artificial Intelligence, or generated with Artificial Intelligence, it still needs somebody to think about it, check it and take responsibility for it.
 
 The point is not perfection.
 
@@ -405,7 +405,7 @@ Sometimes it takes forty years.
 
 Sometimes it arrives wearing a completely different operating system.
 
-Sometimes it arrives with Bash scripts, GitHub repositories, Markdown files and an AI sitting on your phone.
+Sometimes it arrives with Bash scripts, GitHub repositories, Markdown files and an Artificial Intelligence sitting on your phone.
 
 But if it arrives, it still counts.
 
@@ -455,7 +455,7 @@ The algorithms will change.
 
 The technology will change.
 
-The arguments about AI will change.
+The arguments about Artificial Intelligence will change.
 
 But a useful idea can survive all of that.
 

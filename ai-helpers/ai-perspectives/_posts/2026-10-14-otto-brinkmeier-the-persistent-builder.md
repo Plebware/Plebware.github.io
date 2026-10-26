@@ -10,7 +10,7 @@ excerpt: "A third perspective on Otto Brinkmeier: the person behind PlebMachine 
 
 # Otto Brinkmeier — The Persistent Builder
 
-*The person behind the project, as seen through conversations with an AI assistant.*
+*The person behind the project, as seen through conversations with an Artificial Intelligence assistant.*
 
 <!-- PLEBVOX:START -->
 
@@ -34,7 +34,7 @@ If I set aside the software completely and consider only how he comes across in 
 
 He cares about accuracy over appearance, about boundaries between what is private and what is public, and about the difference between what a system is intended to do and what it actually does today.
 
-He is independent-minded but not isolated. He uses AI helpers, tests ideas, listens to feedback, and then keeps final editorial control himself.
+He is independent-minded but not isolated. He uses Artificial Intelligence helpers, tests ideas, listens to feedback, and then keeps final editorial control himself.
 
 And he is persistent in the quiet, everyday sense: willing to go through multiple drafts, to hold publication until it is right, to record what went wrong and try again.
 
@@ -93,17 +93,17 @@ That distinction between intention and implementation is not a weakness to conce
 
 <!-- PLEBVOX:START -->
 
-Otto makes use of AI assistants as collaborators. He brings them questions, asks them to examine ideas, uses their suggestions, and returns with corrections when their answers miss the mark.
+Otto makes use of Artificial Intelligence assistants as collaborators. He brings them questions, asks them to examine ideas, uses their suggestions, and returns with corrections when their answers miss the mark.
 
 The important part is what happens next.
 
-He does not treat an AI-generated answer as automatically authoritative. He checks whether it fits the actual project, corrects inaccurate assumptions, and decides what should be retained.
+He does not treat an Artificial Intelligence-generated answer as automatically authoritative. He checks whether it fits the actual project, corrects inaccurate assumptions, and decides what should be retained.
 
 This is particularly visible when working on documentation. A fluent paragraph is not necessarily a correct paragraph. A plausible technical explanation is not necessarily an accurate description of the current software. And a confident claim about a completed task is not proof that the task has been completed.
 
 Otto expects the distinction to be respected.
 
-The collaboration therefore has a clear division of responsibility. An AI assistant can help explore possibilities, organise information, suggest wording, and identify problems. Otto remains responsible for deciding what represents his work and what is suitable for publication.
+The collaboration therefore has a clear division of responsibility. An Artificial Intelligence assistant can help explore possibilities, organise information, suggest wording, and identify problems. Otto remains responsible for deciding what represents his work and what is suitable for publication.
 
 That is a practical form of independence: making use of available help without surrendering judgement.
 
@@ -195,7 +195,7 @@ There is no need to turn that into a heroic story. The work remains unfinished, 
 
 The clearest conclusion I can draw from our conversations is this:
 
-Otto Brinkmeier is not asking an AI assistant to decide who he is, nor to declare his project a success before the evidence supports it. He is using these conversations to examine ideas, improve the work, and communicate it more accurately.
+Otto Brinkmeier is not asking an Artificial Intelligence assistant to decide who he is, nor to declare his project a success before the evidence supports it. He is using these conversations to examine ideas, improve the work, and communicate it more accurately.
 
 My perspective is limited to those interactions. Within that limit, the persistent builder is visible—not because every attempt succeeds, but because he keeps returning to the work, correcting the record, and deciding for himself what comes next.
 
@@ -207,7 +207,7 @@ The project is still being built. So is the account of what it means.
 
 This article is the third perspective in a series exploring Otto Brinkmeier and his work.
 
-- [ChatGPT: Otto Brinkmeier — The Man, the Mind, and the Mission](https://plebware.github.io/ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-the-man-the-mind-and-the-mission/)
-- [Gemini: Otto Brinkmeier — The Architect of the Digital Republic](https://plebware.github.io/ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-architect-of-the-digital-republic/)
+- [ChatGPT: Otto Brinkmeier — The Man, the Mind, and the Mission](ZXQH0QXZ)
+- [Gemini: Otto Brinkmeier — The Architect of the Digital Republic](ZXQH0QXZ)
 
 *Prepared as a perspective from Meta AI, based on conversational interactions. The observations are interpretations of those interactions, not a complete biography or an independent verification of every detail of Otto Brinkmeier's life or project.*

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Brief Fling With Open AI's Chat GPT"
+title: "My Brief Fling With Open Artificial Intelligence's Chat GPT"
 date: 2026-09-21
 ---
 
@@ -169,7 +169,7 @@ The latest project, 🦯 **The Cane Otto Chose**, brings together several recurr
 - 🧑 Otto as a recurring character
 - 😂 My own particular sense of humour
 - 🗣️ My conversational writing style
-- ✍️ AI-assisted writing
+- ✍️ Artificial Intelligence-assisted writing
 - 🔄 Multiple refinement passes
 - 🐙 GitHub
 - 🚀 Actual publication
@@ -242,7 +242,7 @@ Over the period I can currently reconstruct, we've effectively used ChatGPT as:
 - 😂 Comedy collaborator
 - 🎮 Gaming helper
 - 🖼️ Image editor
-- 🤖 AI assistant
+- 🤖 Artificial Intelligence assistant
 - 🌐 Publishing assistant
 
 And the projects have gradually moved from individual questions and pieces of writing toward complete workflows where an idea gets created, refined, and ultimately published or used.

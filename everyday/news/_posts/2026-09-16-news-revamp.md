@@ -29,7 +29,7 @@ The military-style terminology is part of the fictional atmosphere surrounding P
 
 ## The PlebWare GitHub Site.
 
-The PlebWare website is hosted at [plebware.github.io](https://plebware.github.io/).
+The PlebWare website is hosted at [plebware.github.io](ZXQH0QXZ).
 
 The new PlebWare site has now been operating for almost five months and has reached an important stage in its development.
 
@@ -185,7 +185,7 @@ The military-style theme used for PlebWare journalism is fictional and editorial
 
 Hello, mate.
 
-As Otto, I have been obsessed with computers since the days of the Commodore VIC-20, watching the world develop from clunky green screens into today's AI-driven landscape.
+As Otto, I have been obsessed with computers since the days of the Commodore VIC-20, watching the world develop from clunky green screens into today's Artificial Intelligence-driven landscape.
 
 Along the way, I have seen technology become a powerful ally — while also recognising that technology can be used for misinformation or propaganda when placed in the wrong hands.
 
@@ -287,7 +287,7 @@ And somebody is on watch.
 
 <!-- PLEBVOX:END -->
 
-[**Join GitHub Today**](https://plebware.github.io/author/non-fiction/2026/07/12/join-github-today.html)
+[**Join GitHub Today**](ZXQH0QXZ)
 
 <!-- Comments Section -->
 <div id="comments-section">
