@@ -61,5 +61,5 @@ The capital letter eventually relaxed. It had made its point, and nobody had nee
 
 Illustration: Plebware-or-PlebWare.webp
 
-More cartoons at https://plebware.github.io/graphics/cartoons/
+More cartoons at https://plebware.github.io/author/comics/
 ```
