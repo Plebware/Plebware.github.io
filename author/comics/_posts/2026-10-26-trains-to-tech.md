@@ -57,5 +57,5 @@ The journey continues, only now the destination may be a working program, a usef
 
 Illustration: trains-to-tech.webp
 
-More cartoons at https://plebware.github.io/graphics/cartoons/
+More cartoons at https://plebware.github.io/author/comics/
 ```
