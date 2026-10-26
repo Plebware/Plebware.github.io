@@ -7,7 +7,16 @@ tags: [memoir, personal-reflections, South-African-history, 1992-referendum, mil
 mode: "author"
 author: Otto Brinkmeier
 description: "Otto Brinkmeier wanders through the corridors of a troubled mind, reflecting on South Africa's 1992 referendum, military-veteran pension difficulties, financial hardship, and the unfinished work of a writer."
----
+-----
+
+<div style="text-align: center;">
+  <img src="/assets/images/tormented-mind.webp"
+       alt="A Tormented mind - fighting off writer's block."
+       loading="lazy"
+       style="width: 70%; max-width: 100%; height: auto;">
+</div>
+
+-----
 
 <!-- PLEBVOX:START -->
 
