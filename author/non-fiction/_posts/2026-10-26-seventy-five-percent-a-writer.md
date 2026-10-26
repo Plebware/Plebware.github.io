@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "75 Percent A Writer — Corridors of a Troubled Mind"
+title: "Seventy-five Percent A Writer — Corridors of a Troubled Mind"
 date: 2026-10-26
 category: "non-fiction"
 tags: [memoir, personal-reflections, South-African-history, 1992-referendum, military-veterans, pensions, writing, hardship]
 mode: "author"
 author: Otto Brinkmeier
 description: "Otto Brinkmeier wanders through the corridors of a troubled mind, reflecting on South Africa's 1992 referendum, military-veteran pension difficulties, financial hardship, and the unfinished work of a writer."
------
+---
 
 <div style="text-align: center;">
   <img src="/assets/images/tormented-mind.webp"
