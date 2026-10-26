@@ -69,14 +69,14 @@ Consider an illustrative household budget in which three sources of income cover
 - Second income: **R24,000**
 - Additional income: **R32,000**
 
-**Total monthly income: R8,000**
+**Total monthly income: R80,000**
 
 ### Monthly expenses
 
 - Rent: **R15,000**
 - Electricity: **R10,000**
 - Internet: **R5,690**
-- Cat food: **R7,750**
+- Pet food: **R7,750**
 - Household cleaning: **R1,750**
 - Personal consumables: **R10,540**
 - Catering: **R9,160**
