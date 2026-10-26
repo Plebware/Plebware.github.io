@@ -61,5 +61,5 @@ That counts as progress.
 
 Illustration: plebmachine-with-ai.webp
 
-More cartoons at https://plebware.github.io/graphics/cartoons/
+More cartoons at https://plebware.github.io/author/comics/
 ```
