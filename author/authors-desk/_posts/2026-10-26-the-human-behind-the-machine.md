@@ -299,3 +299,12 @@ That is the human being behind the machine.
 *Otto Brinkmeier.*
 
 *PlebWare — Technology should serve humanity, not replace it.*
+
+
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
+
+<!---VOXED--->
