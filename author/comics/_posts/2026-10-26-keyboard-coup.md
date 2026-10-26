@@ -65,5 +65,5 @@ The human returned to work, keeping a closer eye on the command centre.
 
 Illustration: keyboard-coup.webp
 
-More cartoons at https://plebware.github.io/graphics/cartoons/
+More cartoons at https://plebware.github.io/author/comics/
 ```
