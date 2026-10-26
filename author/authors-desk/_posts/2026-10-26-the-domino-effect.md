@@ -59,9 +59,9 @@ The same principle can work positively. A small regular saving may look insignif
 
 <!-- PLEBVOX:START -->
 
-## 🧾 3. When R61 Stands Between a Budget and Trouble
+## 🧾 3. When R610 Stands Between a Budget and Trouble
 
-Consider an illustrative household budget in whic,h three sources of income cover the monthly cost of living. The names and identities of the people involved are deliberately omitted; the figures are retained to show how the arithmetic works.
+Consider an illustrative household budget in which three sources of income cover the monthly cost of living. The names and identities of the people involved are deliberately omitted; the figures are retained to show how the arithmetic works.
 
 ### Monthly income
 
