@@ -21,7 +21,7 @@ tags:
 
 <!-- PLEBVOX:START -->
 
-PlebWare is an online **publishing and learning hub**, maintained by **_Otto_ Brinkmeier** and **Jullian “_Juelz_” De Villiers**, built around **PlebMachine**, a **Cognitive Desktop Orchestrator**.
+PlebWare is an online **Publishing and Learning Hub**, maintained by **_Otto_ Brinkmeier** and **Jullian “_Juelz_” De Villiers**, built around **PlebMachine**, a **Cognitive Desktop Orchestrator**.
 
 PlebMachine turns your **Debian XFCE desktop** into a smart, context-aware environment that adapts to what you are doing — whether you are writing, coding, researching, or simply taking a break. PlebMachine and PlebWare are now fully compatible and ready for user interaction.
 
