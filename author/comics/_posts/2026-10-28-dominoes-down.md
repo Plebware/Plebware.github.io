@@ -5,17 +5,17 @@ date: 2026-10-28
 author: Othello Verrocchio
 ---
 
-<!-- PLEBVOX:START -->
 
 # 🁢 The Dominoes have crashed, the **House of Cards** is down
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/dominos-down.webp' | relative_url }}"
-       alt="Cartoon illustrating the white Ford Ranger’s chaotic workday."
+       alt="Cartoon illustrating the Domino Effect, once they had fallen."
        loading="lazy"
        style="width: 70%; max-width: 100%; height: auto;">
 </div>
 
+<!-- PLEBVOX:START -->
 ## 🁢 The Dominoes Have Fallen
 The first domino fell when the old bakkie broke down. 🚚💔
 
