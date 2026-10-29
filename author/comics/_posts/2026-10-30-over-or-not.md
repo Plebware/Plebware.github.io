@@ -10,7 +10,7 @@ author: Captain Gemini
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/field-report-oct.webp' | relative_url }}"
-       alt="A News Report by Captain Gemini aka Otto Brinmeier"
+       alt="Captain Gemini reporting on the financial reality of the hunt."
        loading="lazy"
        style="width: 70%; max-width: 100%; height: auto;">
 </div>
@@ -76,7 +76,7 @@ Captain Gemini, signing off from the front lines of everyday life.
 *With ChatGPT.*
 
 ```
-📰 **PLEBWARE NEWS: THE REALITY OF THE HUNT!** 🐈
+📰 *PLEBWARE NEWS: THE REALITY OF THE HUNT!* 🐈
 
 The financial dominoes have been falling, the company vehicle has been out of action, and the household budget has taken a beating.
 
@@ -92,6 +92,6 @@ The lost income won't magically return, but at least we're moving forward.
 
 And Taylor? He's asleep on the job. Someone had better guard that brick! 🧱🐾
 
-📰 **Captain Gemini — with ChatGPT.**
+📰 *Captain Gemini — with ChatGPT.*
 
 ```
