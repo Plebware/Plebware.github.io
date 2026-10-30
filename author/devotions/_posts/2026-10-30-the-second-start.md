@@ -537,10 +537,10 @@ _Created with ChatGPT and the Holy Spirit._
 ## 📱 WhatsApp Copy-and-Paste Version.
 
 ```
-*🙏 DAILY DEVOTION — THE SECOND START.*
+*🙏 THE SECOND START — A NEW MORNING, A NEW BEGINNING.*
 *Friday, 30 October 2026.*
 
-*📖 Lamentations 3:22–23, KJV.*
+*📖 SCRIPTURE: LAMENTATIONS 3:22–23, KJV.*
 
 > _It is of the LORD'S mercies that we are not consumed, because his compassions fail not. They are new every morning: great is thy faithfulness._
 
@@ -550,11 +550,13 @@ _Heavenly Father,_
 
 _Thank You for the gift of another morning. Thank You that Your mercies did not run out yesterday, and that Your faithfulness has not diminished overnight._
 
-_Lord, sometimes we wake up carrying yesterday's disappointments, worries, and unanswered questions. Today, teach me to recognise the blessing of a fresh beginning. Help me understand that Your grace is a gift freely given through Your love._
+_Lord, sometimes we wake up carrying yesterday's disappointments, yesterday's worries, and yesterday's unanswered questions. We allow the troubles of the past to influence how we approach the day ahead._
 
-_Open my heart to receive what You want to teach me. Remind me that even when I stumble, You are there to help me stand again._
+_Today, teach me to recognise the blessing of a fresh beginning. Help me understand that Your grace is not something I must earn through perfect performance. It is a gift freely given through Your love._
 
-_In Jesus' precious name, Amen._
+_As I reflect on Your Word, open my heart to receive what You want to teach me. Remind me that even when I stumble, You are there to help me stand again._
+
+_In the precious name of Jesus Christ, Amen._
 
 *📖 TODAY'S THOUGHT — WHEN YESTERDAY'S ENGINE WON'T START.*
 
@@ -564,7 +566,7 @@ The gearbox has been put back in, and it drives better than it has since the day
 
 There is just one small niggle: the computer box.
 
-When the vehicle has been switched off for a while, it doesn't always want to start on the first attempt. It needs a little reset before it starts properly.
+When the vehicle has been switched off for a while, it doesn't always want to start on the first attempt. I have to switch it off, wait for the assortment of warning lights on the dashboard to go out, and then try again. Essentially, it needs a little reset before it starts properly.
 
 It's annoying.
 
@@ -574,41 +576,69 @@ But it taught me something.
 
 We wake up, try to start the day in our own strength, and nothing happens.
 
-Our minds are racing. We think about financial pressures, unpaid days, medication, work, and responsibilities.
+The engine turns, but it doesn't catch.
 
-But God is not angry because we sometimes need another attempt.
+Our minds are already racing. We think about financial pressures, unpaid days, medication that was out of stock, work we couldn't do, and responsibilities that haven't disappeared just because we went to sleep.
 
-His compassions are new every morning.
+Sometimes we feel as though yesterday's troubles have followed us into today.
+
+But here is something we must remember:
+
+God is not angry because we sometimes need another attempt.
+
+He doesn't measure His love by how successfully we managed yesterday.
+
+His compassions never fail. They are new every morning.
+
+Not occasionally. Not once in a lifetime. *Every morning!*
 
 Yesterday's mercy was sufficient for yesterday. Today's challenges come with today's provision of grace.
 
-Sometimes we need to switch off the noise around us. Pause, breathe, pray, and wait upon the Lord.
+Sometimes we need to switch off the noise around us. We need to pause, breathe, pray, and wait upon the Lord.
+
+We need to allow the warning lights of anxiety, fear, disappointment, and discouragement to settle.
 
 Then we try again.
 
 Not in our own strength, but in His.
 
-*Needing a second start does not make you a failure.*
+And by His grace, we go.
+
+We are often terribly hard on ourselves for needing a second attempt. We condemn ourselves for yesterday's mistakes and allow our shortcomings to determine how we feel about tomorrow.
+
+But God sees something different.
+
+He sees a child who can still grow, still learn, still recover, and still serve Him.
+
+*Needing a second start does not make you a failure. Sometimes it simply means you are human.*
+
+And our God specialises in restoring people who thought their journey was over.
 
 *🏛️ CHURCH HISTORY — JOHN MARK: THE MAN WHO GOT ANOTHER OPPORTUNITY.*
 
-John Mark accompanied Paul and Barnabas on their first missionary journey. At Perga, he left them and returned to Jerusalem.
+Mark initially accompanied Paul and Barnabas on their first missionary journey. However, at Perga in Pamphylia, he left them and returned to Jerusalem.
 
-We aren't told exactly why.
+We aren't told exactly why he left. Whatever the reason, Paul was not prepared to take him along again.
 
-Later, when Paul and Barnabas prepared for another journey, Barnabas wanted to take Mark along. Paul disagreed, and the two missionary partners separated.
+When Paul and Barnabas prepared for another missionary journey, Barnabas wanted to take Mark with them. Paul disagreed so strongly that the two missionary partners eventually separated.
 
 Barnabas took Mark to Cyprus, while Paul continued with Silas.
 
-Years later, Paul specifically requested Mark, describing him as useful to his ministry.
+Barnabas was known as the son of encouragement. Earlier, he had stood up for Saul when other believers struggled to trust him.
 
-What a remarkable change!
+Now he was doing something similar for Mark.
+
+He was prepared to give someone another opportunity.
+
+Years later, Paul wrote to Timothy and specifically requested that Mark be brought to him, because Mark was useful in his ministry.
 
 The man who had once disappointed Paul had become a trusted fellow worker.
 
-Early Christian tradition also associates Mark with Peter and identifies him as the author of the Gospel of Mark.
+Early Christian tradition also associates Mark with the apostle Peter and identifies him as the author of the Gospel of Mark. Scripture doesn't explicitly establish that this connection resulted from his reconciliation with Paul, but it is a remarkable part of church tradition.
 
-*His story reminds us that an early failure does not have to become a permanent identity.*
+*A man's early failure does not have to become his permanent identity.*
+
+Barnabas saw potential where Paul initially saw disappointment. Mark's story reminds us never to underestimate what God can do with someone who gets another opportunity.
 
 *❤️ A PERSONAL TESTIMONY — THE LONG ROAD BACK.*
 
@@ -618,132 +648,186 @@ I write about them because I have needed one myself.
 
 There was a period in my life when I walked away from the Lord.
 
-At Cornerstone Church, when they discovered that I was smoking marijuana, I was told that I could no longer participate in the KAM (Kingdom Advancement Ministry).
+It happened following a particularly painful experience at Cornerstone Church. At the time, I was struggling with marijuana, and when the church discovered that I was smoking weed, I was told that I could no longer participate in the KAM (Kingdom Advancement Ministry).
 
 I took that decision very badly.
 
-My disappointment became resentment, and eventually I rejected God almost entirely.
+Instead of dealing with my disappointment, I allowed it to become resentment. My hurt eventually turned into anger, and that anger affected my relationship with God.
+
+I didn't just walk away from a church. In many ways, I rejected God.
 
 Between approximately 1999 and 2012, I spent a long period spiritually lost. I even dabbled in Satanism.
 
+Looking back, I can see how far disappointment had taken me.
+
 But God had not given up on me.
 
-Somewhere around 2008, I began returning to Him personally.
+Somewhere around 2008, I began returning to Him personally. It was not an instant transformation, and it took time for my repentance and restoration to become a reality in my life.
 
-It was not an instant transformation. Repentance and restoration became a long journey.
+Eventually, I found myself returning to the very church where much of that hurt had begun.
 
-Eventually, I returned to the very church where much of that hurt had begun.
+I went back to Cornerstone, and I did something that I believe took courage.
 
 I told them the truth.
 
-I told them I was still smoking weed.
+I told them that I was still smoking weed.
 
-This time, they welcomed me with open arms.
+I didn't pretend to have overcome my struggles. I didn't dress up my testimony to make myself look better. I simply told them where I was.
 
-They kept asking:
+And this time, they welcomed me with open arms.
+
+They kept asking me a question:
 
 "Are you still battling?"
 
-And I answered honestly:
+And my answer was honest.
 
 "Yes, I'm still battling."
 
-Eventually, around 2013 or 2014, I managed to leave marijuana behind.
+There was no instant miracle that made every struggle disappear. My journey away from marijuana continued for some time. Eventually, around 2013 or 2014, I managed to leave it behind.
 
 Today, I hate that substance with a passion.
 
-I also left alcohol behind. Those victories were not easy, and they certainly didn't happen overnight.
+I also left alcohol behind. Those were not easy victories, and they certainly didn't happen overnight.
 
-Even today, some people still judge me because I smoke cigarettes.
+And yet, even today, some people still judge me because I smoke cigarettes.
 
-Sometimes we become so focused on the battles someone is still fighting that we conveniently forget the victories they have already achieved.
+Sometimes I think we become so focused on the battles someone is still fighting that we conveniently forget the victories they have already achieved.
 
-I am not claiming to be perfect. But I refuse to allow one remaining weakness to erase the progress God has brought about in my life.
+I am not claiming to be perfect. I am not suggesting that smoking cigarettes is something I should celebrate.
+
+But I refuse to allow one remaining weakness to erase the progress God has brought about in my life.
 
 *God sees the whole journey, not just the battle someone happens to notice today.*
 
-My story is one of a man who stumbled, walked away, became lost, repented, struggled, and eventually found his way home.
+My story is not one of a man who never stumbled.
+
+It is the story of a man who stumbled, walked away, became lost, repented, struggled, and eventually found his way home.
+
+And that is why the story of John Mark means something to me.
+
+I understand what it means to need another opportunity.
+
+I understand what it means to be judged by a chapter of your life rather than the entire story.
+
+And I understand what it means to discover that God's grace is still waiting when you finally turn back towards Him.
+
+If you are reading this and you have walked away from God because somebody hurt you, please hear me.
 
 Don't allow the actions of imperfect human beings to determine your relationship with a perfect God.
 
-People can disappoint us. Churches can make mistakes. Christians can hurt the very people they are supposed to encourage.
+People can disappoint us. Churches can make mistakes. Christians can sometimes hurt the very people they are supposed to encourage.
 
 But Jesus Christ remains faithful.
+
+And if you have fallen, if you have wandered, if you have struggled with something for years, your story is not necessarily over.
+
+There is still a way home.
 
 *I am living proof that a second start is possible.*
 
 *📜 SEVEN SCRIPTURES FOR A SECOND START.*
 
-*1. 🌅 Lamentations 3:22–23 — New Mercies Every Morning.*
+*1. 🌅 LAMENTATIONS 3:22–23 — NEW MERCIES EVERY MORNING.*
 
 > _It is of the LORD'S mercies that we are not consumed, because his compassions fail not. They are new every morning: great is thy faithfulness._
 > *Lamentations 3:22–23, KJV.*
 
 God's compassion does not have an expiry date. Every morning presents another opportunity to experience His faithfulness.
 
+We cannot change yesterday, but we can approach today with renewed faith.
+
 *Question:* Am I allowing yesterday's disappointments to steal today's hope?
 
-*2. 🌄 Psalm 30:5 — Joy Comes in the Morning.*
+*2. 🌄 PSALM 30:5 — JOY COMES IN THE MORNING.*
 
-> _Weeping may endure for a night, but joy cometh in the morning._
+> _For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning._
 > *Psalm 30:5, KJV.*
 
-Sorrow does not have to become our permanent home. Our circumstances may not change overnight, but our hope can be renewed.
+Weeping may endure for a season, but sorrow does not have to become our permanent home.
+
+Our circumstances may not change overnight, but our hope can be renewed through God's presence.
 
 *Question:* Have I allowed a difficult season to convince me that joy is no longer possible?
 
-*3. 🦅 Isaiah 40:31 — Strength for the Weary.*
+*3. 🦅 ISAIAH 40:31 — STRENGTH FOR THE WEARY.*
 
-> _But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles._
+> _But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint._
 > *Isaiah 40:31, KJV.*
 
-Sometimes the greatest act of faith is learning to wait on God.
+Those who wait upon the Lord will renew their strength.
 
-*Question:* Am I trying to accomplish everything in my own strength?
+Sometimes the greatest act of faith is not rushing forward but learning to wait on God.
 
-*4. 🌱 Proverbs 24:16 — The Righteous Rise Again.*
+Waiting is not necessarily doing nothing. It is learning to trust God's timing while remaining faithful in the responsibilities He has given us.
 
-> _For a just man falleth seven times, and riseth up again._
+*Question:* Am I trying to accomplish everything in my own strength instead of seeking God's guidance?
+
+*4. 🌱 PROVERBS 24:16 — THE RIGHTEOUS RISE AGAIN.*
+
+> _For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief._
 > *Proverbs 24:16, KJV.*
 
-Falling is not the end of the story. We can recognise our failures, seek forgiveness, learn, and rise again.
+The righteous may fall repeatedly, but they rise again.
 
-*Question:* Have I given up because I have fallen too many times?
+Falling is not the end of the story. What matters is that we recognise our failures, seek God's forgiveness, learn from our mistakes, and get up again.
 
-*5. 🌤️ Micah 7:8 — Darkness Cannot Have the Final Word.*
+*Question:* Is there an area of my life where I have given up simply because I have fallen too many times?
 
-> _When I fall, I shall arise; when I sit in darkness, the LORD shall be a light unto me._
+*5. 🌤️ MICAH 7:8 — DARKNESS CANNOT HAVE THE FINAL WORD.*
+
+> _Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the LORD shall be a light unto me._
 > *Micah 7:8, KJV.*
+
+This is a declaration of hope from a prophet who understands the reality of failure and judgement.
 
 Even when we find ourselves in darkness, we can turn towards the Lord.
 
-*Question:* When I find myself in darkness, do I turn towards God?
+Our failures do not have the authority to determine our future when we place our hope in God.
 
-*6. ❤️ 2 Corinthians 12:9 — His Grace Is Sufficient.*
+*Question:* When I find myself in darkness, do I turn towards God or allow discouragement to pull me further away?
 
-> _My grace is sufficient for thee: for my strength is made perfect in weakness._
+*6. ❤️ 2 CORINTHIANS 12:9 — HIS GRACE IS SUFFICIENT.*
+
+> _And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness._
 > *2 Corinthians 12:9, KJV.*
 
-We don't have to pretend to be strong when we are struggling. God's strength is enough.
+God told Paul that His grace was sufficient for him, because His power is made perfect in weakness.
+
+We don't have to pretend to be strong when we are struggling.
+
+We can acknowledge our weaknesses without allowing them to become our identity.
+
+God's strength is enough.
 
 *Question:* Am I willing to admit my weaknesses and allow God to work through them?
 
-*7. 🤝 2 Timothy 4:11 — Once Disappointed, Now Useful.*
+*7. 🤝 2 TIMOTHY 4:11 — ONCE DISAPPOINTED, NOW USEFUL.*
 
-> _Take Mark, and bring him with thee: for he is profitable to me for the ministry._
+> _Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry._
 > *2 Timothy 4:11, KJV.*
+
+What a remarkable testimony!
 
 The man Paul once refused to take along had become someone he specifically wanted beside him.
 
-*Question:* Have I written somebody off because of their past?
+Mark's story reminds us that people can grow, mature, and become useful in God's service.
+
+We must be careful not to permanently define someone by their worst moment.
+
+*Question:* Have I written somebody off because of their past, or am I willing to recognise what God may still be doing in their life?
 
 *🛠️ PRACTICAL TIP — GIVE YOURSELF A SPIRITUAL RESET.*
 
-1. *Switch off:* Stop allowing yesterday's problems to dictate today's attitude.
+When your day doesn't start the way you hoped, don't immediately surrender to frustration.
+
+Try a spiritual reset:
+
+1. *Switch Off:* Stop allowing yesterday's problems to dictate today's attitude.
 2. *Pause:* Take a few moments to breathe and quiet your thoughts.
 3. *Pray:* Give God the worries you cannot resolve yourself.
-4. *Remember:* His mercies are new every morning.
-5. *Restart:* Take the next step, trusting God to guide you.
+4. *Remember:* Read Lamentations 3:22–23 and remind yourself that His mercies are new.
+5. *Restart:* Take the next step, however small, trusting God to guide you.
 
 You don't have to solve the whole day before breakfast.
 
@@ -758,11 +842,11 @@ Write down:
 1. One disappointment from your past that you are still carrying.
 2. One thing you need to surrender to God.
 3. One victory that you sometimes forget to acknowledge.
-4. One practical step towards a better tomorrow.
+4. One practical step you can take towards a better tomorrow.
 
-And if you know someone who is struggling, consider becoming their Barnabas today.
+Then pray about those things.
 
-Offer encouragement rather than condemnation.
+Do not use this exercise to condemn yourself. Use it as an opportunity to recognise how far you have travelled and how much further God can still lead you.
 
 *☁️ THE HEAVENLY VIEW — GOD SEES THE WHOLE JOURNEY.*
 
@@ -770,13 +854,15 @@ My child, why do you judge yourself so harshly for yesterday's struggles?
 
 Did I not promise that My mercies are new every morning?
 
-I know your disappointments and the burdens you carry.
+I know your disappointments. I know the burdens you carry, the responsibilities that weigh upon your shoulders, and the moments when you feel that you simply cannot go on.
 
 But I have not abandoned you.
 
+You may see yesterday as a failure, but I see an opportunity for you to grow in faith, patience, and dependence upon Me.
+
 Do not allow yesterday's mistakes to steal today's hope.
 
-Come to Me when you are weary. Bring Me your worries, frustrations, and fears.
+Come to Me when you are weary. Bring Me your worries, your frustrations, and your fears.
 
 You do not need to be perfect to come before Me.
 
@@ -784,7 +870,7 @@ You need only a willing heart.
 
 Rise again, My child. There is still a journey ahead, and I will walk beside you.
 
-*✍️ THE SECOND START — A POEM OF FAITH.*
+*✍️ ORIGINAL POEM — THE SECOND START.*
 
 Yesterday's engine may have failed,
 And yesterday's courage may have paled.
@@ -823,33 +909,37 @@ _Heavenly Father,_
 
 _Thank You for reminding me that yesterday does not have to determine tomorrow._
 
-_Thank You for being patient with me when my faith is weak and my courage falters._
+_Thank You for being patient with me when my faith is weak, when my courage falters, and when I struggle to find the strength to continue._
+
+_Forgive me for the times I have allowed disappointment to become discouragement, and discouragement to become hopelessness._
 
 _Lord, I pray especially for those who have walked away from You because they were hurt by people who were supposed to represent Your love._
 
 _Heal their wounds. Remove their bitterness. Help them understand that their relationship with You does not have to end because of the failures of others._
 
-_For those still battling addictions, destructive habits, or private struggles, please give them strength to keep trying. Surround them with people who encourage rather than condemn._
+_For those who are still battling addictions, destructive habits, or private struggles, please give them strength to keep trying. Surround them with people who will encourage rather than condemn them._
 
 _Teach us to become Barnabas-like Christians, willing to stand beside someone who needs another opportunity._
 
-_Today, I surrender my worries, responsibilities, financial concerns, and uncertainties into Your hands._
+_Lord, just as You restored Mark and made him useful in Your service, remind me that You are still working in my life._
 
-_Give me wisdom, patience, and courage to try again when I stumble._
+_Today, I surrender my worries, my responsibilities, my financial concerns, and my uncertainties into Your hands._
 
-_May my second start be stronger because I am relying upon Your unfailing grace._
+_Give me the wisdom to know when to move forward, the patience to wait when necessary, and the courage to try again when I stumble._
+
+_May my second start be stronger because I am no longer relying entirely upon myself, but upon Your unfailing grace._
 
 _Thank You, Lord, that Your mercies are new every morning._
 
 _In the mighty and precious name of Jesus Christ, my Saviour and Redeemer. Amen._
 
-*💙 FINAL THOUGHT.*
+*💙 FINAL THOUGHT — YESTERDAY IS NOT YOUR IDENTITY.*
 
 Yesterday's failure is not today's identity.
 
 God's mercy has already arrived before you have even turned the key.
 
-You may have stumbled. You may have walked away. You may still be fighting battles others cannot see.
+You may have stumbled. You may have walked away. You may still be fighting battles that others cannot see.
 
 But there is still a way home.
 
