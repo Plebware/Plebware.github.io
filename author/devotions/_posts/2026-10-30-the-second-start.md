@@ -254,6 +254,12 @@ We cannot change yesterday, but we can approach today with renewed faith.
 
 **❓ Personal Question:** Am I allowing yesterday's disappointments to steal today's hope?
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+
+
 **2. 🌄 Psalm 30:5 — Joy Comes in the Morning.**
 
 > "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning."
@@ -267,6 +273,12 @@ Weeping may endure for a season, but sorrow does not have to become our permanen
 Our circumstances may not change overnight, but our hope can be renewed through God's presence.
 
 **❓ Personal Question:** Have I allowed a difficult season to convince me that joy is no longer possible?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+
 
 **3. 🦅 Isaiah 40:31 — Strength for the Weary.**
 
@@ -284,6 +296,12 @@ Waiting is not necessarily doing nothing. It is learning to trust God's timing w
 
 **❓ Personal Question:** Am I trying to accomplish everything in my own strength instead of seeking God's guidance?
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+
+
 **4. 🌱 Proverbs 24:16 — The Righteous Rise Again.**
 
 > "For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief."
@@ -297,6 +315,12 @@ The righteous may fall repeatedly, but they rise again.
 Falling is not the end of the story. What matters is that we recognise our failures, seek God's forgiveness, learn from our mistakes, and get up again.
 
 **❓ Personal Question:** Is there an area of my life where I have given up simply because I have fallen too many times?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+
 
 **5. 🌤️ Micah 7:8 — Darkness Cannot Have the Final Word.**
 
@@ -313,6 +337,12 @@ Even when we find ourselves in darkness, we can turn towards the Lord.
 Our failures do not have the authority to determine our future when we place our hope in God.
 
 **❓ Personal Question:** When I find myself in darkness, do I turn towards God or allow discouragement to pull me further away?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+
 
 **6. ❤️ 2 Corinthians 12:9 — His Grace Is Sufficient.**
 
@@ -331,6 +361,12 @@ We can acknowledge our weaknesses without allowing them to become our identity.
 God's strength is enough.
 
 **❓ Personal Question:** Am I willing to admit my weaknesses and allow God to work through them?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+
 
 **7. 🤝 2 Timothy 4:11 — Once Disappointed, Now Useful.**
 
