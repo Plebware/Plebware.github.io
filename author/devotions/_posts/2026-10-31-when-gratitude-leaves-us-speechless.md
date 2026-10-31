@@ -249,6 +249,49 @@ And sometimes it is simply somebody reminding us that we are not forgotten.
 
 <!-- PLEBVOX:START -->
 
+## ✍️ **An Original Poem — When Words Are Not Enough.**
+
+```
+I searched for words to say thank You, Lord,
+But every sentence disappeared.
+My heart was full, my eyes were wet,
+Your goodness made Your presence near.
+
+Through youthful days and troubled years,
+Through every failure, every tear,
+You placed kind souls along my road,
+To remind me You were always near.
+
+Some prayed with me beneath the skies,
+Some helped me find my way again.
+Some stood beside me in my trials,
+And helped me rise above the pain.
+
+And now, when I have little left,
+When tomorrow seems uncertain too,
+You send a hand to lift my load,
+And once again I think of You.
+
+I cannot see the road ahead,
+Nor know what waits beyond today.
+But I have seen Your faithfulness,
+And that is why I choose Your way.
+
+So take these words, however small,
+This grateful heart, this humble plea.
+I cannot repay the love I've known,
+But let my life reflect Your mercy.
+
+Thank You, Father. Thank You, Lord.
+For every blessing, great and small.
+When gratitude leaves me without words,
+My heart still knows You gave it all.
+```
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## 📜 **Scripture One — Psalm 107:1. Give Thanks for His Goodness.**
 
 > "O give thanks unto the LORD, for he is good: for his mercy endureth for ever."
@@ -543,8 +586,3 @@ _With ChatGPT and the Holy Spirit._
 
 <!-- PLEBVOX:END -->
 
----
-
-## 📱 **WhatsApp Copy-and-Paste Version.**
-
-The full devotion above is the publication copy. For WhatsApp sharing, use the article link once it is live rather than duplicating the entire devotion in the post.
