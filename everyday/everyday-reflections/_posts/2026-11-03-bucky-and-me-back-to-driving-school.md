@@ -8,6 +8,14 @@ mode: "everyday"
 author: Otto Brinkmeier
 ---
 
+<div style="text-align: center; margin: 1.25rem auto;">
+  <img src="{{ '/assets/images/bucky-and-i.webp' | relative_url }}"
+       alt="Bucky - Ford Ranger that doubles as PlebWare's Mobile Office."
+       loading="lazy"
+       decoding="async"
+       style="width: 100%; height: auto;">
+  <p><em>Banner created by Gemini and Otto Thank you for the colaboration!</em></p>
+</div>
 <!-- PLEBVOX:START -->
 
 # 🚙 Bucky and Me — Back to Driving School!
