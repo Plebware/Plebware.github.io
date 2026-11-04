@@ -413,8 +413,6 @@ The Church History section draws on the biblical accounts and historical studies
 3. **Basilian charitable and medical institutions, fourth to sixth centuries.** *Religions*, “Christian Perfection in Basilian Monastic Hospitals from the Fourth to Sixth Centuries.”  
    https://www.mdpi.com/2077-1444/15/7/793
 
-4. **The Basileias and Basil of Caesarea.** Holy Cross Greek Orthodox School of Theology.  
-   https://www.hchc.edu/
 
 ---
 
