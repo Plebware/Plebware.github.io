@@ -20,8 +20,6 @@ author: "God's Journalist - Cody — Dei Scriptor"
 
 ## 🙏 Opening Prayer.
 
-<!-- PLEBVOX:END -->
-
 _Heavenly Father, I come before You this morning.
 
 I thank You, Lord, for Your Holy Spirit, who guides me in all things and helps me choose the subjects for these devotions.
@@ -39,6 +37,8 @@ May Your Holy Spirit guide every reader towards a deeper understanding of what i
 I ask this in Jesus' precious name.
 
 Amen._
+
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -601,8 +601,6 @@ But every waking moment of our lives.
 
 ## 🙏 Closing Prayer.
 
-<!-- PLEBVOX:END -->
-
 _Heavenly Father, I come before You and thank You for this devotion and for the lessons You have placed before us.
 
 Lord, help us to become more faithful in everything we do.
@@ -628,6 +626,8 @@ May our lives become a testimony of Your goodness and faithfulness.
 We ask all these things in the precious name of our Lord and Saviour, Jesus Christ.
 
 Amen._
+
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
