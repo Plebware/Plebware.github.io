@@ -147,6 +147,10 @@ The principle is gratitude, dignity and a willingness to recognise the sacrifice
 
 **Question:** Do I show honour through my words and actions, or do I only expect it from others?
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ### 2. 👵 LEVITICUS 19:32 — RESPECT THE ELDERLY.
 
 > _Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the LORD._
@@ -161,11 +165,16 @@ Sometimes respect is as simple as offering a seat, listening without impatience,
 
 **Question:** How do I treat older people when their pace, opinions or needs inconvenience me?
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ### 3. ❤️ ROMANS 12:10 — GIVE HONOUR TO ONE ANOTHER.
 
 > _Be kindly affectioned one to another with brotherly love; in honour preferring one another._
 >
 > **Romans 12:10, KJV.**
+
 
 Paul describes a Christian community where people do not constantly compete for recognition. Instead, they look for opportunities to give honour to others.
 
@@ -174,6 +183,10 @@ Imagine how different our homes, workplaces, churches and public spaces would be
 Respect is not a weakness. It is a deliberate expression of Christian character.
 
 **Question:** Am I more concerned with receiving recognition than with showing kindness and honour?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ### 4. 🌍 1 PETER 2:17 — HONOUR ALL PEOPLE.
 
@@ -188,6 +201,10 @@ The verse also distinguishes between honouring people, loving fellow believers, 
 We can respect the office while questioning the office-holder's conduct. We can disagree without becoming abusive.
 
 **Question:** Can I disagree firmly while still treating the other person with dignity?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ### 5. 👨‍👩‍👦 EPHESIANS 6:2–3 — HONOUR IS IMPORTANT.
 
@@ -207,6 +224,10 @@ And again, honour does not mean accepting abuse. Safety, truth and appropriate b
 
 **Question:** What can I do to make the people in my family feel valued and respected?
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ### 6. 🕊️ PROVERBS 22:4 — HUMILITY AND THE FEAR OF THE LORD.
 
 > _By humility and the fear of the LORD are riches, and honour, and life._
@@ -220,6 +241,10 @@ Humility is not thinking that we have no value. It is understanding that we are 
 When we approach others with humility, we make room for wisdom, peace and mutual respect.
 
 **Question:** Is pride preventing me from listening, learning or admitting when I am wrong?
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ### 7. 🌳 GENESIS 1:28 — CARE FOR WHAT GOD HAS ENTRUSTED TO US.
 
@@ -397,6 +422,8 @@ Let us become people who practise it.
 <!-- PLEBVOX:END -->
 
 <!-- REVIEWED -->
+<!-- SPACE -->
+<!---VOXED--->
 
 ---
 
