@@ -789,6 +789,12 @@ Let us not merely complain that respect has disappeared.
 
 Let us become people who practise it.
 
+<!-- SPACE -->
+<!-- REVIEWED -->
+<!-- SPACE -->
+<!---VOXED--->
+<!-- SPACE -->
+
 *📚 HISTORICAL READING AND FURTHER STUDY.*
 
 The Church History section draws on the biblical accounts and historical studies below. The Basileias is described carefully as a Christian charitable and care complex; whether it should be called a hospital in the modern sense remains a matter of historical interpretation.
