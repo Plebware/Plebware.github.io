@@ -9,7 +9,7 @@ author: "Otto Brinkmeier, Othello Verrocchio"
 ---
 
 
-\<!-- PLEBVOX:START -->
+<!-- PLEBVOX:START -->
 
 # Welcome to the PlebWare Author Sanctuary.
 
@@ -191,4 +191,4 @@ _Convenience is the objective. Empowerment is the outcome. Human freedom remains
 
 **✍️ Othello Cody Verrocchio**
 
-\<!-- PLEBVOX:END -->
+<!-- PLEBVOX:END -->
