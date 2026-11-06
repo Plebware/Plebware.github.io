@@ -33,6 +33,10 @@ Why keep useful knowledge to ourselves when it could help somebody else?
 
 That is the philosophy behind this section of PlebWare.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## A Sanctuary for Writers and Creators.
 
 Writing is not simply about putting words on a page.
@@ -65,6 +69,10 @@ This is not intended to be an exhaustive catalogue of everything available on th
 
 Rather, it is a growing collection of resources, experiences and discoveries that I believe are worth sharing.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## Why Linux?
 
 One of the reasons I created PlebWare is my belief that a computer should serve its user, not the other way around.
@@ -82,6 +90,10 @@ However, this does not mean that everything here will be exclusively Linux-relat
 Writers use different operating systems, different applications and different workflows.
 
 The objective is to share useful knowledge, not to insist that everybody work the way I do.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## PlebMachine: A Different Approach to Computing.
 
@@ -105,6 +117,10 @@ For authors, this is particularly relevant.
 
 A well-organised computer can make the difference between spending your time creating something and spending your time trying to find the tools and information needed to create it.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## A Place to Share Experience, Not Just Information.
 
 There is something I have learned over the years.
@@ -127,6 +143,10 @@ If something works, I will tell you.
 
 If something doesn't work, I will tell you that too!
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## A Word About Creativity and Artificial Intelligence.
 
 We live in an interesting period for writers and creators.
@@ -147,6 +167,10 @@ But the individual should always remain in control of the creative process.
 
 That principle applies to PlebMachine as much as it applies to writing.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ## An Invitation to Fellow Writers.
 
 Whether you are an established author, an aspiring novelist, a hobbyist, a blogger or simply somebody who enjoys creating things, you are welcome here.
@@ -164,6 +188,10 @@ My hope is that something you find here will make your own creative journey a li
 And perhaps, in the process, you might discover something that you can share with somebody else.
 
 After all, knowledge becomes considerably more valuable when we share it.
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
 
 ## Finally: Why Call It a Sanctuary?
 
