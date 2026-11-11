@@ -593,8 +593,6 @@ And His love is greater than anything this world can throw at you.
 
 ## **📱 WhatsApp Copy-and-Paste Version.**
 
-The following is the complete devotion, recreated with WhatsApp formatting. Copy everything inside the single code block.
-
 ``` 
 🩸 *WHEN WE FAIL TO BE FAITHFUL.*
 *Part 2 — Recognising Our Failures and Finding Our Way Back to God.*
