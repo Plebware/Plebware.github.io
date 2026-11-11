@@ -37,6 +37,12 @@ The aim is to make technology understandable enough for ordinary people to explo
 
 ## 📚 Start With the Technology Shelf
 
+### 💻 Programming Languages Guide
+
+A broad field guide to programming languages and the related technologies used across computers, phones, websites, games, devices and data systems.
+
+**[The Computer Coding Languages Guide](/study/technology/programming/2026/11/11/computer-coding-languages-guide/)**
+
 ### 🎓 Suggested Technology Diploma Courses
 
 A collection of online diploma courses worth bookmarking for future study.
