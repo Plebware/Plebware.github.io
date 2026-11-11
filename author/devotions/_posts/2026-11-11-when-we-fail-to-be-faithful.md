@@ -317,7 +317,7 @@ We can become frightened, make mistakes, deny our convictions and disappoint our
 
 ## **🌹 7. An Original Poem — When My Faithfulness Fails.**
 
-``` 
+```
 When I promised You my everything,
 I thought my strength would never fade.
 I never thought the smallest things
@@ -593,7 +593,7 @@ And His love is greater than anything this world can throw at you.
 
 ## **📱 WhatsApp Copy-and-Paste Version.**
 
-``` 
+```
 🩸 *WHEN WE FAIL TO BE FAITHFUL.*
 *Part 2 — Recognising Our Failures and Finding Our Way Back to God.*
 
