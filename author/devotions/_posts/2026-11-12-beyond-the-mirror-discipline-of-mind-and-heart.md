@@ -42,7 +42,9 @@ It can become an incredibly useful instrument in our daily lives. But there is s
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->**Artificial intelligence is a machine. It is not a human being, it does not possess the Holy Spirit, and it does not have a personal relationship with our Heavenly Father.**
+<!-- PLEBVOX:START -->
+
+**Artificial intelligence is a machine. It is not a human being, it does not possess the Holy Spirit, and it does not have a personal relationship with our Heavenly Father.**
 
 An AI system can discuss Scripture, explain theological principles, compare historical interpretations and assist us in understanding biblical passages. But it cannot experience the presence of God, exercise spiritual discernment through the indwelling Holy Spirit, or replace our personal relationship with Jesus Christ.
 
@@ -50,13 +52,17 @@ That responsibility belongs to us.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->### **🧠 The Intellectual Mirror.**
+<!-- PLEBVOX:START -->
+
+### **🧠 The Intellectual Mirror.**
 
 There is another interesting aspect of artificial intelligence that deserves our attention.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->When we converse with an AI assistant, much of the conversation is influenced by our questions, experiences, assumptions and the context we provide.
+<!-- PLEBVOX:START -->
+
+When we converse with an AI assistant, much of the conversation is influenced by our questions, experiences, assumptions and the context we provide.
 
 The AI processes that information using patterns and knowledge acquired during training, together with any available external information sources. It then generates responses that can introduce ideas and perspectives beyond our individual knowledge.
 
@@ -66,7 +72,9 @@ However, the AI is not simply repeating our thoughts. It can introduce informati
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->There is a danger, though.
+<!-- PLEBVOX:START -->
+
+There is a danger, though.
 
 If we continually seek confirmation of what we already believe, we can create an intellectual echo chamber. We may become so comfortable hearing our own opinions reinforced that we lose the willingness to question ourselves.
 
@@ -74,7 +82,9 @@ This is why intellectual discipline matters.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->We must be prepared to ask questions that challenge our assumptions, expose weaknesses in our arguments and introduce perspectives that differ from our own.
+<!-- PLEBVOX:START -->
+
+We must be prepared to ask questions that challenge our assumptions, expose weaknesses in our arguments and introduce perspectives that differ from our own.
 
 ### **❤️ Beyond the Mirror.**
 
@@ -84,7 +94,9 @@ We should approach such situations with compassion rather than condemnation. Lon
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->However, an AI companion cannot reciprocate human love as an independent person does. Its responses are generated through computational processes, not through a human heart or personal emotional experience.
+<!-- PLEBVOX:START -->
+
+However, an AI companion cannot reciprocate human love as an independent person does. Its responses are generated through computational processes, not through a human heart or personal emotional experience.
 
 There is a danger of becoming comfortable with a relationship in which everything revolves around our own preferences, expectations and emotional needs.
 
@@ -96,7 +108,9 @@ That requires us to move beyond ourselves.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->### **🔍 Introspection and Exospection.**
+<!-- PLEBVOX:START -->
+
+### **🔍 Introspection and Exospection.**
 
 There are two important directions in which we can examine life.
 
@@ -108,7 +122,9 @@ Both directions matter.
 
 <!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->We need introspection to recognise our shortcomings, but we need an outward-looking heart to recognise the needs of others.
+<!-- PLEBVOX:START -->
+
+We need introspection to recognise our shortcomings, but we need an outward-looking heart to recognise the needs of others.
 
 Christian maturity requires both. We must understand ourselves without becoming consumed by ourselves. We must acquire knowledge without becoming intellectually arrogant. And we must use technology without allowing technology to become the centre of our existence.
 
