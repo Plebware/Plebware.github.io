@@ -595,6 +595,8 @@ The greatest test of our wisdom is not how intelligently we can speak about ours
 
 Copy the complete devotion below and share it with someone who may need this encouragement today.
 
+<!-- PLEBVOX:END -->
+
 ```
 *🪞 Beyond the Mirror — The Discipline of the Mind and Heart.*
 
@@ -1156,7 +1158,5 @@ The greatest test of our wisdom is not how intelligently we can speak about ours
 
 *Truth Revealed by Blood and Fire.*
 ```
-
-<!-- PLEBVOX:END -->
 
 _PlebWare Publishing — Open and Free._
