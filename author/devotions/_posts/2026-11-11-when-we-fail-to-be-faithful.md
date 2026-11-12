@@ -40,7 +40,9 @@ _Father, teach us what genuine faithfulness looks like._ _Give us courage when w
 
 _We ask this in the precious name of Jesus Christ._
 
-_Amen._<!-- PLEBVOX:END -->
+_Amen._
+
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -547,7 +549,9 @@ _May our faithfulness not simply be something we talk about, but something peopl
 
 _We ask all these things in the precious and mighty name of our Lord and Saviour, Jesus Christ._
 
-_Amen._<!-- PLEBVOX:END -->
+_Amen._
+
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
