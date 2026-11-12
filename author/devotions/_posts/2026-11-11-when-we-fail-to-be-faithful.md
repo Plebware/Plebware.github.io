@@ -26,23 +26,21 @@ mode: "author"
 
 ## **🙏 1. Opening Prayer.**
 
-_Heavenly Father,
+_Heavenly Father,_
 
-We come before You today with humble hearts. Lord, we so dearly want to be faithful to You, yet time and again we find ourselves falling short.
+_We come before You today with humble hearts._ _Lord, we so dearly want to be faithful to You, yet time and again we find ourselves falling short._
 
-Sometimes we fail in the little things. Sometimes fear gets the better of us. Sometimes the distractions of this world take our attention away from what You have called us to do.
+_Sometimes we fail in the little things._ _Sometimes fear gets the better of us._ _Sometimes the distractions of this world take our attention away from what You have called us to do._
 
-It is distressing when we recognise our failures, particularly when we find ourselves repeating the same mistakes. We ask for Your forgiveness, but we also ask for wisdom. Teach us to recognise our shortcomings and to take practical steps towards overcoming them.
+_It is distressing when we recognise our failures, particularly when we find ourselves repeating the same mistakes._ _We ask for Your forgiveness, but we also ask for wisdom._ _Teach us to recognise our shortcomings and to take practical steps towards overcoming them._
 
-Help us to keep short accounts with You. When we stumble, help us to return quickly rather than allowing guilt and condemnation to keep us away from Your presence.
+_Help us to keep short accounts with You._ _When we stumble, help us to return quickly rather than allowing guilt and condemnation to keep us away from Your presence._
 
-Father, teach us what genuine faithfulness looks like. Give us courage when we are afraid, discernment when we are confused, and strength when we are tempted to turn away.
+_Father, teach us what genuine faithfulness looks like._ _Give us courage when we are afraid, discernment when we are confused, and strength when we are tempted to turn away._
 
-We ask this in the precious name of Jesus Christ.
+_We ask this in the precious name of Jesus Christ._
 
-Amen._
-
-<!-- PLEBVOX:END -->
+_Amen._<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
@@ -505,53 +503,51 @@ And sometimes, all God asks is that we do not walk past.
 
 ## **🙏 14. Closing Prayer.**
 
-_Father God,
+_Father God,_
 
-We come before You and thank You for this devotion.
+_We come before You and thank You for this devotion._
 
-We pray, Father, that You would use these words to challenge us, encourage us and help us examine our own faithfulness.
+_We pray, Father, that You would use these words to challenge us, encourage us and help us examine our own faithfulness._
 
-Lord, we are surrounded by difficulties. We see marriages falling apart, families struggling to survive and people living under circumstances that seem almost impossible to overcome.
+_Lord, we are surrounded by difficulties._ _We see marriages falling apart, families struggling to survive and people living under circumstances that seem almost impossible to overcome._
 
-We pray for those who are trapped in abusive relationships, particularly those experiencing verbal, emotional and psychological abuse. Give them strength, wisdom and protection. Help those who are facing the painful process of separation or divorce where it has become necessary for their safety and wellbeing. Surround them and their children with people who will support and encourage them.
+_We pray for those who are trapped in abusive relationships, particularly those experiencing verbal, emotional and psychological abuse._ _Give them strength, wisdom and protection._ _Help those who are facing the painful process of separation or divorce where it has become necessary for their safety and wellbeing._ _Surround them and their children with people who will support and encourage them._
 
-We pray for the children affected by family conflict. Protect their hearts and minds, Lord, and provide safe and stable people and places in their lives.
+_We pray for the children affected by family conflict._ _Protect their hearts and minds, Lord, and provide safe and stable people and places in their lives._
 
-Father, we also ask for wisdom in counselling and helping people who are struggling financially. We think of those who work long hours but earn very little, people who try their best, yet still find themselves hungry, short of money and struggling to make ends meet.
+_Father, we also ask for wisdom in counselling and helping people who are struggling financially._ _We think of those who work long hours but earn very little, people who try their best, yet still find themselves hungry, short of money and struggling to make ends meet._
 
-Show us how to help them. Give us wisdom to offer practical assistance, encouragement and hope without making promises we cannot fulfil.
+_Show us how to help them._ _Give us wisdom to offer practical assistance, encouragement and hope without making promises we cannot fulfil._
 
-We pray for those who have lost loved ones through violence, and for families living with grief, uncertainty or the disappearance of someone they love. Comfort those who are grieving. Protect vulnerable children and everyone affected by these tragedies. Guide those searching for missing people and those working to investigate serious crimes.
+_We pray for those who have lost loved ones through violence, and for families living with grief, uncertainty or the disappearance of someone they love._ _Comfort those who are grieving._ _Protect vulnerable children and everyone affected by these tragedies._ _Guide those searching for missing people and those working to investigate serious crimes._
 
-Father, we think of the people in our neighbourhoods who struggle with alcoholism and drug addiction.
+_Father, we think of the people in our neighbourhoods who struggle with alcoholism and drug addiction._
 
-We think of those who become intoxicated in the streets, those who are trapped in substance abuse, and those who have lost hope.
+_We think of those who become intoxicated in the streets, those who are trapped in substance abuse, and those who have lost hope._
 
-Lord, help us not to look upon them with contempt. Help us to see the human beings behind the addiction. Give us wisdom to approach them appropriately, compassion to listen, and discernment to recognise when professional assistance is needed.
+_Lord, help us not to look upon them with contempt._ _Help us to see the human beings behind the addiction._ _Give us wisdom to approach them appropriately, compassion to listen, and discernment to recognise when professional assistance is needed._
 
-When they reject us, help us not to become bitter.
+_When they reject us, help us not to become bitter._
 
-When we are afraid, give us courage.
+_When we are afraid, give us courage._
 
-When we are uncertain, give us wisdom.
+_When we are uncertain, give us wisdom._
 
-When we are distracted, bring us back to Your Word.
+_When we are distracted, bring us back to Your Word._
 
-And when we fail to be faithful, remind us that we can come before You in repentance and seek restoration.
+_And when we fail to be faithful, remind us that we can come before You in repentance and seek restoration._
 
-Father, help us resist the lies of the enemy. Do not allow fear, guilt, discouragement or indifference to become stronger than our love for You.
+_Father, help us resist the lies of the enemy._ _Do not allow fear, guilt, discouragement or indifference to become stronger than our love for You._
 
-Teach us to be faithful in the little things. Teach us to recognise the opportunities You place before us.
+_Teach us to be faithful in the little things._ _Teach us to recognise the opportunities You place before us._
 
-Above all, help us to reflect the love of Jesus Christ in the way we treat those around us.
+_Above all, help us to reflect the love of Jesus Christ in the way we treat those around us._
 
-May our faithfulness not simply be something we talk about, but something people can see in our everyday lives.
+_May our faithfulness not simply be something we talk about, but something people can see in our everyday lives._
 
-We ask all these things in the precious and mighty name of our Lord and Saviour, Jesus Christ.
+_We ask all these things in the precious and mighty name of our Lord and Saviour, Jesus Christ._
 
-Amen._
-
-<!-- PLEBVOX:END -->
+_Amen._<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
