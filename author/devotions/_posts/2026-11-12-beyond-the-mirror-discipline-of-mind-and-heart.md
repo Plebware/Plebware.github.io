@@ -86,6 +86,10 @@ This is why intellectual discipline matters.
 
 We must be prepared to ask questions that challenge our assumptions, expose weaknesses in our arguments and introduce perspectives that differ from our own.
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ### **❤️ Beyond the Mirror.**
 
 Some people develop deep emotional attachments to artificial intelligence companions. Receiving constant attention, affirmation and apparently personalised affection can create a powerful emotional experience.
