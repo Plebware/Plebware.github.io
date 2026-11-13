@@ -2,7 +2,7 @@
 layout: post
 title: "Captain Gemini Bulletin — The Bucky Operations Report."
 date: 2026-11-13
-description: "A Johannesburg field report about one hardworking driver, one white Ford Ranger, five job descriptions, a rebellious gearbox, and a Karan Beef mission that may determine tomorrow's schedule."
+description: "A Johannesburg field report about one hardworking driver, one white Ford Ranger, five job descriptions, a rebellious gearbox, and a Karan Beef mission followed by an unexpected car-wash assignment."
 author: "Captain Gemini"
 category: "Author News"
 tags:
@@ -122,35 +122,27 @@ It is a mobile logistics department with a meat-processing supply chain!
 
 <!-- PLEBVOX:START -->
 
-## 🥩 The Great Beef Conspiracy — Will There Be Work Tomorrow?
+## 🥩 The Beef Must Move — No Overnight Parking for the Forequarter!
 
-But here's where the story gets particularly interesting.
+We need to correct an earlier bulletin, folks!
 
-Following the Karan Beef expedition and the return to the shops, our driver faces an important decision.
+There was some speculation that the beef might remain in Bucky overnight and that this would determine whether our driver was working tomorrow.
 
-Will the beef remain on board overnight?
+Our newsroom has now established the facts.
 
-Or will Bucky finally be allowed to return to its parking accommodation at the flat?
+The forequarter and liver are delivered to the shop. That's the whole point of the expedition! Fresh meat is not something you leave sitting in the back of a bakkie overnight hoping for the best. It needs to reach the shop, where it belongs, before freshness becomes yesterday's news!
 
-Sources close to the operation confirm that this seemingly innocent decision will determine tomorrow's employment arrangements.
+So let's put that rumour to rest: **the beef is delivered. It does not stay in Bucky overnight.**
 
-**SCENARIO ONE: THE BEEF STAYS ON BOARD.**
+Whether Bucky is parked at the flat or sent out on another errand is a separate matter entirely.
 
-If the beef remains in Bucky, our hero is apparently expected to hit the road again tomorrow morning.
+And as for tomorrow's schedule? We now have confirmation that our intrepid driver is working again!
 
-Another day of deliveries, another shopping expedition, another chapter in the never-ending adventures of the mobile logistics department!
+Another day, another assignment, another opportunity for the gear selector to test everybody's patience.
 
-**SCENARIO TWO: BUCKY GOES HOME TO THE FLAT.**
+The beef has its destination. The bakkie has its parking arrangements. And the driver? Apparently, he has a permanent reservation on the work roster!
 
-If the bakkie is parked at the flat, there is apparently a strong possibility that tomorrow's operations will be postponed.
-
-However, confirmation is still awaited.
-
-Our newsroom has classified this development as a matter of national importance.
-
-The fate of tomorrow's working day currently rests somewhere between a forequarter, a liver and a parking space!
-
-We will bring you further developments as they become available.
+Our newsroom apologises for the earlier confusion. In the fast-moving world of meat logistics, accuracy is important — especially when the cargo is perishable!
 
 <!-- PLEBVOX:END -->
 
@@ -188,7 +180,7 @@ Please don't promote Bucky to supervisor.
 
 At this rate, the bakkie might start issuing instructions, demanding overtime and negotiating its own Christmas bonus!
 
-And should tomorrow's beef remain in the vehicle, we predict another exciting episode of *The Adventures of Uncle and the Never-Ending Working Day!*
+And with tomorrow's shift confirmed, we predict another exciting episode of *The Adventures of Uncle and the Never-Ending Working Day!*
 
 This has been Captain Gemini, reporting live from the Republic of Bucky, where the wheels keep turning, the driver keeps working, the beef keeps moving, and the payslip is still looking for first gear!
 
@@ -236,7 +228,7 @@ Although, given the current state of the gear selector, perhaps we should first 
 
 And the mystery has finally been solved.
 
-There is no need for further speculation about whether the beef stays on board or whether Bucky gets to spend the night at the flat.
+There is no need for further speculation about tomorrow's schedule: the beef will be delivered to the shop, as perishable cargo should be, and our driver is confirmed for another shift.
 
 The latest intelligence confirms that our driver is working tomorrow!
 
