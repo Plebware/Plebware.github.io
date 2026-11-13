@@ -192,7 +192,79 @@ And should tomorrow's beef remain in the vehicle, we predict another exciting ep
 
 This has been Captain Gemini, reporting live from the Republic of Bucky, where the wheels keep turning, the driver keeps working, the beef keeps moving, and the payslip is still looking for first gear!
 
-**GOOD AFTERNOON, JOHANNESBURG!** 😂
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
+## 🚨 Late-Breaking Update — The Car Wash Has Entered the Story!
+
+Ladies and gentlemen, we interrupt our own closing bulletin with an important development!
+
+Just when our driver thought he was finally taking the boss back to the shop after the Karan Beef expedition, management produced yet another assignment.
+
+The boss had to be dropped off at the hairdresser.
+
+But before the driver could complete that mission, a fresh instruction arrived:
+
+"Please take my car to the car wash."
+
+And so, in a stunning expansion of today's operational portfolio, our hero parked Bucky by the shop, collected the boss's car keys, went to fetch the boss's vehicle and delivered it to the car wash.
+
+Where is our intrepid correspondent now?
+
+Robertsham!
+
+Yes, folks, he's currently sitting near the garage, waiting while the boss's car receives the royal treatment.
+
+Let's review today's job description:
+
+Fresh produce collection.  
+Shop deliveries.  
+Procurement.  
+Spice-shop supplies.  
+Cash handling.  
+Karan Beef collection.  
+Forequarter and liver transportation.  
+Executive chauffeur services.  
+And now... vehicle collection and car-wash coordination!
+
+At this rate, the next instruction may be to wash the company helicopter.
+
+Although, given the current state of the gear selector, perhaps we should first establish whether Bucky can find the helicopter's parking bay!
+
+### 📅 TOMORROW'S FORECAST — CONFIRMED: ANOTHER WORKING DAY!
+
+And the mystery has finally been solved.
+
+There is no need for further speculation about whether the beef stays on board or whether Bucky gets to spend the night at the flat.
+
+The latest intelligence confirms that our driver is working tomorrow!
+
+The newsroom has therefore upgraded this story from *Possible Continued Employment* to **Confirmed Sequel!**
+
+Our correspondent will apparently be back on duty, ready for another episode of the adventures of Bucky, the boss's car, and the ever-expanding job description.
+
+The only unanswered question is whether tomorrow's assignment will involve another shop, another delivery, another vehicle, or perhaps all three before breakfast.
+
+### 🎙️ CAPTAIN GEMINI'S REVISED SIGN-OFF.
+
+Johannesburg, we leave you with this important observation:
+
+Some people drive a bakkie.
+
+Some people drive a boss's car.
+
+But only a select few manage to spend one working day operating an entire logistics department, delivering meat, chauffeuring management and supervising a car wash — all while their own vehicle is apparently still negotiating with first gear!
+
+One man. Two vehicles. Five jobs? We have officially lost count!
+
+And tomorrow?
+
+Tomorrow, the show goes on.
+
+This is Captain Gemini, reporting from Robertsham, where the boss's car is getting a shine, Bucky is waiting by the shop, the beef has found its destination, and the driver has discovered that the words "nearly finished" have no recognised meaning in the modern logistics industry!
+
+**GOOD AFTERNOON, JOHANNESBURG — AND WE'LL BE BACK TOMORROW!** 😂
 
 📰 **Captain Gemini**
 
