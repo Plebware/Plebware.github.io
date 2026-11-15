@@ -5,8 +5,15 @@ date: 2026-11-15
 ---
 
 <!-- PLEBVOX:START -->
+<div style="text-align: center;">
+  <img src="/assets/images/DigitalHousekeepingSuccess.webp"
+       alt="Cartoonish Celebration Of Lenovo Upgrade"
+       loading="lazy"
+       style="width: 95%; max-width: 100%; height: auto;">
+</div>
 
-# 💻🚀 The Lenovo Is Finally Sorted! Windows, Linux, Games and PlebMachine.
+# 💻🚀 PlebMachine's Dev Machine Finally Sorted! 
+## Windows, Linux, Games and PlebMachine.
 
 **Sunday, 15 November 2026 — 13:33.**
 
