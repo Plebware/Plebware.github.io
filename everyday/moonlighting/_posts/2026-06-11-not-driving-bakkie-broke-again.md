@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Moonlighting as a Driver: When the Wheels Stop Turning"
+title: "Moonlighting as a Driver: When the Wheels Stop Turning!"
 date: 2026-06-11
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🚚 Moonlighting as a Driver: When the Wheels Stop Turning
+# 🚚 Moonlighting as a Driver: When the Wheels Stop Turning!
 
 Since retirement, I have taken on moonlighting work as a driver to supplement our household income. The work is straightforward enough: collect goods from suppliers, transport them safely, and ensure they reach their destination.
 
@@ -18,7 +18,7 @@ Unfortunately, today was one of those days that reminds us that vehicles have mi
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Another R150 Lost
+## 🔑 Another R150 Lost!
 
 Today's work came to an unexpected halt when the company vehicle developed a mechanical problem.
 
@@ -43,13 +43,13 @@ Today, another **R150 disappeared before the day even began.**
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Weekly Route
+## 🔑 The Weekly Route!
 
 My moonlighting work follows a fairly regular schedule.
 
 Each day has its own destinations and challenges.
 
-### Tuesday
+### Tuesday!
 
 The route begins at **City Deep Fresh Produce Market**.
 
@@ -57,7 +57,7 @@ Fresh produce is collected before heading to **Fordsburg China City**, where var
 
 Both locations are busy commercial areas requiring patience, careful driving, and efficient loading.
 
-### Wednesday
+### Wednesday!
 
 Wednesday's route takes us to **Crown Mines**.
 
@@ -65,7 +65,7 @@ The primary destination is **General Supplies Shop B**, where stock and supplies
 
 Traffic can vary greatly, and timing often determines how smoothly the day progresses.
 
-### Thursday
+### Thursday!
 
 Thursday is another Crown Mines day.
 
@@ -73,7 +73,7 @@ This time the destination is **General Supplies Shop A**.
 
 Although similar to Wednesday's route, every day brings different challenges, from stock availability to road conditions.
 
-### Friday
+### Friday!
 
 Friday returns us to the familiar route:
 
@@ -86,7 +86,7 @@ By the end of the week, the route has become second nature, but no two days are 
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Life Behind the Wheel
+## 🔑 Life Behind the Wheel!
 
 Many people imagine driving as simply sitting behind a steering wheel.
 
@@ -108,7 +108,7 @@ Sometimes it is the vehicle itself.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Lessons From Today
+## 🔑 Lessons From Today!
 
 Today's breakdown serves as a reminder that even the best plans can be interrupted.
 
@@ -128,7 +128,7 @@ And the determination to provide for the household will continue.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Final Thoughts
+## 🔑 Final Thoughts!
 
 Moonlighting as a driver is not glamorous work.
 
