@@ -10,13 +10,13 @@ author: "God's Journalist - Cody — Dei Scriptor"
 
 <!-- PLEBVOX:START -->
 
-# **🌱 Seeds of Life and Seeds of Death.**
+# **🌱 Seeds of Life and Seeds of Death.**!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## **🙏 Opening Prayer.**
+## **🙏 Opening Prayer.**!
 
 <!-- PLEBVOX:END -->
 
@@ -34,7 +34,7 @@ Amen. _
 
 <!-- PLEBVOX:START -->
 
-## **🌱 Introduction — What Are We Allowing to Grow?**
+## **🌱 Introduction — What Are We Allowing to Grow?**!
 
 When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what has been sown in his heart.
 
@@ -68,7 +68,7 @@ It is about **what takes root in our hearts.**
 
 <!-- PLEBVOX:START -->
 
-## **❤️ The Heart Is the Soil.**
+## **❤️ The Heart Is the Soil.**!
 
 When the Bible speaks about the **heart**, it is not simply referring to the physical organ that pumps blood through our bodies.
 
@@ -102,7 +102,7 @@ And seeds grow.
 
 <!-- PLEBVOX:START -->
 
-## **🐍 The Seed of the Fall.**
+## **🐍 The Seed of the Fall.**!
 
 The account of Adam and Eve gives us a powerful picture of what happens when God's truth is replaced by deception.
 
@@ -124,7 +124,7 @@ That is why the battle for the heart matters.
 
 <!-- PLEBVOX:START -->
 
-## **🕊️ We Have Not Been Left Alone.**
+## **🕊️ We Have Not Been Left Alone.**!
 
 Jesus has returned to the Father, but He has not left His people alone.
 
@@ -166,9 +166,9 @@ God has given us help.
 
 <!-- PLEBVOX:START -->
 
-## **🔑 Three Keys to Victory.**
+## **🔑 Three Keys to Victory.**!
 
-### **🔑 1. Prayer.**
+### **🔑 1. Prayer.**!
 
 Prayer is not merely something we do after everything else has failed.
 
@@ -180,7 +180,7 @@ And when we cannot find the words, the Holy Spirit helps us.
 
 **Pray before the wrong seed takes root.**
 
-### **🔑 2. Stand.**
+### **🔑 2. Stand.**!
 
 There are moments when we simply have to stand.
 
@@ -200,7 +200,7 @@ Sometimes faith means refusing to move backwards.
 
 **Stand.**
 
-### **🔑 3. Forgive.**
+### **🔑 3. Forgive.**!
 
 Jesus connected forgiveness directly with prayer:
 
@@ -222,7 +222,7 @@ It means refusing to allow the wrong done to us to become the seed that controls
 
 <!-- PLEBVOX:START -->
 
-## **🌾 What Are You Sowing?**
+## **🌾 What Are You Sowing?**!
 
 Paul gives us a simple but profound principle:
 
@@ -258,7 +258,7 @@ The question is:
 
 <!-- PLEBVOX:START -->
 
-## **👂 Pay Attention to What You Hear.**
+## **👂 Pay Attention to What You Hear.**!
 
 Jesus warned His listeners to pay attention to what they hear.
 
@@ -292,7 +292,7 @@ A truth that is forgotten can easily be neglected.
 
 <!-- PLEBVOX:START -->
 
-## **📜 Church History — The Early Church and the Word of God.**
+## **📜 Church History — The Early Church and the Word of God.**!
 
 The earliest Christians understood that the faith had to be deliberately taught, remembered, and passed from one generation to another.
 
@@ -316,7 +316,7 @@ The ancient Christian practice of hearing, remembering, meditating upon, and liv
 
 <!-- PLEBVOX:START -->
 
-## **✍️ Poem — The Seeds We Sow.**
+## **✍️ Poem — The Seeds We Sow.**!
 
 <!-- PLEBVOX:END -->
 
@@ -349,9 +349,9 @@ And let God's life renew your roots.
 
 <!-- PLEBVOX:START -->
 
-## **📖 Three Scriptures for Today.**
+## **📖 Three Scriptures for Today.**!
 
-### **1. Matthew 13:19.**
+### **1. Matthew 13:19.**!
 
 > “When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what has been sown in his heart.”
 
@@ -359,7 +359,7 @@ And let God's life renew your roots.
 
 **Question:** What can I do today to give God's Word deeper roots in my heart?
 
-### **2. James 1:15.**
+### **2. James 1:15.**!
 
 > “When corrupt desire has conceived it gives birth to sin, and sin when it is fully grown brings forth death.”
 
@@ -367,7 +367,7 @@ And let God's life renew your roots.
 
 **Question:** Is there a thought or desire I am allowing to grow that I need to surrender to God?
 
-### **3. Galatians 6:8.**
+### **3. Galatians 6:8.**!
 
 > “The person sowing to his own flesh, of the flesh shall reap corruption; and he who is sowing to the spirit, of the spirit shall reap eternal life.”
 
@@ -379,7 +379,7 @@ And let God's life renew your roots.
 
 <!-- PLEBVOX:START -->
 
-## **🧭 Practical Application — Guard the Soil.**
+## **🧭 Practical Application — Guard the Soil.**!
 
 Today, deliberately examine what you are allowing to take root in your heart.
 
@@ -415,7 +415,7 @@ Do not merely hear the seed.
 
 <!-- PLEBVOX:START -->
 
-## **🏋️ Today's Exercise — Plant One Good Seed.**
+## **🏋️ Today's Exercise — Plant One Good Seed.**!
 
 Choose **one deliberate act of obedience** today.
 
@@ -441,7 +441,7 @@ And then ask:
 
 <!-- PLEBVOX:START -->
 
-## **☁️ From the Heavenly View.**
+## **☁️ From the Heavenly View.**!
 
 From our earthly perspective, a seed can look insignificant.
 
@@ -471,7 +471,7 @@ Trust God with the harvest.
 
 <!-- PLEBVOX:START -->
 
-## **🙏 Closing Prayer.**
+## **🙏 Closing Prayer.**!
 
 <!-- PLEBVOX:END -->
 
@@ -499,7 +499,7 @@ Amen. _
 
 <!-- PLEBVOX:START -->
 
-## **💭 Final Thought.**
+## **💭 Final Thought.**!
 
 Every day, seeds are being planted in us.
 
@@ -523,7 +523,7 @@ And let the Word of God take root.
 
 ---
 
-## **📱 WhatsApp Copy-and-Paste Version.**
+## **📱 WhatsApp Copy-and-Paste Version.**!
 
 ```
 *🌱 Seeds of Life and Seeds of Death.*
