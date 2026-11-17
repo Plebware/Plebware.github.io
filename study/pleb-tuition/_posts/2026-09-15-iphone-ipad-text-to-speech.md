@@ -14,7 +14,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## Welcome To The Apple Side
+## Welcome To The Apple Side!
 
 If you use an iPhone or iPad, you already have powerful speech features built into your device.
 
@@ -30,7 +30,7 @@ In this lesson, we are going to find those features and get them working.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 First — TTS Is Not VoiceOver
+## 🔑 First — TTS Is Not VoiceOver!
 
 This is an important distinction.
 
@@ -51,7 +51,7 @@ You do not need to turn on VoiceOver simply because you want your iPhone or iPad
 
 <!-- PLEBVOX:START -->
 
-## Step 1 — Open Settings
+## Step 1 — Open Settings!
 
 Start with the **Settings** app.
 
@@ -63,7 +63,7 @@ Open it.
 
 <!-- PLEBVOX:START -->
 
-## Step 2 — Open Accessibility
+## Step 2 — Open Accessibility!
 
 Inside Settings, find **Accessibility**.
 
@@ -75,7 +75,7 @@ Tap **Accessibility**.
 
 <!-- PLEBVOX:START -->
 
-## Step 3 — Find Read & Speak
+## Step 3 — Find Read & Speak!
 
 On newer versions of iOS and iPadOS, look for **Read & Speak**.
 
@@ -89,7 +89,7 @@ If you cannot find the exact words, look inside Accessibility for settings relat
 
 <!-- PLEBVOX:START -->
 
-## Step 4 — Turn On Speak Screen
+## Step 4 — Turn On Speak Screen!
 
 Look for **Speak Screen**.
 
@@ -110,7 +110,7 @@ Turn **Speak Screen** on.
 
 <!-- PLEBVOX:START -->
 
-## Step 5 — Try The Two-Finger Gesture
+## Step 5 — Try The Two-Finger Gesture!
 
 Now let us test it.
 
@@ -128,7 +128,7 @@ Your Apple device is now talking to you.
 
 <!-- PLEBVOX:START -->
 
-## Step 6 — Try Speak Selection
+## Step 6 — Try Speak Selection!
 
 There is another useful feature called **Speak Selection**.
 
@@ -166,7 +166,7 @@ That is all you really need to remember for now.
 
 <!-- PLEBVOX:START -->
 
-## Step 7 — Choose Your Voice
+## Step 7 — Choose Your Voice!
 
 Your device can provide different voices and languages.
 
@@ -184,7 +184,7 @@ You can always come back and change it later.
 
 <!-- PLEBVOX:START -->
 
-## Step 8 — Adjust The Speaking Rate
+## Step 8 — Adjust The Speaking Rate!
 
 You can also change how quickly the device speaks.
 
@@ -200,7 +200,7 @@ There is no prize for making your phone speak at maximum speed.
 
 <!-- PLEBVOX:START -->
 
-## Step 9 — Test It
+## Step 9 — Test It!
 
 Let us perform a simple test.
 
@@ -272,7 +272,7 @@ We will look at VoiceOver properly in **Lesson 7 — TalkBack and VoiceOver**.
 
 <!-- PLEBVOX:START -->
 
-## Your iPhone Or iPad TTS Checklist
+## Your iPhone Or iPad TTS Checklist!
 
 Before moving on, see if you can tick these boxes:
 
@@ -291,7 +291,7 @@ If you can tick most of these, you are ready for the next lesson.
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Principle
+## The PlebWare Principle!
 
 You do not need to understand every technical term before you can use the technology.
 
@@ -311,7 +311,7 @@ Your phone or tablet already contains many powerful accessibility tools. The tri
 
 <!-- PLEBVOX:START -->
 
-## Next Lesson
+## Next Lesson!
 
 **Lesson 5 — Choosing and Installing Voices**
 
