@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebWare History and the People Behind It"
+title: "PlebWare History and the People Behind It!"
 date: 2026-10-17
 description: "The story of Plebware's early days, the loss of its original domain, and the small creative partnership rebuilding PlebWare for a new generation."
 category: "about-plebware"
@@ -11,7 +11,7 @@ author: "Otto Brinkmeier"
 
 <!-- PLEBVOX:START -->
 
-# From Plebware to PlebWare: The Skeleton Crew
+# From Plebware to PlebWare: The Skeleton Crew!
 
 Every project has a history, even when that history is scattered across old computers, forgotten websites, archived pages, and memories.
 
@@ -37,7 +37,7 @@ But losing a domain does not automatically erase the ideas that gave it meaning.
 
 The old website belonged to an earlier chapter. Its loss was painful, but it did not mean that the underlying vision had to disappear.
 
-## The Meaning Behind the Name
+## The Meaning Behind the Name!
 
 The name Plebware reaches back to 2006.
 
@@ -81,7 +81,7 @@ The point is not that we can do everything.
 
 The point is that we can still do something.
 
-## A New Online Base of Operations
+## A New Online Base of Operations!
 
 The current PlebWare website is not simply a restoration of the old site. It is a new chapter built on the lessons, interests, and ideas that came before it.
 
@@ -97,7 +97,7 @@ PlebMachine is part of that wider journey: an attempt to make the computer envir
 
 The aim is not to make technology the boss. It is to make technology serve people.
 
-## Rebuilding Without Pretending to Be Finished
+## Rebuilding Without Pretending to Be Finished!
 
 A project rebuilt from the ground up will have rough edges.
 
@@ -109,7 +109,7 @@ That does not excuse carelessness. It means being honest about the stage of deve
 
 We would rather keep learning and correcting our work than pretend to have all the answers.
 
-## The Voyage Continues
+## The Voyage Continues!
 
 The old domain may be gone, but the history behind it still matters.
 
