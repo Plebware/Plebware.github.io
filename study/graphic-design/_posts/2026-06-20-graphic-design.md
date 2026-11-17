@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Graphic Design 101: The Art of Visual Communication"
+title: "Graphic Design 101: The Art of Visual Communication!"
 date: 2026-06-20
 ---
 
@@ -27,7 +27,7 @@ It is about making messages easier to see and remember.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Why Graphic Design Matters
+# 🔑 Why Graphic Design Matters!
 
 Every day we interact with visual design.
 
@@ -52,7 +52,7 @@ A strong design can communicate an idea before a single word is read.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Purpose of Design
+# 🔑 The Purpose of Design!
 
 Before creating a graphic, ask:
 
@@ -71,13 +71,13 @@ A beautiful image without a clear message may fail.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Elements of Graphic Design
+# 🔑 The Elements of Graphic Design!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 1. Line
+## 1. Line!
 
 Lines guide the viewer's attention.
 
@@ -96,7 +96,7 @@ Lines can be straight, curved, thick, thin, or decorative.
 
 <!-- PLEBVOX:START -->
 
-## 2. Shape
+## 2. Shape!
 
 Shapes create visual structure.
 
@@ -115,7 +115,7 @@ Shapes help organize information and create patterns.
 
 <!-- PLEBVOX:START -->
 
-## 3. Colour
+## 3. Colour!
 
 Colour influences how people perceive a design.
 
@@ -134,7 +134,7 @@ A good designer uses colour intentionally.
 
 <!-- PLEBVOX:START -->
 
-## 4. Typography
+## 4. Typography!
 
 Typography is the art of arranging text.
 
@@ -154,7 +154,7 @@ Good typography makes words easier and more enjoyable to read.
 
 <!-- PLEBVOX:START -->
 
-## 5. Images
+## 5. Images!
 
 Images communicate quickly.
 
@@ -173,7 +173,7 @@ The right image strengthens the message.
 
 <!-- PLEBVOX:START -->
 
-## 6. Space
+## 6. Space!
 
 Empty space is important.
 
@@ -187,13 +187,13 @@ Good use of space helps the viewer focus.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Design Principles
+# 🔑 Design Principles!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Balance
+## Balance!
 
 Balance creates visual stability.
 
@@ -205,7 +205,7 @@ A design should not feel like everything is placed on one side.
 
 <!-- PLEBVOX:START -->
 
-## Contrast
+## Contrast!
 
 Contrast helps important elements stand out.
 
@@ -221,7 +221,7 @@ Examples:
 
 <!-- PLEBVOX:START -->
 
-## Alignment
+## Alignment!
 
 Alignment creates order.
 
@@ -233,7 +233,7 @@ Elements should appear connected rather than randomly placed.
 
 <!-- PLEBVOX:START -->
 
-## Repetition
+## Repetition!
 
 Repeating design elements creates consistency.
 
@@ -249,7 +249,7 @@ Examples:
 
 <!-- PLEBVOX:START -->
 
-## Hierarchy
+## Hierarchy!
 
 Visual hierarchy shows what should be noticed first.
 
@@ -265,13 +265,13 @@ A viewer should quickly understand:
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Types of Graphic Design
+# 🔑 Types of Graphic Design!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Logo Design
+## Logo Design!
 
 Creates visual identities for:
 
@@ -288,7 +288,7 @@ A good logo is simple and memorable.
 
 <!-- PLEBVOX:START -->
 
-## Print Design
+## Print Design!
 
 Includes:
 
@@ -306,7 +306,7 @@ Print design considers physical presentation.
 
 <!-- PLEBVOX:START -->
 
-## Digital Design
+## Digital Design!
 
 Created for screens.
 
@@ -323,7 +323,7 @@ Examples:
 
 <!-- PLEBVOX:START -->
 
-## Illustration
+## Illustration!
 
 Uses drawings or artwork to communicate ideas.
 
@@ -340,7 +340,7 @@ Illustration is common in:
 
 <!-- PLEBVOX:START -->
 
-## Branding Design
+## Branding Design!
 
 Branding creates a consistent visual identity.
 
@@ -357,7 +357,7 @@ It includes:
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Graphic Design Tools
+# 🔑 Graphic Design Tools!
 
 Designers use many types of tools.
 
@@ -377,7 +377,7 @@ The tool is less important than understanding design principles.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Learning Graphic Design
+# 🔑 Learning Graphic Design!
 
 Beginners can start by practicing:
 
@@ -395,7 +395,7 @@ The best way to improve is to create regularly.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Graphic Design and Storytelling
+# 🔑 Graphic Design and Storytelling!
 
 Design is a form of visual storytelling.
 
@@ -413,13 +413,13 @@ Great designs communicate without needing long explanations.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Common Beginner Mistakes
+# 🔑 Common Beginner Mistakes!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Too Much Decoration
+## Too Much Decoration!
 
 Adding more does not always improve a design.
 
@@ -431,7 +431,7 @@ Sometimes simplicity is stronger.
 
 <!-- PLEBVOX:START -->
 
-## Too Many Fonts
+## Too Many Fonts!
 
 Using too many fonts can make a design confusing.
 
@@ -443,7 +443,7 @@ Consistency creates professionalism.
 
 <!-- PLEBVOX:START -->
 
-## Ignoring the Audience
+## Ignoring the Audience!
 
 A design should be created for the people who will see it.
 
@@ -453,7 +453,7 @@ A design should be created for the people who will see it.
 
 <!-- PLEBVOX:START -->
 
-## Copying Without Understanding
+## Copying Without Understanding!
 
 Inspiration is useful.
 
@@ -465,7 +465,7 @@ Understanding why something works is better.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Final Thoughts
+# 🔑 Final Thoughts!
 
 Graphic design is the language of visual communication.
 
