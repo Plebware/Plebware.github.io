@@ -2,9 +2,16 @@
 layout: default
 title: "02 - About PlebWare"
 ---
-
+<!-- PLEBVOX:FLIPBOX:START -->
 <!-- PLEBVOX:START -->
+
 # 🔬 PlebWare Under the Microscope
+
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
+
+<!-- PLEBVOX:FLIPBOX:START -->
+<!-- PLEBVOX:START -->
 
 ## Getting to Know PlebWare: Our Purpose, Philosophy and Growing Knowledge Library
 
@@ -16,6 +23,12 @@ Finally, let's take a closer look!
 
 We believe in being open about what we are building, why we are building it, and what we hope it will accomplish. So, let's put PlebWare under the microscope and discover what makes it different.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
+
+<!-- PLEBVOX:FLIPBOX:START -->
+<!-- PLEBVOX:START -->
+
 ## 🌍 What Is PlebWare?
 
 PlebWare is a human-centred publishing, learning and knowledge-sharing environment. It brings together practical information, tutorials, research, creative work and ideas intended to help ordinary people understand technology and make better use of it.
@@ -25,6 +38,12 @@ It is more than a collection of web pages. We are developing a growing online kn
 Our interests include Linux and open-source software, everyday computing, writing, education, research, graphics, music, video, artificial intelligence, personal development and much more.
 
 Whether you are looking for practical guidance, exploring a new interest, researching a difficult question or simply satisfying your curiosity, we want PlebWare to be a place where you can start learning without feeling that you must already know everything.
+
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
+
+<!-- PLEBVOX:FLIPBOX:START -->
+<!-- PLEBVOX:START -->
 
 ## 💙 Our Philosophy: Technology Should Serve People
 
@@ -39,6 +58,12 @@ We believe that useful knowledge should be explained in ways that ordinary peopl
 That means valuing understanding over hype, practical usefulness over fashionable complexity, and human judgement over blind reliance on automated systems.
 
 PlebWare is a work in progress, and we expect to keep learning, testing, correcting and improving along the way.
+
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
+
+<!-- PLEBVOX:FLIPBOX:START -->
+<!-- PLEBVOX:START -->
 
 ## 📚 A Growing Library of Knowledge
 
@@ -57,6 +82,12 @@ Not every visitor will need every subject. That is precisely why organisation an
 
 As PlebWare grows, its categories and subcategories will help visitors move from introductory information towards more specialised material.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
+
+<!-- PLEBVOX:FLIPBOX:START -->
+<!-- PLEBVOX:START -->
+
 ## 💻 How PlebWare Connects With PlebMachine
 
 PlebWare and PlebMachine are related projects, but they have different roles.
@@ -66,6 +97,12 @@ PlebWare is our online publishing and knowledge-sharing environment. PlebMachine
 PlebWare supports that wider vision by providing explanations, learning resources, documentation and development material. It also remains a place to explore subjects beyond the desktop project itself.
 
 Both projects reflect a shared principle: technology should empower people while leaving important decisions in human hands.
+
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
+
+<!-- PLEBVOX:FLIPBOX:START -->
+<!-- PLEBVOX:START -->
 
 ## 🔊 Making Knowledge More Accessible
 
@@ -77,6 +114,12 @@ Accessibility must work in practice, not merely look good on paper. We therefore
 
 We also want our explanations to be approachable. Technical subjects can be complicated enough without making the language unnecessarily complicated too.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
+
+<!-- PLEBVOX:FLIPBOX:START -->
+<!-- PLEBVOX:START -->
+
 ## 🤝 A Human-Directed Approach to Artificial Intelligence
 
 Artificial intelligence can assist with research, writing, coding, troubleshooting and exploring possible solutions. Used thoughtfully, it can help people investigate ideas and work through problems more efficiently.
@@ -87,6 +130,12 @@ At PlebWare, AI is a tool and collaborator, not the owner of the project. Human 
 
 We want to demonstrate that technology can support human creativity and decision-making without replacing personal responsibility.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
+
+<!-- PLEBVOX:FLIPBOX:START -->
+<!-- PLEBVOX:START -->
+
 ## 🔍 Explore, Question and Discover
 
 You do not have to read everything on PlebWare, and you do not have to understand everything on your first visit.
@@ -96,6 +145,12 @@ Start with a subject that interests you. Follow a useful link. Try a tutorial. C
 Some articles provide quick answers; others explore a subject in greater depth. As the knowledge library develops, we will continue working to make the material easier to discover and navigate.
 
 We welcome curiosity, questions, experimentation and the willingness to learn from mistakes. Those are all part of building useful knowledge.
+
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
+
+<!-- PLEBVOX:FLIPBOX:START -->
+<!-- PLEBVOX:START -->
 
 ## 🔬 So, What Will You Discover?
 
@@ -108,6 +163,7 @@ So, whether you came looking for something specific or simply wandered in out of
 **Learn. Build. Create. Share. And never stop asking why.**
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:FLIPBOX:END -->
 
 ---
 
