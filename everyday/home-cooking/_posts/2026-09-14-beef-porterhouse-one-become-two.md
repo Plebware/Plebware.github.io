@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stretching The Porterhouse Steak"
+title: "Stretching The Porterhouse Steak!"
 date: 2026-09-14
 category: "home-cooking"
 tags: [porterhouse, scorpion, supper for two, tasty meal, garlic, budget meal, PlebChow]
@@ -14,9 +14,9 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# **The Porter-Mouse-Steak on Bread**
+# **The Porter-Mouse-Steak on Bread**!
 
-## **Ingredients**
+## **Ingredients**!
 - 295 gram Porterhouse steak
 - 1 small tomato
 - 1 large Habennero Chilli
@@ -32,7 +32,7 @@ author: Otto Brinkmeier
 ----
 <!-- PLEBVOX:START -->
 
-## **Method**
+## **Method**!
 1. Slice porterhouse steak in half, cut into strips and then cut into blocks; sprinkle with tenderiser
 2. Chop onions, chillies, and garlic until finely chopped.
 3. Sear the diced meat in a pot, add the dollop of butter and chopped onion, Chillies, and garlic and continue to braise until tender.
