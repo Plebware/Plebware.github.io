@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When Poverty Meets The System"
+title: "When Poverty Meets The System?"
 date: 2026-08-12
 ---
 
