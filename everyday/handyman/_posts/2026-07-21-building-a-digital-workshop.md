@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building a Digital Workshop: The Essential Free Software Toolkit"
+title: "Building a Digital Workshop: The Essential Free Software Toolkit!"
 category: "handyman"
 author: "The Digital Handy Man"
 date: "2026-07-21"
@@ -8,7 +8,7 @@ tags: ["free-software", "productivity", "linux", "ai", "open-source", "workflow"
 ---
 <!-- PLEBVOX:START -->
 
-# Building a Digital Workshop: The Essential Free Software Toolkit
+# Building a Digital Workshop: The Essential Free Software Toolkit!
 
 Every master craftsperson knows that a toolbox is a living thing. You don't buy a full set of tools at once and call it a day. You acquire them slowly. You learn their weight, their quirks, and their limits. You discard the ones that slow you down and cherish the ones that feel like an extension of your own hands.
 
@@ -20,11 +20,11 @@ This isn't a listicle of "Top 10 Apps to Download." This is a tour of my persona
 
 ---
 
-## 📝 Writing: The Craft of Words
+## 📝 Writing: The Craft of Words!
 
 Writing is the foundation of digital work. Whether you are coding, documenting, or creating content, your words are your raw material. You need a workspace that gets out of your way.
 
-### Obsidian
+### Obsidian!
 **The Local-First Knowledge Base**
 
 Obsidian is not just a note-taking app; it is a way of thinking. It stores your notes as plain Markdown files on your local hard drive—not in some proprietary cloud silo.
@@ -38,7 +38,7 @@ Obsidian is not just a note-taking app; it is a way of thinking. It stores your 
 
 ---
 
-### Zettlr
+### Zettlr!
 **The Academic's Choice**
 
 If Obsidian is the artist's studio, Zettlr is the scholar's library. It is designed for long-form writing and academic research.
@@ -52,7 +52,7 @@ If Obsidian is the artist's studio, Zettlr is the scholar's library. It is desig
 
 ---
 
-### Logseq
+### Logseq!
 **The Outliner's Dream**
 
 Logseq is the newcomer that has disrupted my workflow. It is an open-source, privacy-first knowledge base that operates on the principle of outliner-style note-taking.
@@ -66,11 +66,11 @@ Logseq is the newcomer that has disrupted my workflow. It is an open-source, pri
 
 ---
 
-## 🐧 Linux: The Foundation
+## 🐧 Linux: The Foundation!
 
 You can't have a free software toolkit without a free operating system. Linux is the bedrock upon which this entire workshop is built.
 
-### MX Linux
+### MX Linux!
 **The Reliable Workhorse**
 
 There are hundreds of Linux distributions. MX Linux consistently sits at the top of the DistroWatch rankings for a reason. It is not the flashiest, but it is arguably the most *reliable*.
@@ -84,7 +84,7 @@ There are hundreds of Linux distributions. MX Linux consistently sits at the top
 
 ---
 
-### Synaptic
+### Synaptic!
 **The Package Manager GUI**
 
 Before the "App Store" model took over, we had package managers. Synaptic is the graphical front-end for APT (Debian's package system).
@@ -98,7 +98,7 @@ Before the "App Store" model took over, we had package managers. Synaptic is the
 
 ---
 
-### Timeshift
+### Timeshift!
 **The Safety Net**
 
 Timeshift is essentially "System Restore" for Linux, but better. It takes snapshots of your system files.
@@ -115,11 +115,11 @@ Timeshift is essentially "System Restore" for Linux, but better. It takes snapsh
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🎨 Graphics: Visual Communication
+## 🎨 Graphics: Visual Communication!
 
 Even a command-line warrior needs to create visuals sometimes. Whether it's a diagram, a logo, or a photo edit, these tools cover the bases.
 
-### GIMP
+### GIMP!
 **The Photoshop Alternative**
 
 GIMP (GNU Image Manipulation Program) has been the standard for open-source photo editing for decades.
@@ -133,7 +133,7 @@ GIMP (GNU Image Manipulation Program) has been the standard for open-source phot
 
 ---
 
-### Inkscape
+### Inkscape!
 **The Precision Tool**
 
 Inkscape is to vector graphics (SVG) what GIMP is to raster (JPG/PNG). It is used for logos, diagrams, and illustrations.
@@ -147,7 +147,7 @@ Inkscape is to vector graphics (SVG) what GIMP is to raster (JPG/PNG). It is use
 
 ---
 
-### Upscayl
+### Upscayl!
 **The AI that Respects You**
 
 Most AI image upscalers require you to upload your images to the cloud. Upscayl runs *locally* on your machine using AI models.
@@ -161,11 +161,11 @@ Most AI image upscalers require you to upload your images to the cloud. Upscayl 
 
 ---
 
-## 🤖 AI: The Modern Assistant
+## 🤖 AI: The Modern Assistant!
 
 AI is a powerful tool, but it is also a privacy minefield. These tools allow you to leverage AI while maintaining control.
 
-### ChatGPT (Web Interface)
+### ChatGPT (Web Interface)!
 **The Generalist**
 
 Yes, it is a web app. But the free version of ChatGPT is a staple in my workflow.
@@ -179,7 +179,7 @@ Yes, it is a web app. But the free version of ChatGPT is a staple in my workflow
 
 ---
 
-### LM Studio
+### LM Studio!
 **The Local LLM Hub**
 
 LM Studio is a desktop application that lets you download and run Large Language Models (LLMs) completely offline on your own PC.
@@ -193,7 +193,7 @@ LM Studio is a desktop application that lets you download and run Large Language
 
 ---
 
-### KoboldCpp
+### KoboldCpp!
 **The Storyteller**
 
 KoboldCpp is a specific implementation designed for running LLMs for storytelling and roleplay, but I use it for technical documentation.
@@ -207,11 +207,11 @@ KoboldCpp is a specific implementation designed for running LLMs for storytellin
 
 ---
 
-## 🎥 Media: Content Creation
+## 🎥 Media: Content Creation!
 
 For those moments when you need to record a screen, edit a video, or clean up an audio file.
 
-### OBS Studio
+### OBS Studio!
 **The Broadcaster's Standard**
 
 Open Broadcaster Software (OBS) is the gold standard for screen recording and live streaming.
@@ -225,7 +225,7 @@ Open Broadcaster Software (OBS) is the gold standard for screen recording and li
 
 ---
 
-### Kdenlive
+### Kdenlive!
 **The Video Editor**
 
 Kdenlive is a non-linear video editor that rivals premium software like Premiere Pro.
@@ -239,7 +239,7 @@ Kdenlive is a non-linear video editor that rivals premium software like Premiere
 
 ---
 
-### Audacity
+### Audacity!
 **The Audio Cleaner**
 
 Audacity is the quintessential audio editing tool. It is simple, powerful, and reliable.
@@ -253,11 +253,11 @@ Audacity is the quintessential audio editing tool. It is simple, powerful, and r
 
 ---
 
-## 🌐 Web: Browsing with Intent
+## 🌐 Web: Browsing with Intent!
 
 Your browser is the most important app on your system. It has access to everything. Choose wisely.
 
-### Vivaldi
+### Vivaldi!
 **The Power User's Browser**
 
 Vivaldi is built by the former founder of Opera. It is a Chromium-based browser that prioritizes customization.
@@ -274,7 +274,7 @@ Vivaldi is built by the former founder of Opera. It is a Chromium-based browser 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-### Firefox
+### Firefox!
 **The Defender of the Web**
 
 Firefox is the only major browser not based on Chromium (technically, it uses Gecko). It is the last bastion of real browser competition.
@@ -288,7 +288,7 @@ Firefox is the only major browser not based on Chromium (technically, it uses Ge
 
 ---
 
-## The Assembly Line
+## The Assembly Line!
 
 The tools listed above are not just software; they are **instruments of sovereignty**. Each one allows you to create, repair, or manage your digital life without begging a corporation for permission.
 
