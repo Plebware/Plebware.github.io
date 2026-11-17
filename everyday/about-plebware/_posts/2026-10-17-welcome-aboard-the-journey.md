@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Personal Introduction to PlebWare"
+title: "A Personal Introduction to PlebWare!"
 date: 2026-10-17
 description: "Meet the person behind PlebWare and discover the experiences, challenges, faith, and determination that helped shape its journey."
 category: "about-plebware"
@@ -11,7 +11,7 @@ author: "Otto Brinkmeier"
 
 <!-- PLEBVOX:START -->
 
-# Welcome Aboard the Journey
+# Welcome Aboard the Journey!
 
 Every journey has a beginning. Some begin with a grand plan. Others begin with curiosity, a little opportunity, and the determination to see what is possible.
 
@@ -23,7 +23,7 @@ Welcome aboard.
 
 If you would like to understand the idea behind the name, start with [Who or What Is PlebWare?](/everyday/about-plebware/2026/09/17/who-or-what-is-plebware.html). This personal introduction tells another part of the story: the people, experiences, and values behind the project.
 
-## No Free Lunch — The Beginning
+## No Free Lunch — The Beginning!
 
 In 1999, I discovered the possibilities of having a website on the internet. The opportunity came with a modest allowance of approximately five megabytes of free web space.
 
@@ -47,7 +47,7 @@ The VIC-20 gave way to PCs. My experiments expanded. Websites became projects, p
 
 PlebWare grew out of that continuing journey.
 
-## Out of Necessity and Love
+## Out of Necessity and Love!
 
 I have never pretended that I am a perfect writer.
 
@@ -87,7 +87,7 @@ Equally, a small project created by ordinary people can have genuine value when 
 
 That is the standard I want to keep working towards.
 
-## An Invitation, Not a Claim to Perfection
+## An Invitation, Not a Claim to Perfection!
 
 PlebWare is a work in progress. So am I.
 
