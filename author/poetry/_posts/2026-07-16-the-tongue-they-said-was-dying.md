@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Tongue They Said Was Dying"
+title: "The Tongue They Said Was Dying!"
 date: 2026-07-16
 category: "poetry"
 tags: [afrikaans, language, culture, heritage, south-africa, identity, linguistics]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-#  **"A language does not die while children laugh in it."**
+#  **"A language does not die while children laugh in it."**!
 ```
 Oh Afrikaans
 They called you moribund.
