@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Story Behind PlebMachine Pro — From Personal Need to Context-Aware Desktop"
+title: "The Story Behind PlebMachine Pro — From Personal Need to Context-Aware Desktop!"
 date: 2026-10-10
 category: "plebmachine"
 tags: [plebmachine, plebmachine-pro, linux, xfce, context-aware-desktop, productivity, user-experience, plebware]
@@ -10,11 +10,11 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# PlebMachine Pro
+# PlebMachine Pro!
 
-## Your Computer Should Serve You — Not the Other Way Around
+## Your Computer Should Serve You — Not the Other Way Around!
 
-### The Story Behind PlebMachine Pro
+### The Story Behind PlebMachine Pro!
 
 PlebMachine Pro began as a personal project. I wanted my own computer to work better for me, to make it easier to move between the different activities that fill my day, and to give me a desktop environment that could adapt to the way I work.
 
@@ -26,7 +26,7 @@ This is the story of how that idea developed, what I wanted to achieve, and why 
 
 <!-- PLEBVOX:START -->
 
-## Where It All Began
+## Where It All Began?
 
 My relationship with computers goes back to 1982, when I started using a Commodore VIC-20.
 
@@ -56,7 +56,7 @@ That question became the starting point for PlebMachine.
 
 <!-- PLEBVOX:START -->
 
-## Building Something for Myself
+## Building Something for Myself!
 
 I began experimenting with my own Linux desktop.
 
@@ -117,7 +117,7 @@ That freedom is essential. The user must remain in control.
 
 <!-- PLEBVOX:START -->
 
-## Four Environments, Not One Way of Working
+## Four Environments, Not One Way of Working!
 
 As the project developed, I realised that people don't all want the same kind of desktop experience.
 
@@ -147,7 +147,7 @@ That separation is one of the ideas that makes PlebMachine meaningful to me.
 
 <!-- PLEBVOX:START -->
 
-## Making Room for Beginners and Experienced Users
+## Making Room for Beginners and Experienced Users!
 
 Linux offers enormous flexibility. That's one of its strengths. But for someone who is new to Linux, that flexibility can sometimes be overwhelming. There may be many applications, many options, and many unfamiliar concepts to learn.
 
@@ -169,7 +169,7 @@ PlebMachine is intended to do the former, not the latter.
 
 <!-- PLEBVOX:START -->
 
-## More Than Applications and Shortcuts
+## More Than Applications and Shortcuts!
 
 As PlebMachine developed, I started looking beyond the organisation of applications. We spend a great deal of time at our computers, and our working habits matter too.
 
@@ -191,7 +191,7 @@ And that leads directly to the philosophy that guides PlebMachine:
 
 <!-- PLEBVOX:START -->
 
-## Why This Could Matter to Other People
+## Why This Could Matter to Other People?
 
 As I continued working on PlebMachine, I began to see that this idea wasn't limited to my own workflow.
 
@@ -213,7 +213,7 @@ I can't promise that PlebMachine will suit everyone. No software can do that. Bu
 
 <!-- PLEBVOX:START -->
 
-## Linux Must Remain Linux
+## Linux Must Remain Linux!
 
 There is another principle I consider essential.
 
@@ -233,7 +233,7 @@ I'm taking a practical approach: build for a defined environment, develop the fe
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Connection
+## The PlebWare Connection!
 
 PlebMachine is also connected to a wider project called **PlebWare**.
 
@@ -253,7 +253,7 @@ Together, PlebMachine and PlebWare reflect a broader vision: computing, learning
 
 <!-- PLEBVOX:START -->
 
-## What I've Learned Along the Way
+## What I've Learned Along the Way?
 
 Building PlebMachine has taught me something about the relationship between a person and a computer.
 
@@ -277,7 +277,7 @@ For me, that purpose is simple: to make the computer a more useful, approachable
 
 <!-- PLEBVOX:START -->
 
-## Why I'm Sharing It
+## Why I'm Sharing It?
 
 So why am I sharing PlebMachine with other people?
 
@@ -305,7 +305,7 @@ It was about the relationship between the person and the machine.
 
 <!-- PLEBVOX:START -->
 
-## Further Reading
+## Further Reading!
 
 This article explains the thinking behind PlebMachine Pro and the way its design developed. For the earlier account of the original inspirations behind the project, including Gizmo Central, Portable Apps, and Rainmeter, read [Why I Created PlebMachine?](https://plebware.github.io/developer/plebmachine/2026/08/24/why-i-created-plebmachine.html).
 
