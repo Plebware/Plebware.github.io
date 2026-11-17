@@ -4,14 +4,19 @@ title: "Broadcast Tools"
 date: 2026-09-19
 ---
 
+<!-- PLEBVOX:START -->
 # Mode-Specific Tool for Broadcast
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # Script Breakdown: `{mode}-tools.sh` (Minimalist OBS Dispatcher Variant)
 
 This script is a modified, single-item checklist variation of the **PlebMachine** tool dispatcher. It retains the standard state-checking and dynamic mode detection logic, but restricts the `COGNITIVE` mode GUI interactive selection solely to launching **OBS Studio** across all workspace modes.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Key Functionality
 
 * **Environment Initialisation:** Sets explicit display environment variables (`DISPLAY`, `XAUTHORITY`, and `GDK_BACKEND=x11`) so background triggers can properly instantiate graphical application windows.
@@ -24,18 +29,27 @@ This script is a modified, single-item checklist variation of the **PlebMachine*
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Dependencies
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Core System Utilities
 * **`bash`**: Executable environment required for parameter expansion, arrays (`read -ra`), and string manipulation.
 * **`grep`, `cut`, `tr`, `xargs`**: Parsers used to extract state configuration settings.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### GUI Engine
 * **`zenity`**: Provides the GTK checklist prompt window.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Primary Executables
 The system requires the following core binaries depending on the system state and user selection:
 
+<!-- PLEBVOX:END -->
 | Execution Context | Executables Required |
 | :--- | :--- |
 | **Selected App (`COGNITIVE`)** | `obs` (OBS Studio) |
@@ -172,6 +186,7 @@ done
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Review — 2026-09-20
 
 **Review subject:** Broadcast Tools
@@ -185,3 +200,4 @@ done
 
 **Review date:** 2026-09-20  
 **Review scope:** Documentation, code preservation, description quality, and PlebVox exclusion.\n
+<!-- PLEBVOX:END -->

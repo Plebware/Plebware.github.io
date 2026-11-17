@@ -4,8 +4,10 @@ title: "PlebMachine Control Centre"
 date: 2026-09-19
 ---
 
+<!-- PLEBVOX:START -->
 # Alternately - **PlebMachine Tools**
 
+<!-- PLEBVOX:END -->
 ```
 #!/usr/bin/env python3
 
@@ -304,6 +306,7 @@ if __name__ == "__main__":
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Review — 2026-09-20
 
 **Review subject:** PlebMachine Control Centre
@@ -317,3 +320,5 @@ if __name__ == "__main__":
 
 **Review date:** 2026-09-20  
 **Review scope:** Documentation, code preservation, description quality, and PlebVox exclusion.
+
+<!-- PLEBVOX:END -->

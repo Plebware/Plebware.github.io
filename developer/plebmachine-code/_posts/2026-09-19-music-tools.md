@@ -6,13 +6,18 @@ date: 2026-09-19
 
 
 
+<!-- PLEBVOX:START -->
 # Mode-Specific Tool for Music
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # Script Breakdown: `music-tools.sh` (Dedicated Music Mode Dispatcher)
 
 This script manages application launching specifically for the **Music** operational mode in **PlebMachine**. Unlike the unified multi-mode template, this standalone variant directly defines audio-focused defaults (`Audacity`, `LMMS`, `Mixxx`) and handles execution based on the system state.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Key Functionality
 
 * **Environment Initialization:** Sets explicit display variables (`DISPLAY`, `XAUTHORITY`, and `GDK_BACKEND=x11`) to ensure GUI audio software launches correctly when triggered from hotkeys or background processes.
@@ -24,18 +29,27 @@ This script manages application launching specifically for the **Music** operati
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Dependencies
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Core System Utilities
 * **`bash`**: Executable environment for variable expansions, conditional checks, and array splitting (`read -ra`).
 * **`grep`, `cut`, `tr`, `xargs`**: Parsers used to sanitise settings from `state.conf`.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Dialogue Provider
 * **`zenity`**: Renders the GTK checklist window in `COGNITIVE` mode.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Target Audio Applications
 Depending on user selection in the dialogue menu, the host system requires the following music production binaries installed:
 
+<!-- PLEBVOX:END -->
 | Binary / Command | Software Package / Function |
 | :--- | :--- |
 | **`audacity`** | Multi-track audio editor and recorder (Default App) |
@@ -95,6 +109,7 @@ done
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Review — 2026-09-20
 
 **Review subject:** Music Tools
@@ -108,3 +123,5 @@ done
 
 **Review date:** 2026-09-20  
 **Review scope:** Documentation, code preservation, description quality, and PlebVox exclusion.
+
+<!-- PLEBVOX:END -->

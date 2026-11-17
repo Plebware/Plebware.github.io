@@ -3,6 +3,7 @@ layout: post
 title: "cognitive-pause.sh"
 date: 2026-09-19
 ---
+<!-- PLEBVOX:START -->
 The Cognitive Pause mechanism represents the operational peak of the PlebMachine framework. 
 Designed to grant the user absolute sovereignty over their digital environment, it replaces disruptive, automated context switching with a deliberate tactical pause. 
 By verifying that all current work is safely stored before transition, the system protects against data loss while enforcing an intentional mental reset—ensuring the user enters each dedicated mode with maximum focus, clarity, and zero friction.
@@ -10,6 +11,7 @@ By verifying that all current work is safely stored before transition, the syste
 This shell script serves as a safety modal confirmation dialogue for the COGNITIVE state in PlebMachine. 
 It prompts the user to confirm that all unsaved work is stored before allowing the workstation to change modes.
 
+<!-- PLEBVOX:END -->
 ```
 #!/bin/bash
 # cognitive-pause.sh - Ask user to save work before switching mode
@@ -64,6 +66,7 @@ fi
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Review — 2026-09-20
 
 **Review subject:** Cognitive Pause
@@ -77,3 +80,4 @@ fi
 
 **Review date:** 2026-09-20  
 **Review scope:** Documentation, code preservation, description quality, and PlebVox exclusion.\n
+<!-- PLEBVOX:END -->

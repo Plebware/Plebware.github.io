@@ -6,12 +6,15 @@ date: 2026-09-19
 
 
 
+<!-- PLEBVOX:START -->
 # Script Breakdown: `wallpaper-apply.sh`
 
 This script handles background wallpaper assignment for the **PlebMachine** desktop environment. It validates the target file path and updates the active wallpaper across all connected displays and virtual workspaces.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Key Functionality
 
 * **File Validation:** Verifies that the supplied file path exists (`[ -f "$WALLPAPER" ]`) before attempting any operations; exits with code `1` if the file is missing.
@@ -21,18 +24,27 @@ This script handles background wallpaper assignment for the **PlebMachine** desk
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Dependencies
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Core Utilities
 * **`bash`**: Required for executing shell syntax, loops (`while read`), and conditionals.
 * **`grep`**: Filters the property list returned by `xfconf-query`.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Display & Desktop Tools (At least one required)
 * **`xfconf-query`**: Native configuration tool for XFCE desktop environments (`xfce4-desktop` channel).
 * **`feh`**: X11 image viewer and wallpaper setter used as a lightweight backup utility.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### System Environment
 * **X11 Display Server**: Requires an active graphical session with a running XFCE desktop manager (`xfdesktop`) or an X11 window manager capable of accepting root window backgrounds via `feh`.
+<!-- PLEBVOX:END -->
 ```
 #!/bin/bash
 
@@ -72,6 +84,7 @@ exit 1
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Review — 2026-09-20
 
 **Review subject:** Wallpaper Manager
@@ -85,3 +98,5 @@ exit 1
 
 **Review date:** 2026-09-20  
 **Review scope:** Documentation, code preservation, description quality, and PlebVox exclusion.
+
+<!-- PLEBVOX:END -->

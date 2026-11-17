@@ -4,14 +4,19 @@ title: "Author Tools"
 date: 2026-09-19
 ---
 
+<!-- PLEBVOX:START -->
 # Mode-Specific Tool for Author
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Script Breakdown: `{mode}-tools.sh` (Mode Application Dispatcher)
 
 This script manages software launching when switching between **PlebMachine** operational modes. It dynamically infers its assigned mode based on its script filename, reads system state settings, and either auto-launches a primary application or presents an interactive GUI checklist for selective app launches.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Key Functionality
 
 * **Environment Initialization:** Sets explicit display variables (`DISPLAY`, `XAUTHORITY`, and `GDK_BACKEND=x11`) to ensure graphical applications launch properly when invoked by background processes.
@@ -24,18 +29,27 @@ This script manages software launching when switching between **PlebMachine** op
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Dependencies
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Core System Utilities
 * **`bash`**: Required for array manipulations (`read -ra`), string substitutions (`${app%\"}`), and case matching.
 * **`grep`, `cut`, `tr`, `xargs`**: Used to parse and sanitize settings from `state.conf`.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Dialog Provider
 * **`zenity`**: Provides the GTK `--list --checklist` selection menu in `COGNITIVE` mode.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Target Applications & Packages (Mode Dependent)
 Depending on which modes are used and which apps are selected in the checklist, the host machine requires the relevant binaries installed:
 
+<!-- PLEBVOX:END -->
 | Category / Mode | Associated Binaries / Commands |
 | :--- | :--- |
 | **System & Terminal** | `xfce4-terminal`, `code` (VS Code) |
@@ -177,6 +191,7 @@ done
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Review — 2026-09-20
 
 **Review subject:** Author Tools
@@ -190,3 +205,4 @@ done
 
 **Review date:** 2026-09-20  
 **Review scope:** Documentation, code preservation, description quality, and PlebVox exclusion.\n
+<!-- PLEBVOX:END -->

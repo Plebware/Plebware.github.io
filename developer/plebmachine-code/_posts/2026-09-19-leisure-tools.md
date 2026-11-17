@@ -4,13 +4,18 @@ title: "Leisure Tools"
 date: 2026-09-19
 ---
 
+<!-- PLEBVOX:START -->
 # Mode-Specific Tool for Leisure
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # Script Breakdown: `leisure-tools.sh` (Leisure Mode Tool Dispatcher)
 
 This documentation covers the **Leisure** mode execution flow for the **PlebMachine** tool launcher. Configured with media and entertainment applications, this script handles launching default media tools in `AUTOMATIC` state or rendering an interactive GTK selection dialog in `COGNITIVE` state.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Key Functionality
 
 * **Environment Initialisation:** Exports core display variables (`DISPLAY`, `XAUTHORITY`, and `GDK_BACKEND=x11`) to ensure graphical windows launch properly when invoked via desktop shortcuts or background listeners.
@@ -22,8 +27,11 @@ This documentation covers the **Leisure** mode execution flow for the **PlebMach
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Leisure Mode Configuration
 
+<!-- PLEBVOX:END -->
 | Setting / Target | Assigned Command / Choice | Purpose |
 | :--- | :--- | :--- |
 | **`DEFAULT_APP` (`AUTOMATIC`)** | `vlc` | Immediately launches VLC media player for video or music playback. |
@@ -33,13 +41,18 @@ This documentation covers the **Leisure** mode execution flow for the **PlebMach
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Dependencies
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### System Utilities & GUI Engine
 * **`bash`**: Script processing environment.
 * **`grep`, `cut`, `tr`, `xargs`**: Core POSIX utilities used to parse system state settings.
 * **`zenity`**: Renders GTK dialogue windows for the `COGNITIVE` mode checklist.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Binary Dependencies
 * **`vlc`**: VLC media player executable.
 * **`steam`**: Steam client launcher binary.
@@ -47,6 +60,7 @@ This documentation covers the **Leisure** mode execution flow for the **PlebMach
 
 
 
+<!-- PLEBVOX:END -->
 ```
 
 #!/bin/bash
@@ -104,6 +118,7 @@ done
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Review — 2026-09-20
 
 **Review subject:** Leisure Tools
@@ -117,3 +132,5 @@ done
 
 **Review date:** 2026-09-20  
 **Review scope:** Documentation, code preservation, description quality, and PlebVox exclusion.
+
+<!-- PLEBVOX:END -->
