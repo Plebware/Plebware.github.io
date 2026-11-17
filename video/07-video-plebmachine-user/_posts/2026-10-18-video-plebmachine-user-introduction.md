@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Video PlebMachine User — Mode 07 Introduction and Learning Guide"
+title: "Video PlebMachine User — Mode 07 Introduction and Learning Guide!"
 date: 2026-10-18
 description: "An introduction to Video PlebMachine User, Mode 07 of PlebMachine, and the PlebWare tutorials, tools, and resources that support it."
 category: "video"
