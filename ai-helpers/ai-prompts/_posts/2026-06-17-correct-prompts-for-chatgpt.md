@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Correct Prompts For ChatGPT"
+title: "Correct Prompts For ChatGPT!"
 date: 2026-06-17
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🤖 How To Prompt ChatGPT For Better Results
+# 🤖 How To Prompt ChatGPT For Better Results!
 <div align="center">
 
 <img src="/assets/images/how-to-promp-gpt.png"
@@ -30,7 +30,7 @@ This guide explains how to write prompts that consistently produce useful, detai
 
 <!-- PLEBVOX:START -->
 
-# 🎯 The Golden Rule
+# 🎯 The Golden Rule!
 
 Instead of asking:
 
@@ -60,21 +60,21 @@ The result will be dramatically better.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Seven Parts Of A Great Prompt
+# 🔑 The Seven Parts Of A Great Prompt!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 1. Be Specific
+## 1. Be Specific!
 
 Vague questions produce vague answers.
 
-### Poor Prompt
+### Poor Prompt!
 
 > Write about science fiction.
 
-### Better Prompt
+### Better Prompt!
 
 > Write a 1,500-word article about military science fiction, including examples from classic and modern novels.
 
@@ -91,15 +91,15 @@ The AI now knows:
 
 <!-- PLEBVOX:START -->
 
-## 2. Provide Context
+## 2. Provide Context!
 
 ChatGPT performs best when it understands your situation.
 
-### Poor Prompt
+### Poor Prompt!
 
 > Explain Markdown.
 
-### Better Prompt
+### Better Prompt!
 
 > Explain Markdown to a retired author who publishes articles on GitHub Pages using Jekyll.
 
@@ -111,7 +111,7 @@ Now the answer can be tailored to your needs.
 
 <!-- PLEBVOX:START -->
 
-## 3. Define The Format
+## 3. Define The Format!
 
 Tell ChatGPT exactly how you want the information presented.
 
@@ -126,7 +126,7 @@ Examples:
 * Blog post
 * FAQ
 
-### Example
+### Example!
 
 > Create a Markdown tutorial with step-by-step instructions and code blocks.
 
@@ -136,7 +136,7 @@ Examples:
 
 <!-- PLEBVOX:START -->
 
-## 4. Identify Your Audience
+## 4. Identify Your Audience!
 
 Who will read the content?
 
@@ -150,7 +150,7 @@ Examples:
 * Pensioners
 * Students
 
-### Example
+### Example!
 
 > Explain artificial intelligence to a 12-year-old using simple language and practical examples.
 
@@ -160,11 +160,11 @@ Examples:
 
 <!-- PLEBVOX:START -->
 
-## 5. Specify The Tone
+## 5. Specify The Tone!
 
 The same information can be delivered in many different styles.
 
-### Possible Tones
+### Possible Tones!
 
 📖 Educational
 
@@ -180,7 +180,7 @@ The same information can be delivered in many different styles.
 
 ⚔️ Motivational
 
-### Example
+### Example!
 
 > Write in a friendly and encouraging tone.
 
@@ -190,7 +190,7 @@ The same information can be delivered in many different styles.
 
 <!-- PLEBVOX:START -->
 
-## 6. Add Constraints
+## 6. Add Constraints!
 
 Constraints help the AI focus.
 
@@ -204,7 +204,7 @@ Examples:
 * Use emojis
 * Include Scripture references
 
-### Example
+### Example!
 
 > Create a devotional of at least 2,000 words using Markdown, Scripture references, practical applications, emojis, and a closing prayer.
 
@@ -214,7 +214,7 @@ Examples:
 
 <!-- PLEBVOX:START -->
 
-## 7. Refine The Result
+## 7. Refine The Result!
 
 The first answer does not have to be the final answer.
 
@@ -244,7 +244,7 @@ Each refinement improves the result.
 
 <!-- PLEBVOX:START -->
 
-# 🚀 A Prompt Formula That Almost Always Works
+# 🚀 A Prompt Formula That Almost Always Works!
 
 A simple formula is:
 
@@ -252,9 +252,9 @@ A simple formula is:
 
 <!-- PLEBVOX:START -->
 
-## Role + Task + Context + Format + Constraints
+## Role + Task + Context + Format + Constraints!
 
-### Template
+### Template!
 
 ```text
 Act as a [ROLE].
@@ -277,7 +277,7 @@ Requirements:
 
 <!-- PLEBVOX:START -->
 
-## Example 1: Writing
+## Example 1: Writing!
 
 ```text
 Act as a professional science-fiction editor.
@@ -300,7 +300,7 @@ Identify plot holes, pacing issues, character weaknesses, and suggest improvemen
 
 <!-- PLEBVOX:START -->
 
-## Example 2: Linux
+## Example 2: Linux!
 
 ```text
 Act as an experienced Linux systems administrator.
@@ -323,7 +323,7 @@ Use simple language and include terminal commands.
 
 <!-- PLEBVOX:START -->
 
-## Example 3: Bible Study
+## Example 3: Bible Study!
 
 ```text
 Act as a Bible teacher.
@@ -346,13 +346,13 @@ Include practical applications and historical background.
 
 <!-- PLEBVOX:START -->
 
-# 🔥 Advanced Prompting Techniques
+# 🔥 Advanced Prompting Techniques!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Ask For Examples
+## Ask For Examples!
 
 Instead of:
 
@@ -368,7 +368,7 @@ Try:
 
 <!-- PLEBVOX:START -->
 
-## Ask For Comparisons
+## Ask For Comparisons!
 
 Instead of:
 
@@ -384,7 +384,7 @@ Try:
 
 <!-- PLEBVOX:START -->
 
-## Ask For Step-By-Step Instructions
+## Ask For Step-By-Step Instructions!
 
 Instead of:
 
@@ -400,7 +400,7 @@ Try:
 
 <!-- PLEBVOX:START -->
 
-## Ask The AI To Think Like An Expert
+## Ask The AI To Think Like An Expert!
 
 Examples:
 
@@ -423,13 +423,13 @@ Example:
 
 <!-- PLEBVOX:START -->
 
-# ⚠️ Common Prompting Mistakes
+# ⚠️ Common Prompting Mistakes!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Being Too Vague
+## Being Too Vague!
 
 ❌ Tell me about AI.
 
@@ -441,7 +441,7 @@ Example:
 
 <!-- PLEBVOX:START -->
 
-## Not Defining Output Format
+## Not Defining Output Format!
 
 ❌ Explain Git.
 
@@ -453,7 +453,7 @@ Example:
 
 <!-- PLEBVOX:START -->
 
-## Expecting Mind Reading
+## Expecting Mind Reading!
 
 ChatGPT does not know:
 
@@ -469,7 +469,7 @@ Unless you tell it.
 
 <!-- PLEBVOX:START -->
 
-## Asking Too Many Unrelated Questions
+## Asking Too Many Unrelated Questions!
 
 ❌
 
@@ -488,7 +488,7 @@ Compare cars.
 
 <!-- PLEBVOX:START -->
 
-# 💡 The Secret Most People Miss
+# 💡 The Secret Most People Miss!
 
 ChatGPT works best when treated as a collaborator rather than a search engine.
 
@@ -513,7 +513,7 @@ Each interaction improves the quality of the result.
 
 <!-- PLEBVOX:START -->
 
-# 🎯 Final Thoughts
+# 🎯 Final Thoughts!
 
 The difference between an average answer and an excellent answer often comes down to the prompt.
 
