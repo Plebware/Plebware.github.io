@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bodybuilders Also Get Old"
+title: "Bodybuilders Also Get Old!"
 date: 2026-06-11
 ---
 
@@ -28,7 +28,7 @@ Bodybuilders may get old, but strength training never truly leaves the bloodstre
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The New Reality
+## 🔑 The New Reality!
 
 Many retirees and older adults assume that strength training is behind them.
 
@@ -48,7 +48,7 @@ The goal changes from impressing others to preserving independence and quality o
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Equipment Required
+## 🔑 Equipment Required!
 
 For this workout you need only:
 
@@ -63,7 +63,7 @@ No expensive gym membership required.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Warm-Up (5 Minutes)
+## 🔑 Warm-Up (5 Minutes)!
 
 Before beginning:
 
@@ -80,9 +80,9 @@ Never skip the warm-up.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Chair Squats
+## 🔑 Chair Squats!
 
-### Purpose
+### Purpose!
 
 Strengthens:
 
@@ -90,14 +90,14 @@ Strengthens:
 * Hips
 * Glutes
 
-### How To Perform
+### How To Perform?
 
 1. Stand in front of the chair.
 2. Slowly lower yourself until your backside touches the chair.
 3. Stand back up without using your hands.
 4. Repeat.
 
-### Sets
+### Sets!
 
 * 2 to 3 sets
 * 10 repetitions
@@ -106,16 +106,16 @@ Strengthens:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Seated Dumbbell Press
+## 🔑 Seated Dumbbell Press!
 
-### Purpose
+### Purpose!
 
 Strengthens:
 
 * Shoulders
 * Arms
 
-### How To Perform
+### How To Perform?
 
 1. Sit upright on the chair.
 2. Hold the dumbbell in one hand.
@@ -123,7 +123,7 @@ Strengthens:
 4. Lower slowly.
 5. Repeat on the opposite side.
 
-### Sets
+### Sets!
 
 * 2 sets
 * 10 repetitions per arm
@@ -132,23 +132,23 @@ Strengthens:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Seated Bicep Curls
+## 🔑 Seated Bicep Curls!
 
-### Purpose
+### Purpose!
 
 Strengthens:
 
 * Biceps
 * Forearms
 
-### How To Perform
+### How To Perform?
 
 1. Sit comfortably.
 2. Curl the dumbbell upward.
 3. Lower slowly.
 4. Repeat.
 
-### Sets
+### Sets!
 
 * 2 to 3 sets
 * 12 repetitions per arm
@@ -157,9 +157,9 @@ Strengthens:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Chair Push-Ups
+## 🔑 Chair Push-Ups!
 
-### Purpose
+### Purpose!
 
 Strengthens:
 
@@ -167,14 +167,14 @@ Strengthens:
 * Shoulders
 * Triceps
 
-### How To Perform
+### How To Perform?
 
 1. Place hands on the chair seat.
 2. Walk feet backward.
 3. Lower chest toward the chair.
 4. Push back up.
 
-### Sets
+### Sets!
 
 * 2 sets
 * 8 to 12 repetitions
@@ -183,23 +183,23 @@ Strengthens:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Seated Knee Raises
+## 🔑 Seated Knee Raises!
 
-### Purpose
+### Purpose!
 
 Strengthens:
 
 * Core muscles
 * Hip flexors
 
-### How To Perform
+### How To Perform?
 
 1. Sit upright.
 2. Raise one knee.
 3. Lower.
 4. Alternate sides.
 
-### Sets
+### Sets!
 
 * 2 sets
 * 15 repetitions per leg
@@ -208,9 +208,9 @@ Strengthens:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Dumbbell Farmer's Hold
+## 🔑 Dumbbell Farmer's Hold!
 
-### Purpose
+### Purpose!
 
 Strengthens:
 
@@ -218,7 +218,7 @@ Strengthens:
 * Forearms
 * Core stability
 
-### How To Perform
+### How To Perform?
 
 1. Stand upright.
 2. Hold the dumbbell firmly.
@@ -226,7 +226,7 @@ Strengthens:
 4. Hold for 30 seconds.
 5. Change hands.
 
-### Sets
+### Sets!
 
 * 2 rounds
 
@@ -234,7 +234,7 @@ Strengthens:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Cool Down
+## 🔑 Cool Down!
 
 Spend five minutes:
 
@@ -249,7 +249,7 @@ A proper cool down helps recovery.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Old Bodybuilder's Secret
+## 🔑 The Old Bodybuilder's Secret!
 
 When we were younger, training was often about appearance.
 
@@ -269,7 +269,7 @@ The wisdom is heavier.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Final Thoughts
+## 🔑 Final Thoughts!
 
 No matter your age, movement is medicine.
 
