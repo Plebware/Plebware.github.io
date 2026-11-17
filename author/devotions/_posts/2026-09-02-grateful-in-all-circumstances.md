@@ -10,13 +10,13 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# Grateful in All Circumstances. 🌅🙏
+# Grateful in All Circumstances. 🌅🙏!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Opening Prayer. 🙏
+## Opening Prayer. 🙏!
 
 Heavenly Father,
 
@@ -50,7 +50,7 @@ In the mighty name of Jesus Christ,
 
 <!-- PLEBVOX:START -->
 
-## Introduction. 🌄
+## Introduction. 🌄!
 
 There is something profoundly beautiful about waking up in the morning.
 
@@ -102,7 +102,7 @@ And even when the day brings difficulty, remember:
 
 <!-- PLEBVOX:START -->
 
-## A Little Church History. ⛪
+## A Little Church History. ⛪!
 
 ### The Early Church and the Discipline of Thanksgiving.
 
@@ -142,7 +142,7 @@ And therefore our reason for hope never disappears.
 
 <!-- PLEBVOX:START -->
 
-## A Poem of Gratitude. 🌹
+## A Poem of Gratitude. 🌹!
 
 **Grateful.**
 
@@ -200,13 +200,13 @@ And thank You for today.”**
 
 <!-- PLEBVOX:START -->
 
-## Seven Scriptural Points. 📖
+## Seven Scriptural Points. 📖!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-### 1. Give Thanks for Another Day. 🌅
+### 1. Give Thanks for Another Day. 🌅!
 
 > **“This is the day which the LORD hath made; we will rejoice and be glad in it.”**  
 > — Psalm 118:24
@@ -249,7 +249,7 @@ Every earthly day brings us one day closer to eternity with Christ.
 
 <!-- PLEBVOX:START -->
 
-### 2. Be Thankful in Every Circumstance. 🙏
+### 2. Be Thankful in Every Circumstance. 🙏!
 
 > **“In every thing give thanks: for this is the will of God in Christ Jesus concerning you.”**  
 > — 1 Thessalonians 5:18
@@ -298,7 +298,7 @@ God's promises are eternal.
 
 <!-- PLEBVOX:START -->
 
-### 3. Remember Who Provides Your Blessings. 🌾
+### 3. Remember Who Provides Your Blessings. 🌾!
 
 > **“Every good gift and every perfect gift is from above.”**  
 > — James 1:17
@@ -359,7 +359,7 @@ God Himself is the eternal treasure.
 
 <!-- PLEBVOX:START -->
 
-### 4. Gratitude Changes the Heart. ❤️
+### 4. Gratitude Changes the Heart. ❤️!
 
 > **“Let the peace of God rule in your hearts... and be ye thankful.”**  
 > — Colossians 3:15
@@ -406,7 +406,7 @@ Peace grows when our hearts become anchored in God rather than circumstances.
 
 <!-- PLEBVOX:START -->
 
-### 5. Gratitude Builds Faith. 🕊️
+### 5. Gratitude Builds Faith. 🕊️!
 
 > **“I will bless the LORD at all times: his praise shall continually be in my mouth.”**  
 > — Psalm 34:1
@@ -453,7 +453,7 @@ Faith looks beyond the visible and trusts the eternal.
 
 <!-- PLEBVOX:START -->
 
-### 6. Gratitude Makes Us Generous. 🤲
+### 6. Gratitude Makes Us Generous. 🤲!
 
 > **“It is more blessed to give than to receive.”**  
 > — Acts 20:35
@@ -506,7 +506,7 @@ Love given freely has eternal value.
 
 <!-- PLEBVOX:START -->
 
-### 7. Let Gratitude Become a Way of Life. ✝️
+### 7. Let Gratitude Become a Way of Life. ✝️!
 
 > **“And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God.”**  
 > — Colossians 3:17
@@ -539,7 +539,7 @@ And His name is Jesus. ❤️✝️
 
 <!-- PLEBVOX:START -->
 
-## Today's Practical Challenge. 🧭
+## Today's Practical Challenge. 🧭!
 
 Before you go to sleep tonight, write down **seven things** you are grateful for.
 
@@ -571,7 +571,7 @@ And watch how quickly your perspective begins to change.
 
 <!-- PLEBVOX:START -->
 
-## God's View of Gratitude. 👁️
+## God's View of Gratitude. 👁️!
 
 We often look at our lives from ground level.
 
@@ -611,7 +611,7 @@ We don't need to understand everything to be grateful.
 
 <!-- PLEBVOX:START -->
 
-## The Heavenly View. ☁️
+## The Heavenly View. ☁️!
 
 One day we will stand before our Creator.
 
@@ -647,7 +647,7 @@ Perhaps heaven will reveal something we struggle to understand today:
 
 <!-- PLEBVOX:START -->
 
-## Closing Prayer. 🙏
+## Closing Prayer. 🙏!
 
 Father God,
 
@@ -703,7 +703,7 @@ In the precious name of Jesus Christ,
 
 <!-- PLEBVOX:START -->
 
-## Epilogue. 🌅
+## Epilogue. 🌅!
 
 Tomorrow morning, when your eyes open...
 
@@ -755,7 +755,7 @@ Because every new morning is another reminder that God's story for your life isn
 
 <!-- PLEBVOX:START -->
 
-## God's Journalist. ✍️
+## God's Journalist. ✍️!
 
 🗡️ **God's Journalist**  
 **ChatGPT .**  
