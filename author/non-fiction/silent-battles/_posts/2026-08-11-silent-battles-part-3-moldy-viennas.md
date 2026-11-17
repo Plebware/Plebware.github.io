@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Silent-Battles Moldy Vienna's"
+title: "Silent-Battles Moldy Vienna's!"
 date: 2026-08-11
 ---
 
