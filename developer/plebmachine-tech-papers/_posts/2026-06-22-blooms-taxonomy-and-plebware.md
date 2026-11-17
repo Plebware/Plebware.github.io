@@ -1,24 +1,24 @@
 ---
 layout: post
-title: "PlebMachine White Paper: Bloom's Taxonomy As A Foundation For A Creative Learning System"
+title: "PlebMachine White Paper: Bloom's Taxonomy As A Foundation For A Creative Learning System!"
 date: 2026-06-22
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🧠 PlebMachine White Paper
+# 🧠 PlebMachine White Paper!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🌱 Building A Knowledge Ecosystem Inspired By Bloom's Taxonomy
+## 🌱 Building A Knowledge Ecosystem Inspired By Bloom's Taxonomy!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Introduction
+## 🔑 Introduction!
 
 PlebMachine is not designed merely as a collection of applications, scripts, or desktop tools.
 
@@ -65,7 +65,7 @@ This idea strongly influences how PlebWare and PlebMachine are structured.
 
 <!-- PLEBVOX:START -->
 
-# 🖥️ PlebMachine As A Learning Operating Environment
+# 🖥️ PlebMachine As A Learning Operating Environment!
 
 Traditional operating systems focus on:
 
@@ -104,13 +104,13 @@ Each mode becomes a learning pathway.
 
 <!-- PLEBVOX:START -->
 
-# 🔄 Bloom's Cognitive Levels And PlebMachine
+# 🔄 Bloom's Cognitive Levels And PlebMachine!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 1. 📝 Remember — Information Storage
+## 1. 📝 Remember — Information Storage!
 
 The first stage is collecting information.
 
@@ -137,7 +137,7 @@ The knowledge exists.
 
 <!-- PLEBVOX:START -->
 
-## 2. 💡 Understand — Making Meaning
+## 2. 💡 Understand — Making Meaning!
 
 Information becomes useful when it is understood.
 
@@ -163,7 +163,7 @@ becomes:
 
 <!-- PLEBVOX:START -->
 
-## 3. 🛠️ Apply — Turning Knowledge Into Action
+## 3. 🛠️ Apply — Turning Knowledge Into Action!
 
 Knowledge becomes skill when it is used.
 
@@ -185,7 +185,7 @@ It becomes a tool.
 
 <!-- PLEBVOX:START -->
 
-## 4. 🔍 Analyse — Understanding Systems
+## 4. 🔍 Analyse — Understanding Systems!
 
 Higher learning requires seeing relationships.
 
@@ -207,7 +207,7 @@ This is where the user asks:
 
 <!-- PLEBVOX:START -->
 
-## 5. ⚖️ Evaluate — Improving And Refining
+## 5. ⚖️ Evaluate — Improving And Refining!
 
 Creation requires judgement.
 
@@ -227,7 +227,7 @@ A project evolves.
 
 <!-- PLEBVOX:START -->
 
-## 6. 🎨 Create — The Ultimate Goal
+## 6. 🎨 Create — The Ultimate Goal!
 
 The highest level is creation.
 
@@ -253,7 +253,7 @@ It is about producing something new.
 
 <!-- PLEBVOX:START -->
 
-# ❤️ The Affective Domain — Values And Purpose
+# ❤️ The Affective Domain — Values And Purpose!
 
 Bloom also described the emotional side of learning.
 
@@ -281,7 +281,7 @@ Technology becomes a tool for meaningful work.
 
 <!-- PLEBVOX:START -->
 
-# 🛠️ The Psychomotor Domain — Learning By Doing
+# 🛠️ The Psychomotor Domain — Learning By Doing!
 
 A computer is an instrument.
 
@@ -309,7 +309,7 @@ to:
 
 <!-- PLEBVOX:START -->
 
-# 🌐 Connection To PlebWare.github.io
+# 🌐 Connection To PlebWare.github.io!
 
 PlebWare acts as the publishing and education layer.
 
@@ -335,13 +335,13 @@ PlebWare documents the journey:
 
 <!-- PLEBVOX:START -->
 
-# 🏗️ PlebMachine + PlebWare Architecture
+# 🏗️ PlebMachine + PlebWare Architecture!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## PlebMachine
+## PlebMachine!
 
 The workshop:
 
@@ -355,7 +355,7 @@ The workshop:
 
 <!-- PLEBVOX:START -->
 
-## PlebWare
+## PlebWare!
 
 The knowledge centre:
 
@@ -373,7 +373,7 @@ Together they create a complete ecosystem.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Bigger Vision
+# 🔑 The Bigger Vision!
 
 Many computer systems are designed around applications.
 
@@ -393,7 +393,7 @@ to:
 
 <!-- PLEBVOX:START -->
 
-# 🚀 Conclusion
+# 🚀 Conclusion!
 
 Bloom's Taxonomy teaches that learning is a journey.
 
