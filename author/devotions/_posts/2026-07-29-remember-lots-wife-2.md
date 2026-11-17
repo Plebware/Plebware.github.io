@@ -1,6 +1,5 @@
 ---
 layout: post
-layout: post
 title: "Remember Lot's Wife - 2"
 date: 2026-07-29
 category: "devotions"
