@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Six Days Missed Yet Still Writing"
+title: "Six Days Missed Yet Still Writing!"
 date: 2026-06-17
 ---
 
 <!-- PLEBVOX:START -->
 
-# 📰 No Work No Pay! 2026-06-17  
+# 📰 No Work No Pay! 2026-06-17!  
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 📖 Local Journal Update  
-### Missed Six Days — Yet Still Writing
+## 📖 Local Journal Update!  
+### Missed Six Days — Yet Still Writing!
 
 The past few weeks have continued to be financially challenging.
 
@@ -35,7 +35,7 @@ Over roughly ten weeks, these interruptions have resulted in approximately:
 
 <!-- PLEBVOX:START -->
 
-## 💰 Total Lost Income: R1,500.00
+## 💰 Total Lost Income: R1,500.00!
 
 For a pensioner trying to make ends meet while pursuing writing, technology projects, and freelance work, every rand matters.
 
@@ -45,7 +45,7 @@ For a pensioner trying to make ends meet while pursuing writing, technology proj
 
 <!-- PLEBVOX:START -->
 
-# ✍️ The Calling Continues
+# ✍️ The Calling Continues!
 
 Despite the setbacks, another day has arrived, and with it comes another opportunity to write.
 
@@ -75,7 +75,7 @@ The PlebWare and PlebMachine projects still need to move forward.
 
 <!-- PLEBVOX:START -->
 
-# 🔄 The Multi-Tasking Dilemma
+# 🔄 The Multi-Tasking Dilemma!
 
 Anyone who knows me knows that I am generally opposed to multitasking.
 
@@ -111,7 +111,7 @@ Quantity should never require sacrificing quality.
 
 <!-- PLEBVOX:START -->
 
-# 💻 Today’s Focus
+# 💻 Today’s Focus!
 
 Today I am continuing work on:
 
