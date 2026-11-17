@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "My Journey Towards GIMP"
+title: "My Journey Towards GIMP!"
 date: 2026-07-02
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🎨 My Graphic Design Journey
+# 🎨 My Graphic Design Journey!
 
 > *"Every picture tells a story. My goal is to ensure that story begins before the first word is ever read."*
 
@@ -16,7 +16,7 @@ date: 2026-07-02
 
 <!-- PLEBVOX:START -->
 
-## 🖌️ A Lifelong Passion
+## 🖌️ A Lifelong Passion!
 
 I have always loved creating graphics.
 
@@ -30,7 +30,7 @@ In many ways, graphics are the first handshake between a project and its viewers
 
 <!-- PLEBVOX:START -->
 
-## 🌟 What You'll Find Here
+## 🌟 What You'll Find Here!
 
 This section of my website explores both the creative and practical sides of graphic design.
 
@@ -46,7 +46,7 @@ Those looking for freelance design work will also find examples of the services 
 
 <!-- PLEBVOX:START -->
 
-## 💾 Where It All Began
+## 💾 Where It All Began!
 
 Looking back, my journey into graphic design began with one of the simplest programs imaginable—**Microsoft Paint**.
 
@@ -62,7 +62,7 @@ Eventually I discovered **GIMP**, and it has remained my primary graphics editor
 
 <!-- PLEBVOX:START -->
 
-## 🐧 Why I Choose Open Source
+## 🐧 Why I Choose Open Source!
 
 Readers looking for Photoshop tutorials will probably be disappointed.
 
@@ -78,7 +78,7 @@ My work is therefore centred around applications such as **GIMP**, **Inkscape**,
 
 <!-- PLEBVOX:START -->
 
-## ✨ More Than Just Pictures
+## ✨ More Than Just Pictures!
 
 As I write these articles, I find myself both reminiscing about the past and looking towards the future. Graphic design has been a constant companion throughout my creative journey, evolving from a simple hobby into an important part of my work as an author, publisher, and educator.
 
@@ -92,7 +92,7 @@ Every image I create is another opportunity to tell a story.
 
 <!-- PLEBVOX:START -->
 
-# 🤖 AI as My Digital Sketchbook
+# 🤖 AI as My Digital Sketchbook!
 
 In recent years, artificial intelligence has become an invaluable part of my creative workflow. Rather than replacing my creativity, it has expanded it.
 
@@ -106,7 +106,7 @@ However, I rarely consider an AI-generated image to be a finished piece. Instead
 
 <!-- PLEBVOX:START -->
 
-## 🎨 From AI Concept to Finished Artwork
+## 🎨 From AI Concept to Finished Artwork!
 
 Once I have settled on a concept that captures the vision in my mind, I import the artwork into **GIMP**, **Inkscape**, and other graphics applications where the real craftsmanship begins.
 
@@ -122,7 +122,7 @@ The finished artwork becomes mine through refinement, editing, and countless cre
 
 <!-- PLEBVOX:START -->
 
-## ✍️ Today I Paint With Words
+## ✍️ Today I Paint With Words!
 
 In many respects, my artistic process has evolved.
 
@@ -138,7 +138,7 @@ Through carefully written prompts I guide an AI towards the vision I have in my 
 
 <!-- PLEBVOX:START -->
 
-## 🛠️ AI Is a Tool—Not the Artist
+## 🛠️ AI Is a Tool—Not the Artist!
 
 To me, AI is neither a shortcut nor a replacement for artistic ability.
 
@@ -156,7 +156,7 @@ My goal is to transform ideas into finished artwork that tells a story, communic
 
 <!-- PLEBVOX:START -->
 
-## 🔑 My Creative Philosophy
+## 🔑 My Creative Philosophy!
 
 Today, I still paint.
 
