@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Why Cookbooks Matter"
+title: "Why Cookbooks Matter?"
 date: 2024-06-07
 ---
 <!-- PLEBVOX:START -->
 
-# Why Cookbooks Matter
+# Why Cookbooks Matter?
 
-## More Than Collections of Recipes
+## More Than Collections of Recipes!
 
 A cookbook is often seen as nothing more than a collection of recipes.
 
@@ -26,7 +26,7 @@ Every recipe has a history, whether it comes from a family kitchen, a local comm
 ----
 <!-- PLEBVOX:START -->
 
-## Food as Storytelling
+## Food as Storytelling!
 
 Food is deeply connected to human experience.
 
@@ -61,7 +61,7 @@ Each purpose adds value to future readers.
 ----
 <!-- PLEBVOX:START -->
 
-## The Author's Role
+## The Author's Role!
 
 A cookbook author is more than a recipe collector.
 
@@ -83,7 +83,7 @@ Clarity matters.
 ----
 <!-- PLEBVOX:START -->
 
-## The PlebWare Perspective
+## The PlebWare Perspective!
 
 PlebWare views cookbooks as educational publishing.
 
@@ -132,7 +132,7 @@ It allows future generations to benefit from the experience, creativity, and tra
 
 Documentation transforms memory into legacy.
 
-## Closing Thought
+## Closing Thought!
 
 A recipe teaches someone how to prepare a meal.
 
