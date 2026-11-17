@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Raid Shadow Legends: A Casual Strategy Gamer's Perspective"
+title: "Raid Shadow Legends: A Casual Strategy Gamer's Perspective!"
 date: 2024-01-01
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 **Raid Shadow Legends**: A Casual Strategy Gamer's Perspective
+# 🔑 **Raid Shadow Legends**: A Casual Strategy Gamer's Perspective!
 
 While waiting for a pot of soup to cook and listening to Marti Talbott's Highlander omnibus on Google Play Books, I decided to spend some time in one of my favourite modern strategy games:
 
@@ -16,7 +16,7 @@ While waiting for a pot of soup to cook and listening to Marti Talbott's Highlan
 
 ## Raid Shadow Legends.
 
-### 🔑 First Impressions
+### 🔑 First Impressions!
 
 I've always enjoyed strategy games.
 
@@ -28,7 +28,7 @@ Rather than commanding armies, players assemble teams of champions, each with un
 
 Success comes from understanding champion synergy and carefully planning progression.
 
-### 🔑 Today's Session
+### 🔑 Today's Session!
 
 Today's session started with the usual daily routine:
 
@@ -61,7 +61,7 @@ Waiting for food to cook
 Taking a break from writing
 Relaxing after work
 
-### 🔑 The Downsides
+### 🔑 The Downsides!
 
 Like many free-to-play games, progression can sometimes feel slow.
 
@@ -71,7 +71,7 @@ Some events can feel repetitive, especially for long-term players.
 
 However, for casual strategy enthusiasts, there remains enough variety to keep things interesting.
 
-### 🔑 Final Verdict
+### 🔑 Final Verdict!
 
 **Score: 8/10**
 
