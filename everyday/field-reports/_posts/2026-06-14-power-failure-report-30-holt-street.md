@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Powerless at 30 Holt Street"
+title: "Powerless at 30 Holt Street!"
 date: 2026-06-14
 ---
 
 <!-- PLEBVOX:START -->
 
-# ⚠️ Incident Report: Ongoing Power Failure at 30 Holt Street
+# ⚠️ Incident Report: Ongoing Power Failure at 30 Holt Street!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 📅 Date
+## 📅 Date!
 
 14 June 2026
 
@@ -20,7 +20,7 @@ date: 2026-06-14
 
 <!-- PLEBVOX:START -->
 
-## 📍 Location
+## 📍 Location!
 
 30 Holt Street
 
@@ -28,7 +28,7 @@ date: 2026-06-14
 
 <!-- PLEBVOX:START -->
 
-## 🔍 Summary
+## 🔍 Summary!
 
 A power failure occurred on the property during the evening of 13 June 2026 and has continued into 14 June 2026.
 
@@ -40,7 +40,7 @@ As of the time of writing, electrical service has not yet been restored.
 
 <!-- PLEBVOX:START -->
 
-## 💡 Impact on Residents
+## 💡 Impact on Residents!
 
 The outage has resulted in:
 
@@ -55,7 +55,7 @@ The outage has resulted in:
 
 <!-- PLEBVOX:START -->
 
-## 💻 Personal Impact
+## 💻 Personal Impact!
 
 As a writer and computer user, I rely heavily on electricity for:
 
@@ -70,7 +70,7 @@ Fortunately, my laptop battery remains at approximately **89%**, allowing limite
 
 <!-- PLEBVOX:START -->
 
-## 😠 Resident Sentiment
+## 😠 Resident Sentiment!
 
 The mood among residents is understandably negative. Many people are upset by the continued outage, particularly due to the uncertainty surrounding when power will be restored.
 
@@ -80,7 +80,7 @@ Personally, I am extremely frustrated by what appears to be a recurring pattern 
 
 <!-- PLEBVOX:START -->
 
-## 📌 Current Status
+## 📌 Current Status!
 
 * ⚡ Power: OFF
 * 🔋 Laptop Battery: 89%
@@ -91,7 +91,7 @@ Personally, I am extremely frustrated by what appears to be a recurring pattern 
 
 <!-- PLEBVOX:START -->
 
-## 📝 Conclusion
+## 📝 Conclusion!
 
 The ongoing power failure at 30 Holt Street has once again highlighted the vulnerability of residents to electrical disruptions. Until power is restored, residents remain inconvenienced and unable to conduct normal daily activities.
 
