@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "The Search for a Smile"
+title: "The Search for a Smile!"
 date: 2026-07-08
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Searching For Joy 
+# 🔑 Searching For Joy! 
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🌾 Summary Poem — The Search for a Smile 
+## 🌾 Summary Poem — The Search for a Smile! 
 
 ```
 I searched for joy in yesterday,
@@ -45,7 +45,7 @@ Until His joy becomes my rhyme.
 
 <!-- PLEBVOX:START -->
 
-## 🙏 Opening Prayer 
+## 🙏 Opening Prayer! 
 
  Heavenly Father, when our hearts grow weary, our minds fall silent and our eyes see only the shadows around us, teach us to notice Your gentle fingerprints in ordinary moments, strengthen our faith when joy feels distant, help us to continue trusting You one step at a time, and remind us that even when we cannot feel Your presence, You are already working for our good through Christ our Lord, Amen. 
 
@@ -55,7 +55,7 @@ Until His joy becomes my rhyme.
 
 <!-- PLEBVOX:START -->
 
-## 📖 Introduction 
+## 📖 Introduction! 
 
 "This morning I sat staring at a blank page. For the first time in a long time, I wanted to write something joyful. The trouble was, I couldn't remember what joy felt like."
 
@@ -107,7 +107,7 @@ Continue.
 
 <!-- PLEBVOX:START -->
 
-## ✝️ A Lesson from Church History 
+## ✝️ A Lesson from Church History! 
 
 Many Christians know the name of John Bunyan.
 
@@ -158,7 +158,7 @@ Jesus said:
 
 <!-- PLEBVOX:START -->
 
-## 🙏 Closing Prayer 
+## 🙏 Closing Prayer! 
 
  Gracious Father, thank You for meeting us in ordinary places, for speaking through winter mornings, singing birds, unexpected reminders and quiet moments of reflection; help us to continue when our strength is small, to trust You when our smiles are slow to return, to remember that Your mercies are new every morning, and to walk faithfully with our eyes fixed on Jesus until the day our searching gives way to everlasting joy, in His precious name we pray, Amen.
 
