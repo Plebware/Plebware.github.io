@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Middle Age Crisis"
+title: "Middle Age Crisis!"
 date: 2026-09-11
 category: "news"
 tags: [otto-brinkmeier, railway, computers, spectravideo, 0tronix-developments, midlife-crisis, personal-history]
