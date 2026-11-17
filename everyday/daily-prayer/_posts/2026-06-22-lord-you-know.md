@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "God Help Us"
+title: "God Help Us!"
 date: 2026-06-22
 ---
 
 <!-- PLEBVOX:START -->
 
-# Father God, I Need Intervention
+# Father God, I Need Intervention!
 
 <img src="assets/images/lord-i-need-you.png"
      alt="Lord I Need You"
