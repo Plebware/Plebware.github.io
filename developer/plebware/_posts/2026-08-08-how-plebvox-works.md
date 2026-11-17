@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "How PlebVox Works"
+title: "How PlebVox Works?"
 date: 2026-08-08
 ---
 
 <!-- PLEBVOX:START -->
 
-## Introduction
+## Introduction!
 
 PlebVox is PlebWare's Read Aloud system, designed to give visitors another way to experience the articles published on the PlebWare website.
 
@@ -24,7 +24,7 @@ Its philosophy is simple:
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Background
+## Background!
 
 PlebWare has grown into a large collection of articles covering technology, Linux, artificial intelligence, research, writing, graphics, music, video, broadcasting, accounting, leisure, and everyday life.
 
@@ -44,7 +44,7 @@ PlebVox simply gives PlebWare a practical interface for using that ability.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## The Problem
+## The Problem!
 
 At first, text-to-speech appears remarkably simple.
 
@@ -87,7 +87,7 @@ That became one of the central design principles of the project.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Our Solution
+## Our Solution!
 
 PlebVox acts as a lightweight JavaScript layer between the PlebWare article and the browser's speech synthesis system.
 
@@ -141,7 +141,7 @@ PlebVox does not need to guess which parts of the webpage constitute the article
 The article tells it.
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Implementation
+## Implementation!
 
 PlebVox is implemented primarily in JavaScript and operates within the browser.
 
@@ -159,7 +159,7 @@ These include:
 * The text currently being spoken.
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Article Detection
+### Article Detection!
 
 The `PLEBVOX:START` and `PLEBVOX:END` markers provide the foundation for article detection.
 
@@ -170,7 +170,7 @@ This makes the system more predictable and gives the website author control over
 It also means that changes to the surrounding website interface do not necessarily affect the reading content.
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Voice Detection
+### Voice Detection!
 
 PlebVox asks the browser for the voices available on the user's device.
 
@@ -183,7 +183,7 @@ PlebVox therefore works with whatever suitable voices the browser makes availabl
 This allows the same website to function across different platforms without requiring PlebWare to provide its own collection of audio voices.
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Speech Rate
+### Speech Rate!
 
 PlebVox provides control over the speed at which the article is spoken.
 
@@ -194,7 +194,7 @@ Some may prefer slower speech when studying a technical article, while others ma
 Giving the reader control over speech rate makes the feature considerably more useful.
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Play, Pause and Resume
+### Play, Pause and Resume!
 
 PlebVox treats reading as a process with a state rather than simply issuing one speech command.
 
@@ -209,7 +209,7 @@ The system needs to know whether the reader is:
 This state-based approach is particularly important when dealing with longer articles.
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Long Articles
+### Long Articles!
 
 Long passages of text can create additional problems for browser speech engines.
 
@@ -256,7 +256,7 @@ The browser turns that content into speech when requested.
 This approach keeps the system simple and makes it possible to add Read Aloud functionality to a growing library without creating an audio file for every page.
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Accessibility and Convenience
+## Accessibility and Convenience!
 
 Read Aloud can be useful for accessibility, but its usefulness extends beyond accessibility alone.
 
@@ -275,7 +275,7 @@ PlebVox does not replace reading.
 It adds listening.
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## The PlebWare Approach
+## The PlebWare Approach!
 
 PlebVox is also an example of how PlebWare projects are developed.
 
@@ -304,7 +304,7 @@ It is part of software development.
 Every incompatibility teaches us something about the environment in which the software operates.
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Conclusion
+## Conclusion!
 
 PlebVox began with a simple question:
 
