@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Frustrations"
+title: "Frustrations!"
 date: 2026-06-08
 ---
 
 <!-- PLEBVOX:START -->
 
-# Where Does Frustration End And Depression Start
+# Where Does Frustration End And Depression Start?
 
 Every human being has a breaking point.
 
