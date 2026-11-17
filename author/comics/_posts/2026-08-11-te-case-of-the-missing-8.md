@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Case of the Missing 8"
+title: "The Case of the Missing 8!"
 date: 2026-08-11
 ---
 
@@ -100,7 +100,7 @@ And that, dear reader, is how a man can sit freezing outside a shop while everyb
 
 <!-- PLEBVOX:START -->
 
-## 😂 The Moral of the Story
+## 😂 The Moral of the Story!
 
 Sometimes the problem isn't the message.
 
@@ -144,7 +144,7 @@ And when necessary...
 
 <!-- PLEBVOX:START -->
 
-## 🌧️ A Cold Morning Reminder
+## 🌧️ A Cold Morning Reminder!
 
 This particular morning added another layer to the comedy.
 
@@ -170,7 +170,7 @@ My pride wasn't.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 A Little Wisdom
+## 🔑 A Little Wisdom!
 
 There is no shame in making a silly mistake.
 
@@ -200,7 +200,7 @@ With your glasses.
 
 <!-- PLEBVOX:START -->
 
-## 🙏 A Thought for Today
+## 🙏 A Thought for Today!
 
 Before reacting to something today, take a moment to make sure you have actually understood it.
 
