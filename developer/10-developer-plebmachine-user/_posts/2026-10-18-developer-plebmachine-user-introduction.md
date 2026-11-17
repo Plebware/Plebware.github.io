@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Developer PlebMachine User — Mode 10 Introduction and Learning Guide"
+title: "Developer PlebMachine User — Mode 10 Introduction and Learning Guide!"
 date: 2026-10-18
 description: "An introduction to Developer PlebMachine User, Mode 10 of PlebMachine, and the PlebWare tutorials, tools, and resources that support it."
 category: "developer"
