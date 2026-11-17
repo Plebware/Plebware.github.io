@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Leisure Tools"
+title: "Leisure Tools!"
 date: 2026-09-19
 ---
 
 <!-- PLEBVOX:START -->
-# Mode-Specific Tool for Leisure
+# Mode-Specific Tool for Leisure!
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-# Script Breakdown: `leisure-tools.sh` (Leisure Mode Tool Dispatcher)
+# Script Breakdown: `leisure-tools.sh` (Leisure Mode Tool Dispatcher)!
 
 This documentation covers the **Leisure** mode execution flow for the **PlebMachine** tool launcher. Configured with media and entertainment applications, this script handles launching default media tools in `AUTOMATIC` state or rendering an interactive GTK selection dialog in `COGNITIVE` state.
 
@@ -16,7 +16,7 @@ This documentation covers the **Leisure** mode execution flow for the **PlebMach
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Key Functionality
+## Key Functionality!
 
 * **Environment Initialisation:** Exports core display variables (`DISPLAY`, `XAUTHORITY`, and `GDK_BACKEND=x11`) to ensure graphical windows launch properly when invoked via desktop shortcuts or background listeners.
 * **Dynamic Mode Parsing:** Derives `$MODE` (`leisure`) from `$0` using `basename "$0" .sh` and parameter expansion (`${SCRIPT_NAME%-tools}`).
@@ -29,7 +29,7 @@ This documentation covers the **Leisure** mode execution flow for the **PlebMach
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Leisure Mode Configuration
+## Leisure Mode Configuration!
 
 <!-- PLEBVOX:END -->
 | Setting / Target | Assigned Command / Choice | Purpose |
@@ -42,18 +42,18 @@ This documentation covers the **Leisure** mode execution flow for the **PlebMach
 ---
 
 <!-- PLEBVOX:START -->
-## Dependencies
+## Dependencies!
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### System Utilities & GUI Engine
+### System Utilities & GUI Engine!
 * **`bash`**: Script processing environment.
 * **`grep`, `cut`, `tr`, `xargs`**: Core POSIX utilities used to parse system state settings.
 * **`zenity`**: Renders GTK dialogue windows for the `COGNITIVE` mode checklist.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Binary Dependencies
+### Binary Dependencies!
 * **`vlc`**: VLC media player executable.
 * **`steam`**: Steam client launcher binary.
 * **`firefox`**: Firefox web browser executable.
@@ -119,7 +119,7 @@ done
 ---
 
 <!-- PLEBVOX:START -->
-## Review — 2026-09-20
+## Review — 2026-09-20!
 
 **Review subject:** Leisure Tools
 
