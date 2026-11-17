@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Captain Gemini: AI Without a Wallet"
+title: "Captain Gemini: AI Without a Wallet!"
 date: 2026-08-12
 ---
 
