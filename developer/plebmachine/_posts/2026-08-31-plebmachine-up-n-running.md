@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebMachine 1.30.08.28 - Debugged Running"
+title: "PlebMachine 1.30.08.28 - Debugged Running!"
 date: 2026-08-31
 category: "plebmachine"
 tags: [plebmachine, working release, state-driven, Milestone]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🔑 PlebMachine 1.30.08.26
+# 🔑 PlebMachine 1.30.08.26!
 
 **RELEASE STATUS: TESTED DEVELOPMENT RELEASE — 2026-08-31**
 
@@ -22,7 +22,7 @@ Version **1.30.08.26** is the current development release and has now passed a s
 
 <!-- PLEBVOX:START -->
 
-## 🔑 1.30.08.26 — Major Test Milestone
+## 🔑 1.30.08.26 — Major Test Milestone!
 
 The `plebmachine_1.30.08.26_amd64.deb` package was installed successfully on:
 
