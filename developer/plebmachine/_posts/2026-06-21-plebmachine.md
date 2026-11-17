@@ -16,7 +16,7 @@ Rather than treating the desktop as a collection of unrelated applications, Pleb
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Core Idea
+## 🔑 The Core Idea!
 
 The goal of PlebMachine is simple:
 
@@ -28,7 +28,7 @@ Each mode provides a tailored environment with its own applications, shortcuts, 
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Why PlebMachine Exists
+## 🔑 Why PlebMachine Exists!
 
 Modern desktop environments often become cluttered with applications and settings that serve many different purposes.
 
@@ -49,7 +49,7 @@ Examples include:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Modular Design
+## 🔑 Modular Design!
 
 Every component is designed to be modular.
 
@@ -63,7 +63,7 @@ This means:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Built on Linux
+## 🔑 Built on Linux!
 
 PlebMachine is designed around the flexibility and reliability of Linux.
 
@@ -79,7 +79,7 @@ Benefits include:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Looking Ahead
+## 🔑 Looking Ahead!
 
 PlebMachine continues to evolve as an educational and productivity platform that demonstrates how Linux can become a focused, organized, and enjoyable workspace.
 
