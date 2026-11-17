@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Metro Fibre Internet Stability — TEST SCRIPTS"
+title: "Metro Fibre Internet Stability — TEST SCRIPTS!"
 date: 2026-09-20
 ---
 
-# 🛜 Metro Fibre Internet Stability — A Note for Otto and Juelz
+# 🛜 Metro Fibre Internet Stability — A Note for Otto and Juelz!
 
-## 📝 Why This Note Exists
+## 📝 Why This Note Exists!
 
 This note is a reminder for **Otto** to prepare a detailed, evidence-based report for **Metro Fibre** regarding the recurring internet instability we have been experiencing.
 
@@ -22,7 +22,7 @@ The language used during the argument is deliberately **not reproduced here**. T
 
 **The purpose of this note is therefore not to assign blame. It is to create evidence.**
 
-### **Windows Power Shell**
+### **Windows Power Shell**!
 ```
 Write-Host "===== METRO FIBRE WINDOWS TEST =====" -ForegroundColor Cyan
 Write-Host "Time: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss zzz')"
@@ -64,7 +64,7 @@ Write-Host "=== TEST COMPLETE ===" -ForegroundColor Cyan
 Write-Host "End Time: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss zzz')"
 ```
 
-## 🎯 What We Need to Establish
+## 🎯 What We Need to Establish!
 
 The report should distinguish between:
 
@@ -84,11 +84,11 @@ A single speed test showing good download and upload speeds does **not** necessa
 A connection can deliver excellent throughput while still suffering from intermittent packet loss, latency spikes, routing problems, or short interruptions.
 
 
-## 🔬 Internet Tests Otto Can Perform
+## 🔬 Internet Tests Otto Can Perform!
 
 Run tests at different times of day, especially when the connection is behaving badly.
 
-### 1. Speed Test
+### 1. Speed Test!
 
 Use:
 
@@ -106,7 +106,7 @@ Record:
 
 **Important:** Do not run only one speed test. Repeat the test when the connection is working normally and again when the problem is occurring.
 
-### 2. Ping Test
+### 2. Ping Test!
 
 On Linux, open a terminal and test a reliable external host:
 
@@ -135,7 +135,7 @@ ping -c 20 192.168.1.1
 
 Replace `192.168.1.1` with the actual router/gateway address if different.
 
-### 3. Continuous Ping During an Outage
+### 3. Continuous Ping During an Outage!
 
 When the connection starts misbehaving:
 
@@ -155,7 +155,7 @@ Look for:
 
 Press **Ctrl+C** to stop and record the final statistics.
 
-### 4. Ping Several Destinations
+### 4. Ping Several Destinations!
 
 Testing more than one destination can help establish whether the problem is general or destination-specific.
 
@@ -169,7 +169,7 @@ ping -c 20 google.com
 
 If IP addresses respond normally but a domain name does not, DNS may deserve investigation.
 
-### 5. Packet-Loss Test
+### 5. Packet-Loss Test!
 
 Packet loss is particularly important because it can cause interruptions even when speed tests look good.
 
@@ -183,7 +183,7 @@ Record the final packet-loss percentage.
 
 Repeat the test at different times.
 
-### 6. Traceroute
+### 6. Traceroute!
 
 Traceroute can show where latency or routing problems may be appearing.
 
@@ -207,7 +207,7 @@ traceroute 8.8.8.8
 
 Do not automatically assume that a single slow or non-responsive hop proves that hop is faulty. Some routers deliberately deprioritise or block traceroute responses.
 
-### 7. MTR — Longer-Term Routing Test
+### 7. MTR — Longer-Term Routing Test!
 
 MTR combines ping and traceroute and can be particularly useful for recurring instability.
 
@@ -225,7 +225,7 @@ mtr -rwzc 100 8.8.8.8
 
 This provides a much better picture than a single traceroute because it collects repeated observations.
 
-### 8. DNS Test
+### 8. DNS Test!
 
 Test DNS resolution:
 
@@ -247,7 +247,7 @@ dig @8.8.8.8 google.com
 
 Record whether the response is immediate or unusually slow.
 
-### 9. Browser-Based DNS and Connectivity Checks
+### 9. Browser-Based DNS and Connectivity Checks!
 
 Useful online resources include:
 
@@ -256,7 +256,7 @@ Useful online resources include:
 
 These are supplementary tests rather than replacements for ping, packet-loss, and routing evidence.
 
-### 10. Check the Ethernet Interface
+### 10. Check the Ethernet Interface!
 
 Because the computer is connected by LAN cable, check the Ethernet interface directly.
 
@@ -287,7 +287,7 @@ ip -s link show enp3s0
 
 The actual interface name may be different.
 
-### 11. Check Link Negotiation
+### 11. Check Link Negotiation!
 
 If `ethtool` is available:
 
@@ -308,7 +308,7 @@ For example:
 sudo ethtool enp3s0
 ```
 
-### 12. Record the Physical Link Indicators
+### 12. Record the Physical Link Indicators!
 
 The network card currently shows **green and orange activity/link lights**, even with a new Cat5 LAN cable.
 
@@ -316,14 +316,14 @@ Photographing the lights is not proof of an ISP fault, but it can be recorded as
 
 The important evidence is what the operating system reports about the Ethernet interface and what the external network tests show.
 
-##  **All In One Test**
+##  **All In One Test**!
 
 ```
 echo "===== METRO FIBRE TEST ====="; echo "Time: $(date '+%Y-%m-%d %H:%M:%S %Z')"; echo; echo "=== ROUTER 192.168.1.254 ==="; ping -c 20 192.168.1.254; echo; echo "=== CLOUDFLARE 1.1.1.1 ==="; ping -c 20 1.1.1.1; echo; echo "=== GOOGLE 8.8.8.8 ==="; ping -c 20 8.8.8.8; echo; echo "=== MTR GOOGLE 100 PACKETS ==="; mtr -rwzc 100 8.8.8.8; echo; echo "=== DNS ROUTER ==="; dig google.com; echo; echo "=== DNS CLOUDFLARE ==="; dig @1.1.1.1 google.com; echo; echo "=== DNS GOOGLE ==="; dig @8.8.8.8 google.com; echo; echo "===== TEST COMPLETE ====="
 
 ```
 
-## 📈 Baseline Results — 20 September 2026 - 08:06
+## 📈 Baseline Results — 20 September 2026 - 08:06!
 
 The connection was tested while it appeared to be behaving normally. All supplied ping tests recorded **0% packet loss**.
 
@@ -344,11 +344,11 @@ The spikes alone do **not** prove that Metro Fibre has a fault. Their value is t
 
 <!-- PLEBVOX:START -->
 
-## 📊 Follow-Up Results — 20 September 2026 - 08:08 to 08:11
+## 📊 Follow-Up Results — 20 September 2026 - 08:08 to 08:11!
 
 Additional testing was performed shortly after the original baseline.
 
-### MTR to Google DNS — 8.8.8.8
+### MTR to Google DNS — 8.8.8.8!
 
 Command:
 
@@ -368,7 +368,7 @@ Results:
 
 The 1% destination loss is worth recording, but by itself it does **not establish a fault**, particularly because the intermediate hops showed 0% loss. It should be compared with repeated tests during periods of actual instability.
 
-### DNS Resolution Tests
+### DNS Resolution Tests!
 
 Three DNS queries were successful:
 
@@ -384,7 +384,7 @@ All three DNS tests returned a valid answer with **NOERROR**, indicating that DN
 
 The returned Google IP addresses differed between the tests, which is normal because large services such as Google can use distributed DNS and different addresses for different resolvers or locations.
 
-### Interpretation of the Follow-Up Test
+### Interpretation of the Follow-Up Test!
 
 At approximately **08:08–08:11**, DNS resolution was fast and successful through all three tested paths, while the MTR to 8.8.8.8 showed **1% packet loss at the final destination** and a maximum observed latency of **37.6 ms**.
 
@@ -396,7 +396,7 @@ The important next comparison will be to run the same tests **during an actual p
 
 <!-- PLEBVOX:START -->
 
-## 📊 What to Record for Every Test
+## 📊 What to Record for Every Test!
 
 Use a simple table or log:
 
@@ -417,7 +417,7 @@ If speed is excellent while packet loss or latency is problematic, that distinct
 
 <!-- PLEBVOX:START -->
 
-## ⏱️ Build a Two- or Three-Day Evidence Log
+## ⏱️ Build a Two- or Three-Day Evidence Log!
 
 For the next few days, record tests at approximately:
 
@@ -443,21 +443,21 @@ If multiple devices are affected at the same time, record that as well.
 
 <!-- PLEBVOX:START -->
 
-## 📄 What the Metro Fibre Report Should Contain
+## 📄 What the Metro Fibre Report Should Contain!
 
 The final report should be calm, factual, and chronological.
 
-### 1. Customer and Service Details
+### 1. Customer and Service Details!
 
 Include the relevant account or service reference information, but do not publish sensitive account numbers on the public PlebWare site.
 
-### 2. Problem Summary
+### 2. Problem Summary!
 
 State clearly:
 
 > The fibre internet connection has experienced recurring instability for an extended period. Communication regarding the problem has continued for almost two weeks without a satisfactory resolution.
 
-### 3. History
+### 3. History!
 
 List:
 
@@ -469,7 +469,7 @@ List:
 - Any technician visits, if applicable
 - Whether the problem remains unresolved
 
-### 4. Technical Evidence
+### 4. Technical Evidence!
 
 Attach or summarise:
 
@@ -483,7 +483,7 @@ Attach or summarise:
 - Link-speed and duplex information
 - Relevant screenshots
 
-### 5. Important Contradiction to Highlight
+### 5. Important Contradiction to Highlight!
 
 The connection can produce acceptable results on conventional online speed tests while still showing symptoms of instability.
 
@@ -491,7 +491,7 @@ Therefore:
 
 **Good speed-test throughput should not be treated as proof that the service is stable.**
 
-### 6. Requested Action
+### 6. Requested Action!
 
 Ask Metro Fibre to investigate the connection for:
 
@@ -510,7 +510,7 @@ The report should ask for a **technical investigation and a clear explanation of
 
 <!-- PLEBVOX:START -->
 
-## 🧭 The Main Rule for Otto
+## 🧭 The Main Rule for Otto!
 
 Do not let frustration become the report.
 
@@ -528,7 +528,7 @@ Now we need to turn that into a clean evidence package that technical support ca
 
 <!-- PLEBVOX:START -->
 
-## 📌 Action List
+## 📌 Action List!
 
 - [ ] Start a dated troubleshooting log.
 - [ ] Run Speedtest and Fast.com at different times.
