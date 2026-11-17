@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cognitive-pause.sh"
+title: "cognitive-pause.sh!"
 date: 2026-09-19
 ---
 <!-- PLEBVOX:START -->
@@ -67,7 +67,7 @@ fi
 ---
 
 <!-- PLEBVOX:START -->
-## Review — 2026-09-20
+## Review — 2026-09-20!
 
 **Review subject:** Cognitive Pause
 
