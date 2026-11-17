@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "PlebWare Goes Live 🚀"
+title: "PlebWare Goes Live 🚀!"
 date: 2026-06-10
 ---
 
 <!-- PLEBVOX:START -->
 
-# PlebWare Publishing Ecosystem Goes Live 🚀
+# PlebWare Publishing Ecosystem Goes Live 🚀!
 
 Today marks a real turning point in the evolution of PlebMachine and the broader PlebWare publishing ecosystem.
 
@@ -16,7 +16,7 @@ What started as a structured idea for a modular desktop orchestration system has
 
 <!-- PLEBVOX:START -->
 
-## 📱 Portable publishing becomes reality
+## 📱 Portable publishing becomes reality!
 
 A major milestone has been reached with the successful use of a mobile-based Pleb Machine workflow.
 
@@ -31,7 +31,7 @@ The system is no longer tied to a single workstation. It now operates wherever t
 
 <!-- PLEBVOX:START -->
 
-## 🌐 PlebWare evolves into a living system
+## 🌐 PlebWare evolves into a living system!
 
 PlebWare is steadily shifting from a static website into a mode-driven publishing ecosystem.
 
@@ -44,7 +44,7 @@ Key developments include:
 
 <!-- PLEBVOX:START -->
 
-## 🧭 Current focus: navigation and scalability
+## 🧭 Current focus: navigation and scalability!
 
 With the system now functional, attention is turning toward refinement.
 
@@ -59,7 +59,7 @@ This marks a shift from “does it work?” to “how does it scale cleanly?”
 
 <!-- PLEBVOX:START -->
 
-## 🏗️ Where things stand
+## 🏗️ Where things stand!
 
 Over the past months, PlebMachine has progressed through clear phases:
 - Conceptual design and naming
@@ -74,7 +74,7 @@ The system is now operational and actively used.
 
 <!-- PLEBVOX:START -->
 
-## 🔭 Looking forward
+## 🔭 Looking forward!
 
 The next phase will focus on:
 - Refining UI/UX consistency across modes
