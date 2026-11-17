@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Reflection"
+title: "Reflection!"
 date: 2026-05-22
 ---
 <!-- PLEBVOX:START -->
 
-# From The Mobile Office
+# From The Mobile Office!
 
 Today I am writing free-style.
 Low battery 🔋, no AI, just this highly-tuned 63-year-old man and his life experiences.
