@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lenovo Digital Housekeeping: The Great November Rebuild"
+title: "Lenovo Digital Housekeeping: The Great November Rebuild!"
 date: 2026-11-15
 ---
 
