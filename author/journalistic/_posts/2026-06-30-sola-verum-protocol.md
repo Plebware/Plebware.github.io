@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "⚔️ The Sola Verum Protocol – Deep Fakes Must Be Stopped"
+title: "⚔️ The Sola Verum Protocol – Deep Fakes Must Be Stopped!"
 date: 2026-06-30
 ---
 
 <!-- PLEBVOX:START -->
 
-# ⚔️ The Sola Verum Protocol
+# ⚔️ The Sola Verum Protocol!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🛡️ Deep Fakes Must Be Stopped: A Call to Action for Responsible AI Use
+## 🛡️ Deep Fakes Must Be Stopped: A Call to Action for Responsible AI Use!
 
 > ***"Truth Revealed by Blood and Fire"***
 > *Sanguine et Igne Veritas Revelata*
@@ -23,7 +23,7 @@ date: 2026-06-30
 
 <!-- PLEBVOX:START -->
 
-## 🌍 Why This Matters
+## 🌍 Why This Matters!
 
 The rapid spread of **deep fakes** and synthetic media is steadily eroding public trust and distorting our understanding of truth. Images, voices, videos, and even written content can now be fabricated so convincingly that distinguishing fact from fiction has become increasingly difficult.
 
@@ -40,7 +40,7 @@ For this reason, I applied for membership of the **Coalition for Content Provena
 
 <!-- PLEBVOX:START -->
 
-# ⚔️ The Sola Verum Protocol
+# ⚔️ The Sola Verum Protocol!
 
 The **Sola Verum Protocol** is far more than a statement of intent.
 
@@ -58,7 +58,7 @@ Every article, every illustration, every voice recording, every design, and ever
 
 <!-- PLEBVOX:START -->
 
-## 🤖 Responsible AI, Not Fear of AI
+## 🤖 Responsible AI, Not Fear of AI!
 
 I am **not opposed to Artificial Intelligence**.
 
@@ -95,7 +95,7 @@ I stand **for**:
 
 <!-- PLEBVOX:START -->
 
-## 🖼️ AI-Assisted Creative Work
+## 🖼️ AI-Assisted Creative Work!
 
 Some images featured on this website, together with my other websites and blogs, have been created with the assistance of Artificial Intelligence tools, including **OpenAI** and other creative platforms.
 
@@ -112,7 +112,7 @@ These tools are used solely to:
 
 <!-- PLEBVOX:START -->
 
-## ✍️ Original Authorship
+## ✍️ Original Authorship!
 
 Despite making responsible use of AI-assisted creative tools:
 
@@ -128,7 +128,7 @@ The ideas, research, structure, conclusions, and published works remain my own.
 
 <!-- PLEBVOX:START -->
 
-## 🛡️ A Personal Commitment
+## 🛡️ A Personal Commitment!
 
 I wish to reiterate my position clearly.
 
