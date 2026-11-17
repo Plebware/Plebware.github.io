@@ -12,7 +12,7 @@ date: 2026-06-12
 
 <!-- PLEBVOX:START -->
 
-## When Losing One Day's Pay Can Break Everything
+## When Losing One Day's Pay Can Break Everything?
 
 People often talk about budgeting as if it is simply a matter of discipline and planning.
 
@@ -26,7 +26,7 @@ That is the reality I am facing right now.
 
 <!-- PLEBVOX:START -->
 
-## 🚙 The Ford Ranger Saga Continues
+## 🚙 The Ford Ranger Saga Continues!
 
 The week before last, the shop's **Ford Ranger 2.8 6-Speed** was sent in to have a clutch problem sorted out.
 
@@ -65,7 +65,7 @@ And I am losing income again.
 
 <!-- PLEBVOX:START -->
 
-## 📉 The Impossible Budget
+## 📉 The Impossible Budget!
 
 People ask why budgeting is difficult.
 
@@ -98,7 +98,7 @@ There is only the hope that tomorrow will be a working day.
 
 <!-- PLEBVOX:START -->
 
-## 🤝 A Debt of Gratitude
+## 🤝 A Debt of Gratitude!
 
 Two years ago, the shop's vehicle was stolen.
 
@@ -130,7 +130,7 @@ That felt like real progress.
 
 <!-- PLEBVOX:START -->
 
-## 🔄 Backwards Again
+## 🔄 Backwards Again!
 
 Then reality intervened.
 
@@ -152,34 +152,34 @@ Every step forward is followed by another slide backwards.
 
 <!-- PLEBVOX:START -->
 
-## 📊 The Numbers Tell the Story
+## 📊 The Numbers Tell the Story!
 
 Looking at the situation objectively:
 
-### April
+### April!
 
 * Public holidays reduced available work days.
 * Significant income was lost.
 
-### Two Weeks Ago
+### Two Weeks Ago!
 
 * Vehicle repairs cost two days of income.
 * Approximately R300 lost.
 
-### This Week
+### This Week!
 
 * Ranger returned for further diagnosis.
 * Thursday's income lost.
 * Friday's income lost.
 
-### Debt Position
+### Debt Position!
 
 * Reduced debt from R3,000 to R1,800.
 * Forced to add R700.
 * Balance returned to approximately R2,500.
 * Further expenses pushing the amount higher.
 
-### Budget Position
+### Budget Position!
 
 * Already running roughly R50 over budget.
 * Debt increasing again.
@@ -191,7 +191,7 @@ Looking at the situation objectively:
 
 <!-- PLEBVOX:START -->
 
-## 😔 Why the Budget Feels Impossible
+## 😔 Why the Budget Feels Impossible!
 
 When people look at a budget on paper, everything appears manageable.
 
@@ -213,7 +213,7 @@ When one missed day can wreck the entire month's calculations, budgeting becomes
 
 <!-- PLEBVOX:START -->
 
-## 🙏 Still Thankful
+## 🙏 Still Thankful!
 
 Despite the frustration, there are still reasons to be grateful.
 
