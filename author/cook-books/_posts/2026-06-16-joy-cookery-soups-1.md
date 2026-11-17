@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joy Cookery - Soups Recipe 1"
+title: "Joy Cookery - Soups Recipe 1!"
 date: 2026-06-16
 ---
 <!-- PLEBVOX:START -->
@@ -13,7 +13,7 @@ date: 2026-06-16
 </div>
 ----
 
-# 🥣 Pleb Bean Soup
+# 🥣 Pleb Bean Soup!
 
 A hearty, budget-friendly bean soup that produces a rich flavour from simple ingredients. Perfect for cold winter evenings and easy to prepare with basic pantry staples.
 
@@ -21,7 +21,7 @@ A hearty, budget-friendly bean soup that produces a rich flavour from simple ing
 ----
 <!-- PLEBVOX:START -->
 
-## 🔑 Ingredients
+## 🔑 Ingredients!
 
 * 1 soup bone.
 * 1.5 litres of water.
@@ -38,7 +38,7 @@ A hearty, budget-friendly bean soup that produces a rich flavour from simple ing
 ----
 <!-- PLEBVOX:START -->
 
-## 🔑 Preparation
+## 🔑 Preparation!
 
 1. Soak the white beans in water overnight.
 2. Place the soup bone and 1.5 litres of water into a large pot.
@@ -57,11 +57,11 @@ A hearty, budget-friendly bean soup that produces a rich flavour from simple ing
 ----
 <!-- PLEBVOX:START -->
 
-## 🔑 Serving Suggestion
+## 🔑 Serving Suggestion!
 
 Serve hot with fresh bread, toast, or homemade rolls.
 
-## 🔑 Cook's Note
+## 🔑 Cook's Note!
 
 This recipe follows the spirit of traditional South African home cooking, where inexpensive ingredients are transformed into a nourishing and satisfying meal. The mashed carrot adds natural sweetness and body to the soup while the soup bone provides a rich flavour.
 
