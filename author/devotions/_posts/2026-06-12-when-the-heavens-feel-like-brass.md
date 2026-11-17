@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "When The Heavens Feel Like Brass"
+title: "When The Heavens Feel Like Brass?"
 date: 2024-01-01
 ---
 <!-- PLEBVOX:START -->
-# 🥀📖 When It Seems God Is Ignoring Me
+# 🥀📖 When It Seems God Is Ignoring Me!
 <div align="center">
 
 <img src="/assets/images/heaven-like-brass.png"
@@ -14,9 +14,9 @@ date: 2024-01-01
 </div>
 ---
 
-### 🙏 An Embarrassed Request For Prayer
+### 🙏 An Embarrassed Request For Prayer!
 
-## Opening Prayer 🙏
+## Opening Prayer 🙏!
 
 _Father,_
 
@@ -36,7 +36,7 @@ _Amen._
 
 ---
 
-## 📜 Introduction — An Embarrassed Request
+## 📜 Introduction — An Embarrassed Request!
 
 There are times in life when asking for help feels harder than carrying the burden itself.
 
@@ -92,7 +92,7 @@ But because we feel embarrassed to admit how much we need it.
 
 ---
 
-## ✍️🥀 A Poem — Beneath A Brass Heaven
+## ✍️🥀 A Poem — Beneath A Brass Heaven!
 
 ```
 When cupboards seem empty
@@ -122,7 +122,7 @@ And never sleeps.
 ```
 ---
 
-## ⛪📜 Church History Example
+## ⛪📜 Church History Example!
 
 One of the greatest preachers of the nineteenth century was George Müller.
 
@@ -142,15 +142,15 @@ The miracle was continuing to trust before the provision arrived.
 
 ---
 
-# 🙏🔑 Point 1: God Hears The Cry We Are Ashamed To Speak
+# 🙏🔑 Point 1: God Hears The Cry We Are Ashamed To Speak!
 
-## 📖 Scripture
+## 📖 Scripture!
 
 **Psalm 34:17**
 
 > "The righteous cry out, and the Lord hears, and delivers them out of all their troubles."
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 
 God already knows the situation.
 
@@ -164,7 +164,7 @@ He knows every meal that must be stretched further than expected.
 
 Nothing surprises Him.
 
-### 💡 Tip
+### 💡 Tip!
 
 Pray honestly.
 
@@ -172,7 +172,7 @@ God does not require polished prayers.
 
 He welcomes truthful prayers.
 
-### 👑 Heavenly View
+### 👑 Heavenly View!
 
 Heaven does not see weakness when a believer asks for help.
 
@@ -180,21 +180,21 @@ Heaven sees humility.
 
 ---
 
-# 🤝🔑 Point 2: God Often Uses His People As Part Of The Answer, please
+# 🤝🔑 Point 2: God Often Uses His People As Part Of The Answer, please!
 
-## 📖 Scripture
+## 📖 Scripture!
 
 **Galatians 6:2**
 
 > "Bear one another's burdens, and so fulfil the law of Christ."
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 
 Sometimes we pray for provision while God is preparing another believer to help.
 
 Yet if we hide our need completely, others may never know they are meant to pray.
 
-### 💡 Tip
+### 💡 Tip!
 
 A simple request is enough:
 
@@ -202,7 +202,7 @@ A simple request is enough:
 
 You do not need to tell the whole story.
 
-### 👑 Heavenly View
+### 👑 Heavenly View!
 
 The Church is a family, not a colle, pleasection of isolated individuals.
 
@@ -210,15 +210,15 @@ God often ministers through His people.
 
 ---
 
-# 🍞🔑 Point 3: Daily Br, pleaseead Is Still A Miracle
+# 🍞🔑 Point 3: Daily Br, pleaseead Is Still A Miracle!
 
-## 📖 Scripture
+## 📖 Scripture!
 
 **Matthew 6:11**
 
 > "Give us this day our daily bread.", please
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 
 Sometimes we compare our table with someone else's abundance.
 
@@ -230,72 +230,72 @@ Not next month's.
 
 Today's.
 
-### 💡 Tip
+### 💡 Tip!
 
 Thank God for what is available, even if it seems ordinary.
 
 Gratitude strengthens faith.
 
-### 👑 Heavenly View, please
+### 👑 Heavenly View, please!
 
 The God who fed Israel with manna still provides daily bread for His children.
 
 ---
 
-# ⏳🔑 Point 4: Waiting Is Not Abandonment
+# ⏳🔑 Point 4: Waiting Is Not Abandonment!
 
-## 📖 Scripture
+## 📖 Scripture!
 
 **Isaiah 40:31**
 
 > "But those who wait on the Lord shall renew their strength."
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 
 God's silence is not proof of His absence.
 
 Many answers arrive after long seasons of waiting.
 
-### 💡 Tip
+### 💡 Tip!
 
 Keep praying even when emotions say otherwise.
 
 Faith often grows strongest in waiting seasons.
 
-### 👑 Heavenly View
+### 👑 Heavenly View!
 
 God sees the entire journey while we only see today's struggle.
 
 ---
 
-# 🌤️🔑 Point 5: The Heavens Are Not Really Brass
+# 🌤️🔑 Point 5: The Heavens Are Not Really Brass!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 📖 Scripture
+## 📖 Scripture!
 
 **Psalm 139:1**
 
 > "O Lord, You have searched me and known me."
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 
 Feelings can be powerful but they are not always accurate.
 
 A silent heaven is not an absent God.
 
-### 💡 Tip
+### 💡 Tip!
 
 Judge circumstances through Scripture, not Scripture through circumstances.
 
-### 👑 Heavenly View,
+### 👑 Heavenly View,!
 
 Every prayer reaches God's throne even when no immediate answer appears.
 
 ---
 
-## 📝💭 Final Thoughts
+## 📝💭 Final Thoughts!
 
 Today, my prayer is simple.
 
@@ -317,7 +317,7 @@ Please stand with me before the Lord.
 
 ---
 
-## 🙏❤️ Closing Prayer
+## 🙏❤️ Closing Prayer!
 
 _Father,_
 
