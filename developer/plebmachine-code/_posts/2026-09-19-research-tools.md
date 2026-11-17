@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Research Tools"
+title: "Research Tools!"
 date: 2026-09-19
 ---
 
 <!-- PLEBVOX:START -->
-# Mode-Specific Tool for Research
+# Mode-Specific Tool for Research!
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Script Breakdown: `{mode}-tools.sh` (Mode Application Dispatcher)
+## Script Breakdown: `{mode}-tools.sh` (Mode Application Dispatcher)!
 
 This script manages software launching when switching between **PlebMachine** operational modes. It dynamically infers its assigned mode based on its script filename, reads system state settings, and either auto-launches a primary application or presents an interactive GUI checklist for selective app launches.
 
@@ -17,7 +17,7 @@ This script manages software launching when switching between **PlebMachine** op
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Key Functionality
+## Key Functionality!
 
 * **Environment Initialisation:** Sets explicit display variables (`DISPLAY`, `XAUTHORITY`, and `GDK_BACKEND=x11`) to ensure graphical applications launch properly when invoked by background processes.
 * **Dynamic Mode Extraction:** Strips file extensions and path headers from `$0` (e.g., extracting `author` from `author-tools.sh`) so a single script can serve as a unified master template or symlinked launcher across all 12 operational modes.
@@ -31,22 +31,22 @@ This script manages software launching when switching between **PlebMachine** op
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Dependencies
+## Dependencies!
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Core System Utilities
+### Core System Utilities!
 * **`bash`**: Required for array manipulations (`read -ra`), string substitutions (`${app%\"}`), and case matching.
 * **`grep`, `cut`, `tr`, `xargs`**: Used to parse and sanitise settings from `state.conf`.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Dialogue Provider
+### Dialogue Provider!
 * **`zenity`**: Provides the GTK `--list --checklist` selection menu in `COGNITIVE` mode.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Target Applications & Packages (Mode Dependent)
+### Target Applications & Packages (Mode Dependent)!
 Depending on which modes are used and which apps are selected in the checklist, the host machine requires the relevant binaries installed:
 
 <!-- PLEBVOX:END -->
@@ -192,7 +192,7 @@ done
 ---
 
 <!-- PLEBVOX:START -->
-## Review — 2026-09-20
+## Review — 2026-09-20!
 
 **Review subject:** Research Tools
 
