@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Silent Battles: When It Feels Like You Have No Faith Left"
+title: "Silent Battles: When It Feels Like You Have No Faith Left!"
 date: 2026-07-19
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Silent Battles: When It Feels Like You Have No Faith Left
+# 🔑 Silent Battles: When It Feels Like You Have No Faith Left!
 
 There are moments in the Christian life that few people speak about openly.
 
@@ -34,7 +34,7 @@ If those words have ever crossed your mind, know this—you are not the first be
 
 <!-- PLEBVOX:START -->
 
-## 🔑 When Yesterday Will Not Stay Buried
+## 🔑 When Yesterday Will Not Stay Buried!
 
 There are Christians who faithfully confess their sins before God.
 
@@ -69,7 +69,7 @@ It is with accepting it ourselves.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Conviction Is Not Condemnation
+## 🔑 Conviction Is Not Condemnation!
 
 The Holy Spirit convicts us to bring us back to God.
 
@@ -94,7 +94,7 @@ What incredible mercy.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Faith Is More Than A Feeling
+## 🔑 Faith Is More Than A Feeling!
 
 We often mistake God's presence for our emotions.
 
@@ -116,7 +116,7 @@ That quiet determination may be one of the purest expressions of faith we will e
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Even The Great Heroes Struggled
+## 🔑 Even The Great Heroes Struggled!
 
 David cried:
 
@@ -144,7 +144,7 @@ There is a difference.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 God Has Not Left
+## 🔑 God Has Not Left!
 
 Jesus gave His followers a promise that has never been withdrawn.
 
@@ -166,7 +166,7 @@ His character does not.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 When You Have Nothing Left
+## 🔑 When You Have Nothing Left!
 
 Perhaps all you can pray today is this:
 
@@ -190,7 +190,7 @@ Only honest ones.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Closing Prayer
+## 🔑 Closing Prayer!
 
 **Heavenly Father,**
 
