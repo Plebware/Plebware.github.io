@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Loneliness Is Real"
+title: "Loneliness Is Real!"
 date: 2026-07-07
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🙏 **Daily Devotion**
+# 🙏 **Daily Devotion**!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🔑 **When Being Seen Becomes Rare**
+## 🔑 **When Being Seen Becomes Rare**!
 
-### Opening Prayer
+### Opening Prayer!
 
 *Heavenly Father, open our eyes to see You more clearly, to see one another more deeply, and to become people who reflect Your love through genuine attention, compassion, and fellowship; in Jesus' Name, Amen.*
 
@@ -24,7 +24,7 @@ date: 2026-07-07
 
 <!-- PLEBVOX:START -->
 
-## 📖 Introduction
+## 📖 Introduction!
 
 Have you ever noticed that it is possible to spend an entire day surrounded by people and still feel completely alone?
 
@@ -44,7 +44,7 @@ As Christians, we remember that God never intended mankind to live in isolation.
 
 <!-- PLEBVOX:START -->
 
-## ✝️ A Lesson from Church History
+## ✝️ A Lesson from Church History!
 
 The earliest Christians understood that the Church was never meant to be merely a building or a weekly meeting.
 
@@ -60,7 +60,7 @@ From the Garden of Eden onwards, Scripture reveals that humanity was created to 
 
 <!-- PLEBVOX:START -->
 
-## 📖 Scripture
+## 📖 Scripture!
 
 > **"And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together... but encouraging one another."**
 >
@@ -76,21 +76,21 @@ From the Garden of Eden onwards, Scripture reveals that humanity was created to 
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Points to Remember
+## 🔑 Points to Remember!
 
-### ❤️ 1. Attention is an Act of Love
+### ❤️ 1. Attention is an Act of Love!
 
 People often need someone who will genuinely listen more than someone who has all the answers.
 
 Sometimes the greatest ministry is simply being fully present.
 
-### 🤝 2. Fellowship is God's Design
+### 🤝 2. Fellowship is God's Design!
 
 From creation itself, God designed mankind to live in relationship—with Him and with one another.
 
 Loneliness reminds us that our hearts were created for genuine fellowship.
 
-### 🌱 3. Choose Presence over Distraction
+### 🌱 3. Choose Presence over Distraction!
 
 Our world constantly competes for our attention.
 
@@ -104,7 +104,7 @@ You may become the answer to someone's silent prayer.
 
 <!-- PLEBVOX:START -->
 
-## 🪶 Reflection
+## 🪶 Reflection!
 
 Before asking,
 
@@ -122,9 +122,9 @@ Sometimes God heals our own loneliness as we become His hands and His heart to s
 
 <!-- PLEBVOX:START -->
 
-## 📝 Poem
+## 📝 Poem!
 
-### **Seen**
+### **Seen**!
 
 I passed a thousand faces by,  
 Yet no one knew my name.  
@@ -143,7 +143,7 @@ Can echo loud in Heaven.
 
 ---
 
-### Closing Prayer
+### Closing Prayer!
 
 *Lord Jesus, teach us to love as You love, to listen as You listen, and to become people who bring hope, fellowship, and Your presence into the lonely places of this world; Amen.*
 
