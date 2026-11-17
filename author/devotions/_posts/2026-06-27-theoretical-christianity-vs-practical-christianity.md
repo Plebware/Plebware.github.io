@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Theoretical Christianity Versus Practical Christianity"
+title: "Theoretical Christianity Versus Practical Christianity!"
 date: 2026-06-27
 ---
 
 <!-- PLEBVOX:START -->
 
-# 📖 Theoretical Training Versus Practical Training
+# 📖 Theoretical Training Versus Practical Training!
 
 > **"But be ye doers of the word, and not hearers only, deceiving your own selves."**
 > **— James 1:22 (KJV)**
@@ -17,7 +17,7 @@ date: 2026-06-27
 
 <!-- PLEBVOX:START -->
 
-# 🙏 Opening Prayer
+# 🙏 Opening Prayer!
 
 Heavenly Father, thank You for giving us Your holy Word, not merely to increase our knowledge but to transform our hearts and shape our lives into the likeness of Jesus Christ; forgive us for the times we have been hearers without becoming doers, strengthen us through the Holy Spirit to obey what You teach us, help us to represent Christ faithfully in every conversation, every decision, and every trial, so that our lives may bring honour and glory to Your Name, through Jesus Christ our Lord. Amen.
 
@@ -27,7 +27,7 @@ Heavenly Father, thank You for giving us Your holy Word, not merely to increase 
 
 <!-- PLEBVOX:START -->
 
-# 📚 Introduction
+# 📚 Introduction!
 
 There is an old saying:
 
@@ -62,7 +62,7 @@ He lives in a way that honours it.
 
 <!-- PLEBVOX:START -->
 
-# ✍️ Summary Poem
+# ✍️ Summary Poem!
 
 **Not by words alone we're known,**
 **Nor by knowledge we have grown.**
@@ -80,7 +80,7 @@ He lives in a way that honours it.
 
 <!-- PLEBVOX:START -->
 
-# ⛪ Church History
+# ⛪ Church History!
 
 One of the earliest Christian writings outside the New Testament, **The Didache** (late first or early second century), reminded believers that Christianity was called **"The Way."**
 
@@ -100,7 +100,7 @@ The Gospel spread not only because it was preached...
 
 <!-- PLEBVOX:START -->
 
-# 🌍 Head Knowledge Versus Heart Knowledge
+# 🌍 Head Knowledge Versus Heart Knowledge!
 
 Many Christians understand doctrines like:
 
@@ -129,7 +129,7 @@ God's Word must travel the short distance from our heads...
 
 <!-- PLEBVOX:START -->
 
-# 🧪 Everyday Practical Examinations
+# 🧪 Everyday Practical Examinations!
 
 Every day God allows opportunities for our faith to be tested.
 
@@ -143,7 +143,7 @@ But so that **we** may discover whether our faith is genuine.
 
 <!-- PLEBVOX:START -->
 
-## ❤️ Love
+## ❤️ Love!
 
 Can I love the difficult person today?
 
@@ -151,7 +151,7 @@ Can I love the difficult person today?
 
 <!-- PLEBVOX:START -->
 
-## 🤲 Forgiveness
+## 🤲 Forgiveness!
 
 Can I release the one who wounded me?
 
@@ -159,7 +159,7 @@ Can I release the one who wounded me?
 
 <!-- PLEBVOX:START -->
 
-## 🙏 Humility
+## 🙏 Humility!
 
 Can I admit I was wrong?
 
@@ -167,7 +167,7 @@ Can I admit I was wrong?
 
 <!-- PLEBVOX:START -->
 
-## 🪞 Integrity
+## 🪞 Integrity!
 
 Am I the same person in private as I am in public?
 
@@ -175,7 +175,7 @@ Am I the same person in private as I am in public?
 
 <!-- PLEBVOX:START -->
 
-## 💪 Faith
+## 💪 Faith!
 
 Will I trust God when prayers seem unanswered?
 
@@ -183,7 +183,7 @@ Will I trust God when prayers seem unanswered?
 
 <!-- PLEBVOX:START -->
 
-## 👣 Obedience
+## 👣 Obedience!
 
 Will I obey even when obedience is costly?
 
@@ -191,7 +191,7 @@ Will I obey even when obedience is costly?
 
 <!-- PLEBVOX:START -->
 
-## 🗣️ Speech
+## 🗣️ Speech!
 
 Do my words build others up?
 
@@ -199,7 +199,7 @@ Do my words build others up?
 
 <!-- PLEBVOX:START -->
 
-## ❤️‍🩹 Compassion
+## ❤️‍🩹 Compassion!
 
 Will I stop to help someone in need?
 
@@ -207,7 +207,7 @@ Will I stop to help someone in need?
 
 <!-- PLEBVOX:START -->
 
-## ⏳ Stewardship
+## ⏳ Stewardship!
 
 Am I using God's gifts wisely?
 
@@ -215,7 +215,7 @@ Am I using God's gifts wisely?
 
 <!-- PLEBVOX:START -->
 
-## 🏃 Perseverance
+## 🏃 Perseverance!
 
 Will I continue faithfully even when life becomes difficult?
 
@@ -225,7 +225,7 @@ Will I continue faithfully even when life becomes difficult?
 
 <!-- PLEBVOX:START -->
 
-# 👑 Heavenly View
+# 👑 Heavenly View!
 
 From Heaven's perspective, success is not measured by popularity, influence, education, or even theological knowledge.
 
@@ -260,7 +260,7 @@ May that be the desire of every child of God.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Practical Tips
+# 🔑 Practical Tips!
 
 * 📖 Read God's Word with the intention of obeying it.
 * 🙏 Ask each morning, "Lord, how can I live this passage today?"
@@ -276,7 +276,7 @@ May that be the desire of every child of God.
 
 <!-- PLEBVOX:START -->
 
-# ✅ To Do Today
+# ✅ To Do Today!
 
 ☐ Read James 1:22–27 slowly.
 
@@ -296,7 +296,7 @@ May that be the desire of every child of God.
 
 <!-- PLEBVOX:START -->
 
-# 🌟 Final Thoughts
+# 🌟 Final Thoughts!
 
 The Christian life is far more than gaining biblical information.
 
@@ -322,7 +322,7 @@ May we become living testimonies of the One who saved us.
 
 <!-- PLEBVOX:START -->
 
-# 🙏 Closing Prayer
+# 🙏 Closing Prayer!
 
 Lord Jesus, thank You for calling us to follow You rather than merely admire You from a distance; teach us to become faithful doers of Your Word, strengthen us to obey when obedience is difficult, fill us with Your love, humility, compassion, integrity, and perseverance, and may every part of our lives reflect Your character so that others may see Christ in us and glorify our Father in Heaven; keep us faithful until the day we stand before You and hear those precious words, "Well done, thou good and faithful servant." Amen.
 
