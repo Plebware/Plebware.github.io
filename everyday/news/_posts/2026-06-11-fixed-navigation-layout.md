@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Fixed Navigation Layout"
+title: "Fixed Navigation Layout!"
 date: 2026-06-11
 ---
 
 <!-- PLEBVOX:START -->
 
-## Site Now Fully Functional
+## Site Now Fully Functional!
 
 After repeatedly recreating the CSS of this site, Otto has finally managed to get the site layout working consistently across both mobile devices and desktop computers. The result is a cleaner, more responsive experience that adapts naturally to different screen sizes while maintaining the same visual identity throughout the site.
 
