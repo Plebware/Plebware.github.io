@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Living Dead — Part Two: The Unthinkable Intervention"
+title: "The Living Dead — Part Two: The Unthinkable Intervention!"
 date: 2026-07-21
 last_updated: 2026-07-21
 category: "fiction"
@@ -10,13 +10,13 @@ excerpt: "The shadows have served their purpose. The pedagogy is complete. But w
 ---
 <!-- PLEBVOX:START -->
 
-# The Living Dead
+# The Living Dead!
 
-## Part Two: The Unthinkable Intervention
+## Part Two: The Unthinkable Intervention!
 
 ---
 
-### The Condition Worsens
+### The Condition Worsens!
 
 Four millennia of shadows. Four millennia of blood. Four millennia of the living dead shuffling through their borrowed existence.
 
@@ -32,7 +32,7 @@ And in their comfort, they had forgotten that they were dead.
 
 ---
 
-### Futile Endeavours Of The Foolish
+### Futile Endeavours Of The Foolish!
 
 Consider, if you will, the state of the living dead in their natural habitat.
 
@@ -56,7 +56,7 @@ This is the condition. This is the diagnosis. This is the crime scene. And I, **
 
 ---
 
-### The Futility of Human Effort
+### The Futility of Human Effort!
 
 The living dead have tried everything.
 
@@ -76,7 +76,7 @@ There is no third option.
 
 ---
 
-### The Assembly of the Dead
+### The Assembly of the Dead!
 
 And yet, they assemble.
 
@@ -103,7 +103,7 @@ But how? How can **the Architect** descend into the grave without becoming dead 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-### The Unthinkable Step
+### The Unthinkable Step!
 
 This was the dilemma. This was the cosmic problem that had no human solution.
 
@@ -127,7 +127,7 @@ And yet, it was the only way.
 
 ---
 
-### The Descent
+### The Descent!
 
 For four millennia, humanity waited without knowing it was waiting.
 
@@ -189,7 +189,7 @@ Life itself would stand face to face with death.
 
 ---
 
-### The Unexpected End
+### The Unexpected End!
 
 The One who brought life should have been welcomed.
 
@@ -211,7 +211,7 @@ And so, the inevitable happened.
 
 ---
 
-### The Machinery of Death
+### The Machinery of Death!
 
 Once the decision had been made, events unfolded with chilling precision.
 
@@ -223,7 +223,7 @@ The verdict had been written long before the evidence was heard.
 
 ---
 
-### The Unthinkable
+### The Unthinkable!
 
 Then came the moment no prophet had fully understood and no philosopher could ever have imagined.
 
@@ -254,7 +254,7 @@ And He bore them to the grave.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-### The Silence
+### The Silence!
 
 He died.
 
@@ -306,7 +306,7 @@ Or so it seemed.
 
 ---
 
-### The Unthinkable Return
+### The Unthinkable Return!
 
 Then, before the city had fully awakened, something happened that no witness could fully describe.
 
@@ -336,7 +336,7 @@ The living dead could finally, truly, live.
 
 ---
 
-### The Invitation
+### The Invitation!
 
 This, then, is the message of **the Architect's Scribe**.
 
