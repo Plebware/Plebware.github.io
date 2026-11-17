@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moldy Food — A Moral Story About Lack"
+title: "Moldy Food — A Moral Story About Lack!"
 date: 2026-08-11
 ---
 <img src="{{ '/assets/images/moldy-food.webp' | relative_url }}" 
@@ -9,7 +9,7 @@ date: 2026-08-11
 ----
 <!-- PLEBVOX:START -->
 
-## 🔑 The Mouldy Viennas
+## 🔑 The Mouldy Viennas!
 
 There are some stories that begin with a grand adventure.
 
@@ -45,7 +45,7 @@ And so, in one magnificent moment of irony:
 
 <!-- PLEBVOX:START -->
 
-## 😄 There Had To Be A Laugh Somewhere
+## 😄 There Had To Be A Laugh Somewhere!
 
 Now, there is something important about laughing at a situation like this.
 
@@ -75,7 +75,7 @@ And the story became something worth sharing.
 
 <!-- PLEBVOX:START -->
 
-## 😔 The Serious Part
+## 😔 The Serious Part!
 
 Behind the joke is something much more serious.
 
@@ -107,7 +107,7 @@ Neither situation determines the value of the person experiencing it.
 
 <!-- PLEBVOX:START -->
 
-## 🔥 The Moral
+## 🔥 The Moral!
 
 The moral of the mouldy viennas is simple:
 
@@ -129,7 +129,7 @@ And sometimes the strongest thing a person can say is:
 
 <!-- PLEBVOX:START -->
 
-## 🛠️ From Mouldy Viennas To PlebWare
+## 🛠️ From Mouldy Viennas To PlebWare!
 
 There is another lesson hidden inside this ridiculous little story.
 
@@ -171,7 +171,7 @@ One day at a time.
 
 <!-- PLEBVOX:START -->
 
-## 🌱 What The Viennas Taught Me
+## 🌱 What The Viennas Taught Me!
 
 The viennas were unusable.
 
@@ -215,7 +215,7 @@ but that doesn't mean the future has to be empty too.
 
 <!-- PLEBVOX:END -->
 
-## 🔑 Moral of the Story
+## 🔑 Moral of the Story!
 
 > **Don't let what you lack convince you that you lack worth.**
 
