@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Search for a Smile"
+title: "The Search for a Smile!"
 date: 2026-07-08
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Tears for Fears
+# 🔑 Tears for Fears!
 
 *"This morning I am sitting staring at a blank page. For the first time in a long time, I wanted to write something joyful. The trouble was, I couldn't remember what joy felt like."*
 
