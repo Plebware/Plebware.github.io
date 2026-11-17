@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Author PlebMachine User — Mode 02 Introduction and Learning Guide"
+title: "Author PlebMachine User — Mode 02 Introduction and Learning Guide!"
 date: 2026-10-18
 description: "An introduction to Author PlebMachine User, Mode 02 of PlebMachine, and the PlebWare tutorials, tools, and resources that support it."
 category: "author"
