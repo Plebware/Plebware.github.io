@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Environmental Sanity"
+title: "Environmental Sanity!"
 date: 2026-07-14
 category: "non-fiction"
 tags: [environment, systems, education, learning, sustainability, personal-growth, plebware]
@@ -9,7 +9,7 @@ author: Otto Brinkmeier
 ---
 <!-- PLEBVOX:START -->
 
-# Environmental Sanity
+# Environmental Sanity!
 
 I have always been fascinated by systems. That fascination is rooted in two defining influences in my life: my father and my career. Because of them, I rarely look at an environment as simply a place. Instead, I see it as a **system**—a collection of interconnected parts working together, each influencing the other.
 
@@ -25,7 +25,7 @@ Some of these systems are largely **closed-loop**, meaning they regulate themsel
 
 For the purposes of this thesis, I divide the environment into three primary levels:
 
-## 🌍 Global Environment
+## 🌍 Global Environment!
 
 The worldwide systems that influence all life, including:
 
@@ -35,7 +35,7 @@ The worldwide systems that influence all life, including:
 - Global societies
 - Natural resources
 
-## 🏘️ Local Environment
+## 🏘️ Local Environment!
 
 The communities and surroundings that directly affect our daily lives, including:
 
@@ -45,7 +45,7 @@ The communities and surroundings that directly affect our daily lives, including
 - Local ecosystems
 - Culture
 
-## 👤 Personal Environment
+## 👤 Personal Environment!
 
 The spaces in which an individual lives and develops, including:
 
@@ -57,17 +57,17 @@ The spaces in which an individual lives and develops, including:
 
 ---
 
-# Understanding Systems
+# Understanding Systems!
 
 Before examining these three levels, it is useful to understand the concepts of **closed-loop** and **open-loop** systems.
 
-## 🔄 Closed-Loop Systems
+## 🔄 Closed-Loop Systems!
 
 A closed-loop system is largely self-regulating. Through internal feedback it maintains stability and adapts to change with minimal outside intervention.
 
 A healthy forest provides a good example. Nutrients are recycled, populations remain balanced, and the ecosystem can sustain itself over long periods.
 
-## 🔁 Open-Loop Systems
+## 🔁 Open-Loop Systems!
 
 An open-loop system depends upon continual external input.
 
@@ -83,7 +83,7 @@ A manufacturing factory is a familiar example. It requires:
 
 Without these external inputs, production stops.
 
-## ⚖️ Most Systems Are Hybrid
+## ⚖️ Most Systems Are Hybrid!
 
 Very few systems are entirely open or entirely closed.
 
@@ -107,7 +107,7 @@ Understanding this interaction between self-regulation and external dependence p
 
 ---
 
-# 🏛️ Historical Influencers
+# 🏛️ Historical Influencers!
 
 Another major influence on our environment is history.
 
@@ -134,7 +134,7 @@ These circumstances are rarely chosen, yet they profoundly shape our lives.
 
 ---
 
-# 🌱 Changing Your Environment
+# 🌱 Changing Your Environment!
 
 Changing your environment is often one of life's greatest challenges.
 
@@ -152,7 +152,7 @@ Fortunately, many excellent platforms already exist.
 
 ---
 
-# 🎓 Learning Platforms That Can Change Your Life
+# 🎓 Learning Platforms That Can Change Your Life!
 
 The internet has transformed education.
 
@@ -162,7 +162,7 @@ Many platforms are completely free. Others charge only for certificates while al
 
 ---
 
-## 🔑 Alison
+## 🔑 Alison!
 
 <https://alison.com>
 
@@ -189,7 +189,7 @@ Ideal for:
 
 ---
 
-## 🔑 Khan Academy
+## 🔑 Khan Academy!
 
 <https://www.khanacademy.org>
 
@@ -209,7 +209,7 @@ Excellent for school learners, university preparation, and adults refreshing for
 
 ---
 
-## 🔑 Coursera
+## 🔑 Coursera!
 
 <https://www.coursera.org>
 
@@ -225,7 +225,7 @@ Most courses can be audited free of charge.
 
 ---
 
-## 🔑 edX
+## 🔑 edX!
 
 <https://www.edx.org>
 
@@ -247,7 +247,7 @@ Many university-level courses are available free to audit.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 OpenLearn
+## 🔑 OpenLearn!
 
 <https://www.open.edu/openlearn/>
 
@@ -265,7 +265,7 @@ Courses include:
 
 ---
 
-## 🔑 MIT OpenCourseWare
+## 🔑 MIT OpenCourseWare!
 
 <https://ocw.mit.edu>
 
@@ -280,7 +280,7 @@ Subjects range from engineering and physics to economics and philosophy.
 
 ---
 
-## 🔑 Harvard Online Learning
+## 🔑 Harvard Online Learning!
 
 <https://pll.harvard.edu>
 
@@ -297,7 +297,7 @@ Many courses may be audited without charge.
 
 ---
 
-## 🔑 FutureLearn
+## 🔑 FutureLearn!
 
 <https://www.futurelearn.com>
 
@@ -314,7 +314,7 @@ Some courses remain permanently free while others offer free access for limited 
 
 ---
 
-## 🔑 freeCodeCamp
+## 🔑 freeCodeCamp!
 
 <https://www.freecodecamp.org/learn>
 
@@ -334,7 +334,7 @@ Students build real-world projects while learning.
 
 ---
 
-## 🔑 Google Skillshop
+## 🔑 Google Skillshop!
 
 <https://skillshop.withgoogle.com>
 
@@ -350,7 +350,7 @@ Many courses include recognised Google certifications.
 
 ---
 
-# 📚 Making the Most of Online Learning
+# 📚 Making the Most of Online Learning!
 
 The greatest advantage of online education is flexibility.
 
@@ -373,7 +373,7 @@ To maximise your success:
 
 ---
 
-# 🔑 Education Is an Investment
+# 🔑 Education Is an Investment!
 
 One of the greatest investments you can ever make is in yourself.
 
