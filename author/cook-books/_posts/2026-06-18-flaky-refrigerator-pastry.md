@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flaky Refrigerator Pastry"
+title: "Flaky Refrigerator Pastry!"
 date: 2026-06-18
 ---
 
@@ -8,7 +8,7 @@ date: 2026-06-18
 
 <div align="center">
 
-# 🥐 Flaky Refrigerator Pastry
+# 🥐 Flaky Refrigerator Pastry!
 
 </div>
 
@@ -16,7 +16,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🥘 Ingredients
+## 🥘 Ingredients!
 
 - 🧈 225g Butter  
   *(Approximately half the width of a 500g brick)*
@@ -30,7 +30,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 👩‍🍳 Method
+## 👩‍🍳 Method!
 
 1. Place the butter, margarine, salt, and hot water into a mixing bowl.
 2. Beat together until the mixture forms a smooth cream.
@@ -45,7 +45,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Uses
+## 🔑 Uses!
 
 This pastry is suitable for:
 
@@ -59,7 +59,7 @@ This pastry is suitable for:
 
 <!-- PLEBVOX:START -->
 
-## ❄️ Storage Tip
+## ❄️ Storage Tip!
 
 The pastry keeps well in the refrigerator and can be used as needed by cutting off only the amount required for each recipe.
 
