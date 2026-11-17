@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Remaining Positive When the Headlines Are Not"
+title: "Remaining Positive When the Headlines Are Not!"
 date: 2026-06-30
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🌤️ Remaining Positive When the Headlines Are Not
+# 🌤️ Remaining Positive When the Headlines Are Not!
 
 > *"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things."* — Philippians 4:8
 
@@ -14,7 +14,7 @@ date: 2026-06-30
 
 <!-- PLEBVOX:START -->
 
-## ⚽ Another Disappointment
+## ⚽ Another Disappointment!
 
 Some days begin with disappointment before breakfast.
 
@@ -30,7 +30,7 @@ It hurts for a while, but life moves on.
 
 <!-- PLEBVOX:START -->
 
-## 📰 Then Came the News
+## 📰 Then Came the News!
 
 No sooner had I accepted the football result than another series of headlines appeared.
 
@@ -44,7 +44,7 @@ The world feels increasingly uncertain.
 
 <!-- PLEBVOX:START -->
 
-## 🌍 Living in an Age of Constant Anxiety
+## 🌍 Living in an Age of Constant Anxiety!
 
 Modern technology keeps us informed every minute of every day.
 
@@ -63,7 +63,7 @@ If we are not careful, we begin carrying burdens that were never ours to carry.
 
 <!-- PLEBVOX:START -->
 
-## 🧠 Guarding Our Minds
+## 🧠 Guarding Our Minds!
 
 Remaining positive does **not** mean pretending problems do not exist.
 
@@ -79,7 +79,7 @@ Hopeful people believe reality is not the end of the story.
 
 <!-- PLEBVOX:START -->
 
-## ✝️ The Christian Perspective
+## ✝️ The Christian Perspective!
 
 Jesus never promised His followers an easy world.
 
@@ -117,7 +117,7 @@ We can choose:
 
 <!-- PLEBVOX:START -->
 
-## 🌱 Choosing Hope Every Day
+## 🌱 Choosing Hope Every Day!
 
 Every generation has believed it was living through difficult times.
 
@@ -131,7 +131,7 @@ Perhaps that is where real hope begins—not in changing the whole world overnig
 
 <!-- PLEBVOX:START -->
 
-## 🙏 Final Thoughts
+## 🙏 Final Thoughts!
 
 Today may not have gone the way I hoped.
 
