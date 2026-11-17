@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Dominoes Might Have Fallen — Five Stories of Faith"
+title: "The Dominoes Might Have Fallen — Five Stories of Faith!"
 date: 2026-10-28
 category: "fiction"
 tags: [Christian fiction, short stories, faith, perseverance, domino effect, discipleship, truth, service]
@@ -20,7 +20,7 @@ Five small stories about ordinary people, life's falling dominoes, and the faith
 
 ## 🎣 The Fisherman.
 
-### 🌊 A Calling by the River of Life
+### 🌊 A Calling by the River of Life!
 
 Othello was just another ordinary man who made his living beside the river of life. Then, one day, forty-four years ago, he met a man unlike any he had ever known. Before long, Othello and many others from his village had left their old lives behind to follow this remarkable man. It is said that, even today, they are still catching fish of another sort, and that they have discovered a kind of sustenance that hunger can never take away.
 
@@ -36,7 +36,7 @@ Yesterday, Othello tried to keep himself occupied and take his mind off his trou
 
 <!-- PLEBVOX:START -->
 
-### 🁢 When the Dominoes Begin to Fall
+### 🁢 When the Dominoes Begin to Fall!
 
 There was plenty of other work to occupy him. He was busy completing his PlebMachine project and had started writing its manual. On top of everything else, he and his household had been dealing with intermittent network problems. Othello had taken the modem down, cleaned away the dust, checked the cables, and reconnected everything. Unfortunately, the problems persisted.
 
@@ -52,7 +52,7 @@ This month, when Boy Mist went to the hospital to collect his chronic medication
 
 <!-- PLEBVOX:START -->
 
-### 🤝 Sharing the Burden
+### 🤝 Sharing the Burden!
 
 For people already living from hand to mouth, an unexpected medical expense can be enough to knock another domino over. It was not a fortune to some, perhaps, but it was money they had not planned to spend, and every rand already had a purpose.
 
@@ -68,7 +68,7 @@ They were still learning to trust God when the nets came back nearly empty, when
 
 <!-- PLEBVOX:START -->
 
-### ✝️ A Hope Beyond the Nets
+### ✝️ A Hope Beyond the Nets!
 
 Perhaps this was another lesson in the art of fishing: a fisherman cannot command the river, the weather, or the fish. He can prepare his nets, work diligently, and persevere, but there are things beyond his control.
 
@@ -86,7 +86,7 @@ For they are still catching fish of another sort, and they hold on to a hope tha
 
 ## 🏺 The Potter’s Apprentice.
 
-### 🏺 The Long Apprenticeship
+### 🏺 The Long Apprenticeship!
 
 Young Fred had never realised that becoming a potter's apprentice would be such a long process. He had fancied himself creating beautiful clay pottery, yet, after forty-eight years of following his Master, he had spent much of his apprenticeship learning how to repair broken vessels.
 
@@ -104,7 +104,7 @@ Sadly, the conversation had consequences beyond the two men involved. The church
 
 <!-- PLEBVOX:START -->
 
-### 🗣️ When Words Break Vessels
+### 🗣️ When Words Break Vessels!
 
 The irony of the situation was difficult to overlook. Fred had always regarded blessings, whatever their form, as gifts from God. When he received assistance, he was grateful, and he used it to provide food and meet his needs. He was not using the church's assistance to fund his smoking habit. He worked to support his own personal habits at a local business near his home, while the help he received was used for necessities.
 
@@ -120,7 +120,7 @@ In the years that followed, Fred received kind assistance from friends and famil
 
 <!-- PLEBVOX:START -->
 
-### 🧾 The Domino Effect of an Accusation
+### 🧾 The Domino Effect of an Accusation!
 
 He did not wish to turn his disappointment into an accusation against those who had helped him. He knew that many had acted with good intentions, and he appreciated the kindness they had shown him.
 
@@ -136,7 +136,7 @@ Those victories mattered. They were reminders that change was possible, even whe
 
 <!-- PLEBVOX:START -->
 
-### 🚬 An Unfinished Journey
+### 🚬 An Unfinished Journey!
 
 Fred had not conquered every weakness, but neither had every weakness conquered him. He continued to trust that God could work in his life, helping him grow in the areas where he still struggled. He wanted to leave smoking behind in God's timing and through God's strength, rather than pretending that the struggle did not exist.
 
@@ -152,7 +152,7 @@ Rather, the story is a reminder that our words carry responsibility. We may spea
 
 <!-- PLEBVOX:START -->
 
-### 👐 Still in the Potter’s Hands
+### 👐 Still in the Potter’s Hands!
 
 A broken vessel can sometimes be repaired, but the work requires care, patience, and a willingness to acknowledge the damage.
 
@@ -170,7 +170,7 @@ And as long as Fred remains willing to be shaped, there is still hope for what t
 
 ## 🪖 The Combat Soldier.
 
-### 🎖️ Service to His Country
+### 🎖️ Service to His Country!
 
 William was drafted into the King’s army and taught to fight with weapons he had never imagined using. Long before he was drafted to serve his own country, however, another calling had already begun to take shape.
 
@@ -184,7 +184,7 @@ He had traded his automatic rifle for a keyboard, which he came to realise could
 
 <!-- PLEBVOX:START -->
 
-### ⌨️ From the Battlefield to the Keyboard
+### ⌨️ From the Battlefield to the Keyboard!
 
 His King and original Commander-in-Chief had given him an unusual set of weapons. He had the Word of God, prayer, patience, and the ability to encourage those who had grown weary. He was also learning that truth could be spoken without cruelty, and that defending the faith did not mean treating every person who disagreed with him as an enemy.
 
@@ -198,7 +198,7 @@ Then he remembered the instructions given to soldiers in the King's service. The
 
 <!-- PLEBVOX:START -->
 
-### 🛡️ The Armour of God
+### 🛡️ The Armour of God!
 
 He was not fighting against flesh and blood. People were not his ultimate enemy, even when their words or actions caused him pain. His responsibility was to resist evil, expose falsehood where necessary, encourage the discouraged, and remain faithful when the cost of doing so became uncomfortable.
 
@@ -210,7 +210,7 @@ And so William continues to serve. He may never be celebrated in the newspapers,
 
 <!-- PLEBVOX:START -->
 
-### ✝️ A Soldier’s True Victory
+### ✝️ A Soldier’s True Victory!
 
 William is an ordinary man serving an extraordinary King. His battlefield may be his home, his workplace, his church, or even the quiet corridors of his own mind. Yet he knows that the war is not over, and that some of his hardest battles may still lie ahead.
 
@@ -224,7 +224,7 @@ And when the final trumpet sounds, William hopes to hear the words that every fa
 
 ## 📚 The Teacher’s Apprentices.
 
-### 📖 The Greatest Teacher’s Curriculum
+### 📖 The Greatest Teacher’s Curriculum!
 
 A great teacher goes around recruiting new students and turning them into good students.
 
@@ -242,7 +242,7 @@ The apprentices soon discover that the lessons do not end when the classroom doo
 
 <!-- PLEBVOX:START -->
 
-### 🧭 Lessons Beyond the Classroom
+### 🧭 Lessons Beyond the Classroom!
 
 It is easy to speak about forgiveness when nobody has offended you. It is easy to preach generosity when your cupboards are full. It is easy to tell another person to remain patient when you are not the one waiting for an answer to prayer. But when disappointment arrives, money becomes scarce, or someone speaks carelessly about you, the Teacher's lessons suddenly become very practical.
 
@@ -258,7 +258,7 @@ Of course, the apprentices must remember that they remain students too. The mome
 
 <!-- PLEBVOX:START -->
 
-### 🌱 Students Who Become Teachers
+### 🌱 Students Who Become Teachers!
 
 The greatest Teacher is Jesus Christ. His original disciples learned from Him, carried His message into the world, and taught others to observe His commands. That work continues through generations of believers who seek to live according to His Word.
 
@@ -276,7 +276,7 @@ For the greatest Teacher has never stopped calling new students. There is still 
 
 ## 🐑 The Sheep Wrangler.
 
-### 🐑 A Calling He Had Not Chosen
+### 🐑 A Calling He Had Not Chosen!
 
 It was with reluctance that Brother Cody accepted the calling of sheep wrangler from his Master.
 
@@ -294,7 +294,7 @@ Cody soon discovered that keeping sheep was not simply about telling them where 
 
 <!-- PLEBVOX:START -->
 
-### 🪵 Learning the Work of a Shepherd
+### 🪵 Learning the Work of a Shepherd!
 
 There were times when Cody grew impatient. Why could the sheep not simply follow the path? Why did the same problems keep appearing? Why did he have to repeat instructions that he had already given a dozen times?
 
@@ -312,7 +312,7 @@ A wrangler who cared only about keeping the flock obedient might become more con
 
 <!-- PLEBVOX:START -->
 
-### ❤️ Caring for the Flock
+### ❤️ Caring for the Flock!
 
 Cody began to understand why Jesus had spoken so often about sheep and shepherds. In the Gospel of John, Jesus describes Himself as the Good Shepherd who lays down His life for the sheep. After His resurrection, He instructed Peter to feed His lambs and tend His sheep.
 
@@ -330,7 +330,7 @@ Cody still occasionally wished he had been given cattle or horses. He had not su
 
 <!-- PLEBVOX:START -->
 
-### 🙏 The Master’s Work
+### 🙏 The Master’s Work!
 
 It was measured by what one did with the responsibility God had entrusted to them.
 
