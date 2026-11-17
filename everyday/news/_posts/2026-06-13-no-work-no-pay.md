@@ -6,13 +6,13 @@ date: 2026-06-13
 
 <!-- PLEBVOX:START -->
 
-# 📰 Missed Four Days — Yet Still Writing
+# 📰 Missed Four Days — Yet Still Writing!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 📖 Local Journal
+## 📖 Local Journal!
 
 The past few weeks have been financially challenging.
 
@@ -35,7 +35,7 @@ For a pensioner trying to make ends meet while pursuing writing, technology proj
 
 <!-- PLEBVOX:START -->
 
-## ✍️ The Calling Continues
+## ✍️ The Calling Continues!
 
 Despite the setbacks, another day has arrived, and with it comes another opportunity to write.
 
@@ -59,7 +59,7 @@ The PlebWare and PlebMachine projects still need to move forward.
 
 <!-- PLEBVOX:START -->
 
-## 🔄 The Multi-Tasking Dilemma
+## 🔄 The Multi-Tasking Dilemma!
 
 Anyone who knows me knows that I am generally opposed to multitasking.
 
@@ -95,7 +95,7 @@ Quantity should never require sacrificing quality.
 
 <!-- PLEBVOX:START -->
 
-## 🙏 Morning Prayer
+## 🙏 Morning Prayer!
 
 As the neighbourhood rooster announced the arrival of a new day, I found myself offering this prayer:
 
@@ -137,7 +137,7 @@ As the neighbourhood rooster announced the arrival of a new day, I found myself 
 
 <!-- PLEBVOX:START -->
 
-## 🧺 A Day of Laundry
+## 🧺 A Day of Laundry!
 
 Since I was not scheduled to work, I decided not to waste the day.
 
@@ -163,7 +163,7 @@ Sometimes productivity looks like clean blankets drying in the winter sun.
 
 <!-- PLEBVOX:START -->
 
-## ⚽ Football, Germany, and the World Cup Spirit
+## ⚽ Football, Germany, and the World Cup Spirit!
 
 While working, I kept one eye on football.
 
@@ -199,7 +199,7 @@ Germany's first match is tomorrow against Curaçao, and I intend to watch as man
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Final Thoughts
+## 🔑 Final Thoughts!
 
 Financial pressures remain.
 
