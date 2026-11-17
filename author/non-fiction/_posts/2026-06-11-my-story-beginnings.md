@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "My Story - Beginnings"
+title: "My Story - Beginnings!"
 date: 2026-06-11
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 My Early Years (1963–1969)
+# 🔑 My Early Years (1963–1969)!
 
 The earliest years of my life are, naturally, the hardest to remember. Much of what I know about this period comes from family records, official documents, and stories told to me over the years rather than from my own memories.
 
@@ -14,7 +14,7 @@ The earliest years of my life are, naturally, the hardest to remember. Much of w
 
 <!-- PLEBVOX:START -->
 
-## 👶 1963 – A New Beginning
+## 👶 1963 – A New Beginning!
 
 I was born on **18 January 1963** at **South Rand Hospital** in Johannesburg, South Africa.
 
@@ -24,7 +24,7 @@ Like every child, I entered the world completely unaware of the journey that lay
 
 <!-- PLEBVOX:START -->
 
-## 🎒 1969 – My First Day of School
+## 🎒 1969 – My First Day of School!
 
 On **12 January 1969**, I began **Grade 1** at **Park Junior School**, situated on **Hay Street, Turffontein**, Johannesburg.
 
@@ -36,7 +36,7 @@ Unfortunately, my personal recollections of this period are extremely limited. L
 
 <!-- PLEBVOX:START -->
 
-## 🧩 Looking Back
+## 🧩 Looking Back!
 
 Although I cannot recall many details from these formative years, they laid the foundations for everything that followed. They were the years in which my character first began to develop, even if I no longer remember the individual moments.
 
