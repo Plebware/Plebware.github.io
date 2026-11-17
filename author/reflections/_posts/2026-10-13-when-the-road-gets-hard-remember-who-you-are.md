@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When the Road Gets Hard, Remember Who You Are"
+title: "When the Road Gets Hard, Remember Who You Are?"
 date: 2026-10-13
 category: "reflections"
 tags: [faith, personal-testimony, human-dignity, hardship, perseverance, church, reconciliation, grief, personal-growth]
@@ -10,7 +10,7 @@ author: "God's Journalist — Cody — Dei Scriptor"
 
 <!-- PLEBVOX:START -->
 
-# **My Circumstances Are Not My Identity.**
+# **My Circumstances Are Not My Identity.**!
 
 *An honest personal reflection by Otto Brinkmeier on faith, human dignity, hardship, church hurt and the courage to keep going.*
 
@@ -34,7 +34,7 @@ There is a difference between the way we feel during a difficult season and the 
 
 <!-- PLEBVOX:START -->
 
-## **1. When Circumstances Begin to Speak Louder Than the Truth**
+## **1. When Circumstances Begin to Speak Louder Than the Truth**!
 
 My present circumstances are not easy.
 
@@ -66,7 +66,7 @@ Sometimes we need to remind ourselves of truths we already know.
 
 <!-- PLEBVOX:START -->
 
-## **2. Faith Does Not Mean We Never Ask Difficult Questions**
+## **2. Faith Does Not Mean We Never Ask Difficult Questions**!
 
 My Christian journey has not been a straight line.
 
@@ -98,7 +98,7 @@ Sometimes faith is the decision to keep seeking God even when our feelings and c
 
 <!-- PLEBVOX:START -->
 
-## **3. Church, Disappointment and the Possibility of Reconciliation**
+## **3. Church, Disappointment and the Possibility of Reconciliation**!
 
 Church has been an important part of my life.
 
@@ -152,7 +152,7 @@ You do not have to resolve every disagreement before taking a step towards a hea
 
 <!-- PLEBVOX:START -->
 
-## **4. Grief, Memory and the Questions We Cannot Answer**
+## **4. Grief, Memory and the Questions We Cannot Answer**!
 
 Grief has a way of bringing old questions back to the surface.
 
@@ -182,7 +182,7 @@ Sometimes it is simply the willingness to listen.
 
 <!-- PLEBVOX:START -->
 
-## **5. The Work of My Hands and the Vision in My Heart**
+## **5. The Work of My Hands and the Vision in My Heart**!
 
 Despite my difficulties, I have not stopped writing.
 
@@ -218,7 +218,7 @@ My circumstances may limit what I can do today, but they do not erase what I hav
 
 <!-- PLEBVOX:START -->
 
-## **6. My Circumstances Are Not My Identity**
+## **6. My Circumstances Are Not My Identity**!
 
 There is a difference between acknowledging reality and allowing reality to define our entire identity.
 
@@ -262,7 +262,7 @@ And there is hope in recognising that our present circumstances, however difficu
 
 <!-- PLEBVOX:START -->
 
-## **7. Still Standing, Still Learning, Still Becoming**
+## **7. Still Standing, Still Learning, Still Becoming**!
 
 I am not writing this article from the finish line.
 
@@ -312,7 +312,7 @@ Not because I have all the answers, but because there is still work to do, still
 
 <!-- PLEBVOX:START -->
 
-## **A Closing Reflection**
+## **A Closing Reflection**!
 
 Perhaps the most important lesson I am learning is this:
 
