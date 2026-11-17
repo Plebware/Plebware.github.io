@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Lore Behind My Science Fiction Universe"
+title: "The Lore Behind My Science Fiction Universe!"
 date: 2026-07-23
 tags:
   - Science Fiction
@@ -18,7 +18,7 @@ excerpt: "Explore the lore behind O.C. Verrocchio's science fiction universe, wh
 
 <!-- PLEBVOX:START -->
 
-# **Lore Needs To Be Believable, Lovable and Memorable**
+# **Lore Needs To Be Believable, Lovable and Memorable**!
 
 Every science fiction universe has its own identity.
 
@@ -30,7 +30,7 @@ The stories of Captain Cody and the crew of the **Star Ship Frederick** are only
 
 <!-- PLEBVOX:START -->
 
-## A Universe Rooted in Reality
+## A Universe Rooted in Reality!
 
 Although my stories take place around the year **2100 and beyond**, I wanted the setting to feel believable.
 
@@ -42,7 +42,7 @@ As mankind spread into space, entirely new civilizations emerged. Some remained 
 
 <!-- PLEBVOX:START -->
 
-## The Great Powers
+## The Great Powers!
 
 The galaxy is not ruled by a single empire.
 
@@ -62,7 +62,7 @@ Together these organisations create a political landscape where alliances shift,
 
 <!-- PLEBVOX:START -->
 
-## A New Age Needs New Standards
+## A New Age Needs New Standards!
 
 As humanity expanded across the stars, old systems of measurement became increasingly inadequate.
 
@@ -78,7 +78,7 @@ These systems are rarely the focus of a story, but they help create the illusion
 
 <!-- PLEBVOX:START -->
 
-## Time Beyond Earth
+## Time Beyond Earth!
 
 Life among the stars demanded more than new measurements.
 
@@ -92,7 +92,7 @@ These changes reinforce the idea that my characters no longer live in twenty-fir
 
 <!-- PLEBVOX:START -->
 
-## More Than Heroes and Villains
+## More Than Heroes and Villains!
 
 One principle guides every major faction in my universe:
 
@@ -114,7 +114,7 @@ Each believes its philosophy offers the best hope for the future, and that moral
 
 <!-- PLEBVOX:START -->
 
-## An Ever-Expanding Universe
+## An Ever-Expanding Universe!
 
 The adventures I write today represent only a small corner of this fictional universe.
 
