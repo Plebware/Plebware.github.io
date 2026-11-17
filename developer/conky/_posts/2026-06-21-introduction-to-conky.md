@@ -9,7 +9,7 @@ date: 2026-06-21
 ---
 -------------
 
-# 📊 Introduction to Conky
+# 📊 Introduction to Conky!
 
 Conky is a lightweight system monitoring tool for Linux desktops.
 
@@ -45,7 +45,7 @@ Instead of opening multiple applications, users can view important system detail
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Lightweight and Efficient
+## 🔑 Lightweight and Efficient!
 
 One reason Conky remains popular is its low resource usage.
 
@@ -55,7 +55,7 @@ Even older computers can run Conky comfortably.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Customization
+## 🔑 Customization!
 
 Conky is highly customizable.
 
@@ -73,7 +73,7 @@ This flexibility makes it useful for both beginners and advanced users.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Conky in Productivity Systems
+## 🔑 Conky in Productivity Systems!
 
 Projects such as PlebMachine can use Conky dashboards to provide quick access to system information, project status, workspace indicators, and productivity metrics.
 
@@ -81,7 +81,7 @@ Projects such as PlebMachine can use Conky dashboards to provide quick access to
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Conclusion
+## 🔑 Conclusion!
 
 Conky combines usefulness, flexibility, and efficiency in a single tool.
 
