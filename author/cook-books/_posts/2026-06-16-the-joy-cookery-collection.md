@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Joy Cookery Collection"
+title: "The Joy Cookery Collection!"
 date: 2026-06-16
 ---
 
@@ -15,15 +15,15 @@ date: 2026-06-16
 </div>
 ----
 
-# The Joy Cookery Collection
+# The Joy Cookery Collection!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Preserving the Past, Cooking for the Future
+## Preserving the Past, Cooking for the Future!
 
-### A Personal Introduction
+### A Personal Introduction!
 
 My mother used a cookery booklet entitled:
 
@@ -31,13 +31,13 @@ My mother used a cookery booklet entitled:
 
 <!-- PLEBVOX:START -->
 
-# Joy Cookery Book
+# Joy Cookery Book!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Tried and Tested Recipes and Hints for the Business Girl
+## Tried and Tested Recipes and Hints for the Business Girl!
 
 Originally written by **H. Crowther**
 
