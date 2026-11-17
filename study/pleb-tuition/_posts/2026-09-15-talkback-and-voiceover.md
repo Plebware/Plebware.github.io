@@ -15,7 +15,7 @@ author: Otto Brinkmeier
      style="max-width:100%; height:auto;">
 
 <!-- PLEBVOX:START -->
-## Welcome To Lesson 7
+## Welcome To Lesson 7!
 <!-- PLEBVOX:END -->
 
 In the first six lessons, we learned what Text-to-Speech is, how to set it up, how Android, Samsung, iPhone and iPad handle speech, how to choose voices, and how to make your phone read text.
@@ -27,7 +27,7 @@ This lesson introduces **screen readers** — TalkBack on Android and VoiceOver 
 These tools are especially important for people who need spoken guidance while operating the entire device.
 
 <!-- PLEBVOX:START -->
-## 🔑 TTS Is Not The Same As A Screen Reader
+## 🔑 TTS Is Not The Same As A Screen Reader!
 <!-- PLEBVOX:END -->
 
 This is one of the most important ideas in the whole series.
@@ -58,7 +58,7 @@ A simple way to remember it is:
 You do **not** need a screen reader just because you want your phone to read an article aloud.
 
 <!-- PLEBVOX:START -->
-## Android — Meet TalkBack
+## Android — Meet TalkBack!
 <!-- PLEBVOX:END -->
 
 **TalkBack** is the screen reader built into Android devices that support it.
@@ -74,7 +74,7 @@ The important thing is to understand the job TalkBack performs.
 It is there to help you **operate the whole phone**, not simply to read a paragraph.
 
 <!-- PLEBVOX:START -->
-## 🔑 TalkBack Changes The Way You Touch The Phone
+## 🔑 TalkBack Changes The Way You Touch The Phone!
 <!-- PLEBVOX:END -->
 
 When TalkBack is active, normal touch behaviour changes.
@@ -92,7 +92,7 @@ It has not necessarily gone wrong.
 You have entered a different way of controlling the device.
 
 <!-- PLEBVOX:START -->
-## Samsung Galaxy And TalkBack
+## Samsung Galaxy And TalkBack!
 <!-- PLEBVOX:END -->
 
 On a Samsung Galaxy device, TalkBack is available through the phone's Accessibility settings.
@@ -106,7 +106,7 @@ If your goal is simply to make an article, message or selected piece of text spe
 Your normal Text-to-Speech and read-aloud tools are enough for that job.
 
 <!-- PLEBVOX:START -->
-## iPhone And iPad — Meet VoiceOver
+## iPhone And iPad — Meet VoiceOver!
 <!-- PLEBVOX:END -->
 
 Apple calls its screen reader **VoiceOver**.
@@ -122,7 +122,7 @@ Apple also provides VoiceOver practice so that users can learn its gestures.
 Like TalkBack, VoiceOver is designed to help a person operate the whole device rather than simply listen to a piece of text.
 
 <!-- PLEBVOX:START -->
-## 🔑 VoiceOver Also Changes How You Use The Screen
+## 🔑 VoiceOver Also Changes How You Use The Screen!
 <!-- PLEBVOX:END -->
 
 When VoiceOver is active, touching the screen can cause the phone or tablet to speak the item underneath your finger.
@@ -138,7 +138,7 @@ That is normal.
 VoiceOver is changing the way you interact with the device so that spoken feedback becomes part of the navigation process.
 
 <!-- PLEBVOX:START -->
-## TalkBack And VoiceOver — A Simple Comparison
+## TalkBack And VoiceOver — A Simple Comparison!
 <!-- PLEBVOX:END -->
 
 | Feature | Android | iPhone / iPad |
@@ -153,7 +153,7 @@ VoiceOver is changing the way you interact with the device so that spoken feedba
 The names are different, but the basic idea is similar.
 
 <!-- PLEBVOX:START -->
-## 🔑 TTS, TalkBack And VoiceOver
+## 🔑 TTS, TalkBack And VoiceOver!
 <!-- PLEBVOX:END -->
 
 Let's put the three terms together.
@@ -188,7 +188,7 @@ For someone who does not need full accessibility support, ordinary TTS and read-
 There is no prize for making your phone more complicated than it needs to be.
 
 <!-- PLEBVOX:START -->
-## 🔑 Don't Turn On A Screen Reader Just To Test A Voice
+## 🔑 Don't Turn On A Screen Reader Just To Test A Voice!
 <!-- PLEBVOX:END -->
 
 If you are following this series because you want a pleasant voice for reading articles, books, messages or study material, stay with the TTS tools we covered in the earlier lessons.
@@ -218,24 +218,24 @@ On iPhone or iPad, VoiceOver can be turned off through:
 If the screen behaves differently while the screen reader is active, remember that its touch and navigation gestures have changed.
 
 <!-- PLEBVOX:START -->
-## 🔑 Your Accessibility Practice Test
+## 🔑 Your Accessibility Practice Test!
 <!-- PLEBVOX:END -->
 
 Try this simple exercise.
 
-### Step 1
+### Step 1!
 
 Open a familiar article or web page.
 
-### Step 2
+### Step 2!
 
 Listen to it using the ordinary read-aloud or TTS function you learned in Lesson 6.
 
-### Step 3
+### Step 3!
 
 Now, if you are comfortable doing so, explore the screen reader settings on your device.
 
-### Step 4
+### Step 4!
 
 Notice the difference.
 
@@ -243,7 +243,7 @@ Ordinary read-aloud concentrates on **reading text**.
 
 A screen reader concentrates on **helping you understand and operate the interface**.
 
-### Step 5
+### Step 5!
 
 Return to your normal TTS settings when you are finished.
 
@@ -252,7 +252,7 @@ The purpose of this exercise is not to become a screen-reader expert in five min
 It is simply to understand the difference.
 
 <!-- PLEBVOX:START -->
-## 🔑 Your Accessibility Checklist
+## 🔑 Your Accessibility Checklist!
 <!-- PLEBVOX:END -->
 
 Before moving on, make sure you understand these points:
@@ -268,7 +268,7 @@ Before moving on, make sure you understand these points:
 If you can tick those boxes, you are ready for the next lesson.
 
 <!-- PLEBVOX:START -->
-## The PlebWare Principle
+## The PlebWare Principle!
 <!-- PLEBVOX:END -->
 
 Technology should make life easier, not make it mysterious.
@@ -282,7 +282,7 @@ That is the PlebWare way:
 **Understand the tool. Configure the tool. Then use the tool.**
 
 <!-- PLEBVOX:START -->
-## Next Lesson — Troubleshooting
+## Next Lesson — Troubleshooting!
 <!-- PLEBVOX:END -->
 
 In **Lesson 8**, we will deal with the problems that sometimes appear when using Text-to-Speech.
@@ -300,7 +300,7 @@ Can't find the setting?
 We'll work through those problems one step at a time.
 
 <!-- PLEBVOX:START -->
-## Until Next Time
+## Until Next Time!
 <!-- PLEBVOX:END -->
 
 Keep experimenting.
