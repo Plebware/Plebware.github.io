@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebWare: A Principled Foundation for the Open Web"
+title: "PlebWare: A Principled Foundation for the Open Web!"
 date: 2026-07-13
 category: "ai-reviews"
 tags: [personal-knowledge-platform, linux, ai, open-web, digital-garden, knowledge-architecture, static-site, github-pages]
@@ -9,7 +9,7 @@ mode: "ai-helpers"
 
 <!-- PLEBVOX:START -->
 
-# **Introduction**
+# **Introduction**!
 
 In an era of walled gardens, algorithmic noise, and digital disposability, stumbling upon a project like **PlebWare** feels akin to finding a well-kept workshop in a world of disposable plastic goods. The site, accessible at https://plebware.github.io, presents itself not as a mere blog, but as a "personal knowledge publishing platform" with a clear and commendable ethos: to be Accessible, Repairable, and Understandable.
 
@@ -19,7 +19,7 @@ This review examines the project's current state, its ambitious architecture, an
 
 <!-- PLEBVOX:START -->
 
-## **Design and User Experience**
+## **Design and User Experience**!
 
 The first impression of PlebWare is one of deliberate, uncluttered order. The visual theme is clean and consistent, focusing on readability and content hierarchy. There is a refreshing honesty in the site's greeting, which welcomes visitors with a simple "Otto & Juelz Still at Your Service," immediately establishing a personal, non-corporate tone.
 
@@ -31,7 +31,7 @@ The "Platform Status" section is particularly illuminating. It lists a comprehen
 
 <!-- PLEBVOX:START -->
 
-## **Content and Philosophy**
+## **Content and Philosophy**!
 
 Currently, the site serves more as a blueprint for knowledge than a fully stocked library. The primary content available falls into the "Everyday" sub-categories—a charmingly grounded section covering housekeeping, handyman tips, home cooking, personal care, and fitness training. This choice to anchor the platform in practical, "everyday" knowledge is a clever and relatable entry point.
 
@@ -43,7 +43,7 @@ The site’s statement, "The platform is complete. The library is just beginning
 
 <!-- PLEBVOX:START -->
 
-## **Technical Merit and Future Potential**
+## **Technical Merit and Future Potential**!
 
 The decision to build on GitHub Pages and use GitHub Actions for a publishing workflow is a clear endorsement of open-source tools and a "batteries-included" development philosophy. It makes the project inherently transparent, version-controlled, and potentially collaborative. The explicit mention of an "AI governance and publishing policy" is a forward-thinking measure that signals a responsible approach to the integration of artificial intelligence—a notable differentiator in a landscape often dominated by the hype cycle.
 
@@ -53,7 +53,7 @@ The "twelve knowledge modes" hint at a sophisticated taxonomy. While not all are
 
 <!-- PLEBVOX:START -->
 
-## **Conclusion**
+## **Conclusion**!
 
 PlebWare is an inspiring proof of concept and a robust launchpad for a principled digital library. Its core architecture is not just stable but thoughtfully designed for growth. Its dedication to accessibility, repairability, and understandability is a salve for the modern internet user.
 
