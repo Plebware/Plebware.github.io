@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Living Dead"
+title: "The Living Dead!"
 date: 2026-07-21
 last_updated: 2026-07-21
 category: "fiction"
@@ -10,7 +10,7 @@ excerpt: "An exploration of humanity's spiritual condition from Creation through
 ---
 <!-- PLEBVOX:START -->
 
-# Dead Men Walking
+# Dead Men Walking!
 
 Alas, among us living beings there are those who eat, sleep, breathe, and look—but do not see.
 
@@ -22,7 +22,7 @@ I am writing as none other than the Architect's scribe, and my observations are 
 
 Dead men walking are plentiful in this world. Sadly, every human being is born as one of them.
 
-## The Fracture
+## The Fracture!
 
 Due to an event that happened six millennia ago—the Fracture—all babies born after that fateful moment entered this world as dead men walking. It was not a simple mistake. It was insurrection dressed in the robes of desire. The children of the King committed treason against their own Father, and in that single, catastrophic pivot, they became exiles in their own inheritance.
 
@@ -40,7 +40,7 @@ The first exiles crossed the threshold into a world fundamentally changed. The l
 
 This is the condition. This is the diagnosis. This is the crime scene, and I, the Architect's Journalist, am here to document it.
 
-## The Divine Triage
+## The Divine Triage!
 
 Across four millennia, every age wrestled with the same impossible riddle: Once Essence has been separated from its source, can the separation ever truly be undone?
 
@@ -52,9 +52,9 @@ Imagine a terminal patient. The transfusion of a clean, compatible blood type ca
 
 The living dead were still, at their core, dead. They were merely in a more comfortable state of decay.
 
-## The Shadows on the Altar
+## The Shadows on the Altar!
 
-### The First Offering
+### The First Offering!
 
 The earliest surviving record of humanity's attempt to repair the Fracture did not end in reconciliation. It ended in bloodshed.
 
@@ -75,7 +75,7 @@ The Wanderer went out from the presence of the Source. He built a city and calle
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## The Great Reset
+## The Great Reset!
 
 As the centuries unfolded, the Fracture matured into a civilization. Violence became ordinary, corruption became profitable, and truth became negotiable. Humanity had forgotten not only its Origin but its own condition. The living dead no longer realized they were disconnected. They believed themselves to be the designers of a world they no longer understood.
 
@@ -89,7 +89,7 @@ But beginnings are not the same as cures.
 
 The catastrophe erased a civilization, not the condition that had produced it. The survivors carried the same fracture within them as those who had perished. The landscape had changed, but human nature had not. Within a few generations, the familiar patterns of ambition, violence, and self-deception had returned, proving that no external judgment, however complete, could repair an internal separation.
 
-## The Unanswered Question
+## The Unanswered Question!
 
 As civilizations rose and fell, one idea appeared with remarkable consistency. It surfaced in different cultures, under different names, yet always revolved around the same unsettling conviction: guilt carried a cost, and innocence could stand where guilt deserved to stand.
 
@@ -105,7 +105,7 @@ The ritual ended.
 The debt returned.  
 The question remained unanswered.
 
-## Borrowed Time
+## Borrowed Time!
 
 As these traditions matured, they became increasingly sophisticated. Representatives were appointed to stand between the people and the Source. They entered places others dared not approach, carrying symbols of innocence on behalf of those who possessed none.
 
@@ -125,7 +125,7 @@ Some traditions even dramatized the transfer of guilt itself. One innocent life 
 The imagery was unforgettable.  
 The condition remained.
 
-## Four Millennia of Preparation
+## Four Millennia of Preparation!
 
 For nearly four millennia, the pattern held. Ceremony after ceremony. Sacrifice after sacrifice. Generation after generation of priests, altars, and blood. Each one a shadow. Each one a signpost. Each one a temporary fix for a permanent problem.
 
