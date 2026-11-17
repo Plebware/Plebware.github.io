@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🥔 Creamy Potato & Onion Soup"
+title: "🥔 Creamy Potato & Onion Soup!"
 date: 2026-06-18
 ---
 
@@ -8,7 +8,7 @@ date: 2026-06-18
 
 <div align="center">
 
-# 🥔🍲 Creamy Potato & Onion Soup 🧅✨
+# 🥔🍲 Creamy Potato & Onion Soup 🧅✨!
 
 **Joy Cookery Book**  
 *"Preserving the Past, Cooking for the Future"* 🍽️
@@ -21,7 +21,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🛒 Ingredients
+## 🛒 Ingredients!
 
 🥛 **3 Cups Scalded Milk**  
 💧 **1 Cup Potato Water** *(keep from boiling the potatoes)*  
@@ -41,9 +41,9 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 👨‍🍳 Method
+## 👨‍🍳 Method!
 
-### 1️⃣ Prepare the Vegetables 🥔🧅
+### 1️⃣ Prepare the Vegetables 🥔🧅!
 
 Boil the potatoes and onions together until tender.  
 
@@ -53,7 +53,7 @@ Boil the potatoes and onions together until tender.
 
 ---
 
-### 2️⃣ Make the White Sauce 🧈🥛
+### 2️⃣ Make the White Sauce 🧈🥛!
 
 Prepare a white sauce using:
 
@@ -65,7 +65,7 @@ Prepare a white sauce using:
 
 ---
 
-### 3️⃣ Combine & Season 🍲
+### 3️⃣ Combine & Season 🍲!
 
 Add the white sauce to the potato and onion pulp.
 
@@ -77,7 +77,7 @@ Mix well, then season with:
 
 ---
 
-### 4️⃣ Finish & Serve 🍽️
+### 4️⃣ Finish & Serve 🍽️!
 
 🥄 Beat the soup with an egg beater until smooth and creamy.
 
@@ -93,7 +93,7 @@ Serve hot with:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Cook's Note
+## 🔑 Cook's Note!
 
 This is a classic comfort soup — simple ingredients transformed into a warm, creamy meal. Perfect for cold evenings or when you want a taste of traditional home cooking. 🏡❤️
 
