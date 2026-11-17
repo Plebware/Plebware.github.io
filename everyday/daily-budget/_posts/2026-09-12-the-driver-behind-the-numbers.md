@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Driver Behind the Numbers"
+title: "The Driver Behind the Numbers!"
 date: 2026-09-12
 category: "daily-budget"
 tags: [PlebWare, Daily Budget, R150, Daily Wage, Working Poor, Financial Pressure, Johannesburg, Everyday Life]
