@@ -26,7 +26,7 @@ And the budget continues to struggle.
 
 <!-- PLEBVOX:START -->
 
-## 🤔 The Coffee Incident
+## 🤔 The Coffee Incident!
 
 Just yesterday I made a trip to the local shop to buy a tin of coffee.
 
@@ -54,7 +54,7 @@ The issue is what the increase represents.
 
 <!-- PLEBVOX:START -->
 
-## ❓ The Questions I Keep Asking
+## ❓ The Questions I Keep Asking!
 
 Why is our budget broken?
 
@@ -72,13 +72,13 @@ They are questions that deserve answers.
 
 <!-- PLEBVOX:START -->
 
-## ☕ Doing the Maths
+## ☕ Doing the Maths!
 
 According to supplier pricing, the coffee costs approximately **R150** from Yarona.
 
 The current shelf price is **R185**.
 
-### Complete Markup
+### Complete Markup!
 
 * Supplier Cost: **R150**
 * Selling Price: **R185**
@@ -94,11 +94,11 @@ The total markup from supplier cost to shelf price is therefore:
 
 **23.33%**
 
-### Step-by-Step Breakdown
+### Step-by-Step Breakdown!
 
 The increase happened in two stages.
 
-#### Stage 1
+#### Stage 1!
 
 ```text
 R150 → R175
@@ -110,7 +110,7 @@ Increase:
 R25 ÷ R150 × 100 = 16.67%
 ```
 
-#### Stage 2
+#### Stage 2!
 
 ```text
 R175 → R185
@@ -136,7 +136,7 @@ For pensioners and low-income earners, these small increases add up very quickly
 
 <!-- PLEBVOX:START -->
 
-## ⚡ The Electricity Quandary
+## ⚡ The Electricity Quandary!
 
 Coffee is only one part of the problem.
 
@@ -182,7 +182,7 @@ R2800 per month
 
 <!-- PLEBVOX:START -->
 
-## ⚖️ Why It Feels Unfair
+## ⚖️ Why It Feels Unfair!
 
 The financial burden is difficult enough.
 
@@ -204,7 +204,7 @@ What matters is that the lack of consistency creates understandable questions ab
 
 <!-- PLEBVOX:START -->
 
-## 📈 The Bigger Picture
+## 📈 The Bigger Picture!
 
 Coffee prices.
 
@@ -232,7 +232,7 @@ Yet together they quietly consume what little financial breathing room remains.
 
 <!-- PLEBVOX:START -->
 
-## 📝 Conclusion
+## 📝 Conclusion!
 
 When people ask why the budget is broken, the answer is not a mystery.
 
