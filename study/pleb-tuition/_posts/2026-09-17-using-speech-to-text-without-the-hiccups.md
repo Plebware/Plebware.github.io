@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebTuition: Using Speech-to-Text Without the Hiccups"
+title: "PlebTuition: Using Speech-to-Text Without the Hiccups!"
 date: 2026-09-17
 categories: [study, pleb-tuition]
 tags: [speech-to-text, voice, AI assistants, accessibility, mobile, PlebTuition]
@@ -8,7 +8,7 @@ tags: [speech-to-text, voice, AI assistants, accessibility, mobile, PlebTuition]
 
 <!-- PLEBVOX:START -->
 
-# 🎙️ Using Speech-to-Text Without the Hiccups
+# 🎙️ Using Speech-to-Text Without the Hiccups!
 
 **By Otto Brinkmeier**
 
@@ -22,7 +22,7 @@ The quality of the final transcription depends on **how we speak, where we speak
 
 <!-- PLEBVOX:START -->
 
-## 🗣️ Speak Clearly and Take Your Time
+## 🗣️ Speak Clearly and Take Your Time!
 
 There is no need to speak like a robot.
 
@@ -40,7 +40,7 @@ Taking proper breaks also helps *you* maintain accuracy and concentration during
 
 <!-- PLEBVOX:START -->
 
-## 👀 Check Before You Send
+## 👀 Check Before You Send!
 
 This is one of the easiest mistakes to make.
 
@@ -54,7 +54,7 @@ A few seconds of checking can prevent a much bigger correction later.
 
 <!-- PLEBVOX:START -->
 
-## 🔊 Watch Out for Background Noise
+## 🔊 Watch Out for Background Noise!
 
 Speech recognition has to separate your voice from everything happening around you.
 
@@ -68,7 +68,7 @@ And remember: **the louder you speak does not necessarily make the transcription
 
 <!-- PLEBVOX:START -->
 
-## 🤖 Different AI Assistants Work Differently
+## 🤖 Different AI Assistants Work Differently!
 
 Not every AI assistant handles voice input in exactly the same way.
 
@@ -82,7 +82,7 @@ Controls can also change between different versions of an app.
 
 <!-- PLEBVOX:START -->
 
-## 💡 The PlebTuition Rule
+## 💡 The PlebTuition Rule!
 
 Don't expect speech-to-text to be perfect.
 
@@ -102,7 +102,7 @@ A few seconds of checking can save several minutes of repairing a badly transcri
 
 <!-- PLEBVOX:START -->
 
-## 🎓 PlebTuition Conclusion
+## 🎓 PlebTuition Conclusion!
 
 Speech-to-text is a powerful tool, but **the human still has the final responsibility for what gets sent or published**.
 
