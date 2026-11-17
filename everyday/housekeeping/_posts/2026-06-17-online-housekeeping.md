@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Online Housekeeping"
+title: "Online Housekeeping!"
 date: 2026-06-17
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Google Account and Google Drive Management Blueprint
+# 🔑 Google Account and Google Drive Management Blueprint!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Purpose
+## Purpose!
 
 This document provides a structured plan for managing multiple Google Accounts and their associated Google Drives.
 
@@ -32,7 +32,7 @@ The objectives are:
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Master Rule
+# 🔑 Master Rule!
 
 Every Google Account should have a clearly defined role.
 
@@ -46,21 +46,21 @@ Think of each Google Drive as a separate department in an organization.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Account Structure
+# 🔑 Account Structure!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 1. otto.brinkmeier@gmail.com
+## 1. otto.brinkmeier@gmail.com!
 
-### Primary Role
+### Primary Role!
 
 Personal Administration and Master Archive
 
-### Suggested Content
+### Suggested Content!
 
-#### 📁 Personal ✅
+#### 📁 Personal ✅!
 
 - Identity documents
 - Pension records
@@ -70,26 +70,26 @@ Personal Administration and Master Archive
 - Medical records
 - Vehicle records
 
-#### 📁 Family ✅
+#### 📁 Family ✅!
 
 - Family photographs
 - Personal correspondence
 - Important scanned documents
 
-#### 📁 Master Backups
+#### 📁 Master Backups!
 
 - Website backups
 - Book archives
 - PlebMachine snapshots
 - Important ZIP archives
 
-#### 📁 Emergency Information
+#### 📁 Emergency Information!
 
 - Password recovery information
 - Contact lists
 - Estate planning documents
 
-### Purpose
+### Purpose!
 
 This becomes the "Head Office" account.
 
@@ -99,13 +99,13 @@ This becomes the "Head Office" account.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 2. othelloverrocchio@gmail.com
+# 🔑 2. othelloverrocchio@gmail.com!
 
-### Primary Role
+### Primary Role!
 
 Author and Publishing Headquarters
 
-### Present Content
+### Present Content!
 - NotaBeJaro
    - ___NoAttribution
    - ___WINDOWS
@@ -121,16 +121,16 @@ Author and Publishing Headquarters
 - Story Forge Library
 
   
-### Suggested Content
+### Suggested Content!
 
-#### 📁 Books
+#### 📁 Books!
 
 - Science Fiction
 - Novels
 - Short Stories
 - Draft Manuscripts
 
-#### 📁 Worldbuilding
+#### 📁 Worldbuilding!
 
 - Characters ✅
 - Space Ships ✅
@@ -139,26 +139,26 @@ Author and Publishing Headquarters
 - Technology
 - Species
 
-#### 📁 Research
+#### 📁 Research!
 
 - Scientific Research
 - Historical References
 - Writing Resources
 
-#### 📁 Publishing
+#### 📁 Publishing!
 
 - Cover Art
 - Final Manuscripts
 - EPUB Files
 - PDF Files
 
-#### 📁 Marketing
+#### 📁 Marketing!
 
 - Author Website
 - Author Bios
 - Promotional Material
 
-### Purpose
+### Purpose!
 
 Everything related to O.C. Verricchio.
 
@@ -168,39 +168,39 @@ Everything related to O.C. Verricchio.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 3. gameheadcody@gmail.com
+# 🔑 3. gameheadcody@gmail.com!
 
-### Primary Role
+### Primary Role!
 
 Gaming and Entertainment
 
-### Suggested Content
+### Suggested Content!
 
-#### 📁 Games
+#### 📁 Games!
 
 - Save files
 - Mods
 - Configuration files
 
-#### 📁 Media
+#### 📁 Media!
 
 - Screenshots
 - Videos
 - Streaming Assets
 
-#### 📁 Reviews
+#### 📁 Reviews!
 
 - Game Notes
 - Reviews
 - Articles
 
-#### 📁 Retro Computing
+#### 📁 Retro Computing!
 
 - DOS
 - Emulation
 - Retro Projects
 
-### Purpose
+### Purpose!
 
 Keep gaming completely separate from business and writing.
 
@@ -210,45 +210,45 @@ Keep gaming completely separate from business and writing.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 4. plebware@gmail.com
+# 🔑 4. plebware@gmail.com!
 
-### Primary Role
+### Primary Role!
 
 PlebWare Publishing Organization
 
-### Suggested Content
+### Suggested Content!
 
-#### 📁 PlebWare Website
+#### 📁 PlebWare Website!
 
 - Articles
 - Blog Posts
 - Graphics
 
-#### 📁 Documentation
+#### 📁 Documentation!
 
 - Policies
 - Procedures
 - Planning
 
-#### 📁 Tutorials
+#### 📁 Tutorials!
 
 - Linux Tutorials
 - AI Tutorials
 - Writing Tutorials
 
-#### 📁 Media
+#### 📁 Media!
 
 - Logos
 - Website Graphics
 - Promotional Material
 
-#### 📁 Public Downloads
+#### 📁 Public Downloads!
 
 - PDFs
 - Manuals
 - Publications
 
-### Purpose
+### Purpose!
 
 Public-facing educational publishing.
 
@@ -258,41 +258,41 @@ Public-facing educational publishing.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 5. plebsoftware@gmail.com
+# 🔑 5. plebsoftware@gmail.com!
 
-### Primary Role
+### Primary Role!
 
 PlebMachine and Software Development
 
-### Suggested Content
+### Suggested Content!
 
-#### 📁 PlebMachine
+#### 📁 PlebMachine!
 
 - Source Code
 - Architecture
 - Design Documents
 
-#### 📁 Scripts
+#### 📁 Scripts!
 
 - Shell Scripts
 - Python Projects
 
-#### 📁 Releases
+#### 📁 Releases!
 
 - Stable Releases
 - Beta Releases
 
-#### 📁 Documentation
+#### 📁 Documentation!
 
 - Developer Guides
 - User Manuals
 
-#### 📁 GitHub Synchronization
+#### 📁 GitHub Synchronization!
 
 - Repository Backups
 - Release Packages
 
-### Purpose
+### Purpose!
 
 Software Engineering Department.
 
@@ -302,37 +302,37 @@ Software Engineering Department.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 6. plebdiy@gmail.com
+# 🔑 6. plebdiy@gmail.com!
 
-### Primary Role
+### Primary Role!
 
 DIY, Crafts and Homesteading
 
-### Suggested Content
+### Suggested Content!
 
-#### 📁 DIY Projects
+#### 📁 DIY Projects!
 
 - Woodworking
 - Metalworking
 - Repairs
 
-#### 📁 Gardening
+#### 📁 Gardening!
 
 - Notes
 - Plans
 - Guides
 
-#### 📁 Cooking
+#### 📁 Cooking!
 
 - Recipes
 - Food Preservation
 
-#### 📁 Household Projects
+#### 📁 Household Projects!
 
 - Maintenance Guides
 - Improvements
 
-### Purpose
+### Purpose!
 
 Practical skills and self-sufficiency.
 
@@ -342,38 +342,38 @@ Practical skills and self-sufficiency.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 7. cody.dei.musici@gmail.com
+# 🔑 7. cody.dei.musici@gmail.com!
 
-### Primary Role
+### Primary Role!
 
 Music and Audio Production
 
-### Suggested Content
+### Suggested Content!
 
-#### 📁 Audio Projects
+#### 📁 Audio Projects!
 
 - Recordings
 - Voice Work
 - Podcasts
 
-#### 📁 Music
+#### 📁 Music!
 
 - Compositions
 - MIDI Files
 - Scores
 
-#### 📁 Sound Design
+#### 📁 Sound Design!
 
 - Sound Effects
 - PlebMachine Audio
 
-#### 📁 Production
+#### 📁 Production!
 
 - Mixes
 - Masters
 - Project Files
 
-### Purpose
+### Purpose!
 
 All audio and music creation.
 
@@ -383,40 +383,40 @@ All audio and music creation.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 8. concerned.disciple.cody@gmail.com
+# 🔑 8. concerned.disciple.cody@gmail.com!
 
-### Primary Role
+### Primary Role!
 
 Christian Ministry and Devotional Writing
 
-### Suggested Content
+### Suggested Content!
 
-#### 📁 Devotions
+#### 📁 Devotions!
 
 - Daily Devotions
 - Sermon Notes
 
-#### 📁 Bible Studies
+#### 📁 Bible Studies!
 
 - Research Notes
 - Teaching Material
 
-#### 📁 Ministry Articles
+#### 📁 Ministry Articles!
 
 - Christian Essays
 - Apologetics
 
-#### 📁 Church History
+#### 📁 Church History!
 
 - Historical Research
 - Reference Material
 
-#### 📁 Gospel Resources
+#### 📁 Gospel Resources!
 
 - Tracts
 - Outreach Material
 
-### Purpose
+### Purpose!
 
 Faith-based publishing and ministry.
 
@@ -426,7 +426,7 @@ Faith-based publishing and ministry.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Recommended Shared Folder Structure
+# 🔑 Recommended Shared Folder Structure!
 
 Use this structure in every account.
 
@@ -448,9 +448,9 @@ Use this structure in every account.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 File Lifecycle
+# 🔑 File Lifecycle!
 
-### Stage 1
+### Stage 1!
 
 ```text
 00_Inbox
@@ -458,7 +458,7 @@ Use this structure in every account.
 
 New files arrive here.
 
-### Stage 2
+### Stage 2!
 
 ```text
 01_Projects
@@ -466,7 +466,7 @@ New files arrive here.
 
 Files currently being worked on.
 
-### Stage 3
+### Stage 3!
 
 ```text
 02_Active
@@ -474,7 +474,7 @@ Files currently being worked on.
 
 Current active material.
 
-### Stage 4
+### Stage 4!
 
 ```text
 03_Reference
@@ -482,7 +482,7 @@ Current active material.
 
 Research and reference material.
 
-### Stage 5
+### Stage 5!
 
 ```text
 04_Archive
@@ -490,7 +490,7 @@ Research and reference material.
 
 Completed projects.
 
-### Stage 6
+### Stage 6!
 
 ```text
 05_Backups
@@ -504,13 +504,13 @@ ZIP archives and snapshots.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 GitHub Relationship
+# 🔑 GitHub Relationship!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## PlebWare GitHub
+## PlebWare GitHub!
 
 Store:
 
@@ -520,7 +520,7 @@ Store:
 - Devotions
 - Public graphics
 
-### Do Not Store
+### Do Not Store?
 
 - Personal documents
 - Medical records
@@ -538,13 +538,13 @@ Google Drive should be treated as your filing cabinet.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Backup Strategy
+# 🔑 Backup Strategy!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Daily
+## Daily!
 
 - Active writing projects
 - Current PlebMachine work
@@ -553,7 +553,7 @@ Google Drive should be treated as your filing cabinet.
 
 <!-- PLEBVOX:START -->
 
-## Weekly
+## Weekly!
 
 - GitHub repository backups
 - Manuscripts
@@ -563,7 +563,7 @@ Google Drive should be treated as your filing cabinet.
 
 <!-- PLEBVOX:START -->
 
-## Monthly
+## Monthly!
 
 - Complete Google Drive exports
 - External SSD backup
@@ -572,7 +572,7 @@ Google Drive should be treated as your filing cabinet.
 
 <!-- PLEBVOX:START -->
 
-## Annual
+## Annual!
 
 - Full archive snapshot
 - Long-term preservation archive
@@ -583,39 +583,39 @@ Google Drive should be treated as your filing cabinet.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Master Principle
+# 🔑 Master Principle!
 
 Each Google Account should have one primary purpose.
 
-### Personal
+### Personal!
 
 - otto.brinkmeier@gmail.com
 
-### Author
+### Author!
 
 - othelloverrocchio@gmail.com
 
-### Gaming
+### Gaming!
 
 - gameheadcody@gmail.com
 
-### Publishing
+### Publishing!
 
 - plebware@gmail.com
 
-### Software
+### Software!
 
 - plebsoftware@gmail.com
 
-### DIY
+### DIY!
 
 - plebdiy@gmail.com
 
-### Music
+### Music!
 
 - cody.dei.musici@gmail.com
 
-### Ministry
+### Ministry!
 
 - concerned.disciple.cody@gmail.com
 
