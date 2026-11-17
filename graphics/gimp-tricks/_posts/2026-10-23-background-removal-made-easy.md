@@ -11,7 +11,7 @@ description: "Learn how to remove plain and complicated image backgrounds in GIM
 
 <!-- PLEBVOX:START -->
 
-# ✂️ GIMP Tricks: Background Removal Made Easy! 🎨
+# ✂️ GIMP Tricks: Background Removal Made Easy! 🎨!
 
 Welcome to the first practical lesson in our **GIMP Tricks** series!
 
