@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Faith Analogy"
+title: "A Faith Analogy!"
 date: 2026-07-23
 category: "devotions"
 tags: [faith, believing, salvation, redemption, christ-alone, jesus, hell]
@@ -18,9 +18,9 @@ author: Otto Brinkmeier
 
 </div>
 
-# 🔑 Stepping Into the Elevator of Faith
+# 🔑 Stepping Into the Elevator of Faith!
 
-### *Faith Is More Than Believing*
+### *Faith Is More Than Believing*!
 
 > **📖 Key Scripture:**
 > *"Believe in the Lord Jesus Christ, and you will be saved—you and your household."* — **Acts 16:31 (NKJV)**
@@ -31,7 +31,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🙏 Opening Prayer
+# 🙏 Opening Prayer!
 
 Heavenly Father,
 
@@ -49,7 +49,7 @@ In Jesus' precious Name.
 
 <!-- PLEBVOX:START -->
 
-# 🌅 Today's Thought
+# 🌅 Today's Thought!
 
 Many years ago, God used a very simple illustration to draw me back to Him and back to church.
 
@@ -125,7 +125,7 @@ But to place our lives entirely into His hands.
 
 <!-- PLEBVOX:START -->
 
-# 🎨 God Reveals Himself
+# 🎨 God Reveals Himself!
 
 Creation speaks.
 
@@ -151,7 +151,7 @@ The Gospel tells us **how we may know Him personally.**
 
 <!-- PLEBVOX:START -->
 
-# 🚪 The Elevator of Faith
+# 🚪 The Elevator of Faith!
 
 Many people believe Jesus existed.
 
@@ -179,7 +179,7 @@ That is saving faith.
 
 <!-- PLEBVOX:START -->
 
-# ✨ A Question For Today
+# ✨ A Question For Today!
 
 Are you standing outside the elevator...
 
@@ -197,7 +197,7 @@ Jesus is still inviting people to step in.
 
 <!-- PLEBVOX:START -->
 
-# 📝 A Short Poem
+# 📝 A Short Poem!
 
 **The Elevator**
 
@@ -222,7 +222,7 @@ To trust the One who's standing inside.
 
 <!-- PLEBVOX:START -->
 
-# 📜 Church History
+# 📜 Church History!
 
 Throughout church history, Christians have emphasized that salvation comes **by grace through faith in Jesus Christ alone.**
 
@@ -238,7 +238,7 @@ This truth echoes the Apostle Paul's words:
 
 <!-- PLEBVOX:START -->
 
-# 🙏 Closing Prayer
+# 🙏 Closing Prayer!
 
 Lord Jesus,
 
