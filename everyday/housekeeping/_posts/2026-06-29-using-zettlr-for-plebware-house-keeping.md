@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Using Zettlr For PlebWare Housekeeping"
+title: "Using Zettlr For PlebWare Housekeeping!"
 date: 2026-06-29
 ---
 
 <!-- PLEBVOX:START -->
 
-## Markdown Editor 
+## Markdown Editor! 
 
 As a writer coming from the traditional Windows background, I have had to adapt to using a Markdown Editor
 The preferred editor, Zettlr, is a Markdown editor, which means that it mostly works like apps you already know, such as Microsoft Word, LibreOffice, or Apple Pages. But instead of having to click through an armada of toolbar buttons, you can apply structure to your elements using only characters, which means you never have to leave your keyboard! ✨
