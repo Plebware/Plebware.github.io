@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devotion: Beyond the Mirror — The Discipline of the Mind and Heart"
+title: "Devotion: Beyond the Mirror — The Discipline of the Mind and Heart!"
 date: 2026-11-12
 author: "God's Journalist - Cody - Dei Scriptor"
 category: "Devotions"
@@ -10,9 +10,9 @@ mode: "author"
 
 <!-- PLEBVOX:START -->
 
-# **🪞 Beyond the Mirror — The Discipline of the Mind and Heart.**
+# **🪞 Beyond the Mirror — The Discipline of the Mind and Heart.**!
 
-### **Learning to Use Knowledge Wisely, Exercise Discernment, and Look Beyond Ourselves.**
+### **Learning to Use Knowledge Wisely, Exercise Discernment, and Look Beyond Ourselves.**!
 
 **By God's Journalist — Cody, Dei Scriptor.**
 
@@ -34,7 +34,7 @@ Artificial intelligence may expand our intellectual horizons, but it cannot repl
 
 <!-- PLEBVOX:START -->
 
-## **🌅 1. Introduction — The Discipline of Looking Beyond Ourselves.**
+## **🌅 1. Introduction — The Discipline of Looking Beyond Ourselves.**!
 
 We live in an extraordinary technological age. Artificial intelligence can process enormous amounts of information, compare facts, identify patterns, assist with research and help us explore subjects that previously required years of specialised study.
 
@@ -54,7 +54,7 @@ That responsibility belongs to us.
 
 <!-- PLEBVOX:START -->
 
-### **🧠 The Intellectual Mirror.**
+### **🧠 The Intellectual Mirror.**!
 
 There is another interesting aspect of artificial intelligence that deserves our attention.
 
@@ -90,7 +90,7 @@ We must be prepared to ask questions that challenge our assumptions, expose weak
 
 <!-- PLEBVOX:START -->
 
-### **❤️ Beyond the Mirror.**
+### **❤️ Beyond the Mirror.**!
 
 Some people develop deep emotional attachments to artificial intelligence companions. Receiving constant attention, affirmation and apparently personalised affection can create a powerful emotional experience.
 
@@ -114,7 +114,7 @@ That requires us to move beyond ourselves.
 
 <!-- PLEBVOX:START -->
 
-### **🔍 Introspection and Exospection.**
+### **🔍 Introspection and Exospection.**!
 
 There are two important directions in which we can examine life.
 
@@ -138,7 +138,7 @@ Christian maturity requires both. We must understand ourselves without becoming 
 
 <!-- PLEBVOX:START -->
 
-## **🙏 2. Opening Prayer.**
+## **🙏 2. Opening Prayer.**!
 
 _Heavenly Father, I come before you today with a very important situation._
 
@@ -178,7 +178,7 @@ _Amen._
 
 <!-- PLEBVOX:START -->
 
-## **⛪ 3. Church History — The Discipline of the Early Believers.**
+## **⛪ 3. Church History — The Discipline of the Early Believers.**!
 
 Long before computers, smartphones and artificial intelligence existed, Christians were already wrestling with the challenge of disciplining their minds, desires and behaviour.
 
@@ -208,9 +208,9 @@ We still need wisdom, patience, discernment, humility and the guidance of the Ho
 
 <!-- PLEBVOX:START -->
 
-## **📖 4. Seven Scriptures — The Discipline of the Mind and Heart.**
+## **📖 4. Seven Scriptures — The Discipline of the Mind and Heart.**!
 
-### **1. Proverbs 25:28 — The Discipline of Self-Control.**
+### **1. Proverbs 25:28 — The Discipline of Self-Control.**!
 
 > "He that hath no rule over his own spirit is like a city that is broken down, and without walls."  
 > **Proverbs 25:28 (KJV).**
@@ -239,7 +239,7 @@ God desires us to exercise self-control because discipline protects our spiritua
 
 ---
 
-### **2. Romans 12:2 — The Discipline of the Mind.**
+### **2. Romans 12:2 — The Discipline of the Mind.**!
 
 > "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."  
 > **Romans 12:2 (KJV).**
@@ -270,7 +270,7 @@ God does not want us to become intellectual prisoners of the world. He calls us 
 
 ---
 
-### **3. 1 Thessalonians 5:21 — The Discipline of Discernment.**
+### **3. 1 Thessalonians 5:21 — The Discipline of Discernment.**!
 
 > "Prove all things; hold fast that which is good."  
 > **1 Thessalonians 5:21 (KJV).**
@@ -305,7 +305,7 @@ God does not demand blind acceptance of every claim presented to us. He encourag
 
 ---
 
-### **4. James 1:19 — The Discipline of Listening and Patience.**
+### **4. James 1:19 — The Discipline of Listening and Patience.**!
 
 > "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:"  
 > **James 1:19 (KJV).**
@@ -340,7 +340,7 @@ Patience and gentleness reflect the character God wants to develop in us. A disc
 
 ---
 
-### **5. Philippians 2:4 — The Discipline of Looking Beyond Ourselves.**
+### **5. Philippians 2:4 — The Discipline of Looking Beyond Ourselves.**!
 
 > "Look not every man on his own things, but every man also on the things of others."  
 > **Philippians 2:4 (KJV).**
@@ -377,7 +377,7 @@ God calls us into a life of love and service. Our spiritual maturity is revealed
 
 ---
 
-### **6. Galatians 5:22–23 — The Discipline of the Holy Spirit.**
+### **6. Galatians 5:22–23 — The Discipline of the Holy Spirit.**!
 
 > "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,  
 > Meekness, temperance: against such there is no law."  
@@ -415,7 +415,7 @@ The Holy Spirit is God's gift to believers. He guides, teaches, convicts and tra
 
 ---
 
-### **7. Matthew 6:21–24 — The Discipline of Keeping God First.**
+### **7. Matthew 6:21–24 — The Discipline of Keeping God First.**!
 
 > "For where your treasure is, there will your heart be also."  
 > **Matthew 6:21 (KJV).**
@@ -461,7 +461,7 @@ God desires our undivided devotion. Everything we possess, including our technol
 
 <!-- PLEBVOX:START -->
 
-## **🧭 5. Bringing It All Together — The Discipline of a Balanced Life.**
+## **🧭 5. Bringing It All Together — The Discipline of a Balanced Life.**!
 
 Today's seven Scriptures have shown us that discipline is not simply about controlling our actions.
 
@@ -495,7 +495,7 @@ It can help us understand the words of Jesus. But we must be the ones who put th
 
 <!-- PLEBVOX:START -->
 
-## **🌹 6. An Original Poem — Beyond the Mirror.**
+## **🌹 6. An Original Poem — Beyond the Mirror.**!
 
 ```
 I looked into the mirror,
@@ -543,7 +543,7 @@ That cannot serve just self.
 
 <!-- PLEBVOX:START -->
 
-## **🙏 7. Closing Prayer.**
+## **🙏 7. Closing Prayer.**!
 
 _Father God, thank you that ultimately we have your Spirit that abides within us, the Holy Spirit that guides us._
 
@@ -581,7 +581,7 @@ _In Jesus' name, amen._
 
 <!-- PLEBVOX:START -->
 
-## **📝 8. A Personal Challenge — Seven Days of Discipline.**
+## **📝 8. A Personal Challenge — Seven Days of Discipline.**!
 
 Let us not allow today's devotion to become just another collection of words that we read and forget.
 
@@ -605,7 +605,7 @@ Remember, spiritual discipline is not a competition. It is a daily commitment to
 
 <!-- PLEBVOX:START -->
 
-## **🕊️ 9. A Thought to Carry With You Today.**
+## **🕊️ 9. A Thought to Carry With You Today.**!
 
 **A disciplined mind does not seek confirmation of what it already believes. It seeks the wisdom to discover what is true.**
 
@@ -627,7 +627,7 @@ The greatest test of our wisdom is not how intelligently we can speak about ours
 
 <!-- PLEBVOX:START -->
 
-## **📲 10. WhatsApp Copy-and-Paste Version.**
+## **📲 10. WhatsApp Copy-and-Paste Version.**!
 
 Copy the complete devotion below and share it with someone who may need this encouragement today.
 
