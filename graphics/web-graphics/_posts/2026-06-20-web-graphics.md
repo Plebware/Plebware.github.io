@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Web Graphics - Designing For The Digital World"
+title: "Web Graphics - Designing For The Digital World!"
 date: 2026-06-20
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🌐 Web Graphics - Designing For The Digital World
+# 🌐 Web Graphics - Designing For The Digital World!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Introduction
+## 🔑 Introduction!
 
 The internet is a visual environment.
 
@@ -60,7 +60,7 @@ They are designed specifically for screens.
 
 <!-- PLEBVOX:START -->
 
-# 🖥️ The Difference Between Print And Web Design
+# 🖥️ The Difference Between Print And Web Design!
 
 Print and web graphics share many principles, but they work differently.
 
@@ -85,13 +85,13 @@ A web graphic must be flexible.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Foundations Of Good Web Graphics
+# 🔑 The Foundations Of Good Web Graphics!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 1. Clarity
+## 1. Clarity!
 
 A visitor should understand the message quickly.
 
@@ -107,7 +107,7 @@ Good web graphics reduce confusion.
 
 <!-- PLEBVOX:START -->
 
-## 2. Consistency
+## 2. Consistency!
 
 A website should have a visual language.
 
@@ -127,7 +127,7 @@ Consistency creates identity.
 
 <!-- PLEBVOX:START -->
 
-## 3. Performance
+## 3. Performance!
 
 Beautiful graphics must also load quickly.
 
@@ -145,13 +145,13 @@ Good practices:
 
 <!-- PLEBVOX:START -->
 
-# 📐 Common Web Graphic Types
+# 📐 Common Web Graphic Types!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Hero Images
+## Hero Images!
 
 Large images near the top of a page.
 
@@ -167,7 +167,7 @@ Purpose:
 
 <!-- PLEBVOX:START -->
 
-## Icons
+## Icons!
 
 Small symbols that communicate actions.
 
@@ -186,7 +186,7 @@ Good icons are simple and recognisable.
 
 <!-- PLEBVOX:START -->
 
-## Banners
+## Banners!
 
 Used for:
 
@@ -201,7 +201,7 @@ Used for:
 
 <!-- PLEBVOX:START -->
 
-## Thumbnails
+## Thumbnails!
 
 Small previews.
 
@@ -220,13 +220,13 @@ A strong thumbnail attracts attention.
 
 <!-- PLEBVOX:START -->
 
-# 🖌️ Web Graphic Design Principles
+# 🖌️ Web Graphic Design Principles!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Balance
+## Balance!
 
 Elements should feel organised.
 
@@ -238,7 +238,7 @@ Avoid overcrowding.
 
 <!-- PLEBVOX:START -->
 
-## Contrast
+## Contrast!
 
 Important elements should stand out.
 
@@ -255,7 +255,7 @@ Contrast can come from:
 
 <!-- PLEBVOX:START -->
 
-## Space
+## Space!
 
 Empty space is useful.
 
@@ -267,7 +267,7 @@ It gives the design room to breathe.
 
 <!-- PLEBVOX:START -->
 
-# 🛠️ Creating Web Graphics
+# 🛠️ Creating Web Graphics!
 
 A simple workflow:
 
@@ -275,7 +275,7 @@ A simple workflow:
 
 <!-- PLEBVOX:START -->
 
-## Step 1: Define The Purpose
+## Step 1: Define The Purpose!
 
 Ask:
 
@@ -287,7 +287,7 @@ What is this graphic supposed to do?
 
 <!-- PLEBVOX:START -->
 
-## Step 2: Choose The Format
+## Step 2: Choose The Format!
 
 Common formats:
 
@@ -312,7 +312,7 @@ WebP:
 
 <!-- PLEBVOX:START -->
 
-## Step 3: Design
+## Step 3: Design!
 
 Create the visual.
 
@@ -328,7 +328,7 @@ Focus on:
 
 <!-- PLEBVOX:START -->
 
-## Step 4: Test
+## Step 4: Test!
 
 Check:
 
@@ -344,7 +344,7 @@ A graphic should work everywhere.
 
 <!-- PLEBVOX:START -->
 
-# 🌐 Web Graphics In PlebWare
+# 🌐 Web Graphics In PlebWare!
 
 Web graphics connect:
 
@@ -368,7 +368,7 @@ It is a visual journey.
 
 <!-- PLEBVOX:START -->
 
-# 📝 Creative Exercise
+# 📝 Creative Exercise!
 
 Choose a PlebWare topic.
 
@@ -388,7 +388,7 @@ Does the image make someone want to explore?
 
 <!-- PLEBVOX:START -->
 
-# 📚 Final Thought
+# 📚 Final Thought!
 
 A good web graphic is silent communication.
 
@@ -400,7 +400,7 @@ It speaks before the words are read.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 PlebWare Creative Principle
+# 🔑 PlebWare Creative Principle!
 
 "Visual design turns information into experience."
 
