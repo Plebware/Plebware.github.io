@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Everyday Music"
+title: "Everyday Music!"
 date: 2026-09-19
 ---
 
 
 
 <!-- PLEBVOX:START -->
-# Mode-Specific Tool for Music
+# Mode-Specific Tool for Music!
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-# Script Breakdown: `music-tools.sh` (Dedicated Music Mode Dispatcher)
+# Script Breakdown: `music-tools.sh` (Dedicated Music Mode Dispatcher)!
 
 This script manages application launching specifically for the **Music** operational mode in **PlebMachine**. Unlike the unified multi-mode template, this standalone variant directly defines audio-focused defaults (`Audacity`, `LMMS`, `Mixxx`) and handles execution based on the system state.
 
@@ -18,7 +18,7 @@ This script manages application launching specifically for the **Music** operati
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Key Functionality
+## Key Functionality!
 
 * **Environment Initialization:** Sets explicit display variables (`DISPLAY`, `XAUTHORITY`, and `GDK_BACKEND=x11`) to ensure GUI audio software launches correctly when triggered from hotkeys or background processes.
 * **Mode & State Detection:** Determines the operational mode string (`music`) from its filename and reads `~/.config/plebmachine/state.conf` to check the current system state (`AUTOMATIC` vs. `COGNITIVE`).
@@ -31,22 +31,22 @@ This script manages application launching specifically for the **Music** operati
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Dependencies
+## Dependencies!
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Core System Utilities
+### Core System Utilities!
 * **`bash`**: Executable environment for variable expansions, conditional checks, and array splitting (`read -ra`).
 * **`grep`, `cut`, `tr`, `xargs`**: Parsers used to sanitise settings from `state.conf`.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Dialogue Provider
+### Dialogue Provider!
 * **`zenity`**: Renders the GTK checklist window in `COGNITIVE` mode.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Target Audio Applications
+### Target Audio Applications!
 Depending on user selection in the dialogue menu, the host system requires the following music production binaries installed:
 
 <!-- PLEBVOX:END -->
@@ -110,7 +110,7 @@ done
 ---
 
 <!-- PLEBVOX:START -->
-## Review — 2026-09-20
+## Review — 2026-09-20!
 
 **Review subject:** Music Tools
 
