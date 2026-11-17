@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Metro Fibre Network Stability Update — 23 September 2026"
+title: "Metro Fibre Network Stability Update — 23 September 2026!"
 date: 2026-09-23
 ---
 
 <!-- PLEBVOX:START -->
-# Metro Fibre Connection — Recurrence of Network Instability
+# Metro Fibre Connection — Recurrence of Network Instability!
 
 **📰 Field Report — 23 September 2026**
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Incident Summary
+## Incident Summary!
 
 On the morning of **23 September 2026**, Jullian reported that the LAN Card status lights had reverted to the previously observed **Green and Orange** condition.
 
@@ -21,7 +21,7 @@ This report records the new incident and compares it with the customer-side test
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Previous Status — 22 September 2026
+## Previous Status — 22 September 2026!
 
 On the morning of **22 September 2026**, both LAN Card status lights were observed to be **green**.
 
@@ -37,7 +37,7 @@ The complete customer-side test results are documented in the previous report.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Recurrence — 23 September 2026
+## Recurrence — 23 September 2026!
 
 This morning, the LAN indicators have again changed to:
 
@@ -56,7 +56,7 @@ The recurrence is particularly relevant because the previous day's customer-side
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Sequence of Observed Conditions
+## Sequence of Observed Conditions!
 
 <!-- PLEBVOX:END -->
 | Date | LAN Indicator Condition | Observed Network Condition |
@@ -71,7 +71,7 @@ This table records observations rather than assigning a cause.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Physical Intervention
+## Physical Intervention!
 
 There has been no known physical intervention on the router that would explain the change in indicator status.
 
@@ -81,7 +81,7 @@ The Green + Orange condition had previously remained present for an extended per
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Technical Significance
+## Technical Significance!
 
 The available observations document different network states occurring at different times:
 
@@ -95,7 +95,7 @@ Further testing should be performed while the fault is active where practical, s
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Current Status
+## Current Status!
 
 As of the morning of **23 September 2026**, the network problem has recurred.
 
