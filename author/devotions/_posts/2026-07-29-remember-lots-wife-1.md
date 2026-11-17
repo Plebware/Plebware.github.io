@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Remember Lot's Wife - 1"
+title: "Remember Lot's Wife - 1!"
 date: 2026-07-29
 category: "devotions"
 tags: [warning, conviction, after-life, hell, death, christian, sanctification]
@@ -10,13 +10,13 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# Remember Lot's Wife
+# Remember Lot's Wife!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## A Warning for Every Believer
+## A Warning for Every Believer!
 
 *"Remember Lot's wife."* — Luke 17:32
 
@@ -26,7 +26,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## Part 1: Introduction
+## Part 1: Introduction!
 
 I intended to take a break from writing devotions. But while listening to an audiobook this morning, the Holy Spirit convicted me to write this warning instead.
 
@@ -44,7 +44,7 @@ And she was struck dead instantly, turned into a pillar of salt.
 
 ---
 
-### Why Jesus Warns His Own Disciples
+### Why Jesus Warns His Own Disciples?
 
 The Lord Jesus doesn't tell this story to the crowds or to skeptics. He tells it to **His disciples** — to those who already follow Him.
 
@@ -64,7 +64,7 @@ And yet — you yourself may remain unconverted.
 
 ---
 
-### Privileges Don't Save
+### Privileges Don't Save!
 
 Many people believe that religious advantages are enough. They admit they're not what they should be, but they say they're going through a hard time. They think they'll get right with God later.
 
@@ -86,7 +86,7 @@ They all died in their sins. They all went down to the pit despite knowledge, wa
 
 ---
 
-### The Core Question
+### The Core Question!
 
 > *Have you yet received the Holy Spirit?*
 
