@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebWare — The World Built Around the Person"
+title: "PlebWare — The World Built Around the Person!"
 date: 2026-09-18
 category: "fiction"
 tags: [PlebWare, Plebware, world, ecosystem, technology, human, Linux, PlebMachine, PlebTuition, PlebVox]
