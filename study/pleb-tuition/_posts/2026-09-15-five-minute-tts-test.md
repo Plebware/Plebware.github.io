@@ -16,7 +16,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## Welcome To The Final Lesson
+## Welcome To The Final Lesson!
 
 Welcome to the final lesson in our PlebTuition Text-to-Speech series.
 
@@ -30,7 +30,7 @@ This lesson gives you a simple five-minute test that you can repeat whenever you
 
 <!-- PLEBVOX:START -->
 
-## 🔑 What You Need
+## 🔑 What You Need!
 
 You need three things:
 
@@ -46,7 +46,7 @@ But for this lesson, we will use a short test passage designed specifically for 
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Your Five-Minute Test Passage
+## 🔑 Your Five-Minute Test Passage!
 
 For the actual test, use the passage below.
 
@@ -60,7 +60,7 @@ Then have your phone read the passage aloud.
 
 ---
 
-### A Small Test Of Technology
+### A Small Test Of Technology!
 
 Good morning.
 
@@ -230,7 +230,7 @@ A voice that sounds pleasant but is difficult to understand is not a good study 
 
 <!-- PLEBVOX:START -->
 
-## Minute Four — Test A Difficult Word
+## Minute Four — Test A Difficult Word!
 
 Choose one word that your phone may find difficult.
 
@@ -260,7 +260,7 @@ This is one reason why having more than one voice available can be useful.
 
 <!-- PLEBVOX:START -->
 
-## Minute Five — Read Without Looking
+## Minute Five — Read Without Looking!
 
 For the final minute, put the phone down or look away from the screen.
 
@@ -280,7 +280,7 @@ That can be useful when your eyes are tired, when you are travelling, when you a
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Five-Minute Scorecard
+## 🔑 The Five-Minute Scorecard!
 
 Give yourself one point for each **Yes** answer:
 
@@ -290,7 +290,7 @@ Give yourself one point for each **Yes** answer:
 - Can the voice handle difficult words reasonably well?
 - Can I follow the passage without looking at the screen?
 
-### Your Result
+### Your Result!
 
 **5 out of 5:** Your TTS setup is working well.
 
@@ -306,7 +306,7 @@ Change one setting, test it, and then decide whether it helped.
 
 <!-- PLEBVOX:START -->
 
-## TTS And Screen Readers — One Last Reminder
+## TTS And Screen Readers — One Last Reminder!
 
 One final reminder from this course:
 
@@ -322,7 +322,7 @@ Use the tool that matches the job you want to do.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 You Have Learned A Useful Skill
+## 🔑 You Have Learned A Useful Skill!
 
 You now know how to:
 
@@ -342,7 +342,7 @@ That is a useful little piece of technology knowledge.
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Principle
+## The PlebWare Principle!
 
 Technology should serve the person using it.
 
@@ -362,7 +362,7 @@ That is PlebWare Tuition.
 
 <!-- PLEBVOX:START -->
 
-## The End Of The Series — But Not The End Of Learning
+## The End Of The Series — But Not The End Of Learning!
 
 This is the end of our nine-lesson Text-to-Speech series.
 
