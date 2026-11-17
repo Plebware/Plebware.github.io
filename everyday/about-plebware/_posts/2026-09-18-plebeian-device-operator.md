@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plebeian Device Operator"
+title: "Plebeian Device Operator!"
 date: 2026-09-18
 category: "fiction"
 tags: [human, operator, user, person]
