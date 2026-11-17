@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Graphics PlebMachine User — Mode 05 Introduction and Learning Guide"
+title: "Graphics PlebMachine User — Mode 05 Introduction and Learning Guide!"
 date: 2026-10-18
 description: "An introduction to Graphics PlebMachine User, Mode 05 of PlebMachine, and the PlebWare tutorials, tools, and resources that support it."
 category: "graphics"
