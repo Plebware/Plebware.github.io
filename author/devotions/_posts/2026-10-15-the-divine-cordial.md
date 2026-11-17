@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Divine Cordial — When Suffering Becomes a School of Grace"
+title: "The Divine Cordial — When Suffering Becomes a School of Grace!"
 date: 2026-10-15
 ---
 
 <!-- PLEBVOX:START -->
 
-# **🕊️ The Divine Cordial — When Suffering Becomes a School of Grace.**
+# **🕊️ The Divine Cordial — When Suffering Becomes a School of Grace.**!
 
 **Date: 15 October 2026.**
 
@@ -18,7 +18,7 @@ date: 2026-10-15
 
 <!-- PLEBVOX:START -->
 
-## **🙏 Opening Prayer.**
+## **🙏 Opening Prayer.**!
 
 _Heavenly Father, I come before You this morning, and from the forge of Your fire, Your holy fire of cleansing and purification, I remember how silver is purified by fire while the silversmith carefully turns up the heat._
 
@@ -30,7 +30,7 @@ _So I pray, Lord, that this devotion, even though it has been the hardest devoti
 
 <!-- PLEBVOX:START -->
 
-## **🌿 Introduction — A Cordial for the Weary Soul.**
+## **🌿 Introduction — A Cordial for the Weary Soul.**!
 
 I am writing this special devotion in the hope that, by the blessing of God, it will lift despondent hearts and encourage readers who feel overwhelmed by trials and tribulations to look up with a more cheerful outlook.
 
@@ -48,11 +48,11 @@ Consider Job. He suffered profound loss, physical affliction, and the disappoint
 
 Our hope is not that every storm will end the way we want it to. Our hope is that no storm can place the faithful child of God beyond the reach of His power, wisdom, goodness, and grace.
 
-### **🔑 Practical tip.**
+### **🔑 Practical tip.**!
 
 When suffering becomes overwhelming, do not demand that you understand the entire road ahead. Concentrate on the next faithful step.
 
-### **📝 Practical to-do.**
+### **📝 Practical to-do.**!
 
 Write down one burden weighing heavily upon your heart. Pray honestly about it and identify one practical action you can take today. If the burden is too heavy to carry alone, ask a trusted Christian brother or sister to stand with you.
 
@@ -60,7 +60,7 @@ Write down one burden weighing heavily upon your heart. Pray honestly about it a
 
 <!-- PLEBVOX:START -->
 
-## **❤️ A Personal Testimony — The Medicine I Also Need.**
+## **❤️ A Personal Testimony — The Medicine I Also Need.**!
 
 There is something I want to make clear before I go any further. This devotion is not written only for the benefit of other people. **It is medicine for my own soul, too.**
 
@@ -84,11 +84,11 @@ If you recognise yourself in these words, please know that you do not need to pr
 
 **I am writing this for myself, and I pray that it will be helpful to you, too.**
 
-### **🔑 Practical tip.**
+### **🔑 Practical tip.**!
 
 Do not wait until you have mastered a lesson before allowing God's Word to encourage you. Sometimes we need to hear and practise the same truth repeatedly.
 
-### **📝 Practical to-do.**
+### **📝 Practical to-do.**!
 
 Choose the one struggle that is most relevant to you today. Do not try to solve every issue at once. Find the corresponding Scripture in this devotion, read it slowly, and write down one action you can take in response.
 
@@ -96,13 +96,13 @@ Choose the one struggle that is most relevant to you today. Do not try to solve 
 
 <!-- PLEBVOX:START -->
 
-## **🔥 Scripture One — God's Power Sustains Us in Weakness.**
+## **🔥 Scripture One — God's Power Sustains Us in Weakness.**!
 
 **Scripture: 2 Corinthians 12:9, KJV.**
 
 > *“My grace is sufficient for thee: for my strength is made perfect in weakness.”* **2 Corinthians 12:9.**
 
-### **Reflection — The Bruised Reed That Still Stands.**
+### **Reflection — The Bruised Reed That Still Stands.**!
 
 Thomas Watson teaches that God's glorious power works for the good of His people, particularly by supporting them in trouble.
 
@@ -116,15 +116,15 @@ Watson also points to God's power to subdue sin, drawing upon Micah 7:19 and Psa
 
 God's grace does not forbid us from seeking practical assistance, either. Rest, wise counsel, medical attention when needed, and the support of fellow believers can all be part of receiving help.
 
-### **🔑 Practical tip.**
+### **🔑 Practical tip.**!
 
 Replace the question, “How will I survive everything ahead?” with the prayer, “Lord, give me the grace and strength I need for the next step.”
 
-### **📝 Practical to-do.**
+### **📝 Practical to-do.**!
 
 Name the difficulty that is draining your strength. Ask God for endurance and wisdom. Identify one burden you can share with someone trustworthy instead of carrying it alone.
 
-### **☁️ Heavenly view — God's perspective.**
+### **☁️ Heavenly view — God's perspective.**!
 
 Our weakness does not surprise God. We may not know every reason He permits a trial, but we can depend upon His sufficient grace. Our weakness does not make His power inadequate.
 
@@ -134,13 +134,13 @@ Our weakness does not surprise God. We may not know every reason He permits a tr
 
 <!-- PLEBVOX:START -->
 
-## **🕊️ Scripture Two — God's Wisdom Guides Us Through Affliction.**
+## **🕊️ Scripture Two — God's Wisdom Guides Us Through Affliction.**!
 
 **Scripture: Isaiah 9:6, KJV.**
 
 > *“For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.”* **Isaiah 9:6.**
 
-### **Reflection — When We Cannot See the Whole Picture.**
+### **Reflection — When We Cannot See the Whole Picture.**!
 
 Thomas Watson reminds us that the God who possesses mighty power also possesses perfect wisdom. Isaiah's prophecy directs our attention to Christ, the Wonderful Counsellor.
 
@@ -152,15 +152,15 @@ Sometimes hardship exposes habits that need to change, pride that needs to be hu
 
 We can trust God's wisdom without claiming to know His secret purposes. We can remain teachable while taking responsibility for the decisions that are ours to make.
 
-### **🔑 Practical tip.**
+### **🔑 Practical tip.**!
 
 Separate what you know from what you fear or assume. Let Scripture guide your response instead of allowing uncertainty to become the final measure of God's character.
 
-### **📝 Practical to-do.**
+### **📝 Practical to-do.**!
 
 Make two short lists. Under “What I know,” record the facts and the biblical truths you can rely upon. Under “Where I need wisdom,” record the questions that still require prayer, advice, or further information. Then choose one wise next step.
 
-### **☁️ Heavenly view — God's perspective.**
+### **☁️ Heavenly view — God's perspective.**!
 
 God sees more than we can see, but that does not give us permission to invent His reasons for every painful event. We can trust His wisdom without claiming to understand everything He permits.
 
@@ -170,7 +170,7 @@ God sees more than we can see, but that does not give us permission to invent Hi
 
 <!-- PLEBVOX:START -->
 
-## **🌱 Scripture Three — God's Goodness and Promises Nourish Our Faith.**
+## **🌱 Scripture Three — God's Goodness and Promises Nourish Our Faith.**!
 
 **Primary Scripture: Romans 8:28, KJV.**
 
@@ -178,7 +178,7 @@ God sees more than we can see, but that does not give us permission to invent Hi
 
 **Supporting Scriptures:** Romans 2:4; 2 Peter 1:4; Hosea 14:4; Isaiah 44:3; Psalm 91:15; Psalm 37:39; Genesis 32:7, 12; John 10:29; Psalm 119:92.
 
-### **Reflection — The Promises Are Food for Faith.**
+### **Reflection — The Promises Are Food for Faith.**!
 
 Thomas Watson teaches that God's goodness works for the good of His people. Romans 2:4 reminds us that God's goodness and patience lead us towards repentance. His mercy is not an excuse to continue carelessly in sin; it is an invitation to turn towards Him.
 
@@ -196,11 +196,11 @@ Romans 8:28 does not ask us to call evil good. It assures us that suffering cann
 
 Sometimes we recognise God's mercies only when we look back. Sometimes present circumstances remain painful, and we must continue trusting Him without a clear explanation.
 
-### **🔑 Practical tip.**
+### **🔑 Practical tip.**!
 
 Keep a small list of biblical promises that you have read in context and understand. Turn to them when discouraged instead of relying on vague assurances or promises Scripture does not make.
 
-### **📝 Practical to-do — Choose the medicine your heart needs today.**
+### **📝 Practical to-do — Choose the medicine your heart needs today.**!
 
 These are not six problems that you must solve at once. They are six places to turn when a particular struggle arises. The difficulties may come and go; return to the relevant passage when you need its guidance.
 
@@ -213,7 +213,7 @@ These are not six problems that you must solve at once. They are six places to t
 
 Read your chosen passage slowly. Write down what it actually promises, what it teaches you about God's character, and how you can respond faithfully today.
 
-### **☁️ Heavenly view — God's perspective.**
+### **☁️ Heavenly view — God's perspective.**!
 
 God's goodness is not measured solely by financial circumstances, physical comfort, or immediate success. He cares about our spiritual growth, character, relationship with Him, and ultimate hope in Christ. Material needs remain real and may be brought honestly before Him while we seek practical solutions.
 
@@ -225,7 +225,7 @@ His promises are nourishment for the journey, not a formula for controlling the 
 
 <!-- PLEBVOX:START -->
 
-## **📜 Church History — Thomas Watson and the Divine Cordial.**
+## **📜 Church History — Thomas Watson and the Divine Cordial.**!
 
 Thomas Watson (c. 1620–1686) was an English Puritan preacher and Christian author who studied at Emmanuel College, Cambridge, and served as a minister at St. Stephen's, Walbrook, in London.
 
@@ -241,11 +241,11 @@ Watson's message is not that every affliction will be removed in this life. It i
 
 **Further reading:** [Thomas Watson — Christian Classics Ethereal Library](https://www.ccel.org/ccel/watson).
 
-### **🔑 Practical tip.**
+### **🔑 Practical tip.**!
 
 Learn from Christians of earlier generations, but do not imagine that their faith made them immune to grief or hardship.
 
-### **📝 Practical to-do.**
+### **📝 Practical to-do.**!
 
 Read Romans 8:28–39 alongside a passage from Watson's *All Things for Good*. Identify one lesson that encourages you, and test its meaning against Scripture.
 
@@ -253,7 +253,7 @@ Read Romans 8:28–39 alongside a passage from Watson's *All Things for Good*. I
 
 <!-- PLEBVOX:START -->
 
-## **✍️ Original Poem — The Cordial in the Furnace.**
+## **✍️ Original Poem — The Cordial in the Furnace.**!
 
 \`\`\`
 When morning breaks behind the cloud,
@@ -296,7 +296,7 @@ May grace sustain us all the way through.
 
 <!-- PLEBVOX:START -->
 
-## **🙏 Closing Prayer.**
+## **🙏 Closing Prayer.**!
 
 _I also realise, Father, that we are probably living in the end days, a time close to Your second coming, when Jesus will come with power and glory to receive us, His bride, into His arms, so that we may be saved._
 
@@ -328,7 +328,7 @@ _I ask all these things in Jesus' precious name. Amen._
 
 <!-- PLEBVOX:START -->
 
-## **🌅 Final Meditation — Take the Cordial With You.**
+## **🌅 Final Meditation — Take the Cordial With You.**!
 
 - **God's power can sustain you** when your own strength is failing.
 - **God's wisdom can guide you** when you cannot understand your circumstances.
@@ -355,7 +355,7 @@ _I may not understand everything God permits, but I will seek Him in my sufferin
 
 ---
 
-## **📋 WhatsApp Copy-and-Paste Version.**
+## **📋 WhatsApp Copy-and-Paste Version.**!
 
 Copy the complete devotion below into WhatsApp. Formatting characters are included so the bold, italics, Scripture quotations, and prayers can be pasted directly.
 
