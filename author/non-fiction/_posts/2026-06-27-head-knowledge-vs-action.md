@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Head-Knowledge vs Action"
+title: "Head-Knowledge vs Action!"
 date: 2026-06-27
 ---
 <!-- PLEBVOX:START -->
 
-# 📖 Theoretical Training Versus Practical Training
+# 📖 Theoretical Training Versus Practical Training!
 
 > **"Actions speak louder than words."**
 
@@ -13,7 +13,7 @@ Sadly, when it comes to disciples of Jesus Christ, many excel in the **theoretic
 
 ---
 
-# 🧠 Introduction – Head Knowledge versus Heart Knowledge
+# 🧠 Introduction – Head Knowledge versus Heart Knowledge!
 
 The old saying, **"Actions speak louder than words,"** is something every sincere Christian should prayerfully consider.
 
@@ -63,7 +63,7 @@ He lives in a manner worthy of that kingdom.
 
 ---
 
-# 🎓 Knowing the Truth Is Not Enough
+# 🎓 Knowing the Truth Is Not Enough!
 
 This is where the distinction between **theoretical Christianity** and **practical Christianity** becomes painfully obvious.
 
@@ -102,7 +102,7 @@ It is **how faithfully we live what we know.**
 
 ---
 
-# 📝 The Practical Examination
+# 📝 The Practical Examination!
 
 Every Christian sits practical examinations every single day.
 
@@ -139,7 +139,7 @@ Whether we realise it or not,
 
 ---
 
-# 🏋️ The Practical Tests Every Disciple Faces
+# 🏋️ The Practical Tests Every Disciple Faces!
 
 The Christian life is not merely a classroom where we learn biblical truths.
 
@@ -157,7 +157,7 @@ these practical tests.
 
 ---
 
-## ❤️ The Test of Love
+## ❤️ The Test of Love!
 
 It is easy to speak about love during church services or Bible studies.
 
@@ -174,7 +174,7 @@ He commanded us to love even our enemies.
 
 ---
 
-## 🤲 The Test of Forgiveness
+## 🤲 The Test of Forgiveness!
 
 Almost every Christian agrees that forgiveness is biblical.
 
@@ -186,7 +186,7 @@ Or will we forgive as Christ forgave us?
 
 ---
 
-## 🙏 The Test of Humility
+## 🙏 The Test of Humility!
 
 Humility is admired by everyone...
 
@@ -202,7 +202,7 @@ Or must we always have the final word?
 
 ---
 
-## 🪞 The Test of Integrity
+## 🪞 The Test of Integrity!
 
 Who are we...
 
@@ -224,7 +224,7 @@ Integrity is Christianity lived in private.
 
 ---
 
-## 💪 The Test of Faith
+## 💪 The Test of Faith!
 
 Faith is easy when prayers are answered quickly.
 
@@ -240,7 +240,7 @@ Will we still trust God?
 
 ---
 
-## 👣 The Test of Obedience
+## 👣 The Test of Obedience!
 
 Many commands in Scripture require no further interpretation.
 
@@ -254,7 +254,7 @@ The real question is:
 
 ---
 
-## 🗣️ The Test of Speech
+## 🗣️ The Test of Speech!
 
 Jesus taught that our words reveal the condition of our hearts.
 
@@ -270,7 +270,7 @@ Our mouths often reveal what our hearts are truly full of.
 
 ---
 
-## ❤️‍🩹 The Test of Compassion
+## ❤️‍🩹 The Test of Compassion!
 
 The Good Samaritan did not merely know the Law.
 
@@ -289,7 +289,7 @@ Knowledge became action.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## ⏳ The Test of Stewardship
+## ⏳ The Test of Stewardship!
 
 God entrusts each of us with:
 
@@ -302,7 +302,7 @@ How we manage these reveals much about our priorities.
 
 ---
 
-## 🏃 The Test of Perseverance
+## 🏃 The Test of Perseverance!
 
 Many begin the Christian race enthusiastically.
 
@@ -321,7 +321,7 @@ but by those who finish faithfully.
 
 ---
 
-# 🔥 Why God Allows Tests
+# 🔥 Why God Allows Tests!
 
 God does not test us because **He needs to discover what is in our hearts.**
 
@@ -345,7 +345,7 @@ Just as a soldier is trained for the battlefield rather than the classroom, God 
 
 ---
 
-# 🏁 The Final Examination
+# 🏁 The Final Examination!
 
 One day every believer will stand before Christ.
 
