@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "PlebWare Tuition - Writing Devices"
+title: "PlebWare Tuition - Writing Devices!"
 date: 2026-07-12
 ---
 
 <!-- PLEBVOX:START -->
 
-# ✍️ Main Language Tools
+# ✍️ Main Language Tools!
 
 These are some of the most effective language devices that make writing more powerful, memorable, and emotionally engaging. They help readers **see**, **hear**, **feel**, and **remember** your message.
 
@@ -16,7 +16,7 @@ These are some of the most effective language devices that make writing more pow
 
 <!-- PLEBVOX:START -->
 
-## 🔥 1. Hyperbole
+## 🔥 1. Hyperbole!
 
 **📖 What it is:**  
 An intentional exaggeration that isn't meant to be taken literally. It adds emotional weight and emphasis.
@@ -40,7 +40,7 @@ An intentional exaggeration that isn't meant to be taken literally. It adds emot
 
 <!-- PLEBVOX:START -->
 
-## 🎵 2. Alliteration
+## 🎵 2. Alliteration!
 
 **📖 What it is:**  
 Repeating the same starting sound in nearby words. It gives writing rhythm and makes it memorable.
@@ -67,7 +67,7 @@ Repeating the same starting sound in nearby words. It gives writing rhythm and m
 
 <!-- PLEBVOX:START -->
 
-## 🪞 3. Metaphor
+## 🪞 3. Metaphor!
 
 **📖 What it is:**  
 Describing one thing as if it were another to reveal deeper meaning.
@@ -91,7 +91,7 @@ Describing one thing as if it were another to reveal deeper meaning.
 
 <!-- PLEBVOX:START -->
 
-## 😊 4. Personification
+## 😊 4. Personification!
 
 **📖 What it is:**  
 Giving human qualities to non-human things.
@@ -115,7 +115,7 @@ Giving human qualities to non-human things.
 
 <!-- PLEBVOX:START -->
 
-## 🎨 5. Imagery
+## 🎨 5. Imagery!
 
 **📖 What it is:**  
 Using descriptive language that allows readers to see, hear, smell, taste, or feel what is happening.
@@ -137,7 +137,7 @@ Using descriptive language that allows readers to see, hear, smell, taste, or fe
 
 <!-- PLEBVOX:START -->
 
-## 🔁 6. Anaphora
+## 🔁 6. Anaphora!
 
 **📖 What it is:**  
 Repeating the same word or phrase at the beginning of consecutive sentences or lines to build emphasis.
@@ -160,12 +160,12 @@ Repeating the same word or phrase at the beginning of consecutive sentences or l
 
 <!-- PLEBVOX:START -->
 
-## 🔊 7. Onomatopoeia
+## 🔊 7. Onomatopoeia!
 
 **📖 What it is:**  
 Words that imitate the sounds they describe, making writing feel vivid and alive.
 
-### 🐱 Animal Sounds
+### 🐱 Animal Sounds!
 
 - meow
 - woof
@@ -178,7 +178,7 @@ Words that imitate the sounds they describe, making writing feel vivid and alive
 
 ---
 
-### 🚗 Mechanical & Action Sounds
+### 🚗 Mechanical & Action Sounds!
 
 - bang
 - crash
@@ -196,7 +196,7 @@ Words that imitate the sounds they describe, making writing feel vivid and alive
 
 ---
 
-### 🗣️ Human Sounds
+### 🗣️ Human Sounds!
 
 - sigh
 - whisper
@@ -219,7 +219,7 @@ Words that imitate the sounds they describe, making writing feel vivid and alive
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Quick Reference Cheat Sheet
+# 🔑 Quick Reference Cheat Sheet!
 
 | ✍️ Device | 🎯 Why Use It | 💡 Example |
 |-----------|--------------|------------|
@@ -237,7 +237,7 @@ Words that imitate the sounds they describe, making writing feel vivid and alive
 
 <!-- PLEBVOX:START -->
 
-## 💡 Final Thought
+## 💡 Final Thought!
 
 Great writing doesn't depend on complicated vocabulary—it depends on making readers **feel** something.
 
