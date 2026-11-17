@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "2010 Ford Ranger 2.2 TDCi 6-Speed: Surviving Beyond 200,000 km"
+title: "2010 Ford Ranger 2.2 TDCi 6-Speed: Surviving Beyond 200,000 km!"
 date: 2026-06-11
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔧 2010 Ford Ranger 2.2 TDCi 6-Speed: Surviving Beyond 200,000 km
+# 🔧 2010 Ford Ranger 2.2 TDCi 6-Speed: Surviving Beyond 200,000 km!
 
 The Ford Ranger 2.2 TDCi equipped with the Puma (Duratorq) diesel engine and 6-speed manual gearbox has earned a reputation as one of Ford's tougher modern diesel combinations. Many examples in South Africa have exceeded 300,000 km and some even reach 500,000 km on the original engine.
 
@@ -16,7 +16,7 @@ However, once the odometer passes the 200,000 km mark, several known wear items 
 
 <!-- PLEBVOX:START -->
 
-## 🚙 Understanding the 2.2 TDCi
+## 🚙 Understanding the 2.2 TDCi!
 
 The 2.2-litre Duratorq diesel engine is generally reliable and economical. Most catastrophic failures are not caused by the engine block itself but by supporting components that wear out over time.
 
@@ -28,17 +28,17 @@ When maintained correctly, the engine remains capable of many additional years o
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Common High-Mileage Problems
+# 🔑 Common High-Mileage Problems!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🔧 Turbocharger
+## 🔧 Turbocharger!
 
 **Typical lifespan:** 180,000 – 250,000 km
 
-### Warning Signs
+### Warning Signs!
 
 * Whistling noises
 * Limp mode
@@ -46,7 +46,7 @@ When maintained correctly, the engine remains capable of many additional years o
 * Reduced power
 * Fault code P0299
 
-### Common Causes
+### Common Causes!
 
 * Dust ingestion
 * Extended oil change intervals
@@ -58,18 +58,18 @@ When maintained correctly, the engine remains capable of many additional years o
 
 <!-- PLEBVOX:START -->
 
-## 💉 Fuel Injectors
+## 💉 Fuel Injectors!
 
 **Typical lifespan:** 150,000 – 220,000 km
 
-### Warning Signs
+### Warning Signs!
 
 * Rough idle
 * Excessive fuel consumption
 * Smoke on startup
 * Diesel knock when cold
 
-### Common Causes
+### Common Causes!
 
 * Poor fuel quality
 * Water contamination
@@ -81,18 +81,18 @@ When maintained correctly, the engine remains capable of many additional years o
 
 <!-- PLEBVOX:START -->
 
-## ♻️ EGR Valve and Cooler
+## ♻️ EGR Valve and Cooler!
 
 **Typical lifespan:** 120,000 – 180,000 km
 
-### Warning Signs
+### Warning Signs!
 
 * Coolant loss
 * Rough running
 * Limp mode
 * Fault codes P0401 or P0402
 
-### Common Causes
+### Common Causes!
 
 * Carbon buildup
 * Short-distance driving
@@ -104,29 +104,29 @@ When maintained correctly, the engine remains capable of many additional years o
 
 <!-- PLEBVOX:START -->
 
-## ⚙️ Oil Pump
+## ⚙️ Oil Pump!
 
 **Typical lifespan:** 200,000 – 300,000 km
 
 This is considered one of the most critical items on the 2.2 TDCi.
 
-### Warning Signs
+### Warning Signs!
 
 * Flickering oil warning light
 * Startup rattles
 * Low oil pressure
 
-### Why It Matters
+### Why It Matters?
 
 The variable vane oil pump wears over time. Once oil pressure drops below acceptable levels, severe engine damage can occur rapidly.
 
-### Prevention
+### Prevention!
 
 * Use quality 5W-30 oil meeting Ford specifications
 * Service every 10,000 km
 * Consider installing an oil pressure gauge
 
-### Cost Comparison
+### Cost Comparison!
 
 | Action           | Approximate Cost |
 | ---------------- | ---------------- |
@@ -139,13 +139,13 @@ The variable vane oil pump wears over time. Once oil pressure drops below accept
 
 <!-- PLEBVOX:START -->
 
-# 🚨 The Big Three Problems
+# 🚨 The Big Three Problems!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 1️⃣ Oil Pump Failure
+## 1️⃣ Oil Pump Failure!
 
 This remains the number one engine killer on high-mileage 2.2 TDCi Rangers.
 
@@ -159,11 +159,11 @@ A healthy engine should maintain more than **1.2 bar** at hot idle.
 
 <!-- PLEBVOX:START -->
 
-## 2️⃣ EGR Cooler Failure
+## 2️⃣ EGR Cooler Failure!
 
 An internally cracked EGR cooler can allow coolant into the intake system.
 
-### Symptoms
+### Symptoms!
 
 * Unexplained coolant loss
 * White smoke
@@ -178,11 +178,11 @@ Ignoring the problem can result in cylinder head damage.
 
 <!-- PLEBVOX:START -->
 
-## 3️⃣ Injector Washer Leaks
+## 3️⃣ Injector Washer Leaks!
 
 Copper injector sealing washers can leak combustion gases.
 
-### Symptoms
+### Symptoms!
 
 * Black carbon deposits around injectors
 * Chuffing sounds
@@ -196,7 +196,7 @@ If neglected, carbon buildup can eventually restrict oil flow and contribute to 
 
 <!-- PLEBVOX:START -->
 
-# 🛞 Suspension and Chassis Wear
+# 🛞 Suspension and Chassis Wear!
 
 | Component                | Typical Life |
 | ------------------------ | ------------ |
@@ -206,7 +206,7 @@ If neglected, carbon buildup can eventually restrict oil flow and contribute to 
 | Leaf spring bushes       | 120k–180k km |
 | Propshaft centre bearing | 180k–250k km |
 
-### Common Symptoms
+### Common Symptoms!
 
 * Clunks over bumps
 * Rear suspension squeaks
@@ -219,13 +219,13 @@ If neglected, carbon buildup can eventually restrict oil flow and contribute to 
 
 <!-- PLEBVOX:START -->
 
-# 🔧 Other Known Ranger Quirks
+# 🔧 Other Known Ranger Quirks!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Intercooler Hoses
+## Intercooler Hoses!
 
 Often split after 150,000 km.
 
@@ -243,7 +243,7 @@ Many owners upgrade to silicone hoses.
 
 <!-- PLEBVOX:START -->
 
-## Vacuum Pump Leak
+## Vacuum Pump Leak!
 
 A common oil leak appears at the rear of the cylinder head.
 
@@ -255,7 +255,7 @@ Fortunately, repairs are generally inexpensive.
 
 <!-- PLEBVOX:START -->
 
-## Fuel Tank Breather Problems
+## Fuel Tank Breather Problems!
 
 A blocked breather can cause:
 
@@ -268,7 +268,7 @@ A blocked breather can cause:
 
 <!-- PLEBVOX:START -->
 
-## Radiator End Tanks
+## Radiator End Tanks!
 
 Plastic radiator tanks can crack with age and heat.
 
@@ -284,23 +284,23 @@ Look for:
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Five Checks Every Owner Should Do
+# 🔑 Five Checks Every Owner Should Do!
 
 If your Ranger has exceeded 200,000 km, inspect the following:
 
-### 1. Oil Pressure Test
+### 1. Oil Pressure Test!
 
 Ensure hot idle pressure remains above 1.2 bar.
 
-### 2. Cooling System Pressure Test
+### 2. Cooling System Pressure Test!
 
 Checks for hidden EGR cooler leaks.
 
-### 3. Injector Inspection
+### 3. Injector Inspection!
 
 Remove the cover and look for carbon deposits.
 
-### 4. Crank Pulley Inspection
+### 4. Crank Pulley Inspection!
 
 Check for:
 
@@ -308,7 +308,7 @@ Check for:
 * Excessive movement
 * Wobbling
 
-### 5. Gearbox Oil Level
+### 5. Gearbox Oil Level!
 
 The MT82 gearbox can lose oil through the reverse-switch seal.
 
@@ -320,13 +320,13 @@ Low oil levels can destroy the gearbox.
 
 <!-- PLEBVOX:START -->
 
-# 🛢️ Maintenance That Keeps These Engines Alive
+# 🛢️ Maintenance That Keeps These Engines Alive!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Engine Oil
+## Engine Oil!
 
 * 5W-30 Ford-approved specification
 * Maximum 10,000 km intervals
@@ -337,7 +337,7 @@ Low oil levels can destroy the gearbox.
 
 <!-- PLEBVOX:START -->
 
-## Fuel Filter
+## Fuel Filter!
 
 * Replace every 20,000 km
 * Drain water separator regularly
@@ -348,7 +348,7 @@ Low oil levels can destroy the gearbox.
 
 <!-- PLEBVOX:START -->
 
-## Air Filter
+## Air Filter!
 
 Johannesburg's dusty conditions demand frequent inspection.
 
@@ -361,7 +361,7 @@ Johannesburg's dusty conditions demand frequent inspection.
 
 <!-- PLEBVOX:START -->
 
-## Coolant
+## Coolant!
 
 Use the correct OAT coolant mixture.
 
@@ -373,7 +373,7 @@ Replace every three years.
 
 <!-- PLEBVOX:START -->
 
-## Gearbox, Diffs and Transfer Case
+## Gearbox, Diffs and Transfer Case!
 
 Replace lubricants every 80,000 km.
 
@@ -383,7 +383,7 @@ Replace lubricants every 80,000 km.
 
 <!-- PLEBVOX:START -->
 
-# 📈 Expected Lifespan
+# 📈 Expected Lifespan!
 
 A neglected 2.2 TDCi may fail shortly after 220,000 km due to oil pump or cooling system issues.
 
@@ -399,7 +399,7 @@ The engine itself is remarkably durable. Most failures occur because supporting 
 
 <!-- PLEBVOX:START -->
 
-## 🏁 Final Thoughts
+## 🏁 Final Thoughts!
 
 The Ford Ranger 2.2 TDCi remains one of the better modern diesel bakkies available in South Africa. Once past 200,000 km, ownership becomes less about major engine work and more about staying ahead of known wear items.
 
