@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "🔧 When the Engine Falls Silent: A Lesson in Faith"
+title: "🔧 When the Engine Falls Silent: A Lesson in Faith!"
 date: 2026-07-02
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔧 A Lesson in Faith
+# 🔧 A Lesson in Faith!
 
 There are days when life feels as though it is testing every ounce of strength you have left.
 
@@ -20,7 +20,7 @@ Then everything changed.
 
 <!-- PLEBVOX:START -->
 
-## 🚚 The Journey
+## 🚚 The Journey!
 
 From the moment I drove the bakkie out of the yard, something felt wrong.
 
@@ -54,7 +54,7 @@ That is exactly what I did.
 
 <!-- PLEBVOX:START -->
 
-## ⚠️ The Next Day
+## ⚠️ The Next Day!
 
 The mechanic arrived later than expected.
 
@@ -72,7 +72,7 @@ But it certainly doesn't sound encouraging.
 
 <!-- PLEBVOX:START -->
 
-## 😔 When Problems Come in Waves
+## 😔 When Problems Come in Waves!
 
 This incident is only one chapter in what has already been an incredibly difficult season.
 
@@ -94,7 +94,7 @@ There are moments when it feels as though every direction you turn presents anot
 
 <!-- PLEBVOX:START -->
 
-## ✝️ Standing on Faith
+## ✝️ Standing on Faith!
 
 If I am honest...
 
@@ -118,7 +118,7 @@ Perhaps this difficult season is also a season of preparation.
 
 <!-- PLEBVOX:START -->
 
-## 🔥 Refusing to Give Up
+## 🔥 Refusing to Give Up!
 
 I have survived difficult seasons before.
 
