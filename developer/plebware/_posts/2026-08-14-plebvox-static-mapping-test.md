@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebVox Mobile Fallback Test — Reliable Section Reading"
+title: "PlebVox Mobile Fallback Test — Reliable Section Reading!"
 date: 2026-08-14
 permalink: /developer/plebware/plebvox-static-mapping-test/
 description: "Temporary PlebVox development test for the reliable Android fallback when speech-position events are unavailable."
