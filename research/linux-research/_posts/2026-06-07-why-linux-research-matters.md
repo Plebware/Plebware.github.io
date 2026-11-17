@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Why Linux Research Matters"
+title: "Why Linux Research Matters?"
 date: 2026-06-07
 ---
 
 <!-- PLEBVOX:START -->
 
-## More Than Just an Operating System
+## More Than Just an Operating System!
 
 For many people, Linux is simply another operating system.
 
@@ -129,7 +129,7 @@ Knowledge can replace unnecessary expenditure.
 
 <!-- PLEBVOX:START -->
 
-## What This Section Covers
+## What This Section Covers?
 
 The Linux Research section explores topics such as:
 
@@ -152,7 +152,7 @@ The goal is to help ordinary users become confident and capable.
 
 <!-- PLEBVOX:START -->
 
-## The Journey Never Ends
+## The Journey Never Ends!
 
 One of the greatest strengths of Linux is that there is always something new to learn.
 
@@ -206,7 +206,7 @@ The result is knowledge.
 
 <!-- PLEBVOX:START -->
 
-## Why Research Is Important
+## Why Research Is Important?
 
 Linux is not a single product.
 
