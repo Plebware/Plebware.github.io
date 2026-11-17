@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Great Repository Reconstruction - 2"
+title: "The Great Repository Reconstruction - 2!"
 date: 2026-07-13
 category: "Fiction"
 tags: [cybercat, armadillo, repository, rebuilding, educational, articles, story]
@@ -10,7 +10,7 @@ author: "Othello Verrocchio"
 
 <!-- PLEBVOX:START -->
 
-## CyberCat & Armadillo: *The Repository Awakens*
+## CyberCat & Armadillo: *The Repository Awakens*!
 
 The dust had finally settled.
 
