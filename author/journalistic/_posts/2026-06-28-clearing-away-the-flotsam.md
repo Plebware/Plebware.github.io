@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "🧹 Clearing Away the Flotsam"
+title: "🧹 Clearing Away the Flotsam!"
 date: 2026-06-28
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🧹 Clearing Away the Flotsam
+# 🧹 Clearing Away the Flotsam!
 
 > *"Do not be deceived: 'Bad company corrupts good character.'"*
 > **— 1 Corinthians 15:33 (NIV)**
@@ -27,7 +27,7 @@ It was an act of **self-preservation.**
 
 <!-- PLEBVOX:START -->
 
-## 🌊 Learning From Past Wounds
+## 🌊 Learning From Past Wounds!
 
 Over the years I have developed certain boundaries—not because I believe myself better than anyone else, but because repeated disappointments have taught me painful lessons.
 
@@ -48,7 +48,7 @@ Yet humility does not require us to continually place ourselves where we are rep
 
 <!-- PLEBVOX:START -->
 
-## 🐑 When Shepherds Fail
+## 🐑 When Shepherds Fail!
 
 One of the greatest heartbreaks is discovering that those entrusted with caring for God's flock sometimes fail in that responsibility.
 
@@ -73,7 +73,7 @@ Sadly, not every church leader lives according to that calling.
 
 <!-- PLEBVOX:START -->
 
-## 💔 Silence Speaks Loudly
+## 💔 Silence Speaks Loudly!
 
 This morning I made a difficult decision.
 
@@ -99,7 +99,7 @@ Sometimes silence says more than words ever could.
 
 <!-- PLEBVOX:START -->
 
-## 🚶 Walking Away Before Getting Burned
+## 🚶 Walking Away Before Getting Burned!
 
 Leaving was not done in anger.
 
@@ -122,7 +122,7 @@ It simply means allowing God—not people—to define our value.
 
 <!-- PLEBVOX:START -->
 
-## 🚶‍♂️ Practical Realities
+## 🚶‍♂️ Practical Realities!
 
 There was another practical challenge.
 
@@ -138,7 +138,7 @@ Sometimes God closes a door through circumstances long before we recognise what 
 
 <!-- PLEBVOX:START -->
 
-## 🙏 Waiting for God's Direction
+## 🙏 Waiting for God's Direction!
 
 For the moment, I once again find myself without a church fellowship.
 
@@ -161,7 +161,7 @@ Those words are as relevant today as they were two thousand years ago.
 
 <!-- PLEBVOX:START -->
 
-## ✨ My Prayer
+## ✨ My Prayer!
 
 I am not giving up on Christ.
 
@@ -187,7 +187,7 @@ For even when people disappoint us...
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Reflection
+## 🔑 Reflection!
 
 Sometimes God removes people from our lives.
 
