@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Please Provide Lord"
+title: "Please Provide Lord!"
 date: 2026-07-12
 ---
 
 <!-- PLEBVOX:START -->
 
-## 🙏 Daily Prayer for Provision, Strength, Guidance, and Wisdom
+## 🙏 Daily Prayer for Provision, Strength, Guidance, and Wisdom!
 
 Heavenly Father,
 
@@ -30,7 +30,7 @@ In the precious name of Jesus Christ, I pray.
 
 **Amen.**
 
-### 📖 Key Scriptures
+### 📖 Key Scriptures!
 
 * 🔑 **Matthew 6:11** — *"Give us this day our daily bread."*
 * 🔑 **Isaiah 40:31** — *"Those who hope in the LORD will renew their strength."*
