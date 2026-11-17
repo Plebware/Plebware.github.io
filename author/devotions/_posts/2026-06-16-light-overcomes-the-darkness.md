@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "light Overcomes The Darkness"
+title: "light Overcomes The Darkness!"
 date: 2026-06-16
 ---
 
@@ -15,13 +15,13 @@ date: 2026-06-16
 </div>
 ----
 
-# ⚡ When the Lights Go Out, God Still Sees
+# ⚡ When the Lights Go Out, God Still Sees!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Opening Prayer 🙏
+## Opening Prayer 🙏!
 
 _Father God,_
 
@@ -39,7 +39,7 @@ _Amen._
 
 <!-- PLEBVOX:START -->
 
-## 📖 Introduction: Life in the Dark
+## 📖 Introduction: Life in the Dark!
 
 There are few things more frustrating than sitting in darkness while waiting for something beyond your control to be fixed.
 
@@ -63,9 +63,9 @@ It is much harder to guard our own hearts.
 
 <!-- PLEBVOX:START -->
 
-## ✍️ Summary Poem
+## ✍️ Summary Poem!
 
-### 🕯️ The Lamp Still Burns
+### 🕯️ The Lamp Still Burns!
 ```
 When power fails and darkness falls,  
 And silence fills neglected halls,
@@ -92,7 +92,7 @@ The Lord is working faithfully.
 
 <!-- PLEBVOX:START -->
 
-## ⛪ Church History: Light During Hard Times
+## ⛪ Church History: Light During Hard Times!
 
 Many believers throughout church history endured hardships far greater than power outages.
 
@@ -110,13 +110,13 @@ Their examples remind us that comfort is a blessing, but faithfulness is a choic
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Key Point 1: God Sees What Others Ignore
+# 🔑 Key Point 1: God Sees What Others Ignore!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Scripture 📖
+## Scripture 📖!
 
 > "The eyes of the LORD are in every place, beholding the evil and the good."
 >
@@ -126,7 +126,7 @@ Their examples remind us that comfort is a blessing, but faithfulness is a choic
 
 <!-- PLEBVOX:START -->
 
-## Practical Application 🛠️
+## Practical Application 🛠️!
 
 Sometimes it feels as though nobody is listening.
 
@@ -144,7 +144,7 @@ Nothing escapes His attention.
 
 <!-- PLEBVOX:START -->
 
-## Heaven's View ☁️
+## Heaven's View ☁️!
 
 While we focus on delayed repairs and unanswered questions, God sees the entire picture. He knows every frustration, every inconvenience, and every burden we carry.
 
@@ -156,13 +156,13 @@ His awareness is perfect even when human accountability is lacking.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Key Point 2: Guard Your Heart Against Bitterness
+# 🔑 Key Point 2: Guard Your Heart Against Bitterness!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Scripture 📖
+## Scripture 📖!
 
 > "Keep thy heart with all diligence; for out of it are the issues of life."
 >
@@ -172,7 +172,7 @@ His awareness is perfect even when human accountability is lacking.
 
 <!-- PLEBVOX:START -->
 
-## Practical Application 🛠️
+## Practical Application 🛠️!
 
 Frustration is natural.
 
@@ -186,7 +186,7 @@ When problems persist, we must continually bring our frustrations before God rat
 
 <!-- PLEBVOX:START -->
 
-## Heaven's View ☁️
+## Heaven's View ☁️!
 
 The Lord is often more concerned with what adversity is producing inside us than what adversity is doing around us.
 
@@ -200,13 +200,13 @@ Difficult circumstances expose hidden weaknesses that God desires to heal.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Key Point 3: The True Light Never Fails
+# 🔑 Key Point 3: The True Light Never Fails!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Scripture 📖
+## Scripture 📖!
 
 > "I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life."
 >
@@ -216,7 +216,7 @@ Difficult circumstances expose hidden weaknesses that God desires to heal.
 
 <!-- PLEBVOX:START -->
 
-## Practical Application 🛠️
+## Practical Application 🛠️!
 
 Electricity can fail.
 
@@ -236,7 +236,7 @@ When every earthly source of certainty disappears, His promises remain unchanged
 
 <!-- PLEBVOX:START -->
 
-## Heaven's View ☁️
+## Heaven's View ☁️!
 
 God's kingdom has never experienced a power outage.
 
@@ -254,7 +254,7 @@ The believer walks in a light that no darkness can extinguish.
 
 <!-- PLEBVOX:START -->
 
-## 📝 Final Thoughts
+## 📝 Final Thoughts!
 
 The restoration of electricity brought relief to everyone on the property.
 
@@ -280,7 +280,7 @@ And that is enough.
 
 <!-- PLEBVOX:START -->
 
-## Closing Prayer 🙏
+## Closing Prayer 🙏!
 
 _Father,_
 
