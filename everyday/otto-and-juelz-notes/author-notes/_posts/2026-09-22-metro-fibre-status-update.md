@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Metro Fibre Status Update — 22 September 2026"
+title: "Metro Fibre Status Update — 22 September 2026!"
 date: 2026-09-22
 ---
 
 <!-- PLEBVOX:START -->
-# Metro Fibre Connection — Customer-Side Test Results
+# Metro Fibre Connection — Customer-Side Test Results!
 
 **📰 Field Report — 22 September 2026**
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Morning Observation
+## Morning Observation!
 
 On the morning of **22 September 2026**, both LAN Card status lights were observed to be **green**.
 
@@ -23,7 +23,7 @@ The service indicators remain relevant to the ongoing incident record because th
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Customer-Side Network Testing
+## Customer-Side Network Testing!
 
 After returning home from work, I performed a customer-side network test at approximately **14:54–14:57 SAST on 22 September 2026**.
 
@@ -31,7 +31,7 @@ The test included the local router, Cloudflare, Google, a 100-packet MTR test, a
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Local Router — 192.168.1.254
+### Local Router — 192.168.1.254!
 
 - **20 packets transmitted.**
 - **20 packets received.**
@@ -44,7 +44,7 @@ The local connection to the router was therefore responding consistently during 
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Cloudflare — 1.1.1.1
+### Cloudflare — 1.1.1.1!
 
 - **20 packets transmitted.**
 - **20 packets received.**
@@ -55,7 +55,7 @@ The local connection to the router was therefore responding consistently during 
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Google — 8.8.8.8
+### Google — 8.8.8.8!
 
 - **20 packets transmitted.**
 - **20 packets received.**
@@ -66,7 +66,7 @@ The local connection to the router was therefore responding consistently during 
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### MTR — Google 8.8.8.8
+### MTR — Google 8.8.8.8!
 
 A **100-packet MTR test** was performed.
 
@@ -81,7 +81,7 @@ The MTR therefore recorded **0% packet loss across all reported hops and at the 
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### DNS Testing
+### DNS Testing!
 
 DNS resolution was successful through all three tested DNS paths:
 
@@ -91,7 +91,7 @@ DNS resolution was successful through all three tested DNS paths:
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Technical Record
+## Technical Record!
 
 The customer-side test performed on the afternoon of **22 September 2026** recorded:
 
