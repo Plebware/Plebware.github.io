@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Become A Zealot"
+title: "Become A Zealot!"
 date: 2026-08-11
 ---
 
