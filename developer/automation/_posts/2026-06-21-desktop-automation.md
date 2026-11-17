@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Desktop Automation on Linux"
+title: "Desktop Automation on Linux!"
 date: 2026-06-21
 ---
 
 <!-- PLEBVOX:START -->
 
-# ⚙️ Desktop Automation on Linux
+# ⚙️ Desktop Automation on Linux!
 
 Automation allows computers to perform repetitive tasks without requiring constant user interaction.
 
@@ -46,7 +46,7 @@ Automation helps:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Common Automation Tools
+## 🔑 Common Automation Tools!
 
 Linux offers many automation options:
 
@@ -60,7 +60,7 @@ Linux offers many automation options:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Practical Examples
+## 🔑 Practical Examples!
 
 Automation can:
 
@@ -74,7 +74,7 @@ Automation can:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Start Small
+## 🔑 Start Small!
 
 Successful automation begins with simple tasks.
 
@@ -86,7 +86,7 @@ Small improvements often produce the biggest productivity gains over time.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Conclusion
+## 🔑 Conclusion!
 
 Automation is one of Linux's greatest strengths.
 
