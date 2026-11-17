@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "ChatGPT Co-lab"
+title: "ChatGPT Co-lab!"
 date: 2026-08-12
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The PlebWare Conference Table
+# 🔑 The PlebWare Conference Table!
 
 <img src="/assets/images/chatgpt-colab.webp"
      alt="Collaboration with AI, For Maximum Productivity"
@@ -34,7 +34,7 @@ Because apparently, if you're going to have a conference with artificial intelli
 
 <!-- PLEBVOX:START -->
 
-## 🔑 PlebWare Is Bigger Than the Website
+## 🔑 PlebWare Is Bigger Than the Website!
 
 The first item on the agenda was PlebWare itself.
 
@@ -70,7 +70,7 @@ That is an ecosystem.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Then We Had To Talk About PlebMachine
+## 🔑 Then We Had To Talk About PlebMachine!
 
 The second conference item was PlebMachine.
 
@@ -131,7 +131,7 @@ That's software development in the real world.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Real Test Has Begun
+## 🔑 The Real Test Has Begun!
 
 There is another important stage coming for PlebMachine.
 
@@ -169,7 +169,7 @@ That is how an experimental system becomes a useful system.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 And Then There Is Jullian
+## 🔑 And Then There Is Jullian!
 
 Somewhere in the middle of all this, I realised something rather amusing about the cartoon.
 
@@ -219,7 +219,7 @@ It turns accessibility from a checkbox into a human requirement.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Accidental Conscience
+## 🔑 The Accidental Conscience!
 
 Perhaps that's why the hologram looking a little like Jullian works so well.
 
@@ -243,7 +243,7 @@ And sometimes the person who drives you absolutely crazy is also the person who 
 
 <!-- PLEBVOX:START -->
 
-## 🔑 A Cold Johannesburg Morning
+## 🔑 A Cold Johannesburg Morning!
 
 Outside the conference room, the rain continued.
 
@@ -295,7 +295,7 @@ And the projects are becoming an ecosystem.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Conference Resolution
+## 🔑 The Conference Resolution!
 
 So what did we accomplish during our completely unofficial PlebWare conference?
 
@@ -349,7 +349,7 @@ The investigation continues.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Conference Conclusion
+## 🔑 Conference Conclusion!
 
 PlebWare is becoming something I don't merely build—I am beginning to live inside it.
 
