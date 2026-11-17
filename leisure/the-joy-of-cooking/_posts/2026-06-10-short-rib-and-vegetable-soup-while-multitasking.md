@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Short Rib and Vegetable Soup While Multitasking"
+title: "Short Rib and Vegetable Soup While Multitasking!"
 date: 2026-06-10
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Short Rib and Vegetable Soup While Multitasking
+# 🔑 Short Rib and Vegetable Soup While Multitasking!
 
 There are days when cooking is simply about getting food onto the table, and then there are days when cooking becomes part of a much larger adventure.
 
@@ -20,7 +20,7 @@ One of those projects was supper.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Ingredients
+## 🔑 Ingredients!
 
 * 4 slices Short Rib
 * Small bunch of Parsley
@@ -38,7 +38,7 @@ One of those projects was supper.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Method
+## 🔑 Method!
 
 First, I sprayed my pressure cooker with olive oil-based Spray-and-Cook and browned the short ribs.
 
@@ -62,7 +62,7 @@ At approximately 17:00, I planned to add 500ml of leftover mushroom soup from th
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Result
+## 🔑 The Result!
 
 The result was a hearty, filling winter soup packed with vegetables, tender beef, barley, lentils, and split peas.
 
