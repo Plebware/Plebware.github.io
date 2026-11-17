@@ -16,7 +16,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# **Who or What Is PlebWare?**
+# **Who or What Is PlebWare?**?
 
 It is time to explain the **when, who, where, why, and what** behind **Plebware** and **PlebWare**.
 
@@ -46,7 +46,7 @@ The human being is the reason the technology exists in the first place.
 
 <!-- PLEBVOX:START -->
 
-## **When Did PlebWare Begin?**
+## **When Did PlebWare Begin?**?
 
 The easiest answer is **2006**.
 
@@ -100,7 +100,7 @@ The honest answer is:
 
 <!-- PLEBVOX:START -->
 
-## **Who Is PlebWare?**
+## **Who Is PlebWare?**?
 
 This is where the distinction between **Plebware** and **PlebWare** becomes important.
 
@@ -156,7 +156,7 @@ That is why the human element is not merely another component of PlebWare.
 
 <!-- PLEBVOX:START -->
 
-## **Where Did PlebWare Come From?**
+## **Where Did PlebWare Come From?**?
 
 PlebWare was born in **Johannesburg, South Africa**.
 
@@ -200,7 +200,7 @@ The knowledge is intended to be accessible to anyone.
 
 <!-- PLEBVOX:START -->
 
-## **Why Does PlebWare Exist?**
+## **Why Does PlebWare Exist?**?
 
 The short answer is:
 
@@ -254,7 +254,7 @@ It exists because technology is most useful when it serves a human purpose.
 
 <!-- PLEBVOX:START -->
 
-## **What Is PlebWare?**
+## **What Is PlebWare?**?
 
 PlebWare is an evolving ecosystem built around one central idea:
 
@@ -286,7 +286,7 @@ The terminology is therefore a living part of PlebWare rather than a fixed dicti
 
 <!-- PLEBVOX:START -->
 
-## **PlebMachine — The Flagship Technology Project.**
+## **PlebMachine — The Flagship Technology Project.**!
 
 One of the most visible expressions of the PlebWare philosophy is **PlebMachine**.
 
@@ -328,7 +328,7 @@ It is one of the clearest practical demonstrations of what PlebWare believes.
 
 <!-- PLEBVOX:START -->
 
-## **PlebTuition — Learning Without the Lecture Hall.**
+## **PlebTuition — Learning Without the Lecture Hall.**!
 
 PlebTuition began as the name for downloadable educational material.
 
@@ -360,7 +360,7 @@ If something can be explained clearly, it should be explained clearly.
 
 <!-- PLEBVOX:START -->
 
-## **PlebVox — Give the Knowledge a Voice.**
+## **PlebVox — Give the Knowledge a Voice.**!
 
 PlebVox grew from the idea that written information should also be accessible through speech.
 
@@ -390,37 +390,37 @@ The spoken word adds another doorway into the same knowledge.
 
 <!-- PLEBVOX:START -->
 
-## **The PlebWare Ecosystem.**
+## **The PlebWare Ecosystem.**!
 
 Over time, PlebWare has grown far beyond its original computing focus.
 
 It now encompasses several interconnected areas.
 
-### **Publishing.**
+### **Publishing.**!
 
 Articles, journalism, personal writing, technical documentation, research, devotionals, and creative work.
 
-### **Education.**
+### **Education.**!
 
 Tutorials, PlebTuition lessons, technical guides, and practical explanations.
 
-### **Technology.**
+### **Technology.**!
 
 Linux, PlebMachine, automation, desktop orchestration, scripting, and software development.
 
-### **Artificial Intelligence.**
+### **Artificial Intelligence.**!
 
 Research, experimentation, AI-assisted development, AI reviews, and practical exploration of emerging tools.
 
-### **Digital Creativity.**
+### **Digital Creativity.**!
 
 Graphics, multimedia, writing, audio, video, and creative experimentation.
 
-### **Christian Publishing.**
+### **Christian Publishing.**!
 
 Devotional writing, Bible study resources, Christian education, and digital ministry.
 
-### **Research and Preservation.**
+### **Research and Preservation.**!
 
 Documenting what works, what fails, what has changed, and what has been learned along the way.
 
@@ -436,7 +436,7 @@ They are actually connected by the same principle.
 
 <!-- PLEBVOX:START -->
 
-## **The PlebWare Philosophy.**
+## **The PlebWare Philosophy.**!
 
 The PlebWare philosophy can be expressed in a few simple ideas.
 
@@ -467,7 +467,7 @@ PlebWare values that openness.
 
 <!-- PLEBVOX:START -->
 
-## **From User to Operator.**
+## **From User to Operator.**!
 
 Perhaps the simplest way to understand PlebWare is to understand the difference between a **user** and an **operator**.
 
@@ -505,7 +505,7 @@ The goal is to make technology less intimidating and more useful.
 
 <!-- PLEBVOX:START -->
 
-## **The People Behind PlebWare.**
+## **The People Behind PlebWare.**!
 
 PlebWare is a technical project, but it is also a human story.
 
@@ -539,7 +539,7 @@ And it continues to develop because the work itself creates new questions.
 
 <!-- PLEBVOX:START -->
 
-## **Where Is PlebWare Going?**
+## **Where Is PlebWare Going?**?
 
 There is no final destination.
 
@@ -579,7 +579,7 @@ It is about continuing to build a body of practical knowledge that ordinary peop
 
 <!-- PLEBVOX:START -->
 
-## **So, Who or What Is PlebWare?**
+## **So, Who or What Is PlebWare?**!
 
 The answer is surprisingly simple.
 
@@ -615,7 +615,7 @@ That is the idea at the heart of PlebWare.
 
 <!-- PLEBVOX:START -->
 
-## **The PlebWare Declaration.**
+## **The PlebWare Declaration.**!
 
 Technology is a tool.
 
@@ -649,7 +649,7 @@ That is PlebWare.
 
 <!-- PLEBVOX:START -->
 
-## **PlebWare.**
+## **PlebWare.**!
 
 **Accessible. Repairable. Understandable Technology.**
 
