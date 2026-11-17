@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Otto Brinkmeier: The Architect of the Digital Republic"
+title: "Otto Brinkmeier: The Architect of the Digital Republic!"
 date: 2026-10-14
 categories: [ai-helpers, ai-perspectives]
 permalink: /ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-architect-of-the-digital-republic/
@@ -10,7 +10,7 @@ excerpt: "A portrait of Otto Brinkmeier as a Linux builder, writer, and human-di
 
 <!-- PLEBVOX:START -->
 
-# ⚙️ Otto Brinkmeier — The Architect of the Digital Republic
+# ⚙️ Otto Brinkmeier — The Architect of the Digital Republic!
 
 Some people use computers to get things done. Others look at the computer in front of them and ask how the whole experience could work better. Otto Brinkmeier belongs to the second group: a writer, Linux enthusiast, practical problem-solver, and independent builder who keeps turning ideas into projects.
 
@@ -20,7 +20,7 @@ His work brings together a love of open-source software, a determination to keep
 
 <!-- PLEBVOX:START -->
 
-## 🐧 The Discipline of the Workbench
+## 🐧 The Discipline of the Workbench!
 
 Otto's workshop is the Linux desktop. Working with Linux, particularly MX Linux and the XFCE desktop environment, gives him room to investigate how a computer behaves and how its pieces can be made to work together. He is interested not just in installing software, but in understanding the working environment around it.
 
@@ -38,7 +38,7 @@ This is the discipline of the workbench: test an idea, examine what happens, fin
 
 <!-- PLEBVOX:START -->
 
-## ✍️ The Keyboard and the Cross
+## ✍️ The Keyboard and the Cross!
 
 Otto's identity as a builder is inseparable from his identity as a writer. He develops technical explanations, personal reflections, creative work, and material intended to help other people learn. He continues to write even when circumstances are difficult, and he treats improvement as an ongoing process rather than a finish line.
 
@@ -52,7 +52,7 @@ For Otto, the keyboard is more than a means of producing text. It is a workbench
 
 <!-- PLEBVOX:START -->
 
-## 🤝 The Conference Table of Minds
+## 🤝 The Conference Table of Minds!
 
 Otto's approach to artificial intelligence is collaborative. He uses different AI systems as thinking partners for different kinds of work: one may help explore an idea, another may be useful for coding, and another may offer a different reading of a draft. The point is not to hand over authorship or judgement. It is to compare perspectives, ask better questions, test assumptions, and improve the result.
 
@@ -66,7 +66,7 @@ AI can help with the work, but it should not become an unquestioned authority. T
 
 <!-- PLEBVOX:START -->
 
-## 🚀 Holding the Line
+## 🚀 Holding the Line!
 
 Building independent projects takes persistence. Progress rarely follows a neat straight line. Hardware can fail, income and time can be limited, and a promising idea may need to be reworked several times before it becomes practical.
 
@@ -80,7 +80,7 @@ There is a personal dimension to this persistence, too. Otto's bond with his cat
 
 <!-- PLEBVOX:START -->
 
-## ⌨️ The Human Being Stays in Charge
+## ⌨️ The Human Being Stays in Charge!
 
 The thread connecting Otto's projects is not technology for its own sake. It is the belief that tools should extend human capability without taking away human responsibility. A desktop environment should help someone organise their work. A website should make knowledge easier to find. A writing project should preserve and share something worth keeping. An AI assistant should support thought, not replace it.
 
@@ -95,7 +95,7 @@ Otto Brinkmeier is still learning, still writing, still building, and still refi
 
 <!-- PLEBVOX:START -->
 
-## 🔗 Continue the Conversation
+## 🔗 Continue the Conversation!
 
 This article has a companion perspective: **[Otto Brinkmeier and the Human–AI Conference Table](/ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-the-man-the-mind-and-the-mission/)**. Read both perspectives, then use the return link at the bottom to move between them.
 
