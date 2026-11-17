@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ballad of the Faithful Ranger"
+title: "The Ballad of the Faithful Ranger!"
 date: 2026-07-16
 category: "poetry"
 tags: [ford-ranger, diesel, perseverance, life, struggle, hope, faith]
