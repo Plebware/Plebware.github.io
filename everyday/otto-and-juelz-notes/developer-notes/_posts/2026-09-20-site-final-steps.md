@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Week 4 September 2026"
+title: "Week 4 September 2026!"
 date: 2026-09-20
 ---
 
 
 <!-- PLEBVOX:START -->
-# Courses To Take - Systems To Build
+# Courses To Take - Systems To Build!
 Create **Instruction Sets** For **Deepseek** and **ChatGPT** that reside on **PlebWare GitHub**
 Finish Uploading **PlebMachine** scripts
 Improve **Personal Workflow**
