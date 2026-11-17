@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Why Song Lyrics Matter"
+title: "Why Song Lyrics Matter?"
 date: 2026-06-07
 ---
 
 <!-- PLEBVOX:START -->
 
-## Words That Carry Sound
+## Words That Carry Sound!
 
 Some ideas are too large for plain speech.
 
@@ -24,7 +24,7 @@ Even when the melody fades, the words often remain.
 
 <!-- PLEBVOX:START -->
 
-## More Than Entertainment
+## More Than Entertainment!
 
 Music is often treated as background noise in daily life.
 
