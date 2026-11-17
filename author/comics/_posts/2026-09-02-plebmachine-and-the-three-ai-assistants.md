@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🤖 PlebMachine and the Three AI Assistants
+# 🤖 PlebMachine and the Three AI Assistants!
 
 <!-- PLEBVOX:END -->
 
