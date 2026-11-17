@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔑 Silent Battles – Part 2: Overcoming Addiction"
+title: "🔑 Silent Battles – Part 2: Overcoming Addiction!"
 date: 2026-07-17
 category: "non-fiction"
 tags: [addiction, drug-abuse, rehab, distrust, rehabilitation, recovery, grace]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# **When Addiction Steals Someone You Love**
+# **When Addiction Steals Someone You Love**?
 
 *By O.C. Verrocchio*
 
