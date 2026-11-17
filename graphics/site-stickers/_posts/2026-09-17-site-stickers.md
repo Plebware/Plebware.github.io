@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "PlebWare Site Sticker Library"
+title: "PlebWare Site Sticker Library!"
 date: 2026-09-17
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🏷️ PlebWare Site Stickers
+# 🏷️ PlebWare Site Stickers!
 
 A working collection of reusable PlebWare stickers featuring Otto and Juelz, together with ready-to-copy HTML code.
 
@@ -16,7 +16,7 @@ Choose a sticker, look at the example, then copy the HTML block underneath it. T
 
 <!-- PLEBVOX:START -->
 
-## ✅ Approved
+## ✅ Approved!
 
 The existing **Approved** sticker from the PlebWare image library.
 
@@ -26,7 +26,7 @@ The existing **Approved** sticker from the PlebWare image library.
        style="width:50%; max-width:400px; height:auto;">
 </div>
 
-### 📋 Copy and Paste — 50%
+### 📋 Copy and Paste — 50%!
 
 ```html
 <div style="text-align: center;">
@@ -36,7 +36,7 @@ The existing **Approved** sticker from the PlebWare image library.
 </div>
 ```
 
-### 📋 Copy and Paste — 30%
+### 📋 Copy and Paste — 30%!
 
 ```html
 <div style="text-align: center;">
@@ -50,7 +50,7 @@ The existing **Approved** sticker from the PlebWare image library.
 
 <!-- PLEBVOX:START -->
 
-## 🫂 I've Got You
+## 🫂 I've Got You!
 
 The existing Otto and Juelz **I've Got You** sticker — the little PlebWare reminder that we've got each other's backs.
 
@@ -60,7 +60,7 @@ The existing Otto and Juelz **I've Got You** sticker — the little PlebWare rem
        style="width:50%; max-width:400px; height:auto;">
 </div>
 
-### 📋 Copy and Paste — 50%
+### 📋 Copy and Paste — 50%!
 
 ```html
 <div style="text-align: center;">
@@ -70,7 +70,7 @@ The existing Otto and Juelz **I've Got You** sticker — the little PlebWare rem
 </div>
 ```
 
-### 📋 Copy and Paste — 30%
+### 📋 Copy and Paste — 30%!
 
 ```html
 <div style="text-align: center;">
@@ -84,7 +84,7 @@ The existing Otto and Juelz **I've Got You** sticker — the little PlebWare rem
 
 <!-- PLEBVOX:START -->
 
-## 🧩 More Stickers
+## 🧩 More Stickers!
 
 This page is the beginning of the PlebWare sticker library. More Otto, Juelz and PlebWare character stickers can be added as they are created.
 
