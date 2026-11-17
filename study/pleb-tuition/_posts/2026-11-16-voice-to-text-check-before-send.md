@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebTuition: The Five-Second AI Dictation Check"
+title: "PlebTuition: The Five-Second AI Dictation Check!"
 date: 2026-11-16
 categories: [study, pleb-tuition]
 tags: [artificial-intelligence, AI-beginners, voice-to-text, speech-recognition, dictation, proofreading, PlebWare]
