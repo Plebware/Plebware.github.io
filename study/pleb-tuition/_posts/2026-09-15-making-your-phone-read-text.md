@@ -13,7 +13,7 @@ author: Otto Brinkmeier
 <img src="/assets/images/read-text-aloud.webp" alt="A mobile device reading text aloud" style="max-width: 100%; height: auto;">
 
 <!-- PLEBVOX:START -->
-## Welcome To The World Of Read-Aloud
+## Welcome To The World Of Read-Aloud!
 
 In the first five lessons, we learned what Text-to-Speech is, how to set it up on Android, Samsung Galaxy and iPhone or iPad, and how to choose a voice.
 
@@ -34,7 +34,7 @@ The exact method depends on your phone, operating system and the app you are usi
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 There Are Different Ways To Read Text
+## 🔑 There Are Different Ways To Read Text!
 
 There is no single button that works exactly the same way on every mobile device.
 
@@ -49,7 +49,7 @@ The important thing is to learn what your own device provides.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## Method 1 — Read Selected Text
+## Method 1 — Read Selected Text!
 
 This is often the easiest place to start.
 
@@ -71,7 +71,7 @@ If you see the option, tap it and listen.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## Android — Select To Speak
+## Android — Select To Speak!
 
 Many Android devices provide an accessibility feature called **Select to Speak**, or a similar read-aloud function.
 
@@ -89,7 +89,7 @@ Remember that Android manufacturers can change the menu structure, so your phone
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## Samsung Galaxy
+## Samsung Galaxy!
 
 On a Samsung Galaxy, start with **Settings** and use the search function if you cannot immediately find the feature.
 
@@ -108,7 +108,7 @@ The important lesson is not to memorise one menu path.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## iPhone And iPad — Speak Selection
+## iPhone And iPad — Speak Selection!
 
 Apple provides a simple way to have selected text spoken aloud.
 
@@ -124,7 +124,7 @@ Your iPhone or iPad can then read the selected text aloud.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## Method 2 — Read The Whole Screen
+## Method 2 — Read The Whole Screen!
 
 Sometimes you do not want to select individual paragraphs.
 
@@ -160,7 +160,7 @@ We will deal with those properly in Lesson 7.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## Try It With A PlebWare Article
+## Try It With A PlebWare Article!
 
 Now let's do something practical.
 
@@ -182,7 +182,7 @@ You are testing whether **your chosen voice works for you**.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 PlebVox Is A Great Voice Test Bench
+## 🔑 PlebVox Is A Great Voice Test Bench!
 
 The **PlebVox** articles on the PlebWare website are an excellent place to test your voices.
 
@@ -222,7 +222,7 @@ You are testing whether the **voice works well for you**.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## Try It With A Message
+## Try It With A Message!
 
 If your messaging app allows you to select the text, try having a message read aloud.
 
@@ -234,7 +234,7 @@ A phone reading a private message aloud in a public place may not be a good idea
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## Try It With A Web Page
+## Try It With A Web Page!
 
 Web pages are another useful test.
 
@@ -254,7 +254,7 @@ A voice that sounds good for ten seconds may not be the voice you want to listen
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔑 TTS Can Become A Second Reading Method
+## 🔑 TTS Can Become A Second Reading Method!
 
 You do not have to choose between reading with your eyes and listening with your ears.
 
@@ -310,7 +310,7 @@ This is another reason why listening to real articles is such a useful test.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## Your Six-Minute Reading Test
+## Your Six-Minute Reading Test!
 
 Let's put everything together.
 
@@ -332,7 +332,7 @@ You have now tested TTS with real content rather than a demonstration sentence.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## Your Read-Aloud Checklist
+## Your Read-Aloud Checklist!
 
 Before moving on, make sure you can:
 
@@ -348,7 +348,7 @@ Before moving on, make sure you can:
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## The PlebWare Principle
+## The PlebWare Principle!
 
 Technology becomes useful when it solves a real problem.
 
@@ -372,9 +372,9 @@ Make it work for you.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## Next Lesson
+## Next Lesson!
 
-### Lesson 7 — TalkBack And VoiceOver
+### Lesson 7 — TalkBack And VoiceOver!
 
 Next we move from simply making a phone speak to understanding **screen readers**.
 
