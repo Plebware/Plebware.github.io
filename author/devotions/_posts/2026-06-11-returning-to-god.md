@@ -5,8 +5,11 @@ date: 2026-06-11
 ---
 <!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 # 🔑 Finding Strength In Quietness and Confidence
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 📖 Opening Scripture
 
 > **Isaiah 30:15 (NLT)**
@@ -15,6 +18,8 @@ date: 2026-06-11
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # 🌿 Introduction
 
 Life has a way of pulling us in many directions. One moment we are walking closely with God, and the next we find ourselves distracted by worries, responsibilities, disappointments, fears, or simply the busyness of daily life.
@@ -33,6 +38,8 @@ When we return to God, we discover that our strength was never meant to come fro
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # ✨ A Poem: The Way Back Home
 
 When roads grow long and shadows fall,  
@@ -52,6 +59,8 @@ Will find God's grace beyond all men.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # ⛪ A Lesson From Church History
 
 One of the greatest examples of returning to God is found in the life of **Augustine of Hippo**.
@@ -66,137 +75,211 @@ That truth remains just as powerful today. Every human heart ultimately longs fo
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # 🔑 Seven Keys From Isaiah 30:15
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 1️⃣ God Always Welcomes Us Back
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 📖 Scripture
 > **James 4:8**
 >
 > *"Come near to God and He will come near to you."*
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 If you feel distant from God, begin today. Spend a few minutes in prayer and open His Word. Take one step toward Him.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 Do not wait until you feel "worthy" enough to return. Come exactly as you are.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 👑 Heavenly View
 The Father delights when His children come home. Heaven celebrates every heart that turns toward God.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 2️⃣ Rest Is A Gift From God
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 📖 Scripture
 > **Matthew 11:28**
 >
 > *"Come to Me, all of you who are weary and burdened, and I will give you rest."*
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 Take intentional moments throughout the day to pause and pray rather than carrying every burden alone.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 Turn anxious thoughts into short prayers immediately.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 👑 Heavenly View
 God never intended His children to carry life's burdens without His help.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 3️⃣ Quietness Creates Space For God's Voice
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 📖 Scripture
 > **Psalm 46:10**
 >
 > *"Be still, and know that I am God."*
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 Reduce distractions and spend time in silence before God each day.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 Start with just five quiet minutes dedicated solely to listening and praying.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 👑 Heavenly View
 God often speaks most clearly when the noise of the world grows quiet.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 4️⃣ Confidence Comes From Trusting God
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 📖 Scripture
 > **Proverbs 3:5-6**
 >
 > *"Trust in the LORD with all your heart and lean not on your own understanding."*
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 When facing difficult decisions, seek God's wisdom before relying solely on your own plans.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 Ask yourself: "Have I prayed about this as much as I have worried about it?"
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 👑 Heavenly View
 Confidence rooted in God is stronger than confidence rooted in circumstances.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 5️⃣ God Restores What Has Been Damaged
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 📖 Scripture
 > **Joel 2:25**
 >
 > *"I will restore to you the years that the swarming locust has eaten."*
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 Bring your regrets, failures, and disappointments before God and allow Him to heal what seems broken.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 Never measure God's future plans by your past mistakes.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 👑 Heavenly View
 The Lord specializes in restoration and redemption.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 6️⃣ Strength Is Found In Dependence On God
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 📖 Scripture
 > **2 Corinthians 12:9**
 >
 > *"My grace is sufficient for you, for My power is made perfect in weakness."*
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 Admit areas where you need God's help rather than pretending to be self-sufficient.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 A humble prayer often accomplishes more than hours of human striving.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 👑 Heavenly View
 God's power shines brightest when we rely upon Him.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 7️⃣ Returning To God Leads To Renewal
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 📖 Scripture
 > **Isaiah 40:31**
 >
 > *"But those who hope in the LORD will renew their strength."*
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 Choose daily habits that draw you closer to God: prayer, Scripture reading, worship, and fellowship.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 Consistency is more powerful than occasional spiritual enthusiasm.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:START -->
 <!-- PLEBVOX:START -->
 ### 👑 Heavenly View
 Those who walk closely with God experience continual spiritual renewal.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # 🌟 Final Thoughts
 
 Perhaps today you feel tired, discouraged, distracted, or uncertain about the future.
@@ -223,6 +306,8 @@ Your strength is not found in striving but in surrender. Your peace is not found
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # 🙏 Closing Prayer
 
 Heavenly Father,
@@ -243,9 +328,12 @@ In the Name of Jesus Christ, Amen.
 
 ----
 
+<!-- PLEBVOX:END -->
 <!-- Comments Section -->
 <div id="comments-section">
+<!-- PLEBVOX:START -->
     <h3>💬 Comments</h3>
+<!-- PLEBVOX:END -->
     <div id="utterances-container"></div>
 </div>
 

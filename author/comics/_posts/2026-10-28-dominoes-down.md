@@ -10,11 +10,14 @@ author: Othello Cody Verrocchio
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/dominos-down.webp' | relative_url }}"
+<!-- PLEBVOX:START -->
        alt="A distressed man sits beside his broken-down white bakkie, faces empty cupboards and dwindling supplies, and watches dominoes fall outside his darkened home."
        loading="lazy"
        style="width: 70%; max-width: 100%; height: auto;">
+<!-- PLEBVOX:END -->
 </div>
 
+<!-- PLEBVOX:START -->
 <!-- PLEBVOX:START -->
 # 🁢 The Dominoes Have Fallen.
 
@@ -46,6 +49,8 @@ There were dishes to wash, pots and pans to clean, and almost nothing left in th
 
 The dishes would have to be rinsed and reused. The pots and pans would have to be cleaned with sand, carefully and sparingly, until proper supplies could be bought again.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Three days.
 
 Only three days until relief.
@@ -86,13 +91,18 @@ And sometimes, when all you have left is enough for three more days, getting thr
 
 **Moral of the story:** A good plan is useful. A sense of humour is essential.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ✍️ *Othello Cody Verrocchio*
 
 *With ChatGPT*
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:START -->
 ## 📋 WhatsApp Copy-and-Paste Version
 
+<!-- PLEBVOX:END -->
 ```
 🁢 *THE DOMINOES HAVE FALLEN* 🁢
 

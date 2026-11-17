@@ -6,6 +6,7 @@ date: 2026-06-23
 
 <!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 # 🌅 Trusting God Through The Fog
 
 **Scripture:**
@@ -34,9 +35,11 @@ One act of obedience.
 As we walk forward, the path becomes clearer.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 ## 🔑 **Three Things to Remember**
 
 * God sees what you cannot see.
@@ -44,9 +47,11 @@ As we walk forward, the path becomes clearer.
 * Today's small step of faith is enough for today.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 ## 🙏 **Prayer**
 
 Father God,
@@ -61,9 +66,12 @@ Amen.
 
 ----
 
+<!-- PLEBVOX:END -->
 <!-- Comments Section -->
 <div id="comments-section">
+<!-- PLEBVOX:START -->
     <h3>💬 Comments</h3>
+<!-- PLEBVOX:END -->
     <div id="utterances-container"></div>
 </div>
 

@@ -8,14 +8,17 @@ date: 2026-06-18
 
 <div align="center">
 
+<!-- PLEBVOX:START -->
 # 🥧 Shortcrust Pastry
 
+<!-- PLEBVOX:END -->
 </div>
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 ## 🥘 Ingredients
 
 - 🌾 1 Cup Flour
@@ -26,9 +29,11 @@ date: 2026-06-18
 - 💧 1 Tablespoon Water
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 ## 👩‍🍳 Method
 
 1. Place the flour and baking powder into a mixing bowl.
@@ -39,9 +44,11 @@ date: 2026-06-18
 6. Use as desired for pies, tarts, quiches, or other pastry dishes.
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
+<!-- PLEBVOX:START -->
 ## 🔑 Tips
 
 - ❄️ For best results, keep the butter cold before mixing.
@@ -54,9 +61,12 @@ date: 2026-06-18
 
 ----
 
+<!-- PLEBVOX:END -->
 <!-- Comments Section -->
 <div id="comments-section">
+<!-- PLEBVOX:START -->
     <h3>💬 Comments</h3>
+<!-- PLEBVOX:END -->
     <div id="utterances-container"></div>
 </div>
 

@@ -4,18 +4,25 @@ title: "When The Heavens Feel Like Brass"
 date: 2024-01-01
 ---
 <!-- PLEBVOX:START -->
+<!-- PLEBVOX:START -->
 # 🥀📖 When It Seems God Is Ignoring Me
+<!-- PLEBVOX:END -->
 <div align="center">
 
 <img src="/assets/images/heaven-like-brass.png"
+<!-- PLEBVOX:START -->
      alt="When The Heavens Feel Like Brass"
      style="max-width:600px; height:auto;">
 
+<!-- PLEBVOX:END -->
 </div>
 ---
 
+<!-- PLEBVOX:START -->
 ### 🙏 An Embarrassed Request For Prayer
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Opening Prayer 🙏
 
 _Father,_
@@ -36,6 +43,8 @@ _Amen._
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 📜 Introduction — An Embarrassed Request
 
 There are times in life when asking for help feels harder than carrying the burden itself.
@@ -92,8 +101,11 @@ But because we feel embarrassed to admit how much we need it.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## ✍️🥀 A Poem — Beneath A Brass Heaven
 
+<!-- PLEBVOX:END -->
 ```
 When cupboards seem empty
 And debts seem tall,
@@ -122,6 +134,7 @@ And never sleeps.
 ```
 ---
 
+<!-- PLEBVOX:START -->
 ## ⛪📜 Church History Example
 
 One of the greatest preachers of the nineteenth century was George Müller.
@@ -142,14 +155,20 @@ The miracle was continuing to trust before the provision arrived.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # 🙏🔑 Point 1: God Hears The Cry We Are Ashamed To Speak
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 📖 Scripture
 
 **Psalm 34:17**
 
 > "The righteous cry out, and the Lord hears, and delivers them out of all their troubles."
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 
 God already knows the situation.
@@ -164,6 +183,8 @@ He knows every meal that must be stretched further than expected.
 
 Nothing surprises Him.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 
 Pray honestly.
@@ -172,6 +193,8 @@ God does not require polished prayers.
 
 He welcomes truthful prayers.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 👑 Heavenly View
 
 Heaven does not see weakness when a believer asks for help.
@@ -180,20 +203,28 @@ Heaven sees humility.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # 🤝🔑 Point 2: God Often Uses His People As Part Of The Answer, please
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 📖 Scripture
 
 **Galatians 6:2**
 
 > "Bear one another's burdens, and so fulfil the law of Christ."
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 
 Sometimes we pray for provision while God is preparing another believer to help.
 
 Yet if we hide our need completely, others may never know they are meant to pray.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 
 A simple request is enough:
@@ -202,6 +233,8 @@ A simple request is enough:
 
 You do not need to tell the whole story.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 👑 Heavenly View
 
 The Church is a family, not a colle, pleasection of isolated individuals.
@@ -210,14 +243,20 @@ God often ministers through His people.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # 🍞🔑 Point 3: Daily Br, pleaseead Is Still A Miracle
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 📖 Scripture
 
 **Matthew 6:11**
 
 > "Give us this day our daily bread.", please
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 
 Sometimes we compare our table with someone else's abundance.
@@ -230,48 +269,66 @@ Not next month's.
 
 Today's.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 
 Thank God for what is available, even if it seems ordinary.
 
 Gratitude strengthens faith.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 👑 Heavenly View, please
 
 The God who fed Israel with manna still provides daily bread for His children.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # ⏳🔑 Point 4: Waiting Is Not Abandonment
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 📖 Scripture
 
 **Isaiah 40:31**
 
 > "But those who wait on the Lord shall renew their strength."
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 
 God's silence is not proof of His absence.
 
 Many answers arrive after long seasons of waiting.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 
 Keep praying even when emotions say otherwise.
 
 Faith often grows strongest in waiting seasons.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 👑 Heavenly View
 
 God sees the entire journey while we only see today's struggle.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # 🌤️🔑 Point 5: The Heavens Are Not Really Brass
 
 <!-- PLEBVOX:END -->
+<!-- PLEBVOX:END -->
 
+<!-- PLEBVOX:START -->
 <!-- PLEBVOX:START -->
 ## 📖 Scripture
 
@@ -279,22 +336,30 @@ God sees the entire journey while we only see today's struggle.
 
 > "O Lord, You have searched me and known me."
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 🛠️ Practical Application
 
 Feelings can be powerful but they are not always accurate.
 
 A silent heaven is not an absent God.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 💡 Tip
 
 Judge circumstances through Scripture, not Scripture through circumstances.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 👑 Heavenly View,
 
 Every prayer reaches God's throne even when no immediate answer appears.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 📝💭 Final Thoughts
 
 Today, my prayer is simple.
@@ -317,6 +382,8 @@ Please stand with me before the Lord.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 🙏❤️ Closing Prayer
 
 _Father,_
@@ -345,9 +412,12 @@ _Amen._
 
 -----
 
+<!-- PLEBVOX:END -->
 <!-- Comments Section -->
 <div id="comments-section">
+<!-- PLEBVOX:START -->
     <h3>💬 Comments</h3>
+<!-- PLEBVOX:END -->
     <div id="utterances-container"></div>
 </div>
 
