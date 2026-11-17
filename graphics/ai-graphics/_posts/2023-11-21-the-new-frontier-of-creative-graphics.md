@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The New Frontier of Creative Graphics"
+title: "The New Frontier of Creative Graphics!"
 date: 2023-11-21
 ---
 
 <!-- PLEBVOX:START -->
 
-## A New Tool for Creators
+## A New Tool for Creators!
 
 Throughout history, artists have adopted new tools.
 
@@ -46,7 +46,7 @@ What once required large budgets and specialised teams can now be explored by in
 
 <!-- PLEBVOX:START -->
 
-## Human Creativity Still Matters
+## Human Creativity Still Matters!
 
 One misconception is that AI replaces creativity.
 
@@ -68,7 +68,7 @@ The quality of the result often depends upon the imagination, knowledge, and art
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Perspective
+## The PlebWare Perspective!
 
 PlebWare has always promoted accessible technology.
 
@@ -92,7 +92,7 @@ Knowledge remains the most important resource.
 
 <!-- PLEBVOX:START -->
 
-## What This Section Covers
+## What This Section Covers?
 
 The AI Graphics section explores:
 
