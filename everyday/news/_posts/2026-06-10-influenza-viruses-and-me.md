@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Influenza Viruses And Me"
+title: "Influenza Viruses And Me!"
 date: 2026-06-10
 ---
 
 <!-- PLEBVOX:START -->
 
-# Persistent Flu Symptoms
+# Persistent Flu Symptoms!
 
 Sadly, I am unlucky when it comes to getting the flu. Although I was not born this way, the problem started occurring after shattering a cheekbone. That's what you get when you are young and reckless. You see, I had received that gift as a result of a bar fight. Ever since that foolish day in 1998, I have had an infection loop. Once my sinus gets infected, the Flu becomes hard to shake, the post-nasal drip keeps reinfecting the throat and if I had a lung infection that persists sometimes (usually) 2 - 3 weeks
 
@@ -46,7 +46,7 @@ Every person's health situation is different, and what works for one individual 
 
 <!-- PLEBVOX:START -->
 
-## Disclaimer
+## Disclaimer!
 Before trying any treatment, remedy, or self-care routine described here.
 
 **It is important to consult your own doctor, medical practitioner, or qualified healthcare professional.** 
