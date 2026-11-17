@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Meccano To PlebWare"
+title: "From Meccano To PlebWare!"
 date: 2026-08-06
 ---
 <!-- PLEBVOX:START -->
