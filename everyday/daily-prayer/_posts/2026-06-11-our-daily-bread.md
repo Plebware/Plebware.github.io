@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: "Our Daily Bread"
+title: "Our Daily Bread!"
 date: 2026-06-11
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🙏 Daily Prayer: Starting and Ending the Day with God
+# 🙏 Daily Prayer: Starting and Ending the Day with God!
 
 Prayer is one of the simplest and most powerful gifts God has given to His children.
 
@@ -38,7 +38,7 @@ Prayer reminds us that we were never intended to carry life's burdens alone.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Beginning the Day with Prayer
+## 🔑 Beginning the Day with Prayer!
 
 Before checking messages, reading the news, or beginning work, take a few moments to acknowledge God.
 
@@ -55,7 +55,7 @@ The tone of the entire day can be changed by a few minutes spent with God.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Praying Throughout the Day
+## 🔑 Praying Throughout the Day!
 
 Prayer does not have to be limited to a specific time.
 
@@ -74,7 +74,7 @@ Short prayers throughout the day help keep our hearts focused on God.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Ending the Day with Prayer
+## 🔑 Ending the Day with Prayer!
 
 Before sleep, spend time reflecting on the day.
 
@@ -93,7 +93,7 @@ There is great comfort in ending the day with prayer.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 A Simple Daily Prayer
+## 🔑 A Simple Daily Prayer!
 
 > Heavenly Father,
 >
@@ -123,7 +123,7 @@ There is great comfort in ending the day with prayer.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Power of Consistency
+## 🔑 The Power of Consistency!
 
 A strong prayer life is not built in a single day.
 
@@ -135,7 +135,7 @@ A few minutes each day, faithfully spent with God, can transform a person's hear
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Final Thoughts
+## 🔑 Final Thoughts!
 
 Prayer is not about eloquent words or impressive speeches.
 
