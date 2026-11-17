@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Mr Fix It All"
+title: "Mr Fix It All!"
 date: 2026-06-11
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔧 How I Became A Handyman
+# 🔧 How I Became A Handyman!
 
 There are moments in life that change a person forever.
 
@@ -34,7 +34,7 @@ Thus began the journey of becoming **Mr Fix It All**.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Learning by Doing
+## 🔑 Learning by Doing!
 
 I did not learn my practical skills from YouTube videos or online courses.
 
@@ -58,7 +58,7 @@ Every repair added another skill to the toolbox.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Railway Years
+## 🔑 The Railway Years!
 
 My years as an electrical fitter on the railways expanded those skills even further.
 
@@ -81,7 +81,7 @@ That mindset stays with you.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 A Handyman's Philosophy
+## 🔑 A Handyman's Philosophy!
 
 One lesson I learned early in life is this:
 
@@ -105,7 +105,7 @@ But there is great satisfaction in restoring something to working order.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Why Repair Matters
+## 🔑 Why Repair Matters!
 
 Modern society often encourages replacement.
 
@@ -125,27 +125,27 @@ Repairing something with your own hands creates a sense of accomplishment that c
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Lessons From a Lifetime of Fixing Things
+## 🔑 Lessons From a Lifetime of Fixing Things!
 
 Over the decades, I have learned that successful repairs depend upon a few simple principles:
 
-### Observe Carefully
+### Observe Carefully!
 
 Most faults reveal clues if you pay attention.
 
-### Understand Before Acting
+### Understand Before Acting!
 
 Never rush to replace parts without understanding the problem.
 
-### Use the Right Tool
+### Use the Right Tool!
 
 The correct tool often turns a difficult job into an easy one.
 
-### Be Patient
+### Be Patient!
 
 Impatience causes more damage than faulty equipment.
 
-### Keep Learning
+### Keep Learning!
 
 Every repair teaches something new.
 
@@ -153,7 +153,7 @@ Every repair teaches something new.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Still Learning
+## 🔑 Still Learning!
 
 Even today, I continue to learn.
 
@@ -179,7 +179,7 @@ Test the result.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Final Thoughts
+## 🔑 Final Thoughts!
 
 When my father passed away in 1982, I inherited more than responsibility.
 
