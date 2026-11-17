@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leisure PlebMachine User — Mode 12 Introduction and Learning Guide"
+title: "Leisure PlebMachine User — Mode 12 Introduction and Learning Guide!"
 date: 2026-10-18
 description: "An introduction to Leisure PlebMachine User, Mode 12 of PlebMachine, and the PlebWare tutorials, tools, and resources that support it."
 category: "leisure"
