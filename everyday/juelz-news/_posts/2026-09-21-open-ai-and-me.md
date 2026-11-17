@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Brief Fling With Open AI's Chat GPT"
+title: "My Brief Fling With Open AI's Chat GPT!"
 date: 2026-09-21
 ---
 
@@ -21,7 +21,7 @@ A chronological history of the projects, technical problems, creative work, expe
 
 ## 📅 2023 — Creative Beginnings.
 
-### 🎨 October 2023 — Auntie Sharon & the Darkness
+### 🎨 October 2023 — Auntie Sharon & the Darkness!
 
 One of the earliest projects I can remember was a humorous poem about:
 
@@ -44,9 +44,9 @@ This established one of the recurring themes in my creative work with ChatGPT:
 
 <!-- PLEBVOX:START -->
 
-## 📅 2024 — Personalised Creative Writing
+## 📅 2024 — Personalised Creative Writing!
 
-### 🎂 December 2024 — Brian Maine Birthday Poem
+### 🎂 December 2024 — Brian Maine Birthday Poem!
 
 I asked ChatGPT for a **belated birthday poem for Brian Maine**.
 
@@ -90,9 +90,9 @@ This continued the pattern of using ChatGPT as a **creative writing partner for 
 
 <!-- PLEBVOX:START -->
 
-## 📅 2025 — Linux, Gaming & Technical Troubleshooting
+## 📅 2025 — Linux, Gaming & Technical Troubleshooting!
 
-### 🐧 January 2025 — **SparkyLinux 12**
+### 🐧 January 2025 — **SparkyLinux 12**!
 
 A major technical project began in January 2025.
 
@@ -112,7 +112,7 @@ I was also interested in installing the **full KDE Plasma environment**.
 
 <!-- PLEBVOX:START -->
 
-## 🖥️ January 2025 — KDE Plasma
+## 🖥️ January 2025 — KDE Plasma!
 
 I worked with ChatGPT on configuring/installing the full KDE Plasma environment on SparkyLinux.
 
@@ -128,7 +128,7 @@ This became part of the foundation for attempting a gaming setup, on Linux.
 
 <!-- PLEBVOX:START -->
 
-## 🍷 January 2025 — Wine
+## 🍷 January 2025 — Wine!
 
 The next stage was getting **Wine** working.
 
@@ -154,7 +154,7 @@ The intended software chain was:
 
 <!-- PLEBVOX:START -->
 
-## 🎛️ January 2025 — PlayOnLinux
+## 🎛️ January 2025 — PlayOnLinux!
 
 I wanted to use **PlayOnLinux** to manage the Windows software environment, for Raid Shadow Legends.
 <!-- PLEBVOX:END -->
@@ -162,7 +162,7 @@ I wanted to use **PlayOnLinux** to manage the Windows software environment, for 
 -----
 
 <!-- PLEBVOX:START -->
-## 🏁 Where We Are Now
+## 🏁 Where We Are Now!
 
 The latest project, 🦯 **The Cane Otto Chose**, brings together several recurring elements of our work:
 
@@ -178,19 +178,19 @@ In that sense, it is a good snapshot of how our work together has evolved.
 
 From:
 
-### 💅 Auntie Sharon doing her nails during loadshedding
+### 💅 Auntie Sharon doing her nails during loadshedding!
 
 to:
 
-### 🐧 Troubleshooting Wine on SparkyLinux
+### 🐧 Troubleshooting Wine on SparkyLinux!
 
 to:
 
-### 🖼️ Editing Otto and Taylor
+### 🖼️ Editing Otto and Taylor!
 
 to:
 
-### 🦯 Writing and publishing The Cane Otto Chose
+### 🦯 Writing and publishing The Cane Otto Chose!
 
 our projects have gradually expanded from individual questions into ongoing creative and technical projects with actual outputs and workflows.
 
@@ -233,7 +233,7 @@ our projects have gradually expanded from individual questions into ongoing crea
               ▼
         🚀 Create → Refine → Publish
 ```        
-## 🎯 **The Big Picture**
+## 🎯 **The Big Picture**!
 
 Over the period I can currently reconstruct, we've effectively used ChatGPT as:
 
