@@ -7,7 +7,7 @@ author: Othello Verrocchio
 
 <!-- PLEBVOX:START -->
 
-# 🔤 The Case of the Very Important Capital Letter
+# 🔤 The Case of the Very Important Capital Letter!
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/Plebware-or-PlebWare.webp' | relative_url }}"
@@ -36,7 +36,7 @@ The capital letter eventually relaxed. It had made its point, and nobody had nee
 
 <!-- PLEBVOX:END -->
 
-## 📋 WhatsApp Copy-and-Paste Version
+## 📋 WhatsApp Copy-and-Paste Version!
 
 ```
 🔤 The Case of the Very Important Capital Letter
