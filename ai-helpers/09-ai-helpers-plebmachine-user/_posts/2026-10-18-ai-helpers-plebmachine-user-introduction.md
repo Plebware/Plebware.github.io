@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Helpers PlebMachine User — Mode 09 Introduction and Learning Guide"
+title: "AI Helpers PlebMachine User — Mode 09 Introduction and Learning Guide!"
 date: 2026-10-18
 description: "An introduction to AI Helpers PlebMachine User, Mode 09 of PlebMachine, and the PlebWare tutorials, tools, and resources that support it."
 category: "ai-helpers"
