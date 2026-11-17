@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rebellion's Dawn"
+title: "Rebellion's Dawn!"
 date: 2026-06-24
 category: "fiction"
 tags: [space-opera, starship-frederick, freedom-station, rebellions-dawn, captain-cody, unity-galactic-command, teaser, prologue,]
@@ -9,13 +9,13 @@ mode: "author"
 
 <!-- PLEBVOX:START -->
 
-# Prologue: Rebellion's Dawn
+# Prologue: Rebellion's Dawn!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## En Route to Mobile 'Unity Galactic Command' Station
+## En Route to Mobile 'Unity Galactic Command' Station!
 
 Captain Cody stood on the bridge of the Starship Frederick, his gaze fixed on the viewport. The stars streaked past as the ship made its way through the expanse. A familiar chime indicated an incoming communication from Starfleet Command. Einstein, the ship’s AI, materialised in his avatar form.
 
