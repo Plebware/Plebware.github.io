@@ -32,7 +32,7 @@ The principle is exactly the same:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Before We Begin — Your Galaxy May Look Different
+## 🔑 Before We Begin — Your Galaxy May Look Different!
 
 Samsung Galaxy phones come in many models.
 
@@ -60,7 +60,7 @@ or:
 
 <!-- PLEBVOX:START -->
 
-## Step 1 — Open Settings
+## Step 1 — Open Settings!
 
 Open the **Settings** app on your Samsung Galaxy.
 
@@ -74,7 +74,7 @@ We are simply going to find the correct controls.
 
 <!-- PLEBVOX:START -->
 
-## Step 2 — Find Text-to-Speech
+## Step 2 — Find Text-to-Speech!
 
 On many Samsung Galaxy devices, you can find Text-to-Speech through:
 
@@ -96,7 +96,7 @@ Search for:
 
 <!-- PLEBVOX:START -->
 
-## Step 3 — Choose Your Speech Engine
+## Step 3 — Choose Your Speech Engine!
 
 Inside the Text-to-Speech settings, you may see an option for the **preferred engine**.
 
@@ -114,7 +114,7 @@ We will discuss voices and choosing between options in **Lesson 5**.
 
 <!-- PLEBVOX:START -->
 
-## Step 4 — Choose Your Language
+## Step 4 — Choose Your Language!
 
 Look for the **Language** setting.
 
@@ -137,7 +137,7 @@ This may allow you to download additional voices or languages.
 
 <!-- PLEBVOX:START -->
 
-## Step 5 — Choose A Voice
+## Step 5 — Choose A Voice!
 
 Your Samsung Galaxy may offer several voices.
 
@@ -158,7 +158,7 @@ You can always change it later.
 
 <!-- PLEBVOX:START -->
 
-## Step 6 — Adjust The Speech Rate
+## Step 6 — Adjust The Speech Rate!
 
 The **speech rate** controls how quickly the voice speaks.
 
@@ -178,7 +178,7 @@ Understanding what your phone is saying is the important part.
 
 <!-- PLEBVOX:START -->
 
-## Step 7 — Adjust The Pitch
+## Step 7 — Adjust The Pitch!
 
 The **pitch** controls how high or low the voice sounds.
 
@@ -194,7 +194,7 @@ Your ears get the final vote.
 
 <!-- PLEBVOX:START -->
 
-## Step 8 — Test The Voice
+## Step 8 — Test The Voice!
 
 Samsung provides a way to hear a sample of the selected voice.
 
@@ -216,11 +216,11 @@ If you hear the voice:
 
 Before deciding that something is broken, check the simple things.
 
-### Check Your Volume
+### Check Your Volume!
 
 Turn up the phone's media volume.
 
-### Check Bluetooth
+### Check Bluetooth!
 
 Your Galaxy might be connected to:
 
@@ -230,15 +230,15 @@ Your Galaxy might be connected to:
 
 The sound may be going there instead of through the phone speaker.
 
-### Check The Engine
+### Check The Engine!
 
 Return to the Text-to-Speech settings and make sure a speech engine is selected.
 
-### Check The Language
+### Check The Language!
 
 Make sure the selected language has suitable voice data installed.
 
-### Try The Test Again
+### Try The Test Again!
 
 Press **Play** again.
 
@@ -309,7 +309,7 @@ TalkBack also changes the way you interact with the touchscreen.
 
 Instead of simply tapping an icon to open it, TalkBack uses special gestures and spoken feedback to help you explore and control the device.
 
-### The Easy Way To Remember It
+### The Easy Way To Remember It!
 
 **TTS = The voice.**
 
@@ -329,7 +329,7 @@ Android provides other features for reading text aloud, depending on the device 
 
 TalkBack is primarily for **screen reading and navigation**, particularly for people who need spoken assistance to operate their device.
 
-### One More Important Point
+### One More Important Point!
 
 If you accidentally turn on TalkBack while trying to find TTS, your phone may suddenly behave very differently.
 
@@ -347,7 +347,7 @@ We will cover TalkBack properly in:
 
 <!-- PLEBVOX:START -->
 
-## Your Samsung Galaxy TTS Checklist
+## Your Samsung Galaxy TTS Checklist!
 
 Before you move on, see whether you can tick these boxes:
 
@@ -395,7 +395,7 @@ The important thing is knowing **what you are looking for**.
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Principle
+## The PlebWare Principle!
 
 Technology should serve the person using it.
 
@@ -417,7 +417,7 @@ That's how we learn technology without being intimidated by it.
 
 <!-- PLEBVOX:START -->
 
-## Next Lesson
+## Next Lesson!
 
 In **Lesson 4 — iPhone and iPad**, we leave Android behind for a moment and look at Apple's built-in speech features.
 
