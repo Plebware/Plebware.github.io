@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Why There Are Few Devotions"
+title: "Why There Are Few Devotions?"
 date: 2026-07-23
 ---
 
 <!-- PLEBVOX:START -->
 
-## 🔑 **Taking A Beak from Writing Devotions**
+## 🔑 **Taking A Beak from Writing Devotions**!
 
 One of the principal reasons for taking a break from writing devotions is the financial and emotional strain caused by changes to the property where I live.
 
@@ -24,7 +24,7 @@ These are matters that I have personally observed, and they have contributed sig
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Why I Am Recording This
+## 🔑 Why I Am Recording This!
 
 This article is not intended to attack or defame any individual. It is simply an honest record of the circumstances that have affected my health, finances and ability to continue my regular devotional writing.
 
@@ -36,7 +36,7 @@ Everything stated here reflects either my personal observations or my honestly h
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Financial Reality
+## 🔑 The Financial Reality!
 
 The following statements are a factual record of the circumstances as I understand them on **23 July 2026**.
 
