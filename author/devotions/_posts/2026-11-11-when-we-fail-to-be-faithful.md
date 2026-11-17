@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devotion: When We Fail to Be Faithful — Returning to Our Calling"
+title: "Devotion: When We Fail to Be Faithful — Returning to Our Calling!"
 date: 2026-11-11
 author: "God's Journalist - Cody - Dei Scriptor"
 category: "Devotions"
@@ -10,9 +10,9 @@ mode: "author"
 
 <!-- PLEBVOX:START -->
 
-# **🩸 When We Fail to Be Faithful.**
+# **🩸 When We Fail to Be Faithful.**!
 
-### **Part 2 — Recognising Our Failures and Finding Our Way Back to God.**
+### **Part 2 — Recognising Our Failures and Finding Our Way Back to God.**!
 
 **By God's Journalist — Cody, Dei Scriptor.**
 
@@ -24,7 +24,7 @@ mode: "author"
 
 <!-- PLEBVOX:START -->
 
-## **🙏 1. Opening Prayer.**
+## **🙏 1. Opening Prayer.**!
 
 _Heavenly Father,_
 
@@ -46,7 +46,7 @@ _Amen._
 
 <!-- PLEBVOX:START -->
 
-## **🌅 2. Today's Thought — When Good Intentions Are Not Enough.**
+## **🌅 2. Today's Thought — When Good Intentions Are Not Enough.**!
 
 Good morning, brothers and sisters.
 
@@ -74,7 +74,7 @@ Today, let us examine three areas where unfaithfulness can quietly enter our liv
 
 <!-- PLEBVOX:START -->
 
-## **❤️ 3. Part One — Unfaithfulness in the Small Things.**
+## **❤️ 3. Part One — Unfaithfulness in the Small Things.**!
 
 Have you ever noticed how easy it is to be faithful when something is important, urgent or extraordinary?
 
@@ -136,7 +136,7 @@ God does not expect us to solve every problem in the world. He does call us to r
 
 <!-- PLEBVOX:START -->
 
-## **🛡️ 4. Part Two — When Fear Makes Us Unfaithful.**
+## **🛡️ 4. Part Two — When Fear Makes Us Unfaithful.**!
 
 This is perhaps one of the most difficult areas of faithfulness.
 
@@ -205,7 +205,7 @@ Our fear does not have to become our permanent identity. We can acknowledge it, 
 
 <!-- PLEBVOX:START -->
 
-## **📵 5. Part Three — Unfaithfulness Through Distractions.**
+## **📵 5. Part Three — Unfaithfulness Through Distractions.**!
 
 We live in a world that constantly competes for our attention.
 
@@ -275,7 +275,7 @@ But He also knows when we are gradually allowing everything else to become more 
 
 <!-- PLEBVOX:START -->
 
-## **🏛️ 6. Church History — Peter: From Denial to Restoration.**
+## **🏛️ 6. Church History — Peter: From Denial to Restoration.**!
 
 There is a particularly powerful example of human unfaithfulness in the biblical history of the early Church.
 
@@ -315,7 +315,7 @@ We can become frightened, make mistakes, deny our convictions and disappoint our
 
 <!-- PLEBVOX:START -->
 
-## **🌹 7. An Original Poem — When My Faithfulness Fails.**
+## **🌹 7. An Original Poem — When My Faithfulness Fails.**!
 
 ```
 When I promised You my everything,
@@ -353,7 +353,7 @@ Draw me once again to Your side.
 
 <!-- PLEBVOX:START -->
 
-## **📖 8. Scripture One — Faithful in the Little Things.**
+## **📖 8. Scripture One — Faithful in the Little Things.**!
 
 > "He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much."
 >
@@ -375,7 +375,7 @@ Am I overlooking a small responsibility or opportunity to show kindness because 
 
 <!-- PLEBVOX:START -->
 
-## **🛡️ 9. Scripture Two — Courage, Love and a Sound Mind.**
+## **🛡️ 9. Scripture Two — Courage, Love and a Sound Mind.**!
 
 > "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind."
 >
@@ -399,7 +399,7 @@ Is fear preventing me from doing something good that I could safely and wisely d
 
 <!-- PLEBVOX:START -->
 
-## **📜 10. Scripture Three — God's Word Guides Our Steps.**
+## **📜 10. Scripture Three — God's Word Guides Our Steps.**!
 
 > "Thy word is a lamp unto my feet, and a light unto my path."
 >
@@ -421,7 +421,7 @@ Have I given God's Word a place in my everyday decisions, or have I allowed the 
 
 <!-- PLEBVOX:START -->
 
-## **🔑 11. Practical Application — Keep Short Accounts With God.**
+## **🔑 11. Practical Application — Keep Short Accounts With God.**!
 
 What happens when we repeatedly fail?
 
@@ -451,7 +451,7 @@ And we ask for help to respond differently next time.
 
 <!-- PLEBVOX:START -->
 
-## **📝 12. A Daily Exercise — Three Questions Before God.**
+## **📝 12. A Daily Exercise — Three Questions Before God.**!
 
 At the end of each day, take a few quiet minutes and ask yourself:
 
@@ -471,7 +471,7 @@ God is interested in the transformation of your heart, not in watching you drown
 
 <!-- PLEBVOX:START -->
 
-## **👑 13. The Heavenly View — What Does God See?**
+## **👑 13. The Heavenly View — What Does God See?**!
 
 God sees more than the outward action. He sees the heart, the intention, the struggle and the circumstances surrounding it.
 
@@ -503,7 +503,7 @@ And sometimes, all God asks is that we do not walk past.
 
 <!-- PLEBVOX:START -->
 
-## **🙏 14. Closing Prayer.**
+## **🙏 14. Closing Prayer.**!
 
 _Father God,_
 
@@ -555,7 +555,7 @@ _Amen._
 
 <!-- PLEBVOX:START -->
 
-## **🕊️ 15. A Thought to Carry With You Today.**
+## **🕊️ 15. A Thought to Carry With You Today.**!
 
 **Faithfulness is not about never falling. It is about refusing to let our failures, our fears or our distractions separate us from the God we love.**
 
@@ -591,7 +591,7 @@ And His love is greater than anything this world can throw at you.
 
 ---
 
-## **📱 WhatsApp Copy-and-Paste Version.**
+## **📱 WhatsApp Copy-and-Paste Version.**!
 
 ```
 🩸 *WHEN WE FAIL TO BE FAITHFUL.*
