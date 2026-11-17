@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "From Bored to God's Journalist"
+title: "From Bored to God's Journalist!"
 date: 2026-08-06
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 From Bored to God's Journalist
+# 🔑 From Bored to God's Journalist!
 
 <img src="{{ '/assets/images/gods-journalist-origin.webp' | relative_url }}" alt="From Bored to God's Journalist Comic" style="width:100%;max-width:900px;height:auto;display:block;margin:0 auto;">
 
