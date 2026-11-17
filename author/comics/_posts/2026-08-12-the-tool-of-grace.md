@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Tool Of Grace"
+title: "The Tool Of Grace!"
 date: 2026-08-12
 ---
 <img src="/assets/images/thank-you-very-very-much.webp"
