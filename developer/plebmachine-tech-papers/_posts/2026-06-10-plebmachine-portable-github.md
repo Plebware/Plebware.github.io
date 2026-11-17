@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "📱 The Portable Pleb Machine Goes Live on GitHub"
+title: "📱 The Portable Pleb Machine Goes Live on GitHub!"
 date: 2026-06-10
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🚀 Introduction: The Machine in Your Pocket
+# 🚀 Introduction: The Machine in Your Pocket!
 
 The Pleb Machine has officially gone mobile.
 
@@ -20,7 +20,7 @@ The machine is no longer tied to a desk. It travels.
 
 <!-- PLEBVOX:START -->
 
-# 🧠 What This Means for PlebWare
+# 🧠 What This Means for PlebWare!
 
 PlebWare is evolving into a fully mobile-first publishing ecosystem.
 
@@ -39,7 +39,7 @@ The goal is simple: reduce friction between idea and publication.
 
 <!-- PLEBVOX:START -->
 
-# 🔧 The Philosophy Shift
+# 🔧 The Philosophy Shift!
 
 This is not just about convenience.
 
@@ -57,7 +57,7 @@ The Pleb Machine becomes less of a “computer system” and more of a **creativ
 
 <!-- PLEBVOX:START -->
 
-# 📡 What Comes Next
+# 📡 What Comes Next!
 
 Future iterations will focus on:
 
@@ -74,7 +74,7 @@ The system is still growing, but the direction is now clear.
 
 <!-- PLEBVOX:START -->
 
-# ✍️ Closing Note
+# ✍️ Closing Note!
 
 This is the beginning of true mobile orchestration.
 
