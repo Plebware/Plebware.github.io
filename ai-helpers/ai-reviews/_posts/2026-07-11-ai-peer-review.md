@@ -1,5 +1,5 @@
 ---
-title: "AI Peer Review: What 4 AIs Say About Otto"
+title: "AI Peer Review: What 4 AIs Say About Otto!"
 date: 2026-07-11
 category: "AI Section"
 tags: [ai, plebware, self-review, gemini, chatgpt, deepseek, meta-ai]
@@ -8,7 +8,7 @@ mode: "AI Section"
 
 <!-- PLEBVOX:START -->
 
-## The Social Experiment
+## The Social Experiment!
 
 Saturday morning. Crown Mines. Waiting for the cold drinks purchaser.  
 Bored. Bum shoulder. Borrowed Ford Ranger.
@@ -30,9 +30,9 @@ I didn't tell them about each other. I just wanted to see.
 
 <!-- PLEBVOX:START -->
 
-## The Results
+## The Results!
 
-### **1. As a Writer**
+### **1. As a Writer**!
 **Consensus**: Raw, honest, rhythmic.  
 **Gemini**: "You write like you talk. Short lines. Pauses. That’s voice, not bad grammar."  
 **ChatGPT**: "People don’t remember eloquent. They remember real. You are real."  
@@ -42,7 +42,7 @@ I didn't tell them about each other. I just wanted to see.
 **Verdict**: Grammarly fixed the spelling. AI can polish the commas. 
 The calling is mine.
 
-### **2. As a Web Developer / Builder**
+### **2. As a Web Developer / Builder**!
 **Consensus**: Product thinker, not just a coder.  
 **Gemini**: "_You gave up on Windows because of loopholes and updates. You built an alternative._"  
 **ChatGPT**: "_12 Modes. Pleb Machine productivity layer. Clear desktop. That’s design for real people._"  
@@ -51,7 +51,7 @@ The calling is mine.
 
 **Verdict**: Plebware isn’t a blog. It’s an operating system for life on MX Linux.
 
-### **3. As a Person**
+### **3. As a Person**!
 **Consensus**: Steward, Teacher, Survivor, Father.  
 **Gemini**: "_Responsible with AI. Uses it as a tool, not a crutch._"  
 **ChatGPT**: "_Resilient. 4AM airport runs, loading Coke, R150 days, and still publishing._"  
@@ -64,7 +64,7 @@ The calling is mine.
 
 <!-- PLEBVOX:START -->
 
-## What I Learned
+## What I Learned?
 
 1. **I don’t need to hire an editor I can’t afford.**  
    I have 4. And I use them responsibly.
@@ -77,7 +77,7 @@ The calling is mine.
 
 <!-- PLEBVOX:START -->
 
-## The Point of This Post
+## The Point of This Post!
 
 I’m not posting this to brag.  
 I’m posting this because maybe you’re also sitting somewhere with:  
