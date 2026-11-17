@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Adding Images to GitHub Pages"
+title: "Adding Images to GitHub Pages!"
 date: 2026-06-22
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🖼️ Picture Perfect GitHub Pages
+# 🖼️ Picture Perfect GitHub Pages!
 
 One of the first things most people want to do when building a GitHub Pages website is add screenshots, logos, banners, diagrams, and photographs. Fortunately, GitHub Pages makes this easy once you understand where your images should be stored and how image paths work.
 
@@ -14,7 +14,7 @@ One of the first things most people want to do when building a GitHub Pages webs
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Step 1: Create an Images Folder
+## 🔑 Step 1: Create an Images Folder!
 
 A common practice is to create an images folder inside your site's assets directory.
 
@@ -38,7 +38,7 @@ Many GitHub Pages and Jekyll-based sites store images in `assets/images/`.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Step 2: Upload Your Images
+## 🔑 Step 2: Upload Your Images!
 
 Simply copy or upload your image files into the folder.
 
@@ -57,7 +57,7 @@ Commit and push the files to GitHub.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Step 3: Display Images Using Markdown
+## 🔑 Step 3: Display Images Using Markdown!
 
 Markdown uses the following syntax:
 
@@ -79,7 +79,7 @@ The text inside the square brackets is called **alt text** and helps accessibili
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Step 4: Add Images Using HTML
+## 🔑 Step 4: Add Images Using HTML!
 
 Sometimes you need more control over image size or alignment.
 
@@ -95,7 +95,7 @@ You can use standard HTML:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Step 5: Resize Images
+## 🔑 Step 5: Resize Images!
 
 HTML allows you to specify image dimensions.
 
@@ -119,7 +119,7 @@ Or:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Step 6: Center Images
+## 🔑 Step 6: Center Images!
 
 Markdown itself does not provide image alignment.
 
@@ -145,7 +145,7 @@ Or:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Step 7: Make Images Clickable
+## 🔑 Step 7: Make Images Clickable!
 
 Wrap the image inside a link.
 
@@ -163,7 +163,7 @@ When clicked, the full-size image opens.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Step 8: Using Relative Paths
+## 🔑 Step 8: Using Relative Paths!
 
 Relative paths are usually the safest option on GitHub Pages because they continue to work when the site is published. GitHub itself recommends using relative links for images stored inside your repository.
 
@@ -199,7 +199,7 @@ GitHub Pages runs on Linux servers, which are case-sensitive.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Step 9: Images Inside Posts
+## 🔑 Step 9: Images Inside Posts!
 
 If you are writing a Jekyll post:
 
@@ -230,9 +230,9 @@ or
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Common Problems
+## 🔑 Common Problems!
 
-### ❌ Image Not Found
+### ❌ Image Not Found!
 
 Check:
 
@@ -257,7 +257,7 @@ on GitHub Pages.
 
 ---
 
-### ❌ Works Locally But Not Online
+### ❌ Works Locally But Not Online!
 
 This is usually caused by incorrect paths.
 
@@ -287,7 +287,7 @@ when appropriate. GitHub Pages project sites often use repository-specific URLs,
 
 <!-- PLEBVOX:START -->
 
-## 🔑 PlebWare Recommendation
+## 🔑 PlebWare Recommendation!
 
 For PlebWare projects, I recommend the following structure:
 
@@ -307,7 +307,7 @@ This keeps graphics organised as the site grows and makes it easier to reference
 
 <!-- PLEBVOX:START -->
 
-## Final Thoughts
+## Final Thoughts!
 
 Adding images to GitHub Pages is mostly about keeping your files organised and using the correct paths. Store images inside your repository, use relative paths whenever possible, and remember that GitHub Pages is case-sensitive.
 
