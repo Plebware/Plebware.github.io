@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "What On Earth Is Shrinkflation"
+title: "What On Earth Is Shrinkflation?"
 date: 2026-08-08
 ---
 <!-- PLEBVOX:START -->
-# The Shrinking Snack: How Shrinkflation Is Quietly Changing What We Buy
+# The Shrinking Snack: How Shrinkflation Is Quietly Changing What We Buy!
 
-## 🔑 Introduction
+## 🔑 Introduction!
 
 Have you ever opened a packet of chips and thought:
 
@@ -79,7 +79,7 @@ The strategy therefore exploits something very human:
 <!-- PLEBVOX:END -->
 ---
 <!-- PLEBVOX:START -->
-# 🔑 The Packet of Chips Problem
+# 🔑 The Packet of Chips Problem!
 
 Chips provide an almost perfect example.
 
@@ -109,7 +109,7 @@ This distinction is important because internet discussions about shrinkflation s
 
 ---
 
-# 🔑 Simba: A South African Case Worth Watching
+# 🔑 Simba: A South African Case Worth Watching!
 
 Simba is an especially interesting example because it is one of South Africa's best-known snack brands.
 
@@ -133,7 +133,7 @@ The numbers matter.
 <!-- PLEBVOX:END -->
 ---
 <!-- PLEBVOX:START -->
-# 🔑 The Chocolate Industry Has Been Caught Repeatedly
+# 🔑 The Chocolate Industry Has Been Caught Repeatedly!
 
 Chocolate provides some of the clearest documented examples.
 
@@ -159,7 +159,7 @@ but also:
 <!-- PLEBVOX:END -->
 ---
 <!-- PLEBVOX:START -->
-# 🔑 Cadbury: Another Major Player
+# 🔑 Cadbury: Another Major Player!
 
 Cadbury has also appeared repeatedly in shrinkflation investigations.
 
@@ -175,7 +175,7 @@ A 14% reduction means that a consumer buying the same number of tubs over time c
 <!-- PLEBVOX:END -->
 ---
 <!-- PLEBVOX:START -->
-# 🔑 Nestlé, Mars and the Chocolate Shrink
+# 🔑 Nestlé, Mars and the Chocolate Shrink!
 
 The phenomenon isn't restricted to one manufacturer.
 
@@ -200,13 +200,13 @@ The controversy comes from **how those costs are passed on to consumers**.
 <!-- PLEBVOX:END -->
 ---
 <!-- PLEBVOX:START -->
-# 🔑 It Isn't Just Chocolate
+# 🔑 It Isn't Just Chocolate!
 
 Shrinkflation affects practically every category of packaged food.
 
 Documented examples have included:
 
-### 🍟 Crisps and chips
+### 🍟 Crisps and chips!
 
 Doritos and other PepsiCo products have experienced documented reductions in certain markets.
 
@@ -214,15 +214,15 @@ A 2017 report, for example, recorded reductions affecting Doritos packs. PepsiCo
 
 More recently, PepsiCo responded to accusations of shrinkflation by announcing additional chips in selected Tostitos and Ruffles packages and increasing the number of bags in some multipacks.
 
-### 🍪 Biscuits
+### 🍪 Biscuits!
 
 Which? identified numerous biscuit products affected by reductions, including McVitie's Digestives, which were reported as falling from 400 g to 360 g.
 
-### 🍫 Chocolate bars
+### 🍫 Chocolate bars!
 
 Milka, Toblerone, Cadbury and other confectionery products have all featured in shrinkflation investigations.
 
-### 🍦 Ice cream
+### 🍦 Ice cream!
 
 South Africa has had particularly visible examples.
 
@@ -242,7 +242,7 @@ The company explained the decision as a response to rising costs and said it all
 <!-- PLEBVOX:END -->
 ---
 <!-- PLEBVOX:START -->
-# 🔑 Shrinkflation Can Happen More Than Once
+# 🔑 Shrinkflation Can Happen More Than Once!
 
 Perhaps the most interesting development is that shrinkflation doesn't necessarily happen once.
 
@@ -270,7 +270,7 @@ That is perhaps the most revealing aspect of the phenomenon.
 <!-- PLEBVOX:END -->
 ---
 <!-- PLEBVOX:START -->
-# 🔑 The Even Sneakier Cousin: Skimpflation
+# 🔑 The Even Sneakier Cousin: Skimpflation!
 
 There is another phenomenon that consumers should know about.
 
@@ -334,39 +334,39 @@ It means their products have appeared in documented shrinkflation cases.
 
 ---
 
-# 🔑 Why Snack Companies Are Particularly Vulnerable
+# 🔑 Why Snack Companies Are Particularly Vulnerable!
 
 Snack foods have several characteristics that make them ideal candidates for this strategy.
 
-### 1. Strong brand loyalty
+### 1. Strong brand loyalty!
 
 People don't necessarily want “a chocolate bar.”
 
 They want **their chocolate bar**.
 
-### 2. Familiar packaging
+### 2. Familiar packaging!
 
 The consumer recognises the packet before checking the weight.
 
-### 3. Small price points
+### 3. Small price points!
 
 A R2 or R3 increase can feel more significant psychologically than a 10–15% reduction in quantity.
 
-### 4. Frequent purchases
+### 4. Frequent purchases!
 
 A consumer might buy chips, biscuits or chocolate repeatedly throughout the year.
 
-### 5. Difficult visual comparison
+### 5. Difficult visual comparison!
 
 A 100 g packet and an 85 g packet can look remarkably similar.
 
-### 6. Portion sizes are easy to manipulate
+### 6. Portion sizes are easy to manipulate!
 
 A manufacturer can reduce the number of sweets, biscuits or individual bars without completely redesigning the product.
 <!-- PLEBVOX:END -->
 ---
 <!-- PLEBVOX:START -->
-# 🔑 The Psychology Behind It
+# 🔑 The Psychology Behind It!
 
 This may be the most important part of the story.
 
@@ -444,7 +444,7 @@ But it does make it worth examining.
 
 ---
 
-# 🔑 South Africa Has a Particular Problem
+# 🔑 South Africa Has a Particular Problem!
 
 South African consumers face an additional challenge.
 
@@ -490,7 +490,7 @@ That is the number that tells the real story.
 
 ---
 
-# 🔑 The Shrinkflation Checklist
+# 🔑 The Shrinkflation Checklist!
 
 The next time a familiar product seems suspiciously small, check:
 
@@ -528,7 +528,7 @@ Old photographs, receipts and packaging can be extremely valuable.
 <!-- PLEBVOX:END -->
 ---
 <!-- PLEBVOX:START -->
-# 🔑 The Bigger Picture
+# 🔑 The Bigger Picture!
 
 Shrinkflation is ultimately a symptom of a much larger problem.
 
@@ -554,7 +554,7 @@ And that question becomes even more important when a product has been reduced re
 <!-- PLEBVOX:END -->
 ---
 <!-- PLEBVOX:START -->
-# 🔑 Conclusion: Watch the Grams, Not Just the Price
+# 🔑 Conclusion: Watch the Grams, Not Just the Price!
 
 The next time you buy your favourite packet of chips, chocolate bar or box of biscuits, don't just look at the price.
 
