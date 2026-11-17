@@ -6,7 +6,7 @@ date: 2026-08-31
 
 <!-- PLEBVOX:START -->
 
-# **A Serious Linux Distribution for Seriously Old Hardware — Giving Old Hardware a New Lease on Life.**
+# **A Serious Linux Distribution for Seriously Old Hardware — Giving Old Hardware a New Lease on Life.**!
 
 There is a particular satisfaction that comes from taking an ageing laptop that most people would consider obsolete, installing a modern Linux distribution on it, and discovering that the machine still has plenty of life left in it.
 
