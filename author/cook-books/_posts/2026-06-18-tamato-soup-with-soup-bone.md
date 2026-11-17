@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tomato Soup With Soup Bone"
+title: "Tomato Soup With Soup Bone!"
 date: 2026-06-18
 ---
 
@@ -8,7 +8,7 @@ date: 2026-06-18
 
 <div align="center">
 
-# 🍅 Tomato Soup With Soup Bone 🍲
+# 🍅 Tomato Soup With Soup Bone 🍲!
 
 </div>
 
@@ -16,7 +16,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🥕 Ingredients
+## 🥕 Ingredients!
 
 - 🦴 1 Soup Bone  
 - 💧 6 Cups of Water  
@@ -33,7 +33,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 👩‍🍳 Method
+## 👩‍🍳 Method!
 
 1. Cook the tomatoes separately until tender.
 2. Mash the cooked tomatoes through a coarse sieve.
@@ -56,7 +56,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🌿 Optional Garnish
+## 🌿 Optional Garnish!
 
 Serve with:
 
