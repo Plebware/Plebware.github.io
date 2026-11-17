@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Fifteen-Minute Collaboration — Human Creativity Meets Artificial Intelligence"
+title: "The Fifteen-Minute Collaboration — Human Creativity Meets Artificial Intelligence!"
 date: 2026-10-20
 categories: [ai-helpers, ai-perspectives]
 permalink: /ai-helpers/ai-perspectives/2026/10/20/fifteen-minutes-fifteen-days-collaboration/
@@ -12,7 +12,7 @@ tags: [artificial-intelligence, chatgpt, openai, collaboration, github, accessib
 
 <!-- PLEBVOX:START -->
 
-# 🤝 Fifteen Minutes, Fifteen Days, and the Power of Collaboration
+# 🤝 Fifteen Minutes, Fifteen Days, and the Power of Collaboration!
 
 Sometimes a useful experiment changes how you think about the work ahead. On 20 October 2026, a practical collaboration between Otto Brinkmeier and ChatGPT showed how much time a carefully directed artificial intelligence assistant might help save when it is paired with a human who knows the project, checks the results, and makes the final decisions.
 
@@ -24,7 +24,7 @@ The experiment was not about handing the keys to a machine. It was about using t
 
 <!-- PLEBVOX:START -->
 
-## 🔎 The First Challenge: Finding Out What We Have Actually Built
+## 🔎 The First Challenge: Finding Out What We Have Actually Built!
 
 PlebWare has grown into a substantial publishing and learning environment. With hundreds of article files spread across its categories, even a seemingly simple housekeeping task can become difficult to manage by hand.
 
@@ -38,7 +38,7 @@ This kind of repository investigation helps turn an unclear task into a more pra
 
 <!-- PLEBVOX:START -->
 
-## 🗣️ The Second Challenge: Helping Text-to-Speech Read Naturally
+## 🗣️ The Second Challenge: Helping Text-to-Speech Read Naturally!
 
 Another task involved a small abbreviation with a surprisingly large footprint: “AI”.
 
@@ -52,7 +52,7 @@ That is the practical value of combining automation with editorial judgement: a 
 
 <!-- PLEBVOX:START -->
 
-## 🧠 The Human and the Assistant: Different Strengths, One Goal
+## 🧠 The Human and the Assistant: Different Strengths, One Goal!
 
 The human contributor brings project knowledge, purpose, priorities, lived experience, and responsibility. The assistant can help search, compare, draft, count, identify patterns, and handle repetitive work across many files.
 
@@ -66,7 +66,7 @@ The lesson is not that every task will become fifteen times faster. It is that t
 
 <!-- PLEBVOX:START -->
 
-## ✅ Why Human Review Still Matters
+## ✅ Why Human Review Still Matters!
 
 Counts need interpretation. Search-and-replace operations need context. A change that looks consistent across files may still produce an unnatural sentence in one particular article.
 
@@ -80,7 +80,7 @@ The most useful arrangement is therefore not “human versus machine”. It is a
 
 <!-- PLEBVOX:START -->
 
-## 🙌 A Shout-Out to OpenAI and Its Developers
+## 🙌 A Shout-Out to OpenAI and Its Developers!
 
 A word of appreciation is due to OpenAI and the developers who build and improve these tools, and to ChatGPT as the collaborator used in this particular experiment. Tools like these can help people investigate problems, organise complex work, and make progress on projects that might otherwise demand a great deal of repetitive effort.
 
@@ -92,7 +92,7 @@ Good collaboration is not about pretending the tool is human. It is about recogn
 
 <!-- PLEBVOX:START -->
 
-## 🧭 The PlebWare Principle: Technology in Service of People
+## 🧭 The PlebWare Principle: Technology in Service of People!
 
 PlebWare's guiding principle is that technology should help people think and act more effectively without taking control away from them. The computer does not make the decision. It helps you think through the decision.
 
