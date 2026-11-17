@@ -8,7 +8,7 @@ date: 2026-07-01
 ---
 -------------
 
-# Back in my borrowed 'Mobile 🛻 Office'
+# Back in my borrowed 'Mobile 🛻 Office'!
 
 And to be candid, I am glad to be away from my den, which Juelz and I share.
 
