@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Accounting PlebMachine User — Mode 11 Introduction and Learning Guide"
+title: "Accounting PlebMachine User — Mode 11 Introduction and Learning Guide!"
 date: 2026-10-18
 description: "An introduction to Accounting PlebMachine User, Mode 11 of PlebMachine, and the PlebWare tutorials, tools, and resources that support it."
 category: "accounting"
