@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Returning To God"
+title: "Returning To God!"
 date: 2026-06-11
 ---
 <!-- PLEBVOX:START -->
 
-# 🔑 Finding Strength In Quietness and Confidence
+# 🔑 Finding Strength In Quietness and Confidence!
 
-## 📖 Opening Scripture
+## 📖 Opening Scripture!
 
 > **Isaiah 30:15 (NLT)**
 >
@@ -15,7 +15,7 @@ date: 2026-06-11
 
 ---
 
-# 🌿 Introduction
+# 🌿 Introduction!
 
 Life has a way of pulling us in many directions. One moment we are walking closely with God, and the next we find ourselves distracted by worries, responsibilities, disappointments, fears, or simply the busyness of daily life.
 
@@ -33,7 +33,7 @@ When we return to God, we discover that our strength was never meant to come fro
 
 ---
 
-# ✨ A Poem: The Way Back Home
+# ✨ A Poem: The Way Back Home!
 
 When roads grow long and shadows fall,  
 And earthly voices loudly call,  
@@ -52,7 +52,7 @@ Will find God's grace beyond all men.
 
 ---
 
-# ⛪ A Lesson From Church History
+# ⛪ A Lesson From Church History!
 
 One of the greatest examples of returning to God is found in the life of **Augustine of Hippo**.
 
@@ -66,138 +66,138 @@ That truth remains just as powerful today. Every human heart ultimately longs fo
 
 ---
 
-# 🔑 Seven Keys From Isaiah 30:15
+# 🔑 Seven Keys From Isaiah 30:15!
 
-## 1️⃣ God Always Welcomes Us Back
+## 1️⃣ God Always Welcomes Us Back!
 
-### 📖 Scripture
+### 📖 Scripture!
 > **James 4:8**
 >
 > *"Come near to God and He will come near to you."*
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 If you feel distant from God, begin today. Spend a few minutes in prayer and open His Word. Take one step toward Him.
 
-### 💡 Tip
+### 💡 Tip!
 Do not wait until you feel "worthy" enough to return. Come exactly as you are.
 
-### 👑 Heavenly View
+### 👑 Heavenly View!
 The Father delights when His children come home. Heaven celebrates every heart that turns toward God.
 
 ---
 
-## 2️⃣ Rest Is A Gift From God
+## 2️⃣ Rest Is A Gift From God!
 
-### 📖 Scripture
+### 📖 Scripture!
 > **Matthew 11:28**
 >
 > *"Come to Me, all of you who are weary and burdened, and I will give you rest."*
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 Take intentional moments throughout the day to pause and pray rather than carrying every burden alone.
 
-### 💡 Tip
+### 💡 Tip!
 Turn anxious thoughts into short prayers immediately.
 
-### 👑 Heavenly View
+### 👑 Heavenly View!
 God never intended His children to carry life's burdens without His help.
 
 ---
 
-## 3️⃣ Quietness Creates Space For God's Voice
+## 3️⃣ Quietness Creates Space For God's Voice!
 
-### 📖 Scripture
+### 📖 Scripture!
 > **Psalm 46:10**
 >
 > *"Be still, and know that I am God."*
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 Reduce distractions and spend time in silence before God each day.
 
-### 💡 Tip
+### 💡 Tip!
 Start with just five quiet minutes dedicated solely to listening and praying.
 
-### 👑 Heavenly View
+### 👑 Heavenly View!
 God often speaks most clearly when the noise of the world grows quiet.
 
 ---
 
-## 4️⃣ Confidence Comes From Trusting God
+## 4️⃣ Confidence Comes From Trusting God!
 
-### 📖 Scripture
+### 📖 Scripture!
 > **Proverbs 3:5-6**
 >
 > *"Trust in the LORD with all your heart and lean not on your own understanding."*
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 When facing difficult decisions, seek God's wisdom before relying solely on your own plans.
 
-### 💡 Tip
+### 💡 Tip!
 Ask yourself: "Have I prayed about this as much as I have worried about it?"
 
-### 👑 Heavenly View
+### 👑 Heavenly View!
 Confidence rooted in God is stronger than confidence rooted in circumstances.
 
 ---
 
-## 5️⃣ God Restores What Has Been Damaged
+## 5️⃣ God Restores What Has Been Damaged!
 
-### 📖 Scripture
+### 📖 Scripture!
 > **Joel 2:25**
 >
 > *"I will restore to you the years that the swarming locust has eaten."*
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 Bring your regrets, failures, and disappointments before God and allow Him to heal what seems broken.
 
-### 💡 Tip
+### 💡 Tip!
 Never measure God's future plans by your past mistakes.
 
-### 👑 Heavenly View
+### 👑 Heavenly View!
 The Lord specializes in restoration and redemption.
 
 ---
 
-## 6️⃣ Strength Is Found In Dependence On God
+## 6️⃣ Strength Is Found In Dependence On God!
 
-### 📖 Scripture
+### 📖 Scripture!
 > **2 Corinthians 12:9**
 >
 > *"My grace is sufficient for you, for My power is made perfect in weakness."*
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 Admit areas where you need God's help rather than pretending to be self-sufficient.
 
-### 💡 Tip
+### 💡 Tip!
 A humble prayer often accomplishes more than hours of human striving.
 
-### 👑 Heavenly View
+### 👑 Heavenly View!
 God's power shines brightest when we rely upon Him.
 
 ---
 
-## 7️⃣ Returning To God Leads To Renewal
+## 7️⃣ Returning To God Leads To Renewal!
 
-### 📖 Scripture
+### 📖 Scripture!
 > **Isaiah 40:31**
 >
 > *"But those who hope in the LORD will renew their strength."*
 
-### 🛠️ Practical Application
+### 🛠️ Practical Application!
 Choose daily habits that draw you closer to God: prayer, Scripture reading, worship, and fellowship.
 
-### 💡 Tip
+### 💡 Tip!
 Consistency is more powerful than occasional spiritual enthusiasm.
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-### 👑 Heavenly View
+### 👑 Heavenly View!
 Those who walk closely with God experience continual spiritual renewal.
 
 ---
 
-# 🌟 Final Thoughts
+# 🌟 Final Thoughts!
 
 Perhaps today you feel tired, discouraged, distracted, or uncertain about the future.
 
@@ -223,7 +223,7 @@ Your strength is not found in striving but in surrender. Your peace is not found
 
 ---
 
-# 🙏 Closing Prayer
+# 🙏 Closing Prayer!
 
 Heavenly Father,
 
