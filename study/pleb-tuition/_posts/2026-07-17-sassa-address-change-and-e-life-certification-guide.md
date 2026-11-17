@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebTuition: SASSA Address Change and E-Life Life Certificate Guide"
+title: "PlebTuition: SASSA Address Change and E-Life Life Certificate Guide!"
 date: 2026-07-17
 categories: [study, pleb-tuition]
 tags: [SASSA, grants, South Africa, pension, disability grant, e-life, government services]
@@ -8,7 +8,7 @@ tags: [SASSA, grants, South Africa, pension, disability grant, e-life, governmen
 
 <!-- PLEBVOX:START -->
 
-# 🔑 PlebTuition: SASSA Address Change and E-Life Life Certificate Guide
+# 🔑 PlebTuition: SASSA Address Change and E-Life Life Certificate Guide!
 
 **By Otto & Juelz**
 
@@ -25,7 +25,7 @@ Fortunately, both processes are straightforward when you know what to expect.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Changing Your Address at SASSA
+# 🔑 Changing Your Address at SASSA!
 
 The good news is that you **do not need to return to the SASSA office where you originally registered.**
 
@@ -35,7 +35,7 @@ You can visit **any SASSA local office** to update your address.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 What to Take
+## 🔑 What to Take!
 
 Bring the following documents:
 
@@ -68,7 +68,7 @@ Today, SASSA can verify your identity electronically using **fingerprint or faci
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Why E-Life Matters
+## 🔑 Why E-Life Matters!
 
 The system helps to:
 
@@ -102,7 +102,7 @@ The fingerprint verification usually takes only a couple of minutes.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Quick Reference
+# 🔑 Quick Reference!
 
 | Situation | Where to Go | What to Bring |
 |------------|-------------|---------------|
@@ -115,7 +115,7 @@ The fingerprint verification usually takes only a couple of minutes.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Final Thoughts
+# 🔑 Final Thoughts!
 
 Don't wait until your grant payments are interrupted.
 
