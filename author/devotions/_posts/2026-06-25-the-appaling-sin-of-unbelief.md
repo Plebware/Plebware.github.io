@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "The Appalling Sin of Unbelief"
+title: "The Appalling Sin of Unbelief!"
 date: 2026-06-25
 ---
 <!-- PLEBVOX:START -->
 
-# 🐑 The Appalling Sin of Unbelief
+# 🐑 The Appalling Sin of Unbelief!
 
-## 📖 Opening Prayer
+## 📖 Opening Prayer!
 
 _Heavenly Father,_
 _We come before You today with humble hearts, acknowledging that we have all gone astray like sheep. We confess that many times we have chosen our own path rather than Yours. Thank You for sending Your Son, Jesus Christ, to bear our sins upon Himself at Calvary._
@@ -17,7 +17,7 @@ _In the Name of Jesus Christ, Amen._
 
 ---
 
-# 🐑 Introduction: The Lost Sheep
+# 🐑 Introduction: The Lost Sheep!
 
 A shepherd once noticed that one sheep continually wandered away from the flock. The sheep did not become lost because it lacked intelligence. It became lost because it preferred its own path. Every time the shepherd gathered the flock, that sheep would drift toward greener-looking grass, convinced it knew better.
 
@@ -35,7 +35,7 @@ The heart of unbelief is not merely a lack of evidence. Often it is a preference
 
 ---
 
-# 🏛️ Church History: Faith Beyond Understanding
+# 🏛️ Church History: Faith Beyond Understanding!
 
 Throughout church history, many believers struggled with questions and doubts.
 
@@ -49,7 +49,7 @@ Their stories remind us that unbelief is often deeper than intellectual question
 
 ---
 
-# ✍️ A Poem: The Wandering Sheep
+# ✍️ A Poem: The Wandering Sheep!
 
 ```
 
@@ -116,9 +116,9 @@ The King who died on Calvary.
 ```
 ---
 
-# 🔑 Key Point 1: Unbelief Is Not Merely a Misfortune
+# 🔑 Key Point 1: Unbelief Is Not Merely a Misfortune!
 
-## 📖 Scripture
+## 📖 Scripture!
 
 > _"He that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God._" **(John 3:18)**
 
@@ -126,14 +126,14 @@ Jesus does not describe unbelief as an unfortunate accident. He calls it a condi
 
 When God offers His Son as the remedy for sin, rejecting that remedy becomes a serious matter.
 
-### 🛠️ Practical Tips
+### 🛠️ Practical Tips!
 
 * Examine whether you have truly trusted Christ.
 * Read the Gospels regularly.
 * Pray honestly about your doubts.
 * Ask God to reveal areas of resistance.
 
-### 🚶 Practical Application
+### 🚶 Practical Application!
 
 Instead of merely knowing about Jesus, place your confidence in Him daily.
 
@@ -141,7 +141,7 @@ Faith is not simply agreeing that Jesus existed.
 
 Faith means trusting Him as Saviour, Lord, and King.
 
-### 👑 Heavenly View
+### 👑 Heavenly View!
 
 From Heaven's perspective, God has already provided the perfect sacrifice.
 
@@ -151,9 +151,9 @@ The great question is not whether salvation has been provided, but whether we wi
 
 ---
 
-# 🔑 Key Point 2: The Will Plays a Major Role in Faith
+# 🔑 Key Point 2: The Will Plays a Major Role in Faith!
 
-## 📖 Scripture
+## 📖 Scripture!
 
 > _"Ye will not come to me, that ye might have life."_ **(John 5:40)**
 
@@ -169,14 +169,14 @@ Many people assume faith is only an intellectual decision. Scripture repeatedly 
 
 Sometimes people reject Christ because accepting Him would require repentance, humility, and surrender.
 
-### 🛠️ Practical Tips
+### 🛠️ Practical Tips!
 
 * Ask yourself what Christ may be asking you to surrender.
 * Be honest about areas of rebellion.
 * Replace excuses with obedience.
 * Seek God's help in submitting your will.
 
-### 🚶 Practical Application
+### 🚶 Practical Application!
 
 When God convicts you through Scripture, respond immediately.
 
@@ -187,7 +187,7 @@ Faith grows stronger every time we choose obedience.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-### 👑 Heavenly View
+### 👑 Heavenly View!
 
 Heaven rejoices whenever a sinner willingly turns to Christ.
 
@@ -195,9 +195,9 @@ The angels witness the miracle of a heart that chooses surrender over self-rule.
 
 ---
 
-# 🔑 Key Point 3: God Has Already Carried Our Sin
+# 🔑 Key Point 3: God Has Already Carried Our Sin!
 
-## 📖 Scripture
+## 📖 Scripture!
 
 > _"The Lord hath laid on him the iniquity of us all." (Isaiah 53:6)
 
@@ -209,14 +209,14 @@ Every sin, every failure, every act of rebellion was laid upon Him.
 
 The cross reveals both the seriousness of sin and the greatness of God's love.
 
-### 🛠️ Practical Tips
+### 🛠️ Practical Tips!
 
 * Thank Christ daily for His sacrifice.
 * Keep a gratitude journal.
 * Memorise **Isaiah 53**.
 * Share the Gospel with someone this week.
 
-### 🚶 Practical Application
+### 🚶 Practical Application!
 
 Stop trying to earn God's favour through your own efforts.
 
@@ -224,7 +224,7 @@ Rest in the finished work of Christ.
 
 Serve Him out of gratitude, not guilt.
 
-### 👑 Heavenly View
+### 👑 Heavenly View!
 
 The cross is the centre of Heaven's redemptive story.
 
@@ -232,7 +232,7 @@ The redeemed will forever praise the Lamb who was slain and who purchased salvat
 
 ---
 
-# 🌟 Final Thoughts
+# 🌟 Final Thoughts!
 
 The tragedy of unbelief is not that God failed to provide salvation.
 
@@ -256,7 +256,7 @@ The Shepherd who bore your sin is worthy of your faith.
 
 ---
 
-# 🙏 Closing Prayer
+# 🙏 Closing Prayer!
 
 _Father,_
 _Thank You for Your incredible love demonstrated through Jesus Christ. Thank You that when we wandered like sheep, You sent the Good Shepherd to seek and save us._
