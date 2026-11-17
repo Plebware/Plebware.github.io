@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Design 101: Building Websites That People Want to Visit"
+title: "Web Design 101: Building Websites That People Want to Visit!"
 date: 2026-06-20
 ---
 
@@ -31,7 +31,7 @@ It is about helping visitors find information quickly and enjoyably.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Why Web Design Matters
+# 🔑 Why Web Design Matters!
 
 A website is often the first impression people have of a person, business, ministry, or project.
 
@@ -52,7 +52,7 @@ Poor design can cause visitors to leave within seconds.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Purpose of a Website
+# 🔑 The Purpose of a Website!
 
 Before designing a website, ask:
 
@@ -79,13 +79,13 @@ Examples include:
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Basic Building Blocks
+# 🔑 The Basic Building Blocks!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## HTML
+## HTML!
 
 HTML stands for **HyperText Markup Language**.
 
@@ -108,7 +108,7 @@ Think of HTML as the skeleton of a website.
 
 <!-- PLEBVOX:START -->
 
-## CSS
+## CSS!
 
 CSS stands for **Cascading Style Sheets**.
 
@@ -130,7 +130,7 @@ Think of CSS as the clothing and appearance of a website.
 
 <!-- PLEBVOX:START -->
 
-## JavaScript
+## JavaScript!
 
 JavaScript adds interactivity.
 
@@ -150,13 +150,13 @@ Think of JavaScript as the movement and behavior of a website.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Good Design Principles
+# 🔑 Good Design Principles!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Keep It Simple
+## Keep It Simple!
 
 Visitors should not have to guess where things are.
 
@@ -168,7 +168,7 @@ Simple layouts are usually more effective than complicated ones.
 
 <!-- PLEBVOX:START -->
 
-## Make Navigation Easy
+## Make Navigation Easy!
 
 Users should quickly find:
 
@@ -185,7 +185,7 @@ Clear menus improve usability.
 
 <!-- PLEBVOX:START -->
 
-## Use Readable Text
+## Use Readable Text!
 
 Choose fonts that are easy to read.
 
@@ -203,7 +203,7 @@ Content should always be easy to read.
 
 <!-- PLEBVOX:START -->
 
-## Focus on Content
+## Focus on Content!
 
 Visitors come for information.
 
@@ -215,7 +215,7 @@ The design should support the content rather than distract from it.
 
 <!-- PLEBVOX:START -->
 
-## Be Consistent
+## Be Consistent!
 
 Use the same:
 
@@ -234,7 +234,7 @@ Consistency builds familiarity and trust.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Responsive Design
+# 🔑 Responsive Design!
 
 Modern websites must work on:
 
@@ -253,7 +253,7 @@ Today, mobile-friendly design is essential.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Accessibility
+# 🔑 Accessibility!
 
 Accessibility ensures that everyone can use a website.
 
@@ -273,7 +273,7 @@ Accessible websites serve more people and are often easier for everyone to use.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Content Management Systems
+# 🔑 Content Management Systems!
 
 Many websites are built using content management systems (CMS).
 
@@ -292,7 +292,7 @@ These systems allow users to publish content without writing code for every page
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Static Websites
+# 🔑 Static Websites!
 
 A static website consists of files that are delivered directly to visitors.
 
@@ -318,29 +318,29 @@ GitHub Pages is a popular platform for hosting static websites.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Planning a Website
+# 🔑 Planning a Website!
 
 Before building a website, create a simple plan.
 
 Questions to answer:
 
-### Purpose
+### Purpose!
 
 Why does the website exist?
 
-### Audience
+### Audience!
 
 Who will visit it?
 
-### Content
+### Content!
 
 What information will be published?
 
-### Structure
+### Structure!
 
 How will pages be organized?
 
-### Maintenance
+### Maintenance!
 
 Who will update the website?
 
@@ -352,13 +352,13 @@ Good planning prevents confusion later.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Common Beginner Mistakes
+# 🔑 Common Beginner Mistakes!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Too Much Information on One Page
+## Too Much Information on One Page!
 
 Large blocks of content can overwhelm readers.
 
@@ -370,7 +370,7 @@ Break information into sections.
 
 <!-- PLEBVOX:START -->
 
-## Too Many Visual Effects
+## Too Many Visual Effects!
 
 Animations and effects should support the content, not distract from it.
 
@@ -380,7 +380,7 @@ Animations and effects should support the content, not distract from it.
 
 <!-- PLEBVOX:START -->
 
-## Ignoring Mobile Users
+## Ignoring Mobile Users!
 
 Many visitors use phones rather than desktop computers.
 
@@ -392,7 +392,7 @@ Always test on smaller screens.
 
 <!-- PLEBVOX:START -->
 
-## Poor Navigation
+## Poor Navigation!
 
 If visitors cannot find information quickly, they may leave.
 
@@ -402,7 +402,7 @@ If visitors cannot find information quickly, they may leave.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Learning Web Design
+# 🔑 Learning Web Design!
 
 A beginner can start with:
 
@@ -424,7 +424,7 @@ The best way to learn web design is to build websites.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Final Thoughts
+# 🔑 Final Thoughts!
 
 Web design is the art and science of presenting information on the internet.
 
