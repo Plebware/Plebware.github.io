@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Give Us Zeal"
+title: "Give Us Zeal!"
 date: 2026-08-11
 ---
 <img src="{{ '/assets/images/stir-up-fire.webp' | relative_url }}" 
@@ -151,7 +151,7 @@ But our hearts do not have to become cold because our circumstances are cold.
 
 <!-- PLEBVOX:START -->
 
-# 📖 Scripture Two — Stir Up the Gift
+# 📖 Scripture Two — Stir Up the Gift!
 
 > **"Stir up the gift of God, which is in thee."**
 >
@@ -201,7 +201,7 @@ God can breathe upon an ember and make it burn again.
 
 <!-- PLEBVOX:START -->
 
-# 📖 Scripture Three — Do Not Grow Weary
+# 📖 Scripture Three — Do Not Grow Weary!
 
 > **"And let us not be weary in well doing: for in due season we shall reap, if we faint not."**
 >
@@ -363,13 +363,13 @@ For Christ, our faithful Friend.
 
 <!-- PLEBVOX:START -->
 
-# 🛠️ Daily To-Do — Stir the Fire
+# 🛠️ Daily To-Do — Stir the Fire!
 
 Today, don't merely read about zeal.
 
 **Do something with it.**
 
-### 🔥 1. Pray for fresh fire
+### 🔥 1. Pray for fresh fire!
 
 Spend a few quiet minutes asking God:
 
@@ -381,7 +381,7 @@ Don't blame everybody else.
 
 Let God search your heart.
 
-### 📖 2. Read the three Scriptures again
+### 📖 2. Read the three Scriptures again!
 
 Read:
 
@@ -399,7 +399,7 @@ Do something today that serves another person without seeking recognition.
 
 A small act of obedience can become fuel for a larger fire.
 
-### 🗣️ 4. Speak life
+### 🗣️ 4. Speak life!
 
 Encourage somebody who is discouraged.
 
