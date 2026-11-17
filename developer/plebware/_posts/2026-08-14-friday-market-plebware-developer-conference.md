@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Friday at the Market – PlebWare Developer Conference"
+title: "Friday at the Market – PlebWare Developer Conference!"
 date: 2026-08-14
 category: "plebware"
 tags: [plebware, plebmachine, plebvox, github-pages, android, mobile, highlighting, stretchly, cognitive-mode, development]
