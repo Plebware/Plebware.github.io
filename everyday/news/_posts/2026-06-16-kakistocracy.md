@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "The Kakistocracy"
+title: "The Kakistocracy!"
 date: 2026-06-16
 ---
 
 <!-- PLEBVOX:START -->
 
-# ⚡ When Parliament Becomes a Den of Thieves
+# ⚡ When Parliament Becomes a Den of Thieves!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Introduction: When Living in a Kakistocracy
+## Introduction: When Living in a Kakistocracy!
 
 *"Government by the least suitable or least competent citizens."* That is one definition of a **kakistocracy**.
 
@@ -36,7 +36,7 @@ With these thoughts in mind, I turn my attention from Parliament and public affa
 
 <!-- PLEBVOX:START -->
 
-# 🏠 Seventy Hours in the Dark
+# 🏠 Seventy Hours in the Dark!
 
 As I write this report on Tuesday, 16 June 2026, electrical power has finally been restored after more than **66 hours without electricity**.
 
@@ -54,7 +54,7 @@ Personally, I was forced to leave my phone at a local shop simply to obtain enou
 
 <!-- PLEBVOX:START -->
 
-# 🔌 Not the First Time
+# 🔌 Not the First Time!
 
 What makes the situation particularly frustrating is that this is **not the first major outage experienced at this property during 2026**.
 
@@ -74,7 +74,7 @@ At what point does an isolated incident become a pattern?
 
 <!-- PLEBVOX:START -->
 
-# ⚠️ Long-Standing Electrical Concerns
+# ⚠️ Long-Standing Electrical Concerns!
 
 The recent outage does not exist in isolation.
 
@@ -94,7 +94,7 @@ While any single issue might be explained away, the accumulation of multiple iss
 
 <!-- PLEBVOX:START -->
 
-# 💰 The Cost of Frustration
+# 💰 The Cost of Frustration!
 
 Adding to the dissatisfaction are concerns regarding electricity charges.
 
@@ -115,7 +115,7 @@ When questions remain unanswered, frustration grows.
 
 <!-- PLEBVOX:START -->
 
-# 🍇 Beyond Sour Grapes
+# 🍇 Beyond Sour Grapes!
 
 There is an old expression about "sour grapes."
 
@@ -137,7 +137,7 @@ When residents repeatedly raise concerns and feel that their voices are not bein
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Real Question
+# 🔑 The Real Question!
 
 The question is not whether residents are frustrated.
 
