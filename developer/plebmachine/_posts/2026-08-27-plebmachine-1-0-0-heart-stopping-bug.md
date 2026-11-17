@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebMachine 1.0.0 Release Advisory: A Critical Bug Discovered"
+title: "PlebMachine 1.0.0 Release Advisory: A Critical Bug Discovered!"
 date: 2026-08-27
 category: "plebmachine"
 tags: [plebmachine, Linux, MX Linux, Bug Report, Release Advisory, Mission Control]
