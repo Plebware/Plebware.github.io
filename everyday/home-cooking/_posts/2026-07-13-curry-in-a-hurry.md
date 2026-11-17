@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Curry In A Hurry – Pressure Cooker Beef Curry"
+title: "Curry In A Hurry – Pressure Cooker Beef Curry!"
 date: 2026-07-13
 category: "home-cooking"
 tags: [curry, beef, basmati, budget, pressure-cooker, spicy, hot]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Curry In A Hurry
+# 🔑 Curry In A Hurry!
 
 *A hearty pressure cooker beef curry with spicy basmati rice.*
 
@@ -20,9 +20,9 @@ Sometimes the best meals come from using what you already have in the cupboard. 
 
 <!-- PLEBVOX:START -->
 
-## 🥩 Ingredients
+## 🥩 Ingredients!
 
-### Beef Curry
+### Beef Curry!
 
 * 400 g beef stew meat, cut into bite-sized cubes
 * 1 purple onion, diced
@@ -41,7 +41,7 @@ Sometimes the best meals come from using what you already have in the cupboard. 
 
 <!-- PLEBVOX:START -->
 
-## 🍚 Spicy Rice
+## 🍚 Spicy Rice!
 
 * Nur Johaan Basmati Rice
 * Dried chilli flakes
@@ -54,13 +54,13 @@ Sometimes the best meals come from using what you already have in the cupboard. 
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Method
+# 🔑 Method!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Step 1 – Brown the Meat
+## Step 1 – Brown the Meat!
 
 1. Heat the pressure cooker on sauté mode or over medium heat.
 2. Add a little cooking oil.
@@ -73,7 +73,7 @@ Sometimes the best meals come from using what you already have in the cupboard. 
 
 <!-- PLEBVOX:START -->
 
-## Step 2 – Build the Curry
+## Step 2 – Build the Curry!
 
 Add:
 
@@ -92,7 +92,7 @@ Cook everything together for about 2–3 minutes until fragrant.
 
 <!-- PLEBVOX:START -->
 
-## Step 3 – Add the Sauce
+## Step 3 – Add the Sauce!
 
 Mix the Minestrone Soup powder with approximately 500–600 ml of cold water until smooth.
 
@@ -106,7 +106,7 @@ The soup powder acts as both a thickener and flavour enhancer.
 
 <!-- PLEBVOX:START -->
 
-## Step 4 – Pressure Cook
+## Step 4 – Pressure Cook!
 
 Seal the pressure cooker.
 
@@ -122,7 +122,7 @@ If the sauce is thinner than desired, simmer uncovered for another 5–10 minute
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Spicy Rice
+# 🔑 Spicy Rice!
 
 While the curry cooks:
 
@@ -141,7 +141,7 @@ While the curry cooks:
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Serving
+# 🔑 Serving!
 
 Serve the curry over a generous helping of spicy basmati rice.
 
@@ -159,7 +159,7 @@ A spoonful of plain yoghurt also helps balance the heat from the habanero.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Cook's Notes
+# 🔑 Cook's Notes!
 
 * 🌶️ Habaneros are extremely hot—start with a small amount and add more only if needed.
 * 🥣 The Minestrone Soup creates a rich, hearty gravy without needing flour.
@@ -172,7 +172,7 @@ A spoonful of plain yoghurt also helps balance the heat from the habanero.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Joy Cooking Verdict
+## 🔑 Joy Cooking Verdict!
 
 **Difficulty:** ⭐⭐☆☆☆ Easy
 
