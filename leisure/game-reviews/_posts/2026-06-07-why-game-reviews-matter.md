@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Why Game Reviews Matter"
+title: "Why Game Reviews Matter?"
 date: 2026-06-07
 ---
 
 <!-- PLEBVOX:START -->
 
-## Play To Learn - Play To Tell
+## Play To Learn - Play To Tell!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## More Than Just Entertainment
+## More Than Just Entertainment!
 
 Video games are often dismissed as simple entertainment.
 
@@ -32,7 +32,7 @@ They are simulations of decision, consequence, and creativity.
 
 <!-- PLEBVOX:START -->
 
-## What Makes Games Unique
+## What Makes Games Unique?
 
 Unlike films or books, games require participation.
 
@@ -54,7 +54,7 @@ Games respond to input, creating a feedback loop between player and system.
 
 <!-- PLEBVOX:START -->
 
-## Why Reviews Are Important
+## Why Reviews Are Important?
 
 Game reviews are not only about rating enjoyment.
 
@@ -74,7 +74,7 @@ This turns gaming into analysis rather than passive consumption.
 
 <!-- PLEBVOX:START -->
 
-## Games as Learning Systems
+## Games as Learning Systems!
 
 Games often teach without explicitly trying to teach.
 
@@ -93,7 +93,7 @@ Even simple games can contain complex systems beneath the surface.
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Perspective
+## The PlebWare Perspective!
 
 Within PlebWare, leisure is not separate from learning.
 
@@ -112,7 +112,7 @@ A good review asks:
 
 <!-- PLEBVOX:START -->
 
-## What This Section Covers
+## What This Section Covers?
 
 The Game Reviews section will explore:
 
@@ -133,7 +133,7 @@ The focus is understanding how games work.
 
 <!-- PLEBVOX:START -->
 
-## Leisure as Recovery and Exploration
+## Leisure as Recovery and Exploration!
 
 Leisure is not wasted time.
 
@@ -149,7 +149,7 @@ This makes them valuable not only for enjoyment, but also for mental engagement.
 
 <!-- PLEBVOX:START -->
 
-## Closing Thought
+## Closing Thought!
 
 A game is not just something you play.
 
