@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "🧹 Clearing Away the Flotsam — A Poem"
+title: "🧹 Clearing Away the Flotsam — A Poem!"
 date: 2026-06-28
 ---
 
 <!-- PLEBVOX:START -->
 
-# **The Ship Within My Soul**
+# **The Ship Within My Soul**!
 
 ```
 
