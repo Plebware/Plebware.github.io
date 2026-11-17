@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔑 How I Planned My Science Fiction Universe"
+title: "🔑 How I Planned My Science Fiction Universe!"
 date: 2026-07-23
 author: "O.C. Verrocchio"
 categories: [Author, Fiction]
@@ -15,7 +15,7 @@ tags:
 
 <!-- PLEBVOX:START -->
 
-# 🔑 **My Space Opera Blueprint Explained**
+# 🔑 **My Space Opera Blueprint Explained**!
 
 One of the questions I get asked the most is:
 
@@ -40,7 +40,7 @@ That meant planning first... and writing second.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Step 1 — Read Everything
+# 🔑 Step 1 — Read Everything!
 
 Before writing a single page, I spent months reading.
 
@@ -68,7 +68,7 @@ I wanted my universe to feel believable rather than magical.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Step 2 — Build the Universe Before the Story
+# 🔑 Step 2 — Build the Universe Before the Story!
 
 Instead of asking:
 
@@ -92,7 +92,7 @@ Only after those questions were answered did I begin creating stories.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Step 3 — Base It On Reality
+# 🔑 Step 3 — Base It On Reality!
 
 One of the best decisions I made was beginning with real astronomy.
 
@@ -107,7 +107,7 @@ Reality often provides better inspiration than imagination alone.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Step 4 — Use Real People
+# 🔑 Step 4 — Use Real People!
 
 Creating believable characters is difficult.
 
@@ -127,7 +127,7 @@ When characters already have believable personalities, writing dialogue becomes 
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Step 5 — Build Systems, Not Just Stories
+# 🔑 Step 5 — Build Systems, Not Just Stories!
 
 Most readers only see the adventures.
 
@@ -153,7 +153,7 @@ Even if only ten per cent ever appears in a novel, having those systems already 
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Step 6 — Design Organisations
+# 🔑 Step 6 — Design Organisations!
 
 Organisations shape real history.
 
@@ -184,7 +184,7 @@ That creates endless opportunities for future stories.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Step 7 — Nobody Thinks They're The Villain
+# 🔑 Step 7 — Nobody Thinks They're The Villain!
 
 One lesson history taught me is that villains rarely believe they are evil.
 
@@ -200,7 +200,7 @@ That makes conflict far more interesting than simply having "good guys versus ba
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Step 8 — Leave Room To Grow
+# 🔑 Step 8 — Leave Room To Grow!
 
 One mistake many new writers make is explaining everything.
 
@@ -224,7 +224,7 @@ Your universe should always be larger than the stories you tell.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 My Biggest Lesson
+# 🔑 My Biggest Lesson!
 
 Planning my universe took far longer than writing my first novel.
 
@@ -244,7 +244,7 @@ The answer is usually already waiting for me.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Final Thoughts
+# 🔑 Final Thoughts!
 
 Building a science fiction universe is like building a real civilisation.
 
