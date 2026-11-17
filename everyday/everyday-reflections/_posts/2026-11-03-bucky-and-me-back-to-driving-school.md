@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bucky and Me – A New Driving Adventure"
+title: "Bucky and Me – A New Driving Adventure!"
 date: 2026-11-03
 category: "everyday"
 tags: [ford-ranger, driving, learning, vehicles, gearbox, personal-reflections, safety]
