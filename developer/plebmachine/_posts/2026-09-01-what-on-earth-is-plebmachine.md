@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# What On Earth Is PlebMachine? 🤔
+# What On Earth Is PlebMachine? 🤔?
 
 Let's start with the obvious question.
 
@@ -26,7 +26,7 @@ PlebMachine then helps prepare the computer for you.
 
 <!-- PLEBVOX:START -->
 
-# Your Computer Has Jobs to Do. 💻
+# Your Computer Has Jobs to Do. 💻!
 
 Think about your computer like a workshop.
 
@@ -44,7 +44,7 @@ PlebMachine says:
 
 <!-- PLEBVOX:START -->
 
-# Meet Cognitive Modes. 🧠
+# Meet Cognitive Modes. 🧠!
 
 PlebMachine uses **Cognitive Modes**.
 
@@ -60,7 +60,7 @@ Choose the activity, and PlebMachine prepares the appropriate working environmen
 
 <!-- PLEBVOX:START -->
 
-# Twelve Ways to Work. 🎯
+# Twelve Ways to Work. 🎯!
 
 PlebMachine currently has twelve Cognitive Modes:
 
@@ -83,7 +83,7 @@ Each Mode represents a different kind of activity.
 
 <!-- PLEBVOX:START -->
 
-# Author Mode. ✍️
+# Author Mode. ✍️!
 
 Suppose you are writing a book.
 
@@ -99,7 +99,7 @@ It is the **working environment** they create together.
 
 <!-- PLEBVOX:START -->
 
-# Mission Control. 🎛️
+# Mission Control. 🎛️!
 
 Mission Control is the organiser inside PlebMachine.
 
@@ -115,7 +115,7 @@ Mission Control helps prepare the workspace.
 
 <!-- PLEBVOX:START -->
 
-# What Happens to Your Normal Desktop? 🔄
+# What Happens to Your Normal Desktop? 🔄?
 
 PlebMachine is not supposed to steal your computer.
 
@@ -131,7 +131,7 @@ When PlebMachine is switched off, the goal is to restore your previous environme
 
 <!-- PLEBVOX:START -->
 
-# Meet Gizmo. 🧰
+# Meet Gizmo. 🧰!
 
 PlebMachine also has **Gizmo**.
 
@@ -147,7 +147,7 @@ Gizmo gives you a convenient way to get around it.
 
 <!-- PLEBVOX:START -->
 
-# What About Applications? 📦
+# What About Applications? 📦?
 
 PlebMachine does not need to contain every application you might ever use.
 
@@ -163,7 +163,7 @@ A user can choose different tools while the Cognitive Mode itself remains the sa
 
 <!-- PLEBVOX:START -->
 
-# The Logseq Question. 📚
+# The Logseq Question. 📚!
 
 Logseq is useful, but its current distribution makes automatic installation difficult.
 
@@ -177,7 +177,7 @@ The sensible approach is to keep PlebMachine small and allow Logseq to remain op
 
 <!-- PLEBVOX:START -->
 
-# Enter Zettlr. 📝
+# Enter Zettlr. 📝!
 
 Zettlr is an interesting alternative for knowledge management and writing.
 
@@ -191,7 +191,7 @@ The goal is simple: use the tool that helps you get the work done.
 
 <!-- PLEBVOX:START -->
 
-# PlebWare Is the Other Half. 🌐
+# PlebWare Is the Other Half. 🌐!
 
 If PlebMachine is the organised computer environment, **PlebWare is the knowledge and publishing environment** around it.
 
@@ -207,7 +207,7 @@ PlebWare helps you learn, create and share.
 
 <!-- PLEBVOX:START -->
 
-# GitHub Is the Workshop. 🛠️
+# GitHub Is the Workshop. 🛠️!
 
 GitHub is the workshop where the PlebWare website and its content are maintained.
 
@@ -227,7 +227,7 @@ Think of the ecosystem like this:
 
 <!-- PLEBVOX:START -->
 
-# PlebVox Gives PlebWare a Voice. 🔊
+# PlebVox Gives PlebWare a Voice. 🔊!
 
 PlebVox is the text-to-speech part of the ecosystem.
 
@@ -241,7 +241,7 @@ It can be useful for accessibility, learning, relaxing, or simply giving your ey
 
 <!-- PLEBVOX:START -->
 
-# PlebMachine Connects Outward to PlebWare. 🌉
+# PlebMachine Connects Outward to PlebWare. 🌉!
 
 This is an important part of the PlebWare vision.
 
@@ -261,7 +261,7 @@ The desktop remains in control of the local working environment, while PlebWare 
 
 <!-- PLEBVOX:START -->
 
-# One Mode, One Online Door. 🚪
+# One Mode, One Online Door. 🚪!
 
 The idea can be extended across the Cognitive Modes.
 
@@ -281,7 +281,7 @@ The user starts locally in PlebMachine and can then step outward into the matchi
 
 <!-- PLEBVOX:START -->
 
-# One Ecosystem, Different Jobs. 🔗
+# One Ecosystem, Different Jobs. 🔗!
 
 The roles are deliberately simple.
 
@@ -301,7 +301,7 @@ Each part has a different job, but they are designed to work together.
 
 <!-- PLEBVOX:START -->
 
-# The Linux Laboratory. 🧪
+# The Linux Laboratory. 🧪!
 
 PlebMachine is also being tested on different Linux distributions.
 
@@ -317,7 +317,7 @@ Each Linux distribution will also be used, explored and reviewed on its own meri
 
 <!-- PLEBVOX:START -->
 
-# A Linux Review With a Difference. 🔬
+# A Linux Review With a Difference. 🔬!
 
 Each distribution can answer two questions.
 
@@ -337,7 +337,7 @@ The results can help us understand what PlebMachine needs to support more deskto
 
 <!-- PLEBVOX:START -->
 
-# One Brain, Different Desktops. 🧠
+# One Brain, Different Desktops. 🧠!
 
 Today, PlebMachine is centred on Xfce.
 
@@ -359,7 +359,7 @@ Only the desktop-specific machinery changes.
 
 <!-- PLEBVOX:START -->
 
-# The Simple Idea Behind Everything. ❤️
+# The Simple Idea Behind Everything. ❤️!
 
 Technology often asks people to learn how the computer works.
 
@@ -375,7 +375,7 @@ The computer should help you get to work instead of making you rebuild your work
 
 <!-- PLEBVOX:START -->
 
-# So, What the Hell Is PlebMachine? 😄
+# So, What the Hell Is PlebMachine? 😄!
 
 PlebMachine is a **computer organiser**.
 
@@ -399,7 +399,7 @@ Not the other way around.
 
 <!-- PLEBVOX:START -->
 
-# The Journey Continues. 🚀
+# The Journey Continues. 🚀!
 
 PlebMachine 1.30.08.26 is a milestone, not the end of the story.
 
