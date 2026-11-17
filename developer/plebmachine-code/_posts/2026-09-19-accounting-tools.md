@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Accounting Tools"
+title: "Accounting Tools!"
 date: 2026-09-19
 ---
 
 <!-- PLEBVOX:START -->
-# Mode-Specific Tool for Accounting
+# Mode-Specific Tool for Accounting!
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-# Script Breakdown: `accounting-tools.sh` (Accounting Mode Tool Dispatcher)
+# Script Breakdown: `accounting-tools.sh` (Accounting Mode Tool Dispatcher)!
 
 This documentation focuses on the **Accounting** mode execution flow within the unified **PlebMachine** tool dispatcher script. When invoked via `accounting-tools.sh` (or symlinked equivalent), the script dynamically resolves `$MODE` to `accounting` and handles application launching based on the active system state.
 
@@ -16,7 +16,7 @@ This documentation focuses on the **Accounting** mode execution flow within the 
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Key Functionality
+## Key Functionality!
 
 * **Environment Initialization:** Exports essential GUI environment variables (`DISPLAY`, `XAUTHORITY`, and `GDK_BACKEND=x11`) to enable background process execution of graphical windows.
 * **Mode Parsing:** Extracts `accounting` from the script's filename by stripping `.sh` and `-tools` suffixes using Bash parameter expansion (`${SCRIPT_NAME%-tools}`).
@@ -29,7 +29,7 @@ This documentation focuses on the **Accounting** mode execution flow within the 
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Accounting Mode Configuration
+## Accounting Mode Configuration!
 
 <!-- PLEBVOX:END -->
 | Setting / Target | Assigned Command / Choice | Purpose |
@@ -41,18 +41,18 @@ This documentation focuses on the **Accounting** mode execution flow within the 
 ---
 
 <!-- PLEBVOX:START -->
-## Dependencies
+## Dependencies!
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Core Utilities
+### Core Utilities!
 * **`bash`**: Required for array splitting (`read -ra`), string trimming, and control structures.
 * **`grep`, `cut`, `tr`, `xargs`**: Utilities used to parse settings from `state.conf`.
 * **`zenity`**: Provides GTK dialog windows for `COGNITIVE` mode checklists.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Binary Dependencies (Accounting Context)
+### Binary Dependencies (Accounting Context)!
 * **`gnucash`**: Financial accounting software binary.
 * **`firefox`**: Standard web browser binary.
 
@@ -188,7 +188,7 @@ done
 ---
 
 <!-- PLEBVOX:START -->
-## Review — 2026-09-20
+## Review — 2026-09-20!
 
 **Review subject:** Accounting Tools
 
