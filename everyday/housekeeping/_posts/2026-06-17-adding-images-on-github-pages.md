@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Adding Images On GitHub Pages"
+title: "Adding Images On GitHub Pages!"
 date: 2026-06-17
 ---
 
 <!-- PLEBVOX:START -->
 
-# Embedding Centred Images In GitHub Pages Markdown
+# Embedding Centred Images In GitHub Pages Markdown!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Introduction
+## 🔑 Introduction!
 
 When creating articles for GitHub Pages with Jekyll, images can be stored inside your project and displayed inside Markdown posts.
 
@@ -30,7 +30,7 @@ This tutorial shows how to:
 
 <!-- PLEBVOX:START -->
 
-# Step One: Create Your Image Folder
+# Step One: Create Your Image Folder!
 
 Inside your GitHub Pages repository, create:
 
@@ -61,7 +61,7 @@ plebware.github.io
 
 <!-- PLEBVOX:START -->
 
-# Step Two: Upload Your Image
+# Step Two: Upload Your Image!
 
 Place your image inside:
 
@@ -81,7 +81,7 @@ assets/images/StickerCreation.jpg
 
 <!-- PLEBVOX:START -->
 
-# Step Three: Open Your Markdown Post
+# Step Three: Open Your Markdown Post!
 
 A Jekyll post begins with front matter:
 
@@ -101,7 +101,7 @@ The front matter must always be at the top.
 
 <!-- PLEBVOX:START -->
 
-# Step Four: Add A Centered Image
+# Step Four: Add A Centered Image!
 
 Immediately after the front matter add:
 
@@ -121,7 +121,7 @@ Immediately after the front matter add:
 
 <!-- PLEBVOX:START -->
 
-# Step Five: Add Your Article Content
+# Step Five: Add Your Article Content!
 
 Example:
 
@@ -155,13 +155,13 @@ Prompt ChatGPT with:
 
 <!-- PLEBVOX:START -->
 
-# Understanding The Code
+# Understanding The Code!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Image Location
+## Image Location!
 
 ```html
 src="/assets/images/StickerCreation.jpg"
@@ -185,7 +185,7 @@ Website Root
 
 <!-- PLEBVOX:START -->
 
-## Alternative Jekyll Method
+## Alternative Jekyll Method!
 
 For better compatibility with GitHub Pages themes:
 
@@ -205,7 +205,7 @@ This automatically handles:
 
 <!-- PLEBVOX:START -->
 
-# Resize The Image
+# Resize The Image!
 
 Large image:
 
@@ -231,7 +231,7 @@ style="max-width:300px;"
 
 <!-- PLEBVOX:START -->
 
-# Adding A Caption
+# Adding A Caption!
 
 ```html
 <div align="center">
@@ -253,13 +253,13 @@ style="max-width:600px;">
 
 <!-- PLEBVOX:START -->
 
-# Common Problems
+# Common Problems!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Image Not Showing
+## Image Not Showing!
 
 Check:
 
@@ -283,7 +283,7 @@ Linux is case-sensitive.
 
 <!-- PLEBVOX:START -->
 
-## Wrong Folder
+## Wrong Folder!
 
 Incorrect:
 
@@ -303,7 +303,7 @@ assets/images/StickerCreation.jpg
 
 <!-- PLEBVOX:START -->
 
-## Broken Link
+## Broken Link!
 
 Try:
 
@@ -323,7 +323,7 @@ instead of:
 
 <!-- PLEBVOX:START -->
 
-# Quick Template
+# Quick Template!
 
 Copy this:
 
@@ -343,7 +343,7 @@ style="max-width:600px; height:auto;">
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Result
+## 🔑 Result!
 
 You now have a clean GitHub Pages article with:
 
