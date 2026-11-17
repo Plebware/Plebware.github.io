@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Otto’s Technical Autobiography — My Development Journals"
+title: "Otto’s Technical Autobiography — My Development Journals!"
 date: 2026-10-19
 description: "A personal look back at seven projects spanning electronics, plumbing, carpentry, kitchen organisation, cake decorating, and vehicle security."
 author: Otto Brinkmeier
