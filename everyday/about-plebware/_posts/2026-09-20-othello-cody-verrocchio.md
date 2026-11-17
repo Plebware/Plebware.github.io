@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Many Faces of Cody"
+title: "The Many Faces of Cody!"
 date: 2026-09-20
 description: "Meet the creative identities of Otto Brinkmeier, from Othello Cody Verrocchio and Christian writing to journalism, technology, music, gaming, and everyday life."
 category: "about-plebware"
@@ -11,7 +11,7 @@ author: "Otto Brinkmeier"
 
 <!-- PLEBVOX:START -->
 
-# One Creator, Many Identities
+# One Creator, Many Identities!
 
 I am one person, but my interests have never fitted neatly into a single box.
 
@@ -25,7 +25,7 @@ My legal name is Otto Wilhelm Friedrich Brinkmeier. Some people know me as Otto.
 
 Behind them all is the same human being.
 
-## How Othello Cody Verrocchio Began
+## How Othello Cody Verrocchio Began?
 
 Othello Cody Verrocchio became my principal literary identity.
 
@@ -37,35 +37,35 @@ Othello Cody Verrocchio gives my literary work a recognisable identity — a nam
 
 But Othello is only one part of the picture.
 
-## Meet the Creative Identities
+## Meet the Creative Identities!
 
 Each name below represents a particular interest or working role. The boundaries are not absolute; creative work often crosses from one field into another.
 
-### Othello Cody Verrocchio — Fiction Writer and Storyteller
+### Othello Cody Verrocchio — Fiction Writer and Storyteller!
 
 My principal literary identity.
 
 Othello is the storyteller: the identity associated with fiction, imaginative worlds, philosophical questions, and the exploration of ideas through narrative.
 
-### Cody Dei Scriptor — Christian Writer
+### Cody Dei Scriptor — Christian Writer!
 
 The name I use for Christian writing, including reflections on faith, Scripture, discipleship, and the practical application of Christian belief.
 
 The work is intended to explore faith honestly and encourage readers to think about how belief shapes everyday life.
 
-### Captain Cody Gemini — News and Site Reports
+### Captain Cody Gemini — News and Site Reports!
 
 A reporting identity used for PlebWare news, site developments, project updates, and journalistic-style dispatches.
 
 The captain's log is a fitting format for documenting a continuing journey: what has happened, what is being built, what has changed, and what comes next.
 
-### Cody Veritas — Journalism and the Search for Truth
+### Cody Veritas — Journalism and the Search for Truth!
 
 A professional journalistic identity centred on investigation, truth-seeking, and careful examination of claims.
 
 The name Veritas evokes truth. It serves as a reminder that reporting should distinguish between what is known, what is believed, and what still needs to be verified.
 
-### Dei Interretialis — Web Design and Development
+### Dei Interretialis — Web Design and Development!
 
 An early web-development identity, associated with the diploma designation **Dip. WBDM**.
 
@@ -73,13 +73,13 @@ This identity belongs to the world of websites, coding, digital construction, an
 
 It reflects the practical side of my long-running interest in technology.
 
-### Lazar Cody Mendicant — Business Thinker and Strategist
+### Lazar Cody Mendicant — Business Thinker and Strategist!
 
 An identity for business thinking, correspondence, strategy, and the practical questions involved in making an idea sustainable.
 
 Ideas need imagination, but they also need planning, resources, and a realistic understanding of what can be achieved.
 
-### Anton Cody Forgewright — Artisan and Craftsman
+### Anton Cody Forgewright — Artisan and Craftsman!
 
 The maker and teacher.
 
@@ -87,29 +87,29 @@ This identity represents hands-on work, practical skills, craftsmanship, repair,
 
 Not everything valuable happens on a computer screen.
 
-### Cody Cr@zy Otto — Music Reviewer and Composer
+### Cody Cr@zy Otto — Music Reviewer and Composer!
 
 The musical side of my creative life: listening, reviewing, composing, and exploring the ideas and emotions that music can communicate.
 
-### Cody Gamehead — Gaming Critic and Enthusiast
+### Cody Gamehead — Gaming Critic and Enthusiast!
 
 The identity associated with gaming, game criticism, and the enjoyment and examination of games as creative and technical products.
 
 Games can be entertainment, but they can also be examined for their design, storytelling, mechanics, and cultural influence.
 
-### Federico Cody Brincheri — Cook and Culinary Experimenter
+### Federico Cody Brincheri — Cook and Culinary Experimenter!
 
 The kitchen has its own kind of workshop.
 
 This identity represents cooking, trying recipes, experimenting with ingredients, and learning through the practical process of preparing food.
 
-### Wilhelm Cody Spotchandler — Cleaner of Spaces
+### Wilhelm Cody Spotchandler — Cleaner of Spaces!
 
 A name for the work of organising and cleaning both physical and digital spaces.
 
 There is satisfaction in making a cluttered environment more usable, whether that means tidying a room, organising files, or improving the structure of a website.
 
-### Cody Vox Scriptorius — Blogger and Podcast Host
+### Cody Vox Scriptorius — Blogger and Podcast Host!
 
 The voice of blogging, spoken content, and podcast-style communication.
 
@@ -117,7 +117,7 @@ Writing is one way to share an idea. Speaking it aloud can make it accessible in
 
 This identity fits the work of turning thoughts and experiences into content that people can read or listen to.
 
-### Aurelian Cody Vectorius — Driver and Road Observer
+### Aurelian Cody Vectorius — Driver and Road Observer!
 
 The driver who carries stories from the road.
 
@@ -125,7 +125,7 @@ Everyday journeys bring encounters, observations, problems, and experiences that
 
 The road is not separate from life. It is one of the places where life happens.
 
-### Dominus Cody Praefector — Retired Team Leader and Project Foreman
+### Dominus Cody Praefector — Retired Team Leader and Project Foreman!
 
 The organiser and former team leader: the person concerned with coordinating people, managing work, and helping a project move from intention to completion.
 
@@ -147,7 +147,7 @@ They also remind me that a person can have several interests without needing to 
 
 The identities are not competing for ownership of my life. They are different ways of organising the work I do.
 
-## One Person Behind the Names
+## One Person Behind the Names!
 
 It is important to be clear about this.
 
@@ -169,7 +169,7 @@ Anton Cody Forgewright can turn to practical craftsmanship.
 
 Each name gives a particular part of my work a place to belong.
 
-## How This Connects to PlebWare
+## How This Connects to PlebWare?
 
 PlebWare brings together many of my interests: writing, learning, technology, research, creativity, and experimentation.
 
@@ -183,7 +183,7 @@ The tools change. The subjects change. The names sometimes change.
 
 The person behind the work remains.
 
-## The Full Mosaic
+## The Full Mosaic!
 
 Every persona carries a piece of me.
 
