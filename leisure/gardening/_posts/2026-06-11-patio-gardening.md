@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: "Patio Gardening"
+title: "Patio Gardening!"
 date: 2026-06-11
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🌱 Patio Gardening: Growing Food in Pots and Cardboard Boxes
+# 🌱 Patio Gardening: Growing Food in Pots and Cardboard Boxes!
 
 One of the wonderful things about gardening is that you do not need a large farm, a sprawling backyard, or expensive equipment to grow food.
 
@@ -40,7 +40,7 @@ Even a few containers can provide a surprising harvest.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Gardening on a Budget
+## 🔑 Gardening on a Budget!
 
 One of the goals of this project is to explore low-cost gardening methods.
 
@@ -59,7 +59,7 @@ Gardening does not have to be expensive to be rewarding.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Growing Herbs in Containers
+## 🔑 Growing Herbs in Containers!
 
 Herbs are often the easiest place to begin.
 
@@ -82,7 +82,7 @@ A small collection of herbs can transform home cooking while reducing trips to t
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Potatoes in Cardboard Boxes
+## 🔑 Potatoes in Cardboard Boxes!
 
 One of the projects I am particularly interested in documenting is growing potatoes in cardboard boxes.
 
@@ -105,7 +105,7 @@ Future articles will follow this process from planting through harvest.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 What to Expect in This Gardening Series
+## 🔑 What to Expect in This Gardening Series!
 
 This section will serve as a practical gardening journal.
 
@@ -129,7 +129,7 @@ Not every experiment will be successful, but every experiment should teach somet
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Learning Through Experience
+## 🔑 Learning Through Experience!
 
 Gardening is one of the few hobbies that rewards patience.
 
@@ -149,7 +149,7 @@ Often all that is required is a container, some soil, a seed, and the willingnes
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Looking Ahead
+## 🔑 Looking Ahead!
 
 The journey starts with a few pots, a few boxes, and a willingness to experiment.
 
