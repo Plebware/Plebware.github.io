@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "A Refurbished Propshaft"
+title: "A Refurbished Propshaft!"
 date: 2026-06-25
 ---
 
 <!-- PLEBVOX:START -->
 
-# 📰 News Report From Propshaft & CV Joint Service
+# 📰 News Report From Propshaft & CV Joint Service!
 
 **11 Booysens Road — Johannesburg**
 
