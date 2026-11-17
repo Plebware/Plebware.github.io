@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Today the Gas Died"
+title: "Today the Gas Died!"
 date: 2026-06-23
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔥 When the Flame Went Out
+# 🔥 When the Flame Went Out!
 
 ```
 The kettle stood in silence still,
