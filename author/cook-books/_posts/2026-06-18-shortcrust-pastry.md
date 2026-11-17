@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shortcrust Pastry"
+title: "Shortcrust Pastry!"
 date: 2026-06-18
 ---
 
@@ -8,7 +8,7 @@ date: 2026-06-18
 
 <div align="center">
 
-# 🥧 Shortcrust Pastry
+# 🥧 Shortcrust Pastry!
 
 </div>
 
@@ -16,7 +16,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🥘 Ingredients
+## 🥘 Ingredients!
 
 - 🌾 1 Cup Flour
 - 🥄 1 Teaspoon Baking Powder
@@ -29,7 +29,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 👩‍🍳 Method
+## 👩‍🍳 Method!
 
 1. Place the flour and baking powder into a mixing bowl.
 2. Add the egg yolk, butter, and water.
@@ -42,7 +42,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Tips
+## 🔑 Tips!
 
 - ❄️ For best results, keep the butter cold before mixing.
 - 🥧 Handle the dough as little as possible to keep the pastry light and flaky.
