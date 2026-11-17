@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Building a Self-Mapping PlebWare Website"
+title: "Building a Self-Mapping PlebWare Website!"
 description: "A practical development report on the latest PlebWare website improvements: the 12-mode dashboard, dynamic Jekyll/Liquid reporting, Index integration, and the lessons learned while automating the site's structure."
 tags:
   - "PlebWare"
