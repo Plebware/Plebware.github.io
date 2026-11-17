@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Living on a Small Income: A Daily Budget for a Family of Two"
+title: "Living on a Small Income: A Daily Budget for a Family of Two!"
 date: 2026-06-11
 ---
 
@@ -12,7 +12,7 @@ title: "Budgeting on R7,800 per Month: Real Numbers from Our Household"
 date: 2026-06-11
 ---
 
-# 💰 Budgeting on R7,800 per Month: Real Numbers from Our Household
+# 💰 Budgeting on R7,800 per Month: Real Numbers from Our Household!
 
 There are many articles about budgeting, but few discuss what budgeting looks like when every Rand has a purpose.
 
@@ -24,7 +24,7 @@ Our total monthly income is approximately **R7,800**.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Fixed Monthly Expenses
+## 🔑 Fixed Monthly Expenses!
 
 Before buying food or toiletries, several essential expenses must be paid.
 
@@ -46,7 +46,7 @@ for food, toiletries, and everything else.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Why We Prioritize Internet
+## 🔑 Why We Prioritize Internet!
 
 Some people view internet access as a luxury.
 
@@ -66,7 +66,7 @@ In the modern world, internet access is increasingly becoming a necessity rather
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Our Cat Is Family
+## 🔑 Our Cat Is Family!
 
 Many households have pets.
 
@@ -78,7 +78,7 @@ The monthly cat food budget may seem high to some readers, but responsible pet o
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Living on What Remains
+## 🔑 Living on What Remains!
 
 After fixed expenses, the remaining R3,150 must cover:
 
@@ -100,7 +100,7 @@ for the entire household.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Making Every Rand Count
+## 🔑 Making Every Rand Count!
 
 When income is limited, success often depends less on how much money comes in and more on how carefully it is managed.
 
@@ -116,7 +116,7 @@ Strategies that help include:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Final Thoughts
+## 🔑 Final Thoughts!
 
 Living on a modest income requires discipline, planning, and realistic expectations.
 
