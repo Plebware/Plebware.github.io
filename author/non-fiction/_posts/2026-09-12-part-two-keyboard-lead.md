@@ -9,7 +9,7 @@ date: 2026-09-12
 
 <!-- PLEBVOX:START -->
 
-# Part Two
+# Part Two!
 
 ## What Happens When I Let the Keyboard Lead?
 
@@ -21,7 +21,7 @@ I am going to start writing without deciding what I am going to write about.
 
 <!-- PLEBVOX:START -->
 
-## Toothache and Victory or Death
+## Toothache and Victory or Death!
 
 Jullian is suffering from immense toothache, and as a result I ran across the road to source some Granpa pain powders.
 
@@ -41,7 +41,7 @@ Now that I am back at the keyboard, I am wondering what on earth the EFF is sayi
 
 <!-- PLEBVOX:START -->
 
-## No, I Refuse To Focus On Stupidity
+## No, I Refuse To Focus On Stupidity!
 
 That means no reflecting on Kakistocracies, Kleptocracies, nor any other political nuances.
 
@@ -61,7 +61,7 @@ I am a commoner, and it is only befitting that I become the founder of PlebWare.
 
 <!-- PLEBVOX:START -->
 
-## The Difference Between Thinking And Writing
+## The Difference Between Thinking And Writing!
 
 Thinking often requires memory recall.
 
@@ -79,7 +79,7 @@ So the quality of authentic creative writing is directly proportional to genuine
 
 <!-- PLEBVOX:START -->
 
-## Electrical Trade Theory's Influence On The Pen
+## Electrical Trade Theory's Influence On The Pen!
 
 As seen above in Otto's Law of Creative Writing, Ohm's Law had an effect.
 
@@ -93,7 +93,7 @@ I am always game for a challenge, and what started out as a challenge to write w
 
 <!-- PLEBVOX:START -->
 
-## Down The Rabbit Hole, And Poof, We Are In The Land Of Oz
+## Down The Rabbit Hole, And Poof, We Are In The Land Of Oz!
 
 Okay, that is cheesy.
 
@@ -109,7 +109,7 @@ Perhaps I should submit another article to *Everyday AI Magazine*, about how to 
 
 <!-- PLEBVOX:START -->
 
-## The End — Or Just The Beginning
+## The End — Or Just The Beginning!
 
 Well, to conclude tonight's experiment, I will say we have reached the End.
 
