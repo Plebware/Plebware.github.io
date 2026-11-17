@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Federico Cody Brincheri – Cook and Culinary Experimenter"
+title: "Federico Cody Brincheri – Cook and Culinary Experimenter!"
 date: 2026-06-11
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🍳 AI Chef 
+# 🍳 AI Chef! 
 
 Every craftsman has a workshop.
 
@@ -24,7 +24,7 @@ While many know me as a writer, a handyman, a railway electrician, or a develope
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Kitchen Laboratory
+## 🔑 The Kitchen Laboratory!
 
 To me, cooking has never been merely about preparing food.
 
@@ -48,7 +48,7 @@ A few become family favourites that remain part of the menu for years.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Cooking on a Budget
+## 🔑 Cooking on a Budget!
 
 Like many South Africans, I understand the challenge of making a limited budget stretch.
 
@@ -65,7 +65,7 @@ A bag of potatoes, rice, onions, and a few simple ingredients can produce an imp
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Joy of Experimentation
+## 🔑 The Joy of Experimentation!
 
 Not every recipe begins in a cookbook.
 
@@ -89,23 +89,23 @@ It transforms an everyday necessity into an enjoyable hobby.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Lessons Learned from Cooking
+## 🔑 Lessons Learned from Cooking!
 
 Cooking teaches valuable life lessons.
 
-### Patience
+### Patience!
 
 Good food often takes time.
 
-### Adaptability
+### Adaptability!
 
 Sometimes ingredients are unavailable and substitutes must be found.
 
-### Observation
+### Observation!
 
 Small changes can dramatically affect the final result.
 
-### Simplicity
+### Simplicity!
 
 The best meals are often the simplest.
 
@@ -113,7 +113,7 @@ The best meals are often the simplest.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Home Cooking Is About More Than Food
+## 🔑 Home Cooking Is About More Than Food!
 
 A home-cooked meal provides more than nourishment.
 
@@ -130,7 +130,7 @@ Some of life's most meaningful moments occur around a dining table.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 What You Can Expect Here
+## 🔑 What You Can Expect Here!
 
 This section of the site will feature:
 
@@ -148,7 +148,7 @@ Because every culinary experiment, successful or otherwise, teaches something us
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Final Thoughts
+## 🔑 Final Thoughts!
 
 I am not a celebrity chef.
 
