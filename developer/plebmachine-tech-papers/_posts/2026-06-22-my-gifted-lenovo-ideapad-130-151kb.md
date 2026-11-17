@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "My Gifted Lenovo IdeaPad 130-15IKB"
+title: "My Gifted Lenovo IdeaPad 130-15IKB!"
 date: 2026-06-22
 ---
 
 <!-- PLEBVOX:START -->
 
-# 💻 My Gifted Lenovo IdeaPad 130-15IKB
+# 💻 My Gifted Lenovo IdeaPad 130-15IKB!
 
 One of the most significant hardware gifts I have received is my **Lenovo IdeaPad 130-15IKB**, which currently carries the computer name **PLEBMACHINE**.
 
@@ -18,7 +18,7 @@ Although not a gaming machine, it provides an excellent balance between performa
 
 <!-- PLEBVOX:START -->
 
-# 🖥️ System Overview
+# 🖥️ System Overview!
 
 | Component | Specification |
 |------------|---------------|
@@ -34,11 +34,11 @@ Although not a gaming machine, it provides an excellent balance between performa
 
 <!-- PLEBVOX:START -->
 
-# ⚡ Processor
+# ⚡ Processor!
 
 At the heart of the system is an **Intel Core i7-8550U** processor.
 
-### 🔑 Specifications
+### 🔑 Specifications!
 
 - 8th Generation Intel Core Processor
 - Architecture: Kaby Lake-R
@@ -63,7 +63,7 @@ This processor delivers more than enough performance for:
 
 <!-- PLEBVOX:START -->
 
-# 🧠 Memory
+# 🧠 Memory!
 
 The system contains:
 
@@ -73,7 +73,7 @@ The system contains:
   - 8 GB Kingmax DDR4
   - PC21300 specification
 
-### Benefits
+### Benefits!
 
 ✅ Smooth multitasking
 
@@ -91,9 +91,9 @@ The system contains:
 
 <!-- PLEBVOX:START -->
 
-# 🎮 Graphics
+# 🎮 Graphics!
 
-### Intel UHD Graphics 620
+### Intel UHD Graphics 620!
 
 The laptop uses integrated Intel graphics.
 
@@ -118,16 +118,16 @@ Ideal for:
 
 <!-- PLEBVOX:START -->
 
-# 💾 Storage
+# 💾 Storage!
 
-### Kingmax 240 GB SSD
+### Kingmax 240 GB SSD!
 
 The machine is equipped with a:
 
 - 240 GB SATA SSD
 - SATA III 6 Gb/s interface
 
-### Advantages
+### Advantages!
 
 🚀 Fast boot times
 
@@ -145,9 +145,9 @@ The SSD provides a significant improvement over traditional mechanical hard driv
 
 <!-- PLEBVOX:START -->
 
-# 🔊 Audio
+# 🔊 Audio!
 
-### Intel High Definition Audio
+### Intel High Definition Audio!
 
 The integrated audio controller provides:
 
@@ -162,13 +162,13 @@ The integrated audio controller provides:
 
 <!-- PLEBVOX:START -->
 
-# 🌐 Networking
+# 🌐 Networking!
 
-### Wired Network
+### Wired Network!
 
 - Realtek RTL8101/2/3 Fast Ethernet Controller
 
-### Wireless Network
+### Wireless Network!
 
 - Realtek RTL8821CE Wireless Adapter
 - 802.11ac Wi-Fi support
@@ -186,7 +186,7 @@ This combination allows:
 
 <!-- PLEBVOX:START -->
 
-# 🐧 Potential as a Linux Workstation
+# 🐧 Potential as a Linux Workstation!
 
 The Lenovo IdeaPad 130-15IKB is particularly attractive as a Linux workstation because of:
 
@@ -212,7 +212,7 @@ It is well suited for:
 
 <!-- PLEBVOX:START -->
 
-# 🚀 PlebMachine Potential
+# 🚀 PlebMachine Potential!
 
 As a dedicated **PlebMachine** development platform, this laptop provides:
 
@@ -231,7 +231,7 @@ Its combination of an **Intel Core i7-8550U**, **12 GB RAM**, and **SSD storage*
 
 <!-- PLEBVOX:START -->
 
-# 🎯 Final Thoughts
+# 🎯 Final Thoughts!
 
 While newer hardware exists, this gifted Lenovo IdeaPad remains a highly practical machine. Its balance of performance, efficiency, and reliability makes it an excellent platform for writing, publishing, Linux experimentation, and the continued growth of the PlebMachine ecosystem.
 
