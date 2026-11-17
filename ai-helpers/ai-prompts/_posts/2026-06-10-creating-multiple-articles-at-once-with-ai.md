@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Creating Multiple Articles at Once with AI"
+title: "Creating Multiple Articles at Once with AI!"
 date: 2026-06-10
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Creating Multiple Articles at Once with AI
+# 🔑 Creating Multiple Articles at Once with AI!
 
 One of the most interesting experiments I've attempted recently involved creating multiple pieces of content simultaneously using artificial intelligence.
 
@@ -18,7 +18,7 @@ Rather because I wanted to see whether a single afternoon could produce several 
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Challenge
+## 🔑 The Challenge!
 
 The challenge was simple:
 
@@ -36,7 +36,7 @@ Instead, I decided to generate all three from the same real-world experience.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Setup
+## 🔑 The Setup!
 
 While working, several activities were happening simultaneously:
 
@@ -53,7 +53,7 @@ Each activity generated ideas that could be transformed into content.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Using AI as a Writing Assistant
+## 🔑 Using AI as a Writing Assistant!
 
 My preferred writing assistant remains ChatGPT.
 
@@ -74,7 +74,7 @@ The AI helps assemble the pieces.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 A Real Example Prompt
+## 🔑 A Real Example Prompt!
 
 A useful approach is simply to record events as they happen:
 
@@ -86,7 +86,7 @@ From a single collection of notes, multiple articles can be produced.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Unexpected Result
+## 🔑 The Unexpected Result!
 
 The most surprising outcome was not the number of articles created.
 
@@ -104,17 +104,17 @@ One afternoon generated content for three different sections of the website.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Lessons Learned
+## 🔑 Lessons Learned!
 
-### 🔑 Lesson 1: Capture Everything
+### 🔑 Lesson 1: Capture Everything!
 
 Interesting articles often begin as simple notes.
 
-### 🔑 Lesson 2: AI Works Best with Real Experiences
+### 🔑 Lesson 2: AI Works Best with Real Experiences!
 
 The more authentic the source material, the better the final article.
 
-### 🔑 Lesson 3: Think in Categories
+### 🔑 Lesson 3: Think in Categories!
 
 One experience can generate content for multiple sections:
 
@@ -124,7 +124,7 @@ One experience can generate content for multiple sections:
 * Writing
 * Productivity
 
-### 🔑 Lesson 4: Publish Consistently
+### 🔑 Lesson 4: Publish Consistently!
 
 Many small articles published regularly often outperform waiting months for a single perfect article.
 
@@ -132,7 +132,7 @@ Many small articles published regularly often outperform waiting months for a si
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Final Thoughts
+## 🔑 Final Thoughts!
 
 The experiment was a success.
 
