@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "🎙️ Othello's AI Blog Casts"
+title: "🎙️ Othello's AI Blog Casts!"
 date: 2026-06-30
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🎙️ Othello's AI Blog Casts
+# 🎙️ Othello's AI Blog Casts!
 
 Welcome to **Othello's AI Blog Casts**—a place where curiosity meets technology, and ideas are explored one conversation at a time.
 
@@ -26,13 +26,13 @@ So, grab a cup of coffee ☕, settle in, and join me as we explore the ever-evol
 
 <!-- PLEBVOX:START -->
 
-# 🎧 Available AI Blog Casts
+# 🎧 Available AI Blog Casts!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🎙️ Deep Dive into Otto Brinkmeier
+## 🎙️ Deep Dive into Otto Brinkmeier!
 
 **🔗 Article:**  
 https://www.othelloverrocchio.co.za/latest-news/othellos-ai-blog-casts#h.s8iqubvgv9nr
@@ -55,7 +55,7 @@ Powered by **Google Gemini**
 
 <!-- PLEBVOX:START -->
 
-## 🎙️ Deep Dive into Digital Authenticity
+## 🎙️ Deep Dive into Digital Authenticity!
 
 **🔗 Article:**  
 https://www.othelloverrocchio.co.za/latest-news/othellos-ai-blog-casts#h.mwi2goi1nphe
@@ -78,7 +78,7 @@ Powered by **Google Gemini**
 
 <!-- PLEBVOX:START -->
 
-## 🎙️ Deep Dive into The Bombed Shoulder
+## 🎙️ Deep Dive into The Bombed Shoulder!
 
 **🔗 Article:**  
 https://www.othelloverrocchio.co.za/latest-news/othellos-ai-blog-casts#h.yjwnrpmluimr
