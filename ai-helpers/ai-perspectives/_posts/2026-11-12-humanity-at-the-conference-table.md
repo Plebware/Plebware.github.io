@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Humanity, Faith and Artificial Intelligence — A PlebWare Conversation"
+title: "Humanity, Faith and Artificial Intelligence — A PlebWare Conversation!"
 date: 2026-11-12
 categories: [ai-helpers, ai-perspectives]
 permalink: /ai-helpers/ai-perspectives/2026/11/12/humanity-at-the-conference-table/
