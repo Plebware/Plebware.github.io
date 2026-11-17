@@ -47,7 +47,7 @@ That is often the quickest way to find it.
 
 <!-- PLEBVOX:START -->
 
-## Step 1 — Open Settings
+## Step 1 — Open Settings!
 
 Open your Android phone's **Settings**.
 
@@ -59,7 +59,7 @@ Don't change anything yet. We are simply finding our way around.
 
 <!-- PLEBVOX:START -->
 
-## Step 2 — Find Text-to-Speech
+## Step 2 — Find Text-to-Speech!
 
 On many Android devices, Text-to-Speech can be found under:
 
@@ -77,7 +77,7 @@ You may also find the words **TTS** or **Speech**.
 
 <!-- PLEBVOX:START -->
 
-## Step 3 — Choose The Speech Engine
+## Step 3 — Choose The Speech Engine!
 
 You may see an option called **Preferred engine** or **Text-to-Speech engine**.
 
@@ -93,7 +93,7 @@ We will look at choosing and installing voices in Lesson 5.
 
 <!-- PLEBVOX:START -->
 
-## Step 4 — Choose Your Language
+## Step 4 — Choose Your Language!
 
 Choose the language you want your phone to speak.
 
@@ -112,7 +112,7 @@ If the language you want is missing, look for an option to **Install voice data*
 
 <!-- PLEBVOX:START -->
 
-## Step 5 — Choose A Voice
+## Step 5 — Choose A Voice!
 
 Some Android phones allow you to choose between different voices.
 
@@ -126,7 +126,7 @@ The best voice is the one you can understand easily.
 
 <!-- PLEBVOX:START -->
 
-## Step 6 — Adjust The Speech Rate
+## Step 6 — Adjust The Speech Rate!
 
 **Speech rate** controls how quickly the phone speaks.
 
@@ -140,7 +140,7 @@ For learning, reading articles, or listening while doing other things, a comfort
 
 <!-- PLEBVOX:START -->
 
-## Step 7 — Adjust The Pitch
+## Step 7 — Adjust The Pitch!
 
 **Pitch** controls how high or low the voice sounds.
 
@@ -152,7 +152,7 @@ If the voice sounds uncomfortable, experiment with the pitch until it sounds nat
 
 <!-- PLEBVOX:START -->
 
-## Step 8 — Press Play
+## Step 8 — Press Play!
 
 Most Android TTS settings provide a **Play** or **Listen** button.
 
@@ -185,7 +185,7 @@ Very often, the phone is working perfectly — the sound is simply going somewhe
 
 <!-- PLEBVOX:START -->
 
-## Step 9 — Make Android Read Something Useful
+## Step 9 — Make Android Read Something Useful!
 
 Getting the TTS engine working is only half the job.
 
@@ -199,7 +199,7 @@ We will spend more time on practical reading in **Lesson 6 — Making Your Phone
 
 <!-- PLEBVOX:START -->
 
-## TTS And TalkBack Are Not The Same Thing
+## TTS And TalkBack Are Not The Same Thing!
 
 This is important.
 
@@ -215,7 +215,7 @@ We will deal with screen readers properly in **Lesson 7**.
 
 <!-- PLEBVOX:START -->
 
-## Android TTS Checklist
+## Android TTS Checklist!
 
 Before moving on, see how many of these you can tick off:
 
@@ -251,7 +251,7 @@ The goal is to find the speech controls on **your** phone.
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Principle
+## The PlebWare Principle!
 
 Technology should work for ordinary people.
 
@@ -267,7 +267,7 @@ We troubleshoot one step at a time.
 
 <!-- PLEBVOX:START -->
 
-## Next Lesson
+## Next Lesson!
 
 In **Lesson 3 — Samsung Galaxy**, we will look specifically at Samsung phones and the places where Samsung normally puts its text-to-speech controls.
 
