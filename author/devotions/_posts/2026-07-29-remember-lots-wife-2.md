@@ -1,7 +1,12 @@
 ---
 layout: post
+layout: post
 title: "Remember Lot's Wife - 2"
 date: 2026-07-29
+category: "devotions"
+tags: [warning, conviction, after-life, hell, death, christian, sanctification]
+mode: "author"
+author: Otto Brinkmeier
 ---
 
 <!-- PLEBVOX:START -->
