@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Plebware: The Jekyll And Hyde Factor"
+title: "Plebware: The Jekyll And Hyde Factor!"
 date: 2026-08-10
 ---
 
 
-# 🔑 Plebware: The Jekyll and Hyde We Have Become
+# 🔑 Plebware: The Jekyll and Hyde We Have Become!
 
 <img src="{{ '/assets/images/the-hyde-within.webp' | relative_url }}" 
      alt="PlebWare Sweating Mountain Cartoon - The Journey of Climbing Life's Challenges"
@@ -52,7 +52,7 @@ But an idea is considerably harder to kill.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🧪 The Formula
+## 🧪 The Formula!
 
 That is where the Jekyll metaphor begins to make sense.
 
@@ -81,7 +81,7 @@ The domain was only an address.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 👤 The Hyde Within
+## 👤 The Hyde Within!
 
 But there is another side to the story.
 
@@ -114,7 +114,7 @@ But that voice has not won.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔨 Shoulders to the Wheel
+## 🔨 Shoulders to the Wheel!
 
 Because here we are.
 
@@ -149,7 +149,7 @@ What began as an idea years ago has become something considerably larger than a 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## ⚙️ We Are Still Here
+## ⚙️ We Are Still Here!
 
 That is what the six-panel comic is really about.
 
@@ -186,7 +186,7 @@ Still believing that something worthwhile can come from difficult circumstances.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🕯️ The Real Plebware
+## 🕯️ The Real Plebware!
 
 So perhaps the lesson of our Jekyll and Hyde story is this:
 
