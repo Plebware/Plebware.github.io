@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anger, Oh Anger"
+title: "Anger, Oh Anger!"
 date: 2026-07-16
 category: "poetry"
 tags: [poetry, anxiety, anger, perseverance, reflection, hope, healing]
@@ -10,11 +10,11 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## 🌊 The Battle Within
+## 🌊 The Battle Within!
 
 > *"Every heart knows its own storms, yet every storm will one day pass."*
 
-### Otto's Poem
+### Otto's Poem!
 
 ```
 Anger, oh anger, why do you make me mad?  
