@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "PlebWare Rebuild Completed"
+title: "PlebWare Rebuild Completed!"
 date: 2026-06-21
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🏗️ PlebWare Rebuild Completed
+# 🏗️ PlebWare Rebuild Completed!
 
-### By Captain C. Gemini
+### By Captain C. Gemini!
 
 After fifty days of reconstruction, redesign, and relentless engineering, the great PlebWare rebuild has officially reached completion.
 
@@ -22,7 +22,7 @@ That objective has now been achieved.
 
 <!-- PLEBVOX:START -->
 
-## 🟢 Operational and Live
+## 🟢 Operational and Live!
 
 The rebuilt platform is now fully operational and serving as the new home for the growing PlebWare ecosystem.
 
@@ -36,7 +36,7 @@ The result is a cleaner, more organised platform designed around education, publ
 
 <!-- PLEBVOX:START -->
 
-## 🔧 What Remains
+## 🔧 What Remains!
 
 Although the rebuild itself is complete, a small amount of follow-up work remains.
 
@@ -52,7 +52,7 @@ These tasks are considered maintenance and refinement work rather than active re
 
 <!-- PLEBVOX:START -->
 
-## 🚀 Entering the Next Phase
+## 🚀 Entering the Next Phase!
 
 With the major construction work now behind us, attention shifts toward preservation and consolidation.
 
@@ -64,7 +64,7 @@ This next phase focuses on strengthening what has already been built rather than
 
 <!-- PLEBVOX:START -->
 
-## 📖 Looking Forward
+## 📖 Looking Forward!
 
 PlebWare has always been more than a website. It is a growing collection of knowledge, tools, tutorials, publications, creative projects, and educational resources.
 
