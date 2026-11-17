@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Cane Otto Chose"
+title: "The Cane Otto Chose!"
 date: 2026-09-20
 category: "juelz-news"
 tags: [Juelz News, Otto, PlebWare, Internet, Work, Legacy, Life]
@@ -10,7 +10,7 @@ author: "Juelz Smit"
 
 <!-- PLEBVOX:START -->
 
-# The Cane Otto Chose
+# The Cane Otto Chose!
 
 Otto went and chose the very cane he intended to use to tan his own backside. He then spent what seemed like an eternity preparing and curing the bloody thing, making sure it had just the right amount of flexibility and strength, before eventually using it on himself.
 
