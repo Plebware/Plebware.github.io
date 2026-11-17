@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smoke in My Eyes"
+title: "Smoke in My Eyes!"
 date: 2026-08-12
 ---
 
