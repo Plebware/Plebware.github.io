@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Preparing for the March to March Protest"
+title: "Preparing for the March to March Protest!"
 date: 2026-06-29
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🚗 A Monday at the Mechanic and Preparing for the National Protests
+# 🚗 A Monday at the Mechanic and Preparing for the National Protests!
 
 > *"A productive day, even when plans change."*
 
@@ -14,7 +14,7 @@ date: 2026-06-29
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Monday's Progress
+## 🔑 Monday's Progress!
 
 Although **Monday is normally my day off**, I was grateful to be able to work today. Since **Tuesday, 30 June 2026**, has been set aside for the **March to March** protest, I will not be working tomorrow.
 
@@ -30,7 +30,7 @@ Sometimes it is these small maintenance jobs that keep a vehicle reliable enough
 
 <!-- PLEBVOX:START -->
 
-# 🇿🇦 30 June 2026 – The "March to March" Protest
+# 🇿🇦 30 June 2026 – The "March to March" Protest!
 
 Tomorrow, **30 June 2026**, South Africa is expected to experience demonstrations organised primarily by the **March and March** citizen movement, with participation from other organisations, including **Operation Dudula**.
 
@@ -38,7 +38,7 @@ Tomorrow, **30 June 2026**, South Africa is expected to experience demonstration
 
 <!-- PLEBVOX:START -->
 
-## 📢 Main Objective
+## 📢 Main Objective!
 
 The organisers are calling for:
 
@@ -54,7 +54,7 @@ The organisers have described the demonstrations as **peaceful protests** focuse
 
 <!-- PLEBVOX:START -->
 
-## ⚠️ Government Response
+## ⚠️ Government Response!
 
 The South African government has indicated that:
 
@@ -68,7 +68,7 @@ The South African government has indicated that:
 
 <!-- PLEBVOX:START -->
 
-## 🏪 Local Situation
+## 🏪 Local Situation!
 
 Despite the government's call for business as usual, many businesses in my area are taking precautionary measures.
 
@@ -82,7 +82,7 @@ Like many South Africans, I will be watching events unfold and praying that the 
 
 <!-- PLEBVOX:START -->
 
-## 🙏 Final Thoughts
+## 🙏 Final Thoughts!
 
 Life often reminds us that we can only plan so much. One day we're working, the next we're at the mechanic, and tomorrow the country may come to a standstill because of public demonstrations.
 
