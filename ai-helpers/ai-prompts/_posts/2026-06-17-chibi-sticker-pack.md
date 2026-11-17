@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chibi Sticker-Pack Creation"
+title: "Chibi Sticker-Pack Creation!"
 date: 2026-06-17
 ---
 
@@ -16,12 +16,12 @@ date: 2026-06-17
 
 <br>
 
-## Creating Stickers With ChatGPT
+## Creating Stickers With ChatGPT!
 
-### Step One
+### Step One!
 upload a suitable selfie
 
-### Step Two
+### Step Two!
 Prompt ChatGPT with:
 
 Using the uploaded photograph, create a cute illustrated chibi sticker-pack. 
