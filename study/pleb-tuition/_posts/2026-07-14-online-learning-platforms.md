@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Online Learning Platforms"
+title: "Online Learning Platforms!"
 date: 2026-07-14
 category: "pleb-tuition"
 tags: [free-learning, study, learn, improve, qualify, education, literacy]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🎓 Learning Platforms That Can Change Your Life
+# 🎓 Learning Platforms That Can Change Your Life!
 The internet has transformed education.
 
 Today, anyone with a computer or smartphone and an internet connection can study subjects ranging from basic literacy to Artificial Intelligence, engineering, business management, theology, and computer programming.
@@ -21,7 +21,7 @@ Many platforms are completely free. Others charge only for certificates while al
 
 <!-- PLEBVOX:START -->
 
-## **[🔑 Alison](https://alison.com)**
+## **[🔑 Alison](https://alison.com)**!
 
 Founded in 2007, Alison has become one of the world’s largest free learning platforms.
 
@@ -47,7 +47,7 @@ Lifelong learners
 
 <!-- PLEBVOX:START -->
 
-## **[🔑 Khan Academy](https://www.khanacademy.org)**
+## **[🔑 Khan Academy](https://www.khanacademy.org)**!
 
 One of the best completely free educational platforms available.
 
@@ -66,7 +66,7 @@ Excellent for school learners, university preparation, and adults refreshing for
 
 <!-- PLEBVOX:START -->
 
-## **[🔑 Coursera](https://www.coursera.org)**
+## **[🔑 Coursera](https://www.coursera.org)**!
 
 Coursera partners with many world-leading universities and companies including:
 
@@ -81,7 +81,7 @@ Most courses can be audited free of charge.
 
 <!-- PLEBVOX:START -->
 
-## **[🔑 edX](https://www.edx.org)**
+## **[🔑 edX](https://www.edx.org)**!
 
 Originally founded by Harvard University and MIT.
 
@@ -99,7 +99,7 @@ Many university-level courses are available free to audit.
 
 <!-- PLEBVOX:START -->
 
-## **[🔑 OpenLearn](https://www.open.edu/openlearn/)**
+## **[🔑 OpenLearn](https://www.open.edu/openlearn/)**!
 
 Provided by The Open University.
 
@@ -117,7 +117,7 @@ Languages
 
 <!-- PLEBVOX:START -->
 
-## **[🔑 MIT OpenCourseWare](https://ocw.mit.edu)**
+## **[🔑 MIT OpenCourseWare](https://ocw.mit.edu)**!
 
 MIT freely publishes much of its curriculum, including:
 
@@ -131,7 +131,7 @@ Subjects range from engineering and physics to economics and philosophy.
 
 <!-- PLEBVOX:START -->
 
-## **[🔑 Harvard Online Learning](https://pll.harvard.edu)**
+## **[🔑 Harvard Online Learning](https://pll.harvard.edu)**!
 
 Harvard provides numerous free online courses covering:
 
@@ -147,7 +147,7 @@ Many courses may be audited without charge.
 
 <!-- PLEBVOX:START -->
 
-## **[🔑 FutureLearn](https://www.futurelearn.com)**
+## **[🔑 FutureLearn](https://www.futurelearn.com)**!
 
 Courses include:
 
@@ -163,7 +163,7 @@ Some courses remain permanently free while others offer free access for limited 
 
 <!-- PLEBVOX:START -->
 
-## **[🔑 freeCodeCamp](https://www.freecodecamp.org/learn)**
+## **[🔑 freeCodeCamp](https://www.freecodecamp.org/learn)**!
 
 One of the finest free software development platforms.
 
@@ -182,7 +182,7 @@ Students build real-world projects while learning.
 
 <!-- PLEBVOX:START -->
 
-## **[🔑 Google Skillshop](https://skillshop.withgoogle.com)**
+## **[🔑 Google Skillshop](https://skillshop.withgoogle.com)**!
 
 Google’s official professional training platform covering:
 
@@ -197,17 +197,17 @@ Many courses include recognised Google certifications.
 
 <!-- PLEBVOX:START -->
 
-## **📚 Making the Most of Online Learning**
+## **📚 Making the Most of Online Learning**!
 The greatest advantage of online education is flexibility.
 
-### You decide:
+### You decide:!
 
 When to study
 What to study
 How quickly to progress
 Whether your goal is employment, entrepreneurship, career advancement, or personal enrichment, online learning removes many of the traditional barriers to education.
 
-### To maximise your success:
+### To maximise your success:!
 
 🎯 Set clear learning goals.
 📅 Study consistently, even if only 20–30 minutes each day.
