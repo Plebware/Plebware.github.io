@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prologue Wrap-up"
+title: "Prologue Wrap-up!"
 date: 2026-06-24
 category: "fiction"
 tags: [space-opera, starship-frederick, freedom-station, rebellions-dawn, captain-cody, unity-gallactic-command, teaser]
@@ -9,7 +9,7 @@ mode: "author"
 
 <!-- PLEBVOX:START -->
 
-## Arrival at Freedom Station
+## Arrival at Freedom Station!
 
 The Starship Frederick docked at Freedom Station, its sleek form a stark contrast to the utilitarian structure of the station. The welcoming committee awaited them: General Marcus Steele, Admiral Lyra Nova, Commander Zara Synth, Captain Orion Frost, and Chancellor Kaelen Swift.
 
@@ -23,7 +23,7 @@ Introductions were made, and the delegates exchanged pleasantries with Reverend 
 
 <!-- PLEBVOX:START -->
 
-## Tour of the Space Market
+## Tour of the Space Market!
 
 The group moved through the bustling corridors of Freedom Station. Vendors of all species peddled their wares, from exotic foods to advanced technology. Captain Cody marvelled at the diversity.
 
@@ -39,7 +39,7 @@ _“Keep an eye out,”_ Cody advised his team. _“Reports of suspicious activi
 
 <!-- PLEBVOX:START -->
 
-## Luncheon at the Station
+## Luncheon at the Station!
 
 In the grand dining hall, the delegates and their guests gathered for a luncheon. The air was filled with the hum of conversation and the clinking of utensils. General Steele raised a glass.
 
@@ -51,7 +51,7 @@ _“Chancellor, what do you think Sylas is planning?”_ Cody asked.
 
 Swift’s expression was grave. _“Something that could tip the balance of power. We need to be vigilant.”_
 
-#### Meeting in the Conference Centre
+#### Meeting in the Conference Centre!
 
 Finally, the group assembled in the conference centre, a large room dominated by a holographic display of the galaxy. General Steele took the podium.
 
