@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devotion: Trust in God — Proverbs 3:5-6"
+title: "Devotion: Trust in God — Proverbs 3:5-6!"
 date: 2026-09-08
 author: "God's Journalist - Cody - Dei Scriptor"
 category: "Devotions"
@@ -24,7 +24,7 @@ location: "Mobile Office - Ford Ranger - Fordsburg"
 
 <!-- PLEBVOX:START -->
 
-### The Word for Today
+### The Word for Today!
 
 Writing devotions is not easy when you have been through the mill and are walking the narrow path.
 
@@ -44,7 +44,7 @@ I usually write elaborate devotions with poems, opening prayers and closing pray
 
 <!-- PLEBVOX:START -->
 
-### Today's Prayer
+### Today's Prayer!
 
 > Heavenly Father,
 >
