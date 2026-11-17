@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Petrified Mountain"
+title: "Petrified Mountain!"
 date: 2026-08-04
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🏔️ The Mountain We Keep Climbing
+# 🏔️ The Mountain We Keep Climbing!
 
 <img src="{{ '/assets/images/SweatingMountain.webp' | relative_url }}" 
      alt="PlebWare Sweating Mountain Cartoon - The Journey of Climbing Life's Challenges"
