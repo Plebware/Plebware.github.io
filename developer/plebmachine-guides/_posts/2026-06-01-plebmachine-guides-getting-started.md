@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "PlebMachine Guides - Getting Started"
+title: "PlebMachine Guides - Getting Started!"
 date: 2026-06-01
 ---
 
 <!-- PLEBVOX:START -->
 
-# PlebMachine Guides - Getting Started
+# PlebMachine Guides - Getting Started!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## What This Section Is
+## What This Section Is?
 
 This section contains practical guides for using PlebMachine.
 
@@ -45,7 +45,7 @@ Each mode provides a focused working environment.
 
 <!-- PLEBVOX:START -->
 
-## How to Use These Guides
+## How to Use These Guides?
 
 Each guide will focus on one practical task or concept.
 
@@ -66,7 +66,7 @@ The goal is usable understanding.
 
 <!-- PLEBVOX:START -->
 
-## The Core Idea
+## The Core Idea!
 
 PlebMachine is designed to reduce friction.
 
@@ -80,7 +80,7 @@ These guides show how to take advantage of that structure.
 
 <!-- PLEBVOX:START -->
 
-## Basic Concept: Modes
+## Basic Concept: Modes!
 
 A mode is a working state of the system.
 
@@ -103,7 +103,7 @@ A graphics mode prioritises design applications and assets.
 
 <!-- PLEBVOX:START -->
 
-## Getting Started Philosophy
+## Getting Started Philosophy!
 
 You do not need to understand everything at once.
 
@@ -119,7 +119,7 @@ PlebMachine is designed to be learned through use, not memorisation.
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Approach
+## The PlebWare Approach!
 
 PlebWare systems focus on clarity and usability.
 
@@ -136,7 +136,7 @@ Guides are written to help real users accomplish real tasks.
 
 <!-- PLEBVOX:START -->
 
-## What This Section Will Include
+## What This Section Will Include?
 
 Future guides may cover:
 
@@ -155,7 +155,7 @@ Each guide will be practical and focused.
 
 <!-- PLEBVOX:START -->
 
-## Closing Thought
+## Closing Thought!
 
 A system is only useful when it can be understood and used without confusion.
 
