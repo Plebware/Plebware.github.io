@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Great Repository Reconstruction"
+title: "The Great Repository Reconstruction!"
 date: 2026-06-08
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🐾 CyberCat and Armadillo: The Great Repository Reconstruction
+# 🐾 CyberCat and Armadillo: The Great Repository Reconstruction!
 
 The digital winds howled across the vast deserts of Cyberspace.
 
@@ -54,7 +54,7 @@ The entire structure would be rebuilt.
 
 <!-- PLEBVOX:START -->
 
-## 🚧 Operation: Repository Reconstruction
+## 🚧 Operation: Repository Reconstruction!
 
 For weeks, the two companions worked.
 CyberCat redesigned the architecture.
@@ -82,7 +82,7 @@ Nobody talked about that incident.
 
 <!-- PLEBVOX:START -->
 
-## 📚 The Nine Great Modes
+## 📚 The Nine Great Modes!
 
 As the reconstruction progressed, a new vision emerged.
 
@@ -94,55 +94,55 @@ Each district dedicated to a specific purpose.
 
 Soon the Nine Great Modes stood proudly before them.
 
-### 📚 Study Mode
+### 📚 Study Mode!
 
 A place of learning.
 
 Courses, tutorials, practical education and knowledge.
 
-### 🔬 Research Mode
+### 🔬 Research Mode!
 
 A laboratory of discovery.
 
 Investigations, experiments and technical analysis.
 
-### 🤖 AI Mode
+### 🤖 AI Mode!
 
 The workshop of intelligent machines.
 
 Prompts, workflows and practical applications.
 
-### ✍️ Author Mode
+### ✍️ Author Mode!
 
 The publishing district.
 
 Stories, books, blogging and creative development.
 
-### 🐧 Linux Mode
+### 🐧 Linux Mode!
 
 The engineering quarter.
 
 Guides, tutorials and system customization.
 
-### 💰 Finance Mode
+### 💰 Finance Mode!
 
 The treasury.
 
 Accounting, spreadsheets, budgeting and GNUCash resources.
 
-### 🎨 Graphics Mode
+### 🎨 Graphics Mode!
 
 The gallery.
 
 Digital art, design resources and image creation.
 
-### 🎵 Music & Media Mode
+### 🎵 Music & Media Mode!
 
 The studio.
 
 Audio production, DAWs, sample packs and multimedia tools.
 
-### 🎮 Leisure Mode
+### 🎮 Leisure Mode!
 
 The entertainment sector.
 
@@ -152,7 +152,7 @@ Reviews, gaming, streaming and hobbies.
 
 <!-- PLEBVOX:START -->
 
-## ⚙️ The Final Test
+## ⚙️ The Final Test!
 
 On the morning of **8 June 2026** , CyberCat and Armadillo stood before the Core Server.
 
