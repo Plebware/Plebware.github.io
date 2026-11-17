@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Why Inkscape Matters"
+title: "Why Inkscape Matters?"
 date: 2026-06-05
 ---
 
 <!-- PLEBVOX:START -->
 
-## Drawing with Mathematics
+## Drawing with Mathematics!
 
 Most people begin their graphic journey with photographs and painted images.
 
@@ -52,7 +52,7 @@ Best of all, it is freely available to everyone.
 
 <!-- PLEBVOX:START -->
 
-## The Hidden Power of Vector Graphics
+## The Hidden Power of Vector Graphics!
 
 Many users discover Inkscape while searching for a way to create a logo.
 
@@ -108,7 +108,7 @@ They should be available to everyone.
 
 <!-- PLEBVOX:START -->
 
-## What This Section Covers
+## What This Section Covers?
 
 The Inkscape Tricks section explores:
 
