@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebMachine AI — A Local Intelligence Workstation Proposition"
+title: "PlebMachine AI — A Local Intelligence Workstation Proposition!"
 date: 2026-11-15
 description: "A practical proposal for developing a private, resource-conscious offline AI workstation on existing Lenovo hardware, with Writing, Graphics and Video studios."
 category: "plebmachine"
