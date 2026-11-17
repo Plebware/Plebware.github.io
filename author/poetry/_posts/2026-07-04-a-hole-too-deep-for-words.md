@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "A Hole Too Deep for Words"
+title: "A Hole Too Deep for Words!"
 date: 2026-07-04
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🕳️ A Hole Too Deep for Words
+# 🕳️ A Hole Too Deep for Words!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🖋️ Introduction
+## 🖋️ Introduction!
 
 Some experiences cannot be fully explained with ordinary conversation.
 
@@ -24,9 +24,9 @@ Sometimes circumstances become so overwhelming that facts alone fail to communic
 
 <!-- PLEBVOX:START -->
 
-## 📜 The Poem
+## 📜 The Poem!
 
-### *A Hole Too Deep for Words*
+### *A Hole Too Deep for Words*!
 
 ```
 Tonight the silence answers me,  
@@ -93,7 +93,7 @@ I will not let go of hope.
 
 <!-- PLEBVOX:START -->
 
-## 💭 Reflection
+## 💭 Reflection!
 
 There are moments when words feel inadequate, and yet they remain the only bridge between our hearts and the world around us.
 
@@ -107,7 +107,7 @@ Even when Heaven seems silent, faith reminds us that silence is not the same as 
 
 <!-- PLEBVOX:START -->
 
-## ✨ Final Thought
+## ✨ Final Thought!
 
 > "Hope is often at its strongest when it has the least visible evidence."
 
