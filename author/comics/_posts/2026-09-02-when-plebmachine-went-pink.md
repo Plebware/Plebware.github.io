@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🧱 When PlebMachine Went Pink
+# 🧱 When PlebMachine Went Pink!
 
 <!-- PLEBVOX:END -->
 
