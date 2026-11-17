@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Road to PlebMachine & PlebWare — Fifth Day of Spring 2026"
+title: "The Road to PlebMachine & PlebWare — Fifth Day of Spring 2026!"
 date: 2026-09-05
 ---
 
