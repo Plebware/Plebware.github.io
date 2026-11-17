@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebWare Manifesto 2026"
+title: "PlebWare Manifesto 2026!"
 date: 2026-07-13
 category: "plebware"
 tags: [plebware, project-history, technology, linux, education, digital-publishing, charter,]
@@ -49,7 +49,7 @@ To remain financially independent while developing educational content, the comp
 * Computer maintenance.
 
 
-### Early Clients
+### Early Clients!
 
 | Client.                                  | Services.                                  | Period     |
 | --------------------------------------- | ----------------------------------------- | --------- |
@@ -88,7 +88,7 @@ PlebWare officially became the project's identity in **2010**, replacing the ear
 
 <!-- PLEBVOX:START -->
 
-# The PlebDictionary
+# The PlebDictionary!
 
 As the project matured, Otto and Julian began creating a shared vocabulary that described the growing PlebWare ecosystem.
 
@@ -104,7 +104,7 @@ In **2026**, the terminology was refined to preserve only the core concepts that
 
 <!-- PLEBVOX:START -->
 
-## PlebTuition
+## PlebTuition!
 
 Originally, **PlebTuition** referred to downloadable PDF training manuals.
 
@@ -116,7 +116,7 @@ PlebTuition has become the educational heart of both the PlebWare publishing pla
 
 <!-- PLEBVOX:START -->
 
-## PlebPacks
+## PlebPacks!
 
 PlebPacks were among the earliest downloadable products created by the company.
 
@@ -128,7 +128,7 @@ Although software compilation packs are no longer produced, the name continues t
 
 <!-- PLEBVOX:START -->
 
-## PlebSticks
+## PlebSticks!
 
 A **PlebStick** is a portable USB flash drive containing software, educational material, or complete portable environments such as **PlebMachine** or **PlebSword**.
 
@@ -136,7 +136,7 @@ A **PlebStick** is a portable USB flash drive containing software, educational m
 
 <!-- PLEBVOX:START -->
 
-## PlebBuddy
+## PlebBuddy!
 
 **PlebBuddy** was created as the collective name for members of the PlebWare community.
 
@@ -146,7 +146,7 @@ Rather than simply describing customers, the term represents people who share th
 
 <!-- PLEBVOX:START -->
 
-## PlebSword
+## PlebSword!
 
 PlebSword is a collection of Bible study resources built around the **e-Sword** platform, including commentaries, devotional material, church resources, and educational courses developed by PlebWare.
 
@@ -154,7 +154,7 @@ PlebSword is a collection of Bible study resources built around the **e-Sword** 
 
 <!-- PLEBVOX:START -->
 
-## PlebChurch
+## PlebChurch!
 
 PlebChurch represents the ministry and Christian publishing branch of PlebWare, providing biblical teaching, devotional writing, educational resources, and digital outreach.
 
@@ -164,7 +164,7 @@ PlebChurch represents the ministry and Christian publishing branch of PlebWare, 
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Founding Manifesto
+## The PlebWare Founding Manifesto!
 
 **30 June 2026**
 
@@ -172,13 +172,13 @@ PlebChurch represents the ministry and Christian publishing branch of PlebWare, 
 
 <!-- PLEBVOX:START -->
 
-## Technology Should Remain Connected to Humanity
+## Technology Should Remain Connected to Humanity!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Preamble
+## 🔑 Preamble!
 
 We, the architects, engineers, writers, educators, creators, and users of **PlebWare**, affirm this manifesto as our declaration of purpose, principle, and vision.
 
@@ -198,7 +198,7 @@ That redevelopment was completed on **30 June 2026**, marking the beginning of c
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Historical Timeline
+## 🔑 Historical Timeline!
 
 | Date       | Milestone                                                      |
 | ---------- | -------------------------------------------------------------- |
@@ -216,7 +216,7 @@ That redevelopment was completed on **30 June 2026**, marking the beginning of c
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Why PlebWare Exists
+## 🔑 Why PlebWare Exists!
 
 The modern technology industry too often encourages replacement over repair, complexity over clarity, and dependence over understanding.
 
@@ -236,7 +236,7 @@ We believe ordinary people deserve technology that is:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Our Mission
+## 🔑 Our Mission!
 
 To publish, teach, document, preserve knowledge, and develop practical technology that places people before products.
 
@@ -246,7 +246,7 @@ To publish, teach, document, preserve knowledge, and develop practical technolog
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Our Core Values
+## 🔑 Our Core Values!
 
 * Truthfulness
 * Transparency
@@ -261,7 +261,7 @@ To publish, teach, document, preserve knowledge, and develop practical technolog
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Our Flagship Project — PlebMachine
+## 🔑 Our Flagship Project — PlebMachine!
 
 PlebMachine is a modular Linux desktop orchestration environment built upon state-driven engineering, recoverability, flexibility, and long-term maintainability.
 
@@ -275,7 +275,7 @@ Its guiding philosophy is simple:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Transformation
+## 🔑 The Transformation!
 
 PlebWare has evolved beyond being simply a Linux project.
 
@@ -294,7 +294,7 @@ Today it is:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Founders
+## 🔑 Founders!
 
 * **Otto Wilhelm Friedrich Brinkmeier** — Founder, Architect & Chief Developer
 * **Julian Boyd de Villiers** — Assistant Developer & Audio Designer
@@ -306,7 +306,7 @@ Today it is:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Publishing Covenant
+## 🔑 Publishing Covenant!
 
 Every publication shall strive to:
 
@@ -322,7 +322,7 @@ Every publication shall strive to:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Our Commitment
+## 🔑 Our Commitment!
 
 We commit ourselves to creating systems and publications that:
 
@@ -338,7 +338,7 @@ We commit ourselves to creating systems and publications that:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Call to Action
+## 🔑 Call to Action!
 
 If you believe technology should be understandable, repairable, and accessible, then you already share the spirit of PlebWare.
 
@@ -350,7 +350,7 @@ If you believe technology should be understandable, repairable, and accessible, 
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Closing Declaration
+## 🔑 Closing Declaration!
 
 Technology should remain connected to humanity.
 
@@ -364,7 +364,7 @@ Every article, tutorial, lesson, project, and publication adds to a growing body
 
 <!-- PLEBVOX:START -->
 
-## PlebWare
+## PlebWare!
 
 **Accessible. Repairable. Understandable Technology.**
 
