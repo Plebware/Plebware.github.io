@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "😫 Tired of Trying: The Iron Age of Connection"
+title: "😫 Tired of Trying: The Iron Age of Connection!"
 date: 2026-07-07
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 When Being Seen Becomes Rare
+# 🔑 When Being Seen Becomes Rare!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## When You Are Surrounded, Yet Remain Unseen
+## When You Are Surrounded, Yet Remain Unseen?
 
 There is a peculiar kind of loneliness that cannot be measured by the number of people around you.
 
@@ -40,7 +40,7 @@ Rather, I believe this says something profound about the society we have created
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Paradox of the Crowd
+# 🔑 The Paradox of the Crowd!
 
 The experience of being surrounded, yet unseen, is real.
 
@@ -64,7 +64,7 @@ Perhaps this is why loneliness appears to be increasing—not because people are
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Machine That Listens
+# 🔑 The Machine That Listens!
 
 One observation has become increasingly difficult to ignore.
 
@@ -96,7 +96,7 @@ Perhaps it has simply revealed how lonely many people already were.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Tyranny of "Me Time"
+# 🔑 The Tyranny of "Me Time"!
 
 Modern culture places significant emphasis on self-care.
 
@@ -128,7 +128,7 @@ In a world competing for our attention every second of every day, genuine listen
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Root Problem: More Than Ignorance
+# 🔑 The Root Problem: More Than Ignorance!
 
 I believe the problem runs deeper than loneliness alone.
 
@@ -142,7 +142,7 @@ Yet comparatively little time is devoted to learning how to communicate well, li
 
 <!-- PLEBVOX:START -->
 
-## 🔹 False Ideas
+## 🔹 False Ideas!
 
 Many of us have grown up believing that love is simply a feeling.
 
@@ -156,7 +156,7 @@ In reality, communication begins with listening.
 
 <!-- PLEBVOX:START -->
 
-## 🔹 Skills That Must Be Learned
+## 🔹 Skills That Must Be Learned!
 
 Empathy is not merely a personality trait.
 
@@ -170,7 +170,7 @@ Like unused muscles, they weaken when neglected.
 
 <!-- PLEBVOX:START -->
 
-## 🔹 Understanding Truth
+## 🔹 Understanding Truth!
 
 Another challenge facing modern society is our increasing tendency to live within personalised information bubbles.
 
@@ -186,7 +186,7 @@ True friendship requires the humility to listen carefully to someone else's expe
 
 <!-- PLEBVOX:START -->
 
-# 🔑 A Christian Perspective
+# 🔑 A Christian Perspective!
 
 As a Christian, I believe loneliness points to something even deeper.
 
@@ -210,7 +210,7 @@ Those remain uniquely human gifts given by God.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 A Path Forward
+# 🔑 A Path Forward!
 
 Rather than simply lamenting where society has gone, perhaps we can each begin making small changes.
 
@@ -218,7 +218,7 @@ Rather than simply lamenting where society has gone, perhaps we can each begin m
 
 <!-- PLEBVOX:START -->
 
-## 1️⃣ Give Someone Your Full Attention
+## 1️⃣ Give Someone Your Full Attention!
 
 The next time someone speaks to you, resist the urge to think about your reply.
 
@@ -230,7 +230,7 @@ Being fully present is one of the greatest gifts we can offer another person.
 
 <!-- PLEBVOX:START -->
 
-## 2️⃣ Make Time for Unhurried Conversation
+## 2️⃣ Make Time for Unhurried Conversation!
 
 Not every moment needs to be filled by a screen.
 
@@ -240,7 +240,7 @@ Some of life's deepest friendships are built during ordinary, unplanned conversa
 
 <!-- PLEBVOX:START -->
 
-## 3️⃣ Redefine Strength
+## 3️⃣ Redefine Strength!
 
 Modern culture often celebrates complete independence.
 
@@ -256,7 +256,7 @@ There is courage in saying:
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Conclusion
+# 🔑 Conclusion!
 
 Many people today are tired.
 
