@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Trains to Tech"
+title: "Trains to Tech!"
 date: 2026-10-26
 author: Othello Verrocchio
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🚆 From Railway Tracks to Digital Tracks
+# 🚆 From Railway Tracks to Digital Tracks!
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/trains-to-tech.webp' | relative_url }}"
@@ -34,7 +34,7 @@ The journey continues, only now the destination may be a working program, a usef
 
 <!-- PLEBVOX:END -->
 
-## 📋 WhatsApp Copy-and-Paste Version
+## 📋 WhatsApp Copy-and-Paste Version!
 
 ```
 🚆 From Railway Tracks to Digital Tracks
