@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JOURNAL: When One Job Becomes Ten – A Ford Ranger Story"
+title: "JOURNAL: When One Job Becomes Ten – A Ford Ranger Story!"
 date: 2026-07-20
 author: "Otto Brinkmeier"
 categories: ["everyday"]
@@ -9,7 +9,7 @@ tags: Ford Ranger, Ford Ranger 2.2 TDCi, P0088, Limp Mode, Fuel Pressure, Common
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Ford Ranger That Refused to Cooperate
+# 🔑 The Ford Ranger That Refused to Cooperate!
 
 **_How a simple oil leak turned into weeks of diagnostics, expensive parts, and lost income._**
 
@@ -23,7 +23,7 @@ tags: Ford Ranger, Ford Ranger 2.2 TDCi, P0088, Limp Mode, Fuel Pressure, Common
 
 <!-- PLEBVOX:START -->
 
-## 🔑 It Started With an Oil Leak
+## 🔑 It Started With an Oil Leak!
 
 Sometimes life has a funny way of reminding you that a "small job" doesn't always stay small.
 
@@ -41,7 +41,7 @@ That was the plan.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 When Saving Money Costs More
+## 🔑 When Saving Money Costs More!
 
 My boss, under the advice of an associate, took the bakkie to another mechanic instead of the workshop that normally works on it.
 
@@ -70,7 +70,7 @@ The vehicle had gone from being a working bakkie to one that nobody trusted.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Symptoms Got Worse
+## 🔑 The Symptoms Got Worse!
 
 Over the next few weeks the Ranger became increasingly unpredictable.
 
@@ -90,7 +90,7 @@ That pointed toward a fuel pressure control problem rather than something mechan
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Diagnosis
+## 🔑 The Diagnosis!
 
 After several diagnostic sessions the focus turned to the common rail fuel system.
 
@@ -109,7 +109,7 @@ Two components immediately became suspects:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Ford's Pricing
+## 🔑 Ford's Pricing!
 
 The next surprise was the price of replacement parts.
 
@@ -131,7 +131,7 @@ Or so we hoped.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 One Repair... Another Problem
+## 🔑 One Repair... Another Problem!
 
 The mechanic replaced both components.
 
@@ -159,7 +159,7 @@ Ironically, we'd gone from having an engine that ran badly...
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Understanding the Fuel Metering Valve
+## 🔑 Understanding the Fuel Metering Valve!
 
 The Fuel Pump Metering Valve is a surprisingly important component.
 
@@ -206,7 +206,7 @@ An engine that cranks endlessly without starting.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Lessons Learned
+## 🔑 Lessons Learned!
 
 Modern diesel engines are incredibly efficient.
 
@@ -232,7 +232,7 @@ And a vehicle sitting in a workshop instead of earning money.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Story Continues
+## 🔑 The Story Continues!
 
 At the time of writing, we're still chasing the final fault.
 
