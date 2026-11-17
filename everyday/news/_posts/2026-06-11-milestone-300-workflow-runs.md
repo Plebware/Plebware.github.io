@@ -30,7 +30,7 @@ GitHub Actions workflows serve as the engine room behind many modern websites, a
 
 <!-- PLEBVOX:START -->
 
-## 🔑 What This Milestone Represents
+## 🔑 What This Milestone Represents!
 
 This achievement represents:
 
@@ -50,7 +50,7 @@ What started as a simple publishing idea has evolved into a growing digital know
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Road Ahead
+## 🔑 The Road Ahead!
 
 The journey is far from over.
 
@@ -70,7 +70,7 @@ Each workflow run represents another step forward.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 A Thank You
+## 🔑 A Thank You!
 
 To everyone who has contributed ideas, feedback, encouragement, and technical assistance over the years:
 
