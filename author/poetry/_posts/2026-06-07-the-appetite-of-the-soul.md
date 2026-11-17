@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Appetite of the Soul"
+title: "The Appetite of the Soul!"
 date: 2026-06-07
 ---
 
 <!-- PLEBVOX:START -->
 
-# “The Appetite of the Soul” 
+# “The Appetite of the Soul”! 
 
 ```I fed my body first each day,
 Yet still my spirit drifted gray.
