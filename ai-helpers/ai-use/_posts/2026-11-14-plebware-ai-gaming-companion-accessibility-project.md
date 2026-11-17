@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebWare AI Gaming Companion — An Accessibility Project Proposal"
+title: "PlebWare AI Gaming Companion — An Accessibility Project Proposal!"
 date: 2026-11-14
 description: "A proposal for a free, open-source AI gaming assistant designed to help blind and partially sighted people play computer games more independently."
 categories: [ai-helpers, ai-use]
@@ -10,7 +10,7 @@ author: "Juelz De Villiers"
 
 <!-- PLEBVOX:START -->
 
-# 🎮🤖 Games Without Barriers: The PlebWare AI Gaming Companion
+# 🎮🤖 Games Without Barriers: The PlebWare AI Gaming Companion!
 
 **A free and open-source project to make computer gaming more accessible to blind and partially sighted people.**
 
@@ -34,7 +34,7 @@ Our guiding principle is simple:
 
 <!-- PLEBVOX:START -->
 
-## 🌍 1. The Problem We Want to Address
+## 🌍 1. The Problem We Want to Address!
 
 Most computer games communicate essential information visually. Players may need to read menus and dialogue, recognise characters and objects, follow maps, monitor health indicators, identify threats and react to events that change rapidly.
 
@@ -48,7 +48,7 @@ We want to explore whether modern AI can help close that gap by acting as an int
 
 <!-- PLEBVOX:START -->
 
-## 🧠 2. The Proposed Solution
+## 🧠 2. The Proposed Solution!
 
 The proposed Windows application would observe the game, interpret what is happening, plan an action, operate supported controls and check what happened next.
 
@@ -71,7 +71,7 @@ This is a development goal, not a claim that an existing tool can already play e
 
 <!-- PLEBVOX:START -->
 
-## 🗣️ 3. Natural Voice Interaction
+## 🗣️ 3. Natural Voice Interaction!
 
 The player should be able to speak naturally rather than memorise a complicated command language.
 
@@ -92,33 +92,33 @@ Speech is not an optional extra. It is a central part of making the system acces
 
 <!-- PLEBVOX:START -->
 
-## 🧩 4. The Main Components
+## 🧩 4. The Main Components!
 
-### 👁️ Computer Vision — Understanding the Screen
+### 👁️ Computer Vision — Understanding the Screen!
 
 Computer vision will help the application interpret screenshots and recognise relevant information, including menus, buttons, characters, objects, status indicators and changes in the game environment.
 
 OpenCV is one candidate for image-processing work. Optical character recognition (OCR) can help extract text from suitable screen regions.
 
-### 🧠 AI Reasoning — Understanding and Decision-Making
+### 🧠 AI Reasoning — Understanding and Decision-Making!
 
 An AI model will interpret the available information, understand the player's instructions, plan actions and evaluate results.
 
 DeepSeek is one candidate to investigate, alongside other compatible AI models. The design should avoid locking the project to one provider.
 
-### 🖱️ Computer Control — Keyboard and Mouse
+### 🖱️ Computer Control — Keyboard and Mouse!
 
 A controlled automation layer will translate approved decisions into keyboard and mouse actions.
 
 It will need clear boundaries, predictable behaviour and an immediate way for the player to interrupt it.
 
-### 🎙️ Speech Recognition and Text-to-Speech
+### 🎙️ Speech Recognition and Text-to-Speech!
 
 Speech recognition will receive the player's instructions. Text-to-speech will communicate observations, decisions, warnings and progress.
 
 The voice interface should support adjustable speech rate, volume and other practical accessibility preferences.
 
-### 🗂️ Memory and Game Knowledge
+### 🗂️ Memory and Game Knowledge!
 
 Over time, the assistant may retain useful information about controls, objectives, player preferences, previously encountered situations and strategies that have been tested.
 
@@ -128,7 +128,7 @@ Memory must be transparent and manageable. It should not silently retain passwor
 
 <!-- PLEBVOX:START -->
 
-## 🏗️ 5. A Modular Architecture
+## 🏗️ 5. A Modular Architecture!
 
 The project should be built around a shared gaming engine with separate adapters for individual games.
 
@@ -149,7 +149,7 @@ This modular approach is more realistic than promising that one configuration wi
 
 <!-- PLEBVOX:START -->
 
-## 💻 6. Proposed Development Technologies
+## 💻 6. Proposed Development Technologies!
 
 The following are candidates for investigation, not final technical decisions.
 
@@ -174,7 +174,7 @@ The architecture should keep components replaceable so that a limitation or chan
 
 <!-- PLEBVOX:START -->
 
-## 🖥️ 7. Initial Hardware and Feasibility
+## 🖥️ 7. Initial Hardware and Feasibility!
 
 The first development machine is Otto Brinkmeier's Lenovo computer, which has 12 GB of RAM. A separate Windows 10 computer with 8 GB of RAM has also been discussed as a possible later compatibility test machine.
 
@@ -196,7 +196,7 @@ Windows 10 support status and the machine's update situation should also be chec
 
 <!-- PLEBVOX:START -->
 
-## 🧪 8. Start Small: Build a Controlled Prototype
+## 🧪 8. Start Small: Build a Controlled Prototype!
 
 The first demonstration should not attempt to play a complicated commercial game.
 
@@ -217,7 +217,7 @@ This provides a measurable foundation before introducing the complexity, speed a
 
 <!-- PLEBVOX:START -->
 
-## 🎮 9. A Possible First Game: Raid: Shadow Legends
+## 🎮 9. A Possible First Game: Raid: Shadow Legends!
 
 Raid: Shadow Legends has been discussed as a possible future test game because it includes menus, character selection, status indicators and turn-based battles.
 
@@ -231,7 +231,7 @@ The project should be prepared to select a different game if the rules or techni
 
 <!-- PLEBVOX:START -->
 
-## ♿ 10. Accessibility from the Beginning
+## ♿ 10. Accessibility from the Beginning!
 
 Accessibility must be part of the architecture, not a feature added at the end.
 
@@ -254,7 +254,7 @@ People who will use the software must help shape it. Their experience is essenti
 
 <!-- PLEBVOX:START -->
 
-## 🛡️ 11. Safety, Privacy and Player Control
+## 🛡️ 11. Safety, Privacy and Player Control!
 
 Autonomous software must not take control away from the person it is intended to help.
 
@@ -276,39 +276,39 @@ The assistant must not pretend to understand something it cannot reliably identi
 
 <!-- PLEBVOX:START -->
 
-## 🗺️ 12. Development Roadmap
+## 🗺️ 12. Development Roadmap!
 
-### Phase 1 — Feasibility Study
+### Phase 1 — Feasibility Study!
 
 Inspect the Lenovo hardware and operating system. Evaluate candidate AI models, computer-use frameworks, Windows accessibility interfaces, computer vision, OCR, speech technologies, licensing, privacy and costs.
 
 **Deliverable:** A documented technical feasibility assessment and a recommended initial stack.
 
-### Phase 2 — Basic Windows Application
+### Phase 2 — Basic Windows Application!
 
 Build an accessible desktop application that can accept text or voice instructions, connect to a selected AI service and speak its responses.
 
 **Deliverable:** A working application shell with a basic voice interaction loop.
 
-### Phase 3 — Screen Understanding
+### Phase 3 — Screen Understanding!
 
 Add controlled screenshot capture, image interpretation and OCR. Test whether the assistant can describe a known desktop environment accurately.
 
 **Deliverable:** A screen-description prototype with measurable test cases.
 
-### Phase 4 — Safe Computer Interaction
+### Phase 4 — Safe Computer Interaction!
 
 Introduce limited keyboard and mouse actions, confirmation of results, interruption and recovery.
 
 **Deliverable:** A controlled demonstration in which the assistant performs simple tasks safely.
 
-### Phase 5 — First Game Adapter
+### Phase 5 — First Game Adapter!
 
 Choose a suitable game only after checking its rules and technical requirements. Implement a limited set of supported actions and test them repeatedly.
 
 **Deliverable:** A documented demonstration of a defined gameplay task, not a claim of universal game support.
 
-### Phase 6 — Accessibility Testing and Expansion
+### Phase 6 — Accessibility Testing and Expansion!
 
 Invite blind and partially sighted users to test the application. Address usability problems, improve reliability and develop further game adapters.
 
@@ -318,7 +318,7 @@ Invite blind and partially sighted users to test the application. Address usabil
 
 <!-- PLEBVOX:START -->
 
-## 📏 13. What Success Should Look Like
+## 📏 13. What Success Should Look Like!
 
 A meaningful first success is not simply an AI moving a mouse.
 
@@ -339,7 +339,7 @@ These are testable objectives. They provide a way to measure progress honestly.
 
 <!-- PLEBVOX:START -->
 
-## 🤝 14. Open-Source Collaboration
+## 🤝 14. Open-Source Collaboration!
 
 PlebWare intends this to be a free and open-source accessibility project.
 
@@ -355,7 +355,7 @@ The aim is to make useful technology available to people who might otherwise be 
 
 <!-- PLEBVOX:START -->
 
-## ❤️ 15. The Reason for Building It
+## ❤️ 15. The Reason for Building It!
 
 Gaming is entertainment, creativity, competition, exploration and social connection. It should not be assumed that someone who cannot see a screen has no place in that world.
 
