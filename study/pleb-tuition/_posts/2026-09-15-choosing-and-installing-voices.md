@@ -14,7 +14,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## Welcome To The World Of Voices
+## Welcome To The World Of Voices!
 
 In the first four lessons, we learned what Text-to-Speech is and how to get your phone or tablet speaking.
 
@@ -82,7 +82,7 @@ So if your friend's phone has a voice that you cannot find, that does not necess
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Start With The Voices You Already Have
+## 🔑 Start With The Voices You Already Have!
 
 Our PlebWare rule is simple:
 
@@ -104,7 +104,7 @@ Listen to the examples if your device provides a preview.
 
 <!-- PLEBVOX:START -->
 
-## Step 1 — Choose Your Language
+## Step 1 — Choose Your Language!
 
 The first question is not:
 
@@ -132,7 +132,7 @@ The languages available depend on the device, operating system, TTS engine, and 
 
 <!-- PLEBVOX:START -->
 
-## Step 2 — Choose A Voice
+## Step 2 — Choose A Voice!
 
 Once you have selected your language, look at the voices available for that language.
 
@@ -154,7 +154,7 @@ An understandable voice is better.
 
 <!-- PLEBVOX:START -->
 
-## Step 3 — Try Different Voices
+## Step 3 — Try Different Voices!
 
 If your device offers several voices, try them.
 
@@ -174,7 +174,7 @@ That is the voice to keep.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Natural Does Not Always Mean Better
+## 🔑 Natural Does Not Always Mean Better!
 
 Modern speech technology can produce remarkably natural voices.
 
@@ -234,7 +234,7 @@ First find out **where that voice comes from** and whether your device supports 
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Natural-Sounding Voices Are Getting Better
+## 🔑 Natural-Sounding Voices Are Getting Better!
 
 Older computer-generated voices could sometimes sound robotic.
 
@@ -256,7 +256,7 @@ For everyday use, choose the voice that works for **you**.
 
 <!-- PLEBVOX:START -->
 
-## Step 4 — Download Another Voice
+## Step 4 — Download Another Voice!
 
 Your device may show voices that are not currently installed.
 
@@ -278,7 +278,7 @@ If possible, use Wi-Fi when downloading large voice packages.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Do Not Download Everything
+## 🔑 Do Not Download Everything!
 
 You do not need twenty voices.
 
@@ -298,7 +298,7 @@ Remember:
 
 <!-- PLEBVOX:START -->
 
-## Step 5 — Listen Again After Installing
+## Step 5 — Listen Again After Installing!
 
 After installing a new voice, go back to your TTS settings.
 
@@ -342,7 +342,7 @@ This is one of the reasons we are learning how TTS works instead of simply insta
 
 <!-- PLEBVOX:START -->
 
-## Android, Samsung And Apple Are Different
+## Android, Samsung And Apple Are Different!
 
 There is no single universal list of voices that works on every mobile device.
 
@@ -366,7 +366,7 @@ Look for the equivalent speech or voice setting on your device.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Your Voice Is A Personal Choice
+## 🔑 Your Voice Is A Personal Choice!
 
 There is no officially “best” TTS voice for everybody.
 
@@ -388,7 +388,7 @@ What matters is whether the technology helps you.
 
 <!-- PLEBVOX:START -->
 
-## Your Voice Checklist
+## Your Voice Checklist!
 
 Before moving on, see if you can tick these boxes:
 
@@ -407,7 +407,7 @@ If you can tick these boxes, you are ready for the next lesson.
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Principle
+## The PlebWare Principle!
 
 Technology should serve the person using it.
 
@@ -427,7 +427,7 @@ You need a voice that speaks clearly, at a comfortable speed, in a language you 
 
 <!-- PLEBVOX:START -->
 
-## Next Lesson
+## Next Lesson!
 
 **Lesson 6 — Making Your Phone Read Text**
 
