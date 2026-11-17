@@ -6,7 +6,7 @@ date: 2024-01-01
 
 <!-- PLEBVOX:START -->
 
-## A Different Approach to Computing
+## A Different Approach to Computing!
 
 Most software is designed around applications.
 
@@ -60,7 +60,7 @@ PlebMachine was conceived as an attempt to solve this problem.
 
 <!-- PLEBVOX:START -->
 
-## The Core Idea
+## The Core Idea!
 
 At its heart, PlebMachine is a mode-driven computing environment.
 
@@ -106,27 +106,27 @@ Research allows the project to evolve through observation, testing, and practica
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Philosophy
+## The PlebWare Philosophy!
 
 PlebMachine is built upon several guiding principles:
 
-### Accessibility
+### Accessibility!
 
 Technology should be available to ordinary people.
 
-### Understandability
+### Understandability!
 
 Users should be able to understand the systems they rely upon.
 
-### Repairability
+### Repairability!
 
 A system should be maintainable rather than disposable.
 
-### Practicality
+### Practicality!
 
 Technology should solve real-world problems.
 
-### Education
+### Education!
 
 Every tool should contribute to learning and self-improvement.
 
@@ -136,7 +136,7 @@ These principles influence every aspect of the project.
 
 <!-- PLEBVOX:START -->
 
-## What This Section Covers
+## What This Section Covers?
 
 The PlebMachine Research section documents:
 
@@ -161,7 +161,7 @@ Together they form a record of the project's evolution.
 
 <!-- PLEBVOX:START -->
 
-## Looking Toward the Future
+## Looking Toward the Future!
 
 The ultimate goal of PlebMachine is not merely to create another Linux desktop.
 
