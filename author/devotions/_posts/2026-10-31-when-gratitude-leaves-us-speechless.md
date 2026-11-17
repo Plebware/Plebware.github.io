@@ -11,7 +11,7 @@ excerpt: "A personal testimony of almost five decades of faith, God's interventi
 
 <!-- PLEBVOX:START -->
 
-# 🙏 **When Gratitude Leaves Us Speechless.**
+# 🙏 **When Gratitude Leaves Us Speechless.**!
 
 **A Journey of Grace, Faith, and Unexpected Blessings.**
 
@@ -21,7 +21,7 @@ excerpt: "A personal testimony of almost five decades of faith, God's interventi
 
 <!-- PLEBVOX:START -->
 
-## 🙏 **Opening Prayer.**
+## 🙏 **Opening Prayer.**!
 
 _Heavenly Father,_
 
@@ -47,7 +47,7 @@ _Amen._
 
 <!-- PLEBVOX:START -->
 
-## 📖 **Introduction — Almost Five Decades of Grace.**
+## 📖 **Introduction — Almost Five Decades of Grace.**!
 
 There are moments when we simply run out of words.
 
@@ -71,7 +71,7 @@ I was young, inexperienced, and still had much to learn about what it meant to f
 
 And then came my military service.
 
-### 🪖 **The Day God Spoke to Me.**
+### 🪖 **The Day God Spoke to Me.**!
 
 There was a period during my military service when I experienced some exceptionally dark moments.
 
@@ -113,7 +113,7 @@ Looking back, I realise how important that fellowship was.
 
 God was teaching me that we were never intended to walk this journey alone.
 
-### 🏡 **Finding a Spiritual Home.**
+### 🏡 **Finding a Spiritual Home.**!
 
 After leaving the military, I eventually found employment and began rebuilding my life.
 
@@ -153,7 +153,7 @@ But each experience became part of the journey.
 
 And through all those years, God remained faithful.
 
-### ❤️ **A Morning I Will Not Easily Forget.**
+### ❤️ **A Morning I Will Not Easily Forget.**!
 
 Now, after all these years, I find myself in another difficult chapter of life.
 
@@ -203,7 +203,7 @@ But I can acknowledge it, appreciate it, pray for those who have blessed me, and
 
 <!-- PLEBVOX:START -->
 
-## 🏛️ **Church History — The Fellowship of Giving.**
+## 🏛️ **Church History — The Fellowship of Giving.**!
 
 The early Christian church understood something that we sometimes overlook today.
 
@@ -249,7 +249,7 @@ And sometimes it is simply somebody reminding us that we are not forgotten.
 
 <!-- PLEBVOX:START -->
 
-## ✍️ **An Original Poem — When Words Are Not Enough.**
+## ✍️ **An Original Poem — When Words Are Not Enough.**!
 
 ```
 I searched for words to say thank You, Lord,
@@ -292,13 +292,13 @@ My heart still knows You gave it all.
 
 <!-- PLEBVOX:START -->
 
-## 📜 **Scripture One — Psalm 107:1. Give Thanks for His Goodness.**
+## 📜 **Scripture One — Psalm 107:1. Give Thanks for His Goodness.**!
 
 > "O give thanks unto the LORD, for he is good: for his mercy endureth for ever."
 >
 > **Psalm 107:1 — KJV.**
 
-### 💭 **Reflection.**
+### 💭 **Reflection.**!
 
 God's goodness is not determined by whether our circumstances are comfortable.
 
@@ -318,7 +318,7 @@ Gratitude is not merely a response to receiving something.
 
 It is an acknowledgement of who God is.
 
-### ❓ **Question for Today.**
+### ❓ **Question for Today.**!
 
 *When last did I stop looking at my problems long enough to thank God for everything He has already done in my life?*
 
@@ -326,13 +326,13 @@ It is an acknowledgement of who God is.
 
 <!-- PLEBVOX:START -->
 
-## 📜 **Scripture Two — 2 Corinthians 9:8. God's Provision.**
+## 📜 **Scripture Two — 2 Corinthians 9:8. God's Provision.**!
 
 > "And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work."
 >
 > **2 Corinthians 9:8 — KJV.**
 
-### 💭 **Reflection.**
+### 💭 **Reflection.**!
 
 Paul reminds us that God's grace is sufficient and that He is able to provide what we need to fulfil the good works He places before us.
 
@@ -358,7 +358,7 @@ There is no shame in needing help.
 
 There is something beautiful about being able to accept a helping hand with humility.
 
-### ❓ **Question for Today.**
+### ❓ **Question for Today.**!
 
 *Am I willing to recognise God's provision, even when it arrives through an unexpected person or an unexpected circumstance?*
 
@@ -366,7 +366,7 @@ There is something beautiful about being able to accept a helping hand with humi
 
 <!-- PLEBVOX:START -->
 
-## 📜 **Scripture Three — Romans 8:38–39. Nothing Can Separate Us from His Love.**
+## 📜 **Scripture Three — Romans 8:38–39. Nothing Can Separate Us from His Love.**!
 
 > "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,
 
@@ -374,7 +374,7 @@ There is something beautiful about being able to accept a helping hand with humi
 
 > **Romans 8:38–39 — KJV.**
 
-### 💭 **Reflection.**
+### 💭 **Reflection.**!
 
 When I look back over almost five decades of faith, I see a journey that has not always been straightforward.
 
@@ -398,7 +398,7 @@ Nor should we confuse a difficult season with God's absence.
 
 **God's faithfulness is greater than the difficulties of our journey.**
 
-### ❓ **Question for Today.**
+### ❓ **Question for Today.**!
 
 *Have I allowed the difficulties of my journey to make me forget the enduring love and faithfulness of God?*
 
@@ -406,7 +406,7 @@ Nor should we confuse a difficult season with God's absence.
 
 <!-- PLEBVOX:START -->
 
-## 🛠️ **Practical Tip — Remember the Hands That Helped You.**
+## 🛠️ **Practical Tip — Remember the Hands That Helped You.**!
 
 Take a moment to reflect on the people God has placed along your journey.
 
@@ -430,7 +430,7 @@ A listening ear, a meal, a telephone call, a prayer, a lift, or a few words of e
 
 <!-- PLEBVOX:START -->
 
-## 🏃 **Daily Exercise — Become Someone Else's Blessing.**
+## 🏃 **Daily Exercise — Become Someone Else's Blessing.**!
 
 Today's exercise is simple.
 
@@ -466,7 +466,7 @@ And sometimes, the greatest gift you can offer another person is simply letting 
 
 <!-- PLEBVOX:START -->
 
-## 🌅 **Heavenly View — God Sees the Entire Journey.**
+## 🌅 **Heavenly View — God Sees the Entire Journey.**!
 
 We tend to remember our lives in chapters.
 
@@ -518,7 +518,7 @@ And I have another reason to say:
 
 <!-- PLEBVOX:START -->
 
-## 🙏 **Closing Prayer.**
+## 🙏 **Closing Prayer.**!
 
 _Heavenly Father,_
 
@@ -554,7 +554,7 @@ _Amen._
 
 <!-- PLEBVOX:START -->
 
-## 💭 **Final Thought — A Simple Thank You.**
+## 💭 **Final Thought — A Simple Thank You.**!
 
 You do not need an eloquent prayer to express genuine gratitude.
 
