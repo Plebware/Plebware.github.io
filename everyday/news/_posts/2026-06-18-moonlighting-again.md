@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Back On The Road — But The Battle Continues"
+title: "Back On The Road — But The Battle Continues!"
 date: 2026-06-18
 ---
 
 <!-- PLEBVOX:START -->
 
-# 📰 Back On The Road — But The Battle Continues
+# 📰 Back On The Road — But The Battle Continues!
 
-### By _Captain Cody Gemini_
+### By _Captain Cody Gemini_!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🚛 Return To Duty
+## 🚛 Return To Duty!
 
 After an extended period of uncertainty, delays, and financial frustration, the company vehicle was finally returned from repairs on 17 June 2026 at approximately 16:00.
 
@@ -26,7 +26,7 @@ The company may be working to recover lost ground after weeks of operational dis
 
 <!-- PLEBVOX:START -->
 
-## 💰 The Cost Of Downtime
+## 💰 The Cost Of Downtime!
 
 Returning to work is welcome news, but it does not erase the financial impact of the past several weeks.
 
@@ -38,7 +38,7 @@ For a pensioner supplementing his income through contract driving work, such los
 
 <!-- PLEBVOX:START -->
 
-## ⚡ The Electricity Crisis
+## ⚡ The Electricity Crisis!
 
 As if the vehicle situation was not enough, our household recently endured more than three days without electricity.
 
@@ -55,7 +55,7 @@ Sharon was forced to discard much of the contents of her freezer, creating anoth
 
 <!-- PLEBVOX:START -->
 
-## 🔥 Another Concern
+## 🔥 Another Concern!
 
 Household gas supplies are now running dangerously low.
 
@@ -67,7 +67,7 @@ The challenge now is not merely surviving today's difficulties, but recovering f
 
 <!-- PLEBVOX:START -->
 
-## 🙏 Looking Forward
+## 🙏 Looking Forward!
 
 Despite everything, there are reasons for gratitude.
 
@@ -86,7 +86,7 @@ Sometimes victory is simply getting back to work after a difficult season and tr
 
 <!-- PLEBVOX:START -->
 
-## 📖 Scripture
+## 📖 Scripture!
 
 > "_And let us not be weary in well doing: for in due season we shall reap, if we faint not._" — **Galatians 6:9 (KJV)**»
 
