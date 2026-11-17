@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Planning to Survive: Practical Strategies for Difficult Times"
+title: "Planning to Survive: Practical Strategies for Difficult Times!"
 date: 2026-11-13
 category: "everyday"
 tags: [survival-planning, everyday-life, financial-pressure, resilience, wellbeing, family, practical-living]
