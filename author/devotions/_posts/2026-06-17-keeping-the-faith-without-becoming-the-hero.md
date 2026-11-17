@@ -7,15 +7,12 @@ date: 2026-06-17
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 # ✝️ Remaining Humble During The Darkest Days
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🙏 Opening Prayer
 
 Heavenly Father,
@@ -31,11 +28,9 @@ Amen. ✝️
 ---
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 📖 Introduction
 
 Life has a way of making us focus on ourselves.
@@ -61,11 +56,9 @@ But it also means resisting the temptation to make ourselves the center of the n
 ---
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 📝 Summary Poem
 
 🌧️ When storms arise and shadows fall,
@@ -87,11 +80,9 @@ But it also means resisting the temptation to make ourselves the center of the n
 ---
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## ⛪ Church History Example
 
 Many believers know the story of the Protestant Reformation and the work of Martin Luther.
@@ -111,23 +102,17 @@ Our lives may influence others 🌍, but our purpose is to point people toward C
 ---
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🔑 Key Point One: Faith Looks Beyond Personal Circumstances
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 ### 📖 Scripture
 
 > "For we walk by faith, not by sight."
 >
 > — 2 Corinthians 5:7
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 ### 💡 Practical Application
 
 When difficulties arise 🌩️, it is easy to interpret everything through the lens of our own struggles.
@@ -136,8 +121,6 @@ Faith calls us to look beyond what we currently see 👀.
 
 God's plans 🛤️ are often larger than our present circumstances.
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 ### 🌱 Real-World Example
 
 A farmer plants seed 🌾 long before seeing a harvest.
@@ -149,23 +132,17 @@ Likewise, God may be working 🔨 in ways we cannot yet understand.
 ---
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🔑 Key Point Two: Faith Trusts God's Character More Than Our Feelings
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 ### 📖 Scripture
 
 > "Jesus Christ the same yesterday, and to day, and for ever."
 >
 > — Hebrews 13:8
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 ### 💡 Practical Application
 
 😊 Feelings change.
@@ -178,8 +155,6 @@ Likewise, God may be working 🔨 in ways we cannot yet understand.
 
 When discouragement arrives, we can anchor ⚓ ourselves in God's unchanging character rather than our temporary emotions.
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 ### 🚢 Real-World Example
 
 A ship's captain does not steer by the waves 🌊.
@@ -191,23 +166,17 @@ The believer must do the same, steering life by God's Word 📖 rather than emot
 ---
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🔑 Key Point Three: Faith Gives Glory to God
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 ### 📖 Scripture
 
 > "Not unto us, O LORD, not unto us, but unto thy name give glory."
 >
 > — Psalm 115:1
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 ### 💡 Practical Application
 
 Whether we experience victory 🏆 or hardship 🪨, our goal should remain the same:
@@ -220,8 +189,6 @@ Trials should produce dependence 🤲 rather than self-pity.
 
 Both can become opportunities to magnify God's faithfulness.
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 ### 🎨 Real-World Example
 
 A stained-glass window is beautiful 🪟, yet its purpose is not to draw attention to itself.
@@ -233,11 +200,9 @@ Likewise, our lives should reflect God's light ✨ rather than our own importanc
 ---
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🌟 Final Thoughts
 
 Keeping the faith is not about proving how strong we are 💪.
@@ -261,11 +226,9 @@ And He remains faithful from beginning to end.
 ---
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🙏 Closing Prayer
 
 Father,
@@ -288,8 +251,6 @@ Amen. ✨
 
 ---
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 ### 📖 Verse to Remember
 
 > "Looking unto Jesus the author and finisher of our faith."
@@ -302,12 +263,9 @@ Amen. ✨
 
 -----
 
-<!-- PLEBVOX:END -->
 <!-- Comments Section -->
 <div id="comments-section">
-<!-- PLEBVOX:START -->
     <h3>💬 Comments</h3>
-<!-- PLEBVOX:END -->
     <div id="utterances-container"></div>
 </div>
 

@@ -8,11 +8,8 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 # 🔧 Otto’s Technical Autobiography.
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 ## My Development Journals.
 
 *The human story behind projects, experiments, ideas, and things being built.*
@@ -30,13 +27,11 @@ Looking back, I realise that these projects share a common thread: identifying a
 Let's take a trip down memory lane.
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 ---
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 📡 1. The Wired Electronic Bug.
 
 At approximately sixteen years of age, I decided to bug our living room using my 150-in-1 electronic kit, which I had received for my birthday the previous year.
@@ -65,8 +60,6 @@ The considerable length of wire connected to the small condenser microphone intr
 
 Eventually, I got it working.
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 There was, however, one very important lesson still waiting for me — and it had nothing to do with electronics.
 
 One day, Mum came to use the bathroom while we had visitors in the house. The bug picked up what it was never supposed to pick up, and she realised what I had been doing. She told Dad, who came straight to my room. He confiscated my electronic kit, and I received a severe punishment for that stunt.
@@ -76,13 +69,11 @@ Looking back, I can laugh at the memory, but the lesson was serious enough. I ha
 That was a memorable lesson in consequences, and certainly a more dramatic end to the experiment than I had planned!
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 ---
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 💧 2. The Garden Irrigation System.
 
 At the age of 24, I received a familiar complaint from my mother: watering the garden was tedious, and I wasn't helping enough!
@@ -113,13 +104,11 @@ In the end, I had a garden irrigation system divided into manageable zones, with
 It was a good example of how a little planning could turn a tedious household chore into a practical engineering project.
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 ---
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🪚 3. My First Entertainment Unit.
 
 At the age of 25, I built my first piece of furniture.
@@ -141,13 +130,11 @@ It might not have been a grand piece of cabinetry, but it was my first.
 And everyone has to start somewhere!
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 ---
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## ⚡ 4. The Electronic Test Station.
 
 My interest in electronics continued to grow, and as I acquired more testing and repair equipment, I realised that I needed a proper workbench.
@@ -174,13 +161,11 @@ Building the test station was about more than making a bench. It was about creat
 In a way, I was designing my own little electronics laboratory.
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 ---
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🍳 5. The Kitchen Utility Pegboard.
 
 My mother and I both enjoyed cooking, and our kitchen contained a growing collection of small utensils.
@@ -200,13 +185,11 @@ Instead of rummaging through drawers whenever we needed a particular utensil, we
 This was another example of a principle that has followed me through many different projects: **a useful solution does not have to be complicated; it simply has to work well.**
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 ---
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🎂 6. A Three-Tier, Heart-Shaped Wedding Cake.
 
 Not all my technical adventures involved electronics, pipes, or timber.
@@ -234,13 +217,11 @@ It also demonstrated something I have always enjoyed about making things. Someti
 Who would have thought that an interest in practical construction would help me build a cake-decorating stand?
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 ---
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🚗 7. The Talking Car.
 
 Of all my electronic projects, one of the most ambitious was the Talking Car, which I designed in 1999, when I was 36.
@@ -265,20 +246,16 @@ I also incorporated a simple indication system. When the alarm was disarmed, a s
 
 This provided a record of a potential security incident without necessarily requiring the full alarm to sound.
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 The Talking Car represented a substantial step forward from the electronic experiments of my youth. It required me to combine circuit design, sensor adjustment, signal processing, practical installation, and the integration of several different functions into one working system.
 
 Most importantly, it was a project in which I could develop the complete solution myself, rather than merely assemble a commercially available product.
 
-<!-- PLEBVOX:END -->
 <!-- PLEBVOX:END -->
 
 ---
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🧠 What These Projects Taught Me.
 
 Looking back at these seven projects, I can see a pattern that stretches across decades.
@@ -308,13 +285,11 @@ Sometimes the result is successful on the first attempt. Sometimes it requires a
 That, to me, is the real joy of development.
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 ---
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 ## 🔭 Looking Ahead.
 
 These recollections are only a small selection of the projects I have worked on throughout my life. There are undoubtedly others that will come back to me as I continue writing these journals.
@@ -335,5 +310,4 @@ And at 63, I am not finished yet!
 
 *This is my story, told one project at a time. The Development Journals will continue as I remember more of the things I have built, the problems I have solved, and the lessons I have learned along the way.*
 
-<!-- PLEBVOX:END -->
 <!-- PLEBVOX:END -->

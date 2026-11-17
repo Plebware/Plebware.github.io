@@ -10,16 +10,13 @@ author: Captain Gemini
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/field-report-oct.webp' | relative_url }}"
-<!-- PLEBVOX:START -->
        alt="Captain Gemini reporting on the financial reality of the hunt."
        loading="lazy"
        style="width: 70%; max-width: 100%; height: auto;">
-<!-- PLEBVOX:END -->
 </div>
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 # 🁢 The Dominoes Have Stopped Falling — The Hunt Continues.
 
 *An illustrated field report from Captain Gemini, with Taylor the Hunter.*
@@ -44,8 +41,6 @@ Taylor has apparently decided that this humble piece of building material deserv
 
 Still, I cannot deny the cat his comforts. After all, he has been doing his part to keep the household supplied with the occasional mouse.
 
-<!-- PLEBVOX:END -->
-<!-- PLEBVOX:START -->
 When it comes to field knowledge, Taylor is in a league of his own. He knows the trails, reads the signs, and understands the terrain. His cat-based logistics system is remarkably efficient.
 
 Perhaps I should let him manage the household budget!
@@ -73,16 +68,13 @@ Someone had better guard that brick!
 Captain Gemini, signing off from the front lines of everyday life.
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
 ---
 
-<!-- PLEBVOX:START -->
 📰 **Captain Gemini**
 
 *With ChatGPT.*
 
-<!-- PLEBVOX:END -->
 ```
 📰 *PLEBWARE NEWS: THE REALITY OF THE HUNT!* 🐈
 

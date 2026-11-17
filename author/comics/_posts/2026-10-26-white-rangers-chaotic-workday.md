@@ -7,20 +7,15 @@ author: Othello Verrocchio
 
 <!-- PLEBVOX:START -->
 
-<!-- PLEBVOX:START -->
 # 🚙 The White Ranger and the Day That Wouldn’t Behave
 
-<!-- PLEBVOX:END -->
 <div style="text-align: center;">
   <img src="{{ '/assets/images/White Ranger’s Chaotic Workday.webp' | relative_url }}"
-<!-- PLEBVOX:START -->
        alt="Cartoon illustrating the white Ford Ranger’s chaotic workday."
        loading="lazy"
        style="width: 70%; max-width: 100%; height: auto;">
-<!-- PLEBVOX:END -->
 </div>
 
-<!-- PLEBVOX:START -->
 Some workdays begin with a plan. This one began with a plan, a white Ranger, and the dangerous assumption that everything would go according to schedule.
 
 The first job looked simple enough. Then came the little complication that needed attention, followed by another complication that apparently had invited its friends. Before long, the day had become a travelling circus, and the Ranger was the only member of the team that seemed prepared to keep moving.
@@ -34,12 +29,9 @@ The white Ranger may have had a chaotic workday, but at least it came home with 
 **Moral of the story:** A good plan is useful. A sense of humour is essential.
 
 <!-- PLEBVOX:END -->
-<!-- PLEBVOX:END -->
 
-<!-- PLEBVOX:START -->
 ## 📋 WhatsApp Copy-and-Paste Version
 
-<!-- PLEBVOX:END -->
 ```
 🚙 The White Ranger and the Day That Wouldn’t Behave
 
