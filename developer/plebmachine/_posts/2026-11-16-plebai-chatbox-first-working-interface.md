@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebAI ChatBox — The First Working Local AI Interface"
+title: "PlebAI ChatBox — The First Working Local AI Interface!"
 date: 2026-11-16
 description: "Development milestone documenting the installation of Ollama and the creation of a custom Python desktop chat interface for locally operated AI models."
 category: "plebmachine"
