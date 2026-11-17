@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebMachine Component and Script Inventory"
+title: "PlebMachine Component and Script Inventory!"
 date: 2026-09-27
 category: "developer"
 tags: [PlebMachine, Components, Scripts, Architecture, Technical Documentation, Linux, XFCE]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# PlebMachine — Component and Script Inventory
+# PlebMachine — Component and Script Inventory!
 
 Organised by function. Each entry gives the path, what it does, and who calls it or uses it.
 
@@ -18,7 +18,7 @@ Organised by function. Each entry gives the path, what it does, and who calls it
 
 ---
 
-## 1. User-facing applications
+## 1. User-facing applications!
 
 <!-- PLEBVOX:START -->
 
@@ -37,7 +37,7 @@ These are what a user launches. PlebDecide, PlebBreaks, and PlebGizmo are standa
 
 ---
 
-## 2. Bootloader and environment lifecycle
+## 2. Bootloader and environment lifecycle!
 
 <!-- PLEBVOX:START -->
 
@@ -54,7 +54,7 @@ The pieces that tie everything together at login and logout.
 
 ---
 
-## 3. Tools resolver
+## 3. Tools resolver!
 
 <!-- PLEBVOX:START -->
 
@@ -76,7 +76,7 @@ The twelve modes are Everyday, Author, Study, Research, Graphics, Music, Video, 
 
 ---
 
-## 4. Support scripts
+## 4. Support scripts!
 
 <!-- PLEBVOX:START -->
 
@@ -101,7 +101,7 @@ Note: `workspace-switch.sh` may or may not exist on your system — PlebEnvironm
 
 ---
 
-## 5. Launchers
+## 5. Launchers!
 
 <!-- PLEBVOX:START -->
 
@@ -128,7 +128,7 @@ Note: `plebenvironment.desktop` was deliberately removed from the menu. PlebEnvi
 
 ---
 
-## 6. User state files
+## 6. User state files!
 
 <!-- PLEBVOX:START -->
 
@@ -148,7 +148,7 @@ Runtime data, never shipped in the `.deb`, never overwritten by upgrades.
 
 ---
 
-## 7. Assets
+## 7. Assets!
 
 <!-- PLEBVOX:START -->
 
@@ -156,7 +156,7 @@ Images, icons, wallpapers.
 
 <!-- PLEBVOX:END -->
 
-### Icons
+### Icons!
 
 ```text
 /opt/plebmachine/icons/128x128/plebmachine.png
@@ -167,7 +167,7 @@ Images, icons, wallpapers.
 /opt/plebmachine/plebenvironment/icons/png/{128,256,512}.png
 ```
 
-### Branding
+### Branding!
 
 ```text
 /opt/plebmachine/plebdecide/icons/branding/
@@ -185,7 +185,7 @@ Images, icons, wallpapers.
 /opt/plebmachine/ui/plebmachine-tools.png
 ```
 
-### Wallpapers
+### Wallpapers!
 
 ```text
 /usr/share/plebmachine/wallpapers/
@@ -196,7 +196,7 @@ Images, icons, wallpapers.
 
 ---
 
-## 8. Build and packaging
+## 8. Build and packaging!
 
 <!-- PLEBVOX:START -->
 
@@ -212,7 +212,7 @@ Build and packaging information for the current Debian package workflow.
 
 ---
 
-## 9. The PlebDecide internal structure
+## 9. The PlebDecide internal structure!
 
 <!-- PLEBVOX:START -->
 
@@ -240,7 +240,7 @@ Since PlebDecide is the largest single component, it is worth breaking down sepa
 
 ---
 
-## 10. The PlebBreaks internal structure
+## 10. The PlebBreaks internal structure!
 
 <!-- PLEBVOX:START -->
 
@@ -267,7 +267,7 @@ PlebBreaks has its own exercise library, settings system, self-test, and user-in
 
 ---
 
-## 11. Summary counts
+## 11. Summary counts!
 
 <!-- PLEBVOX:START -->
 
@@ -288,7 +288,7 @@ The current inventory can be summarised by the following counts.
 
 ---
 
-## 12. What is not in the current build
+## 12. What is not in the current build!
 
 <!-- PLEBVOX:START -->
 
