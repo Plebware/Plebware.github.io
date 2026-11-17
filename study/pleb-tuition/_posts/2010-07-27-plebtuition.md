@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebTuition"
+title: "PlebTuition!"
 date: 2010-07-27
 ---
 
