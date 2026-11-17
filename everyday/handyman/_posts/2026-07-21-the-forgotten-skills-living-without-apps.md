@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Forgotten Skills: A Beginner's Guide to Living Without Apps"
+title: "The Forgotten Skills: A Beginner's Guide to Living Without Apps!"
 category: "Everyday"
 author: "The Digital Handy Man"
 date: "2026-07-21"
@@ -9,7 +9,7 @@ tags: ["self-reliance", "off-grid", "minimalism", "practical-skills", "handyman"
 
 <!-- PLEBVOX:START -->
 
-# The Forgotten Skills: A Beginner's Guide to Living Without Apps
+# The Forgotten Skills: A Beginner's Guide to Living Without Apps!
 
 Welcome back to the workshop, folks.
 
@@ -23,7 +23,7 @@ Today, we are going to take a step back. We are going to look at the "Analog Too
 
 <!-- PLEBVOX:START -->
 
-## 1. Orienting Yourself: Reading a Paper Map
+## 1. Orienting Yourself: Reading a Paper Map!
 
 Remember the "You are here" dot? When your phone dies or GPS loses signal, that dot vanishes. A paper map doesn't need satellites.
 
@@ -40,7 +40,7 @@ Navigating with a map forces you to understand the *geography* of a place, not j
 
 <!-- PLEBVOX:START -->
 
-## 2. The Digital Detox: Keeping a Written Notebook
+## 2. The Digital Detox: Keeping a Written Notebook!
 
 We are bombarded with notifications. The act of writing slows your brain down to the speed of your hand. That friction is good; it forces you to filter out the noise.
 
@@ -56,7 +56,7 @@ Writing by hand activates the "Reticular Activating System" (RAS) in your brain,
 
 <!-- PLEBVOX:START -->
 
-## 3. Financial Literacy: Basic Budgeting with Pen and Paper
+## 3. Financial Literacy: Basic Budgeting with Pen and Paper!
 
 Apps like Mint or YNAB are great, but they hide the *pain* of spending. When you log a transaction by hand, you feel every penny leaving your pocket. That visceral reaction is a better financial advisor than any algorithm.
 
@@ -72,7 +72,7 @@ It simplifies the complex. You realize that if you spend *X* on coffee, you have
 
 <!-- PLEBVOX:START -->
 
-## 4. Sustenance: Cooking from Scratch
+## 4. Sustenance: Cooking from Scratch!
 
 If you can read, you can cook. Yet, many people rely on meal-kit apps or takeout delivery because they are "too busy." Cooking is the original hacking—taking raw materials and transforming them into energy.
 
@@ -88,7 +88,7 @@ You control the ingredients (no microplastics, less sugar) and you save 50-80% o
 
 <!-- PLEBVOX:START -->
 
-## 5. The Circular Economy: Repairing Instead of Replacing
+## 5. The Circular Economy: Repairing Instead of Replacing!
 
 Planned obsolescence is the enemy of the pleb. The "Right to Repair" is a political movement, but it starts with you picking up a screwdriver.
 
@@ -104,7 +104,7 @@ Repairing saves money, reduces waste, and gives you a sense of agency. That brok
 
 <!-- PLEBVOX:START -->
 
-## 6. Micro-Farming: Growing Herbs at Home
+## 6. Micro-Farming: Growing Herbs at Home!
 
 You don't need a farm to be a farmer. You need a window sill and a pot of dirt. Growing your own food is the ultimate rebellion against the industrial food complex.
 
@@ -121,7 +121,7 @@ Fresh herbs cost $4 a bunch at the store. A $2 packet of seeds yields hundreds o
 
 <!-- PLEBVOX:START -->
 
-## 7. Productivity: Making Checklists (The Pilot Way)
+## 7. Productivity: Making Checklists (The Pilot Way)!
 
 Digital task lists are great until they get buried under a mountain of notifications. A paper checklist is a commitment. It is a contract you write with your future self.
 
@@ -137,7 +137,7 @@ Checklists prevent "cognitive load." Instead of trying to remember the 15 things
 
 <!-- PLEBVOX:START -->
 
-## 8. The Philosophical Core: Why Low-Tech Still Matters
+## 8. The Philosophical Core: Why Low-Tech Still Matters!
 
 We have been convinced that "smart" is always better. But let me offer a counterpoint: **Inefficiency is often the point.**
 
@@ -149,7 +149,7 @@ When you repair a shoe, it doesn't look factory-perfect. But it is *yours*.
 
 The goal of the Digital Handy Man isn't to reject technology; it is to ensure that technology is a *choice*, not a *necessity*.
 
-### Your Next Step
+### Your Next Step!
 
 Pick *one* of these skills this week. Go to a thrift store, buy a paper map of your city, and try to navigate home without your phone. Or, buy a packet of basil seeds and plant them.
 
