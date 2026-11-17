@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "PlebComics 101"
+title: "PlebComics 101!"
 date: 2026-06-20
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 **Comics: Understanding the Art of Visual Storytelling**
+# 🔑 **Comics: Understanding the Art of Visual Storytelling**!
 
 Comics are a form of storytelling that combines **words and pictures** to communicate a story, idea, lesson, or message.
 
@@ -39,7 +39,7 @@ At their heart, comics are simply **stories told through sequential art**.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Why Comics Matter
+# 🔑 Why Comics Matter!
 
 Comics are often underestimated.
 
@@ -69,13 +69,13 @@ Today, comics are used in:
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Building Blocks of Comics
+# 🔑 The Building Blocks of Comics!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 1. Panels
+## 1. Panels!
 
 Panels are the boxes that contain the story.
 
@@ -89,7 +89,7 @@ A comic page is usually made up of several panels arranged in sequence.
 
 <!-- PLEBVOX:START -->
 
-## 2. Gutters
+## 2. Gutters!
 
 The space between panels is called the gutter.
 
@@ -103,7 +103,7 @@ This process is called **closure**.
 
 <!-- PLEBVOX:START -->
 
-## 3. Speech Balloons
+## 3. Speech Balloons!
 
 Speech balloons contain dialogue spoken by characters.
 
@@ -119,7 +119,7 @@ They help readers understand:
 
 <!-- PLEBVOX:START -->
 
-## 4. Captions
+## 4. Captions!
 
 Captions provide narration or additional information.
 
@@ -136,7 +136,7 @@ Examples include:
 
 <!-- PLEBVOX:START -->
 
-## 5. Sound Effects
+## 5. Sound Effects!
 
 Words such as:
 
@@ -153,13 +153,13 @@ help create action and atmosphere.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Different Types of Comics
+# 🔑 Different Types of Comics!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Comic Strips
+## Comic Strips!
 
 Short comics usually consisting of a few panels.
 
@@ -175,7 +175,7 @@ Examples:
 
 <!-- PLEBVOX:START -->
 
-## Comic Books
+## Comic Books!
 
 Longer stories published as individual issues or collections.
 
@@ -192,7 +192,7 @@ These often focus on:
 
 <!-- PLEBVOX:START -->
 
-## Graphic Novels
+## Graphic Novels!
 
 Book-length stories told in comic format.
 
@@ -209,7 +209,7 @@ Graphic novels can be:
 
 <!-- PLEBVOX:START -->
 
-## Webcomics
+## Webcomics!
 
 Comics published online.
 
@@ -221,7 +221,7 @@ These are popular because creators can publish directly to readers without a tra
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Creating Your Own Comics
+# 🔑 Creating Your Own Comics!
 
 You do not need expensive equipment.
 
@@ -239,7 +239,7 @@ Start simple.
 
 <!-- PLEBVOX:START -->
 
-## Step 1: Create a Story
+## Step 1: Create a Story!
 
 Ask yourself:
 
@@ -254,7 +254,7 @@ Ask yourself:
 
 <!-- PLEBVOX:START -->
 
-## Step 2: Write a Script
+## Step 2: Write a Script!
 
 A comic script describes:
 
@@ -271,7 +271,7 @@ Think of it as a blueprint for the artwork.
 
 <!-- PLEBVOX:START -->
 
-## Step 3: Sketch Thumbnails
+## Step 3: Sketch Thumbnails!
 
 Thumbnails are small rough sketches of pages.
 
@@ -287,7 +287,7 @@ They help plan:
 
 <!-- PLEBVOX:START -->
 
-## Step 4: Draw the Pages
+## Step 4: Draw the Pages!
 
 Begin with rough sketches.
 
@@ -301,7 +301,7 @@ Focus first on storytelling rather than perfect artwork.
 
 <!-- PLEBVOX:START -->
 
-## Step 5: Add Dialogue
+## Step 5: Add Dialogue!
 
 Keep dialogue concise.
 
@@ -315,7 +315,7 @@ Readers should be able to understand the story without reading huge blocks of te
 
 <!-- PLEBVOX:START -->
 
-## Step 6: Publish
+## Step 6: Publish!
 
 Modern creators have many options:
 
@@ -332,7 +332,7 @@ Modern creators have many options:
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Comics and Storytelling
+# 🔑 Comics and Storytelling!
 
 The secret of great comics is not perfect drawing.
 
@@ -356,7 +356,7 @@ These elements matter more than artistic perfection.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Comics for Education
+# 🔑 Comics for Education!
 
 Comics can be powerful teaching tools.
 
@@ -377,7 +377,7 @@ Visual storytelling helps many people learn faster and remember information long
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Comics and Independent Creators
+# 🔑 Comics and Independent Creators!
 
 Today, independent creators have opportunities that previous generations never had.
 
@@ -396,7 +396,7 @@ This makes comics an excellent creative outlet for writers, artists, teachers, a
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Final Thoughts
+# 🔑 Final Thoughts!
 
 Comics are far more than entertainment.
 
