@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Homemade Croutons"
+title: "Homemade Croutons!"
 date: 2026-06-18
 ---
 
@@ -8,7 +8,7 @@ date: 2026-06-18
 
 <div align="center">
 
-# 🥖 Homemade Croutons 🍲
+# 🥖 Homemade Croutons 🍲!
 
 </div>
 
@@ -16,7 +16,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🥘 Ingredients
+## 🥘 Ingredients!
 
 - 🍞 4 Slices of Bread  
 - 🫒 Frying Fat / Cooking Oil  
@@ -25,7 +25,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 👩‍🍳 Method
+## 👩‍🍳 Method!
 
 1. Cut slices of bread about **1cm (10mm) thick** (unless using pre-sliced bread).
 2. Cut the bread into fingers about the same width as the thickness.
