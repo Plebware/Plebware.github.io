@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When the Dominoes Have Fallen — A Story of Desperation"
+title: "When the Dominoes Have Fallen — A Story of Desperation?"
 date: 2026-10-28
 category: "comics"
 tags: [short-story, domino-effect, financial-hardship, desperation, survival, resilience]
@@ -91,7 +91,7 @@ And sometimes, when all you have left is enough for three more days, getting thr
 *With ChatGPT*
 <!-- PLEBVOX:END -->
 
-## 📋 WhatsApp Copy-and-Paste Version
+## 📋 WhatsApp Copy-and-Paste Version!
 
 ```
 🁢 *THE DOMINOES HAVE FALLEN* 🁢
