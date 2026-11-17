@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "From Ashes to Wisdom"
+title: "From Ashes to Wisdom!"
 date: 2026-07-15
 ---
 
 <!-- PLEBVOX:START -->
 
-# 👑 Royal Ashes
+# 👑 Royal Ashes!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## *When Yesterday's Ashes Become Tomorrow's Wisdom* 🔥
+## *When Yesterday's Ashes Become Tomorrow's Wisdom* 🔥?
 
-### 🌅 Opening Prayer
+### 🌅 Opening Prayer!
 
 Heavenly Father, thank You that no season of our lives is ever wasted in Your hands. Even our failures, disappointments, victories, and sorrows can become testimonies of Your faithfulness. Teach us to treasure the lessons You have allowed us to learn, and give us willing hearts to share them with humility so that others may walk more wisely because of them. In Jesus' Name, Amen. 🙏
 
@@ -24,7 +24,7 @@ Heavenly Father, thank You that no season of our lives is ever wasted in Your ha
 
 <!-- PLEBVOX:START -->
 
-## 📖 Key Scripture of the Day
+## 📖 Key Scripture of the Day!
 
 > **"One generation shall praise thy works to another, and shall declare thy mighty acts."**
 >
@@ -36,7 +36,7 @@ Heavenly Father, thank You that no season of our lives is ever wasted in Your ha
 
 <!-- PLEBVOX:START -->
 
-# 🔥 Royal Ashes
+# 🔥 Royal Ashes!
 
 As we grow older, we begin to realise that the greatest treasures we possess are seldom the things we own.
 
@@ -76,14 +76,14 @@ Instead, may we faithfully pass His goodness from one generation to the next.
 
 <!-- PLEBVOX:START -->
 
-# 📚 Four Scriptures for Reflection
+# 📚 Four Scriptures for Reflection!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 1️⃣ God Uses Every Experience
-### 📖 Romans 8:28 (KJV)
+## 1️⃣ God Uses Every Experience!
+### 📖 Romans 8:28 (KJV)!
 
 > "And we know that all things work together for good to them that love God..."
 
@@ -101,8 +101,8 @@ Instead of asking, *"Why did this happen?"* ask, *"Lord, how can You use this ex
 
 <!-- PLEBVOX:START -->
 
-## 2️⃣ Share God's Faithfulness
-### 📖 Psalm 78:4 (KJV)
+## 2️⃣ Share God's Faithfulness!
+### 📖 Psalm 78:4 (KJV)!
 
 > "We will not hide them from their children, shewing to the generation to come the praises of the Lord..."
 
@@ -120,8 +120,8 @@ Tell someone this week about a time God answered a prayer or carried you through
 
 <!-- PLEBVOX:START -->
 
-## 3️⃣ Wisdom Is Better Than Riches
-### 📖 Proverbs 16:16 (KJV)
+## 3️⃣ Wisdom Is Better Than Riches!
+### 📖 Proverbs 16:16 (KJV)!
 
 > "How much better is it to get wisdom than gold!"
 
@@ -139,8 +139,8 @@ Spend time investing in God's Word today. Eternal wisdom always produces lasting
 
 <!-- PLEBVOX:START -->
 
-## 4️⃣ Finish Well
-### 📖 2 Timothy 4:7 (KJV)
+## 4️⃣ Finish Well!
+### 📖 2 Timothy 4:7 (KJV)!
 
 > "I have fought a good fight, I have finished my course, I have kept the faith."
 
@@ -158,7 +158,7 @@ Ask yourself today: *If someone remembered only my faith, what would they learn 
 
 <!-- PLEBVOX:START -->
 
-# ⛪ Church History
+# ⛪ Church History!
 
 Throughout Christian history, believers have carefully preserved the testimonies of faithful men and women—not to honour the individuals themselves, but to magnify God's work in their lives.
 
@@ -172,7 +172,7 @@ Their experiences became living reminders that while people pass away, God's tru
 
 <!-- PLEBVOX:START -->
 
-# 📝 Daily Reflection
+# 📝 Daily Reflection!
 
 Every grey hair tells a story.
 
@@ -192,7 +192,7 @@ What feels like ashes today may become someone else's greatest source of hope to
 
 <!-- PLEBVOX:START -->
 
-# 🌸 Poem
+# 🌸 Poem!
 
 **Royal Ashes**
 
@@ -217,7 +217,7 @@ Leaves behind a richer soul.
 
 <!-- PLEBVOX:START -->
 
-# 🙏 Closing Prayer
+# 🙏 Closing Prayer!
 
 Father, thank You for every lesson You have taught us throughout our lives. Help us to see our past through the eyes of Your grace and not our regrets. May every victory bring You glory, every failure produce humility, and every trial strengthen our faith. Use our lives as instruments of encouragement so that future generations may know Your goodness, trust Your promises, and walk faithfully with Christ. In Jesus' Name, Amen.
 
