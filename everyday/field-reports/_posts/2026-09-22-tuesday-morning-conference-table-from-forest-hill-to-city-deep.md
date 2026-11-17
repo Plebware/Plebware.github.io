@@ -14,7 +14,7 @@ tags:
 
 <!-- PLEBVOX:START -->
 
-# The Tuesday Morning Conference Table — From Forest Hill to City Deep
+# The Tuesday Morning Conference Table — From Forest Hill to City Deep!
 
 This Tuesday morning started for me in Forest Hill.
 
@@ -34,7 +34,7 @@ It was there on the phone, with the AI assistants and me, carrying on the work w
 
 <!-- PLEBVOX:START -->
 
-## What We Were Discussing
+## What We Were Discussing?
 
 One of the things I was working on this morning was the PlebWare AI instruction manifest.
 
@@ -92,7 +92,7 @@ That is the way I want PlebWare to develop.
 
 <!-- PLEBVOX:START -->
 
-## Forest Hill to City Deep
+## Forest Hill to City Deep!
 
 Eventually, I left Forest Hill and made my way to City Deep and the Johannesburg Market.
 
@@ -118,7 +118,7 @@ But I kept walking.
 
 <!-- PLEBVOX:START -->
 
-## The Naartjie Investigation
+## The Naartjie Investigation!
 
 Then, as I was coming back towards the vehicle to sit down and continue with my investigations and publishing work, I noticed the guy at the stall next door.
 
@@ -160,7 +160,7 @@ And it certainly gave me something else to report.
 
 <!-- PLEBVOX:START -->
 
-## The Conference Table Goes Mobile
+## The Conference Table Goes Mobile!
 
 What struck me during all of this was how naturally the conference table had followed me.
 
@@ -196,7 +196,7 @@ And the conversation with AI comes with me.
 
 <!-- PLEBVOX:START -->
 
-## My Morning Report
+## My Morning Report!
 
 So that is where my Tuesday morning has taken me.
 
