@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Study PlebMachine User — Mode 03 Introduction and Learning Guide"
+title: "Study PlebMachine User — Mode 03 Introduction and Learning Guide!"
 date: 2026-10-18
 description: "An introduction to Study PlebMachine User, Mode 03 of PlebMachine, and the PlebWare tutorials, tools, and resources that support it."
 category: "study"
