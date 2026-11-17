@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Computer Coding Languages Guide"
+title: "The Computer Coding Languages Guide!"
 date: 2026-11-11
 categories: [study, technology, programming]
 permalink: /study/technology/programming/2026/11/11/computer-coding-languages-guide/
@@ -8,7 +8,7 @@ permalink: /study/technology/programming/2026/11/11/computer-coding-languages-gu
 
 <!-- PLEBVOX:START -->
 
-# 💻 The Languages Behind the Digital World
+# 💻 The Languages Behind the Digital World!
 
 Computers, phones, websites, games, databases, robots and everyday devices all depend on languages that tell software what to do, describe information, organise data or control hardware.
 
@@ -38,7 +38,7 @@ These distinctions matter. HTML is not the same kind of tool as Python, and a co
 
 <!-- PLEBVOX:START -->
 
-## 2. General-Purpose Programming Languages
+## 2. General-Purpose Programming Languages!
 
 General-purpose languages can be applied to many different types of software. Their strengths, ecosystems and learning curves differ.
 
@@ -73,7 +73,7 @@ This is a selection, not a ranking. A language's suitability depends on the proj
 
 <!-- PLEBVOX:START -->
 
-## 3. Web Development
+## 3. Web Development!
 
 A modern website is usually built from several technologies working together.
 
@@ -94,7 +94,7 @@ A website may use HTML, CSS and JavaScript in the browser, a different language 
 
 <!-- PLEBVOX:START -->
 
-## 4. Mobile Applications
+## 4. Mobile Applications!
 
 Mobile development depends on the operating system and whether an application is native or cross-platform.
 
@@ -114,7 +114,7 @@ Cross-platform tools can reduce duplicated work, but they do not remove every di
 
 <!-- PLEBVOX:START -->
 
-## 5. Operating Systems, Hardware and Robotics
+## 5. Operating Systems, Hardware and Robotics!
 
 Some languages work close to the hardware, where memory, timing and processor behaviour matter.
 
@@ -136,7 +136,7 @@ The right choice is closely tied to the actual board, processor, controller or m
 
 <!-- PLEBVOX:START -->
 
-## 6. Databases, Data Analysis and Scientific Computing
+## 6. Databases, Data Analysis and Scientific Computing!
 
 Data work uses languages for querying, calculating, modelling and interpreting information.
 
@@ -159,7 +159,7 @@ For many learners, SQL is a practical first step into databases because it teach
 
 <!-- PLEBVOX:START -->
 
-## 7. Artificial Intelligence, Machine Learning and Data Engineering
+## 7. Artificial Intelligence, Machine Learning and Data Engineering!
 
 AI is not tied to one programming language. The language, libraries, frameworks, data pipeline and available hardware all influence a project.
 
@@ -180,7 +180,7 @@ Frameworks and libraries are important, but they are not themselves programming 
 
 <!-- PLEBVOX:START -->
 
-## 8. Games, Graphics and Creative Software
+## 8. Games, Graphics and Creative Software!
 
 Games and creative applications combine application logic, graphics, physics, audio and tools.
 
@@ -201,7 +201,7 @@ The best language depends on the engine, target platform and type of experience 
 
 <!-- PLEBVOX:START -->
 
-## 9. Automation, Command Lines and Infrastructure
+## 9. Automation, Command Lines and Infrastructure!
 
 Not all useful programming happens inside a large application. Shells and automation languages help maintain computers, manage servers and connect tools.
 
@@ -226,7 +226,7 @@ These tools can save time, make work repeatable and reduce the risk of inconsist
 
 <!-- PLEBVOX:START -->
 
-## 10. Markup, Data Formats and Documentation
+## 10. Markup, Data Formats and Documentation!
 
 Developers often work with formats that look like code but serve a different purpose.
 
@@ -250,7 +250,7 @@ Understanding the purpose of a format helps prevent a common mistake: treating e
 
 <!-- PLEBVOX:START -->
 
-## 11. Query, Logic and Specialist Languages
+## 11. Query, Logic and Specialist Languages!
 
 Some languages are designed for a narrow but important job.
 
@@ -273,7 +273,7 @@ Specialist does not mean unimportant. A language may serve a relatively small fi
 
 <!-- PLEBVOX:START -->
 
-## 12. Visual, Educational and Low-Code Programming
+## 12. Visual, Educational and Low-Code Programming!
 
 Programming does not always begin with lines of text.
 
@@ -293,7 +293,7 @@ Visual tools can make concepts easier to approach. They also teach ideas such as
 
 <!-- PLEBVOX:START -->
 
-## 13. Historical and Legacy Languages
+## 13. Historical and Legacy Languages!
 
 Older languages are not necessarily obsolete. Many systems built decades ago continue to support important businesses and public services.
 
@@ -305,7 +305,7 @@ Some remain in active specialist use; others are mainly encountered when maintai
 
 <!-- PLEBVOX:START -->
 
-## 14. How to Choose a Language
+## 14. How to Choose a Language!
 
 Start with the thing you want to build.
 
@@ -329,7 +329,7 @@ There is no universal winner. A language that is excellent for embedded firmware
 
 <!-- PLEBVOX:START -->
 
-## 15. A Sensible Learning Path
+## 15. A Sensible Learning Path!
 
 A beginner does not need to learn twenty languages. A practical progression is:
 
@@ -347,7 +347,7 @@ A useful starter combination is **Python + HTML + CSS + JavaScript + SQL + Git**
 
 <!-- PLEBVOX:START -->
 
-## 16. Common Misconceptions
+## 16. Common Misconceptions!
 
 - **Java is not JavaScript.** Their names are similar, but their histories, designs and ecosystems are different.
 - **HTML is not a general-purpose programming language.** It structures content; JavaScript supplies general programming behaviour in the browser.
@@ -362,7 +362,7 @@ A useful starter combination is **Python + HTML + CSS + JavaScript + SQL + Git**
 
 <!-- PLEBVOX:START -->
 
-## 17. A Short Glossary
+## 17. A Short Glossary!
 
 - **API — Application Programming Interface:** a defined way for software components to communicate.
 - **Compiler:** a tool that translates source code into another form, often machine code or bytecode.
@@ -382,7 +382,7 @@ A useful starter combination is **Python + HTML + CSS + JavaScript + SQL + Git**
 
 <!-- PLEBVOX:START -->
 
-## 18. Sources and Further Reference
+## 18. Sources and Further Reference!
 
 This guide is a practical introduction, not a formal standard or a popularity ranking. Language inventories differ in what they count, and technologies change over time. Check current documentation for version-specific behaviour and platform support.
 
