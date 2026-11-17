@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebMachine 2027: Critical Plan of Action and Architecture"
+title: "PlebMachine 2027: Critical Plan of Action and Architecture!"
 date: 2026-09-23
 category: "plebmachine"
 tags: [plebmachine, plebware, linux, xfce, desktop-orchestration, architecture, mission-control, plebuser-wizard, baseline, recovery]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🛠️ PlebMachine 2027 — Critical Plan of Action
+# 🛠️ PlebMachine 2027 — Critical Plan of Action!
 
 > ## ⚠️ NB! NB! NB! — ABSOLUTELY CRITICAL
 >
@@ -22,7 +22,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## Executive Summary
+## Executive Summary!
 
 **PlebMachine 2027 is an adaptive Linux desktop orchestration system, not a replacement for Linux, XFCE, or the user's applications.**
 
@@ -54,7 +54,7 @@ This is the foundation upon which the professional PlebMachine 2027 architecture
 
 <!-- PLEBVOX:START -->
 
-## 1. The First and Most Important Principle: The User Owns the Computer
+## 1. The First and Most Important Principle: The User Owns the Computer!
 
 PlebMachine is a guest in the user's computer.
 
@@ -98,7 +98,7 @@ The fundamental relationship is:
 
 <!-- PLEBVOX:START -->
 
-## 2. The Desktop Baseline — The Foundation of OFF
+## 2. The Desktop Baseline — The Foundation of OFF!
 
 The most important architectural component of PlebMachine 2027 is the **PlebMachine Desktop Baseline**.
 
@@ -125,7 +125,7 @@ The baseline establishes the answer to one fundamental question:
 
 That answer becomes the reference point for OFF.
 
-### OFF means Restore the User's Desktop
+### OFF means Restore the User's Desktop!
 
 OFF is not merely:
 
@@ -148,7 +148,7 @@ A successful restoration may eventually be accompanied by the traditional PlebMa
 
 <!-- PLEBVOX:START -->
 
-## 3. The Baseline Must Not Become a Prison
+## 3. The Baseline Must Not Become a Prison!
 
 The user's normal desktop is allowed to evolve.
 
@@ -166,15 +166,15 @@ PlebMachine must be able to recognise deliberate user changes and incorporate th
 
 Therefore, the architecture must distinguish between:
 
-### Original Baseline
+### Original Baseline!
 
 The desktop state recorded when PlebMachine first takes responsibility.
 
-### Current User Baseline
+### Current User Baseline!
 
 The user's subsequently established normal desktop configuration.
 
-### Temporary PlebMachine State
+### Temporary PlebMachine State!
 
 The desktop configuration created while PlebMachine is actively managing a mode or state.
 
@@ -188,7 +188,7 @@ The temporary PlebMachine state must never silently become the user's baseline.
 
 <!-- PLEBVOX:START -->
 
-## 4. The Computer Is Allowed to Grow
+## 4. The Computer Is Allowed to Grow!
 
 The desktop baseline and the installed software environment are two different things.
 
@@ -227,7 +227,7 @@ It should not assume that a particular distribution contains a particular applic
 
 It should not require the user to install a predetermined application stack merely to make PlebMachine functional.
 
-### Most importantly:
+### Most importantly:!
 
 > **PlebMachine must never uninstall or remove a user's software merely because that software is not currently configured for a PlebMachine mode.**
 
@@ -243,7 +243,7 @@ The user decides.
 
 <!-- PLEBVOX:START -->
 
-## 5. PlebMachine Must Grow With the PlebUser
+## 5. PlebMachine Must Grow With the PlebUser!
 
 PlebMachine should be useful from Day One, but it must not be frozen on Day One.
 
@@ -285,7 +285,7 @@ This is one of the defining characteristics of professional PlebMachine.
 
 <!-- PLEBVOX:START -->
 
-## 6. PlebUser Setup Must Be Re-Runnable
+## 6. PlebUser Setup Must Be Re-Runnable!
 
 The PlebUser Setup Wizard must not be designed as a one-time installation wizard.
 
@@ -317,7 +317,7 @@ It should understand:
 
 <!-- PLEBVOX:START -->
 
-## 7. Application Discovery Must Be Dynamic
+## 7. Application Discovery Must Be Dynamic!
 
 PlebMachine should inspect the actual computer rather than maintaining a fictional list of applications.
 
@@ -356,7 +356,7 @@ The final decision belongs to the PlebUser.
 
 <!-- PLEBVOX:START -->
 
-## 8. The Twelve PlebMachine Modes
+## 8. The Twelve PlebMachine Modes!
 
 The current conceptual mode structure contains twelve working environments:
 
@@ -387,7 +387,7 @@ The PlebUser remains free to launch other applications whenever required.
 
 <!-- PLEBVOX:START -->
 
-## 9. The Four PlebMachine Operating States
+## 9. The Four PlebMachine Operating States!
 
 PlebMachine also needs a clear distinction between **state** and **mode**.
 
@@ -401,7 +401,7 @@ The operating state describes:
 
 The architecture currently recognises four states:
 
-### OFF
+### OFF!
 
 The normal user desktop.
 
@@ -409,13 +409,13 @@ PlebMachine is not managing the desktop.
 
 OFF restores the current user desktop baseline.
 
-### AUTOMATIC
+### AUTOMATIC!
 
 PlebMachine can launch and configure the selected environment with minimal user interaction.
 
 This is particularly useful for users who want the computer to do more of the preparation automatically.
 
-### COGNITIVE
+### COGNITIVE!
 
 PlebMachine provides assistance and context.
 
@@ -423,7 +423,7 @@ Small adaptive windows can present appropriate applications and choices.
 
 The user remains in control.
 
-### FULL-AUTO
+### FULL-AUTO!
 
 The experienced user can move between environments with minimal interruption and maximum automation.
 
@@ -435,7 +435,7 @@ The essential principle is that **state and mode remain separate concepts**.
 
 <!-- PLEBVOX:START -->
 
-## 10. Cognitive Mode Windows Must Be Adaptive
+## 10. Cognitive Mode Windows Must Be Adaptive!
 
 Cognitive Mode must not use one unnecessarily large fixed window for every situation.
 
@@ -466,7 +466,7 @@ The online button should lead to the corresponding PlebWare knowledge environmen
 
 <!-- PLEBVOX:START -->
 
-## 11. PlebMachine Is an Ecosystem of Independent Components
+## 11. PlebMachine Is an Ecosystem of Independent Components!
 
 Every major PlebWare component should be capable of operating independently while also exposing an integration interface for PlebMachine.
 
@@ -476,27 +476,27 @@ The principle is:
 
 This applies to components such as:
 
-### Mission Control
+### Mission Control!
 
 **"I'm the coordinator."**
 
-### Pleb Tools
+### Pleb Tools!
 
 **"I'm the toolbox and control panel."**
 
-### Pleb Gizmo
+### Pleb Gizmo!
 
 **"I'm the convenient interface."**
 
-### Pleb Decision Maker
+### Pleb Decision Maker!
 
 **"I'm the decision mechanism."**
 
-### Pleb Pause
+### Pleb Pause!
 
 **"I'm the break system."**
 
-### Cognitive Mode
+### Cognitive Mode!
 
 **"I'm the human-friendly intervention layer."**
 
@@ -506,7 +506,7 @@ These components can cooperate without becoming one giant monolithic application
 
 <!-- PLEBVOX:START -->
 
-## 12. Mission Control Is the Heart, Not the Owner
+## 12. Mission Control Is the Heart, Not the Owner!
 
 Mission Control coordinates the PlebMachine environment.
 
@@ -534,7 +534,7 @@ It does not own the ecosystem.
 
 <!-- PLEBVOX:START -->
 
-## 13. Pleb Pause Must Be Its Own System
+## 13. Pleb Pause Must Be Its Own System!
 
 PlebMachine should eventually provide its own break/reminder system rather than depending on a third-party application such as Stretchly for its fundamental Cognitive Mode behaviour.
 
@@ -565,11 +565,11 @@ Pleb Pause therefore becomes another example of the central PlebMachine principl
 
 <!-- PLEBVOX:START -->
 
-## 14. PlebWare Online and PlebMachine Offline
+## 14. PlebWare Online and PlebMachine Offline!
 
 PlebWare Online and PlebMachine should complement one another.
 
-### PlebWare Online
+### PlebWare Online!
 
 Provides:
 
@@ -582,7 +582,7 @@ Provides:
 - application education
 - PlebWare knowledge
 
-### PlebMachine
+### PlebMachine!
 
 Provides:
 
@@ -607,7 +607,7 @@ The two systems therefore form a learning loop rather than a dependency.
 
 <!-- PLEBVOX:START -->
 
-## 15. The Professional Architecture Must Respect Native Linux
+## 15. The Professional Architecture Must Respect Native Linux!
 
 PlebMachine should work with Linux rather than pretending to replace it.
 
@@ -627,7 +627,7 @@ This keeps PlebMachine powerful without turning it into a competing desktop envi
 
 <!-- PLEBVOX:START -->
 
-## 16. The Build Philosophy: Mad Scientist Underneath, Friendly Machine on Top
+## 16. The Build Philosophy: Mad Scientist Underneath, Friendly Machine on Top!
 
 PlebMachine 2027 should be engineered with serious discipline.
 
@@ -664,7 +664,7 @@ Or, more simply:
 
 <!-- PLEBVOX:START -->
 
-## 17. Recovery Is a First-Class Requirement
+## 17. Recovery Is a First-Class Requirement!
 
 PlebMachine will modify the desktop.
 
@@ -692,13 +692,13 @@ The objective is always to be able to return the user to their normal desktop.
 
 <!-- PLEBVOX:START -->
 
-## 18. The Development Order
+## 18. The Development Order!
 
 PlebMachine 2027 should not be developed as one enormous application.
 
 The recommended order is:
 
-### Phase 1 — Define the Contracts
+### Phase 1 — Define the Contracts!
 
 Formalise:
 
@@ -711,7 +711,7 @@ Formalise:
 - Restoration
 - Component integration
 
-### Phase 2 — Build the Baseline System
+### Phase 2 — Build the Baseline System!
 
 Create the mechanism for:
 
@@ -724,13 +724,13 @@ Create the mechanism for:
 
 This phase is foundational.
 
-### Phase 3 — Build Application Discovery
+### Phase 3 — Build Application Discovery!
 
 Create reliable discovery of installed applications.
 
 Do not assume a fixed application collection.
 
-### Phase 4 — Rebuild PlebUser Setup
+### Phase 4 — Rebuild PlebUser Setup!
 
 Make the wizard:
 
@@ -741,7 +741,7 @@ Make the wizard:
 - configure
 - re-run
 
-### Phase 5 — Build the Component Interfaces
+### Phase 5 — Build the Component Interfaces!
 
 Establish clean interfaces between:
 
@@ -752,15 +752,15 @@ Establish clean interfaces between:
 - Pleb Pause
 - Cognitive Mode
 
-### Phase 6 — Build Mode Configuration
+### Phase 6 — Build Mode Configuration!
 
 Implement the twelve working environments and their application/workspace relationships.
 
-### Phase 7 — Build Adaptive Cognitive Windows
+### Phase 7 — Build Adaptive Cognitive Windows!
 
 Generate windows dynamically from the applications actually configured for each mode.
 
-### Phase 8 — Build State Management
+### Phase 8 — Build State Management!
 
 Implement:
 
@@ -771,7 +771,7 @@ Implement:
 
 with a clear separation between state and mode.
 
-### Phase 9 — Build Recovery and Verification
+### Phase 9 — Build Recovery and Verification!
 
 Test:
 
@@ -784,7 +784,7 @@ Test:
 - restart/recovery
 - OFF restoration
 
-### Phase 10 — Polish
+### Phase 10 — Polish!
 
 Only after the architecture is reliable should the interface receive the full PlebMachine 2027 visual treatment.
 
@@ -794,67 +794,67 @@ The machine should be beautiful because the engineering underneath it is sound.
 
 <!-- PLEBVOX:START -->
 
-## 19. The Golden Rules
+## 19. The Golden Rules!
 
 The following rules should become permanent PlebMachine architecture rules.
 
-### Rule 1
+### Rule 1!
 
 **The user owns the computer.**
 
-### Rule 2
+### Rule 2!
 
 **PlebMachine does not replace Linux or XFCE.**
 
-### Rule 3
+### Rule 3!
 
 **PlebMachine may temporarily transform the desktop. It does not own the desktop.**
 
-### Rule 4
+### Rule 4!
 
 **OFF means restore the user's current desktop baseline.**
 
-### Rule 5
+### Rule 5!
 
 **The desktop baseline is about the desktop, not the entire computer.**
 
-### Rule 6
+### Rule 6!
 
 **The user's normal desktop may evolve.**
 
-### Rule 7
+### Rule 7!
 
 **PlebMachine must learn legitimate changes to the user's normal desktop.**
 
-### Rule 8
+### Rule 8!
 
 **Applications are dynamically discovered.**
 
-### Rule 9
+### Rule 9!
 
 **PlebMachine must never uninstall user software simply because it is not configured for a PlebMachine mode.**
 
-### Rule 10
+### Rule 10!
 
 **PlebUser Setup must be safely re-runnable.**
 
-### Rule 11
+### Rule 11!
 
 **PlebMachine recommends; the human decides.**
 
-### Rule 12
+### Rule 12!
 
 **Every major PlebWare component should be capable of independent operation.**
 
-### Rule 13
+### Rule 13!
 
 **Mission Control coordinates; it does not own.**
 
-### Rule 14
+### Rule 14!
 
 **PlebMachine must recover gracefully from failure.**
 
-### Rule 15
+### Rule 15!
 
 **PlebMachine grows with the PlebUser.**
 
@@ -862,7 +862,7 @@ The following rules should become permanent PlebMachine architecture rules.
 
 <!-- PLEBVOX:START -->
 
-## 20. The Conference Table
+## 20. The Conference Table!
 
 The architecture can ultimately be understood as one conversation around one table.
 
@@ -920,7 +920,7 @@ Mission Control answers:
 
 <!-- PLEBVOX:START -->
 
-## 21. The Ultimate PlebMachine Principle
+## 21. The Ultimate PlebMachine Principle!
 
 Everything in this document ultimately comes down to one idea:
 
@@ -968,7 +968,7 @@ And that is where PlebMachine 2027 begins.
 
 ---
 
-## Status
+## Status!
 
 **Architecture Priority:** 🔴 **NB! NB! NB! — ABSOLUTELY CRITICAL**
 
