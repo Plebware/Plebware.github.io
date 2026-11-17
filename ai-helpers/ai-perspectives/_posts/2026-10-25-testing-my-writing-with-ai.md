@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing My Writing With AI — Three Genres, Four Perspectives"
+title: "Testing My Writing With AI — Three Genres, Four Perspectives!"
 date: 2026-10-25
 category: "ai-perspectives"
 tags: [artificial-intelligence, writing, self-assessment, creativity, journaling, memoir, science-fiction, chatgpt, gemini, deepseek, meta-ai, plebware]
