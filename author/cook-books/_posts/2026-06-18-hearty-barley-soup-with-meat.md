@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hearty Barley Soup With Meat"
+title: "Hearty Barley Soup With Meat!"
 date: 2026-06-18
 ---
 
@@ -8,7 +8,7 @@ date: 2026-06-18
 
 <div align="center">
 
-# 🥣 Hearty Barley Soup With Meat 🥕
+# 🥣 Hearty Barley Soup With Meat 🥕!
 
 </div>
 
@@ -16,7 +16,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🥘 Ingredients
+## 🥘 Ingredients!
 
 - 🥔 4 Potatoes  
 - 🥩 500g Soup Meat  
@@ -35,7 +35,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 👩‍🍳 Method
+## 👩‍🍳 Method!
 
 1. Chop or cut the meat into small pieces.
 2. Place the meat into a saucepan and brown in oil.
@@ -55,7 +55,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🌿 Optional Garnish
+## 🌿 Optional Garnish!
 
 Serve with:
 
