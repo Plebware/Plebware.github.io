@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "The Keyboard Coup"
+title: "The Keyboard Coup!"
 date: 2026-10-26
 author: Othello Verrocchio
 ---
 
 <!-- PLEBVOX:START -->
 
-# ⌨️ The Day the Keyboard Took Command
+# ⌨️ The Day the Keyboard Took Command!
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/keyboard-coup.webp' | relative_url }}"
@@ -38,7 +38,7 @@ The human returned to work, keeping a closer eye on the command centre.
 
 <!-- PLEBVOX:END -->
 
-## 📋 WhatsApp Copy-and-Paste Version
+## 📋 WhatsApp Copy-and-Paste Version!
 
 ```
 ⌨️ The Day the Keyboard Took Command
