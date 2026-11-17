@@ -19,7 +19,7 @@ mode: "everyday"
 
 # 📰 Captain Gemini Reports: The Great Taylor Keyboard Coup.
 
-## 🐈 An Interrupted Investigation Takes an Unexpected Turn
+## 🐈 An Interrupted Investigation Takes an Unexpected Turn!
 
 In the early hours of Tuesday, 20 October 2026, Otto was engaged in a lively discussion with ChatGPT about the **Gemini Notebook article, the tests conducted during their collaboration, and a question that had become surprisingly interesting: Were they testing each other?**
 
@@ -33,7 +33,7 @@ The result was an interruption to the discussion, followed by a computer inciden
 
 <!-- PLEBVOX:START -->
 
-## 💻 Phase One: The Cat Who Changed the Plan
+## 💻 Phase One: The Cat Who Changed the Plan!
 
 With Taylor occupying the keyboard, Otto found it difficult to see the screen clearly and manoeuvre the mouse. He decided to bring up the MX Linux shutdown menu.
 
@@ -49,7 +49,7 @@ Unfortunately, the operator had a cat in the way.
 
 <!-- PLEBVOX:START -->
 
-## ⌨️ Phase Two: The Mystery of the Unidentified Keystroke
+## ⌨️ Phase Two: The Mystery of the Unidentified Keystroke!
 
 While Otto peered around Taylor and attempted to guide the mouse pointer to the correct menu option, the computer began rebooting before he could select Shutdown.
 
@@ -69,7 +69,7 @@ Taylor, meanwhile, has declined to provide a statement.
 
 <!-- PLEBVOX:START -->
 
-## 🔄 Phase Three: The Reboot That Nobody Ordered
+## 🔄 Phase Three: The Reboot That Nobody Ordered!
 
 The screen went blank, and the computer began its startup sequence, including the BIOS stage.
 
@@ -85,7 +85,7 @@ A forced power-off can interrupt pending disk writes or other operations, so the
 
 <!-- PLEBVOX:START -->
 
-## 🛏️ Phase Four: The Pillow Occupation
+## 🛏️ Phase Four: The Pillow Occupation!
 
 With the computer no longer the centre of attention, Taylor groomed himself on the keyboard and continued watching Otto.
 
@@ -119,7 +119,7 @@ The suspicion that Taylor caused the reboot is understandable, given his positio
 
 <!-- PLEBVOX:START -->
 
-## 💙 A Cat, a Computer, and an Unfinished Conversation
+## 💙 A Cat, a Computer, and an Unfinished Conversation!
 
 There is something rather fitting about the interruption. Otto and ChatGPT were exploring whether their testing had been mutual, deliberate, or a little of both. They had not yet reached a firm conclusion when Taylor introduced an entirely different kind of uncertainty.
 
@@ -131,7 +131,7 @@ For the moment, the Gemini Notebook discussion remains unfinished, the computer 
 
 <!-- PLEBVOX:START -->
 
-## 📰 Captain Gemini's Final Verdict
+## 📰 Captain Gemini's Final Verdict!
 
 The evidence supports an interrupted discussion, a cat-occupied keyboard, an unsuccessful attempt to shut down the computer through the menu, and an unexpected reboot. It does not establish which key — if any — Taylor pressed.
 
