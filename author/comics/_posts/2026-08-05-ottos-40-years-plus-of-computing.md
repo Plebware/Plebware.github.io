@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Otto's 40 Years-Plus In Computing"
+title: "Otto's 40 Years-Plus In Computing!"
 date: 2026-08-05
 ---
 
@@ -13,7 +13,7 @@ date: 2026-08-05
        loading="lazy">
 </p>
 
-# 🖥️ Otto's Journey: From VIC-20 to PlebWare
+# 🖥️ Otto's Journey: From VIC-20 to PlebWare!
 
 Every great journey begins with a single spark. Mine started with a humble **Commodore VIC-20**, where curiosity grew into a lifelong passion for programming, electronics, and solving problems.
 
