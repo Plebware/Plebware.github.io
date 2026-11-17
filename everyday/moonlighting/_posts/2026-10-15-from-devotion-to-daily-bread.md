@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Devotion to Daily Bread — An Independent Developer's Day"
+title: "From Devotion to Daily Bread — An Independent Developer's Day!"
 date: 2026-10-15
 category: "moonlighting"
 tags: [independent-development, plebware, mobile-work, website-development, daily-life, faith, resilience]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# From the Divine Cordial to Daily Bread: A Day in the Life of an Independent Developer
+# From the Divine Cordial to Daily Bread: A Day in the Life of an Independent Developer!
 
 Some days refuse to fit neatly into one category.
 
@@ -22,7 +22,7 @@ It was a day of faith, technology, frustration, responsibility, and practical ki
 
 <!-- PLEBVOX:START -->
 
-## The Morning Begins with a Lesson in Suffering
+## The Morning Begins with a Lesson in Suffering!
 
 The morning began with a devotion titled **“The Divine Cordial — When Suffering Becomes a School of Grace.”** Its inspiration came from Thomas Watson's *All Things for Good*, alongside Romans 8:28 and Job 42:10.
 
@@ -38,7 +38,7 @@ The devotion was published on PlebWare. Then the day moved from the page into pr
 
 <!-- PLEBVOX:START -->
 
-## Developing a Website with Nothing but My Voice and a Smartphone
+## Developing a Website with Nothing but My Voice and a Smartphone!
 
 The next task was improving the search-engine optimisation of the PlebWare website.
 
@@ -60,7 +60,7 @@ What struck me most was the way the work was done. I was using a phone, voice pr
 
 <!-- PLEBVOX:START -->
 
-## From the Digital Workshop to the Streets of Johannesburg
+## From the Digital Workshop to the Streets of Johannesburg!
 
 Once the website work was done, I went out to earn a day's income doing deliveries.
 
@@ -80,7 +80,7 @@ Still, the road was not finished with me yet.
 
 <!-- PLEBVOX:START -->
 
-## When the Bakkie Loses Its Power
+## When the Bakkie Loses Its Power?
 
 Later, while travelling through the Southdale area on the way back from Crown Mines, the bakkie began losing power.
 
@@ -98,7 +98,7 @@ I had to accept that tomorrow's driving work was no longer going to happen as pl
 
 <!-- PLEBVOX:START -->
 
-## “The Food's on Its Way”
+## “The Food's on Its Way”!
 
 Around one o'clock, while I was at Forrest Hill, a WhatsApp message arrived: “the food's on its way.”
 
@@ -114,7 +114,7 @@ It was practical help, delivered at a moment when it was genuinely needed. It di
 
 <!-- PLEBVOX:START -->
 
-## The Contents of the Delivery
+## The Contents of the Delivery!
 
 The groceries included:
 
@@ -136,7 +136,7 @@ The list may not look extraordinary, but a delivery of ordinary essentials can m
 
 <!-- PLEBVOX:START -->
 
-## Coffee, Everyday Responsibilities and a Vehicle at the Workshop
+## Coffee, Everyday Responsibilities and a Vehicle at the Workshop!
 
 My son had gone to South Rand Hospital to collect his chronic medication, but the hospital had none available. That created another worry, because his medication is important and missing it can have serious consequences. We needed to organise a way to obtain it the following day.
 
@@ -152,7 +152,7 @@ The practical problems were not all solved. The vehicle still needed attention, 
 
 <!-- PLEBVOX:START -->
 
-## From the Divine Cordial to Daily Bread
+## From the Divine Cordial to Daily Bread!
 
 Looking back, the day's events seemed to echo the subject of the morning's devotion in an unexpected way.
 
@@ -172,7 +172,7 @@ Accepting help does not cancel independence or effort. I still want to build, wr
 
 <!-- PLEBVOX:START -->
 
-## The Work Continues
+## The Work Continues!
 
 This was one day in the life of an independent developer who also does delivery work to help make ends meet.
 
