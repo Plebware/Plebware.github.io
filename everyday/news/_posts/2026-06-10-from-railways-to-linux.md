@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Railways To Linux: My Technical Journey"
+title: "From Railways To Linux: My Technical Journey!"
 date: 2026-06-10
 categories: [linux, biography, systems, plebware]
 tags: [railways, engineering, mx-linux, xfce, kde, plebmachine, plebware]
@@ -9,13 +9,13 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🔧 From Railways To Linux: My Technical Journey
+# 🔧 From Railways To Linux: My Technical Journey!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🚂 Where It All Began
+## 🚂 Where It All Began!
 
 My technical background did not begin with computers.
 
@@ -43,7 +43,7 @@ The same principles would later shape my approach to software and Linux.
 
 <!-- PLEBVOX:START -->
 
-## 💻 Discovering Computers
+## 💻 Discovering Computers!
 
 As personal computers became more common, I developed an interest in understanding how they worked beneath the surface.
 
@@ -61,7 +61,7 @@ This curiosity eventually led me into operating systems, programming, system adm
 
 <!-- PLEBVOX:START -->
 
-## 🐧 The Linux Years
+## 🐧 The Linux Years!
 
 Over time Linux became my primary computing platform.
 
@@ -94,7 +94,7 @@ My preferred browsers include:
 
 <!-- PLEBVOX:START -->
 
-## 🏗️ The Birth Of PlebWare
+## 🏗️ The Birth Of PlebWare!
 
 One of the most significant projects in my journey was PlebWare.
 
@@ -121,7 +121,7 @@ The goal has always been simple:
 
 <!-- PLEBVOX:START -->
 
-## 🤖 Building PlebMachine
+## 🤖 Building PlebMachine!
 
 The latest evolution of that vision is PlebMachine.
 
@@ -154,7 +154,7 @@ The system is built around state-driven design, allowing environments, tools, an
 
 <!-- PLEBVOX:START -->
 
-## 📖 Author, Publisher, Builder
+## 📖 Author, Publisher, Builder!
 
 Although technology remains an important part of my life, my focus today extends beyond software.
 
@@ -179,7 +179,7 @@ Technology serves as the foundation that makes all of these creative pursuits po
 
 <!-- PLEBVOX:START -->
 
-## 🎯 Looking Forward
+## 🎯 Looking Forward!
 
 My journey has taken me from railway workshops and electrical systems to Linux desktops, publishing platforms, and modular computing environments.
 
