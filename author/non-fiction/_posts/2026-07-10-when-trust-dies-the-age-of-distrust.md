@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "When Trust Dies - The Age of Distrust"
+title: "When Trust Dies - The Age of Distrust?"
 date: 2026-07-10
 ---
 
 <!-- PLEBVOX:START -->
 
-# **The Breaking Point of Ordinary People** 
+# **The Breaking Point of Ordinary People**! 
 
  
 
@@ -14,7 +14,7 @@ date: 2026-07-10
 
 <!-- PLEBVOX:START -->
 
-## 🔑  **Broken Promises** 
+## 🔑  **Broken Promises**! 
 
 Governments promise.
 Trust is affected at an International level,  but I will focus on the local South African perspective,  albeit Global politics also play a role. 
@@ -33,7 +33,7 @@ Eventually, people stop believing everyone.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 *Economic Pressure Changes Character*
+## 🔑 *Economic Pressure Changes Character*!
 
  When people are constantly worried about money:
 patience disappears
@@ -57,7 +57,7 @@ Feeling ignored eventually becomes anger,  something I see in my own life,  and 
 
 <!-- PLEBVOX:START -->
 
-## 🔑  **Trust Is Earned Slowly but Lost Quickly** 
+## 🔑  **Trust Is Earned Slowly but Lost Quickly**! 
 
 One betrayal. One exposed lie. One dishonest business. One cheating spouse. One lying friend.
 
@@ -67,7 +67,7 @@ Eventually, people begin expecting disappointment.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 **Sadly, Social Media Amplifies Outrage** 
+## 🔑 **Sadly, Social Media Amplifies Outrage**! 
 
 Bad news spreads faster than good news. 
 
@@ -83,7 +83,7 @@ Not because they're true... But simply because they keep people watching.
 
 <!-- PLEBVOX:START -->
 
-## 🔑  **Exhaustion Makes Us Less Compassionate** 
+## 🔑  **Exhaustion Makes Us Less Compassionate**! 
 
  People working long hours... paying higher prices... sleeping less...
 Leads to negativity and abrasive reactions
@@ -94,7 +94,7 @@ Eventually, even kind people become impatient,  angry 😠 and frustrated 😰.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 **The Loss of Community** 
+## 🔑 **The Loss of Community**! 
 
 Years ago, neighbours knew one another.
 Today many people don't even know the family living next door.
@@ -104,7 +104,7 @@ This leads to indifference and loneliness. Loneliness breeds suspicion.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 **Everyone Is Fighting Their Own Battle** 
+## 🔑 **Everyone Is Fighting Their Own Battle**! 
 
 The rude cashier. The impatient driver. The angry customer. The exhausted nurse.
 You rarely know what happened to them before they met you.
@@ -113,7 +113,7 @@ You rarely know what happened to them before they met you.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 **We Have More Technology but Less Connection** 
+## 🔑 **We Have More Technology but Less Connection**! 
 
  Thousands of so-called online friends,  who really are strangers,  following you for just the bragging rights. 
 
@@ -141,7 +141,7 @@ Fear changes how societies behave.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 **Cynicism Feels Safer Than Hope** 
+## 🔑 **Cynicism Feels Safer Than Hope**! 
 
  People say:
 "Nothing will ever change."
@@ -151,7 +151,7 @@ Not because they know... But because recurring disappointment has hurt them so o
 
 <!-- PLEBVOX:START -->
 
-## 🔑  **The Cost of Constant Crisis*^ 
+## 🔑  **The Cost of Constant Crisis*^! 
 
 Pandemics. Inflation. Load shedding. Wars. Job losses.
 
@@ -161,7 +161,7 @@ Living in permanent crisis changes the human spirit. It turns good people into h
 
 <!-- PLEBVOX:START -->
 
-## 🔑  **Respect Has Become Conditional**
+## 🔑  **Respect Has Become Conditional**!
 
 People increasingly treat others according to:
 - status
@@ -176,7 +176,7 @@ Instead of simply recognising shared humanity.
 
 <!-- PLEBVOX:START -->
 
-## 🔑  **Small Acts Still Matter** 
+## 🔑  **Small Acts Still Matter**! 
 
 One smile. One honest worker. One employer who keeps their word. One neighbour who helps.
 
