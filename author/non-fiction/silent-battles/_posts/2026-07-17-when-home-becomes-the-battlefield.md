@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Silent Battles – Part 1 - Relentless Stress"
+title: "Silent Battles – Part 1 - Relentless Stress!"
 date: 2026-07-17
 category: "non-fiction"
 tags: [stress, arguments, complaints, shouting, cussing, profanity, rage]
@@ -10,13 +10,13 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🔑 When Faith Is Drowning - When Home Becomes the Battlefield
+# 🔑 When Faith Is Drowning - When Home Becomes the Battlefield!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## **The Hidden Weight of Constant Stress**
+## **The Hidden Weight of Constant Stress**!
 
 *By O.C. Verrocchio*
 
