@@ -10,7 +10,7 @@ author: "God's Journalist — Cody — Dei Scriptor"
 
 <!-- PLEBVOX:START -->
 
-# **🌿 Planning to Survive — When Life Becomes Overwhelming.**
+# **🌿 Planning to Survive — When Life Becomes Overwhelming.**!
 
 **📅 Friday, 13 November 2026.**
 
