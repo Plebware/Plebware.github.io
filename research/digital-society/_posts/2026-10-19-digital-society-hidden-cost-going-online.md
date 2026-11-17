@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Society — The Hidden Cost of Going Online"
+title: "Digital Society — The Hidden Cost of Going Online!"
 date: 2026-10-19
 category: "research"
 tags: [digital-society, South-Africa, digital-inclusion, poverty, technology, online-work, digital-banking]
