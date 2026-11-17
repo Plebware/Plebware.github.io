@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "AI-Helpers Tools"
+title: "AI-Helpers Tools!"
 date: 2026-09-19
 ---
 
 <!-- PLEBVOX:START -->
-# Mode-Specific Tool for AI_Helpers
+# Mode-Specific Tool for AI_Helpers!
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-# Script Breakdown: `{mode}-tools.sh` (Full Mode Tool Dispatcher)
+# Script Breakdown: `{mode}-tools.sh` (Full Mode Tool Dispatcher)!
 
 This version is the fully populated iteration of the **PlebMachine** operational mode tool launcher. Unlike the single-item variant, this script maps tailored multi-application choices to all 12 operational modes in `COGNITIVE` state while maintaining instant auto-launching in `AUTOMATIC` state.
 
@@ -16,7 +16,7 @@ This version is the fully populated iteration of the **PlebMachine** operational
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Key Functionality
+## Key Functionality!
 
 * **Environment Initialization:** Sets explicit display variables (`DISPLAY`, `XAUTHORITY`, `GDK_BACKEND=x11`) to ensure graphical applications launch smoothly when invoked asynchronously by desktop shortcuts or background triggers.
 * **Dynamic Mode Context:** Identifies its execution context by stripping file prefixes and extensions from `$0` (e.g., `developer-tools.sh` becomes `developer`), allowing one unified template script to serve all 12 PlebMachine modes.
@@ -29,7 +29,7 @@ This version is the fully populated iteration of the **PlebMachine** operational
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Mode-Specific Application Maps (`COGNITIVE` State)
+## Mode-Specific Application Maps (`COGNITIVE` State)!
 
 <!-- PLEBVOX:END -->
 | Operational Mode | Default App (`AUTOMATIC`) | Checklist Applications (`COGNITIVE`) |
@@ -50,18 +50,18 @@ This version is the fully populated iteration of the **PlebMachine** operational
 ---
 
 <!-- PLEBVOX:START -->
-## Dependencies
+## Dependencies!
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### System Utilities & GUI Engine
+### System Utilities & GUI Engine!
 * **`bash`**: Required for string trimming, arrays (`read -ra`), and logic flow.
 * **`grep`, `cut`, `tr`, `xargs`**: Parsers used to extract values from `state.conf`.
 * **`zenity`**: Renders the GTK checklist window.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Executables Required Across Modes
+### Executables Required Across Modes!
 To ensure all checklist items operate correctly, the host system needs these binaries installed and available in `$PATH` (or at their explicit paths):
 
 * **Browsers:** `firefox`, `/usr/bin/brave-browser-stable`, `vivaldi`
@@ -207,7 +207,7 @@ done
 ---
 
 <!-- PLEBVOX:START -->
-## Review — 2026-09-20
+## Review — 2026-09-20!
 
 **Review subject:** AI Helpers Tools
 
