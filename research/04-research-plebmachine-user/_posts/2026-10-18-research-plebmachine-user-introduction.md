@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Research PlebMachine User — Mode 04 Introduction and Learning Guide"
+title: "Research PlebMachine User — Mode 04 Introduction and Learning Guide!"
 date: 2026-10-18
 description: "An introduction to Research PlebMachine User, Mode 04 of PlebMachine, and the PlebWare tutorials, tools, and resources that support it."
 category: "research"
