@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Mobile Office Reflection"
+title: "Mobile Office Reflection!"
 date: 2026-06-24
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🚗 Writing With a New Purpose
+# 🚗 Writing With a New Purpose!
 
 Most of my writing these days is composed from the driver's seat. 💺
 
