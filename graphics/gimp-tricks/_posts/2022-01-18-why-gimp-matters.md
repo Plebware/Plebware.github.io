@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Why GIMP Matters"
+title: "Why GIMP Matters?"
 date: 2022-01-18
 ---
 
 <!-- PLEBVOX:START -->
 
-# Creativity Without Barriers
+# Creativity Without Barriers!
 
 Many people believe that professional graphic design requires expensive software, powerful computers, and years of specialised training.
 
@@ -69,7 +69,7 @@ Every project becomes an opportunity to learn.
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Perspective
+## The PlebWare Perspective!
 
 PlebWare has always promoted technology that is accessible, understandable, and practical.
 
@@ -95,7 +95,7 @@ Skill becomes more important than software cost.
 
 <!-- PLEBVOX:START -->
 
-## What This Section Covers
+## What This Section Covers?
 
 The GIMP Tricks section explores:
 
@@ -121,7 +121,7 @@ The objective is to help users create better images.
 
 <!-- PLEBVOX:START -->
 
-## A Tool for Storytellers
+## A Tool for Storytellers!
 
 Images communicate ideas in ways that words sometimes cannot.
 
