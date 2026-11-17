@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Domino Effect — How One Thing Changes Everything"
+title: "The Domino Effect — How One Thing Changes Everything!"
 date: 2026-10-26
 category: "authors-desk"
 tags: [domino-effect, systems-thinking, personal-finance, emotional-contagion, decision-making, personal-reflection]
@@ -11,7 +11,7 @@ description: "A practical reflection on how small events can trigger wider conse
 
 <!-- PLEBVOX:START -->
 
-# 🁢 The Domino Effect: How One Thing Changes Everything
+# 🁢 The Domino Effect: How One Thing Changes Everything!
 
 A row of dominoes looks harmless. Each piece is small, and each stands quietly beside the next. Yet one push can set the whole row in motion.
 
@@ -25,7 +25,7 @@ This article brings the idea down to earth through practical examples and person
 
 <!-- PLEBVOX:START -->
 
-## 🔗 1. How the Domino Effect Works
+## 🔗 1. How the Domino Effect Works!
 
 A domino effect begins when one event changes the conditions for the next event. That second event may then trigger a third, creating a chain reaction.
 
@@ -45,7 +45,7 @@ The earlier we recognise a developing chain, the more opportunities we may have 
 
 <!-- PLEBVOX:START -->
 
-## 💰 2. The Financial Domino Effect
+## 💰 2. The Financial Domino Effect!
 
 Money is one of the clearest places to see connected consequences. A household budget is not simply a list of independent amounts. Income, rent, food, electricity, communication, transport, and unexpected repairs all compete for the same limited resources.
 
@@ -59,11 +59,11 @@ The same principle can work positively. A small regular saving may look insignif
 
 <!-- PLEBVOX:START -->
 
-## 🧾 3. When R610 Stands Between a Budget and Trouble
+## 🧾 3. When R610 Stands Between a Budget and Trouble!
 
 Consider an illustrative household budget in which three sources of income cover the monthly cost of living. The names and identities of the people involved are deliberately omitted; the figures are retained to show how the arithmetic works.
 
-### Monthly income
+### Monthly income!
 
 - First income: **R24,000**
 - Second income: **R24,000**
@@ -71,7 +71,7 @@ Consider an illustrative household budget in which three sources of income cover
 
 **Total monthly income: R80,000**
 
-### Monthly expenses
+### Monthly expenses!
 
 - Rent: **R15,000**
 - Electricity: **R10,000**
@@ -92,7 +92,7 @@ R610 is not a comfortable emergency fund. It is the narrow space between the pla
 
 <!-- PLEBVOX:START -->
 
-### 🚗 Domino One: An Unexpected Vehicle Repair
+### 🚗 Domino One: An Unexpected Vehicle Repair!
 
 Imagine that a vehicle needed for everyday responsibilities suddenly requires a repair costing R20,000. This is a hypothetical example, not a claim that a particular repair will cost that amount.
 
@@ -106,7 +106,7 @@ South African financial guidance recognises unexpected car repairs as one possib
 
 <!-- PLEBVOX:START -->
 
-### 🔁 Domino Two: Borrowing From Tomorrow
+### 🔁 Domino Two: Borrowing From Tomorrow!
 
 If there is no available reserve, borrowing may appear to solve the immediate problem. But the borrowed amount must eventually be repaid, sometimes with fees or interest.
 
@@ -114,7 +114,7 @@ That repayment becomes a new monthly obligation. The next budget is now tighter,
 
 Borrowing is not always avoidable, and this example is not a criticism of people who need it. The point is to recognise that a short-term solution can create a second financial domino.
 
-### 🧩 Domino Three: Depending on Additional Income
+### 🧩 Domino Three: Depending on Additional Income!
 
 Now consider what happens if the additional work income of R32,000 temporarily disappears.
 
@@ -126,13 +126,13 @@ This demonstrates why the reliability of income matters as much as the total. A 
 
 <!-- PLEBVOX:START -->
 
-### 🪙 Domino Four: Every Rand Already Has a Job
+### 🪙 Domino Four: Every Rand Already Has a Job!
 
 When the monthly surplus is only R610, there is little room to absorb a surprise. The issue is not simply the size of the emergency; it is the small amount of flexibility available when it arrives.
 
 The budget example also reminds us to distinguish between figures and people. A set of numbers can illustrate a financial mechanism, but it cannot tell the whole story of the household behind them.
 
-### 🌱 Domino Five: The Positive Financial Chain
+### 🌱 Domino Five: The Positive Financial Chain!
 
 Small improvements can also trigger positive consequences. If a household can safely free up and save an extra R1000 per month, the monthly buffer would rise from R610 to R1610. An extra R3000 would raise it to R3610, and an extra R5000 would raise it to R5610.
 
@@ -140,7 +140,7 @@ Saving R1000 every month for a year would add **R12,000**, before any interest. 
 
 These figures are illustrations, not instructions to cut any particular expense. Essential costs, personal circumstances, and the risks of going without something must be considered before making changes.
 
-### The Budget and Our Freedom to Choose
+### The Budget and Our Freedom to Choose!
 
 The financial domino effect shows why a small buffer matters. It does not make life predictable, but it can create more options when something unexpected happens.
 
@@ -150,7 +150,7 @@ The aim is not to blame people for having limited resources. It is to understand
 
 <!-- PLEBVOX:START -->
 
-## ❤️ 4. The Emotional Domino Effect: Mood Contagion
+## ❤️ 4. The Emotional Domino Effect: Mood Contagion!
 
 Emotions do not always remain inside one person. They can influence the people around us through our words, facial expressions, tone of voice, and behaviour. This is often described as **emotional contagion**.
 
@@ -168,7 +168,7 @@ That pause may interrupt a negative chain reaction.
 
 <!-- PLEBVOX:START -->
 
-## 🌍 5. The Domino Effect Beyond the Household
+## 🌍 5. The Domino Effect Beyond the Household!
 
 The same pattern appears in organisations and wider systems. A delayed delivery can interrupt production. A missing component can delay a finished product. That delay may affect customers, staff schedules, and other businesses that depend on the delivery.
 
@@ -182,7 +182,7 @@ When something goes wrong, it is worth asking not only, “What happened?” but
 
 <!-- PLEBVOX:START -->
 
-## 🛑 6. How to Interrupt a Negative Chain
+## 🛑 6. How to Interrupt a Negative Chain!
 
 We cannot prevent every unexpected event. We can, however, look for places where a response might limit the consequences.
 
@@ -199,7 +199,7 @@ These are not guarantees. They are ways to create more opportunities to respond 
 
 <!-- PLEBVOX:START -->
 
-## 🙏 7. A Reflection on Responsibility and Faith
+## 🙏 7. A Reflection on Responsibility and Faith!
 
 The domino effect also invites reflection on how our choices affect other people. We may not see every consequence of our actions, and we cannot carry responsibility for every event in the world. Yet we can choose to act with care, honesty, patience, and compassion.
 
@@ -213,7 +213,7 @@ A useful question to carry into the day is this: **If my next action becomes the
 
 <!-- PLEBVOX:START -->
 
-## 🧠 8. The Lesson: Small Things Are Not Always Small
+## 🧠 8. The Lesson: Small Things Are Not Always Small!
 
 The domino effect reminds us that consequences can travel. A minor disruption may create a major problem when there is little room to absorb it. Equally, a small constructive habit may become the beginning of a healthier pattern.
 
