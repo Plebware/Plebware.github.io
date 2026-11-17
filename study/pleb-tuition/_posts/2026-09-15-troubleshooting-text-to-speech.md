@@ -16,7 +16,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## Welcome To Lesson 8
+## Welcome To Lesson 8!
 
 Welcome back to **PlebTuition**.
 
@@ -42,7 +42,7 @@ Most TTS problems are simple to diagnose.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Start With The Simplest Question
+## 🔑 Start With The Simplest Question!
 
 Before changing lots of settings, ask:
 
@@ -72,7 +72,7 @@ The sound is simply going somewhere else.
 
 <!-- PLEBVOX:START -->
 
-## Problem 1 — The Phone Says Nothing
+## Problem 1 — The Phone Says Nothing!
 
 If TTS produces no speech, work through these checks.
 
@@ -92,7 +92,7 @@ The problem may instead be the application or the particular text you are trying
 
 <!-- PLEBVOX:START -->
 
-## Problem 2 — The Voice Is Too Fast
+## Problem 2 — The Voice Is Too Fast!
 
 A fast voice can make reading difficult.
 
@@ -112,7 +112,7 @@ Your objective is to understand what is being spoken.
 
 <!-- PLEBVOX:START -->
 
-## Problem 3 — The Voice Sounds Strange
+## Problem 3 — The Voice Sounds Strange!
 
 Sometimes a voice sounds unnatural, robotic, distorted, or simply unpleasant.
 
@@ -132,7 +132,7 @@ Remember what we learned in Lesson 5:
 
 <!-- PLEBVOX:START -->
 
-## Problem 4 — The Pronunciation Is Wrong
+## Problem 4 — The Pronunciation Is Wrong!
 
 TTS systems do not understand every word perfectly.
 
@@ -150,7 +150,7 @@ This is one reason why testing voices with real PlebWare articles is useful.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Problem 5 — I Cannot Select The Text
+## 🔑 Problem 5 — I Cannot Select The Text!
 
 Sometimes you want to use **Speak Selection** or another read-aloud function, but the application does not allow you to select text.
 
@@ -173,7 +173,7 @@ The speech engine and the application are two different parts of the system.
 
 <!-- PLEBVOX:START -->
 
-## Problem 6 — TalkBack Or VoiceOver Came On
+## Problem 6 — TalkBack Or VoiceOver Came On!
 
 This can be surprising if you were only trying to test TTS.
 
@@ -193,7 +193,7 @@ The exact shortcut can vary between devices and software versions.
 
 <!-- PLEBVOX:START -->
 
-## Problem 7 — The Phone Reads Everything
+## Problem 7 — The Phone Reads Everything!
 
 If your phone suddenly starts speaking buttons, menus, icons and other things as you touch them, a screen reader may be active.
 
@@ -209,7 +209,7 @@ Turn the screen reader off and return to the normal TTS or read-aloud feature.
 
 <!-- PLEBVOX:START -->
 
-## Problem 8 — The Voice Stops Halfway Through
+## Problem 8 — The Voice Stops Halfway Through!
 
 Long passages can sometimes behave differently from short pieces of text.
 
@@ -229,7 +229,7 @@ That can actually make listening easier.
 
 <!-- PLEBVOX:START -->
 
-## Problem 9 — Bluetooth Is Stealing The Voice
+## Problem 9 — Bluetooth Is Stealing The Voice!
 
 This is a classic mobile-device mystery.
 
@@ -256,7 +256,7 @@ It is simply playing somewhere else.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The PlebVox Troubleshooting Test
+## 🔑 The PlebVox Troubleshooting Test!
 
 Now let us use **PlebVox** as our test bench again.
 
@@ -290,7 +290,7 @@ If the answer is mostly yes, your TTS setup is probably working well.
 
 <!-- PLEBVOX:START -->
 
-## The Five-Step TTS Rescue
+## The Five-Step TTS Rescue!
 
 When something goes wrong, remember these five steps:
 
@@ -320,7 +320,7 @@ This simple process can solve many problems without changing everything on the p
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Do Not Change Everything At Once
+## 🔑 Do Not Change Everything At Once!
 
 This is an important troubleshooting rule.
 
@@ -340,7 +340,7 @@ It is also how you learn.
 
 <!-- PLEBVOX:START -->
 
-## Your Lesson 8 Checklist
+## Your Lesson 8 Checklist!
 
 Before moving on, you should know how to:
 
@@ -363,7 +363,7 @@ You are beginning to understand it.
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Principle
+## The PlebWare Principle!
 
 Technology should not make you feel stupid because something does not work.
 
@@ -387,7 +387,7 @@ You just need a method.
 
 <!-- PLEBVOX:START -->
 
-## Next Lesson — The Five-Minute TTS Test
+## Next Lesson — The Five-Minute TTS Test!
 
 In our final lesson of this series, we will put everything together.
 
