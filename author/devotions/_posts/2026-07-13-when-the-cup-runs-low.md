@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When The Cup Runs Low"
+title: "When The Cup Runs Low?"
 date: 2026-07-13
 category: "fiction"
 tags: [empty, financial-lack, hard-times, hope, faithfulness, faith, struggles]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🌾 **Lack Is An Illusion**
+# 🌾 **Lack Is An Illusion**!
 
 > **"When your hands feel empty, take the next faithful step and rest in His presence."** 🙏✨
 
@@ -20,7 +20,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 📖 Key Scripture of the Day
+# 📖 Key Scripture of the Day!
 
 > **"And Elisha said unto him, Go, say unto him, Thou mayest certainly recover: howbeit the LORD hath shewed me that he shall surely die."**
 >
@@ -32,7 +32,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🙏 Opening Prayer
+# 🙏 Opening Prayer!
 
 Heavenly Father, as we meditate on **2 Kings 8:1–15**, help us to lean on You for comfort and provision in moments of uncertainty. Give us wisdom, discernment, and spiritual insight as You gave Elisha, that we may walk in obedience to Your will. Thank You for protecting all that belongs to us when the enemy seeks to steal, kill, and destroy. Guard our joy, our peace, and our faith. We stand upon Your promises, trusting You to keep us from evil and to provide our daily bread. Fill us with Your strength, grace, and unfailing love. In the precious Name of Jesus Christ, Amen. ✝️❤️
 
@@ -42,7 +42,7 @@ Heavenly Father, as we meditate on **2 Kings 8:1–15**, help us to lean on You 
 
 <!-- PLEBVOX:START -->
 
-# 🌿 Devotional Thought
+# 🌿 Devotional Thought!
 
 There are seasons when life feels as though the cup is running dry. ☕💧 Finances become tight, strength fades, opportunities disappear, and answers seem delayed. Yet God never changes. He sees tomorrow long before we arrive there.
 
@@ -58,25 +58,25 @@ When our cup seems empty, God's storehouse is still full. Our hope rests not in 
 
 <!-- PLEBVOX:START -->
 
-# 📖 Scripture Study & Daily Application
+# 📖 Scripture Study & Daily Application!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 📖 1. 2 Kings 8:10 (KJV)
+## 📖 1. 2 Kings 8:10 (KJV)!
 
 > *"And Elisha said unto him, Go, say unto him, Thou mayest certainly recover: howbeit the LORD hath shewed me that he shall surely die."*
 
-### 🌟 Lesson
+### 🌟 Lesson!
 
 God sees what we cannot see. He knows the future and lovingly guides those who seek Him.
 
-### 💡 Daily Tip
+### 💡 Daily Tip!
 
 🔑 Pray before making important decisions today.
 
-### 🚶 Practical Application
+### 🚶 Practical Application!
 
 ✅ Ask the Holy Spirit for wisdom. 🙏
 
@@ -90,19 +90,19 @@ God sees what we cannot see. He knows the future and lovingly guides those who s
 
 <!-- PLEBVOX:START -->
 
-## 📖 2. Psalm 23:5 (KJV)
+## 📖 2. Psalm 23:5 (KJV)!
 
 > *"Thou preparest a table before me in the presence of mine enemies... my cup runneth over."*
 
-### 🌟 Lesson
+### 🌟 Lesson!
 
 God's provision is not limited by your circumstances. Even in difficult seasons, He prepares blessings for His children.
 
-### 💡 Daily Tip
+### 💡 Daily Tip!
 
 🥖 Begin your day by thanking God for five blessings.
 
-### 🚶 Practical Application
+### 🚶 Practical Application!
 
 ✅ Keep a gratitude journal. 📖✍️
 
@@ -116,19 +116,19 @@ God's provision is not limited by your circumstances. Even in difficult seasons,
 
 <!-- PLEBVOX:START -->
 
-## 📖 3. Philippians 4:19 (KJV)
+## 📖 3. Philippians 4:19 (KJV)!
 
 > *"But my God shall supply all your need according to his riches in glory by Christ Jesus."*
 
-### 🌟 Lesson
+### 🌟 Lesson!
 
 God faithfully supplies every genuine need according to His perfect will.
 
-### 💡 Daily Tip
+### 💡 Daily Tip!
 
 💰 Be faithful with today's blessings before asking for tomorrow's.
 
-### 🚶 Practical Application
+### 🚶 Practical Application!
 
 ✅ Pray over your finances. 🙏
 
@@ -142,19 +142,19 @@ God faithfully supplies every genuine need according to His perfect will.
 
 <!-- PLEBVOX:START -->
 
-## 📖 4. Lamentations 3:22–23 (KJV)
+## 📖 4. Lamentations 3:22–23 (KJV)!
 
 > *"It is of the LORD'S mercies that we are not consumed, because his compassions fail not. They are new every morning: Great is thy faithfulness."*
 
-### 🌟 Lesson
+### 🌟 Lesson!
 
 Every sunrise reminds us that God's mercy is fresh and His faithfulness never ends.
 
-### 💡 Daily Tip
+### 💡 Daily Tip!
 
 🌅 Begin each morning with hope.
 
-### 🚶 Practical Application
+### 🚶 Practical Application!
 
 ✅ Forgive someone today. 🤝❤️
 
@@ -168,7 +168,7 @@ Every sunrise reminds us that God's mercy is fresh and His faithfulness never en
 
 <!-- PLEBVOX:START -->
 
-# ⛪ Church History
+# ⛪ Church History!
 
 The account in **2 Kings 8** takes place during the ministry of the prophet Elisha in the ninth century BC. Israel was experiencing famine, political instability, and widespread spiritual decline. Even in those difficult years, God continued to guide His people through faithful prophets.
 
@@ -180,7 +180,7 @@ The early Church often looked to Elisha as an example of God's compassionate car
 
 <!-- PLEBVOX:START -->
 
-# 🌱 Daily Challenge
+# 🌱 Daily Challenge!
 
 🌞 Pray before every important decision.
 
@@ -200,13 +200,13 @@ The early Church often looked to Elisha as an example of God's compassionate car
 
 <!-- PLEBVOX:START -->
 
-# ✍️ Poem
+# ✍️ Poem!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 🌾 When The Cup Runs Low
+## 🌾 When The Cup Runs Low!
 
 When earthly streams begin to fade,
 And dreams seem lost within the shade,
@@ -234,7 +234,7 @@ And brighter dawns replace the grey. 🌅
 
 <!-- PLEBVOX:START -->
 
-# 🙏 Closing Prayer
+# 🙏 Closing Prayer!
 
 Loving Father, thank You for reminding us that our hope is never found in earthly possessions but in Your unfailing love. When our strength grows weak and our cup seems empty, fill us anew with Your peace, wisdom, courage, and joy. Help us to trust You one step at a time, knowing that You are already preparing tomorrow's blessings. Protect our families, provide for every need, strengthen our faith, and make us a light to those around us. May our lives always bring glory to Jesus Christ, our Lord and Saviour. In His precious Name we pray, Amen. ❤️✝️
 
