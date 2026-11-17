@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebMachine Master Class — Relearning Systems Coding With AI"
+title: "PlebMachine Master Class — Relearning Systems Coding With AI!"
 date: 2026-09-09
 categories: [study, pleb-tuition]
 tags: [plebmachine, ai, coding, linux, xfce, bash, python, systems-architecture, relearning, plebware]
