@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Remember Lot's Wife - 2"
+title: "Remember Lot's Wife - 2!"
 date: 2026-07-29
 category: "devotions"
 tags: [warning, conviction, after-life, hell, death, christian, sanctification]
@@ -10,13 +10,13 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# Remember Lot's Wife
+# Remember Lot's Wife!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## A Warning for Every Believer
+## A Warning for Every Believer!
 
 *"Remember Lot's wife."* — Luke 17:32
 
@@ -26,7 +26,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## Part 2: The Danger of Worldliness
+## Part 2: The Danger of Worldliness!
 
 [← Previous](#part-1) | [Next →](#part-3)
 
@@ -60,7 +60,7 @@ They stopped heeding **the full counsel of God**.
 
 ---
 
-### Patterns We See Today
+### Patterns We See Today!
 
 How many children from Christian families begin well and end poorly!
 
@@ -75,7 +75,7 @@ How many pastors work hard for a few years, only to become lazy and indifferent 
 
 ---
 
-### The Warning Is Clear
+### The Warning Is Clear!
 
 **She looked back. She became a pillar of salt.**
 
