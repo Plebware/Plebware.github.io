@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Personal Copy-and-Paste Codes – PlebWare Collaborator Quick Reference"
+title: "Personal Copy-and-Paste Codes – PlebWare Collaborator Quick Reference!"
 date: 2026-07-13
 last_modified_at: 2026-10-25
 category: "housekeeping"
@@ -11,7 +11,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🧰 PlebWare Collaborator Copy-and-Paste Toolbox
+# 🧰 PlebWare Collaborator Copy-and-Paste Toolbox!
 
 Welcome! This is the practical toolbox for people who help create, edit, and maintain PlebWare.
 
@@ -23,9 +23,9 @@ The most commonly needed snippets come first. Find the task, copy the complete e
 
 ---
 
-## 1. 🔗 Add a Link
+## 1. 🔗 Add a Link!
 
-### Link to another PlebWare page
+### Link to another PlebWare page!
 
 Use the real destination URL and clear link text. Internal PlebWare links should normally open in the same tab so the site's contextual return feature can work.
 
@@ -39,7 +39,7 @@ Or use HTML when you need more control:
 <a href="https://plebware.github.io/real/path/to/article.html">Visible link text</a>
 ```
 
-### Link to an external website in a new tab
+### Link to an external website in a new tab!
 
 ```html
 <a href="https://example.com/" target="_blank" rel="noopener noreferrer">Describe the destination</a>
@@ -47,7 +47,7 @@ Or use HTML when you need more control:
 
 Replace the example address and visible text with verified details. Do not add `target="_blank"` to ordinary internal PlebWare article links unless there is a specific reason.
 
-### ↩ Return to the page you came from
+### ↩ Return to the page you came from!
 
 The shared PlebWare theme provides **“Return to the article I came from”** on every page, including article pages, category and subcategory indexes, and other landing/index pages. Collaborators do not need to add a return link, script, or dialog to individual articles.
 
@@ -61,11 +61,11 @@ When changing the shared feature, inspect `Plebware/pleb-theme` first. Keep the 
 
 ---
 
-## 2. 🖼️ Add an Image
+## 2. 🖼️ Add an Image!
 
 Use an image that exists in the repository, check the exact filename and provide meaningful alternative text. PlebWare's shared images are stored in `assets/images/`.
 
-### Standard centred image — 70% width
+### Standard centred image — 70% width!
 
 ```html
 <div style="text-align: center;">
@@ -78,7 +78,7 @@ Use an image that exists in the repository, check the exact filename and provide
 
 Change `image-file.webp` and the alternative text. You can change `70%` to `50%` or `30%` when a smaller image is more appropriate.
 
-### 🛡️ Human Verified Image — easiest method
+### 🛡️ Human Verified Image — easiest method!
 
 To insert PlebWare's **Human Verified Image**, put this marker on its own line in an article:
 
@@ -103,7 +103,7 @@ These equivalent markers are also supported:
 
 Use just **one** marker where you want the image to appear. The marker itself remains invisible; the rendered page displays the image centred at **100% of the available content width**, with a 100% maximum so it stays within the screen on mobile. This automatic feature depends on the shared theme's updated JavaScript having deployed.
 
-### Manual fallback
+### Manual fallback!
 
 If you need to insert the image explicitly, or are working somewhere that does not use the shared PlebWare theme, use:
 
@@ -119,7 +119,7 @@ If you need to insert the image explicitly, or are working somewhere that does n
 
 The marker is the easiest option for ordinary PlebWare articles. The manual snippet is the fallback when automatic marker replacement is unavailable.
 
-### 🔊 PlebVox Human-Listened and Approved Marker
+### 🔊 PlebVox Human-Listened and Approved Marker!
 
 For a PlebVox-enabled article that a human moderator has listened to in full and approved, put this exact marker on its own line:
 
@@ -143,7 +143,7 @@ Use only the marker that matches what has actually been checked. The verificatio
 
 ---
 
-## 3. 📏 Add Whitespace with the SPACE Marker
+## 3. 📏 Add Whitespace with the SPACE Marker!
 
 Need a small, predictable gap in an article? Put the following marker on its own line wherever you want a 32 × 32 pixel transparent spacer:
 
@@ -153,7 +153,7 @@ Need a small, predictable gap in an article? Put the following marker on its own
 
 The shared PlebWare theme can replace this marker with the transparent image at `/assets/images/transparent-spacer-32x32.webp` once marker handling has been implemented and deployed. Until that theme support is available, the comment itself is invisible and will **not** create whitespace on its own.
 
-### Manual fallback
+### Manual fallback!
 
 If the marker is not being processed by the theme, use this HTML directly:
 
@@ -169,7 +169,7 @@ This is a decorative spacer, so its alternative text is intentionally empty. The
 
 ---
 
-## 4. 📝 Start a New Article
+## 4. 📝 Start a New Article!
 
 Jekyll front matter belongs at the very top of the file. Keep the three opening and closing dashes.
 
@@ -203,7 +203,7 @@ Write the introduction here in clear, natural language.
 
 ---
 
-## 4. 🔊 PlebVox Read-Aloud Markers
+## 4. 🔊 PlebVox Read-Aloud Markers!
 
 PlebVox uses HTML comments to mark readable sections. The markers are invisible to readers.
 
@@ -217,7 +217,7 @@ Put the readable paragraph or section here.
 
 Place the START marker immediately before the text intended for narration and END immediately after it. Use natural punctuation. Do not wrap code examples in narration markers simply because the surrounding explanation should be read aloud.
 
-### 📊 Exclude a Table from PlebVox Read-Aloud
+### 📊 Exclude a Table from PlebVox Read-Aloud!
 
 When an article contains a Markdown table that should remain visible on the page but **must not be spoken aloud**, wrap the complete table with these exact HTML comments:
 
@@ -255,7 +255,7 @@ Use this convention for score tables or other tables that should be displayed bu
 
 ---
 
-## 5. 💬 Article Comments
+## 5. 💬 Article Comments!
 
 Use the tested comments component already maintained in the repository. Do not recreate or casually edit the JavaScript every time an article needs comments.
 
@@ -263,7 +263,7 @@ When a page needs a comments section, first check how comments are enabled on co
 
 ---
 
-## 6. 🏷️ GitHub Badges
+## 6. 🏷️ GitHub Badges!
 
 Badges can show repository activity or deployment information. Use only badges that are appropriate and known to work for the repository.
 
@@ -280,7 +280,7 @@ Do not invent a workflow badge URL. If a badge depends on a workflow filename, v
 
 ---
 
-## 7. 🔎 SEO: What Collaborators Should Do
+## 7. 🔎 SEO: What Collaborators Should Do!
 
 Write a useful, specific title and an honest description of the page. Use descriptive headings, meaningful link text, helpful image alt text, and links that actually work.
 
@@ -290,7 +290,7 @@ The shared PlebWare theme handles standard SEO metadata, including the canonical
 
 ---
 
-## 8. ✍️ Useful Markdown
+## 8. ✍️ Useful Markdown!
 
 ```markdown
 **Bold text**
@@ -306,7 +306,7 @@ Use Markdown for ordinary article content. Use HTML when a specific layout or at
 
 ---
 
-## 9. ✅ Before You Commit
+## 9. ✅ Before You Commit!
 
 - [ ] Confirm the correct repository and file path.
 - [ ] Preserve valid Jekyll front matter.
@@ -319,7 +319,7 @@ Use Markdown for ordinary article content. Use HTML when a specific layout or at
 
 <!-- PLEBVOX:START -->
 
-## The Golden Rule
+## The Golden Rule!
 
 Copy the complete, tested snippet. Change only what belongs to your article. If something is uncertain, inspect the live repository before editing.
 
