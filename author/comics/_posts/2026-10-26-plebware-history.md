@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "The History of PlebWare"
+title: "The History of PlebWare!"
 date: 2026-10-26
 author: Othello Verrocchio
 ---
 
 <!-- PLEBVOX:START -->
 
-# 📚 Every Big Project Starts Somewhere
+# 📚 Every Big Project Starts Somewhere!
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/plebware-history.webp' | relative_url }}"
@@ -34,7 +34,7 @@ Which, of course, means the workshop never stays tidy for long.
 
 <!-- PLEBVOX:END -->
 
-## 📋 WhatsApp Copy-and-Paste Version
+## 📋 WhatsApp Copy-and-Paste Version!
 
 ```
 📚 Every Big Project Starts Somewhere
