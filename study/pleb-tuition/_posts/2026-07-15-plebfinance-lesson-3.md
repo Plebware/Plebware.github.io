@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebFinance Lesson 3 - Every Rand Needs a Job"
+title: "PlebFinance Lesson 3 - Every Rand Needs a Job!"
 date: 2026-07-15
 category: "pleb-tuition"
 tags: budgeting, money-management, financial-literacy, personal-finance, saving, pleb-finance, study
@@ -10,13 +10,13 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🔑 PlebFinance Lesson 3
+# 🔑 PlebFinance Lesson 3!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-# 💰 Every Rand Needs a Job
+# 💰 Every Rand Needs a Job!
 
 *"Money is a terrible master, but an excellent employee."*
 
@@ -26,7 +26,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## 📖 Introduction
+## 📖 Introduction!
 
 In **Lesson 1**, we learned why every successful financial journey begins with a **budget**. 📊
 
@@ -50,7 +50,7 @@ Just as every employee in a company has a job description, every Rand you earn s
 
 <!-- PLEBVOX:START -->
 
-# 🏃 A Rand Without a Job Is a Rand That Runs Away
+# 🏃 A Rand Without a Job Is a Rand That Runs Away!
 
 We've all experienced it.
 
@@ -94,7 +94,7 @@ A pleb simply cannot afford unemployed money.
 
 <!-- PLEBVOX:START -->
 
-# 💼 Give Every Rand a Job Title
+# 💼 Give Every Rand a Job Title!
 
 Before your income reaches your account, decide where it will go.
 
@@ -112,7 +112,7 @@ Every employee needs a department.
 
 <!-- PLEBVOX:START -->
 
-## 🏢 The PlebFinance Job Board
+## 🏢 The PlebFinance Job Board!
 
 | 💼 Job Title            | 📊 Suggested Allocation | 🎯 Purpose                                                                                     |
 | ----------------------- | ----------------------: | ---------------------------------------------------------------------------------------------- |
@@ -134,11 +134,11 @@ The important thing is that **every Rand has somewhere to report for duty.**
 
 <!-- PLEBVOX:START -->
 
-# 🤔 Two Questions Every Rand Must Answer
+# 🤔 Two Questions Every Rand Must Answer!
 
 Whenever money comes into your account, ask it two simple questions.
 
-### ❓ Question 1
+### ❓ Question 1!
 
 **"What is your job?"**
 
@@ -152,7 +152,7 @@ Every Rand should have a clear answer.
 
 ---
 
-### ❓ Question 2
+### ❓ Question 2!
 
 **"Who is your manager?"**
 
@@ -178,7 +178,7 @@ Then they have become your financial manager.
 
 <!-- PLEBVOX:START -->
 
-# 💵 A Practical Example
+# 💵 A Practical Example!
 
 Imagine you receive **R1,000**.
 
@@ -204,7 +204,7 @@ None are standing around looking for trouble.
 
 <!-- PLEBVOX:START -->
 
-# ⚠️ Why This Matters
+# ⚠️ Why This Matters!
 
 Many people believe financial success begins with earning more money.
 
@@ -224,7 +224,7 @@ Good habits matter even more.
 
 <!-- PLEBVOX:START -->
 
-# 🛠️ Practical Tips
+# 🛠️ Practical Tips!
 
 ### 🔑 Write your budget before payday.
 
@@ -268,7 +268,7 @@ Your budget should change with it.
 
 <!-- PLEBVOX:START -->
 
-# 📝 Homework
+# 📝 Homework!
 
 The next time money arrives in your account...
 
@@ -294,7 +294,7 @@ Give that R50 a purpose.
 
 <!-- PLEBVOX:START -->
 
-# 🎯 Lesson Summary
+# 🎯 Lesson Summary!
 
 One of the greatest habits you can develop is learning to tell your money where to go before someone else tells it for you.
 
@@ -324,9 +324,9 @@ And **you** are the Human Resources manager. 👔
 
 <!-- PLEBVOX:START -->
 
-## 📚 Coming Next
+## 📚 Coming Next!
 
-### 🚀 PlebFinance Lesson 4
+### 🚀 PlebFinance Lesson 4!
 
 **The Turbo Fund – Making Your Money Work for You**
 
