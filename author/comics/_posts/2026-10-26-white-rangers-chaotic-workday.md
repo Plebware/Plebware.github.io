@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "White Ranger’s Chaotic Workday"
+title: "White Ranger’s Chaotic Workday!"
 date: 2026-10-26
 author: Othello Verrocchio
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🚙 The White Ranger and the Day That Wouldn’t Behave
+# 🚙 The White Ranger and the Day That Wouldn’t Behave!
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/White Ranger’s Chaotic Workday.webp' | relative_url }}"
@@ -30,7 +30,7 @@ The white Ranger may have had a chaotic workday, but at least it came home with 
 
 <!-- PLEBVOX:END -->
 
-## 📋 WhatsApp Copy-and-Paste Version
+## 📋 WhatsApp Copy-and-Paste Version!
 
 ```
 🚙 The White Ranger and the Day That Wouldn’t Behave
