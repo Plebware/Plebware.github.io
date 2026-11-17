@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "PlebMachine Manuals"
+title: "PlebMachine Manuals!"
 date: 2026-06-07
 ---
 
 <!-- PLEBVOX:START -->
 
-# PlebMachine System Reference Overview
+# PlebMachine System Reference Overview!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Purpose of This Section
+## Purpose of This Section!
 
 This section contains official reference documentation for PlebMachine.
 
@@ -49,7 +49,7 @@ Each context adjusts the environment accordingly.
 
 <!-- PLEBVOX:START -->
 
-## Role of the Manuals
+## Role of the Manuals!
 
 The manuals serve as the authoritative reference layer for:
 
@@ -66,27 +66,27 @@ They describe the system as it is intended to operate.
 
 <!-- PLEBVOX:START -->
 
-## Core System Structure
+## Core System Structure!
 
 PlebMachine is built around a layered model:
 
-### 1. Core Layer
+### 1. Core Layer!
 
 Defines system logic, mode control, and orchestration rules.
 
-### 2. Environment Layer
+### 2. Environment Layer!
 
 Defines desktop configuration, UI behaviour, and workspace layout.
 
-### 3. Application Layer
+### 3. Application Layer!
 
 Defines available tools and how they are grouped per mode.
 
-### 4. Configuration Layer
+### 4. Configuration Layer!
 
 Defines user-defined settings and persistent system state.
 
-### 5. Execution Layer
+### 5. Execution Layer!
 
 Handles runtime behaviour, scripts, and active mode switching.
 
@@ -94,7 +94,7 @@ Handles runtime behaviour, scripts, and active mode switching.
 
 <!-- PLEBVOX:START -->
 
-## Mode System Definition
+## Mode System Definition!
 
 A mode is a defined system state that controls:
 
@@ -111,7 +111,7 @@ Modes are system-wide operational states.
 
 <!-- PLEBVOX:START -->
 
-## Standard Mode Types
+## Standard Mode Types!
 
 PlebMachine defines a baseline set of modes:
 
@@ -128,7 +128,7 @@ Each mode has a defined purpose and expected behaviour.
 
 <!-- PLEBVOX:START -->
 
-## Configuration Principles
+## Configuration Principles!
 
 All configuration within PlebMachine follows these principles:
 
@@ -144,7 +144,7 @@ Configuration is treated as part of the system, not an external afterthought.
 
 <!-- PLEBVOX:START -->
 
-## System Boundaries
+## System Boundaries!
 
 PlebMachine does not attempt to replace the operating system.
 
@@ -163,7 +163,7 @@ It does not require a specific distribution or desktop environment.
 
 <!-- PLEBVOX:START -->
 
-## Reference vs Implementation
+## Reference vs Implementation!
 
 This manual defines behaviour, not code.
 
@@ -177,7 +177,7 @@ Where ambiguity exists:
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Engineering Standard
+## The PlebWare Engineering Standard!
 
 PlebWare systems prioritise:
 
@@ -192,7 +192,7 @@ The manual layer ensures these principles remain consistent.
 
 <!-- PLEBVOX:START -->
 
-## Closing Statement
+## Closing Statement!
 
 The PlebMachine Manuals exist to define the system in a stable, referenceable form.
 
