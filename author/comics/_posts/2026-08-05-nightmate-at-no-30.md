@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nightmare At No 30"
+title: "Nightmare At No 30!"
 date: 2026-08-05
 ---
 
