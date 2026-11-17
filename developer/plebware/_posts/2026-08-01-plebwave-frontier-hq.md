@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebWave HQ Frontier –"
+title: "PlebWave HQ Frontier –!"
 date: 2026-08-01
 category: "plebware"
 tags: [whatsapp-community, plebwave-frontier-hq, tag3, tag4, tag5, tag6, tag7]
@@ -14,7 +14,7 @@ author: Otto Brinkmeier
      alt="PlebWave HQ Frontier"
      style="max-width:100%; height:auto;">
 
-# Community Architecture
+# Community Architecture!
 
 I have decided to consolidate my separate WhatsApp communities into a single umbrella community called **PlebWave Frontier HQ**.
 
@@ -24,7 +24,7 @@ Rather than having unrelated groups, I want the community to function as a coher
 
 <!-- PLEBVOX:START -->
 
-## ⚒️ The Forge
+## ⚒️ The Forge!
 
 **Purpose:** Build the physical world.
 
@@ -48,7 +48,7 @@ The Forge represents the creation of tools and physical technology.
 
 <!-- PLEBVOX:START -->
 
-## 📜 The Scriptorium
+## 📜 The Scriptorium!
 
 **Purpose:** Create and preserve knowledge.
 
@@ -72,7 +72,7 @@ The Scriptorium represents ideas, software, documentation, and creative works.
 
 <!-- PLEBVOX:START -->
 
-## 🕊️ The Sanctuary
+## 🕊️ The Sanctuary!
 
 **Purpose:** Build people and community.
 
@@ -101,7 +101,7 @@ The Sanctuary is not only about faith; it is also the communication hub where co
 
 <!-- PLEBVOX:START -->
 
-## Philosophy
+## Philosophy!
 
 The three hubs work together as one ecosystem:
 
