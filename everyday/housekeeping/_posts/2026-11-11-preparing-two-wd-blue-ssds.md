@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preparing Two WD Blue SSDs for Data Transfer"
+title: "Preparing Two WD Blue SSDs for Data Transfer!"
 date: 2026-11-11
 category: "everyday"
 tags: [ssd, wd-blue, data-transfer, storage, computer-maintenance]
@@ -10,7 +10,7 @@ author: "Boy Mist"
 
 <!-- PLEBVOX:START -->
 
-# 💾 Two WD Blue SSDs, One Adapter, and a Data-Transfer Plan
+# 💾 Two WD Blue SSDs, One Adapter, and a Data-Transfer Plan!
 
 Sometimes useful computer equipment is sitting quietly in a cupboard, waiting for another job. In this case, there are two Western Digital WD Blue solid-state drives, each with a capacity of 500 GB, that need to be connected and checked before their contents can be copied.
 
@@ -22,7 +22,7 @@ This is a preparation and data-transfer project. The drives have not yet been co
 
 <!-- PLEBVOX:START -->
 
-## 🔌 Connecting the Drives
+## 🔌 Connecting the Drives!
 
 The adapter should make it possible to connect each SSD to a computer without installing it internally. Before connecting anything, the exact connector and drive compatibility need to be checked against the adapter.
 
@@ -32,7 +32,7 @@ The two drives should be handled carefully and connected one at a time. That mak
 
 <!-- PLEBVOX:START -->
 
-## 🛡️ Protecting the Existing Data
+## 🛡️ Protecting the Existing Data!
 
 The priority is to preserve the information already stored on the drives.
 
@@ -44,7 +44,7 @@ Once the contents and condition of each SSD have been checked, the required file
 
 <!-- PLEBVOX:START -->
 
-## 📂 The Next Step
+## 📂 The Next Step!
 
 The next stage is to connect the first WD Blue SSD using the adapter, identify its partitions and files, and determine what needs to be transferred. The same process can then be followed for the second drive.
 
