@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "When You Cannot See Beyond the Mist"
+title: "When You Cannot See Beyond the Mist?"
 date: 2026-06-23
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🌅 Trusting God Through The Fog
+# 🌅 Trusting God Through The Fog!
 
 **Scripture:**
 
@@ -37,7 +37,7 @@ As we walk forward, the path becomes clearer.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 **Three Things to Remember**
+## 🔑 **Three Things to Remember**!
 
 * God sees what you cannot see.
 * God's timing is perfect, even when it feels slow.
@@ -47,7 +47,7 @@ As we walk forward, the path becomes clearer.
 
 <!-- PLEBVOX:START -->
 
-## 🙏 **Prayer**
+## 🙏 **Prayer**!
 
 Father God,
 
