@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teenage Dreams"
+title: "Teenage Dreams!"
 date: 2026-09-11
 category: "news"
 tags: [Otto-Brinkmeier, Commodore-VIC-20, Microsoft-BASIC, Computing-History, PlebMachine, PlebWare, Personal-History]
