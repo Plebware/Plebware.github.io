@@ -3,6 +3,7 @@ layout: default
 title: "02 - About PlebWare"
 ---
 
+<!-- PLEBVOX:START -->
 # 🔬 PlebWare Under the Microscope
 
 ## Getting to Know PlebWare: Our Purpose, Philosophy and Growing Knowledge Library
@@ -14,8 +15,6 @@ Finally, let's take a closer look!
 - And even **What You Did Not Want to Know About PlebWare!**
 
 We believe in being open about what we are building, why we are building it, and what we hope it will accomplish. So, let's put PlebWare under the microscope and discover what makes it different.
-
-<!-- PLEBVOX:START -->
 
 ## 🌍 What Is PlebWare?
 
