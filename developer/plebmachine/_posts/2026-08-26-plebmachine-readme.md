@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "PlebMachine 1.0.0 Readme"
+title: "PlebMachine 1.0.0 Readme!"
 date: 2026-08-26
 ---
 
 <!-- PLEBVOX:START -->
 
-# PlebMachine – Cognitive Desktop Orchestrator
+# PlebMachine – Cognitive Desktop Orchestrator!
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/PlebWare/plebmachine/releases)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -29,7 +29,7 @@ It runs on top of XFCE (and other lightweight desktops) and is built entirely wi
 ---
 <!-- PLEBVOX:START -->
 
-## ✨ Features
+## ✨ Features!
 
 - **12 Cognitive Modes** – Author, Research, Developer, Music, Graphics, AI, Leisure, and more. Each mode launches the apps you need.
 - **Time‑aware Wallpapers** – Each mode has four wallpapers for morning, afternoon, evening, and night – automatically changing with your system clock.
@@ -45,20 +45,20 @@ It runs on top of XFCE (and other lightweight desktops) and is built entirely wi
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots!
 
 *Coming soon*
 
 ---
 <!-- PLEBVOX:START -->
 
-## 📦 Installation (FOR BETA TESTING ONLY)
+## 📦 Installation (FOR BETA TESTING ONLY)!
 
 The easiest way to install PlebMachine is via the **Debian package** (`.deb`).  
 Download the latest release from the [Releases page](https://github.com/PlebWare/plebmachine/releases) and install it.
 <!-- PLEBVOX:END -->
 
-### Using `apt` (recommended – resolves dependencies)
+### Using `apt` (recommended – resolves dependencies)!
 ```
 ```bash
 sudo apt install ./plebmachine_1.0.0_amd64.deb
