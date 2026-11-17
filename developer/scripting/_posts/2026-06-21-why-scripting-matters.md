@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Why Scripting Matters"
+title: "Why Scripting Matters?"
 date: 2026-06-21
 ---
 
 <!-- PLEBVOX:START -->
 
-# 📜 Why Scripting Matters
+# 📜 Why Scripting Matters!
 
 Scripts are small programs designed to automate tasks and connect software together.
 
@@ -26,7 +26,7 @@ Instead of typing commands repeatedly, users can save them in a script and run t
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Benefits of Scripting
+## 🔑 Benefits of Scripting!
 
 Scripting provides:
 
@@ -40,7 +40,7 @@ Scripting provides:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Common Uses
+## 🔑 Common Uses!
 
 Scripts are commonly used for:
 
@@ -54,7 +54,7 @@ Scripts are commonly used for:
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Bash and Beyond
+## 🔑 Bash and Beyond!
 
 Many Linux users begin with Bash scripting.
 
@@ -71,7 +71,7 @@ Each language has strengths depending on the task.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Learning by Doing
+## 🔑 Learning by Doing!
 
 The best way to learn scripting is through practical projects.
 
@@ -87,7 +87,7 @@ Over time, these small scripts can grow into powerful systems.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Conclusion
+## 🔑 Conclusion!
 
 Scripting transforms Linux from a collection of tools into a platform that works exactly the way you want it to.
 
