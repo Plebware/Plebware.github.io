@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🥐 Savoury Pastry"
+title: "🥐 Savoury Pastry!"
 date: 2026-06-18
 ---
 
@@ -8,7 +8,7 @@ date: 2026-06-18
 
 <div align="center">
 
-# 🥐 Cottage Cheese, Cherry Tomato & Spring Onion Pastry 🍅
+# 🥐 Cottage Cheese, Cherry Tomato & Spring Onion Pastry 🍅!
 
 </div>
 
@@ -16,7 +16,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🥘 Ingredients
+## 🥘 Ingredients!
 
 - 🧀 Cottage Cheese
 - 🍅 Cherry Tomatoes
@@ -29,7 +29,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 👩‍🍳 Method
+## 👩‍🍳 Method!
 
 1. Roll out the pastry to the desired thickness.
 2. Cut the pastry into strips using a zig-zag cutter.
@@ -45,7 +45,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Serving Suggestions
+## 🔑 Serving Suggestions!
 
 Serve:
 
