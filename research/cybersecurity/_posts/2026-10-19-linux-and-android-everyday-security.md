@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Everyday Cybersecurity – Protecting Linux and Android"
+title: "Everyday Cybersecurity – Protecting Linux and Android!"
 date: 2026-10-19
 description: "Practical Linux and Android security advice covering trusted software, firewalls, encryption, app permissions, passkeys, updates, and a manageable digital security checklist."
 category: "research"
