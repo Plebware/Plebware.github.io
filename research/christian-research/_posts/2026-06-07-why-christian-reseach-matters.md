@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Why Christian Research Matters"
+title: "Why Christian Research Matters?"
 date: 2026-06-07
 ---
 
 <!-- PLEBVOX:START -->
 
-# Why Christian Research Matters
+# Why Christian Research Matters?
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Searching for Truth
+## Searching for Truth!
 
 The Christian faith is n---
 layout: post
@@ -34,7 +34,7 @@ Properly applied, it strengthens faith.
 
 <!-- PLEBVOX:START -->
 
-## More Than Opinions
+## More Than Opinions!
 
 In today's world, Christians are exposed to countless opinions.
 
@@ -58,7 +58,7 @@ The goal is to compare every teaching against Scripture.
 
 <!-- PLEBVOX:START -->
 
-## Areas of Christian Research
+## Areas of Christian Research!
 
 This section will explore a variety of subjects, including:
 
@@ -79,7 +79,7 @@ Each topic will be approached with a commitment to honesty, evidence, and Biblic
 
 <!-- PLEBVOX:START -->
 
-## A Berean Mindset
+## A Berean Mindset!
 
 **Acts 17** describes the Bereans as people who received the message eagerly while searching the Scriptures daily to determine whether what they heard was true.
 
@@ -115,7 +115,7 @@ Obedience should lead to a closer relationship with Christ.
 
 <!-- PLEBVOX:START -->
 
-## Looking Ahead
+## Looking Ahead!
 
 The articles that follow will examine Scripture, history, doctrine, and evidence with a commitment to careful study and thoughtful discussion.
 
