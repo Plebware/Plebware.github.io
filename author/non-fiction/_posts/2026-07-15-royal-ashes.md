@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Royal Ashes"
+title: "Royal Ashes!"
 date: 2026-07-15
 category: "fiction"
 tags: [life, memoir, wisdom, writing, education, plebware, legacy]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 👑 Royal Ashes
+# 👑 Royal Ashes!
 
 > **"The greatest inheritance is not wealth, but wisdom willingly shared."** 📖
 
@@ -36,7 +36,7 @@ After all, are we not the sum of everything we have learned, experienced, create
 
 <!-- PLEBVOX:START -->
 
-## 📚 A Living Repository
+## 📚 A Living Repository!
 
 PlebWare was never intended to become merely another personal website.
 
@@ -68,7 +68,7 @@ Knowledge, once shared, can continue serving others long after its author has de
 
 <!-- PLEBVOX:START -->
 
-## 🌱 Why I Continue
+## 🌱 Why I Continue!
 
 Juelz and I dreamed of creating more than just a website.
 
