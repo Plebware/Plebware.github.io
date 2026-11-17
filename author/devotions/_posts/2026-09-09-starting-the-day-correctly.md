@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devotion: Starting The Day Correctly"
+title: "Devotion: Starting The Day Correctly!"
 date: 2026-09-09
 author: "God's Journalist - Cody - Dei Scriptor"
 category: "Devotions"
