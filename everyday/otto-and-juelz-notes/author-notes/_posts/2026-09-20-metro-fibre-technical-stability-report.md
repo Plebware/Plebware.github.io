@@ -4,6 +4,7 @@ title: "Metro Fibre Service Stability — Technical Evidence Report"
 date: 2026-09-20
 ---
 
+<!-- PLEBVOX:START -->
 # Metro Fibre Internet Stability — Technical Evidence for Support
 
 **Prepared:** 20 September 2026  
@@ -11,6 +12,8 @@ date: 2026-09-20
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 1. Reason for This Report
 
 The fibre internet connection has experienced recurring instability over an extended period.
@@ -22,34 +25,48 @@ This report is intended to provide technical evidence for investigation rather t
 The connection can sometimes produce normal or very good performance while instability is not occurring. Therefore, individual speed tests should not be considered sufficient evidence that the service is consistently stable.
 
 ---
+<!-- PLEBVOX:END -->
 <div style="text-align: center;">
   <img src="/assets/images/golfclash-crash.webp"
+<!-- PLEBVOX:START -->
        alt="Alt Text - Golf Clash Crash"
        style="width: 70%; max-width: 100%; height: auto;">
+<!-- PLEBVOX:END -->
 </div>
 
+<!-- PLEBVOX:START -->
 **This Fault Occurred at 06:02 SAST**
 -----
+<!-- PLEBVOX:END -->
 <div style="text-align: center;">
   <img src="/assets/images/playdemic-ea-crash.webp"
+<!-- PLEBVOX:START -->
        alt="Alt Text - Playdemic Crash"
        style="width: 70%; max-width: 100%; height: auto;">
+<!-- PLEBVOX:END -->
 </div>
 
+<!-- PLEBVOX:START -->
 **This Fault Occurred at 06:29 SAST**
 -----
+<!-- PLEBVOX:END -->
 <div style="text-align: center;">
   <img src="/assets/images/Raid Crash.webp"
+<!-- PLEBVOX:START -->
        alt="Alt Text - Raid Shadow Legends Crash"
        style="width: 70%; max-width: 100%; height: auto;">
+<!-- PLEBVOX:END -->
 </div>
 
+<!-- PLEBVOX:START -->
 **This Fault Occurred at 7:29 SAST**
 -----
 Took a break to calm down; Otto was angry!
 **Had to reset the modem** by unplugging it for 5min **before getting internet back to run tests**.
 
 -----
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 2. Test Environment
 
 **Testing system:** Lenovo laptop  
@@ -62,8 +79,12 @@ Took a break to calm down; Otto was angry!
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 3. Baseline Testing
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 20 September 2026 — Approximately 08:06
 
 The connection appeared to be behaving normally during the initial baseline testing.
@@ -82,16 +103,22 @@ These results establish a useful baseline during a period when the connection ap
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 4. MTR Test to Google DNS
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 20 September 2026 — 08:08
 
 Command used:
 
+<!-- PLEBVOX:END -->
 ```bash
 mtr -rwzc 100 8.8.8.8
 ```
 
+<!-- PLEBVOX:START -->
 Results:
 
 - **100 packets sent**
@@ -108,16 +135,22 @@ The result should be compared with repeated tests during an actual period of ins
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 5. DNS Testing
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Local Router DNS
 
 Command:
 
+<!-- PLEBVOX:END -->
 ```bash
 dig google.com
 ```
 
+<!-- PLEBVOX:START -->
 Result:
 
 - DNS server: **192.168.1.254**
@@ -125,14 +158,18 @@ Result:
 - Query time: **8 ms**
 - Successful Google A record returned.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Cloudflare DNS
 
 Command:
 
+<!-- PLEBVOX:END -->
 ```bash
 dig @1.1.1.1 google.com
 ```
 
+<!-- PLEBVOX:START -->
 Result:
 
 - DNS server: **1.1.1.1**
@@ -140,14 +177,18 @@ Result:
 - Query time: **4 ms**
 - Successful Google A record returned.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Google DNS
 
 Command:
 
+<!-- PLEBVOX:END -->
 ```bash
 dig @8.8.8.8 google.com
 ```
 
+<!-- PLEBVOX:START -->
 Result:
 
 - DNS server: **8.8.8.8**
@@ -155,6 +196,8 @@ Result:
 - Query time: **8 ms**
 - Successful Google A record returned.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### DNS Conclusion
 
 DNS resolution was functioning normally during these tests.
@@ -166,12 +209,18 @@ Different Google IP addresses were returned by the different resolvers. This is 
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 6. Follow-Up Test — 20 September 2026
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 08:23–08:26 SAST
 
 A second complete test batch was performed using the same combined terminal command.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 #### Router — 192.168.1.254
 
 - **20 packets transmitted**
@@ -186,6 +235,8 @@ Notable individual latency spikes:
 - Packet 17: **15.1 ms**
 - Packet 18: **24.0 ms**
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 #### Cloudflare — 1.1.1.1
 
 - **20 packets transmitted**
@@ -201,6 +252,8 @@ Notable individual latency spikes:
 - Packet 11: **66.5 ms**
 - Packet 16: **77.5 ms**
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 #### Google — 8.8.8.8
 
 - **20 packets transmitted**
@@ -215,6 +268,8 @@ Notable individual latency spikes:
 - Packet 7: **22.4 ms**
 - Packet 17: **41.1 ms**
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 #### MTR — 8.8.8.8
 
 100-packet MTR:
@@ -228,6 +283,8 @@ Notable individual latency spikes:
 - Worst: **32.9 ms**
 - Standard deviation: **3.7 ms**
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 #### DNS
 
 All three DNS tests completed successfully:
@@ -238,6 +295,8 @@ All three DNS tests completed successfully:
 
 Different Google IP addresses were returned by the resolvers, which is normal for a distributed service.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Observation
 
 This second test batch is particularly useful because the **router itself recorded a 77.547 ms maximum response**, despite **0% packet loss**.
@@ -248,12 +307,18 @@ At this stage, these results should be treated as evidence of **intermittent lat
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 7. Incident and Follow-Up Test — 20 September 2026
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Connection Error Immediately Before Testing — 10:50 SAST
 
 A further connection error was experienced immediately before this test batch was run. The full automated test was then started at **10:50:24 SAST**.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Router — 192.168.1.254
 
 - **20 packets transmitted**
@@ -266,6 +331,8 @@ A further connection error was experienced immediately before this test batch wa
 
 One packet did not receive a reply. Packet 16 recorded a **108 ms** response.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Cloudflare — 1.1.1.1
 
 - **20 packets transmitted**
@@ -278,6 +345,8 @@ One packet did not receive a reply. Packet 16 recorded a **108 ms** response.
 
 Notable latency spikes included **46.6 ms**, **69.5 ms**, and **18.7 ms**.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Google — 8.8.8.8
 
 - **20 packets transmitted**
@@ -290,6 +359,8 @@ Notable latency spikes included **46.6 ms**, **69.5 ms**, and **18.7 ms**.
 
 This was comparatively stable, with all recorded responses below 9 ms.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### MTR — 8.8.8.8
 
 100-packet MTR:
@@ -305,6 +376,8 @@ This was comparatively stable, with all recorded responses below 9 ms.
 
 Although MTR reported no packet loss, latency variation was visible across the route, with a worst reported value of **72.3 ms** at the final destination.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### DNS
 
 All three DNS tests completed successfully:
@@ -313,6 +386,8 @@ All three DNS tests completed successfully:
 - Cloudflare `1.1.1.1`: **NOERROR**, **4 ms**
 - Google `8.8.8.8`: **NOERROR**, **8 ms**
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Observation
 
 This test is significant because it was performed **immediately after another connection error** and recorded **5% packet loss to the local router itself**, together with a **108.006 ms maximum router response**.
@@ -323,12 +398,18 @@ The results do not by themselves identify the fault location. However, the combi
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 8. Latest Test — 20 September 2026
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 12:30–12:33 SAST
 
 A further complete test batch was performed after the earlier instability and reset. The test timestamp was **12:30:36 SAST**, with the 100-packet MTR beginning at **12:31:33 SAST**. DNS tests completed at **12:33:19 SAST**.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Router — 192.168.1.254
 
 - **20 packets transmitted**
@@ -341,6 +422,8 @@ A further complete test batch was performed after the earlier instability and re
 
 The router response was stable overall, with all 20 replies below 7 ms.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Cloudflare — 1.1.1.1
 
 - **20 packets transmitted**
@@ -353,6 +436,8 @@ The router response was stable overall, with all 20 replies below 7 ms.
 
 One significant latency spike occurred at packet 18: **87.2 ms**. The other responses were generally between approximately 3.6 and 5.9 ms.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Google — 8.8.8.8
 
 - **20 packets transmitted**
@@ -365,6 +450,8 @@ One significant latency spike occurred at packet 18: **87.2 ms**. The other resp
 
 This was comparatively stable, with all recorded responses below 7.5 ms.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### MTR — 8.8.8.8
 
 100-packet MTR:
@@ -380,6 +467,8 @@ This was comparatively stable, with all recorded responses below 7.5 ms.
 
 The MTR showed no reported packet loss across the four reported hops. However, latency variation was still visible, including a worst value of **47.6 ms** at the final destination.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### DNS
 
 All three DNS tests completed successfully:
@@ -390,6 +479,8 @@ All three DNS tests completed successfully:
 
 The DNS tests were therefore successful and responsive during this batch.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Observation
 
 This latest batch shows a useful contrast with the earlier **10:50 SAST incident test**, where the local router recorded **5% packet loss** and a **108.006 ms** maximum response immediately after a connection error.
@@ -401,12 +492,18 @@ This supports the value of continued time-correlated testing: the connection can
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 9. Windows 11 Cross-Platform Test — 20 September 2026
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 12:49:55 SAST
 
 A further test batch was performed from **Windows 11 Pro** over Wi-Fi. This provides a useful cross-platform comparison with the earlier Linux testing.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Local Router — 192.168.1.254
 
 - **20 packets transmitted**
@@ -418,6 +515,8 @@ A further test batch was performed from **Windows 11 Pro** over Wi-Fi. This prov
 
 All 20 router responses were between 2 and 4 ms.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Cloudflare — 1.1.1.1
 
 - **20 packets transmitted**
@@ -429,6 +528,8 @@ All 20 router responses were between 2 and 4 ms.
 
 One response reached **20 ms**, while most responses were between 4 and 9 ms.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Google — 8.8.8.8
 
 - **20 packets transmitted**
@@ -440,6 +541,8 @@ One response reached **20 ms**, while most responses were between 4 and 9 ms.
 
 This was comparatively stable, with all responses below 9 ms.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Route to Google
 
 Windows tracert reported four hops:
@@ -451,6 +554,8 @@ Windows tracert reported four hops:
 
 The route completed successfully without displayed timeouts.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### DNS
 
 The Windows DNS tests produced the following results:
@@ -461,6 +566,8 @@ The Windows DNS tests produced the following results:
 
 The Cloudflare result is worth recording because the resolver eventually returned an answer but Windows reported a timeout first. This is an observation of intermittent DNS response behaviour, not proof of a Metro Fibre fault.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Windows Network Configuration
 
 The Windows system was connected through:
@@ -472,6 +579,8 @@ The Windows system was connected through:
 
 The physical Ethernet adapter was reported as disconnected during this test, so this particular Windows test was conducted over **Wi-Fi**, rather than the Ethernet connection used for the earlier Linux measurements.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Observation
 
 This Windows test represents a **stable snapshot** at 12:49:55 SAST:
@@ -488,6 +597,8 @@ Because all tests recorded in this report were performed over Wi-Fi from the Len
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 10. Important Technical Observation
 
 The testing demonstrates why the investigation should not rely exclusively on conventional speed testing.
@@ -506,6 +617,8 @@ The same measurements should continue to be taken when the connection is actuall
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 11. What We Are Asking Metro Fibre to Investigate
 
 Please investigate the service for possible intermittent problems that may not be visible during a single speed test, including:
@@ -523,6 +636,8 @@ Please also check whether the service shows any historical or intermittent fault
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 12. Requested Technical Response
 
 We would appreciate a technical investigation rather than another basic speed test alone.
@@ -537,6 +652,8 @@ Please advise:
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 13. Evidence Available
 
 The following evidence can be supplied to support the investigation:
@@ -554,6 +671,8 @@ Further tests will be recorded during periods of actual instability so that they
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 14. Summary for Technical Support
 
 **The issue being reported is recurring internet instability, not simply inadequate internet speed.**
@@ -566,12 +685,18 @@ A technical investigation using Metro Fibre's network-side monitoring, together 
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 15. Evening Test — 20 September 2026
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### 20:21–20:24 SAST
 
 A further complete test batch was performed from the Lenovo laptop running MX Linux over Wi-Fi.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Router — 192.168.1.254
 
 - **20 packets transmitted**
@@ -584,6 +709,8 @@ A further complete test batch was performed from the Lenovo laptop running MX Li
 
 Most responses were approximately 1.6–2.0 ms. One response reached **12.6 ms**, with another at **3.32 ms**.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Cloudflare — 1.1.1.1
 
 - **20 packets transmitted**
@@ -596,6 +723,8 @@ Most responses were approximately 1.6–2.0 ms. One response reached **12.6 ms**
 
 Most responses were below 6 ms, with one response reaching **15.7 ms**.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Google — 8.8.8.8
 
 - **20 packets transmitted**
@@ -612,6 +741,8 @@ Notable latency spikes included:
 - Packet 13: **50.4 ms**
 - Packet 19: **19.0 ms**
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### MTR — 8.8.8.8
 
 100-packet MTR:
@@ -627,6 +758,8 @@ Notable latency spikes included:
 
 The MTR showed **0% reported packet loss at every reported hop**. The second hop nevertheless recorded a worst response of **49.1 ms**, while the final destination recorded a worst response of **25.3 ms**.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### DNS
 
 All three DNS tests completed successfully:
@@ -635,6 +768,8 @@ All three DNS tests completed successfully:
 - Cloudflare 1.1.1.1: **NOERROR**, **4 ms**
 - Google 8.8.8.8: **NOERROR**, **4 ms**
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Observation
 
 This evening test shows **stable connectivity with 0% packet loss**, but measurable intermittent latency variation remains visible.
@@ -647,6 +782,8 @@ Compared with the earlier **10:50 SAST incident test**, this is a materially dif
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 16. Updated Overall Observation
 
 The additional evening test strengthens the value of maintaining a chronological record of the connection rather than relying on one-off speed tests.
@@ -670,8 +807,12 @@ This variation is consistent with an intermittent problem requiring time-correla
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 17. Service Status Update — 22 September 2026
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Morning Observation
 
 On the morning of **22 September 2026**, the two Metro Fibre status lights that had previously indicated the service condition were observed to be **green**.
@@ -689,3 +830,5 @@ Further customer-side testing will be performed when access to the premises is a
 **Status update:** 22 September 2026  
 **Current observation:** Both Metro Fibre status lights green.  
 **Network testing:** Not possible at present because the customer is away from the premises.
+
+<!-- PLEBVOX:END -->

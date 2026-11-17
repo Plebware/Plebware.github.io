@@ -3,6 +3,7 @@ layout: post
 title: "PlebMachine Mission Control (v3.0)"
 date: 2026-09-18
 ---
+<!-- PLEBVOX:START -->
 # The Heart Of PlebMachine
 This Python script is the GTK3-based desktop interface for PlebMachine Mission Control (v3.0). 
 It acts as a workspace and environment orchestrator designed to switch desktop modes and handle wallpapers based on system states and time-of-day settings.
@@ -19,9 +20,13 @@ It acts as a workspace and environment orchestrator designed to switch desktop m
 
 📄 **Full source:** [mission-control.py](./mission-control.py)
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## **Key Functionality**
 Workspace & Mode Management: Maps 12 distinct functional modes (Everyday, Author, Study, Research, Graphics, Music, Video, Broadcast, AI Helpers, Developer, Accounting, Leisure) across 12 desktop workspaces.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### **System States:**
 
 **OFF**: Disables active modes, locking all workspaces to an "OFF" background layout.
@@ -36,6 +41,8 @@ Workspace & Mode Management: Maps 12 distinct functional modes (Everyday, Author
 
 **Persistent Configuration**: Stores system state, active modes, and timestamps in ~/.config/plebmachine/state.conf. Logs actions to /tmp/plebmachine-gui.log.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### **Dependencies**
 System & Python Libraries
 Python 3
@@ -48,6 +55,8 @@ GdkPixbuf (gir1.2-gdkpixbuf-2.0): Image scaling and rendering library.
 
 Standard Python Modules: os, sys, subprocess, datetime, fcntl, logging.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### **External Scripts & Binaries**
 The script assumes the existence of several helper executables and assets:
 
@@ -61,6 +70,8 @@ bash: Required to invoke background shell tasks via subprocess.Popen.
 
 **Mode-Specific Tools**: Tool launcher scripts matching /opt/plebmachine/bin/{mode_id}-tools.sh (e.g., author-tools.sh).
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### **File Assets & Paths**
 **Icons**: /opt/plebmachine/icons/128x128/plebmachine.png and /opt/plebmachine/icons/state/*
 
@@ -68,6 +79,8 @@ bash: Required to invoke background shell tasks via subprocess.Popen.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Review — 2026-09-20
 
 **Review subject:** Mission Control
@@ -81,3 +94,5 @@ bash: Required to invoke background shell tasks via subprocess.Popen.
 
 **Review date:** 2026-09-20  
 **Review scope:** Documentation, code preservation, description quality, and PlebVox exclusion.
+
+<!-- PLEBVOX:END -->

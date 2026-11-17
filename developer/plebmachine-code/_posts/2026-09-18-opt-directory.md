@@ -5,13 +5,17 @@ date: 2026-09-18
 ---
 <div style="text-align: center;">
   <img src="/assets/images/root-opt-plebmachine.webp"
+<!-- PLEBVOX:START -->
        alt="Alt Text - A Human Readable Graphical View of opt/plebmachine"
        style="width: 70%; max-width: 100%; height: auto;">
+<!-- PLEBVOX:END -->
 </div>
 
+<!-- PLEBVOX:START -->
 # **Tree List**
 
 
+<!-- PLEBVOX:END -->
 ```
 /opt/plebmachine
 ├── applications

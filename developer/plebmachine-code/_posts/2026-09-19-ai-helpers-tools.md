@@ -4,13 +4,18 @@ title: "AI-Helpers Tools"
 date: 2026-09-19
 ---
 
+<!-- PLEBVOX:START -->
 # Mode-Specific Tool for AI_Helpers
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # Script Breakdown: `{mode}-tools.sh` (Full Mode Tool Dispatcher)
 
 This version is the fully populated iteration of the **PlebMachine** operational mode tool launcher. Unlike the single-item variant, this script maps tailored multi-application choices to all 12 operational modes in `COGNITIVE` state while maintaining instant auto-launching in `AUTOMATIC` state.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Key Functionality
 
 * **Environment Initialization:** Sets explicit display variables (`DISPLAY`, `XAUTHORITY`, `GDK_BACKEND=x11`) to ensure graphical applications launch smoothly when invoked asynchronously by desktop shortcuts or background triggers.
@@ -22,8 +27,11 @@ This version is the fully populated iteration of the **PlebMachine** operational
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Mode-Specific Application Maps (`COGNITIVE` State)
 
+<!-- PLEBVOX:END -->
 | Operational Mode | Default App (`AUTOMATIC`) | Checklist Applications (`COGNITIVE`) |
 | :--- | :--- | :--- |
 | **`everyday`** | `logseq` | Logseq, Firefox, Thunderbird, VLC |
@@ -41,13 +49,18 @@ This version is the fully populated iteration of the **PlebMachine** operational
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Dependencies
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### System Utilities & GUI Engine
 * **`bash`**: Required for string trimming, arrays (`read -ra`), and logic flow.
 * **`grep`, `cut`, `tr`, `xargs`**: Parsers used to extract values from `state.conf`.
 * **`zenity`**: Renders the GTK checklist window.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Executables Required Across Modes
 To ensure all checklist items operate correctly, the host system needs these binaries installed and available in `$PATH` (or at their explicit paths):
 
@@ -62,6 +75,7 @@ To ensure all checklist items operate correctly, the host system needs these bin
   * `/opt/plebmachine/ai-apps/MetaAI-linux-x64/MetaAI`
 
 
+<!-- PLEBVOX:END -->
 ```
 #!/bin/bash
 export DISPLAY="${DISPLAY:-:0}"
@@ -192,6 +206,7 @@ done
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Review — 2026-09-20
 
 **Review subject:** AI Helpers Tools
@@ -205,3 +220,4 @@ done
 
 **Review date:** 2026-09-20  
 **Review scope:** Documentation, code preservation, description quality, and PlebVox exclusion.\n
+<!-- PLEBVOX:END -->

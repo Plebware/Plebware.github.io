@@ -4,12 +4,17 @@ title: "Workspace Switcher"
 date: 2026-09-18
 ---
 
+<!-- PLEBVOX:START -->
 # **workspace-switch.sh**
 
 This shell script takes a PlebMachine mode name as a command-line argument, maps that mode to a workspace number, and asks the desktop window manager to switch to the corresponding virtual desktop.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Key Functionality
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Mode-to-Workspace Mapping
 
 The script maps the 12 PlebMachine modes to workspace values 1 through 12:
@@ -27,6 +32,8 @@ The script maps the 12 PlebMachine modes to workspace values 1 through 12:
 - accounting → 11
 - leisure → 12
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Workspace Command
 
 The script passes the selected workspace value directly to the available desktop-switching utility:
@@ -38,6 +45,8 @@ The current code does **not** subtract 1 from the mapped workspace value. The pr
 
 The exact workspace numbering expected by `wmctrl` and `xdotool` should be confirmed during runtime testing on the PlebMachine target desktop. This documentation review does not claim that the current 1–12 mapping has been runtime-verified.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Error Handling
 
 The script exits with status 1 when:
@@ -45,8 +54,12 @@ The script exits with status 1 when:
 - an unrecognized mode is supplied; or
 - neither `wmctrl` nor `xdotool` is available.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Dependencies
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Required Utilities
 
 - **Bash** — required to execute the script.
@@ -55,10 +68,14 @@ The script exits with status 1 when:
 
 At least one of `wmctrl` or `xdotool` must be available for the script to perform a workspace switch.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## System Environment
 
 The script is intended for an X11 desktop environment with a window manager that provides multiple virtual desktops. PlebMachine currently targets XFCE/Xfwm4 on its Debian-based test systems.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Runtime Verification
 
 This article preserves the code and documents its current behaviour. It does **not** mark the script as runtime verified.
@@ -67,6 +84,7 @@ Before this script is classified as **WORKING**, test the installed copy on the 
 
 ---
 
+<!-- PLEBVOX:END -->
 ```bash
 #!/bin/bash
 # workspace-switch.sh - Switch to the specified workspace
@@ -101,6 +119,7 @@ fi
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Review — 2026-09-20
 
 **Review subject:** Workspace Switcher
@@ -116,3 +135,5 @@ fi
 
 **Review date:** 2026-09-20  
 **Review scope:** Documentation accuracy, code preservation, duplicate cleanup, runtime-verification status, and PlebVox exclusion.
+
+<!-- PLEBVOX:END -->

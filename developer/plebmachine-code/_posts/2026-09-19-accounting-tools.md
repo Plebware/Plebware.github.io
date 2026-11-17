@@ -4,13 +4,18 @@ title: "Accounting Tools"
 date: 2026-09-19
 ---
 
+<!-- PLEBVOX:START -->
 # Mode-Specific Tool for Accounting
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 # Script Breakdown: `accounting-tools.sh` (Accounting Mode Tool Dispatcher)
 
 This documentation focuses on the **Accounting** mode execution flow within the unified **PlebMachine** tool dispatcher script. When invoked via `accounting-tools.sh` (or symlinked equivalent), the script dynamically resolves `$MODE` to `accounting` and handles application launching based on the active system state.
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Key Functionality
 
 * **Environment Initialization:** Exports essential GUI environment variables (`DISPLAY`, `XAUTHORITY`, and `GDK_BACKEND=x11`) to enable background process execution of graphical windows.
@@ -22,8 +27,11 @@ This documentation focuses on the **Accounting** mode execution flow within the 
 
 ---
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Accounting Mode Configuration
 
+<!-- PLEBVOX:END -->
 | Setting / Target | Assigned Command / Choice | Purpose |
 | :--- | :--- | :--- |
 | **`DEFAULT_APP` (`AUTOMATIC`)** | `gnucash` | Auto-launches GnuCash personal and small business financial accounting software. |
@@ -32,17 +40,23 @@ This documentation focuses on the **Accounting** mode execution flow within the 
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Dependencies
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Core Utilities
 * **`bash`**: Required for array splitting (`read -ra`), string trimming, and control structures.
 * **`grep`, `cut`, `tr`, `xargs`**: Utilities used to parse settings from `state.conf`.
 * **`zenity`**: Provides GTK dialog windows for `COGNITIVE` mode checklists.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Binary Dependencies (Accounting Context)
 * **`gnucash`**: Financial accounting software binary.
 * **`firefox`**: Standard web browser binary.
 
+<!-- PLEBVOX:END -->
 ```
 #!/bin/bash
 export DISPLAY="${DISPLAY:-:0}"
@@ -173,6 +187,7 @@ done
 
 ---
 
+<!-- PLEBVOX:START -->
 ## Review — 2026-09-20
 
 **Review subject:** Accounting Tools
@@ -186,3 +201,4 @@ done
 
 **Review date:** 2026-09-20  
 **Review scope:** Documentation, code preservation, description quality, and PlebVox exclusion.\n
+<!-- PLEBVOX:END -->

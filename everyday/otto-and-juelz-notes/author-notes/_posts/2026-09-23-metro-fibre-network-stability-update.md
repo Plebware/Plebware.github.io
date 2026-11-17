@@ -4,10 +4,13 @@ title: "Metro Fibre Network Stability Update — 23 September 2026"
 date: 2026-09-23
 ---
 
+<!-- PLEBVOX:START -->
 # Metro Fibre Connection — Recurrence of Network Instability
 
 **📰 Field Report — 23 September 2026**
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Incident Summary
 
 On the morning of **23 September 2026**, Jullian reported that the LAN Card status lights had reverted to the previously observed **Green and Orange** condition.
@@ -16,6 +19,8 @@ At the same time, the network was experiencing major instability and repeated ne
 
 This report records the new incident and compares it with the customer-side test results obtained on 22 September.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Previous Status — 22 September 2026
 
 On the morning of **22 September 2026**, both LAN Card status lights were observed to be **green**.
@@ -30,6 +35,8 @@ Customer-side testing later that afternoon, approximately **14:54–14:57 SAST**
 
 The complete customer-side test results are documented in the previous report.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Recurrence — 23 September 2026
 
 This morning, the LAN indicators have again changed to:
@@ -47,8 +54,11 @@ Jullian reported:
 
 The recurrence is particularly relevant because the previous day's customer-side testing had recorded a clean baseline with 0% packet loss.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Sequence of Observed Conditions
 
+<!-- PLEBVOX:END -->
 | Date | LAN Indicator Condition | Observed Network Condition |
 |---|---|---|
 | Previous period | Green + Orange | Recurring instability reported. |
@@ -56,8 +66,11 @@ The recurrence is particularly relevant because the previous day's customer-side
 | 22 September | Green + Green | Customer-side tests recorded 0% packet loss and successful DNS resolution. |
 | 23 September | Green + Orange | Major instability and network errors reported; modem/router reboot required. |
 
+<!-- PLEBVOX:START -->
 This table records observations rather than assigning a cause.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Physical Intervention
 
 There has been no known physical intervention on the router that would explain the change in indicator status.
@@ -66,6 +79,8 @@ No Metro Fibre technician has attended the property.
 
 The Green + Orange condition had previously remained present for an extended period. It subsequently changed to Green + Green without a known physical intervention, and has now reverted to Green + Orange.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Technical Significance
 
 The available observations document different network states occurring at different times:
@@ -78,6 +93,8 @@ This correlation is worth adding to Metro Fibre's technical investigation. It do
 
 Further testing should be performed while the fault is active where practical, so that the network condition can be compared with the previous clean baseline.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Current Status
 
 As of the morning of **23 September 2026**, the network problem has recurred.
@@ -90,3 +107,5 @@ The latest customer report and the return of the Green + Orange LAN indication h
 **Author:** Otto Brinkmeier  
 **Date:** 23 September 2026  
 **Status:** Active incident — recurrence reported.
+
+<!-- PLEBVOX:END -->

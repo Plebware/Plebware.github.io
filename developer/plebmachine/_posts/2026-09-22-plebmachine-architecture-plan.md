@@ -8,14 +8,18 @@ mode: "developer"
 author: Otto Brinkmeier
 ---
 
+<!-- PLEBVOX:START -->
 # The PlebMachine Plan of Action 🛠️
 
 This document records the current PlebMachine architecture and the implementation plan.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 1. Establish the Clean Filesystem Structure
 
 Use the clean test machine as the primary architectural reference rather than the development machine, because the development machine contains legacy and experimental material.
 
+<!-- PLEBVOX:END -->
 ```text
 PlebMachine/
 ├── opt/
@@ -41,8 +45,11 @@ PlebMachine/
             └── plebmachine-wallpapers/
 ```
 
+<!-- PLEBVOX:START -->
 Actual source code will be preserved as real files, not pasted into Markdown code blocks.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 2. Identify the Surviving Applications
 
 Before deleting or merging anything, inspect the actual code.
@@ -56,6 +63,8 @@ The important standalone applications are:
 
 In particular, compare `plebmachine-control-center.py` and `plebmachine-tools.py` before deciding which management application survives.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 3. Establish One Gold Registry
 
 The PlebUser Wizard establishes the initial Registry.
@@ -75,6 +84,8 @@ The Registry becomes the **single source of truth** for:
 
 No application should create a competing registry.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 4. Upgrade PlebUser Wizard
 
 The current Computer Experience and Linux Experience scales are 1–5.
@@ -85,8 +96,11 @@ The Wizard will use the assessment to establish the user's initial PlebMachine p
 
 The exact scoring thresholds should be defined before implementation rather than guessed.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 5. Define the Four Mission Control States
 
+<!-- PLEBVOX:END -->
 | State | Purpose |
 |---|---|
 | **OFF** | PlebMachine completely inactive |
@@ -94,36 +108,48 @@ The exact scoring thresholds should be defined before implementation rather than
 | **Cognitive** | User chooses applications |
 | **Full-Auto** | Power-user automatic operation |
 
+<!-- PLEBVOX:START -->
 ### OFF
 
 OFF is always available. It is not earned.
 
 PlebMachine stops operating and the computer returns to its normal desktop environment.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Automatic
 
 For beginners.
 
 Mode switching asks whether work has been saved, then switches mode and automatically launches the appropriate main application.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Cognitive
 
 For intermediate users.
 
 Mode switching asks whether work has been saved, then opens the application selector so the user can choose applications.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Full-Auto
 
 For advanced/power users.
 
 Mode switching is immediate, with no save warning, and the appropriate main application launches automatically. A shortcut can still open the App Selector when manual selection is wanted.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 6. Create the Progression System
 
 User progression and Mission Control operating state remain separate concepts.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### User progression
 
+<!-- PLEBVOX:END -->
 ```text
 First Run
     ↓
@@ -134,8 +160,10 @@ Intermediate
 Advanced
 ```
 
+<!-- PLEBVOX:START -->
 ### Mission Control operating state
 
+<!-- PLEBVOX:END -->
 ```text
 OFF
 Automatic
@@ -143,6 +171,7 @@ Cognitive
 Full-Auto
 ```
 
+<!-- PLEBVOX:START -->
 ## 7. Mission Control Tracks Experience
 
 The Wizard establishes the progression policy.
@@ -153,6 +182,7 @@ The system should not duplicate the progression rules in Splash.
 
 The relationship is:
 
+<!-- PLEBVOX:END -->
 ```text
 Wizard
   │
@@ -168,6 +198,7 @@ Wizard
              └── updates Registry
 ```
 
+<!-- PLEBVOX:START -->
 ## 8. Save State
 
 **Save State becomes available at Intermediate level.**
@@ -178,6 +209,8 @@ The principle is:
 
 > Wizard establishes → Mission Control operates → Mission Control saves.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 9. Build Splash as the Entry Point
 
 Splash is a standalone application.
@@ -193,8 +226,11 @@ It can also be invoked by system startup if startup integration has been enabled
 
 Splash reads the Gold Registry and routes the user to the appropriate interface. It should not contain a competing progression system.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 10. Splash Progression Behaviour
 
+<!-- PLEBVOX:END -->
 ```text
 Splash
   │
@@ -210,16 +246,22 @@ Read Gold Registry
   └── Advanced ─────► All four states
 ```
 
+<!-- PLEBVOX:START -->
 Any countdown should be a short launch transition, not an unnecessary delay.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 11. Advanced Startup Integration
 
 Installing PlebMachine does **not** automatically add it to system startup.
 
 There are two ways to qualify for startup integration.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ### Full Score During Wizard
 
+<!-- PLEBVOX:END -->
 ```text
 PlebUser Wizard
       ↓
@@ -230,8 +272,10 @@ Advanced qualification
 Startup integration becomes available
 ```
 
+<!-- PLEBVOX:START -->
 ### Progression Through Use
 
+<!-- PLEBVOX:END -->
 ```text
 Beginner
    ↓
@@ -246,14 +290,18 @@ Advanced
 Startup integration becomes available
 ```
 
+<!-- PLEBVOX:START -->
 A user who demonstrates sufficient expertise during setup therefore does not need to artificially progress through the lower levels first.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 12. Startup Is Separate from Full-Auto
 
 Advanced qualification does not automatically mean Full-Auto.
 
 Startup integration and Mission Control operating state are separate settings.
 
+<!-- PLEBVOX:END -->
 ```text
 Advanced qualification
         │
@@ -262,6 +310,7 @@ Advanced qualification
         └── Startup integration available
 ```
 
+<!-- PLEBVOX:START -->
 ## 13. Explicit Startup Integration
 
 The management interface should eventually provide:
@@ -276,6 +325,8 @@ These controls become available when the user qualifies for Advanced.
 
 Startup should launch **Splash**, not bypass Splash and launch Mission Control directly.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## 14. Inspect Before Implementation
 
 The next technical phase is inspection rather than a wholesale rewrite:
@@ -292,8 +343,12 @@ The next technical phase is inspection rather than a wholesale rewrite:
 10. Decide the final architecture.
 11. Modify the code only after the architecture is confirmed.
 
+<!-- PLEBVOX:END -->
+<!-- PLEBVOX:START -->
 ## Architecture Principle
 
 **Wizard establishes. Registry remembers. Splash routes. Mission Control operates. Tools manages.**
 
 The goal is a coherent state-driven Linux desktop orchestration system rather than a collection of scripts that merely happen to work together.
+
+<!-- PLEBVOX:END -->
