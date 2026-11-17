@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "View Otto's YouTube Channel"
+title: "View Otto's YouTube Channel!"
 date: 2024-06-07
 ---
 
 <!-- PLEBVOX:START -->
 
-# This provides a means to view Otto's YouTube Space
+# This provides a means to view Otto's YouTube Space!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Otto's YouTube Channel
+## Otto's YouTube Channel!
 
 At the moment, there is one primary channel:
 
