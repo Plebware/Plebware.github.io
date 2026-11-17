@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Father God, I Need Intervention"
+title: "Father God, I Need Intervention!"
 date: 2026-06-22
 ---
 
@@ -26,7 +26,7 @@ date: 2026-06-22
 
 <!-- PLEBVOX:START -->
 
-## Opening Prayer
+## Opening Prayer!
 
 _Father God,_
 _I come before You with a heart that is heavy, but still holding on to faith._
@@ -40,7 +40,7 @@ _Amen._
 
 <!-- PLEBVOX:START -->
 
-# Introduction
+# Introduction!
 
 There are moments in life when reality becomes difficult to put into words.
 
@@ -62,7 +62,7 @@ But even in these moments, God sees.
 
 <!-- PLEBVOX:START -->
 
-# A Moment of Reflection
+# A Moment of Reflection!
 
 Sometimes the greatest burdens are not only the things we lack, but the things we witness around us.
 
@@ -84,13 +84,13 @@ This reminded me that behind every street, every home, and every neighbourhood a
 
 <!-- PLEBVOX:START -->
 
-# Summary Poem
+# Summary Poem!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## When The World Feels Heavy
+## When The World Feels Heavy?
 ```
 When cupboards grow empty,  
 And worries fill the night,  
@@ -114,13 +114,13 @@ And He is always near.
 
 <!-- PLEBVOX:START -->
 
-# Lessons From Scripture
+# Lessons From Scripture!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 1. God Sees Our Needs
+## 1. God Sees Our Needs!
 
 **Matthew 6:31-32**
 
@@ -144,7 +144,7 @@ When finances are tight and circumstances feel impossible, we can still choose f
 
 <!-- PLEBVOX:START -->
 
-## 2. God Is Present During Hard Times
+## 2. God Is Present During Hard Times!
 
 **Psalm 46:1**
 
@@ -168,7 +168,7 @@ Even when society around us appears to decline, God remains unchanged.
 
 <!-- PLEBVOX:START -->
 
-## 3. Truth Requires Courage
+## 3. Truth Requires Courage!
 
 **John 8:32**
 
@@ -192,7 +192,7 @@ Acknowledging difficulties is not defeat. It is the first step toward finding a 
 
 <!-- PLEBVOX:START -->
 
-# Church History Reflection
+# Church History Reflection!
 
 Throughout history, believers have faced times of poverty, persecution, uncertainty, and hardship.
 
@@ -208,7 +208,7 @@ Many believers discovered that their darkest seasons became the moments where th
 
 <!-- PLEBVOX:START -->
 
-# Closing Prayer
+# Closing Prayer!
 
 Father God,
 
