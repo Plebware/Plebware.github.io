@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Author PlebWare/PlebMachine User"
+title: "Author PlebWare/PlebMachine User!"
 date: 2026-11-06
 category: "02-author-plebmachine-user"
 tags: [writers, authors, linux users]
