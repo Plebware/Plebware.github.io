@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Waiting For The Advance"
+title: "Waiting For The Advance!"
 date: 2026-09-14
 category: "non-fiction"
 tags: [difficult times, financial hardship, thirst, no coffee, caffeine withdrawal, headache, anger]
@@ -14,7 +14,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# **Living Ahead Of Your Means.**
+# **Living Ahead Of Your Means.**!
 
 ## When You Have No Other Options.
 
@@ -38,7 +38,7 @@ But there is a thread of truth running through them. Unless things change, and h
 
 <!-- PLEBVOX:START -->
 
-## **You Will Own Nothing And Be Happy.**
+## **You Will Own Nothing And Be Happy.**!
 
 Yeah, right!
 
@@ -108,7 +108,7 @@ But there is an important question hiding underneath it.
 
 <!-- PLEBVOX:START -->
 
-## **Borrowing From TymeBank To Live.**
+## **Borrowing From TymeBank To Live.**!
 
 Never mind that dismal thought about not owning anything and being happy.
 
@@ -167,7 +167,7 @@ This is what **living ahead of your means** actually looks like when you have no
 <!-- PLEBVOX:END -->
 ----
 <!-- PLEBVOX:START -->
-## The Checkers Sixty60 Shopping List
+## The Checkers Sixty60 Shopping List!
 
 | Item Description | Quantity | Price |
 | :--- | :---: | :---: |
@@ -182,11 +182,11 @@ This is what **living ahead of your means** actually looks like when you have no
 | **Whiskas Fish Flavoured Adult Dry Cat Food 900g** | 1 | R124.99 |
 | **NESCAFÉ RICOFFY Soluble Chicory & Coffee Granules Refill 800g** | 1 | R179.99 |
 
-## Summary
+## Summary!
 * **Total Savings:** R23.00
 * **Total Amount:** R993.88
 
-### **Compared to last month**
+### **Compared to last month**!
 
 | Item Description | Quantity | Price |
 | :--- | :--- | :--- |
