@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seventy-five Percent A Writer — Corridors of a Troubled Mind"
+title: "Seventy-five Percent A Writer — Corridors of a Troubled Mind!"
 date: 2026-10-26
 category: "non-fiction"
 tags: [memoir, personal-reflections, South-African-history, 1992-referendum, military-veterans, pensions, writing, hardship]
@@ -20,7 +20,7 @@ description: "Otto Brinkmeier wanders through the corridors of a troubled mind, 
 
 <!-- PLEBVOX:START -->
 
-# 75 Percent A Writer
+# 75 Percent A Writer!
 
 When a man sits down to write with a heavy heart, he may be tired of the daily grind. His headache is real, his budget is little more than a concept on paper, and all around him are sighs, mumbling, and grumbling.
 
