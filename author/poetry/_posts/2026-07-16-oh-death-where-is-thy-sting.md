@@ -10,11 +10,11 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## 🕯️ A Cry From the Valley of Shadows
+## 🕯️ A Cry From the Valley of Shadows!
 
 > *"Even in the darkest valley, the heart still searches for the light beyond the storm."*
 
-### Otto's Poem
+### Otto's Poem!
 ```
 Oh Death, where is thy sting?  
 If only you could make the accusations stop to ring.
