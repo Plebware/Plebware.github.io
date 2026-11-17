@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Meccano to GitHub"
+title: "From Meccano to GitHub!"
 date: 2026-08-06
 ---
 <!-- PLEBVOX:START -->
