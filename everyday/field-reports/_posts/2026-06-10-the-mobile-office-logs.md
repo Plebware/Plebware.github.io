@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "💻 | The Mobile Office Logs"
+title: "💻 | The Mobile Office Logs!"
 date: 2026-06-10
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🚗 Portable Publishing From The Field
+# 🚗 Portable Publishing From The Field!
 
 Today’s dispatch comes straight from the real-world command centre: a **2010 Ford Ranger 2.2, 6-speed** — not just a vehicle, but a rolling publishing station.
 
@@ -18,7 +18,7 @@ There’s something oddly satisfying about stepping out of a setup like this, lo
 
 <!-- PLEBVOX:START -->
 
-# 💻 The Mobile Office in Action
+# 💻 The Mobile Office in Action!
 
 The portable publishing setup has now successfully produced **two published articles this morning**.
 
@@ -37,7 +37,7 @@ The system is starting to feel less like “using tools” and more like **livin
 
 <!-- PLEBVOX:START -->
 
-# 🚗 The Machine Behind It All
+# 🚗 The Machine Behind It All!
 
 The base station today:
 
@@ -56,7 +56,7 @@ Sometimes the best writing environment is simply… wherever you are.
 
 <!-- PLEBVOX:START -->
 
-# ⚠️ Field Note: Small Oversight
+# ⚠️ Field Note: Small Oversight!
 
 In the rush of stepping out, one small reminder from reality:
 
@@ -70,7 +70,7 @@ A simple thing, but it fits the theme of field publishing — nothing is perfect
 
 <!-- PLEBVOX:START -->
 
-# 🧭 Closing Reflection
+# 🧭 Closing Reflection!
 
 Portable publishing changes the rhythm of work. It removes the idea that writing belongs to a desk, a room, or a schedule.
 
