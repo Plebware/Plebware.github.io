@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "The Death by a Thousand Expenses Economy"
+title: "The Death by a Thousand Expenses Economy!"
 date: 2026-06-12
 ---
 
 <!-- PLEBVOX:START -->
 
-# 📰 Death by a Thousand Cuts
+# 📰 Death by a Thousand Cuts!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## When Every Small Problem Becomes a Financial Problem
+## When Every Small Problem Becomes a Financial Problem?
 
 Much has been written about inflation, rising living costs, and the struggle ordinary people face in trying to balance household budgets.
 
@@ -28,7 +28,7 @@ For many South Africans, budgeting has become less about planning and more about
 
 <!-- PLEBVOX:START -->
 
-# 🚙 Vehicle Problems and Lost Income
+# 🚙 Vehicle Problems and Lost Income!
 
 The most immediate challenge in our household has been the loss of work opportunities caused by ongoing vehicle problems.
 
@@ -52,7 +52,7 @@ Multiple missed days within a short period create a negative spiral that becomes
 
 <!-- PLEBVOX:START -->
 
-# 🐱 Even Cat Food Becomes a Budget Issue
+# 🐱 Even Cat Food Becomes a Budget Issue!
 
 One of the less obvious financial pressures involves something as simple as pet food.
 
@@ -80,7 +80,7 @@ In a household operating on a tight budget, even small losses become noticeable.
 
 <!-- PLEBVOX:START -->
 
-# ⚡ Electricity Costs That Continue Rising
+# ⚡ Electricity Costs That Continue Rising!
 
 Another significant pressure comes from electricity.
 
@@ -106,7 +106,7 @@ It is difficult not to feel as though one is being charged premium prices for a 
 
 <!-- PLEBVOX:START -->
 
-# 🌐 Why We Prioritize Internet Access
+# 🌐 Why We Prioritize Internet Access!
 
 Some people view internet access as a luxury.
 
@@ -137,7 +137,7 @@ Like many consumers, we find ourselves paying more while questioning whether we 
 
 <!-- PLEBVOX:START -->
 
-# 📈 The Hidden Cost of Constant Increases
+# 📈 The Hidden Cost of Constant Increases!
 
 Each individual increase appears manageable when viewed in isolation.
 
@@ -165,7 +165,7 @@ The cumulative effect is often far greater than any single increase.
 
 <!-- PLEBVOX:START -->
 
-# 😓 The Human Factor
+# 😓 The Human Factor!
 
 Financial strain affects more than bank balances.
 
@@ -191,7 +191,7 @@ The stress does not disappear simply because it has been discussed before.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The Real Challenge Facing Ordinary Households
+# 🔑 The Real Challenge Facing Ordinary Households!
 
 The challenge facing many households today is not merely inflation.
 
