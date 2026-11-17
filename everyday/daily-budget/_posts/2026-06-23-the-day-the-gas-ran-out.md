@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Day the Gas Ran Out"
+title: "The Day the Gas Ran Out!"
 date: 2026-06-23
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔥 No Coffee For The Tired
+# 🔥 No Coffee For The Tired!
 
 Sometimes life does not arrive with a dramatic explosion.
 
@@ -28,7 +28,7 @@ The 12kg gas bottle is empty.
 
 <!-- PLEBVOX:START -->
 
-## ☕ A Small Event That Isn't Small
+## ☕ A Small Event That Isn't Small!
 
 To most people, running out of gas is a minor inconvenience.
 
@@ -52,7 +52,7 @@ One unexpected problem rarely arrives alone.
 
 <!-- PLEBVOX:START -->
 
-## 🐪 The Straw That Broke the Camel Train
+## 🐪 The Straw That Broke the Camel Train!
 
 There is an old saying about the straw that broke the camel's back.
 
@@ -80,7 +80,7 @@ Usually many small annoyances forming a mountain.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Real Challenge
+## 🔑 The Real Challenge!
 
 The empty gas bottle is not the real problem.
 
@@ -104,7 +104,7 @@ Even if today's progress is slower than expected.
 
 <!-- PLEBVOX:START -->
 
-## 🧠 Lessons From Hard Times
+## 🧠 Lessons From Hard Times!
 
 Periods of financial strain teach lessons that comfortable times often hide.
 
@@ -124,7 +124,7 @@ Stories of endurance.
 
 <!-- PLEBVOX:START -->
 
-## 🚂 Keep Moving
+## 🚂 Keep Moving!
 
 The train does not stop because of one delay.
 
