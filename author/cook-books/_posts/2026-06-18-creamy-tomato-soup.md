@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🍅  Creamy Tomato Soup"
+title: "🍅  Creamy Tomato Soup!"
 date: 2026-06-18
 ---
 
@@ -8,7 +8,7 @@ date: 2026-06-18
 
 <div align="center">
 
-# 🍅🥣 Creamy Tomato Soup 🌿✨
+# 🍅🥣 Creamy Tomato Soup 🌿✨!
 
 **Joy Cookery Book**  
 *"Preserving the Past, Cooking for the Future"* 🍽️
@@ -21,7 +21,7 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 🛒 Ingredients
+## 🛒 Ingredients!
 
 🥛 **4 Cups Milk**  
 🌾 **2 Tablespoons Flour**  
@@ -38,9 +38,9 @@ date: 2026-06-18
 
 <!-- PLEBVOX:START -->
 
-## 👨‍🍳 Method
+## 👨‍🍳 Method!
 
-### 1️⃣ Prepare the White Sauce 🥛🧈
+### 1️⃣ Prepare the White Sauce 🥛🧈!
 
 Make a smooth white sauce using:
 
@@ -52,7 +52,7 @@ Stir until creamy and well combined.
 
 ---
 
-### 2️⃣ Prepare the Tomatoes 🍅
+### 2️⃣ Prepare the Tomatoes 🍅!
 
 Cook the tomatoes separately until tender.
 
@@ -60,7 +60,7 @@ Cook the tomatoes separately until tender.
 
 ---
 
-### 3️⃣ Combine the Soup 🍲
+### 3️⃣ Combine the Soup 🍲!
 
 Just before serving:
 
@@ -72,7 +72,7 @@ Slowly stir the tomatoes into the white sauce, stirring constantly.
 
 ---
 
-### 4️⃣ Serve Immediately 🍽️
+### 4️⃣ Serve Immediately 🍽️!
 
 Serve hot at once.
 
@@ -85,7 +85,7 @@ If the soup starts to curdle, don't panic — beat thoroughly with a whisk until
 
 <!-- PLEBVOX:START -->
 
-## 🌿 Optional Garnish
+## 🌿 Optional Garnish!
 
 Finish with fresh basil leaves for a beautiful flavour boost. 🌱🍅
 
@@ -95,7 +95,7 @@ Finish with fresh basil leaves for a beautiful flavour boost. 🌱🍅
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Cook's Note
+## 🔑 Cook's Note!
 
 A simple old-fashioned tomato soup with a creamy twist — turning humble tomatoes into a comforting bowl of warmth. ❤️🏡
 
