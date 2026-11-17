@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "PlebMachine with AI"
+title: "PlebMachine with AI!"
 date: 2026-10-26
 author: Othello Verrocchio
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🤖 A Human, a Machine, and an AI With Ideas
+# 🤖 A Human, a Machine, and an AI With Ideas!
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/plebmachine-with-ai.webp' | relative_url }}"
@@ -36,7 +36,7 @@ That counts as progress.
 
 <!-- PLEBVOX:END -->
 
-## 📋 WhatsApp Copy-and-Paste Version
+## 📋 WhatsApp Copy-and-Paste Version!
 
 ```
 🤖 A Human, a Machine, and an AI With Ideas
