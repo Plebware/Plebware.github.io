@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Captain Gemini News: The Google Analytics Hurdle"
+title: "Captain Gemini News: The Google Analytics Hurdle!"
 date: 2026-08-12
 ---
 
 <!-- PLEBVOX:START -->
-# 🚀 Captain Gemini News
-## The Great PlebWare Lighthouse Expedition
+# 🚀 Captain Gemini News!
+## The Great PlebWare Lighthouse Expedition!
 
 Good morning, citizens of the PlebWare universe!
 
@@ -19,7 +19,7 @@ And, remarkably, we survived.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🛰️ Mission Briefing
+## 🛰️ Mission Briefing!
 
 The mission appeared simple.
 
@@ -56,7 +56,7 @@ The poor thing was completely framed.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🔧 PlebVox Under Investigation
+## 🔧 PlebVox Under Investigation!
 
 The PlebVox JavaScript was examined line by line.
 
@@ -81,7 +81,7 @@ And Lighthouse is not known for being sentimental.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 📱 Mobile Lighthouse Report
+## 📱 Mobile Lighthouse Report!
 
 The first major test was performed against an emulated mobile device.
 
@@ -122,7 +122,7 @@ For approximately five minutes.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🖥️ Then Came The Desktop Test
+## 🖥️ Then Came The Desktop Test!
 
 Captain Gemini ordered another test.
 
@@ -181,7 +181,7 @@ So why was Lighthouse giving us a 79?
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🚨 The Suspect: Layout Shift
+## 🚨 The Suspect: Layout Shift!
 
 The culprit was hiding in plain sight.
 
@@ -222,7 +222,7 @@ Therefore, the Captain has refused to arrest PlebVox without further evidence.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🕵️ The Other Suspects
+## 🕵️ The Other Suspects!
 
 There are several other suspects still wandering around the PlebWare codebase.
 
@@ -247,7 +247,7 @@ And some are simply Lighthouse being Lighthouse.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 🏆 The Real News
+## 🏆 The Real News!
 
 Despite all the detective work, the biggest story of the morning is not the 79.
 
@@ -280,7 +280,7 @@ That's a working website with a few loose bolts waiting for the spanner.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## ☕ Captain's Log
+## ☕ Captain's Log!
 
 The morning began with a question about whether a few harmless JavaScript comments needed to be removed.
 
@@ -325,7 +325,7 @@ And eventually you discover that the thing was never actually broken.
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-## 📰 Captain Gemini's Final Bulletin
+## 📰 Captain Gemini's Final Bulletin!
 
 PlebWare remains operational.
 
@@ -367,7 +367,7 @@ And when Lighthouse starts shouting...
 
 ---
 
-## 🔑 Moral of the Morning
+## 🔑 Moral of the Morning!
 
 A Lighthouse score is not a verdict.
 
