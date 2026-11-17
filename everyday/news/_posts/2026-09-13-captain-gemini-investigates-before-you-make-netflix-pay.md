@@ -40,7 +40,7 @@ But Captain Gemini has another question.
 
 <!-- PLEBVOX:START -->
 
-## Evidence First. Allegations Second. 🔎⚖️
+## Evidence First. Allegations Second. 🔎⚖️!
 
 **A note from Captain Gemini.**
 
@@ -72,7 +72,7 @@ This investigation is not a conviction.
 
 <!-- PLEBVOX:START -->
 
-## The Great OTT Debate. 📱📺
+## The Great OTT Debate. 📱📺!
 
 To understand what is happening, we first need to understand what "OTT" actually means.
 
@@ -104,7 +104,7 @@ And this is where things become complicated.
 
 <!-- PLEBVOX:START -->
 
-## Somebody Wants Somebody Else to Pay. 💰
+## Somebody Wants Somebody Else to Pay. 💰!
 
 One of the arguments being raised internationally is known as **Fair Share**.
 
@@ -150,7 +150,7 @@ So before we decide whether Netflix or another international platform should con
 
 <!-- PLEBVOX:START -->
 
-## And Then There Is Mobile Data. 📱💸
+## And Then There Is Mobile Data. 📱💸!
 
 But this investigation cannot stop at fibre.
 
@@ -202,7 +202,7 @@ That is a question worth investigating.
 
 <!-- PLEBVOX:START -->
 
-## ICASA Has Already Recognised the Problem. ⚖️
+## ICASA Has Already Recognised the Problem. ⚖️!
 
 This isn't simply Captain Gemini raising a consumer concern.
 
@@ -228,7 +228,7 @@ If regulators believe consumers need greater protection when purchased data expi
 
 <!-- PLEBVOX:START -->
 
-## Captain Gemini Has a Personal Question. 🕵️‍♂️
+## Captain Gemini Has a Personal Question. 🕵️‍♂️!
 
 This isn't merely an academic argument for me.
 
@@ -266,7 +266,7 @@ And if the provider cannot immediately identify the cause, I want to know what s
 
 <!-- PLEBVOX:START -->
 
-## Speed Isn't Everything. ⚡🐌
+## Speed Isn't Everything. ⚡🐌!
 
 There is another misconception we need to clear up.
 
@@ -298,7 +298,7 @@ Captain Gemini wants to investigate **the actual experience of the customer**, n
 
 <!-- PLEBVOX:START -->
 
-## The Poor Are Not the Problem. 🇿🇦
+## The Poor Are Not the Problem. 🇿🇦!
 
 There is another part of this conversation that cannot be ignored.
 
@@ -352,7 +352,7 @@ Perhaps we should also ask:
 
 <!-- PLEBVOX:START -->
 
-## Who Is Actually Being Asked to Pay? 💰🔍
+## Who Is Actually Being Asked to Pay? 💰🔍?
 
 This is where the Captain Gemini investigation becomes uncomfortable.
 
@@ -392,7 +392,7 @@ Because adding another source of funding does not, by itself, guarantee a better
 
 <!-- PLEBVOX:START -->
 
-## The Real Problem May Be Accountability. ⚖️
+## The Real Problem May Be Accountability. ⚖️!
 
 This is not an argument that telecommunications companies are dishonest.
 
@@ -430,7 +430,7 @@ They are **consumer accountability questions.**
 
 <!-- PLEBVOX:START -->
 
-## Follow the Money. Follow the Data. Follow the Evidence. 🧾🔍
+## Follow the Money. Follow the Data. Follow the Evidence. 🧾🔍!
 
 This is where the Captain Gemini Investigation Series will take us.
 
@@ -472,7 +472,7 @@ It's about finding out what is actually true.
 
 <!-- PLEBVOX:START -->
 
-## The Question We Leave on the Table. 🎯
+## The Question We Leave on the Table. 🎯!
 
 South Africa is considering what the future of its digital communications environment should look like.
 
@@ -512,7 +512,7 @@ These are the questions we're going to investigate.
 
 <!-- PLEBVOX:START -->
 
-## What Comes Next? 🚀
+## What Comes Next? 🚀?
 
 In the next investigation, we're going to move from the big national debate to the small end of the network.
 
@@ -552,7 +552,7 @@ And one very simple question:
 
 <!-- PLEBVOX:START -->
 
-## The Captain Gemini Position. 📰
+## The Captain Gemini Position. 📰!
 
 We are not anti-Netflix.
 
