@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Developer Tools"
+title: "Developer Tools!"
 date: 2026-09-19
 ---
 
 <!-- PLEBVOX:START -->
-# Mode-Specific Tool for Developer
+# Mode-Specific Tool for Developer!
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-# Script Breakdown: `developer-tools.sh` (Developer Mode Tool Dispatcher)
+# Script Breakdown: `developer-tools.sh` (Developer Mode Tool Dispatcher)!
 
 This script is a specialized, GTK/XFCE-focused variant of the **PlebMachine** tool launcher specifically configured for the **Developer** operational mode. Unlike the global master templates that use `case` switches for all modes, this script hardcodes developer-centric options (`xfce4-terminal`, `mousepad`, and `glade`) while preserving the system's state-driven launcher framework.
 
@@ -17,7 +17,7 @@ This script is a specialized, GTK/XFCE-focused variant of the **PlebMachine** to
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Key Functionality
+## Key Functionality!
 
 * **Environment Setup:** Exports standard GUI display variables (`DISPLAY`, `XAUTHORITY`, `GDK_BACKEND=x11`) so applications launch cleanly when triggered from background events or hotkeys.
 * **Mode Name Extraction:** Strips file extensions and path prefixes from `$0` via `basename "$0" .sh` and parameter expansion (`${SCRIPT_NAME%-tools}`) to set `$MODE` to `developer`.
@@ -30,7 +30,7 @@ This script is a specialized, GTK/XFCE-focused variant of the **PlebMachine** to
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-## Mode Configuration & Tools (`COGNITIVE` State)
+## Mode Configuration & Tools (`COGNITIVE` State)!
 
 <!-- PLEBVOX:END -->
 | Setting / Option | Target Command / Package | Description |
@@ -43,18 +43,18 @@ This script is a specialized, GTK/XFCE-focused variant of the **PlebMachine** to
 ---
 
 <!-- PLEBVOX:START -->
-## Dependencies
+## Dependencies!
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Core Utilities & Engine
+### Core Utilities & Engine!
 * **`bash`**: Script execution environment.
 * **`grep`, `cut`, `tr`, `xargs`**: Parsers used to process `state.conf`.
 * **`zenity`**: Provides the GTK GUI checklist window.
 
 <!-- PLEBVOX:END -->
 <!-- PLEBVOX:START -->
-### Binary Dependencies
+### Binary Dependencies!
 * **`xfce4-terminal`**: Terminal emulator executable.
 * **`mousepad`**: Text editor binary.
 * **`glade`**: GTK UI builder executable.
@@ -118,7 +118,7 @@ done
 ---
 
 <!-- PLEBVOX:START -->
-## Review — 2026-09-20
+## Review — 2026-09-20!
 
 **Review subject:** Developer Tools
 
