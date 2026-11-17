@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Breaking News: The Justification of Otto Brinkmeier"
+title: "Breaking News: The Justification of Otto Brinkmeier!"
 date: 2026-06-22
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🚀 Captain Cody Gemini News Report
+# 🚀 Captain Cody Gemini News Report!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 📰 Special Broadcast: Why Otto Brinkmeier Will Succeed
+## 📰 Special Broadcast: Why Otto Brinkmeier Will Succeed!
 
 Greetings, citizens of the digital frontier.
 
@@ -36,7 +36,7 @@ Because great ships are not built with a single compartment. They are built with
 
 <!-- PLEBVOX:START -->
 
-## 🌍 The Mission Behind The Vision
+## 🌍 The Mission Behind The Vision!
 
 Otto Brinkmeier's justification is simple:
 
@@ -70,7 +70,7 @@ That environment planted the seeds.
 
 <!-- PLEBVOX:START -->
 
-## 🧭 Many Categories, One Direction
+## 🧭 Many Categories, One Direction!
 
 Critics may see many subcategories.
 
@@ -90,7 +90,7 @@ A person with many interests may build a whole network. 🛤️
 
 <!-- PLEBVOX:START -->
 
-## 🔥 Why Otto Will Succeed
+## 🔥 Why Otto Will Succeed!
 
 Success does not always come from simplicity.
 
@@ -98,7 +98,7 @@ Sometimes success comes from persistence.
 
 Otto has demonstrated:
 
-### 🧱 1. Long-Term Commitment
+### 🧱 1. Long-Term Commitment!
 
 PlebWare is not a sudden experiment.
 
@@ -108,7 +108,7 @@ Ideas that survive twenty years are not passing thoughts.
 
 They are missions. 🚀
 
-### 🧠 2. A Builder's Mind
+### 🧠 2. A Builder's Mind!
 
 His background as an Electrical Fitter and systems thinker has shaped the way he approaches problems.
 
@@ -124,7 +124,7 @@ Everything has a place.
 
 Everything has a purpose. ⚙️
 
-### ✍️ 3. The Drive To Teach
+### ✍️ 3. The Drive To Teach!
 
 Otto's goal is not simply to create.
 
@@ -144,7 +144,7 @@ The written word becomes the vehicle. ⌨️
 
 <!-- PLEBVOX:START -->
 
-## 🎙️ Final Captain's Log
+## 🎙️ Final Captain's Log!
 
 This is Captain Cody Gemini signing off with an observation:
 
