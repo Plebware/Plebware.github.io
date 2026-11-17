@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "When All That Remains Is the Writing"
+title: "When All That Remains Is the Writing?"
 date: 2026-06-28
 ---
 
 <!-- PLEBVOX:START -->
 
-# ✍️ When All That Remains Is the Writing
+# ✍️ When All That Remains Is the Writing!
 
 > *"Technology may change, but the purpose behind it never should."*
 
@@ -20,7 +20,7 @@ My heart's desire has always been to master computers, not merely for my own ben
 
 <!-- PLEBVOX:START -->
 
-# 💻 The Beginning — 0tronix Developments
+# 💻 The Beginning — 0tronix Developments!
 
 When I registered my Close Corporation, **0tronix Developments**, in **2003**, the leading **0** was a deliberate choice. I intended to place the company at the very beginning of the telephone 📞 directories. Besides that, **ZeroTronix** simply had a distinctive and memorable sound.
 
@@ -41,7 +41,7 @@ The goal was to create resources that educate, inspire, and empower people.
 
 <!-- PLEBVOX:START -->
 
-# 👨‍💻 The Human Element — PlebWare
+# 👨‍💻 The Human Element — PlebWare!
 
 The same vision later shaped the birth of **PlebWare**.
 
@@ -67,7 +67,7 @@ Computers exist to serve humanity—not the other way around.
 
 <!-- PLEBVOX:START -->
 
-# 🔑 The PlebWare Philosophy
+# 🔑 The PlebWare Philosophy!
 
 This philosophy led to the name **PlebWare**.
 
@@ -95,7 +95,7 @@ It is the human being who gives every computer system its meaning, direction, an
 
 <!-- PLEBVOX:START -->
 
-# 🚀 The Evolution — PlebMachine
+# 🚀 The Evolution — PlebMachine!
 
 Today, that original vision has matured into something far greater than I could have imagined.
 
@@ -121,7 +121,7 @@ at the very centre of the computing experience.
 
 <!-- PLEBVOX:START -->
 
-# 🌍 PlebWare Today
+# 🌍 PlebWare Today!
 
 Alongside **PlebMachine** stands **PlebWare**, the publishing and educational arm of the project.
 
@@ -143,7 +143,7 @@ The website has become both my workshop and my library—a place where ideas are
 
 <!-- PLEBVOX:START -->
 
-# 🏁 Looking Back
+# 🏁 Looking Back!
 
 In many ways, this represents the fulfilment of a dream that began more than two decades ago with **0tronix Developments**.
 
@@ -165,7 +165,7 @@ Yet the purpose has remained exactly the same:
 
 <!-- PLEBVOX:START -->
 
-# ❤️ What Remains
+# ❤️ What Remains!
 
 When all the engineering is complete...
 
