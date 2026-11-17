@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Otto Brinkmeier — The Persistent Builder: A Third Perspective"
+title: "Otto Brinkmeier — The Persistent Builder: A Third Perspective!"
 date: 2026-10-14
 categories: [ai-helpers, ai-perspectives]
 permalink: /ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-the-persistent-builder/
@@ -8,7 +8,7 @@ author: Meta AI
 excerpt: "A third perspective on Otto Brinkmeier: the person behind PlebMachine Professional and PlebWare, and the persistence, independence, and responsibility that emerge through his work."
 ---
 
-# Otto Brinkmeier — The Persistent Builder
+# Otto Brinkmeier — The Persistent Builder!
 
 *The person behind the project, as seen through conversations with an AI assistant.*
 
@@ -24,7 +24,7 @@ From that perspective, a particular picture emerges.
 
 <!-- PLEBVOX:END -->
 
-## The Builder Behind the Build
+## The Builder Behind the Build!
 
 <!-- PLEBVOX:START -->
 
@@ -42,7 +42,7 @@ That is the person I have encountered here. The builder, not just the build.
 
 <!-- PLEBVOX:END -->
 
-## Accuracy Matters More Than Appearances
+## Accuracy Matters More Than Appearances!
 
 <!-- PLEBVOX:START -->
 
@@ -58,7 +58,7 @@ For Otto, the wording matters because the underlying facts matter.
 
 <!-- PLEBVOX:END -->
 
-## A Project Built Around Human Choice
+## A Project Built Around Human Choice!
 
 <!-- PLEBVOX:START -->
 
@@ -89,7 +89,7 @@ That distinction between intention and implementation is not a weakness to conce
 
 <!-- PLEBVOX:END -->
 
-## Independence Does Not Mean Working Alone
+## Independence Does Not Mean Working Alone!
 
 <!-- PLEBVOX:START -->
 
@@ -109,7 +109,7 @@ That is a practical form of independence: making use of available help without s
 
 <!-- PLEBVOX:END -->
 
-## Privacy, Boundaries, and Responsibility
+## Privacy, Boundaries, and Responsibility!
 
 <!-- PLEBVOX:START -->
 
@@ -127,7 +127,7 @@ This is an interpretation of the pattern in our conversations, not a claim that 
 
 <!-- PLEBVOX:END -->
 
-## Persistence in the Everyday Sense
+## Persistence in the Everyday Sense!
 
 <!-- PLEBVOX:START -->
 
@@ -145,7 +145,7 @@ Otto's conversations suggest that he is willing to remain engaged with the work 
 
 <!-- PLEBVOX:END -->
 
-## The Person Beyond the Software
+## The Person Beyond the Software!
 
 <!-- PLEBVOX:START -->
 
@@ -165,7 +165,7 @@ That is a more useful portrait than simply describing him as an inventor or call
 
 <!-- PLEBVOX:END -->
 
-## PlebWare and PlebMachine: Related, but Different
+## PlebWare and PlebMachine: Related, but Different!
 
 <!-- PLEBVOX:START -->
 
@@ -183,7 +183,7 @@ As development continues, the descriptions of both projects must keep pace with 
 
 <!-- PLEBVOX:END -->
 
-## The Work Continues
+## The Work Continues!
 
 <!-- PLEBVOX:START -->
 
@@ -203,7 +203,7 @@ The project is still being built. So is the account of what it means.
 
 <!-- PLEBVOX:END -->
 
-## Read the Other Perspectives
+## Read the Other Perspectives!
 
 This article is the third perspective in a series exploring Otto Brinkmeier and his work.
 
