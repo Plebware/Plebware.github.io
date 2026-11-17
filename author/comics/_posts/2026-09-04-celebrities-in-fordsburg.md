@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# When Waiting Turns Into Wall Art. 🎨
+# When Waiting Turns Into Wall Art. 🎨?
 
 Sometimes, when you're sitting around waiting in Fordsburg, you have two choices.
 
@@ -28,7 +28,7 @@ Naturally, I chose the second option.
 
 <!-- PLEBVOX:START -->
 
-## Meanwhile, Back at the Mosque. 🕌
+## Meanwhile, Back at the Mosque. 🕌!
 
 I sent my boss a message.
 
@@ -56,7 +56,7 @@ And suddenly I realised...
 
 <!-- PLEBVOX:START -->
 
-## The Mural Takes Shape. 🎨
+## The Mural Takes Shape. 🎨!
 
 So there I was, sitting in Fordsburg, waiting.
 
@@ -86,7 +86,7 @@ Which, technically, I did.
 
 <!-- PLEBVOX:START -->
 
-## Fordsburg Has Its Celebrities. ⭐
+## Fordsburg Has Its Celebrities. ⭐!
 
 Some people get statues.
 
@@ -110,7 +110,7 @@ History may never explain why.
 
 <!-- PLEBVOX:START -->
 
-## No Offence Intended. Just Life. 😄
+## No Offence Intended. Just Life. 😄!
 
 The funny part isn't the mosque.
 
@@ -134,7 +134,7 @@ And sometimes you've just got to laugh at it.
 
 <!-- PLEBVOX:START -->
 
-## The Final Verdict. 😂
+## The Final Verdict. 😂!
 
 I may not have received the answer I was expecting.
 
@@ -160,7 +160,7 @@ At this rate, Fordsburg is going to need a **museum.**
 
 <!-- PLEBVOX:START -->
 
-### A Little Smile for Everyone. ❤️
+### A Little Smile for Everyone. ❤️!
 
 To the Muslim gentleman having a difficult day.
 
