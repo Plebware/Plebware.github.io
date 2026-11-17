@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "SAR / Metro Rail — Professional Qualifications and Training Record"
+title: "SAR / Metro Rail — Professional Qualifications and Training Record!"
 date: 2026-11-01
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🚆 My Railway Years — Qualifications, Skills and Professional Development
+# 🚆 My Railway Years — Qualifications, Skills and Professional Development!
 
 During my years working in the South African railway environment, I acquired a number of professional qualifications and attended specialised training courses.
 
@@ -20,7 +20,7 @@ The following is a chronological record of the qualifications and courses I have
 
 <!-- PLEBVOX:START -->
 
-## ⚡ 1. Electrical Trade Test — 7 June 1988
+## ⚡ 1. Electrical Trade Test — 7 June 1988!
 
 One of the most important milestones in my technical career was successfully completing my Electrical Fitter trade test, specialising in Electric Motive Power.
 
@@ -60,7 +60,7 @@ This qualification formally recognised my competence in the electrical trade and
 
 <!-- PLEBVOX:START -->
 
-## 🚑 2. St John Ambulance — First Aid Certificate
+## 🚑 2. St John Ambulance — First Aid Certificate!
 
 **Issued: 7 February 1986 | Valid until: 7 February 1989**
 
@@ -86,7 +86,7 @@ This training added an important safety dimension to my professional qualificati
 
 <!-- PLEBVOX:START -->
 
-## ⚙️ 3. Advanced Specialised 5M2A Electrical Training
+## ⚙️ 3. Advanced Specialised 5M2A Electrical Training!
 
 **Date: 18 September 1992**
 
@@ -123,7 +123,7 @@ This course represents an important part of my specialised railway electrical tr
 
 <!-- PLEBVOX:START -->
 
-## 🤝 4. TeamBuilder Leadership Course
+## 🤝 4. TeamBuilder Leadership Course!
 
 **21–25 January 1996**
 
@@ -158,7 +158,7 @@ The certificate remains a reminder that professional development is not restrict
 
 <!-- PLEBVOX:START -->
 
-## 📜 Looking Back — A Record of Professional Development
+## 📜 Looking Back — A Record of Professional Development!
 
 Looking at these certificates together, I can see a progression in my professional development.
 
