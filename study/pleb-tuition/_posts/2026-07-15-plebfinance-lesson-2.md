@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlebFinance Lesson 2 - Good Debt vs Bad Debt"
+title: "PlebFinance Lesson 2 - Good Debt vs Bad Debt!"
 date: 2026-07-15
 category: "pleb-tuition"
 tags: debt, budgeting, financial-literacy, money-management, assets, liabilities, pleb-finance
@@ -10,13 +10,13 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-# 🔑 PlebFinance Lesson 2
+# 🔑 PlebFinance Lesson 2!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-# 🚗 Good Debt vs Bad Debt
+# 🚗 Good Debt vs Bad Debt!
 
 *"Not every debt is your enemy. The secret is knowing which debt builds your future and which debt quietly steals it."*
 
@@ -26,7 +26,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## 📖 Introduction
+## 📖 Introduction!
 
 The word **debt** usually makes people uncomfortable.
 
@@ -52,7 +52,7 @@ Let's keep it simple.
 
 <!-- PLEBVOX:START -->
 
-# 🚀 Good Debt — The Turbo
+# 🚀 Good Debt — The Turbo!
 
 Imagine fitting a turbocharger to an engine.
 
@@ -64,7 +64,7 @@ It should help you produce **more income, more opportunities or more long-term v
 
 Good debt works **for you**, not against you.
 
-### 🔑 Examples
+### 🔑 Examples!
 
 💻 **A laptop**
 
@@ -92,7 +92,7 @@ Fixing the Ranger so it can return to work is very different from buying expensi
 
 <!-- PLEBVOX:START -->
 
-## ✅ Signs of Good Debt
+## ✅ Signs of Good Debt!
 
 * 💰 It has the potential to increase your income.
 * 📈 It builds long-term value.
@@ -106,7 +106,7 @@ Fixing the Ranger so it can return to work is very different from buying expensi
 
 <!-- PLEBVOX:START -->
 
-# ⛽ Bad Debt — The Leak
+# ⛽ Bad Debt — The Leak!
 
 Now imagine your fuel tank has a hole in it.
 
@@ -122,7 +122,7 @@ It drains your future income without giving much back in return.
 
 <!-- PLEBVOX:START -->
 
-## ❌ Examples
+## ❌ Examples!
 
 📱 Buying the newest phone when the old one works perfectly.
 
@@ -142,7 +142,7 @@ That last example is often the beginning of a debt spiral.
 
 <!-- PLEBVOX:START -->
 
-## 🚨 Signs of Bad Debt
+## 🚨 Signs of Bad Debt!
 
 * 📉 The item loses value quickly.
 * 💸 Interest keeps increasing the real cost.
@@ -156,7 +156,7 @@ That last example is often the beginning of a debt spiral.
 
 <!-- PLEBVOX:START -->
 
-# 🧠 The Pleb Test
+# 🧠 The Pleb Test!
 
 Before borrowing any money, ask yourself three simple questions.
 
@@ -176,7 +176,7 @@ Walk away.
 
 <!-- PLEBVOX:START -->
 
-# 🏡 The PlebWare Rule
+# 🏡 The PlebWare Rule!
 
 One of the ideas behind **PlebWare** is that every tool should make life more productive.
 
@@ -202,7 +202,7 @@ Think twice.
 
 <!-- PLEBVOX:START -->
 
-# ⚠️ One Final Warning
+# ⚠️ One Final Warning!
 
 Even good debt carries risk.
 
@@ -222,7 +222,7 @@ A tool that helps someone else may become a burden if used carelessly.
 
 <!-- PLEBVOX:START -->
 
-## 🛠️ Practical Tips
+## 🛠️ Practical Tips!
 
 ### 🔑 Borrow for growth, not gratification.
 
@@ -240,7 +240,7 @@ A tool that helps someone else may become a burden if used carelessly.
 
 <!-- PLEBVOX:START -->
 
-## 🎯 Lesson Summary
+## 🎯 Lesson Summary!
 
 Remember the simple rule.
 
