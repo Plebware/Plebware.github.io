@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Everybody Is Carrying Something"
+title: "Everybody Is Carrying Something!"
 date: 2026-08-11
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🔑 Everybody Is Carrying Something
+# 🔑 Everybody Is Carrying Something!
 
-## 🌧️ A Morning at City Deep
+## 🌧️ A Morning at City Deep!
 
 The rain is coming down hard now.
 
@@ -52,7 +52,7 @@ And somewhere between a puddle filling with raindrops and a trolley being loaded
 
 <!-- PLEBVOX:START -->
 
-## 📰 The Journalist I Didn't Know I Was
+## 📰 The Journalist I Didn't Know I Was!
 
 During COVID, I decided to study journalism.
 
@@ -128,7 +128,7 @@ That's the life of a writer.
 
 <!-- PLEBVOX:START -->
 
-## 🥬 The Market Writes Its Own Stories
+## 🥬 The Market Writes Its Own Stories!
 
 This morning, I watched a man climb onto the back of a bakkie.
 
@@ -190,7 +190,7 @@ And the market continued.
 
 <!-- PLEBVOX:START -->
 
-## ☔ Johannesburg Under an Umbrella
+## ☔ Johannesburg Under an Umbrella!
 
 People were walking everywhere.
 
@@ -226,7 +226,7 @@ Because there are many kinds of loads.
 
 <!-- PLEBVOX:START -->
 
-## 🧱 The Weight of R150
+## 🧱 The Weight of R150!
 
 Last week I was reminded of that reality when I heard about James, a Christian brother who lives in Springs.
 
@@ -266,7 +266,7 @@ And sometimes an entire day's survival.
 
 <!-- PLEBVOX:START -->
 
-## 💼 When Qualifications Don't Protect You
+## 💼 When Qualifications Don't Protect You!
 
 Then there is Francois.
 
@@ -316,7 +316,7 @@ That's a frightening question.
 
 <!-- PLEBVOX:START -->
 
-## 🧼 The Economics of Dishwashing Liquid
+## 🧼 The Economics of Dishwashing Liquid!
 
 And then there are the smaller decisions.
 
@@ -364,7 +364,7 @@ Sometimes it is sitting in a shop aisle holding two ordinary household products 
 
 <!-- PLEBVOX:START -->
 
-## 🥤 Two Litres of Perspective
+## 🥤 Two Litres of Perspective!
 
 I'm sitting here with a two-litre strawberry daiquiri-flavoured sparkling soft drink.
 
@@ -392,7 +392,7 @@ That principle keeps appearing everywhere.
 
 <!-- PLEBVOX:START -->
 
-## 🛻 The Battered Hyundai
+## 🛻 The Battered Hyundai!
 
 Across the market I noticed a battered Hyundai truck.
 
@@ -432,7 +432,7 @@ Perhaps human beings aren't much different.
 
 <!-- PLEBVOX:START -->
 
-## 🔵 The Blue Canvas
+## 🔵 The Blue Canvas!
 
 Today I'm carrying a blue canvas.
 
@@ -478,7 +478,7 @@ And sometimes it applies to life.
 
 <!-- PLEBVOX:START -->
 
-## 🚘 The Man With His Lights On
+## 🚘 The Man With His Lights On!
 
 At one point I noticed a man loading his vehicle.
 
@@ -506,7 +506,7 @@ Sometimes it is simply:
 
 <!-- PLEBVOX:START -->
 
-## 🌍 Everybody Is Carrying Something
+## 🌍 Everybody Is Carrying Something!
 
 And that's when the whole morning began to make sense.
 
@@ -554,7 +554,7 @@ Some carry all of them at once.
 
 <!-- PLEBVOX:START -->
 
-## ✝️ The Christian Perspective
+## ✝️ The Christian Perspective!
 
 That thought takes me somewhere else.
 
@@ -680,7 +680,7 @@ He was watching.
 
 <!-- PLEBVOX:START -->
 
-## 🌧️ The Newsroom Is a Ford Ranger
+## 🌧️ The Newsroom Is a Ford Ranger!
 
 The rain is still hammering down.
 
@@ -728,7 +728,7 @@ In the rain.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The Editor
+## 🔑 The Editor!
 
 And yes...
 
@@ -770,7 +770,7 @@ And perhaps the best work happens when all three become one person.
 
 <!-- PLEBVOX:START -->
 
-## 🕯️ Final Reflection
+## 🕯️ Final Reflection!
 
 This morning began with rain.
 
@@ -820,7 +820,7 @@ And when you see somebody struggling, don't merely see the struggle.
 
 <!-- PLEBVOX:START -->
 
-## 🙏 A Prayer for Those Who Carry Heavy Loads
+## 🙏 A Prayer for Those Who Carry Heavy Loads!
 
 Lord Jesus, look upon every person carrying a burden today, whether that burden is financial, physical, emotional, spiritual or simply the weight of another difficult day, and give them strength for the next step, wisdom for the next decision, provision for the next need, courage for the next challenge, and the assurance that they have not been forgotten by You; teach us to see beyond circumstances and recognise the human being standing before us, and make us instruments of Your compassion wherever You place us.
 
