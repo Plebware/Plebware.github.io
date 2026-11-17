@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Creating Header Images Using _config.yml"
+title: "Creating Header Images Using _config.yml!"
 date: 2026-06-22
 ---
 <!-- PLEBVOX:START -->
 
-# 🖼️ Creating Header Images Using `_config.yml`
+# 🖼️ Creating Header Images Using `_config.yml`!
 
 One of the easiest ways to give a GitHub Pages site a professional appearance is to add a header image. Instead of inserting the same image on every page manually, many Jekyll themes allow you to define a default header image in your `_config.yml` file.
 
@@ -45,7 +45,7 @@ When Jekyll builds the site, it reads this file and applies the settings globall
 
 ---
 
-# 🔑 Step 1: Create a Header Image
+# 🔑 Step 1: Create a Header Image!
 
 Create a banner image using your preferred graphics editor.
 
@@ -79,7 +79,7 @@ header.webp
 
 ---
 
-# 🔑 Step 2: Store the Image
+# 🔑 Step 2: Store the Image!
 
 Place the image inside your assets folder.
 
@@ -97,7 +97,7 @@ assets/
 
 ---
 
-# 🔑 Step 3: Add the Header to `_config.yml`
+# 🔑 Step 3: Add the Header to `_config.yml`!
 
 Many themes support a custom header variable.
 
@@ -123,7 +123,7 @@ header_image: /assets/images/header.jpg
 
 ---
 
-# 🔑 Step 4: Display the Header in the Theme
+# 🔑 Step 4: Display the Header in the Theme!
 
 The theme layout must actually use the variable.
 
@@ -153,7 +153,7 @@ with:
 
 ---
 
-# 🔑 Using a Hero Banner
+# 🔑 Using a Hero Banner!
 
 Instead of a simple image, many sites use a hero section.
 
@@ -173,7 +173,7 @@ This gives the site a modern appearance and provides room for titles and descrip
 
 ---
 
-# 🔑 Multiple Header Images
+# 🔑 Multiple Header Images!
 
 You may wish to use different headers for different sections.
 
@@ -203,7 +203,7 @@ for specific sections.
 
 ---
 
-# 🔑 Page-Specific Headers
+# 🔑 Page-Specific Headers!
 
 A page can override the global header.
 
@@ -241,7 +241,7 @@ This is one of the most useful techniques for large websites.
 
 ---
 
-# 🔑 PlebWare Example
+# 🔑 PlebWare Example!
 
 For a site such as PlebWare, a practical structure could be:
 
@@ -295,7 +295,7 @@ This creates visual distinction between different areas of the site while mainta
 
 ---
 
-# 🔑 Using Background Images Instead
+# 🔑 Using Background Images Instead!
 
 Some themes prefer CSS backgrounds rather than image tags.
 
@@ -309,7 +309,7 @@ date: 2026-06-22
 
 ----------------
 
-# 🖼️ Creating Header Images Using `_config.yml`
+# 🖼️ Creating Header Images Using `_config.yml`!
 
 One of the easiest ways to give a GitHub Pages site a professional appearance is to add a header image. Instead of inserting the same image on every page manually, many Jekyll themes allow you to define a default header image in your `_config.yml` file.
 
@@ -349,7 +349,7 @@ When Jekyll builds the site, it reads this file and applies the settings globall
 
 ---
 
-# 🔑 Step 1: Create a Header Image
+# 🔑 Step 1: Create a Header Image!
 
 Create a banner image using your preferred graphics editor.
 
@@ -383,7 +383,7 @@ header.webp
 
 ---
 
-# 🔑 Step 2: Store the Image
+# 🔑 Step 2: Store the Image!
 
 Place the image inside your assets folder.
 
@@ -401,7 +401,7 @@ assets/
 
 ---
 
-# 🔑 Step 3: Add the Header to `_config.yml`
+# 🔑 Step 3: Add the Header to `_config.yml`!
 
 Many themes support a custom header variable.
 
@@ -427,7 +427,7 @@ header_image: /assets/images/header.jpg
 
 ---
 
-# 🔑 Step 4: Display the Header in the Theme
+# 🔑 Step 4: Display the Header in the Theme!
 
 The theme layout must actually use the variable.
 
@@ -457,7 +457,7 @@ with:
 
 ---
 
-# 🔑 Using a Hero Banner
+# 🔑 Using a Hero Banner!
 
 Instead of a simple image, many sites use a hero section.
 
@@ -477,7 +477,7 @@ This gives the site a modern appearance and provides room for titles and descrip
 
 ---
 
-# 🔑 Multiple Header Images
+# 🔑 Multiple Header Images!
 
 You may wish to use different headers for different sections.
 
@@ -507,7 +507,7 @@ for specific sections.
 
 ---
 
-# 🔑 Page-Specific Headers
+# 🔑 Page-Specific Headers!
 
 A page can override the global header.
 
@@ -545,7 +545,7 @@ This is one of the most useful techniques for large websites.
 
 ---
 
-# 🔑 PlebWare Example
+# 🔑 PlebWare Example!
 
 For a site such as PlebWare, a practical structure could be:
 
@@ -599,7 +599,7 @@ This creates visual distinction between different areas of the site while mainta
 
 ---
 
-# 🔑 Using Background Images Instead
+# 🔑 Using Background Images Instead!
 
 Some themes prefer CSS backgrounds rather than image tags.
 
@@ -629,12 +629,12 @@ Many professional websites use this approach.
 
 ---
 
-# 🔑 Common Mistakes
+# 🔑 Common Mistakes!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
-### ❌ Incorrect Path
+### ❌ Incorrect Path!
 
 ```yaml
 
@@ -1038,7 +1038,7 @@ instead.
 
 ---
 
-### ❌ Wrong File Name
+### ❌ Wrong File Name!
 
 ```yaml
 
@@ -1058,13 +1058,13 @@ GitHub Pages is case-sensitive.
 
 ---
 
-### ❌ Image Not Uploaded
+### ❌ Image Not Uploaded!
 
 Always verify that the image exists in the repository before publishing.
 
 ---
 
-# 🔑 Final Thoughts
+# 🔑 Final Thoughts!
 
 Using `_config.yml` for header images is one of the simplest ways to create a consistent visual identity across a GitHub Pages website. Instead of repeating image code on every page, you define the image once and let Jekyll handle the rest.
 
@@ -1096,9 +1096,9 @@ Many professional websites use this approach.
 
 ---
 
-# 🔑 Common Mistakes
+# 🔑 Common Mistakes!
 
-### ❌ Incorrect Path
+### ❌ Incorrect Path!
 
 ```yaml
 
@@ -1118,7 +1118,7 @@ instead.
 
 ---
 
-### ❌ Wrong File Name
+### ❌ Wrong File Name!
 
 ```yaml
 
@@ -1138,13 +1138,13 @@ GitHub Pages is case-sensitive.
 
 ---
 
-### ❌ Image Not Uploaded
+### ❌ Image Not Uploaded!
 
 Always verify that the image exists in the repository before publishing.
 
 ---
 
-# 🔑 Final Thoughts
+# 🔑 Final Thoughts!
 
 Using `_config.yml` for header images is one of the simplest ways to create a consistent visual identity across a GitHub Pages website. Instead of repeating image code on every page, you define the image once and let Jekyll handle the rest.
 
