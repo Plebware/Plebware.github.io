@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "The Technology Diploma Shelf — Courses Worth Bookmarking"
+title: "The Technology Diploma Shelf — Courses Worth Bookmarking!"
 date: 2026-09-19
 categories: [study, technology]
 permalink: /study/technology/2026/09/19/suggested-technology-diploma-courses/
 ---
 
-# 🎓 Technology Diploma Shelf — Courses Worth Bookmarking
+# 🎓 Technology Diploma Shelf — Courses Worth Bookmarking!
 
 <!-- PLEBVOX:START -->
 
-## 📚 A Shelf for Later
+## 📚 A Shelf for Later!
 
 One of the useful things about learning online is that we don't have to learn everything at once.
 
@@ -32,7 +32,7 @@ These are courses worth knowing about and potentially adding to your future lear
 
 <!-- PLEBVOX:START -->
 
-## 🤖 Diploma in Fundamentals of Artificial Intelligence
+## 🤖 Diploma in Fundamentals of Artificial Intelligence!
 
 **Level:** Advanced  
 **Approximate duration:** 10–15 hours
@@ -58,7 +58,7 @@ It is particularly interesting as a possible **next step after introductory AI s
 
 <!-- PLEBVOX:START -->
 
-## ✨ Diploma in Applied Generative AI
+## ✨ Diploma in Applied Generative AI!
 
 **Level:** Advanced  
 **Approximate duration:** 10–15 hours
@@ -85,7 +85,7 @@ For people already experimenting with ChatGPT, Gemini, Claude, DeepSeek, Meta AI
 
 <!-- PLEBVOX:START -->
 
-## 🧠 Diploma in Machine Learning with Python
+## 🧠 Diploma in Machine Learning with Python!
 
 **Level:** Advanced  
 **Approximate duration:** 10–15 hours
@@ -115,7 +115,7 @@ This is not necessarily the first technology course somebody should tackle, but 
 
 <!-- PLEBVOX:START -->
 
-## 🐍 Diploma in Python Programming
+## 🐍 Diploma in Python Programming!
 
 **Level:** Beginner  
 **Approximate duration:** 10–15 hours
@@ -141,7 +141,7 @@ For somebody who has never really programmed before, this may be a more approach
 
 <!-- PLEBVOX:START -->
 
-## 📊 Diploma in Using Python for Data Science
+## 📊 Diploma in Using Python for Data Science!
 
 **Level:** Advanced  
 **Approximate duration:** 6–10 hours
@@ -229,7 +229,7 @@ The PlebWare approach is simple:
 
 <!-- PLEBVOX:START -->
 
-## ⚠️ A Word About the Word "Diploma"
+## ⚠️ A Word About the Word "Diploma"!
 
 There is an important distinction to make.
 
@@ -245,7 +245,7 @@ Always check the recognition requirements that apply to your particular career, 
 
 <!-- PLEBVOX:START -->
 
-## 🧑‍💻 PlebWare Technology Learning
+## 🧑‍💻 PlebWare Technology Learning!
 
 This article is only the beginning of the Technology section.
 
@@ -270,7 +270,7 @@ The goal is to make technology **understandable enough for ordinary people to us
 
 <!-- PLEBVOX:START -->
 
-## 🎓 The PlebWare Principle
+## 🎓 The PlebWare Principle!
 
 Technology learning doesn't have to begin with a university laboratory.
 
