@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Why We Tell Stories"
+title: "Why We Tell Stories?"
 date: 2024-01-18
 ---
 
 <!-- PLEBVOX:START -->
 
-# Captain's Log 0001 - Why We Tell Stories
+# Captain's Log 0001 - Why We Tell Stories!
 
 Greetings, traveller.
 
@@ -34,7 +34,7 @@ The greatest tragedy is that many stories are never told at all.
 
 <!-- PLEBVOX:START -->
 
-## The Forgotten Library
+## The Forgotten Library!
 
 Imagine for a moment a library larger than any ever built.
 
@@ -62,7 +62,7 @@ That belief is almost always wrong.
 
 <!-- PLEBVOX:START -->
 
-## Every Writer Begins as a Beginner
+## Every Writer Begins as a Beginner!
 
 Many people believe that writers are born with a special gift.
 
@@ -88,7 +88,7 @@ The writer starts.
 
 <!-- PLEBVOX:START -->
 
-## Why This Journal Exists
+## Why This Journal Exists?
 
 This journal is a place to explore writing, publishing, storytelling, creativity, journalism, technology, and the curious adventure of being human.
 
@@ -110,7 +110,7 @@ A story shared may outlive its author.
 
 <!-- PLEBVOX:START -->
 
-## Final Transmission
+## Final Transmission!
 
 If you have a story, write it.
 
