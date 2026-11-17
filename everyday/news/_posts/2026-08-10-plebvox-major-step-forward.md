@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "PlebVox: A Major Step Forward for PlebWare"
+title: "PlebVox: A Major Step Forward for PlebWare!"
 date: 2026-08-10
 ---
 
 <!-- PLEBVOX:START -->
 
-# PlebVox: A Major Step Forward for PlebWare
+# PlebVox: A Major Step Forward for PlebWare!
 
 There are moments in the development of PlebWare when a small feature suddenly becomes something much bigger.
 
@@ -22,7 +22,7 @@ The result is significant: PlebVox is now integrated throughout the article coll
 
 <!-- PLEBVOX:START -->
 
-## 🔑 From Experiment to Infrastructure
+## 🔑 From Experiment to Infrastructure!
 
 The original goal was relatively simple:
 
@@ -48,7 +48,7 @@ It represents the establishment of a new layer within the PlebWare publishing sy
 
 <!-- PLEBVOX:START -->
 
-## 🔑 The 252-Article Correction Run
+## 🔑 The 252-Article Correction Run!
 
 One of the largest parts of this development was a major correction run across approximately 252 published articles.
 
@@ -66,7 +66,7 @@ That is an important step forward for the project.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 It Is Working — But We Are Not Finished
+## 🔑 It Is Working — But We Are Not Finished!
 
 The major integration is complete, but the work does not end here.
 
@@ -98,7 +98,7 @@ The objective is to make it **sound natural**.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Long Articles Need Special Treatment
+## 🔑 Long Articles Need Special Treatment!
 
 Another part of the editorial pass concerns the longer articles.
 
@@ -118,7 +118,7 @@ This is still being refined.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Images and Mobile Devices
+## 🔑 Images and Mobile Devices!
 
 The review has also revealed another area requiring attention: images.
 
@@ -160,7 +160,7 @@ The purpose of this review is therefore to polish the existing system rather tha
 
 <!-- PLEBVOX:START -->
 
-## 🔑 A Significant Milestone
+## 🔑 A Significant Milestone!
 
 PlebWare began as an idea.
 
