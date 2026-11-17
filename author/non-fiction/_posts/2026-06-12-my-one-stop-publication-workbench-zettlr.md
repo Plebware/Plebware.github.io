@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "My One-Stop Publication Workbench Zettlr"
+title: "My One-Stop Publication Workbench Zettlr!"
 date: 2026-06-12
 ---
 
 <!-- PLEBVOX:START -->
 
-# ✍️ My One-Stop Publication Workbench
+# ✍️ My One-Stop Publication Workbench!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## From Idea to Publication in One Application: Zettlr
+## From Idea to Publication in One Application: Zettlr!
 
 By **Otto Brinkmeier (O.C. Verricchio)**
 
@@ -22,7 +22,7 @@ By **Otto Brinkmeier (O.C. Verricchio)**
 
 <!-- PLEBVOX:START -->
 
-## 📚 Introduction
+## 📚 Introduction!
 
 Every writer develops a workflow.
 
@@ -42,7 +42,7 @@ For my work on **PlebWare**, **PlebMachine**, daily Christian devotions, technic
 
 <!-- PLEBVOX:START -->
 
-## 💡 Stage 1 — Capturing Ideas
+## 💡 Stage 1 — Capturing Ideas!
 
 Every publication begins with an idea.
 
@@ -76,7 +76,7 @@ Nothing is wasted.
 
 <!-- PLEBVOX:START -->
 
-## 📝 Stage 2 — Building Knowledge
+## 📝 Stage 2 — Building Knowledge!
 
 A single note often grows into a larger body of knowledge.
 
@@ -111,34 +111,34 @@ The original note becomes the seed from which multiple publications can grow.
 
 <!-- PLEBVOX:START -->
 
-## 🌍 Stage 3 — World Building
+## 🌍 Stage 3 — World Building!
 
 As a science fiction writer, world building is essential.
 
 Zettlr helps me organize:
 
-### 🚀 Locations
+### 🚀 Locations!
 
 * Planets
 * Space stations
 * Cities
 * Colonies
 
-### 👤 Characters
+### 👤 Characters!
 
 * Heroes
 * Villains
 * Supporting cast
 * Historical figures
 
-### ⚙️ Technology
+### ⚙️ Technology!
 
 * Spacecraft
 * Artificial intelligence
 * Weapons
 * Communications systems
 
-### 📖 Lore
+### 📖 Lore!
 
 * History
 * Cultures
@@ -155,7 +155,7 @@ This makes developing large fictional universes significantly easier.
 
 <!-- PLEBVOX:START -->
 
-## 📚 Stage 4 — Manuscript Development
+## 📚 Stage 4 — Manuscript Development!
 
 When it is time to write a book, Zettlr becomes my manuscript workshop.
 
@@ -179,7 +179,7 @@ The result is greater productivity and fewer interruptions to the creative proce
 
 <!-- PLEBVOX:START -->
 
-## 📰 Stage 5 — Journalism and Technical Writing
+## 📰 Stage 5 — Journalism and Technical Writing!
 
 A large portion of my work involves:
 
@@ -207,7 +207,7 @@ The same source document can often be repurposed for multiple publication target
 
 <!-- PLEBVOX:START -->
 
-## ✝️ Stage 6 — Devotional Writing
+## ✝️ Stage 6 — Devotional Writing!
 
 One of my most important writing activities is creating Christian devotional content.
 
@@ -236,7 +236,7 @@ Because everything remains searchable, previous studies can easily be revisited 
 
 <!-- PLEBVOX:START -->
 
-## 🎓 Stage 7 — Academic and Journal Publication
+## 🎓 Stage 7 — Academic and Journal Publication!
 
 Zettlr was originally designed with academic writing in mind.
 
@@ -257,7 +257,7 @@ The same environment used for note-taking can also be used for producing publica
 
 <!-- PLEBVOX:START -->
 
-## 🌐 Stage 8 — GitHub Publication
+## 🌐 Stage 8 — GitHub Publication!
 
 One of the reasons I value Zettlr so highly is its compatibility with Markdown-based publishing.
 
@@ -296,7 +296,7 @@ Zettlr fits naturally into the publishing pipeline.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Why Zettlr Works for Me
+## 🔑 Why Zettlr Works for Me!
 
 Many applications specialize in one part of the writing process.
 
@@ -327,7 +327,7 @@ Very few applications cover so much of the publishing journey in one place.
 
 <!-- PLEBVOX:START -->
 
-## 🏁 Conclusion
+## 🏁 Conclusion!
 
 Writing is not a single activity.
 
