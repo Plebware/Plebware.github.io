@@ -1,24 +1,24 @@
 ---
 layout: post
-title: "PlebMachine Technical Papers"
+title: "PlebMachine Technical Papers!"
 date: 2026-01-01
 ---
 
 <!-- PLEBVOX:START -->
 
-# PlebMachine Technical Papers 
+# PlebMachine Technical Papers! 
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## 01 - System Design Overview
+## 01 - System Design Overview!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## Purpose of This Section
+## Purpose of This Section!
 
 This section exists to document the technical design principles behind PlebMachine.
 
@@ -57,27 +57,27 @@ The system then adapts the environment accordingly.
 
 <!-- PLEBVOX:START -->
 
-## Design Philosophy
+## Design Philosophy!
 
 PlebMachine is guided by a set of engineering principles:
 
-### 1. Modularity
+### 1. Modularity!
 
 Every component should be separable, replaceable, and independently understandable.
 
-### 2. State-Driven Behaviour
+### 2. State-Driven Behaviour!
 
 System behaviour is determined by defined states (modes), not random user actions or scattered configuration changes.
 
-### 3. Transparency
+### 3. Transparency!
 
 System behaviour should be understandable through inspection rather than hidden abstraction.
 
-### 4. Minimal Assumptions
+### 4. Minimal Assumptions!
 
 The system should not assume a fixed desktop environment or workflow.
 
-### 5. User-Centric Control
+### 5. User-Centric Control!
 
 The user defines the system state, not the other way around.
 
@@ -85,7 +85,7 @@ The user defines the system state, not the other way around.
 
 <!-- PLEBVOX:START -->
 
-## What These Papers Contain
+## What These Papers Contain?
 
 The technical papers in this section may include:
 
@@ -106,7 +106,7 @@ Each paper focuses on one concept at a time.
 
 <!-- PLEBVOX:START -->
 
-## Not a Product Manual
+## Not a Product Manual!
 
 These documents are not intended to teach users how to click buttons.
 
@@ -124,7 +124,7 @@ They are intended for:
 
 <!-- PLEBVOX:START -->
 
-## Evolution of the System
+## Evolution of the System!
 
 PlebMachine is not static.
 
@@ -146,7 +146,7 @@ The goal is correctness and usability.
 
 <!-- PLEBVOX:START -->
 
-## The PlebWare Engineering Perspective
+## The PlebWare Engineering Perspective!
 
 Within PlebWare, engineering is treated as a form of structured thinking.
 
@@ -164,7 +164,7 @@ Complexity is acceptable only when it is controlled and justified.
 
 <!-- PLEBVOX:START -->
 
-## Closing Statement
+## Closing Statement!
 
 PlebMachine is not just software.
 
