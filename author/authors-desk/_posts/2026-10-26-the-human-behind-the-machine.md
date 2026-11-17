@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Human Behind the Machine — Faith, Thought and AI"
+title: "The Human Behind the Machine — Faith, Thought and AI!"
 date: 2026-10-26
 category: "author"
 tags: [artificial-intelligence, writing, authorship, faith, technology, PlebWare, personal-reflections]
