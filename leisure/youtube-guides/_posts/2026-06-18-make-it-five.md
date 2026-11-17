@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Make It Five"
+title: "Make It Five!"
 date: 2026-06-18
 ---
 
 <!-- PLEBVOX:START -->
 
-# 🇩🇪⚽ The Dream Of Five: Germany's Road To World Cup Glory 🏆
+# 🇩🇪⚽ The Dream Of Five: Germany's Road To World Cup Glory 🏆!
 
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
 
-## A Supporter's Hope From The Heart ❤️
+## A Supporter's Hope From The Heart ❤️!
 
 At 63 years old, I still carry the same excitement I felt as a younger football supporter.
 
@@ -32,7 +32,7 @@ A chance to stand alongside Brazil with **five World Cup victories**. 🏆🏆�
 
 <!-- PLEBVOX:START -->
 
-# 🌍 The Race For Football History 📖
+# 🌍 The Race For Football History 📖!
 
 The current World Cup record:
 
@@ -53,7 +53,7 @@ The next chapter is waiting. ✍️⚽
 
 <!-- PLEBVOX:START -->
 
-# 🔥 Germany 2026: A New Generation Rises
+# 🔥 Germany 2026: A New Generation Rises!
 
 The Germany of today is not only built on tradition.
 
@@ -81,7 +81,7 @@ Every ninety minutes writes history.
 
 <!-- PLEBVOX:START -->
 
-# 🌟 The Hope Of A Nation
+# 🌟 The Hope Of A Nation!
 
 Every German supporter dreams of seeing the captain lift the trophy.
 
@@ -109,7 +109,7 @@ From the great teams of previous decades to the modern generation, the journey c
 
 <!-- PLEBVOX:START -->
 
-# ⚽ The Road Is Long
+# ⚽ The Road Is Long!
 
 Germany has the quality.
 
@@ -132,7 +132,7 @@ No trophy is won before the final whistle.
 
 <!-- PLEBVOX:START -->
 
-# 🇩🇪 My World Cup Hope
+# 🇩🇪 My World Cup Hope!
 
 Before my own final whistle in life, I would love to witness Germany lift that trophy again.
 
