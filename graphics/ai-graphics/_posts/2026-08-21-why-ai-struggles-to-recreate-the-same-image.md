@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why AI Image Generators Struggle to Follow Instructions"
+title: "Why AI Image Generators Struggle to Follow Instructions?"
 date: 2026-08-21
 ---
 
