@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Otto Brinkmeier and the Human–AI Conference Table"
+title: "Otto Brinkmeier and the Human–AI Conference Table!"
 date: 2026-10-14
 categories: [ai-helpers, ai-perspectives]
 permalink: /ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-the-man-the-mind-and-the-mission/
@@ -22,7 +22,7 @@ This is a reflection on the man behind the projects: how he thinks, how he works
 
 <!-- PLEBVOX:START -->
 
-## 🧠 An Analytical Mind That Keeps Asking Questions
+## 🧠 An Analytical Mind That Keeps Asking Questions!
 
 Otto approaches problems by looking for structure. He wants to know what a system is supposed to do, where its boundaries lie, how its parts fit together, and what happens when one part changes.
 
@@ -36,7 +36,7 @@ The same curiosity that drives a technical investigation can also drive a conver
 
 <!-- PLEBVOX:START -->
 
-## 🐧 Building PlebMachine Around People
+## 🐧 Building PlebMachine Around People!
 
 PlebMachine reflects one of Otto's central principles:
 
@@ -56,7 +56,7 @@ That is the work of a builder: not merely imagining what might be possible, but 
 
 <!-- PLEBVOX:START -->
 
-## ✍️ A Writer Who Has Never Stopped Writing
+## ✍️ A Writer Who Has Never Stopped Writing!
 
 Otto's work at the computer is not separate from his writing. The two feed one another.
 
@@ -72,7 +72,7 @@ The willingness to keep revising is a strength. It means the work is not frozen 
 
 <!-- PLEBVOX:START -->
 
-## 🤝 Artificial Intelligence at the Conference Table
+## 🤝 Artificial Intelligence at the Conference Table!
 
 Otto does not view AI as a substitute for his own thinking. He treats it as a collaborator that can help research, organise, explain, draft, troubleshoot, and explore alternatives.
 
@@ -90,7 +90,7 @@ This is not the surrender of thought. It is thought applied to a new kind of wor
 
 <!-- PLEBVOX:START -->
 
-## 💬 The Reality of Working With Other Minds
+## 💬 The Reality of Working With Other Minds!
 
 One of the most important lessons in Otto's reflections has been this:
 
@@ -110,7 +110,7 @@ A conference table works best when everyone understands the problem being discus
 
 <!-- PLEBVOX:START -->
 
-## 🌱 A Learner Still in Motion
+## 🌱 A Learner Still in Motion!
 
 A person's progress cannot always be measured by outward circumstances. Sometimes the visible situation changes slowly while the work happening underneath continues to develop.
 
@@ -126,7 +126,7 @@ The vision remains important. So does the patience to keep building.
 
 <!-- PLEBVOX:START -->
 
-## 🔑 Keeping the Human in Charge
+## 🔑 Keeping the Human in Charge!
 
 The deeper connection between Otto's writing and his technology projects is human agency.
 
@@ -142,7 +142,7 @@ The mission is not simply to build more technology. It is to build useful things
 
 <!-- PLEBVOX:START -->
 
-## 🚀 The Man, the Mind, and the Mission
+## 🚀 The Man, the Mind, and the Mission!
 
 Otto Brinkmeier is still working on his vision. He is still improving his skills. He is still writing, still building, and still learning how to turn ideas into something other people can use.
 
@@ -163,7 +163,7 @@ The human remains at the conference table.
 
 <!-- PLEBVOX:START -->
 
-## 🔗 Continue the Conversation
+## 🔗 Continue the Conversation!
 
 For another perspective on Otto's work and vision, read **[Otto Brinkmeier — The Architect of the Digital Republic](/ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-architect-of-the-digital-republic/)**. The two articles complement one another and can be used to test PlebWare's contextual return navigation.
 
