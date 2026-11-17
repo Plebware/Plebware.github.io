@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Lenovo SSD Upgrade: Making Better Use of What We Have"
+title: "The Lenovo SSD Upgrade: Making Better Use of What We Have!"
 date: 2026-11-02
 ---
 
