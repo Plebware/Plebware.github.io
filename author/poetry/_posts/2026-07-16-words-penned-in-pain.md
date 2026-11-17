@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Words Penned in Pain"
+title: "Words Penned in Pain!"
 date: 2026-07-16
 category: "poetry"
 tags: [poetry, emotions, reflection, healing, faith, hope, writing]
@@ -10,7 +10,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## 🌧️ When Words Become Tears
+## 🌧️ When Words Become Tears!
 
 > *"Sometimes the deepest wounds become the ink that writes our strongest testimony."*
 
@@ -18,7 +18,7 @@ author: Otto Brinkmeier
 
 <!-- PLEBVOX:START -->
 
-## Otto's Poem
+## Otto's Poem!
 
 ```
 Accusations rain,  
