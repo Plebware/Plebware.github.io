@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating To-Do Lists in Logseq and Zettlr"
+title: "Creating To-Do Lists in Logseq and Zettlr!"
 date: 2026-09-08
 categories: [study, pleb-tuition]
 tags: [logseq, zettlr, markdown, todo-lists, productivity, note-taking, plebware]
