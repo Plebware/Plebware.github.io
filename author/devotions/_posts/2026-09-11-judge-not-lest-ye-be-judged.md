@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devotion: Judge Not, Lest Ye Be Judged"
+title: "Devotion: Judge Not, Lest Ye Be Judged!"
 date: 2026-09-11
 author: "God's Journalist - Cody - Dei Scriptor"
 category: "Devotions"
