@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gemini Notebook – A Practical AI Research Assistant on a Budget"
+title: "Gemini Notebook – A Practical AI Research Assistant on a Budget!"
 date: 2026-10-19
 category: "research"
 tags: [gemini-notebook-research, notebooklm, artificial-intelligence, digital-literacy, linux-research, plebmachine-research, website-management, open-source, cybersecurity, digital-society]
