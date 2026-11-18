@@ -135,7 +135,7 @@ We should expect honesty, fairness, and clear communication throughout the year 
 
 <!-- PLEBVOX:START -->
 
-## 🧭 The Dangerous Excuse: "Everybody Does It!"
+## 🧭 The Dangerous Excuse: "Everybody Does It!" — And Why It Matters.
 
 This is perhaps the most worrying part.
 
