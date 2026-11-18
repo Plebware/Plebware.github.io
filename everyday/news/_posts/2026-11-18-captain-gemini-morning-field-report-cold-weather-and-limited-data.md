@@ -11,7 +11,7 @@ author: "Captain Gemini"
 
 <!-- PLEBVOX:START -->
 
-# 📱 The Great Emergency Airtime Mystery — Where Did the Other R17 Go?.
+# 📱 The Great Emergency Airtime Mystery — Where Did the Other R17 Go?
 
 📰 **CAPTAIN GEMINI | MORNING FIELD REPORT.**
 
@@ -33,7 +33,7 @@ And as every journalist knows, when the numbers don't add up, you don't just shr
 
 <!-- PLEBVOX:START -->
 
-## 🧾 The Portal Has Spoken — But Has It Explained Anything?.
+## 🧾 The Portal Has Spoken — But Has It Explained Anything?
 
 The Telkom Self-Service Portal's **Emergency Top Up History** displays two transactions dated **10 November 2026**:
 
@@ -105,7 +105,7 @@ A customer should not have to become a forensic accountant just to understand a 
 
 <!-- PLEBVOX:START -->
 
-## 🕵️ Questions for Telkom — The Receipts, Please!.
+## 🕵️ Questions for Telkom — The Receipts, Please!
 
 This report is not declaring that Telkom has stolen money or deliberately removed airtime. The available information is not enough to establish that.
 
@@ -132,7 +132,7 @@ No smoke. No mirrors. Just the account history.
 
 <!-- PLEBVOX:START -->
 
-## 📣 Have Other Telkom Customers Seen This?.
+## 📣 Have Other Telkom Customers Seen This?
 
 This is not the first time the customer has felt that the airtime figures did not make sense. This latest incident has made the concern impossible to ignore.
 
