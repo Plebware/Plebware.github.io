@@ -157,7 +157,7 @@ And if Telkom has a perfectly reasonable explanation, this reporter would be del
 
 ## 🌥️ Meanwhile, Back in Johannesburg — The Day Continues.
 
-The morning is cold, mobile data is scarce, and the portable PlebMachine may have to wait for a better-connected day.
+The morning is cold, and the phone has approximately **130 MB of mobile data** left — not much for a day on the road. The portable PlebMachine may have to wait for a better-connected day; larger downloads, updates and uploads can wait until a more affordable connection is available.
 
 There is also the little sparrow story from yesterday evening. Adult sparrows were heard calling around the gutter and drainpipe before the customer left home. It remains unknown whether the parents found their youngster. A check is planned for later this afternoon.
 
