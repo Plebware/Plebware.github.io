@@ -164,6 +164,10 @@ But wherever that wilderness may be, God is still present.
 
 ## **📖 Seven Scriptures — Learning to Live One Day at a Time!**
 
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 ### **🍞 1. Exodus 16:4 — The Miracle of Daily Manna.**
 
 > "I will rain down bread from heaven for you. The people are to go out each day and gather enough for that day."
@@ -188,6 +192,8 @@ God was teaching His people obedience, dependence and trust. They could not cont
 
 ---
 
+<!-- PLEBVOX:END --><!-- PLEBVOX:START -->
+
 ### **🌅 2. Matthew 6:34 — Do Not Worry About Tomorrow.**
 
 > "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
@@ -211,6 +217,8 @@ There is a difference between preparing for tomorrow and being frightened of tom
 **☁️ Heavenly Perspective.** Our earthly worries are temporary. One day, the burdens we carry today will no longer exist. We will stand in the presence of Christ, where there will be no fear of tomorrow.
 
 ---
+
+<!-- PLEBVOX:END --><!-- PLEBVOX:START -->
 
 ### **❤️ 3. Lamentations 3:22–23 — New Mercies Every Morning.**
 
@@ -240,6 +248,8 @@ That is a powerful distinction. Our circumstances can change overnight. God's fa
 
 ---
 
+<!-- PLEBVOX:END --><!-- PLEBVOX:START -->
+
 ### **💪 4. Isaiah 40:29–31 — Strength for the Weary.**
 
 > "He gives strength to the weary and increases the power of the weak."
@@ -264,6 +274,8 @@ Notice that the promise is not that Christians will never become exhausted. The 
 
 ---
 
+<!-- PLEBVOX:END --><!-- PLEBVOX:START -->
+
 ### **🐑 5. Psalm 23:1 — The Lord Is My Shepherd.**
 
 > "The Lord is my shepherd, I lack nothing."
@@ -287,6 +299,8 @@ David understood that his security was not found in possessing everything imagin
 **☁️ Heavenly Perspective.** Our greatest treasure in eternity will not be material possessions. It will be the presence of the Shepherd Himself.
 
 ---
+
+<!-- PLEBVOX:END --><!-- PLEBVOX:START -->
 
 ### **🙏 6. 2 Corinthians 12:9 — Grace Is Sufficient.**
 
@@ -313,6 +327,8 @@ Sometimes God changes our circumstances. Sometimes He gives us the strength to e
 **☁️ Heavenly Perspective.** One day, earthly weakness will be replaced by the fullness of eternal life. We will never forget the grace that carried us through our earthly journey.
 
 ---
+
+<!-- PLEBVOX:END --><!-- PLEBVOX:START -->
 
 ### **👑 7. Philippians 4:19 — God's Provision Has No Limit.**
 
