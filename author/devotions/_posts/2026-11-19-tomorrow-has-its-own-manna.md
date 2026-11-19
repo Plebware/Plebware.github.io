@@ -2,10 +2,10 @@
 layout: post
 title: "Tomorrow Has Its Own Manna — Learning to Trust God One Day at a Time."
 date: 2026-11-19
-category: "devotions"
+category: "Devotions"
 tags: [daily-devotion, trust, provision, manna, prayer, faith]
 mode: "author"
-author: "God's Journalist — Cody — Dei Scriptor"
+author: "God's Journalist - Cody - Dei Scriptor"
 description: "A Christian devotion about daily trust, God's provision, and learning not to carry tomorrow's worries into today."
 ---
 
