@@ -168,6 +168,8 @@ But wherever that wilderness may be, God is still present.
 
 > "I will rain down bread from heaven for you. The people are to go out each day and gather enough for that day."
 
+*Exodus 16:4 (NIV).*
+
 **📜 The Biblical Lesson.**
 
 God deliberately established a pattern of daily provision. The Israelites were instructed to gather enough manna for each day. When some attempted to keep extra overnight, it spoiled.
@@ -190,6 +192,8 @@ God was teaching His people obedience, dependence and trust. They could not cont
 
 > "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
 
+*Matthew 6:34 (NIV).*
+
 **📜 The Biblical Lesson.**
 
 Jesus understood human anxiety. He spoke about food, clothing and the necessities of everyday living. He reminded His listeners that their heavenly Father knows what they need.
@@ -211,6 +215,8 @@ There is a difference between preparing for tomorrow and being frightened of tom
 ### **❤️ 3. Lamentations 3:22–23 — New Mercies Every Morning.**
 
 > "His compassions never fail. They are new every morning; great is Your faithfulness."
+
+*Lamentations 3:22–23 (NIV).*
 
 **📜 The Biblical Lesson.**
 
@@ -238,6 +244,8 @@ That is a powerful distinction. Our circumstances can change overnight. God's fa
 
 > "He gives strength to the weary and increases the power of the weak."
 
+*Isaiah 40:29 (NIV).*
+
 **📜 The Biblical Lesson.**
 
 Even young and physically strong people become tired. Isaiah reminds us that human strength has limitations, but God's strength does not.
@@ -260,6 +268,8 @@ Notice that the promise is not that Christians will never become exhausted. The 
 
 > "The Lord is my shepherd, I lack nothing."
 
+*Psalm 23:1 (NIV).*
+
 **📜 The Biblical Lesson.**
 
 David understood the responsibilities of a shepherd. A shepherd leads, protects, guides and cares for his sheep.
@@ -281,6 +291,8 @@ David understood that his security was not found in possessing everything imagin
 ### **🙏 6. 2 Corinthians 12:9 — Grace Is Sufficient.**
 
 > "My grace is sufficient for you, for My power is made perfect in weakness."
+
+*2 Corinthians 12:9 (NIV).*
 
 **📜 The Biblical Lesson.**
 
@@ -305,6 +317,8 @@ Sometimes God changes our circumstances. Sometimes He gives us the strength to e
 ### **👑 7. Philippians 4:19 — God's Provision Has No Limit.**
 
 > "And my God will meet all your needs according to the riches of His glory in Christ Jesus."
+
+*Philippians 4:19 (NIV).*
 
 **📜 The Biblical Lesson.**
 
@@ -667,7 +681,7 @@ But wherever that wilderness may be, God is still present.
 
 🍞 *1. EXODUS 16:4 — THE MIRACLE OF DAILY MANNA.*
 
-> _"I will rain down bread from heaven for you. The people are to go out each day and gather enough for that day."_ *Exodus 16:4.*
+> _"I will rain down bread from heaven for you. The people are to go out each day and gather enough for that day."_ *Exodus 16:4 (NIV).*
 
 God deliberately established a pattern of daily provision. The Israelites were instructed to gather enough manna for each day. When some attempted to keep extra overnight, it spoiled.
 
@@ -685,7 +699,7 @@ God was teaching His people obedience, dependence and trust. They could not cont
 
 🌅 *2. MATTHEW 6:34 — DO NOT WORRY ABOUT TOMORROW.*
 
-> _"Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."_ *Matthew 6:34.*
+> _"Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."_ *Matthew 6:34 (NIV).*
 
 Jesus understood human anxiety. He spoke about food, clothing and the necessities of everyday living. He reminded His listeners that their heavenly Father knows what they need.
 
@@ -703,7 +717,7 @@ There is a difference between preparing for tomorrow and being frightened of tom
 
 ❤️ *3. LAMENTATIONS 3:22–23 — NEW MERCIES EVERY MORNING.*
 
-> _"His compassions never fail. They are new every morning; great is Your faithfulness."_ *Lamentations 3:22–23.*
+> _"His compassions never fail. They are new every morning; great is Your faithfulness."_ *Lamentations 3:22–23 (NIV).*
 
 Jeremiah wrote during a devastating period in the history of Jerusalem. The city had suffered destruction, and the people had experienced tremendous loss.
 
@@ -725,7 +739,7 @@ Our circumstances can change overnight. God's faithfulness does not.
 
 💪 *4. ISAIAH 40:29–31 — STRENGTH FOR THE WEARY.*
 
-> _"He gives strength to the weary and increases the power of the weak."_ *Isaiah 40:29.*
+> _"He gives strength to the weary and increases the power of the weak."_ *Isaiah 40:29 (NIV).*
 
 Even young and physically strong people become tired. Isaiah reminds us that human strength has limitations, but God's strength does not.
 
@@ -743,7 +757,7 @@ The promise is not that Christians will never become exhausted. The promise is t
 
 🐑 *5. PSALM 23:1 — THE LORD IS MY SHEPHERD.*
 
-> _"The Lord is my shepherd, I lack nothing."_ *Psalm 23:1.*
+> _"The Lord is my shepherd, I lack nothing."_ *Psalm 23:1 (NIV).*
 
 David understood the responsibilities of a shepherd. A shepherd leads, protects, guides and cares for his sheep.
 
@@ -761,7 +775,7 @@ David understood that his security was not found in possessing everything imagin
 
 🙏 *6. 2 CORINTHIANS 12:9 — GRACE IS SUFFICIENT.*
 
-> _"My grace is sufficient for you, for My power is made perfect in weakness."_ *2 Corinthians 12:9.*
+> _"My grace is sufficient for you, for My power is made perfect in weakness."_ *2 Corinthians 12:9 (NIV).*
 
 The Apostle Paul experienced tremendous difficulties. He pleaded with God to remove his thorn in the flesh.
 
@@ -779,7 +793,7 @@ Sometimes God changes our circumstances. Sometimes He gives us the strength to e
 
 👑 *7. PHILIPPIANS 4:19 — GOD'S PROVISION HAS NO LIMIT.*
 
-> _"And my God will meet all your needs according to the riches of His glory in Christ Jesus."_ *Philippians 4:19.*
+> _"And my God will meet all your needs according to the riches of His glory in Christ Jesus."_ *Philippians 4:19 (NIV).*
 
 Paul understood both abundance and need. He had experienced difficult circumstances, yet learned to remain content through Christ.
 
