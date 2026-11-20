@@ -17,45 +17,66 @@ body.page-everyday-preview main .pw-home img {
   width: 100% !important;
   max-width: 100% !important;
   height: auto !important;
-  max-height: 150px !important;
+  max-height: 380px !important;
   margin-inline: auto !important;
   object-fit: contain !important;
 }
 body.page-home-preview main .pw-home .pw-hero-media,
 body.page-everyday-preview main .pw-home .pw-hero-media {
   width: 100% !important;
-  height: 180px !important;
-  max-height: 180px !important;
+  height: 340px !important;
+  max-height: 340px !important;
   overflow: hidden !important;
 }
 body.page-home-preview main .pw-home .pw-hero-media img,
 body.page-everyday-preview main .pw-home .pw-hero-media img {
   width: 100% !important;
   height: 100% !important;
-  max-height: 180px !important;
+  max-height: 340px !important;
   object-fit: contain !important;
 }
 body.page-home-preview main .pw-home .pw-feature img,
 body.page-everyday-preview main .pw-home .pw-feature img {
   width: 100% !important;
-  height: 112px !important;
-  max-height: 112px !important;
+  height: 220px !important;
+  max-height: 220px !important;
   object-fit: contain !important;
 }
 @media (max-width: 640px) {
   body.page-home-preview main .pw-home .pw-hero-media,
   body.page-everyday-preview main .pw-home .pw-hero-media {
-    height: 145px !important;
-    max-height: 145px !important;
+    height: 280px !important;
+    max-height: 280px !important;
   }
   body.page-home-preview main .pw-home .pw-hero-media img,
   body.page-everyday-preview main .pw-home .pw-hero-media img {
-    max-height: 145px !important;
+    max-height: 280px !important;
   }
   body.page-home-preview main .pw-home .pw-feature img,
   body.page-everyday-preview main .pw-home .pw-feature img {
-    height: 104px !important;
-    max-height: 104px !important;
+    height: 190px !important;
+    max-height: 190px !important;
+  }
+}
+
+/* Larger editorial imagery: visible at a glance on phones and desktops. */
+body.page-home-preview main .pw-home .pw-feature,
+body.page-everyday-preview main .pw-home .pw-feature {
+  display: block !important;
+}
+body.page-home-preview main .pw-home .pw-feature img,
+body.page-everyday-preview main .pw-home .pw-feature img {
+  width: 100% !important;
+  height: 220px !important;
+  max-height: 220px !important;
+  aspect-ratio: 16 / 9 !important;
+  object-fit: contain !important;
+}
+@media (max-width: 640px) {
+  body.page-home-preview main .pw-home .pw-feature img,
+  body.page-everyday-preview main .pw-home .pw-feature img {
+    height: 190px !important;
+    max-height: 190px !important;
   }
 }
 </style>
