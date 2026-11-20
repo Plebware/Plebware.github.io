@@ -22,7 +22,7 @@ sitemap: false
     </div>
   </div>
   <div class="pw-hero-media">
-    <img src="/assets/images/another-plebware-view.webp" alt="A visual representation of the PlebWare knowledge and learning environment" fetchpriority="high">
+    <img src="{{ '/assets/images/another-plebware-view.webp' | relative_url }}" alt="A visual representation of the PlebWare knowledge and learning environment" fetchpriority="high">
   </div>
 </section>
 
@@ -39,21 +39,21 @@ sitemap: false
 
   <div class="pw-feature-grid">
     <a class="pw-feature" href="/everyday-default/">
-      <img src="/assets/images/everyday-collage.webp" alt="A collage representing everyday life and practical knowledge" loading="lazy">
+      <img src="{{ '/assets/images/everyday-collage.webp' | relative_url }}" alt="A collage representing everyday life and practical knowledge" loading="lazy">
       <div class="pw-feature-copy">
         <h3>Everyday knowledge.</h3>
         <p>Useful ideas and practical guidance for ordinary life.</p>
       </div>
     </a>
     <a class="pw-feature" href="/developer/">
-      <img src="/assets/images/PlebMachineSplash.webp" alt="PlebMachine project artwork" loading="lazy">
+      <img src="{{ '/assets/images/PlebMachineSplash.webp' | relative_url }}" alt="PlebMachine project artwork" loading="lazy">
       <div class="pw-feature-copy">
         <h3>Technology with purpose.</h3>
         <p>Tools, systems and computing that serve people.</p>
       </div>
     </a>
     <a class="pw-feature" href="/graphics/">
-      <img src="/assets/images/plebware-comic.webp" alt="PlebWare comic artwork" loading="lazy">
+      <img src="{{ '/assets/images/plebware-comic.webp' | relative_url }}" alt="PlebWare comic artwork" loading="lazy">
       <div class="pw-feature-copy">
         <h3>Creativity and expression.</h3>
         <p>Graphics, music, video, comics and creative experiments.</p>
@@ -167,15 +167,15 @@ sitemap: false
   </div>
   <div class="pw-feature-grid">
     <a class="pw-feature" href="https://plebware.github.io/PlebMachine/">
-      <img src="/assets/images/root-opt-plebmachine.webp" alt="PlebMachine desktop environment project artwork" loading="lazy">
+      <img src="{{ '/assets/images/root-opt-plebmachine.webp' | relative_url }}" alt="PlebMachine desktop environment project artwork" loading="lazy">
       <div class="pw-feature-copy"><h3>PlebMachine.</h3><p>Human-centred tools and a more intentional desktop experience.</p></div>
     </a>
     <a class="pw-feature" href="/about/manifesto/">
-      <img src="/assets/images/plebware-legacy-manifesto.webp" alt="PlebWare founding manifesto artwork" loading="lazy">
+      <img src="{{ '/assets/images/plebware-legacy-manifesto.webp' | relative_url }}" alt="PlebWare founding manifesto artwork" loading="lazy">
       <div class="pw-feature-copy"><h3>Our founding idea.</h3><p>Technology must serve humanity. Convenience is the purpose.</p></div>
     </a>
     <a class="pw-feature" href="/search/">
-      <img src="/assets/images/ultimate-github-library.webp" alt="PlebWare library and knowledge collection artwork" loading="lazy">
+      <img src="{{ '/assets/images/ultimate-github-library.webp' | relative_url }}" alt="PlebWare library and knowledge collection artwork" loading="lazy">
       <div class="pw-feature-copy"><h3>Find what you need.</h3><p>Search the collection or browse the complete article library.</p></div>
     </a>
   </div>
