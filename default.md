@@ -13,7 +13,7 @@ sitemap: false
 
 <section class="pw-hero">
   <div class="pw-hero-copy">
-    <p class="pw-eyebrow">An independent publishing and learning hub.</p>
+    <p class="pw-eyebrow">Design preview · An independent publishing and learning hub.</p>
     <h1>Knowledge for ordinary people.</h1>
     <p class="pw-hero-lead">A place to explore practical knowledge, technology, creativity, stories and ideas. Useful information should be understandable, accessible and available to everyone.</p>
     <div class="pw-actions">
