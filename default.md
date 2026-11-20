@@ -77,7 +77,7 @@ sitemap: false
   <p class="pw-section-intro">Twelve areas of interest, each with its own subjects and growing collection of articles.</p>
 
   <div class="pw-mode-grid">
-    <a class="pw-mode-card" href="/everyday/"><span class="pw-mode-icon">🌿</span><span><strong>Everyday</strong><small>Practical life and useful skills.</small></span></a>
+    <a class="pw-mode-card" href="/everyday-default/"><span class="pw-mode-icon">🌿</span><span><strong>Everyday</strong><small>Practical life and useful skills.</small></span></a>
     <a class="pw-mode-card" href="/author/"><span class="pw-mode-icon">✍️</span><span><strong>Author</strong><small>Fiction, poetry and the written word.</small></span></a>
     <a class="pw-mode-card" href="/study/"><span class="pw-mode-icon">📚</span><span><strong>Study</strong><small>Learning, lessons and understanding.</small></span></a>
     <a class="pw-mode-card" href="/research/"><span class="pw-mode-icon">🔬</span><span><strong>Research</strong><small>Investigation, evidence and discovery.</small></span></a>
