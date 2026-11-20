@@ -6,8 +6,59 @@ permalink: /everyday-default/
 sitemap: false
 ---
 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/Plebware/pleb-theme/redesign/editorial-mobile-first/assets/css/editorial.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Plebware/pleb-theme/66813e746b531ce38d7aa100855be12e54bdedef/assets/css/editorial.css">
 <script>document.body.classList.add('page-everyday', 'page-everyday-preview');</script>
+
+<style>
+/* Preview-only image sizing: deliberately stricter than the shared theme. */
+body.page-home-preview main .pw-home img,
+body.page-everyday-preview main .pw-home img {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  max-height: 150px !important;
+  margin-inline: auto !important;
+  object-fit: contain !important;
+}
+body.page-home-preview main .pw-home .pw-hero-media,
+body.page-everyday-preview main .pw-home .pw-hero-media {
+  width: 100% !important;
+  height: 180px !important;
+  max-height: 180px !important;
+  overflow: hidden !important;
+}
+body.page-home-preview main .pw-home .pw-hero-media img,
+body.page-everyday-preview main .pw-home .pw-hero-media img {
+  width: 100% !important;
+  height: 100% !important;
+  max-height: 180px !important;
+  object-fit: contain !important;
+}
+body.page-home-preview main .pw-home .pw-feature img,
+body.page-everyday-preview main .pw-home .pw-feature img {
+  width: 100% !important;
+  height: 112px !important;
+  max-height: 112px !important;
+  object-fit: contain !important;
+}
+@media (max-width: 640px) {
+  body.page-home-preview main .pw-home .pw-hero-media,
+  body.page-everyday-preview main .pw-home .pw-hero-media {
+    height: 145px !important;
+    max-height: 145px !important;
+  }
+  body.page-home-preview main .pw-home .pw-hero-media img,
+  body.page-everyday-preview main .pw-home .pw-hero-media img {
+    max-height: 145px !important;
+  }
+  body.page-home-preview main .pw-home .pw-feature img,
+  body.page-everyday-preview main .pw-home .pw-feature img {
+    height: 104px !important;
+    max-height: 104px !important;
+  }
+}
+</style>
 
 <div class="pw-home pw-everyday">
 
