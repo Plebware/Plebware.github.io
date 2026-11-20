@@ -6,65 +6,8 @@ permalink: /default/
 sitemap: false
 ---
 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/Plebware/pleb-theme/661f75d72e023a22d88bd5e613b4e0068d7f9764/assets/css/editorial.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Plebware/pleb-theme/015057b1d4338d15b562fee73b1ad9be2c5ee3d3/assets/css/editorial.css">
 <script>document.body.classList.add('page-home', 'page-home-preview');</script>
-
-<style>
-/* Responsive image proportions: use the available width, not fixed heights. */
-body.page-home-preview main .pw-home img,
-body.page-everyday-preview main .pw-home img {
-  display: block !important;
-  width: 100% !important;
-  max-width: 100% !important;
-  height: auto !important;
-  max-height: none !important;
-  margin-inline: auto !important;
-  object-fit: contain !important;
-}
-body.page-home-preview main .pw-home .pw-hero-media,
-body.page-everyday-preview main .pw-home .pw-hero-media {
-  width: 100% !important;
-  height: auto !important;
-  max-height: none !important;
-  aspect-ratio: 4 / 3 !important;
-  overflow: hidden !important;
-}
-body.page-home-preview main .pw-home .pw-hero-media img,
-body.page-everyday-preview main .pw-home .pw-hero-media img {
-  width: 100% !important;
-  height: 100% !important;
-  max-height: none !important;
-  aspect-ratio: auto !important;
-  object-fit: contain !important;
-}
-body.page-home-preview main .pw-home .pw-feature,
-body.page-everyday-preview main .pw-home .pw-feature {
-  display: block !important;
-  min-width: 0 !important;
-}
-body.page-home-preview main .pw-home .pw-feature img,
-body.page-everyday-preview main .pw-home .pw-feature img {
-  width: 100% !important;
-  height: auto !important;
-  max-height: none !important;
-  aspect-ratio: 16 / 10 !important;
-  object-fit: contain !important;
-}
-@media (max-width: 640px) {
-  body.page-home-preview main .pw-home .pw-hero-media,
-  body.page-everyday-preview main .pw-home .pw-hero-media {
-    width: 100% !important;
-    height: auto !important;
-    aspect-ratio: 16 / 9 !important;
-  }
-  body.page-home-preview main .pw-home .pw-feature img,
-  body.page-everyday-preview main .pw-home .pw-feature img {
-    width: 100% !important;
-    height: auto !important;
-    aspect-ratio: 16 / 9 !important;
-  }
-}
-</style>
 
 <div class="pw-home">
 
@@ -77,9 +20,6 @@ body.page-everyday-preview main .pw-home .pw-feature img {
       <a class="pw-button" href="/everyday-default/">🌿 Explore Everyday</a>
       <a class="pw-button pw-button-secondary" href="#explore-modes">Explore PlebWare ↓</a>
     </div>
-  </div>
-  <div class="pw-hero-media">
-    <img src="{{ '/assets/images/another-plebware-view.webp' | relative_url }}" alt="A visual representation of the PlebWare knowledge and learning environment" fetchpriority="high">
   </div>
 </section>
 
@@ -94,29 +34,69 @@ body.page-everyday-preview main .pw-home .pw-feature img {
   </div>
   <p class="pw-section-intro">PlebWare brings together everyday guidance, learning resources, research, writing, creative work and practical technology. Browse by interest, follow a subject, or simply see what catches your eye.</p>
 
-  <div class="pw-feature-grid">
-    <a class="pw-feature" href="/everyday-default/">
-      <img src="{{ '/assets/images/everyday-collage.webp' | relative_url }}" alt="A collage representing everyday life and practical knowledge" loading="lazy">
-      <div class="pw-feature-copy">
-        <h3>Everyday knowledge.</h3>
-        <p>Useful ideas and practical guidance for ordinary life.</p>
+  <div class="pw-topic-carousel" data-topic-carousel aria-label="Featured PlebWare topics">
+    <div class="pw-topic-stage">
+      <a class="pw-topic-image-link" data-topic-link href="/everyday-default/" aria-label="Explore Everyday knowledge">
+        <img data-topic-image src="{{ '/assets/images/everyday-collage.webp' | relative_url }}" alt="Everyday knowledge and practical life" fetchpriority="high">
+      </a>
+      <button class="pw-carousel-arrow pw-carousel-prev" type="button" data-topic-prev aria-label="Previous featured topic">‹</button>
+      <button class="pw-carousel-arrow pw-carousel-next" type="button" data-topic-next aria-label="Next featured topic">›</button>
+    </div>
+    <div class="pw-topic-caption" aria-live="polite">
+      <div>
+        <p class="pw-eyebrow">Featured topic <span data-topic-count>1 / 5</span></p>
+        <h3><a data-topic-title href="/everyday-default/">Everyday knowledge.</a></h3>
+        <p data-topic-description>Useful ideas and practical guidance for ordinary life.</p>
       </div>
-    </a>
-    <a class="pw-feature" href="/developer/">
-      <img src="{{ '/assets/images/PlebMachineSplash.webp' | relative_url }}" alt="PlebMachine project artwork" loading="lazy">
-      <div class="pw-feature-copy">
-        <h3>Technology with purpose.</h3>
-        <p>Tools, systems and computing that serve people.</p>
-      </div>
-    </a>
-    <a class="pw-feature" href="/graphics/">
-      <img src="{{ '/assets/images/plebware-comic.webp' | relative_url }}" alt="PlebWare comic artwork" loading="lazy">
-      <div class="pw-feature-copy">
-        <h3>Creativity and expression.</h3>
-        <p>Graphics, music, video, comics and creative experiments.</p>
-      </div>
-    </a>
+      <span class="pw-topic-hint">Select the image to explore.</span>
+    </div>
+    <div class="pw-carousel-progress" aria-hidden="true"><span data-topic-progress></span></div>
   </div>
+  <script>
+  (() => {
+    const root = document.querySelector('[data-topic-carousel]');
+    if (!root || root.dataset.ready === 'true') return;
+    root.dataset.ready = 'true';
+    const topics = [
+      { title: 'Everyday knowledge.', description: 'Useful ideas and practical guidance for ordinary life.', image: "{{ '/assets/images/everyday-collage.webp' | relative_url }}", alt: 'Everyday knowledge and practical life', url: '/everyday-default/' },
+      { title: 'Technology with purpose.', description: 'Tools, systems and computing designed to serve people.', image: "{{ '/assets/images/PlebMachineSplash.webp' | relative_url }}", alt: 'PlebMachine project artwork', url: '/developer/' },
+      { title: 'Creativity and expression.', description: 'Graphics, music, video, comics and creative experiments.', image: "{{ '/assets/images/plebware-comic.webp' | relative_url }}", alt: 'PlebWare comic artwork', url: '/graphics/' },
+      { title: 'The PlebMachine project.', description: 'A human-centred desktop environment and practical tools.', image: "{{ '/assets/images/root-opt-plebmachine.webp' | relative_url }}", alt: 'PlebMachine desktop project artwork', url: 'https://plebware.github.io/PlebMachine/' },
+      { title: 'The PlebWare philosophy.', description: 'Technology must serve humanity. Convenience is the purpose.', image: "{{ '/assets/images/plebware-legacy-manifesto.webp' | relative_url }}", alt: 'PlebWare founding manifesto artwork', url: '/about/manifesto/' }
+    ];
+    let current = 0;
+    const image = root.querySelector('[data-topic-image]');
+    const link = root.querySelector('[data-topic-link]');
+    const title = root.querySelector('[data-topic-title]');
+    const description = root.querySelector('[data-topic-description]');
+    const count = root.querySelector('[data-topic-count]');
+    const progress = root.querySelector('[data-topic-progress]');
+    const show = (index) => {
+      current = (index + topics.length) % topics.length;
+      const topic = topics[current];
+      image.src = topic.image;
+      image.alt = topic.alt;
+      link.href = topic.url;
+      link.setAttribute('aria-label', 'Open ' + topic.title);
+      title.textContent = topic.title;
+      title.href = topic.url;
+      description.textContent = topic.description;
+      count.textContent = (current + 1) + ' / ' + topics.length;
+      progress.style.width = (((current + 1) / topics.length) * 100) + '%';
+    };
+    root.querySelector('[data-topic-prev]').addEventListener('click', () => show(current - 1));
+    root.querySelector('[data-topic-next]').addEventListener('click', () => show(current + 1));
+    let startX = 0;
+    root.querySelector('.pw-topic-stage').addEventListener('touchstart', event => {
+      startX = event.changedTouches[0].clientX;
+    }, { passive: true });
+    root.querySelector('.pw-topic-stage').addEventListener('touchend', event => {
+      const distance = event.changedTouches[0].clientX - startX;
+      if (Math.abs(distance) > 45) show(current + (distance < 0 ? 1 : -1));
+    }, { passive: true });
+    show(0);
+  })();
+  </script>
 </section>
 
 <!-- PLEBVOX:END -->
@@ -222,19 +202,10 @@ body.page-everyday-preview main .pw-home .pw-feature img {
       <h2>More than a website.</h2>
     </div>
   </div>
-  <div class="pw-feature-grid">
-    <a class="pw-feature" href="https://plebware.github.io/PlebMachine/">
-      <img src="{{ '/assets/images/root-opt-plebmachine.webp' | relative_url }}" alt="PlebMachine desktop environment project artwork" loading="lazy">
-      <div class="pw-feature-copy"><h3>PlebMachine.</h3><p>Human-centred tools and a more intentional desktop experience.</p></div>
-    </a>
-    <a class="pw-feature" href="/about/manifesto/">
-      <img src="{{ '/assets/images/plebware-legacy-manifesto.webp' | relative_url }}" alt="PlebWare founding manifesto artwork" loading="lazy">
-      <div class="pw-feature-copy"><h3>Our founding idea.</h3><p>Technology must serve humanity. Convenience is the purpose.</p></div>
-    </a>
-    <a class="pw-feature" href="/search/">
-      <img src="{{ '/assets/images/ultimate-github-library.webp' | relative_url }}" alt="PlebWare library and knowledge collection artwork" loading="lazy">
-      <div class="pw-feature-copy"><h3>Find what you need.</h3><p>Search the collection or browse the complete article library.</p></div>
-    </a>
+  <div class="pw-ecosystem-links">
+    <a href="https://plebware.github.io/PlebMachine/"><strong>PlebMachine.</strong><span>Human-centred tools and a more intentional desktop experience.</span></a>
+    <a href="/about/manifesto/"><strong>Our founding idea.</strong><span>Technology must serve humanity. Convenience is the purpose.</span></a>
+    <a href="/search/"><strong>Find what you need.</strong><span>Search the collection or browse the complete article library.</span></a>
   </div>
 </section>
 
