@@ -303,3 +303,21 @@ The contributor list below is **generated automatically from the PlebWare GitHub
 </script>
 
 <!-- GitHub Pages refresh trigger: 2026-10-20 -->
+
+---
+
+## 🧪 Explore the New PlebWare Design.
+
+We're developing a refreshed PlebWare experience. The current website remains fully operational while the new design is built and tested.
+
+<div class="hero-actions" style="display:flex; flex-wrap:wrap; justify-content:center; gap:14px; align-items:stretch; margin:1.5rem 0; text-align:center;">
+  <a href="/default/" class="btn btn-primary" style="display:inline-flex; justify-content:center; align-items:center; min-height:48px; padding:12px 22px; border-radius:10px; font-weight:700; text-decoration:none;">🏠 Preview New PlebWare Home</a>
+  <a href="/everyday-default/" class="btn btn-secondary" style="display:inline-flex; justify-content:center; align-items:center; min-height:48px; padding:12px 22px; border-radius:10px; font-weight:700; text-decoration:none;">🌿 Preview Everyday Hub</a>
+</div>
+
+<!-- PLEBVOX:START -->
+
+These are development previews. The original homepage and existing Everyday content remain in place until the redesign has been tested and approved.
+
+<!-- PLEBVOX:END -->
+
