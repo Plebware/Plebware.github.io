@@ -841,3 +841,6 @@ main .content img {
 @media (prefers-reduced-motion: reduce) {
   .pw-category-card { transition: none; }
 }
+
+/* The production homepage uses its own editorial hero instead of the legacy banner. */
+.page-home .site-banner { display: none; }
