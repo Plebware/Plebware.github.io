@@ -6,7 +6,7 @@ permalink: /everyday-default/
 sitemap: false
 ---
 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/Plebware/pleb-theme/redesign/editorial-mobile-first/assets/css/editorial.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Plebware/pleb-theme/8b252408786e131bbffb22529a72dce984654c0b/assets/css/editorial.css">
 
 <script>document.body.classList.add('page-everyday', 'page-everyday-preview');</script>
 
