@@ -37,14 +37,14 @@ sitemap: false
   <div class="pw-topic-carousel" data-topic-carousel aria-label="Featured PlebWare topics">
     <div class="pw-topic-stage">
       <a class="pw-topic-image-link" data-topic-link href="/everyday-default/" aria-label="Explore Everyday knowledge">
-        <img data-topic-image src="{{ '/assets/images/everyday-collage.webp' | relative_url }}" alt="Everyday knowledge and practical life" fetchpriority="high">
+        <img data-topic-image src="{{ '/assets/images/01-everyday.webp' | relative_url }}" alt="Everyday knowledge and practical life" fetchpriority="high">
       </a>
       <button class="pw-carousel-arrow pw-carousel-prev" type="button" data-topic-prev aria-label="Previous featured topic">‹</button>
       <button class="pw-carousel-arrow pw-carousel-next" type="button" data-topic-next aria-label="Next featured topic">›</button>
     </div>
     <div class="pw-topic-caption" aria-live="polite">
       <div>
-        <p class="pw-eyebrow">Featured topic <span data-topic-count>1 / 5</span></p>
+        <p class="pw-eyebrow">Featured topic <span data-topic-count>1 / 12</span></p>
         <h3><a data-topic-title href="/everyday-default/">Everyday knowledge.</a></h3>
         <p data-topic-description>Useful ideas and practical guidance for ordinary life.</p>
       </div>
@@ -58,11 +58,18 @@ sitemap: false
     if (!root || root.dataset.ready === 'true') return;
     root.dataset.ready = 'true';
     const topics = [
-      { title: 'Everyday knowledge.', description: 'Useful ideas and practical guidance for ordinary life.', image: "{{ '/assets/images/everyday-collage.webp' | relative_url }}", alt: 'Everyday knowledge and practical life', url: '/everyday-default/' },
-      { title: 'Technology with purpose.', description: 'Tools, systems and computing designed to serve people.', image: "{{ '/assets/images/PlebMachineSplash.webp' | relative_url }}", alt: 'PlebMachine project artwork', url: '/developer/' },
-      { title: 'Creativity and expression.', description: 'Graphics, music, video, comics and creative experiments.', image: "{{ '/assets/images/plebware-comic.webp' | relative_url }}", alt: 'PlebWare comic artwork', url: '/graphics/' },
-      { title: 'The PlebMachine project.', description: 'A human-centred desktop environment and practical tools.', image: "{{ '/assets/images/root-opt-plebmachine.webp' | relative_url }}", alt: 'PlebMachine desktop project artwork', url: 'https://plebware.github.io/PlebMachine/' },
-      { title: 'The PlebWare philosophy.', description: 'Technology must serve humanity. Convenience is the purpose.', image: "{{ '/assets/images/plebware-legacy-manifesto.webp' | relative_url }}", alt: 'PlebWare founding manifesto artwork', url: '/about/manifesto/' }
+      { title: 'Everyday.', description: 'Practical knowledge and useful skills for everyday life.', image: "{{ '/assets/images/01-everyday.webp' | relative_url }}", alt: 'PlebWare Everyday mode', url: '/everyday-default/' },
+      { title: 'Author.', description: 'Writing, storytelling, poetry and the craft of words.', image: "{{ '/assets/images/02-author.webp' | relative_url }}", alt: 'PlebWare Author mode', url: '/author/' },
+      { title: 'Study.', description: 'Learning resources, lessons and guided understanding.', image: "{{ '/assets/images/03-study.webp' | relative_url }}", alt: 'PlebWare Study mode', url: '/study/' },
+      { title: 'Research.', description: 'Investigation, evidence, discovery and deeper questions.', image: "{{ '/assets/images/04-research.webp' | relative_url }}", alt: 'PlebWare Research mode', url: '/research/' },
+      { title: 'Graphics.', description: 'Visual design, illustration and image-making.', image: "{{ '/assets/images/05-graphics.webp' | relative_url }}", alt: 'PlebWare Graphics mode', url: '/graphics/' },
+      { title: 'Music.', description: 'Music creation, sound and audio projects.', image: "{{ '/assets/images/06-music.webp' | relative_url }}", alt: 'PlebWare Music mode', url: '/music/' },
+      { title: 'Video.', description: 'Video creation, editing and visual storytelling.', image: "{{ '/assets/images/07-video.webp' | relative_url }}", alt: 'PlebWare Video mode', url: '/video/' },
+      { title: 'Broadcast.', description: 'Radio, communication and publishing to an audience.', image: "{{ '/assets/images/08-broadcast.webp' | relative_url }}", alt: 'PlebWare Broadcast mode', url: '/broadcast/' },
+      { title: 'AI Helpers.', description: 'Practical AI assistants, workflows and useful tools.', image: "{{ '/assets/images/09-ai-helpers.webp' | relative_url }}", alt: 'PlebWare AI Helpers mode', url: '/ai-helpers/' },
+      { title: 'Developer.', description: 'Software, coding, systems and digital tools.', image: "{{ '/assets/images/10-developer.webp' | relative_url }}", alt: 'PlebWare Developer mode', url: '/developer/' },
+      { title: 'Accounting.', description: 'Financial records, calculations and organisation.', image: "{{ '/assets/images/11-accounting.webp' | relative_url }}", alt: 'PlebWare Accounting mode', url: '/accounting/' },
+      { title: 'Leisure.', description: 'Hobbies, recreation, games and time well spent.', image: "{{ '/assets/images/12-leisure.webp' | relative_url }}", alt: 'PlebWare Leisure mode', url: '/leisure/' }
     ];
     let current = 0;
     const image = root.querySelector('[data-topic-image]');
