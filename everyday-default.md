@@ -50,7 +50,7 @@ sitemap: false
   </div>
   <p class="pw-section-intro">Choose a subject below to explore its articles and resources. The directory is generated from the Everyday subcategory pages, so new subjects can appear as the library grows.</p>
 
-  {% include category-index.html section_slug="everyday" %}
+  {% include category-index-preview.html section_slug="everyday" %}
 </section>
 
 <section class="pw-section pw-bottom-cta" aria-labelledby="home-cta-heading">
