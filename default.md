@@ -6,7 +6,6 @@ permalink: /default/
 sitemap: false
 ---
 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/Plebware/pleb-theme/f58c48a955482d126adeddb3d167fabbcff33224/assets/css/editorial.css">
 <script>document.body.classList.add('page-home', 'page-home-preview');</script>
 
 <div class="pw-home">
