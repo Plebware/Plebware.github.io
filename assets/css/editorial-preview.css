@@ -844,3 +844,16 @@ main .content img {
 
 /* The production homepage uses its own editorial hero instead of the legacy banner. */
 .page-home .site-banner { display: none; }
+
+
+/* Shared layout rules for the eleven additional mode previews. */
+.page-mode .site-banner { display: none; }
+.page-mode main {
+  width: min(100%, 1240px);
+  max-width: 1240px;
+  margin-inline: auto;
+  padding-inline: clamp(0.25rem, 2vw, 1.25rem);
+}
+@media (max-width: 640px) {
+  .page-mode main { padding-inline: 0; }
+}
