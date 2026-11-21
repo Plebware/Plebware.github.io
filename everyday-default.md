@@ -6,65 +6,9 @@ permalink: /everyday-default/
 sitemap: false
 ---
 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/Plebware/pleb-theme/661f75d72e023a22d88bd5e613b4e0068d7f9764/assets/css/editorial.css">
-<script>document.body.classList.add('page-everyday', 'page-everyday-preview');</script>
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Plebware/pleb-theme/redesign/editorial-mobile-first/assets/css/editorial.css">
 
-<style>
-/* Responsive image proportions: use the available width, not fixed heights. */
-body.page-home-preview main .pw-home img,
-body.page-everyday-preview main .pw-home img {
-  display: block !important;
-  width: 100% !important;
-  max-width: 100% !important;
-  height: auto !important;
-  max-height: none !important;
-  margin-inline: auto !important;
-  object-fit: contain !important;
-}
-body.page-home-preview main .pw-home .pw-hero-media,
-body.page-everyday-preview main .pw-home .pw-hero-media {
-  width: 100% !important;
-  height: auto !important;
-  max-height: none !important;
-  aspect-ratio: 4 / 3 !important;
-  overflow: hidden !important;
-}
-body.page-home-preview main .pw-home .pw-hero-media img,
-body.page-everyday-preview main .pw-home .pw-hero-media img {
-  width: 100% !important;
-  height: 100% !important;
-  max-height: none !important;
-  aspect-ratio: auto !important;
-  object-fit: contain !important;
-}
-body.page-home-preview main .pw-home .pw-feature,
-body.page-everyday-preview main .pw-home .pw-feature {
-  display: block !important;
-  min-width: 0 !important;
-}
-body.page-home-preview main .pw-home .pw-feature img,
-body.page-everyday-preview main .pw-home .pw-feature img {
-  width: 100% !important;
-  height: auto !important;
-  max-height: none !important;
-  aspect-ratio: 16 / 10 !important;
-  object-fit: contain !important;
-}
-@media (max-width: 640px) {
-  body.page-home-preview main .pw-home .pw-hero-media,
-  body.page-everyday-preview main .pw-home .pw-hero-media {
-    width: 100% !important;
-    height: auto !important;
-    aspect-ratio: 16 / 9 !important;
-  }
-  body.page-home-preview main .pw-home .pw-feature img,
-  body.page-everyday-preview main .pw-home .pw-feature img {
-    width: 100% !important;
-    height: auto !important;
-    aspect-ratio: 16 / 9 !important;
-  }
-}
-</style>
+<script>document.body.classList.add('page-everyday', 'page-everyday-preview');</script>
 
 <div class="pw-home pw-everyday">
 
