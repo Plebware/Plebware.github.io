@@ -6,7 +6,7 @@ permalink: /default/
 sitemap: false
 ---
 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/Plebware/pleb-theme/8b252408786e131bbffb22529a72dce984654c0b/assets/css/editorial.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Plebware/pleb-theme/2760fa665557a22376a00ee7615a9ebe5dfc44d5/assets/css/editorial.css">
 
 <script>document.body.classList.add('page-home', 'page-home-preview');</script>
 
@@ -218,5 +218,6 @@ sitemap: false
 </section>
 
 </div>
+
 
 
