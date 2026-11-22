@@ -23,6 +23,9 @@ Welcome aboard.
 
 If you would like to understand the idea behind the name, start with [Who or What Is PlebWare?](/everyday/about-plebware/2026/09/17/who-or-what-is-plebware.html). This personal introduction tells another part of the story: the people, experiences, and values behind the project.
 
+<!-- PLEBVOX:END -->
+-----
+<!-- PLEBVOX:START -->
 ## No Free Lunch — The Beginning!
 
 In 1999, I discovered the possibilities of having a website on the internet. The opportunity came with a modest allowance of approximately five megabytes of free web space.
@@ -47,6 +50,9 @@ The VIC-20 gave way to PCs. My experiments expanded. Websites became projects, p
 
 PlebWare grew out of that continuing journey.
 
+<!-- PLEBVOX:END -->
+-----
+<!-- PLEBVOX:START -->
 ## Out of Necessity and Love!
 
 I have never pretended that I am a perfect writer.
@@ -71,6 +77,9 @@ Sometimes progress is a matter of taking one small step, solving one problem, wr
 
 That is still progress.
 
+<!-- PLEBVOX:END -->
+-----
+<!-- PLEBVOX:START -->
 ## Words Are Good. Integrity Is Better.
 
 I have spent more than 27 years exploring and working with the internet in one form or another. During that time, I have learned that putting words on a screen is easy compared with earning someone's trust.
@@ -87,6 +96,9 @@ Equally, a small project created by ordinary people can have genuine value when 
 
 That is the standard I want to keep working towards.
 
+<!-- PLEBVOX:END -->
+-----
+<!-- PLEBVOX:START -->
 ## An Invitation, Not a Claim to Perfection!
 
 PlebWare is a work in progress. So am I.
