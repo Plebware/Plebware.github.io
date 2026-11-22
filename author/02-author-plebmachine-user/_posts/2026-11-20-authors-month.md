@@ -9,6 +9,15 @@ mode: "author"
 author: "Othello Cody Verrocchio"
 ---
 
+<div style="text-align: center;">
+  <img src="/assets/images/authors-month.webp"
+       alt="Promotional image promoting Author's Month"
+       loading="lazy"
+       style="width: 70%; max-width: 100%; height: auto;">
+</div>
+
+-----
+
 <!-- PLEBVOX:START -->
 
 # ✍️ Author's Month – Your Imagination Has a Home!
