@@ -18,6 +18,7 @@ Every project has a history, even when that history is scattered across old comp
 PlebWare did not appear out of nowhere in 2026. Its present form grew from earlier experiments, years of learning, and an idea that continued to survive even when circumstances changed.
 
 To understand what we are building today, it helps to understand what came before.
+
 <!-- PLEBVOX:END -->
 -----
 <!-- PLEBVOX:START -->
@@ -25,9 +26,9 @@ To understand what we are building today, it helps to understand what came befor
 
 The original Plebware website was part of a much longer online journey. The old domain, `plebware.com`, became home to an earlier chapter of that work.
 
-That chapter mattered. It was a place to experiment, publish, learn, and establish an identity on the internet.
+That chapter mattered. It was a place to experiment, publish, learn, and establish an identity online.
 
-The site was active during the 2010–2020 period, and the Wayback Machine preserves snapshots of parts of that earlier online presence. Those archived pages help document the history of the project.
+The site was active during the 2010–2020 period, and the Wayback Machine preserves snapshots of parts of that earlier online presence. Those archived pages help document the project's history.
 
 Then circumstances changed.
 
@@ -38,6 +39,7 @@ Losing a domain is not simply losing a web address. It can feel as though a room
 But losing a domain does not automatically erase the ideas that gave it meaning.
 
 The old website belonged to an earlier chapter. Its loss was painful, but it did not mean that the underlying vision had to disappear.
+
 <!-- PLEBVOX:END -->
 -----
 <!-- PLEBVOX:START -->
@@ -60,6 +62,7 @@ Today, PlebWare includes writing, learning, Linux, software, research, creative 
 The technology has grown, but the original human question remains:
 
 **How can ordinary people use technology to do useful, meaningful things?**
+
 <!-- PLEBVOX:END -->
 -----
 <!-- PLEBVOX:START -->
@@ -86,6 +89,7 @@ Our circumstances also shape the way we work. Juelz faces challenges involving h
 The point is not that we can do everything.
 
 The point is that we can still do something.
+
 <!-- PLEBVOX:END -->
 -----
 <!-- PLEBVOX:START -->
@@ -104,6 +108,7 @@ The site brings together articles, technical documentation, personal reflections
 PlebMachine is part of that wider journey: an attempt to make the computer environment more useful to the person using it.
 
 The aim is not to make technology the boss. It is to make technology serve people.
+
 <!-- PLEBVOX:END -->
 -----
 <!-- PLEBVOX:START -->
@@ -118,6 +123,7 @@ We ask for patience because PlebWare is an evolving project, not a finished corp
 That does not excuse carelessness. It means being honest about the stage of development and being willing to improve what needs improving.
 
 We would rather keep learning and correcting our work than pretend to have all the answers.
+
 <!-- PLEBVOX:END -->
 -----
 <!-- PLEBVOX:START -->
