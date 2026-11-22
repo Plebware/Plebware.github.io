@@ -180,16 +180,33 @@ description: "An independent publishing and learning hub. Knowledge, technology 
     </div>
   </div>
   {% assign plebvox_count = 0 %}
+  {% assign reviewed_count = 0 %}
+  {% assign voxed_count = 0 %}
   {% for post in site.posts %}
-    {% if post.content contains 'PLEBVOX:START' %}
+    {% assign rendered_post = post.output | default: post.content %}
+    {% if rendered_post contains 'PLEBVOX:START' %}
       {% assign plebvox_count = plebvox_count | plus: 1 %}
+    {% endif %}
+    {% if rendered_post contains '<!-- REVIEWED -->'
+      or rendered_post contains '<!-- HUMAN VERIFIED -->'
+      or rendered_post contains '<!-- HUMAN-VERIFIED -->'
+      or rendered_post contains '<!-- HUMAN_VERIFIED -->'
+      or rendered_post contains '<!-- HUMAN VERIFIED IMAGE -->'
+      or rendered_post contains '<!-- HUMAN-VERIFIED-IMAGE -->'
+      or rendered_post contains '<!-- HUMAN_VERIFIED_IMAGE -->' %}
+      {% assign reviewed_count = reviewed_count | plus: 1 %}
+    {% endif %}
+    {% if rendered_post contains '<!---VOXED--->' %}
+      {% assign voxed_count = voxed_count | plus: 1 %}
     {% endif %}
   {% endfor %}
   <div class="pw-stat-strip">
     <div class="pw-stat"><strong>{{ site.posts.size }}</strong><span>Published articles.</span></div>
-    <div class="pw-stat"><strong>{{ plebvox_count }}</strong><span>Articles enabled for PlebVox.</span></div>
+    <div class="pw-stat"><strong>{{ plebvox_count }}</strong><span>PlebVox-enabled articles.</span></div>
+    <div class="pw-stat"><strong>{{ reviewed_count }}</strong><span>Human-reviewed articles.</span></div>
+    <div class="pw-stat"><strong>{{ voxed_count }}</strong><span>PlebVoxed articles.</span></div>
   </div>
-  <p class="pw-note">Some technical and code-heavy articles are intentionally not enabled for read-aloud.</p>
+  <p class="pw-note">Verification counts recognise the published article markers. PlebVoxed means the full audio rendition has been listened to and approved by a human moderator. An article may count as both human-reviewed and PlebVoxed.</p>
 </section>
 
 <section class="pw-section pw-bottom-cta" aria-labelledby="everyday-cta-heading">
