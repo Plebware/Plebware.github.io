@@ -63,7 +63,7 @@ I have also pursued formal study, including a diploma in journalism. Yet a quali
 
 What matters to me is the willingness to keep working.
 
-My circumstances are not those of a wealthy entrepreneur with unlimited time and money. I am approaching 63, living on a pension, and taking local driving work when the vehicle and circumstances allow. I have had to make practical choices about what I can afford, what I can maintain, and what I can realistically accomplish.
+My circumstances are not those of a wealthy entrepreneur with unlimited time and money. I am approaching 64, living on a pension, and taking local driving work when the vehicle and circumstances allow. I have had to make practical choices about what I can afford, what I can maintain, and what I can realistically accomplish.
 
 Juelz has his own challenges, including difficulties with his eyesight and epilepsy. Those realities affect how we work and what is possible for us.
 
