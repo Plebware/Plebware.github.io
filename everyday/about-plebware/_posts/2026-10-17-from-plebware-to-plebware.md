@@ -18,7 +18,9 @@ Every project has a history, even when that history is scattered across old comp
 PlebWare did not appear out of nowhere in 2026. Its present form grew from earlier experiments, years of learning, and an idea that continued to survive even when circumstances changed.
 
 To understand what we are building today, it helps to understand what came before.
-
+<!-- PLEBVOX:END -->
+-----
+<!-- PLEBVOX:START -->
 ## What Happened to Plebware?
 
 The original Plebware website was part of a much longer online journey. The old domain, `plebware.com`, became home to an earlier chapter of that work.
@@ -36,10 +38,12 @@ Losing a domain is not simply losing a web address. It can feel as though a room
 But losing a domain does not automatically erase the ideas that gave it meaning.
 
 The old website belonged to an earlier chapter. Its loss was painful, but it did not mean that the underlying vision had to disappear.
-
+<!-- PLEBVOX:END -->
+-----
+<!-- PLEBVOX:START -->
 ## The Meaning Behind the Name!
 
-The name Plebware reaches back to 2006.
+The name Plebware dates back to 2006.
 
 It grew from an idea about ordinary people: the people who use technology, learn from it, experiment with it, and try to make it serve their needs.
 
@@ -56,7 +60,9 @@ Today, PlebWare includes writing, learning, Linux, software, research, creative 
 The technology has grown, but the original human question remains:
 
 **How can ordinary people use technology to do useful, meaningful things?**
-
+<!-- PLEBVOX:END -->
+-----
+<!-- PLEBVOX:START -->
 ## Why a Skeleton Crew?
 
 PlebWare is not being built by a large organisation with departments for every task.
@@ -80,7 +86,9 @@ Our circumstances also shape the way we work. Juelz faces challenges involving h
 The point is not that we can do everything.
 
 The point is that we can still do something.
-
+<!-- PLEBVOX:END -->
+-----
+<!-- PLEBVOX:START -->
 ## A New Online Base of Operations!
 
 The current PlebWare website is not simply a restoration of the old site. It is a new chapter built on the lessons, interests, and ideas that came before it.
@@ -96,7 +104,9 @@ The site brings together articles, technical documentation, personal reflections
 PlebMachine is part of that wider journey: an attempt to make the computer environment more useful to the person using it.
 
 The aim is not to make technology the boss. It is to make technology serve people.
-
+<!-- PLEBVOX:END -->
+-----
+<!-- PLEBVOX:START -->
 ## Rebuilding Without Pretending to Be Finished!
 
 A project rebuilt from the ground up will have rough edges.
@@ -108,7 +118,9 @@ We ask for patience because PlebWare is an evolving project, not a finished corp
 That does not excuse carelessness. It means being honest about the stage of development and being willing to improve what needs improving.
 
 We would rather keep learning and correcting our work than pretend to have all the answers.
-
+<!-- PLEBVOX:END -->
+-----
+<!-- PLEBVOX:START -->
 ## The Voyage Continues!
 
 The old domain may be gone, but the history behind it still matters.
