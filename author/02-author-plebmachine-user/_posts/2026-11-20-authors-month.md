@@ -248,3 +248,10 @@ We look forward to welcoming you!
 ✍️ **Othello Cody Verrocchio**
 
 *PlebWare – Technology Must Serve Humanity.*
+
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
+
