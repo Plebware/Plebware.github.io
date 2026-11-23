@@ -2,6 +2,10 @@
 layout: post
 title: "Nightmare At No 30!"
 date: 2026-08-05
+category: "comics"
+tags: [dream, nightmare, prophetic?]
+mode: "author"
+author: "Captain Gemini"
 ---
 
 <!-- PLEBVOX:START -->
@@ -20,3 +24,9 @@ A strange dream of a swinging gate suspended over open space became a powerful r
 This motivational comic reminds us that even when life leaves us feeling trapped, holding on with faith, hope, and perseverance is often the first step toward climbing back to safety.
 
 <!-- PLEBVOX:END -->
+
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
