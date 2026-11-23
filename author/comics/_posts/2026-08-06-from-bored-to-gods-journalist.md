@@ -25,3 +25,8 @@ God often plants the greatest callings in the quietest moments. What looks like 
 > *"Commit your works to the Lord, and your plans will be established."* — **Proverbs 16:3 (ESV)**
 
 <!-- PLEBVOX:END -->
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
