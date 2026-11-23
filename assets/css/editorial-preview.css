@@ -846,8 +846,8 @@ main .content img {
 .page-home .site-banner { display: none; }
 
 
-/* Shared layout rules for the eleven additional mode previews. */
-.page-mode .site-banner { display: none; }
+/* Shared layout rules for the eleven additional mode previews.
+   Keep the shared page banner visible; Ecco styling must not suppress it. */
 .page-mode main {
   width: min(100%, 1240px);
   max-width: 1240px;
@@ -856,4 +856,17 @@ main .content img {
 }
 @media (max-width: 640px) {
   .page-mode main { padding-inline: 0; }
+}
+
+/* Monthly Spotlight: a contained banner image, with comfortable phone gutters. */
+.pw-monthly-spotlight .pw-image-frame {
+  width: min(100%, 900px);
+  margin-inline: auto;
+  border-radius: 1.25rem;
+}
+@media (max-width: 640px) {
+  .pw-monthly-spotlight .pw-image-frame {
+    width: 92%;
+    border-radius: 1rem;
+  }
 }
