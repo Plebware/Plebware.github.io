@@ -188,3 +188,8 @@ And if that doesn't work...
 
 ✍️ **Othello Cody Verrocchio**  
 **with ChatGPT**
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
