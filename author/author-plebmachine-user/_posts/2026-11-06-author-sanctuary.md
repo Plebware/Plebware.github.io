@@ -220,3 +220,11 @@ _Convenience is the objective. Empowerment is the outcome. Human freedom remains
 **✍️ Othello Cody Verrocchio**
 
 <!-- PLEBVOX:END -->
+
+
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
+
