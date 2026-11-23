@@ -24,3 +24,8 @@ This comic celebrates a lifetime of perseverance, proving that while the tools m
 > **"My tools changed. My purpose didn't."** — Otto Brinkmeier
 
 <!-- PLEBVOX:END -->
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
