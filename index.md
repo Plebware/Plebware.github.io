@@ -22,31 +22,34 @@ description: "An independent publishing and learning hub. Knowledge, technology 
   </div>
 </section>
 
+{% assign spotlight = site.data.monthly_spotlight %}
+{% if spotlight.enabled %}
 <!-- PLEBVOX:START -->
 
-<section class="pw-section pw-author-month" aria-labelledby="authors-month-heading">
+<section class="pw-section pw-monthly-spotlight" aria-labelledby="monthly-spotlight-heading">
   <div class="pw-section-head">
     <div>
-      <p class="pw-eyebrow">November feature · Author's Month.</p>
-      <h2 id="authors-month-heading">✍️ Celebrate Author's Month.</h2>
+      <p class="pw-eyebrow">{{ spotlight.eyebrow | escape }}</p>
+      <h2 id="monthly-spotlight-heading">{{ spotlight.title | escape }}</h2>
     </div>
   </div>
   <div class="pw-image-frame pw-image-landscape">
-    <a href="https://plebware.github.io/author/02-author-plebmachine-user/2026/11/20/authors-month.html" aria-label="Read the Author's Month promotional article">
-      <img src="{{ '/assets/images/authors-month.webp' | relative_url }}"
-           alt="Author's Month — Discover, Create and Connect."
+    <a href="{{ spotlight.link }}" aria-label="{{ spotlight.image_link_label | escape }}">
+      <img src="{{ spotlight.image | relative_url }}"
+           alt="{{ spotlight.image_alt | escape }}"
            loading="eager"
            decoding="async"
            style="display: block; width: 100%; max-width: 100%; height: auto;">
     </a>
   </div>
-  <p class="pw-section-intro">Calling authors, aspiring writers, storytellers and scribes! Discover the writing community, explore creative possibilities and see how technology can make the business of writing a little easier.</p>
+  <p class="pw-section-intro">{{ spotlight.description | escape }}</p>
   <div class="pw-actions">
-    <a class="pw-button" href="https://plebware.github.io/author/02-author-plebmachine-user/2026/11/20/authors-month.html">Explore Author's Month →</a>
+    <a class="pw-button" href="{{ spotlight.link }}">{{ spotlight.button | escape }} →</a>
   </div>
 </section>
 
 <!-- PLEBVOX:END -->
+{% endif %}
 
 <!-- PLEBVOX:START -->
 
