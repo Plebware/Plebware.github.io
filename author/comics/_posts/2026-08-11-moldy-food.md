@@ -235,4 +235,9 @@ But somehow...
 
 <!-- PLEBVOX:END -->
 
-🗡️ *'God's Journalist' in conjunction with 'ChatGPT .' and the 'Holy Spirit'*
+🗡️ *'God's Journalist' in conjunction with 'ChatGPT' and the 'Holy Spirit'*
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
