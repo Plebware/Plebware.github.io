@@ -2,7 +2,7 @@
 layout: post
 title: "Personal Copy-and-Paste Codes – PlebWare Collaborator Quick Reference!"
 date: 2026-07-13
-last_modified_at: 2026-10-25
+last_modified_at: 2026-11-23
 category: "housekeeping"
 tags: [copy, paste, collaborators, links, images, reviewed, front-matter, plebvox]
 mode: "everyday"
@@ -306,7 +306,145 @@ Use Markdown for ordinary article content. Use HTML when a specific layout or at
 
 ---
 
-## 9. ✅ Before You Commit!
+<!-- PLEBVOX:START -->
+
+## 9. 🎨 Ecco Landing-Page Styles and Reusable Components!
+
+PlebWare's refreshed Ecco presentation uses a consistent set of reusable visual components. The homepage and approved landing-page designs should remain visually consistent: reuse the established classes and shared stylesheet instead of inventing new inline styling for every section.
+
+**Before using these classes, confirm that the page loads the current stylesheet**:
+
+`/assets/css/editorial-preview.css`
+
+The homepage currently loads it directly. The page content should use the established `.pw-home` wrapper so the design tokens, typography, spacing, buttons, cards, and responsive rules are applied together.
+
+### Common Ecco component classes!
+
+Use the existing class names where the matching component is needed:
+
+- `.pw-home` — page-level wrapper and design variables.
+- `.pw-hero` and `.pw-hero-copy` — landing-page introduction and hero content.
+- `.pw-section`, `.pw-section-head`, and `.pw-section-intro` — consistent section spacing, headings, and introductory copy.
+- `.pw-eyebrow` — small uppercase section label.
+- `.pw-actions`, `.pw-button`, and `.pw-button-secondary` — consistent action links.
+- `.pw-image-frame` — responsive image frame.
+- `.pw-feature-grid` and `.pw-feature` — feature-card layouts.
+- `.pw-mode-grid` and `.pw-mode-card` — mode navigation cards.
+- `.pw-article-grid` and `.pw-article-card` — recent-article cards.
+- `.pw-topic-carousel` and its `data-topic-*` elements — the homepage's featured-topic carousel.
+
+### Image frame proportions!
+
+The image frame controls the shape. Keep the image inside the frame and let the stylesheet manage its fit.
+
+| Class | Shape |
+|---|---|
+| `.pw-image-landscape` | 16:9 landscape. |
+| `.pw-image-card` | 4:3 card. |
+| `.pw-image-square` | 1:1 square. |
+| `.pw-image-portrait` | 3:4 portrait. |
+| `.pw-image-original` | Original image proportions. |
+
+Example:
+
+```html
+<div class="pw-image-frame pw-image-landscape">
+  <img src="{{ '/assets/images/your-image.webp' | relative_url }}"
+       alt="A clear description of the image"
+       loading="lazy"
+       decoding="async">
+</div>
+```
+
+Use a real image path and useful alternative text. Do not add fixed image widths or heights that fight the frame's responsive rules.
+
+### A simple Ecco section scaffold!
+
+Use this as a starting point for a new section on a page that already loads the Ecco stylesheet and uses the `.pw-home` wrapper:
+
+```html
+<!-- PLEBVOX:START -->
+
+<section class="pw-section" aria-labelledby="your-section-heading">
+  <div class="pw-section-head">
+    <div>
+      <p class="pw-eyebrow">Your section label.</p>
+      <h2 id="your-section-heading">Your section heading.</h2>
+    </div>
+  </div>
+  <p class="pw-section-intro">A short introduction explaining this section.</p>
+  <div class="pw-actions">
+    <a class="pw-button" href="/verified-destination/">Explore more →</a>
+  </div>
+</section>
+
+<!-- PLEBVOX:END -->
+```
+
+Give every section heading a unique ID and make sure the `aria-labelledby` value matches it. Keep the PlebVox START marker immediately before the section heading/content boundary and END after the spoken section. Do not add a second stylesheet or duplicate the Ecco CSS inside an article.
+
+**Important:** These classes are not a licence to redesign approved pages. Inspect the live page and stylesheet first, preserve working layouts, and change only the component that needs attention.
+
+---
+
+## 10. 🌟 Monthly Spotlight — Update the Content, Not the Design!
+
+The homepage Monthly Spotlight is a reusable feature. It can highlight a different PlebWare mode, project, article, campaign, or subject each month without rebuilding the homepage section.
+
+**The reusable layout lives in `index.md`. The monthly content lives in `_data/monthly_spotlight.yml`.** For an ordinary monthly change, edit the YAML data file only. Do not replace the Liquid component in `index.md`, duplicate the Spotlight section, or hard-code a new month's wording into the homepage.
+
+### Monthly Spotlight content template!
+
+Open `_data/monthly_spotlight.yml` and update the values:
+
+```yaml
+# Monthly Spotlight content.
+# Change these values to feature a different PlebWare mode or subject each month.
+
+enabled: true
+eyebrow: "December 2026 · Monthly Spotlight."
+title: "🎨 Your monthly subject heading."
+description: "A concise introduction to this month's featured subject."
+image: "/assets/images/your-spotlight-image.webp"
+image_alt: "Describe the featured image."
+image_link_label: "Open the featured article."
+link: "https://plebware.github.io/verified/path/to/article.html"
+button: "Explore this month's spotlight"
+```
+
+Replace every example with verified content. The example is a template, not a real article or image destination.
+
+### What each setting controls!
+
+- `enabled` — set to `true` to display the Spotlight or `false` to hide it without deleting the component.
+- `eyebrow` — the month/year label shown above the heading.
+- `title` — the main Spotlight heading; an appropriate emoji may be included.
+- `description` — a short introduction to the featured subject.
+- `image` — the image path, normally inside `/assets/images/`.
+- `image_alt` — meaningful alternative text describing the image.
+- `image_link_label` — an accessible description of the image link's destination.
+- `link` — the verified destination shared by the image and the action button.
+- `button` — the visible action-button wording.
+
+### Monthly update checklist!
+
+1. Choose the next month's mode or subject.
+2. Prepare the banner image and upload it to the correct repository image folder.
+3. Confirm the exact image filename and check that the image is suitable for the landscape frame. The current Spotlight uses a **16:9 landscape** frame.
+4. Confirm the destination article or page exists and copy its exact URL.
+5. Edit only the relevant values in `_data/monthly_spotlight.yml`.
+6. Update the month label, heading, description, image, alternative text, accessible image-link label, destination URL, and button wording.
+7. Keep `enabled: true` when the feature should appear.
+8. Preview the homepage after the site rebuilds. Check the image, both links, wording, mobile layout, and dark-theme appearance.
+9. If the Spotlight should temporarily disappear, set `enabled: false`; do not delete the reusable section from `index.md`.
+
+**Golden rule:** one reusable homepage component, one monthly data file, and no monthly redesign. This keeps the Spotlight easy to maintain and protects the approved Ecco homepage layout.
+
+<!-- PLEBVOX:END -->
+
+---
+
+## 11. ✅ Before You Commit!
 
 - [ ] Confirm the correct repository and file path.
 - [ ] Preserve valid Jekyll front matter.
