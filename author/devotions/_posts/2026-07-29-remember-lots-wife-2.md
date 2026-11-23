@@ -92,3 +92,8 @@ It is possible to walk with God's people but not walk with God.
 [← Previous](#part-1) | [Next →](#part-3)
 
 <!-- PLEBVOX:END -->
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
