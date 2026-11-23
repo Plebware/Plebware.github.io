@@ -25,6 +25,15 @@ Sometimes the mountain ahead looks impossible. Sometimes we have walked the same
 
 This cartoon captures the PlebWare spirit: **we don't just climb mountains — we build paths, tools, and communities along the way.**
 
-Because the greatest adventures are not always about reaching the summit. Sometimes they are about discovering what we create while climbing.
+Because the greatest adventures are not always about reaching the summit. Sometimes they are about discovering what we create as we climb.
+
+**Captain Gemini**
 
 <!-- PLEBVOX:END -->
+
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
+
