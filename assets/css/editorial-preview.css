@@ -1,7 +1,6 @@
 /* PlebWare editorial landing pages.
    Scoped to the new Home and Everyday landing pages; article layouts stay readable. */
 
-.page-home-preview .site-banner { display: none; }
 .page-home main,
 .page-everyday main {
   width: min(100%, 1240px);
@@ -515,7 +514,6 @@ main .content img {
 .pw-image-original { height: auto; aspect-ratio: auto; }
 
 /* Preview pages replace the legacy banner with their own hero. */
-.page-everyday-preview .site-banner { display: none; }
 
 @media (max-width: 640px) {
   main > img,
@@ -842,9 +840,6 @@ main .content img {
   .pw-category-card { transition: none; }
 }
 
-/* The production homepage uses its own editorial hero instead of the legacy banner. */
-.page-home .site-banner { display: none; }
-
 
 /* Shared layout rules for the eleven additional mode previews.
    Keep the shared page banner visible; Ecco styling must not suppress it. */
@@ -858,15 +853,22 @@ main .content img {
   .page-mode main { padding-inline: 0; }
 }
 
-/* Monthly Spotlight: a contained banner image, with comfortable phone gutters. */
+/* Monthly Spotlight: percentage-based sizing adapts to every viewport. */
 .pw-monthly-spotlight .pw-image-frame {
-  width: min(100%, 900px);
+  width: 90%;
+  max-width: 100%;
   margin-inline: auto;
   border-radius: 1.25rem;
 }
+.pw-monthly-spotlight .pw-image-frame img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
 @media (max-width: 640px) {
   .pw-monthly-spotlight .pw-image-frame {
-    width: 92%;
+    width: 96%;
     border-radius: 1rem;
   }
 }
