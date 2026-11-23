@@ -24,6 +24,32 @@ description: "An independent publishing and learning hub. Knowledge, technology 
 
 <!-- PLEBVOX:START -->
 
+<section class="pw-section pw-author-month" aria-labelledby="authors-month-heading">
+  <div class="pw-section-head">
+    <div>
+      <p class="pw-eyebrow">November feature · Author's Month.</p>
+      <h2 id="authors-month-heading">✍️ Celebrate Author's Month.</h2>
+    </div>
+  </div>
+  <div class="pw-image-frame pw-image-landscape">
+    <a href="https://plebware.github.io/author/02-author-plebmachine-user/2026/11/20/authors-month.html" aria-label="Read the Author's Month promotional article">
+      <img src="{{ '/assets/images/authors-month.webp' | relative_url }}"
+           alt="Author's Month — Discover, Create and Connect."
+           loading="eager"
+           decoding="async"
+           style="display: block; width: 100%; max-width: 100%; height: auto;">
+    </a>
+  </div>
+  <p class="pw-section-intro">Calling authors, aspiring writers, storytellers and scribes! Discover the writing community, explore creative possibilities and see how technology can make the business of writing a little easier.</p>
+  <div class="pw-actions">
+    <a class="pw-button" href="https://plebware.github.io/author/02-author-plebmachine-user/2026/11/20/authors-month.html">Explore Author's Month →</a>
+  </div>
+</section>
+
+<!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+
 <section class="pw-section" aria-labelledby="welcome-heading">
   <div class="pw-section-head">
     <div>
