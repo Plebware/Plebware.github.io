@@ -2,6 +2,10 @@
 layout: post
 title: "PlebComics 101!"
 date: 2026-06-20
+category: "comics"
+tags: [cartoons, comics, satyre]
+mode: "author"
+author: "Captain Gemini"
 ---
 
 <!-- PLEBVOX:START -->
@@ -510,3 +514,10 @@ Every great comic started with a blank page.
 ----
 
 <!-- PLEBVOX:END -->
+
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
+
