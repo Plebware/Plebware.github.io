@@ -311,3 +311,8 @@ And at 63, I am not finished yet!
 *This is my story, told one project at a time. The Development Journals will continue as I remember more of the things I have built, the problems I have solved, and the lessons I have learned along the way.*
 
 <!-- PLEBVOX:END -->
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
