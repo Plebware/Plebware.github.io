@@ -1,0 +1,13 @@
+# Monthly Spotlight content.
+# Change these values to feature a different PlebWare mode or subject each month.
+# The reusable layout lives in index.md and should not need redesigning.
+
+enabled: true
+eyebrow: "November 2026 · Monthly Spotlight."
+title: "✍️ Celebrate Author's Month."
+description: "Calling authors, aspiring writers, storytellers and scribes! Discover the writing community, explore creative possibilities and see how technology can make the business of writing a little easier."
+image: "/assets/images/authors-month.webp"
+image_alt: "Author's Month — Discover, Create and Connect."
+image_link_label: "Read the Author's Month promotional article."
+link: "https://plebware.github.io/author/02-author-plebmachine-user/2026/11/20/authors-month.html"
+button: "Explore Author's Month"
