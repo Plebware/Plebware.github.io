@@ -162,3 +162,8 @@ And sometimes, when all you have left is enough for three more days, getting thr
 
 *With ChatGPT*
 ```
+<!-- SPACE -->
+
+<!-- REVIEWED -->
+
+<!-- SPACE -->
