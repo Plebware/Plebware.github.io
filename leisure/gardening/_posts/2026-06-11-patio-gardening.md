@@ -5,6 +5,7 @@ title: "Patio Gardening!"
 date: 2026-06-11
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🌱 Patio Gardening: Growing Food in Pots and Cardboard Boxes!
