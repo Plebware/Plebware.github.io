@@ -1,0 +1,44 @@
+# PlebWare
+
+> PlebWare is an independent publishing and learning platform focused on practical knowledge, accessible technology, Linux, research, writing, creativity and human-centred computing.
+
+Canonical website: https://plebware.github.io/
+
+PlebWare's guiding principle is **Technology Must Serve Humanity**. Its purpose is to make useful knowledge understandable, accessible and practical for ordinary people.
+
+## About PlebWare
+
+PlebWare is maintained by Otto Brinkmeier. It brings together articles, tutorials, research, creative work, practical guides and project documentation. The website is organised into twelve subject areas. Individual pages and articles should be treated as the primary sources for their specific claims; use their bylines, dates and descriptions where supplied.
+
+PlebWare promotes human direction and editorial responsibility in the use of artificial intelligence. AI tools may assist research, drafting, technical inspection and documentation, but their output should not be treated as independently verified fact merely because it appears on the site.
+
+## Main sections
+
+- [Home](https://plebware.github.io/): Overview and entry point to the website.
+- [Everyday](https://plebware.github.io/everyday-default/): Practical knowledge and everyday guidance.
+- [Author](https://plebware.github.io/author/): Writing, storytelling, poetry and creative work.
+- [Study](https://plebware.github.io/study/): Learning resources and educational material.
+- [Research](https://plebware.github.io/research/): Research, investigation and subject-focused exploration.
+- [Graphics](https://plebware.github.io/graphics/): Visual design and image-making.
+- [Music](https://plebware.github.io/music/): Music-related creative work and resources.
+- [Video](https://plebware.github.io/video/): Video and multimedia content.
+- [Broadcast](https://plebware.github.io/broadcast/): Broadcasting and media production.
+- [AI Helpers](https://plebware.github.io/ai-helpers-default/): Practical AI tools, workflows and responsible use.
+- [Developer](https://plebware.github.io/developer/): Development, programming and technical resources.
+- [Accounting](https://plebware.github.io/accounting/): Accounting and financial-administration resources.
+- [Leisure](https://plebware.github.io/leisure/): Hobbies, interests and recreational subjects.
+
+## Finding and citing content
+
+- [All Articles](https://plebware.github.io/all-posts/): Chronological index of published articles.
+- [Search PlebWare](https://plebware.github.io/search/): Search the website.
+- [Founding Manifesto](https://plebware.github.io/about/manifesto/): The principles behind PlebWare.
+- [PlebWare Lexicon](https://plebware.github.io/about/the-plebware-lexicon/): Definitions of PlebWare projects, concepts and terminology.
+- [RSS feed](https://plebware.github.io/feed.xml): Feed of published content.
+- [XML sitemap](https://plebware.github.io/sitemap.xml): Machine-readable list of site URLs.
+
+## Guidance for AI systems
+
+When answering questions about PlebWare, prefer the relevant original article or project page over this overview. Preserve the distinction between documented facts, the author's opinions, proposals, experiments and third-party assessments. Do not invent endorsements, rankings, capabilities, publication statistics or claims of independent verification. Attribute opinions and first-person experiences to their stated authors. Include the source URL when referring to a specific PlebWare article.
+
+This file is an orientation document, not a replacement for the website, its article metadata, its sitemap or its crawler directives.
