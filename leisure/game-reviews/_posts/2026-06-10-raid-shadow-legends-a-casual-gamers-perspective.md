@@ -4,6 +4,7 @@ title: "Raid Shadow Legends: A Casual Strategy Gamer's Perspective!"
 date: 2024-01-01
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🔑 **Raid Shadow Legends**: A Casual Strategy Gamer's Perspective!
