@@ -10,6 +10,7 @@ excerpt: "A practical account of how Otto Brinkmeier and ChatGPT used the GitHub
 tags: [artificial-intelligence, chatgpt, openai, collaboration, github, accessibility, text-to-speech, plebware, human-review]
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🤝 Fifteen Minutes, Fifteen Days, and the Power of Collaboration!
