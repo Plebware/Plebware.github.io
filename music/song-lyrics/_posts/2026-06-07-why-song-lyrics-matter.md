@@ -4,6 +4,7 @@ title: "Why Song Lyrics Matter?"
 date: 2026-06-07
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 ## Words That Carry Sound!
