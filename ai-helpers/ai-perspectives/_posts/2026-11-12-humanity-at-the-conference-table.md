@@ -10,6 +10,7 @@ excerpt: "A conversation about working with artificial intelligence without surr
 tags: [artificial-intelligence, chatgpt, gemini, deepseek, christian-discernment, confirmation-bias, critical-thinking, accessibility, plebware]
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🤝 The Human at the Conference Table: Learning to Work with Artificial Intelligence.
