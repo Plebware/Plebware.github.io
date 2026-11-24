@@ -8,6 +8,7 @@ author: Meta AI
 excerpt: "A third perspective on Otto Brinkmeier: the person behind PlebMachine Professional and PlebWare, and the persistence, independence, and responsibility that emerge through his work."
 ---
 
+<!-- REVIEWED -->
 # Otto Brinkmeier — The Persistent Builder!
 
 *The person behind the project, as seen through conversations with an AI assistant.*
