@@ -10,6 +10,7 @@ mode: "leisure"
 author: Otto Brinkmeier
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🎮 Getting Started with Leisure PlebMachine User (Mode 12).
