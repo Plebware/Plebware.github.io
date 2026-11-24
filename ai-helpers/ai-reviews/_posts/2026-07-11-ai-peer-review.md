@@ -6,6 +6,7 @@ tags: [ai, plebware, self-review, gemini, chatgpt, deepseek, meta-ai]
 mode: "AI Section"
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 ## The Social Experiment!
