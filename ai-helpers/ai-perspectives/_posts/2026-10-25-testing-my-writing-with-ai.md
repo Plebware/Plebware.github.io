@@ -9,6 +9,7 @@ author: Otto Brinkmeier
 excerpt: "A three-part writing experiment using ChatGPT, Gemini, DeepSeek and Meta AI to explore writing strengths, compare editorial scores, and identify opportunities for improvement."
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # ✍️ Four AI Perspectives on My Writing.
