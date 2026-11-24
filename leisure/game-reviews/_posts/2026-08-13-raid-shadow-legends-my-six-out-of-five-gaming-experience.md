@@ -4,6 +4,7 @@ title: "A Casual Raider's Journey Through Teleria."
 date: 2026-08-13
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # RAID: Shadow Legends — My Six-Out-of-Five Gaming Experience.
