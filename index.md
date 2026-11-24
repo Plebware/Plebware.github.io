@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PlebWare"
-description: "An independent publishing and learning hub. Knowledge, technology and creativity for ordinary people."
+description: "PlebWare is an independent publishing and learning hub for practical computing, Linux, research, writing, creativity and human-centred technology."
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/editorial-preview.css' | relative_url }}">
