@@ -10,6 +10,7 @@ mode: "ai-helpers"
 author: Otto Brinkmeier
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🤖 Getting Started with AI Helpers PlebMachine User (Mode 09).
