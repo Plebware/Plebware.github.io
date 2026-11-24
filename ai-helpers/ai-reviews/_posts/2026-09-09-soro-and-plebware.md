@@ -9,6 +9,7 @@ author: Otto Brinkmeier
 excerpt: "A fair look at Soro's AI-powered SEO and content automation service, and why its paid, hands-off model does not currently fit the PlebWare philosophy."
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # Soro and PlebWare: A Good Tool That Is Not Our Tool.
