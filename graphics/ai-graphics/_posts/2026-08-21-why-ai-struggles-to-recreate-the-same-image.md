@@ -4,6 +4,7 @@ title: "Why AI Image Generators Struggle to Follow Instructions?"
 date: 2026-08-21
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # Why AI Struggles to Recreate the Same Image.
