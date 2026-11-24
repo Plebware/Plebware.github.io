@@ -8,6 +8,7 @@ author: Otto Brinkmeier
 excerpt: "A positive reflection on an analytical mind, a persistent creative vision, and the practical work of learning and building alongside artificial intelligence."
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🤖 Otto Brinkmeier — The Man, the Mind, and the Mission.
