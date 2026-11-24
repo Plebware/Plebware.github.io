@@ -4,6 +4,7 @@ title: "My Journey Towards GIMP!"
 date: 2026-07-02
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🎨 My Graphic Design Journey!
