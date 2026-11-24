@@ -4,6 +4,7 @@ title: "Gemini Review of PlebWare!"
 date: 2026-06-29
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # PlebWare Deep Dive: A Static Site Renaissance!
