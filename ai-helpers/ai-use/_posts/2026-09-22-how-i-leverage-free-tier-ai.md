@@ -6,6 +6,7 @@ categories: [ai-helpers, ai-use]
 permalink: /ai-helpers/ai-use/2026/09/22/how-i-leverage-free-tier-ai/
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🤖 Building PlebWare With Free AI — A Pensioner's Working AI Stack.
