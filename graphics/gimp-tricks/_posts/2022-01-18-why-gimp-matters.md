@@ -4,6 +4,7 @@ title: "Why GIMP Matters?"
 date: 2022-01-18
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # Creativity Without Barriers!
