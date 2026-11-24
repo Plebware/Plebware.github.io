@@ -10,6 +10,7 @@ mode: "graphics"
 author: Otto Brinkmeier
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🎨 Getting Started with Graphics PlebMachine User (Mode 05).
