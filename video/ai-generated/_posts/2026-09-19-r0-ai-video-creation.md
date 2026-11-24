@@ -4,6 +4,7 @@ title: "R0 AI Video Creation: What Can We Actually Make for Free?"
 date: 2026-09-19
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # Making AI Video Without Spending a Cent.
