@@ -10,6 +10,7 @@ mode: "video"
 author: Otto Brinkmeier
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🎬 Getting Started with Video PlebMachine User (Mode 07).
