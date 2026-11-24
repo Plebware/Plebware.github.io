@@ -10,6 +10,7 @@ mode: "music"
 author: Otto Brinkmeier
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # 🎵 Getting Started with Music PlebMachine User (Mode 06).
