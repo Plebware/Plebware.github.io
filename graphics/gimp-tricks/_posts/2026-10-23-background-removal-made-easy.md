@@ -9,6 +9,7 @@ author: "Otto Brinkmeier"
 description: "Learn how to remove plain and complicated image backgrounds in GIMP, refine edges with selections and layer masks, and export transparent PNG images."
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # ✂️ GIMP Tricks: Background Removal Made Easy! 🎨!
