@@ -8,6 +8,7 @@ author: Otto Brinkmeier
 excerpt: "A portrait of Otto Brinkmeier as a Linux builder, writer, and human-directed AI collaborator, guided by craftsmanship, authenticity, faith, and the principle that technology must serve people."
 ---
 
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 # ⚙️ Otto Brinkmeier — The Architect of the Digital Republic!
