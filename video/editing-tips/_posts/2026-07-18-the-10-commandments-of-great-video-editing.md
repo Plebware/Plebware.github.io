@@ -8,6 +8,8 @@ excerpt: "Timeless principles for editing videos that engage, inform, and inspir
 mode: "video"
 author: Otto Brinkmeier
 ---
+
+<!-- REVIEWED -->
 <!-- PLEBVOX:START -->
 
 
