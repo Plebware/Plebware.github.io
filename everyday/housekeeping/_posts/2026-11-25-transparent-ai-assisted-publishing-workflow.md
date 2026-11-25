@@ -258,7 +258,7 @@ I check the wording, punctuation, factual details, formatting and general presen
 
 Once I have personally reviewed an article and am satisfied with it, I can add the PlebWare human review marker:
 
-<!-- REVIEWED -->
+`<!-- REVIEWED -->`
 
 This marker has a specific meaning.
 
@@ -286,7 +286,7 @@ If something needs correction, it goes back into the editing process.
 
 Only after I have listened to the complete audio and am satisfied with it do I add the separate PlebVox listening-verification marker:
 
-<!---VOXED--->
+`<!---VOXED--->`
 
 This marker has a different meaning from the Human Reviewed marker.
 
