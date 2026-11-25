@@ -8,9 +8,33 @@ description: "Discover PlebWare: an independent publishing and learning hub conn
 
 <div class="pw-home">
 
+<style>
+/* Discover page: place the campaign banner above the introductory text. */
+.pw-home .pw-discover-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.pw-home .pw-discover-hero .pw-hero-media {
+  width: 100%;
+}
+.pw-home .pw-discover-hero .pw-hero-copy {
+  width: 100%;
+  max-width: none;
+}
+</style>
+
+
+
 <!-- PLEBVOX:START -->
 
-<section class="pw-hero" aria-labelledby="discover-hero-heading">
+<section class="pw-hero pw-discover-hero" aria-labelledby="discover-hero-heading">
+  <div class="pw-hero-media">
+    <img src="{{ '/assets/images/hero-image-plebware-marketing.webp' | relative_url }}"
+         alt="Discover PlebWare — a connected world of knowledge, creativity and human-centred technology."
+         fetchpriority="high"
+         decoding="async">
+  </div>
   <div class="pw-hero-copy">
     <p class="pw-eyebrow">An independent publishing and learning hub.</p>
     <h1 id="discover-hero-heading">Knowledge, creativity and technology for ordinary people.</h1>
@@ -19,12 +43,6 @@ description: "Discover PlebWare: an independent publishing and learning hub conn
       <a class="pw-button" href="/everyday-default/">🌿 Start Exploring</a>
       <a class="pw-button pw-button-secondary" href="#explore-the-categories">Explore the Twelve Categories ↓</a>
     </div>
-  </div>
-  <div class="pw-hero-media">
-    <img src="{{ '/assets/images/hero-image-plebware-marketing.webp' | relative_url }}"
-         alt="Discover PlebWare — a connected world of knowledge, creativity and human-centred technology."
-         fetchpriority="high"
-         decoding="async">
   </div>
 </section>
 
