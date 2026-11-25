@@ -17,6 +17,7 @@ description: "PlebWare is an independent publishing and learning hub for practic
     <p class="pw-hero-lead">A place to explore practical knowledge, technology, creativity, stories and ideas. Useful information should be understandable, accessible and available to everyone.</p>
     <div class="pw-actions">
       <a class="pw-button" href="/everyday-default/">🌿 Explore Everyday</a>
+      <a class="pw-button pw-button-secondary" href="/discover-plebware/">🌐 Discover PlebWare</a>
       <a class="pw-button pw-button-secondary" href="#explore-modes">Explore PlebWare ↓</a>
     </div>
   </div>
