@@ -39,3 +39,4 @@ Allow: /
 # ----------------------------------------------------------
 
 Sitemap: https://plebware.github.io/sitemap.xml
+Sitemap: https://plebware.github.io/PlebMachine/sitemap.xml
