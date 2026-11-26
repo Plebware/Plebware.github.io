@@ -41,6 +41,8 @@ Understanding that history helps explain why PlebWare looks beyond technology fo
 
 The articles in this series will examine both the work and the experiences that shaped it. They will distinguish between what Otto remembers, what existing records support and what may reasonably be interpreted from the events. Where a detail is uncertain, it should remain identified as uncertain rather than being turned into a convenient certainty.
 
+For readers who would like to explore the wider philosophy behind the project, [Who or What Is PlebWare?](https://plebware.github.io/everyday/about-plebware/2026/09/17/who-or-what-is-plebware/) explains the human-centred idea at its heart, while the [PlebWare Founding Manifesto](https://plebware.github.io/developer/plebware/2026/06/30/the-plebware-founding-manifesto/) records the project's history, principles and mission.
+
 <!-- PLEBVOX:END -->
 
 <!-- PLEBVOX:START -->
@@ -158,8 +160,13 @@ The chapters will be published progressively. Each will receive its own article,
 
 The story has already appeared in pieces across PlebWare. These existing articles provide useful starting points while the new series is being developed:
 
-- [The Man Behind the Many Paths](https://plebware.github.io/everyday/about-plebware/2026/10/24/the-man-behind-the-many-paths/) — an earlier overview of Otto's varied interests and work.
+- [A Life in the Making](https://plebware.github.io/author/non-fiction/2026/11/19/a-life-in-the-making/) — a broader personal timeline covering childhood, practical projects, railway work, business and later developments.
+- [The Man Behind the Many Paths](https://plebware.github.io/everyday/about-plebware/2026/10/24/the-man-behind-the-many-paths/) — an overview of Otto's varied interests, technical background and creative work.
 - [Otto's Technical Autobiography](https://plebware.github.io/author/development-journals/2026/10/19/ottos-technical-autobiography/) — remembered projects and practical experiments from different stages of life.
+- [Teenage Dreams! — Before the Idea, It Was There](https://plebware.github.io/everyday/news/2026/09/11/before-idea-it-was-there/) — a closer look at the VIC-20, Microsoft BASIC and the young Otto's first computer-programming ambitions.
+- [From Railways to Linux](https://plebware.github.io/everyday/news/2026/06/10/from-railways-to-linux/) — how practical railway experience later informed Otto's approach to computers and Linux.
+- [Who or What Is PlebWare?](https://plebware.github.io/everyday/about-plebware/2026/09/17/who-or-what-is-plebware/) — the philosophy that places the human being at the centre of the technology.
+- [The PlebWare Founding Manifesto](https://plebware.github.io/developer/plebware/2026/06/30/the-plebware-founding-manifesto/) — the history, principles, mission and vision behind the project.
 - [The Human Behind the Machine](https://plebware.github.io/author/authors-desk/2026/10/26/the-human-behind-the-machine/) — reflections on writing, faith, technology and artificial intelligence.
 - [Otto Brinkmeier — The Persistent Builder](https://plebware.github.io/ai-helpers/ai-perspectives/2026/10/14/otto-brinkmeier-the-persistent-builder/) — an AI-generated perspective that offers a different view of the person behind the projects.
 
