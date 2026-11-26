@@ -267,6 +267,15 @@ The engineer's son was only the beginning.
 
 <!-- PLEBVOX:START -->
 
+## 🔗 Related Reading.
+
+These articles explore related parts of the story beyond this chapter:
+
+- [A Life in the Making](https://plebware.github.io/author/non-fiction/2026/11/19/a-life-in-the-making/) — a wider personal timeline, including childhood construction projects, early electronics and railway training.
+- [Otto's Technical Autobiography](https://plebware.github.io/author/development-journals/2026/10/19/ottos-technical-autobiography/) — practical experiments and projects that continued the same curiosity.
+- [The Man Behind the Many Paths](https://plebware.github.io/everyday/about-plebware/2026/10/24/the-man-behind-the-many-paths/) — an overview of how engineering, writing and technology later connected.
+- [Teenage Dreams! — Before the Idea, It Was There](https://plebware.github.io/everyday/news/2026/09/11/before-idea-it-was-there/) — the next stage of the computer story, including the VIC-20 and programming.
+
 ## 📚 Part of the Biography Series.
 
 This article forms part of [Otto — The Man Behind PlebWare](https://plebware.github.io/author/non-fiction/2026/11/26/otto-the-man-behind-plebware/), a developing biographical series exploring the experiences, influences, setbacks, beliefs and ambitions behind the person who built PlebWare.
