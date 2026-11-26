@@ -287,8 +287,7 @@ The following resources provide additional background and context.
 
 ### 📖 The Personal Journey.
 
-- [Welcome Aboard the Journey](https://plebware.github.io/everyday/about-plebware/) — a personal introduction to the experiences and values behind PlebWare.
-- [The Man Behind the Many Paths](https://plebware.github.io/everyday/about-plebware/) — a broader look at Otto's technical, creative, and personal journey.
+- [Explore the About PlebWare collection](https://plebware.github.io/everyday/about-plebware/) — discover articles about the people, experiences, ideas, and development behind the project.
 - [Otto's Technical Autobiography](https://plebware.github.io/author/development-journals/) — explore the development journals and practical projects behind the work.
 
 ### 🔑 The PlebWare Idea and Philosophy.
