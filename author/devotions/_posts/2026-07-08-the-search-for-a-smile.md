@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "The Search for a Smile!"
+title: "The Search for a Smile — A Devotional Reflection"
 date: 2026-07-08
+description: "A Christian reflection on rediscovering joy through God’s daily mercies, ordinary moments and the decision to keep going in faith."
 ---
 
 <!-- PLEBVOX:START -->
