@@ -55,7 +55,7 @@ That curiosity was practical as well as imaginative. He experimented whenever he
 
 Those early experiences were followed by railway apprenticeship and working life, where technical curiosity met formal training, real equipment and practical responsibility.
 
-The first chapter will explore these beginnings in greater depth.
+Read [Chapter One — The Engineer's Son](https://plebware.github.io/author/non-fiction/2026/11/26/the-engineers-son/) for the full story of these beginnings.
 
 <!-- PLEBVOX:END -->
 
