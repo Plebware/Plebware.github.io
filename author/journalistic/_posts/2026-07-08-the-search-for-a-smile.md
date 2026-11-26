@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "The Search for a Smile!"
+title: "The Search for a Smile — A Johannesburg Field Reflection"
 date: 2026-07-08
+description: "A personal field reflection from Crown Mines on winter mornings, perseverance, creative work and finding reasons to continue."
 ---
 
 <!-- PLEBVOX:START -->
