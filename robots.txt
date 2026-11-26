@@ -40,3 +40,6 @@ Allow: /
 
 Sitemap: https://plebware.github.io/sitemap.xml
 Sitemap: https://plebware.github.io/PlebMachine/sitemap.xml
+Sitemap: https://plebware.github.io/PlebCircle/sitemap.xml
+Sitemap: https://plebware.github.io/otto/sitemap.xml
+Sitemap: https://plebware.github.io/juelz-plebcore/sitemap.xml
