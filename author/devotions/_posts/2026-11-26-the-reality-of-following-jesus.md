@@ -579,4 +579,257 @@ And when somebody asks what it means to be a Christian, may we not have to rely 
 
 ## 💬 WhatsApp Copy-and-Paste Version.
 
-The complete devotion above is also suitable for WhatsApp sharing. To preserve the copy-and-paste conventions, use the same full text with WhatsApp bold formatting (single asterisks), italic prayers (underscores), and the poem as plain text inside the single outer code fence. The seven Scripture quotations and reflections are included in the main devotion above.
+Copy the complete message inside this single code block. The poem is plain text; bold and italic formatting follow WhatsApp conventions.
+
+```text
+✝️ *THE REALITY OF FOLLOWING JESUS: A CHRIST-CENTRED LIFE!*
+
+📖 *TODAY'S DEVOTION.*
+*Theme:* Knowing Jesus, understanding the cost of discipleship, and making Him known through the way we live.
+*Central Message:* Christianity is not simply what we profess. It is knowing Jesus, accepting His teachings, and allowing our lives to testify to His love, grace and truth.
+*Today's Challenge:* Are we walking the talk, or merely talking the walk?
+
+━━━━━━━━━━━━━━━━━━
+
+🙏 *1. OPENING PRAYER.*
+
+_Heavenly Father, I come before You and ask: help us to be real, genuine and honourable Christians so that we bring honour to Your name. May You be glorified by our lives, for unto You should be all honour, glory and praise._
+
+_Help us to be quick to forgive and slow to anger. Help us to keep forgiving, irrespective of how many times people perpetrate the same evils against us, so that we may receive forgiveness and extend forgiveness to others._
+
+_Help us understand what it means to be children of the Most High God, followers and disciples of Jesus Christ. Guide us to be examples. We know we are not saved by works, but by Your gift of salvation; our works demonstrate our faithfulness. Help us to be faithful to You, Your Word and the teachings of Jesus. In Jesus' precious name. Amen._
+
+━━━━━━━━━━━━━━━━━━
+
+❤️ *2. TODAY'S THOUGHT: KNOWING JESUS AND MAKING HIM KNOWN!*
+
+The reality of following Jesus is about two fundamental things: *knowing Jesus and making Him known to others.* Before we understand discipleship, however, we need to understand its cost.
+
+Jesus never promised a life free from difficulties, criticism or opposition. Christians may experience ridicule, mockery, accusations and rejection because they choose to live according to His teachings. That too is part of discipleship.
+
+🪢 *UNDERSTANDING THE YOKE OF JESUS.*
+> "Come unto me, all ye that labour and are heavy laden, and I will give you rest."
+> "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls."
+> "For my yoke is easy, and my burden is light."
+> *Matthew 11:28–30 (KJV).*
+
+His yoke does not mean a life without responsibility or hardship. It represents submission, partnership and direction. We willingly submit to Christ and allow Him to guide us. We are not promised an easy road, but we do not walk it alone.
+
+✝️ *ASSURANCE OF SALVATION.*
+
+Have we genuinely accepted Jesus Christ as Lord and Saviour? Salvation is God's gift, received through faith. Revisiting the sinner's prayer can help someone reaffirm their faith, but salvation does not depend on repeating particular words or performing a ritual. Our assurance rests in Jesus Christ, His sacrifice and God's promises.
+
+💧 *UNDERSTANDING WATER BAPTISM.*
+
+Baptism is not merely being plunged into water and brought out again. It represents our identification with Christ's death, burial and resurrection. Going beneath the water symbolises the death and burial of our old life; emerging represents new life in Christ. Baptism is a public declaration of faith, not a substitute for faith or a guarantee produced by the physical act itself.
+
+👣 *WALKING THE TALK!*
+
+It is pointless calling ourselves Christians if we cannot love our neighbours. Church attendance, songs and worship matter, but our Christianity must extend beyond the church building.
+
+We are saved by grace through faith, not by works. Yet our works are powerful testimonies of what God is doing in our lives. People notice our honesty, forgiveness, compassion, promises and treatment of others. We must be good stewards, obedient servants and willing to make sacrifices.
+
+*Be quick to forgive and slow to anger.* Forgiveness does not mean approving wrongdoing, tolerating abuse or abandoning healthy boundaries. It means refusing to let bitterness rule our hearts.
+
+🤝 *A LESSON FROM AN UNEXPECTED ENCOUNTER.*
+
+While preparing this devotion, a gentleman named Glenn approached me. He was living on the streets and asked for money for food. I am struggling financially myself, but his situation reminded me not to judge people without knowing their story.
+
+We may not have money to give everybody, and we cannot solve every problem. But we can listen, encourage and treat people with dignity. We can say: "Brother, I am struggling financially myself, and I don't have cash to give you. But I will pray for you. Don't lose hope. Keep believing that things can change."
+
+*The point is not how much we have to give. The point is whether we have a heart willing to care.*
+
+🔥 *THE REALITY OF DISCIPLESHIP.*
+
+Following Jesus is a daily commitment: choosing truth, forgiveness and kindness; being faithful when nobody is watching; and living our Christianity rather than advertising it.
+
+*We need to walk the talk, not talk the walk.*
+
+━━━━━━━━━━━━━━━━━━
+
+⛪ *3. A LITTLE CHURCH HISTORY: THE COST OF FOLLOWING CHRIST!*
+
+The early Church was not built on popularity, wealth or social acceptance. Ordinary men and women believed in Jesus and stood firm despite suspicion, ridicule, discrimination and, in different times and places, severe persecution.
+
+Believers gathered, shared what they had, supported one another and proclaimed the Gospel. Acts 11:26 tells us that the disciples were first called Christians in Antioch. Baptism became an important public expression of Christian identity and commitment.
+
+Christian traditions have understood baptism's sacramental meaning in different ways, but its connection with Christ and Christian life remains central. The Methodist tradition emphasises grace, personal faith, spiritual growth, love and service. John Wesley strongly emphasised practical holiness: genuine faith should change how we live, treat others and serve God.
+
+*We are not simply members of a religious organisation. We are disciples of Jesus Christ, called to live according to His teachings.*
+
+━━━━━━━━━━━━━━━━━━
+
+🖋️ *4. AN ORIGINAL POEM: THE FOOTSTEPS OF A DISCIPLE!*
+
+I did not choose the easiest road,
+Nor ask for a life without a load.
+I chose to follow Christ my King,
+And let His truth in my heart take wing.
+
+The world may laugh, the world may scorn,
+But faith in Christ is daily born.
+Not in the words that we proclaim,
+But in the lives that honour His name.
+
+A helping hand, a heart that cares,
+A whispered prayer, a burden shared.
+A willingness to forgive and mend,
+A faithful heart until the end.
+
+Not by our works is grace obtained,
+For Christ alone has paid the claim.
+But through our deeds, His light is shown,
+And seeds of love and truth are sown.
+
+So let me walk where Jesus leads,
+And serve the world through humble deeds.
+Not just in church, where praises ring,
+But every day, in everything.
+
+For this is what my faith must be,
+A life of Christ for all to see.
+Not merely words, nor empty art,
+But Jesus living in my heart.
+
+━━━━━━━━━━━━━━━━━━
+
+📖 *5. SEVEN SCRIPTURES FOR A CHRIST-CENTRED LIFE!*
+
+*1. 🪢 THE YOKE OF CHRIST — MATTHEW 11:28–30 (KJV).*
+> "Come unto me, all ye that labour and are heavy laden, and I will give you rest."
+> "For my yoke is easy, and my burden is light."
+*Reflection:* Jesus offers rest in Him. Following Christ requires submission, obedience and trust; we do not carry our burdens alone.
+*Question:* Am I allowing Jesus to guide my life, or am I trying to carry everything myself?
+
+*2. ✝️ THE COST OF DISCIPLESHIP — LUKE 9:23–24 (KJV).*
+> "If any man will come after me, let him deny himself, and take up his cross daily, and follow me."
+> "For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it."
+*Reflection:* Following Jesus is a daily decision. Taking up our cross means choosing obedience, even when it requires sacrifice.
+*Question:* Am I prepared to follow Jesus when it becomes uncomfortable or unpopular?
+
+*3. 🛡️ EXPECTING OPPOSITION — JOHN 15:18–20 (KJV).*
+> "If the world hate you, ye know that it hated me before it hated you."
+> "The servant is not greater than his lord."
+*Reflection:* Jesus warned that disciples would face opposition. We must respond to ridicule with humility, truth and respect, not hostility.
+*Question:* When my faith is challenged, do I respond with Christlike character?
+
+*4. ❤️ ASSURANCE OF SALVATION — ROMANS 10:9–13 (KJV).*
+> "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
+> "For whosoever shall call upon the name of the Lord shall be saved."
+*Reflection:* We cannot earn salvation through deeds or ceremonies. We receive it through faith in Christ and His finished work.
+*Question:* Do I genuinely understand and trust the salvation Jesus offers?
+
+*5. 💧 DYING AND RISING WITH CHRIST — ROMANS 6:3–4 (KJV).*
+> "Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?"
+> "...even so we also should walk in newness of life."
+*Reflection:* Baptism represents our identification with Christ's death and resurrection and reminds us to live a new life of obedience, love and spiritual growth.
+*Question:* Does my daily life reflect the newness of life I profess through Christ?
+
+*6. 🤲 FAITH DEMONSTRATED THROUGH WORKS — JAMES 2:17–18 (KJV).*
+> "Even so faith, if it hath not works, is dead, being alone."
+> "...I will shew thee my faith by my works."
+*Reflection:* Genuine faith produces action. We are not saved by works, but honesty, compassion, generosity, forgiveness and service demonstrate our faith.
+*Question:* If somebody examined my actions, would they recognise my Christian faith?
+
+*7. 🕊️ FORGIVENESS AND MERCY — MATTHEW 18:21–22 (KJV).*
+> "Lord, how oft shall my brother sin against me, and I forgive him? till seven times?"
+> "I say not unto thee, Until seven times: but, Until seventy times seven."
+*Reflection:* Forgiveness must not be limited by a convenient number. It does not require us to remain in harmful situations, but we must resist bitterness.
+*Question:* Is there somebody I need to begin forgiving?
+
+━━━━━━━━━━━━━━━━━━
+
+💡 *6. PRACTICAL TIP: LET YOUR ACTIONS SPEAK!*
+
+1. ❤️ *Practise compassion.* Treat people with dignity, whatever their circumstances.
+2. 🤝 *Forgive deliberately.* Do not let resentment take root.
+3. 🗣️ *Speak truthfully.* Keep promises and avoid gossip.
+4. 🙏 *Pray for others.* Remember the sick, homeless, unemployed and lonely.
+5. 🌱 *Be a good steward.* Care for your time, finances, talents and relationships.
+
+We cannot help everybody, but we can make a difference in somebody's life.
+
+━━━━━━━━━━━━━━━━━━
+
+👣 *7. PRACTICAL APPLICATION: BECOMING A LIVING TESTIMONY!*
+
+Imagine somebody observing your behaviour without knowing which church you attend or how many Bible verses you can quote. All they see is how you behave.
+
+Would they see honesty, patience, kindness, forgiveness and compassion? Would they see someone prepared to help another person without expecting anything in return?
+
+*Our lives should be a reflection of the teachings of Jesus.*
+
+We are imperfect. We make mistakes and fall short. Being a Christian means acknowledging our shortcomings, repenting, seeking forgiveness and continuing to grow in Christ. We do not demonstrate Christianity by pretending to be perfect, but by allowing God to work in our imperfect lives.
+
+━━━━━━━━━━━━━━━━━━
+
+📝 *8. TODAY'S TO-DO: SEVEN ACTIONS FOR A CHRIST-CENTRED LIFE!*
+
+☐ 🙏 Pray and examine your relationship with Jesus.
+☐ 📖 Read the seven Scripture references and reflect on them.
+☐ ❤️ Encourage somebody who needs kindness or compassion.
+☐ 🕊️ Consider whether there is somebody you need to forgive.
+☐ 🤝 Perform one act of kindness without expecting anything in return.
+☐ 💧 Reflect on your baptism and new life in Christ.
+☐ ✝️ Ask whether your actions today have honoured Jesus.
+
+*Sometimes the smallest acts of genuine love speak the loudest.*
+
+━━━━━━━━━━━━━━━━━━
+
+👑 *9. THE HEAVENLY VIEW: WHAT DOES GOD SEE IN OUR LIVES?*
+
+God sees the heart. He knows our struggles, weaknesses and private battles. He knows when we forgive instead of retaliate, show kindness without reward, stand for truth at a cost, pray for someone who hurt us, and serve without recognition.
+
+These things do not purchase salvation. Salvation is God's gift through Jesus Christ. But they are expressions of a heart being transformed by grace.
+
+One day, the applause of the world will mean very little. What will matter is whether we have remained faithful to Christ.
+
+*May our Christianity be recognised not merely by our words, but by the love, integrity and compassion we demonstrate.*
+
+━━━━━━━━━━━━━━━━━━
+
+🙏 *10. CLOSING PRAYER: LORD, MAKE US GENUINE FOLLOWERS OF JESUS!*
+
+_Heavenly Father,_
+
+_I come before You in humility and gratitude, thanking You for the gift of salvation through Your Son, Jesus Christ._
+
+_Examine our hearts and reveal anything that does not reflect Your character. Remove pride, bitterness, resentment, selfishness and anger. Replace these things with humility, patience, compassion and love._
+
+_Teach us what it truly means to follow Jesus. Help us understand that Christianity is not merely a religion, a building or a title. It is a relationship with You and a daily commitment to Your Word._
+
+_Give us courage when our faith is challenged. When people ridicule us, help us respond with grace. When we are offended, help us forgive. When we encounter suffering, help us show compassion._
+
+_Open our eyes to the needs of those around us. Do not let us become so occupied with our own struggles that we overlook the suffering of others. Teach us to encourage, assist and support those who need a helping hand._
+
+_Help us become good stewards of everything You have entrusted to us. May our words be truthful, our intentions sincere and our actions honourable._
+
+_Above all, help us to walk the talk. Let our lives become a testimony of Your grace. May those who encounter us see something of the love of Jesus through our conduct._
+
+_When we stumble, lift us up. When discouraged, strengthen us. When angry, remind us of Your patience. When we struggle to forgive, remind us of the forgiveness we have received through Christ._
+
+_Thank You for Your mercy, patience and unfailing love. May our lives bring honour to Your name. May Jesus Christ be glorified in everything we do._
+
+_I ask all these things in the precious and mighty name of our Lord and Saviour, Jesus Christ. Amen._
+
+━━━━━━━━━━━━━━━━━━
+
+🌟 *11. FINAL THOUGHT: BE THE CHRISTIAN YOU PROFESS TO BE!*
+
+Following Jesus is not about pretending to be perfect. It is about accepting His grace, trusting His promises, learning His teachings and allowing Him to transform the way we live.
+
+We are not saved because we are good people. We are saved because Jesus Christ is our Saviour. Having received that gift, let us live lives that honour Him.
+
+Let us be faithful servants, responsible stewards, compassionate neighbours and examples of Christlike living. Let us be quick to forgive, slow to anger and willing to help those in need.
+
+*May they see the answer in the way we live.*
+
+✝️ *KNOW JESUS. FOLLOW JESUS. MAKE JESUS KNOWN.*
+❤️ *WALK THE TALK, NOT TALK THE WALK.*
+
+*God's Journalist — Cody — Dei Scriptor*
+_Sanguine et Igne Veritas Revelata._
+_Created with ChatGPT and the Holy Spirit._
+*PlebWare — Technology Must Serve Humanity. Christ Above All.*
+```
