@@ -6,6 +6,50 @@ description: "PlebWare is an independent publishing and learning hub for practic
 
 <link rel="stylesheet" href="{{ '/assets/css/editorial-preview.css' | relative_url }}">
 
+<style>
+/* Homepage galleries: artwork keeps its intrinsic proportions. */
+.pw-home .pw-gallery { width:100%; margin:1.25rem auto 0; overflow:hidden; border:1px solid var(--pw-line); border-radius:1.25rem; background:var(--pw-paper); box-shadow:0 10px 30px rgba(20,40,35,.07); }
+.pw-home .pw-gallery-stage { position:relative; display:flex; align-items:center; justify-content:center; min-width:0; min-height:0; overflow:hidden; margin-inline:auto; background:var(--pw-soft); touch-action:pan-y; }
+.pw-home .pw-mode-stage { width:min(100%,60vh); aspect-ratio:4 / 5; }
+.pw-home .pw-comic-stage { width:min(100%,133.333vh); aspect-ratio:16 / 9; }
+.pw-home .pw-gallery-stage img { display:block !important; flex:0 1 auto; width:auto !important; height:auto !important; min-width:0 !important; min-height:0 !important; max-width:100% !important; max-height:100% !important; object-fit:unset !important; object-position:center; aspect-ratio:auto !important; }
+.pw-home .pw-gallery-stage img[hidden] { display:none; }
+.pw-home .pw-gallery-stage a { display:flex; width:100%; height:100%; min-width:0; min-height:0; align-items:center; justify-content:center; }
+.pw-home .pw-gallery-expand { position:absolute; z-index:3; right:.8rem; bottom:.8rem; border:1px solid rgba(255,255,255,.65); border-radius:999px; background:rgba(20,30,27,.84); color:white; padding:.6rem .85rem; font-weight:700; cursor:pointer; }
+.pw-home .pw-gallery-arrow { position:absolute; z-index:2; top:50%; transform:translateY(-50%); display:grid; place-items:center; width:clamp(2.65rem,5vw,3.5rem); height:clamp(2.65rem,5vw,3.5rem); border:1px solid rgba(255,255,255,.7); border-radius:50%; background:rgba(20,30,27,.82); color:#fff; font-size:2rem; line-height:1; cursor:pointer; }
+.pw-home .pw-gallery-arrow.prev { left:.8rem; } .pw-home .pw-gallery-arrow.next { right:.8rem; }
+.pw-home .pw-gallery-caption { display:flex; justify-content:space-between; align-items:center; gap:1rem; padding:1rem 1.15rem; }
+.pw-home .pw-gallery-caption h3 { margin:.15rem 0; }
+.pw-home .pw-gallery-caption p { margin:.2rem 0 0; color:var(--pw-muted); }
+.pw-home .pw-gallery-meta { white-space:nowrap; color:var(--pw-muted); font-size:.85rem; font-weight:700; }
+.pw-home .pw-gallery-progress { height:4px; background:var(--pw-soft); }
+.pw-home .pw-gallery-progress span { display:block; width:8.333%; height:100%; background:var(--pw-accent); transition:width .2s ease; }
+.pw-home .pw-comic-stage img { cursor:zoom-in; }
+.pw-home .pw-comic-caption { min-height:4.5rem; }
+.pw-home .pw-image-viewer { position:fixed; inset:0; z-index:99999; display:none; width:100vw; height:100dvh; max-width:none; max-height:none; margin:0; padding:clamp(.5rem,2vw,1.25rem); border:0; background:rgba(8,13,11,.97); color:white; }
+.pw-home .pw-image-viewer[open] { display:grid; grid-template-rows:auto minmax(0,1fr) auto; gap:.5rem; }
+.pw-home .pw-image-viewer::backdrop { background:rgba(0,0,0,.9); }
+.pw-home .pw-image-viewer-top,.pw-home .pw-image-viewer-bottom { display:flex; justify-content:space-between; align-items:center; gap:1rem; }
+.pw-home .pw-image-viewer button { border:1px solid rgba(255,255,255,.35); border-radius:999px; background:#25332d; color:white; padding:.65rem 1rem; font-weight:700; cursor:pointer; }
+.pw-home .pw-image-viewer-wrap { display:flex; align-items:center; justify-content:center; min-width:0; min-height:0; overflow:auto; overscroll-behavior:contain; -webkit-overflow-scrolling:touch; touch-action:pan-x pan-y; }
+.pw-home .pw-image-viewer-wrap img { display:block !important; flex:0 1 auto; width:auto !important; height:auto !important; min-width:0 !important; min-height:0 !important; max-width:100% !important; max-height:100% !important; margin:auto; object-fit:unset !important; aspect-ratio:auto !important; }
+.pw-home .pw-image-viewer-title { margin:0; font-size:1rem; }
+.pw-home .pw-image-viewer-bottom { justify-content:center; color:#d8e0db; font-size:.9rem; }
+.pw-home .pw-gallery button:focus-visible,.pw-home .pw-gallery a:focus-visible,.pw-home .pw-image-viewer button:focus-visible { outline:3px solid var(--pw-accent); outline-offset:3px; }
+@media (orientation:landscape) and (max-height:520px) {
+ .pw-home .pw-mode-stage { width:min(100%,46.4vh); }
+ .pw-home .pw-comic-stage { width:min(100%,103.111vh); }
+}
+@media (max-width:560px) {
+ .pw-home .pw-gallery-caption { align-items:flex-start; flex-direction:column; gap:.35rem; padding:.8rem; }
+ .pw-home .pw-gallery-meta { font-size:.78rem; white-space:normal; }
+ .pw-home .pw-gallery-arrow { width:2.65rem; height:2.65rem; }
+ .pw-home .pw-gallery-arrow.prev { left:.45rem; } .pw-home .pw-gallery-arrow.next { right:.45rem; }
+ .pw-home .pw-gallery-expand { right:.5rem; bottom:.5rem; padding:.5rem .7rem; }
+}
+@media (prefers-reduced-motion:reduce) { .pw-home .pw-gallery-progress span { transition:none; } }
+</style>
+
 <script>document.body.classList.add('page-home');</script>
 
 <div class="pw-home">
@@ -63,79 +107,151 @@ description: "PlebWare is an independent publishing and learning hub for practic
   </div>
   <p class="pw-section-intro">PlebWare brings together everyday guidance, learning resources, research, writing, creative work and practical technology. Browse by interest, follow a subject, or simply see what catches your eye.</p>
 
-  <div class="pw-topic-carousel" data-topic-carousel aria-label="Featured PlebWare topics">
-    <div class="pw-topic-stage">
-      <a class="pw-topic-image-link" data-topic-link href="/everyday-default/" aria-label="Explore Everyday knowledge">
-        <img data-topic-image src="{{ '/assets/images/01-everyday.webp' | relative_url }}" alt="Everyday knowledge and practical life" fetchpriority="high">
-      </a>
-      <button class="pw-carousel-arrow pw-carousel-prev" type="button" data-topic-prev aria-label="Previous featured topic">‹</button>
-      <button class="pw-carousel-arrow pw-carousel-next" type="button" data-topic-next aria-label="Next featured topic">›</button>
+  <div class="pw-gallery" data-gallery="modes">
+    <div class="pw-gallery-stage pw-mode-stage">
+      <a data-main-link href="/everyday-default/" aria-label="Open Everyday mode"><img data-main-image src="{{ '/assets/images/01-everyday.webp' | relative_url }}" alt="PlebWare Everyday mode" fetchpriority="high"></a>
+      <button class="pw-gallery-arrow prev" type="button" data-prev aria-label="Previous mode">‹</button>
+      <button class="pw-gallery-arrow next" type="button" data-next aria-label="Next mode">›</button>
+      <button class="pw-gallery-expand" type="button" data-expand>⛶ Expand image</button>
     </div>
-    <div class="pw-topic-caption" aria-live="polite">
-      <div>
-        <p class="pw-eyebrow">Featured topic <span data-topic-count>1 / 12</span></p>
-        <h3><a data-topic-title href="/everyday-default/">Everyday knowledge.</a></h3>
-        <p data-topic-description>Useful ideas and practical guidance for ordinary life.</p>
-      </div>
-      <span class="pw-topic-hint">Select the image to explore.</span>
+    <div class="pw-gallery-caption" aria-live="polite">
+      <div><p class="pw-eyebrow">Featured mode · <span data-count>1 / 12</span></p><h3><a data-title-link href="/everyday-default/">Everyday.</a></h3><p data-description>Practical knowledge and useful skills for everyday life.</p></div>
+      <span class="pw-gallery-meta">Select the image to explore.</span>
     </div>
-    <div class="pw-carousel-progress" aria-hidden="true"><span data-topic-progress></span></div>
+    <div class="pw-gallery-progress" aria-hidden="true"><span data-progress></span></div>
   </div>
-  <script>
-  (() => {
-    const root = document.querySelector('[data-topic-carousel]');
-    if (!root || root.dataset.ready === 'true') return;
-    root.dataset.ready = 'true';
-    const topics = [
-      { title: 'Everyday.', description: 'Practical knowledge and useful skills for everyday life.', image: "{{ '/assets/images/01-everyday.webp' | relative_url }}", alt: 'PlebWare Everyday mode', url: '/everyday-default/' },
-      { title: 'Author.', description: 'Writing, storytelling, poetry and the craft of words.', image: "{{ '/assets/images/02-author.webp' | relative_url }}", alt: 'PlebWare Author mode', url: '/author/' },
-      { title: 'Study.', description: 'Learning resources, lessons and guided understanding.', image: "{{ '/assets/images/03-study.webp' | relative_url }}", alt: 'PlebWare Study mode', url: '/study/' },
-      { title: 'Research.', description: 'Investigation, evidence, discovery and deeper questions.', image: "{{ '/assets/images/04-research.webp' | relative_url }}", alt: 'PlebWare Research mode', url: '/research/' },
-      { title: 'Graphics.', description: 'Visual design, illustration and image-making.', image: "{{ '/assets/images/05-graphics.webp' | relative_url }}", alt: 'PlebWare Graphics mode', url: '/graphics/' },
-      { title: 'Music.', description: 'Music creation, sound and audio projects.', image: "{{ '/assets/images/06-music.webp' | relative_url }}", alt: 'PlebWare Music mode', url: '/music/' },
-      { title: 'Video.', description: 'Video creation, editing and visual storytelling.', image: "{{ '/assets/images/07-video.webp' | relative_url }}", alt: 'PlebWare Video mode', url: '/video/' },
-      { title: 'Broadcast.', description: 'Radio, communication and publishing to an audience.', image: "{{ '/assets/images/08-broadcast.webp' | relative_url }}", alt: 'PlebWare Broadcast mode', url: '/broadcast/' },
-      { title: 'AI Helpers.', description: 'Practical AI assistants, workflows and useful tools.', image: "{{ '/assets/images/09-ai-helpers.webp' | relative_url }}", alt: 'PlebWare AI Helpers mode', url: '/ai-helpers/' },
-      { title: 'Developer.', description: 'Software, coding, systems and digital tools.', image: "{{ '/assets/images/10-developer.webp' | relative_url }}", alt: 'PlebWare Developer mode', url: '/developer/' },
-      { title: 'Accounting.', description: 'Financial records, calculations and organisation.', image: "{{ '/assets/images/11-accounting.webp' | relative_url }}", alt: 'PlebWare Accounting mode', url: '/accounting/' },
-      { title: 'Leisure.', description: 'Hobbies, recreation, games and time well spent.', image: "{{ '/assets/images/12-leisure.webp' | relative_url }}", alt: 'PlebWare Leisure mode', url: '/leisure/' }
-    ];
-    let current = 0;
-    const image = root.querySelector('[data-topic-image]');
-    const link = root.querySelector('[data-topic-link]');
-    const title = root.querySelector('[data-topic-title]');
-    const description = root.querySelector('[data-topic-description]');
-    const count = root.querySelector('[data-topic-count]');
-    const progress = root.querySelector('[data-topic-progress]');
-    const show = (index) => {
-      current = (index + topics.length) % topics.length;
-      const topic = topics[current];
-      image.src = topic.image;
-      image.alt = topic.alt;
-      link.href = topic.url;
-      link.setAttribute('aria-label', 'Open ' + topic.title);
-      title.textContent = topic.title;
-      title.href = topic.url;
-      description.textContent = topic.description;
-      count.textContent = (current + 1) + ' / ' + topics.length;
-      progress.style.width = (((current + 1) / topics.length) * 100) + '%';
-    };
-    root.querySelector('[data-topic-prev]').addEventListener('click', () => show(current - 1));
-    root.querySelector('[data-topic-next]').addEventListener('click', () => show(current + 1));
-    let startX = 0;
-    root.querySelector('.pw-topic-stage').addEventListener('touchstart', event => {
-      startX = event.changedTouches[0].clientX;
-    }, { passive: true });
-    root.querySelector('.pw-topic-stage').addEventListener('touchend', event => {
-      const distance = event.changedTouches[0].clientX - startX;
-      if (Math.abs(distance) > 45) show(current + (distance < 0 ? 1 : -1));
-    }, { passive: true });
-    show(0);
-  })();
-  </script>
-</section>
 
 <!-- PLEBVOX:END -->
+
+<!-- PLEBVOX:START -->
+<section class="pw-section" aria-labelledby="comic-gallery-heading">
+  <div class="pw-section-head">
+    <div><p class="pw-eyebrow">Stories in pictures.</p><h2 id="comic-gallery-heading">The PlebWare comic gallery.</h2></div>
+  </div>
+  <p class="pw-section-intro">A visual collection of published illustrations from Author → Comics. Browse the artwork without leaving the homepage.</p>
+  <div class="pw-gallery" data-gallery="comics">
+    <div class="pw-gallery-stage pw-comic-stage">
+      <img data-comic-image src="" alt="" hidden>
+      <button class="pw-gallery-arrow prev" type="button" data-prev aria-label="Previous comic">‹</button>
+      <button class="pw-gallery-arrow next" type="button" data-next aria-label="Next comic">›</button>
+      <button class="pw-gallery-expand" type="button" data-expand>⛶ Expand image</button>
+    </div>
+    <div class="pw-gallery-caption pw-comic-caption">
+      <div><p class="pw-eyebrow">Author Comics · <span data-count>Loading gallery…</span></p><h3 data-comic-title>Finding published comics…</h3><p>Selected artwork from the published comic collection.</p></div>
+      <span class="pw-gallery-meta">Display only.</span>
+    </div>
+    <div class="pw-gallery-progress" aria-hidden="true"><span data-progress></span></div>
+  </div>
+  <div hidden aria-hidden="true" id="pw-comic-sources">
+    {% assign comic_posts = site.posts | where_exp: "post", "post.path contains 'author/comics/_posts/'" | sort: 'date' | reverse %}
+    {% for post in comic_posts %}
+      {% assign image_parts = post.content | split: '<img' %}
+      {% if image_parts.size > 1 %}
+        {% assign image_tag = image_parts[1] %}
+        {% assign double_parts = image_tag | split: 'src="' %}
+        {% assign single_parts = image_tag | split: "src='" %}
+        {% assign comic_image = '' %}
+        {% if double_parts.size > 1 %}
+          {% assign comic_image = double_parts[1] | split: '"' | first | strip %}
+        {% elsif single_parts.size > 1 %}
+          {% assign comic_image = single_parts[1] | split: "'" | first | strip %}
+        {% endif %}
+        {% unless comic_image == '' or comic_image contains 'transparent-spacer' or comic_image contains 'polished-reviewed' or comic_image contains 'plebvox-verified' %}
+          <span data-comic-source data-image="{{ comic_image | escape }}" data-title="{{ post.title | escape }}"></span>
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+<!-- PLEBVOX:END -->
+
+<dialog class="pw-image-viewer" data-viewer aria-label="Full-screen image viewer">
+  <div class="pw-image-viewer-top"><p class="pw-image-viewer-title" data-viewer-title>Image viewer</p><button type="button" data-close>✕ Close</button></div>
+  <div class="pw-image-viewer-wrap"><img data-viewer-image src="" alt=""></div>
+  <div class="pw-image-viewer-bottom"><span data-viewer-count></span><span>Use the arrow keys to browse · Esc to close</span></div>
+</dialog>
+
+<script>
+(() => {
+  const topics = [
+    {title:'Everyday.',description:'Practical knowledge and useful skills for everyday life.',image:"{{ '/assets/images/01-everyday.webp' | relative_url }}",alt:'PlebWare Everyday mode',url:'/everyday-default/'},
+    {title:'Author.',description:'Writing, storytelling, poetry and the craft of words.',image:"{{ '/assets/images/02-author.webp' | relative_url }}",alt:'PlebWare Author mode',url:'/author/'},
+    {title:'Study.',description:'Learning resources, lessons and guided understanding.',image:"{{ '/assets/images/03-study.webp' | relative_url }}",alt:'PlebWare Study mode',url:'/study/'},
+    {title:'Research.',description:'Investigation, evidence, discovery and deeper questions.',image:"{{ '/assets/images/04-research.webp' | relative_url }}",alt:'PlebWare Research mode',url:'/research/'},
+    {title:'Graphics.',description:'Visual design, illustration and image-making.',image:"{{ '/assets/images/05-graphics.webp' | relative_url }}",alt:'PlebWare Graphics mode',url:'/graphics/'},
+    {title:'Music.',description:'Music creation, sound and audio projects.',image:"{{ '/assets/images/06-music.webp' | relative_url }}",alt:'PlebWare Music mode',url:'/music/'},
+    {title:'Video.',description:'Video creation, editing and visual storytelling.',image:"{{ '/assets/images/07-video.webp' | relative_url }}",alt:'PlebWare Video mode',url:'/video/'},
+    {title:'Broadcast.',description:'Radio, communication and publishing to an audience.',image:"{{ '/assets/images/08-broadcast.webp' | relative_url }}",alt:'PlebWare Broadcast mode',url:'/broadcast/'},
+    {title:'AI Helpers.',description:'Practical AI assistants, workflows and useful tools.',image:"{{ '/assets/images/09-ai-helpers.webp' | relative_url }}",alt:'PlebWare AI Helpers mode',url:'/ai-helpers/'},
+    {title:'Developer.',description:'Software, coding, systems and digital tools.',image:"{{ '/assets/images/10-developer.webp' | relative_url }}",alt:'PlebWare Developer mode',url:'/developer/'},
+    {title:'Accounting.',description:'Financial records, calculations and organisation.',image:"{{ '/assets/images/11-accounting.webp' | relative_url }}",alt:'PlebWare Accounting mode',url:'/accounting/'},
+    {title:'Leisure.',description:'Hobbies, recreation, games and time well spent.',image:"{{ '/assets/images/12-leisure.webp' | relative_url }}",alt:'PlebWare Leisure mode',url:'/leisure/'}
+  ];
+  const viewer=document.querySelector('[data-viewer]');
+  if(!viewer)return;
+  const viewerImage=viewer.querySelector('[data-viewer-image]');
+  const viewerTitle=viewer.querySelector('[data-viewer-title]');
+  const viewerCount=viewer.querySelector('[data-viewer-count]');
+  let activeItems=[],activeIndex=0,touchX=0;
+  const updateViewer=()=>{
+    const item=activeItems[activeIndex];if(!item)return;
+    viewerImage.src=item.image;viewerImage.alt=item.alt||item.title;
+    viewerTitle.textContent=item.title;
+    viewerCount.textContent=(activeIndex+1)+' / '+activeItems.length;
+  };
+  const openViewer=(items,index)=>{
+    activeItems=items;activeIndex=index;updateViewer();
+    if(typeof viewer.showModal==='function')viewer.showModal();else viewer.setAttribute('open','');
+  };
+  const closeViewer=()=>{if(viewer.open&&viewer.close)viewer.close();else viewer.removeAttribute('open');};
+  viewer.querySelector('[data-close]').addEventListener('click',closeViewer);
+  viewer.addEventListener('click',e=>{if(e.target===viewer)closeViewer();});
+  viewer.addEventListener('keydown',e=>{
+    if(e.key==='ArrowRight'){e.preventDefault();activeIndex=(activeIndex+1)%activeItems.length;updateViewer();}
+    if(e.key==='ArrowLeft'){e.preventDefault();activeIndex=(activeIndex-1+activeItems.length)%activeItems.length;updateViewer();}
+  });
+  const setup=(root,items,kind)=>{
+    if(!root||!items.length)return;
+    let index=0;
+    const img=root.querySelector(kind==='modes'?'[data-main-image]':'[data-comic-image]');
+    const link=root.querySelector('[data-main-link]');
+    const titleLink=root.querySelector('[data-title-link]');
+    const title=root.querySelector(kind==='modes'?'[data-title-link]':'[data-comic-title]');
+    const description=root.querySelector('[data-description]');
+    const count=root.querySelector('[data-count]');
+    const progress=root.querySelector('[data-progress]');
+    const update=()=>{
+      const item=items[index];img.src=item.image;img.alt=item.alt||item.title;img.hidden=false;
+      if(link){link.href=item.url;link.setAttribute('aria-label','Open '+item.title);}
+      if(titleLink)titleLink.href=item.url;
+      title.textContent=item.title;
+      if(description)description.textContent=item.description;
+      count.textContent=(index+1)+' / '+items.length;
+      progress.style.width=((index+1)/items.length*100)+'%';
+    };
+    root.querySelector('[data-prev]').addEventListener('click',()=>{index=(index-1+items.length)%items.length;update();});
+    root.querySelector('[data-next]').addEventListener('click',()=>{index=(index+1)%items.length;update();});
+    root.querySelector('[data-expand]').addEventListener('click',()=>openViewer(items,index));
+    const stage=root.querySelector('.pw-gallery-stage');
+    stage.addEventListener('touchstart',e=>{touchX=e.changedTouches[0].clientX;},{passive:true});
+    stage.addEventListener('touchend',e=>{const d=e.changedTouches[0].clientX-touchX;if(Math.abs(d)>45){index=(index+(d<0?1:-1)+items.length)%items.length;update();}},{passive:true});
+    img.addEventListener('click',()=>{if(kind==='comics')openViewer(items,index);});
+    update();
+  };
+  const comicSources=[...document.querySelectorAll('[data-comic-source]')].map(el=>({image:el.dataset.image,title:el.dataset.title,alt:el.dataset.title}));
+  const loadComics=async()=>{
+    const checks=await Promise.all(comicSources.map(item=>new Promise(resolve=>{
+      const probe=new Image();probe.onload=()=>resolve(item);probe.onerror=()=>resolve(null);probe.src=item.image;
+    })));
+    const valid=checks.filter(Boolean);
+    const comicRoot=document.querySelector('[data-gallery="comics"]');
+    if(!valid.length){comicRoot.querySelector('[data-comic-title]').textContent='No comic illustrations could be loaded.';comicRoot.querySelector('[data-count]').textContent='0 comics';comicRoot.querySelector('[data-expand]').disabled=true;comicRoot.querySelector('[data-prev]').disabled=true;comicRoot.querySelector('[data-next]').disabled=true;return;}
+    setup(comicRoot,valid,'comics');
+  };
+  setup(document.querySelector('[data-gallery="modes"]'),topics,'modes');
+  loadComics();
+})();
+</script>
 
 <!-- PLEBVOX:START -->
 
