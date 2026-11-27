@@ -18,7 +18,83 @@ These references are living documents. Follow the current versions, not remember
 - Never put explanatory prose inside code blocks.
 - Do not make unrelated changes.
 
-## 3. Site-Wide Contextual Return
+## 3. PlebWare Ecosystem: Repository Selection and Shared Publishing Standards
+
+PlebWare is an ecosystem of six principal repositories. Article research and publishing decisions must consider the whole ecosystem, not only the main PlebWare website.
+
+### The Six Principal Repositories
+
+Use the live GitHub organisation and each repository's current configuration as the authority. The current repository set and intended roles are:
+
+1. **`Plebware/Plebware.github.io` — Main PlebWare knowledge library.** The central multi-topic publishing platform for general articles, practical guides, research, study material, writing, creativity, news, tutorials, and other material that serves the wider readership. Its current twelve knowledge categories are the main site's taxonomy, not a mandatory taxonomy to copy wholesale into every other project.
+   - Site: https://plebware.github.io/
+2. **`Plebware/PlebMachine` — PlebMachine project and technical core.** Use for material that is specifically part of the PlebMachine product: architecture, design decisions, release documentation, implementation notes, technical manuals, development records, and project-specific operating guidance. Preserve the existing software/package payload under `PlebMachine/`; never place editorial articles inside the installed-system payload.
+   - Site: https://plebware.github.io/PlebMachine/
+3. **`Plebware/otto` — Otto's personal archive.** Use for Otto's personal archive material, biography, first-person experiences, personal reflections, author identity, and work whose purpose is to document Otto's own life or creative journey. Do not use this repository as a substitute for the main site's general technical knowledge library.
+   - Site: https://plebware.github.io/otto/
+4. **`Plebware/juelz-plebcore` — Jullian/Juelz creative archive.** Use for Jullian Boyd De Villiers's own archive, music and audio production work, creative projects, DJ Boy Mist material, and work specifically authored or owned by Jullian. Preserve his preferred name and identity; do not attribute his work to Otto.
+   - Current configured site path: https://plebware.github.io/juelz-plebcore/
+5. **`Plebware/PlebCircle` — PlebCircle community.** This is the current repository name confirmed in GitHub. Use for community information, group directory and descriptions, joining guidance, community rules, events, announcements, and material whose primary purpose is helping PlebCircle members. Do not assume an older repository name without checking GitHub history and current repository metadata.
+   - Current configured site path: https://plebware.github.io/PlebCircle/
+6. **`Plebware/pleb-theme` — Shared Jekyll theme and site infrastructure.** This is a software/theme repository, not a normal article destination. Use it for shared layouts, includes, CSS, JavaScript, theme-wide behaviour, and reusable presentation features. Do not publish ordinary editorial articles here.
+
+A separate private repository, `Plebware/plebware-private-spec`, also exists as the ecosystem's master specification, architecture, lexicon, and development-rules reference. Consult it when a task concerns those governing specifications. It is a supporting private reference repository, not one of the six principal public publishing/project repositories and not a destination for ordinary public articles.
+
+### Mandatory Repository-Placement Assessment
+
+Before drafting or publishing any substantial article, determine where the complete work belongs:
+
+1. Read the proposed article's purpose, intended audience, subject, authorship, and likely long-term value.
+2. Consider all six principal repositories and their actual contents, not merely the repository currently open.
+3. Inspect the relevant repository's README, root `index.md`, `_config.yml`, existing category/subcategory indexes, and comparable articles or project documents.
+4. Search the ecosystem for existing work on the same subject. Read relevant material and check whether the proposed article is new, an update, a project document, or a better fit for another repository.
+5. Select the repository where the article's primary purpose and ownership naturally belong. The author's identity and the article's repository destination are related but separate decisions.
+6. Record the proposed repository, author/persona, category, subcategory, article path, and reason for placement in the pre-publication review.
+7. If the article materially serves more than one project, choose one canonical home. Add contextual links or a short clearly identified summary in other relevant locations only when useful; do not create duplicate full articles that can drift out of sync.
+8. If no suitable location exists, explain the gap and propose a new category/subcategory or documentation area using that repository's established structure. Do not silently create a new repository or invent a destination.
+9. The author retains final authority over placement and publication.
+
+Use these placement principles as guidance, not as rigid keyword rules:
+
+- General Linux education may belong in the main PlebWare library; PlebMachine-specific implementation, architecture, releases, and operational behaviour belong in the PlebMachine project.
+- A personal account of Otto's experience may belong in Otto's archive; a reusable tutorial or general technical reference normally belongs in the main PlebWare library.
+- Jullian's own music, audio, DJ, and creative-production archive belongs in Juelz/PlebCore; general music education or shared creative guidance may belong in the main library.
+- Community rules, group descriptions, membership guidance, and community announcements belong in PlebCircle; general writing about community building may belong in the main library.
+- Shared site functionality belongs in the theme repository as code, not as an article.
+
+### Shared Index, Category, and Subcategory Convention
+
+All Jekyll publishing sites in the ecosystem must follow the same structural and navigational principles as the main PlebWare repository. Apply the convention to the main PlebWare site, PlebMachine, Otto, Juelz/PlebCore, and PlebCircle. The theme repository follows software documentation and code organisation rather than article categories.
+
+**This means shared structure and behaviour, not identical subject taxonomies.** Do not copy all twelve main-site categories into every project. Each site must have categories and subcategories that accurately reflect its own purpose.
+
+For each Jekyll publishing site:
+
+1. Maintain a clear root `index.md` with valid front matter, `layout: default`, an accurate page title, and a useful description. It must identify the site/project correctly; never leave a copied or unrelated title such as a different project's name.
+2. Use the shared `Plebware/pleb-theme` where the site's current configuration and deployment support it. Preserve the correct `url`, `baseurl`, remote-theme setting, plugins, and project-specific configuration. Never copy a base URL from another repository.
+3. The root index should act as the project's landing page and navigation hub. Where appropriate, use the shared dashboard include and provide clear links to the site's actual categories, subcategories, project areas, and related ecosystem sites. Inspect the current theme include before relying on it.
+4. Every principal category must have its own `index.md` landing page. It should explain the category and provide a reliable route to its subcategories and relevant content.
+5. Every subcategory must have its own `index.md` landing page. It should explain the subject and automatically list or otherwise expose the articles belonging to that exact subcategory, following a verified current PlebWare implementation.
+6. Store category-based articles using the established nested structure:
+   - `category/subcategory/index.md`
+   - `category/subcategory/_posts/YYYY-MM-DD-descriptive-slug.md`
+   Do not invent alternative paths when the repository already has an established structure. For a project whose current documentation uses a different purposeful structure, inspect it first and propose a controlled migration rather than breaking existing release or software paths.
+7. When adding a new subcategory, inspect comparable live PlebWare subcategories first. Create its directory, `index.md`, and `_posts` directory; ensure the index lists only the intended subcategory's posts and that navigation links are correct.
+8. Category and subcategory indexes must not rely on manually maintained article lists when the established Jekyll collection/post data can generate the list reliably. Use the exact path-filtering approach verified in the current theme/site implementation.
+9. Keep navigation, heading punctuation, PlebVox boundaries for suitable readable content, image handling, accessible link text, and contextual return behaviour consistent with the current main-site standards.
+10. Use the site's configured base URL and Jekyll `relative_url` conventions for internal links and assets. Verify cross-repository links against the destination site's actual configured public path. Do not assume that a repository name, folder name, and deployed URL are interchangeable.
+11. Keep category and subcategory naming clear, stable, non-duplicative, and appropriate to the project. Do not create empty taxonomies merely to make sites look alike.
+12. Verify each root index, category index, subcategory index, article listing, and navigation link after changes. Check desktop and mobile presentation and ensure the shared theme's contextual return control works on index pages as well as articles.
+
+### Existing Ecosystem Findings to Respect
+
+The live repository inspection shows that the main PlebWare site already has a mature twelve-category hierarchy with nested subcategory `index.md` pages and `_posts` directories. PlebMachine, Otto, Juelz/PlebCore, and PlebCircle currently have much smaller root-level Jekyll structures and do not yet mirror that category/subcategory publishing hierarchy. Do not pretend that the structures are already standardised.
+
+The current Juelz/PlebCore root index also needs careful review because its front-matter title currently identifies it as "PlebMachine Core", which is inconsistent with the repository's Juelz identity. The Otto and PlebCircle indexes and README files should likewise be checked for accurate project names, canonical links, and consistent navigation when those pages are next revised.
+
+This instruction establishes the target standard and mandatory review process. It does not authorise a blanket redesign or migration of all repositories during an unrelated article publication. Make structural changes deliberately, repository by repository, after inspecting existing content and preserving working project files.
+
+## 4. Site-Wide Contextual Return
 
 The contextual **“Return to the article I came from”** control is a shared PlebWare feature and must work from every page using the shared theme, including article pages, category/subcategory index pages, and other index or landing pages.
 
