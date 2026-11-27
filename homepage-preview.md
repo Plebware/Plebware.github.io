@@ -18,9 +18,11 @@ body.pw-home-preview { background: var(--pw-paper, #f7f7f2); }
 .pw-preview-section h2 { font-size:clamp(1.35rem,3vw,2rem); margin:0 0 .5rem; }
 .pw-preview-intro { max-width:70ch; color:var(--pw-muted,#59645f); }
 .pw-gallery { overflow:hidden; border:1px solid var(--pw-line,#d5ddd7); border-radius:1.25rem; background:var(--pw-paper,#fff); box-shadow:0 10px 30px rgba(20,40,35,.07); }
-.pw-gallery-stage { position:relative; display:grid; place-items:center; width:100%; aspect-ratio:16/9; overflow:hidden; background:var(--pw-soft,#edf1ed); touch-action:pan-y; }
-.pw-gallery-stage img { display:block; width:100%; height:100%; object-fit:contain; object-position:center; }
-.pw-gallery-stage a { display:flex; width:100%; height:100%; align-items:center; justify-content:center; min-width:0; }
+/* Let every illustration set its own height from its intrinsic proportions.
+   The viewport cap prevents tall artwork from pushing the rest of the page away. */
+.pw-gallery-stage { position:relative; display:grid; place-items:center; width:100%; height:auto; min-height:0; overflow:hidden; background:var(--pw-soft,#edf1ed); touch-action:pan-y; }
+.pw-gallery-stage img { display:block; width:auto; height:auto; max-width:100%; max-height:75vh; object-fit:contain; object-position:center; }
+.pw-gallery-stage a { display:flex; width:100%; height:auto; min-height:0; align-items:center; justify-content:center; }
 .pw-gallery-stage .pw-expand { position:absolute; z-index:2; right:.8rem; bottom:.8rem; border:1px solid rgba(255,255,255,.65); border-radius:999px; background:rgba(20,30,27,.82); color:white; padding:.6rem .85rem; font-weight:700; cursor:pointer; }
 .pw-gallery-arrow { position:absolute; z-index:2; top:50%; transform:translateY(-50%); display:grid; place-items:center; width:clamp(2.65rem,5vw,3.5rem); height:clamp(2.65rem,5vw,3.5rem); border:1px solid rgba(255,255,255,.7); border-radius:50%; background:rgba(20,30,27,.78); color:#fff; font-size:2rem; line-height:1; cursor:pointer; }
 .pw-gallery-arrow.prev { left:.8rem; } .pw-gallery-arrow.next { right:.8rem; }
@@ -30,7 +32,7 @@ body.pw-home-preview { background: var(--pw-paper, #f7f7f2); }
 .pw-gallery-meta { white-space:nowrap; color:var(--pw-muted,#59645f); font-size:.85rem; font-weight:700; }
 .pw-gallery-progress { height:4px; background:var(--pw-soft,#edf1ed); }
 .pw-gallery-progress span { display:block; width:8.33%; height:100%; background:var(--pw-accent,#477a68); transition:width .2s ease; }
-.pw-comic-stage { aspect-ratio:16/9; }
+.pw-comic-stage { height:auto; }
 .pw-comic-stage img { cursor:zoom-in; }
 .pw-comic-caption { min-height:4.5rem; }
 .pw-viewer { position:fixed; inset:0; z-index:99999; display:none; width:100vw; height:100dvh; max-width:none; max-height:none; margin:0; padding:clamp(.5rem,2vw,1.25rem); border:0; background:rgba(8,13,11,.97); color:white; }
@@ -44,16 +46,16 @@ body.pw-home-preview { background: var(--pw-paper, #f7f7f2); }
 .pw-viewer-bottom { justify-content:center; color:#d8e0db; font-size:.9rem; }
 .pw-preview a:focus-visible,.pw-preview button:focus-visible,.pw-viewer button:focus-visible { outline:3px solid #e3b94f; outline-offset:3px; }
 @media (orientation:portrait) and (max-width:700px) {
- .pw-gallery-stage { aspect-ratio:4/3; }
- .pw-comic-stage { aspect-ratio:4/3; }
+ .pw-gallery-stage img { max-height:72vh; }
+ .pw-comic-stage img { max-height:72vh; }
  .pw-gallery-caption { align-items:flex-start; }
 }
 @media (orientation:landscape) and (max-height:520px) {
  .pw-preview { width:min(100% - 1rem, 1200px); }
  .pw-preview-head { padding:.7rem 0; }
  .pw-preview-section { margin:1rem 0 1.5rem; }
- .pw-gallery-stage { aspect-ratio:16/7; max-height:62vh; }
- .pw-comic-stage { aspect-ratio:16/7; max-height:62vh; }
+ .pw-gallery-stage img { max-height:58vh; }
+ .pw-comic-stage img { max-height:58vh; }
 }
 @media (max-width:560px) {
  .pw-gallery-caption { padding:.8rem; }
