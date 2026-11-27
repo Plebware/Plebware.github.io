@@ -47,6 +47,22 @@ Or use HTML when you need more control:
 
 Replace the example address and visible text with verified details. Do not add `target="_blank"` to ordinary internal PlebWare article links unless there is a specific reason.
 
+### 🔎 Find and link related PlebWare articles!
+
+Every new article needs a deliberate internal-linking review before publication. Search the wider PlebWare repository, not just the article's own category, for existing work that explains, supports, expands, or complements the subject.
+
+- Read promising articles rather than judging relevance from titles or filenames alone.
+- Search with subject terms, synonyms, alternate wording, names, and related concepts.
+- Add verified links where they naturally help the reader understand the discussion.
+- Use descriptive link text and the exact published destination URL.
+- Keep internal PlebWare links in the same tab unless there is a specific reason otherwise.
+- Include a **Related PlebWare Reading** section when several useful works need a clear home, while retaining important links in the relevant paragraphs.
+- Link all genuinely relevant works; do not force weak associations or add links merely to inflate the count.
+- Verify every destination in the live repository. Never guess a URL.
+- If no relevant existing work is found, do not invent one.
+
+The goal is a connected knowledge library: each article should help readers discover the other PlebWare work that meaningfully belongs with it.
+
 ### ↩ Return to the page you came from!
 
 The shared PlebWare theme provides **“Return to the article I came from”** on every page, including article pages, category and subcategory indexes, and other landing/index pages. Collaborators do not need to add a return link, script, or dialog to individual articles.
