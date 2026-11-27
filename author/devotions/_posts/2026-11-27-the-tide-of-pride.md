@@ -326,7 +326,7 @@ The greatest person is not the one who stands above everyone else. It is the one
 
 ## 📲 WhatsApp Copy-and-Paste Version.
 
-\`\`\`
+```
 🌊 *THE TIDE OF PRIDE — WHEN THE HEART EXALTS ITSELF.*
 
 📖 *Key Scripture — Proverbs 16:18 (KJV).*
@@ -595,4 +595,4 @@ _Truth Revealed by Blood and Fire._
 _Prepared in conjunction with ChatGPT and the Holy Spirit._
 
 *PlebWare — Technology Must Serve Humanity. Christ Above All.*
-\`\`\`
+```
