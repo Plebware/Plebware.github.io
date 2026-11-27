@@ -42,8 +42,10 @@ body.pw-home-preview { background: var(--pw-paper, #f7f7f2); }
 .pw-viewer::backdrop { background:rgba(0,0,0,.9); }
 .pw-viewer-top,.pw-viewer-bottom { display:flex; justify-content:space-between; align-items:center; gap:1rem; }
 .pw-viewer button { border:1px solid rgba(255,255,255,.35); border-radius:999px; background:#25332d; color:white; padding:.65rem 1rem; font-weight:700; cursor:pointer; }
-.pw-viewer-image-wrap { display:grid; place-items:center; min-height:0; overflow:hidden; }
-.pw-viewer-image-wrap img { display:block; width:100%; height:100%; object-fit:contain; }
+.pw-viewer-image-wrap { display:block; min-height:0; overflow:auto; overscroll-behavior:contain; -webkit-overflow-scrolling:touch; touch-action:pan-x pan-y; }
+.pw-viewer-image-wrap img { display:block; width:150%; max-width:none; height:auto; max-height:none; margin:0 auto; object-fit:unset; }
+.pw-viewer-image-wrap.is-fit img { width:100%; }
+.pw-viewer-zoom { white-space:nowrap; }
 .pw-viewer-title { margin:0; font-size:1rem; }
 .pw-viewer-bottom { justify-content:center; color:#d8e0db; font-size:.9rem; }
 .pw-preview a:focus-visible,.pw-preview button:focus-visible,.pw-viewer button:focus-visible { outline:3px solid #e3b94f; outline-offset:3px; }
@@ -140,7 +142,7 @@ body.pw-home-preview { background: var(--pw-paper, #f7f7f2); }
 <dialog class="pw-viewer" data-viewer aria-label="Full-screen image viewer">
   <div class="pw-viewer-top"><p class="pw-viewer-title" data-viewer-title>Image viewer</p><button type="button" data-close>✕ Close</button></div>
   <div class="pw-viewer-image-wrap"><img data-viewer-image src="" alt=""></div>
-  <div class="pw-viewer-bottom"><span data-viewer-count></span><span>Use ← → keys to browse · Esc to close</span></div>
+  <div class="pw-viewer-bottom"><span data-viewer-count></span><button class="pw-viewer-zoom" type="button" data-zoom>Fit screen</button><span>Swipe to explore · Esc to close</span></div>
 </dialog>
 
 <script>
@@ -163,6 +165,8 @@ body.pw-home-preview { background: var(--pw-paper, #f7f7f2); }
   const viewerImage=viewer.querySelector('[data-viewer-image]');
   const viewerTitle=viewer.querySelector('[data-viewer-title]');
   const viewerCount=viewer.querySelector('[data-viewer-count]');
+  const viewerWrap=viewer.querySelector('.pw-viewer-image-wrap');
+  const zoomButton=viewer.querySelector('[data-zoom]');
   let activeItems=[],activeIndex=0,activeKind='modes',touchX=0;
   const openViewer=(items,index,kind)=>{
     activeItems=items;activeIndex=index;activeKind=kind;updateViewer();
@@ -170,10 +174,17 @@ body.pw-home-preview { background: var(--pw-paper, #f7f7f2); }
   };
   const updateViewer=()=>{
     const item=activeItems[activeIndex];if(!item)return;
+    viewerWrap.classList.remove('is-fit');zoomButton.textContent='Fit screen';
+    viewerWrap.scrollTo(0,0);
     viewerImage.src=item.image;viewerImage.alt=item.alt||item.title;
     viewerTitle.textContent=item.title;
     viewerCount.textContent=(activeIndex+1)+' / '+activeItems.length;
   };
+  zoomButton.addEventListener('click',()=>{
+    const fit=viewerWrap.classList.toggle('is-fit');
+    zoomButton.textContent=fit?'Explore details':'Fit screen';
+    viewerWrap.scrollTo(0,0);
+  });
   const closeViewer=()=>{if(viewer.open&&viewer.close)viewer.close();else viewer.removeAttribute('open');};
   viewer.querySelector('[data-close]').addEventListener('click',closeViewer);
   viewer.addEventListener('click',e=>{if(e.target===viewer)closeViewer();});
