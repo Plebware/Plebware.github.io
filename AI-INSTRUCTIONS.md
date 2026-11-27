@@ -110,7 +110,7 @@ The contextual **“Return to the article I came from”** control is a shared P
 
 Do not add a second copy of the return control or dialog to individual layouts when the shared default layout already provides them.
 
-## 3. Articles
+## 5. Articles
 
 - Use valid Jekyll front matter.
 - The metadata `title:` and visible `#` title must be different.
@@ -140,7 +140,7 @@ For substantial articles, record the related works considered and the reason for
 
 For an article already published, perform this same repository-wide related-work review when it is materially revised or when the author specifically requests a linking audit. Do not silently rewrite unrelated existing articles as part of a new article's publication.
 
-## 4. PlebVox
+## 6. PlebVox
 
 For suitable readable articles, use:
 
@@ -158,7 +158,7 @@ The marker `<!---VOXED--->` is reserved for an article whose PlebVox audio rendi
 
 For devotional articles, PlebVox markers should normally wrap each major section: place START immediately before the section title and END immediately after that section's final line.
 
-## 5. Christian Devotional Convention
+## 7. Christian Devotional Convention
 
 For PlebWare daily Christian devotions, preserve the established devotional structure unless the author requests otherwise:
 
@@ -206,7 +206,7 @@ These formatting rules are mandatory for Christian devotional articles unless th
 
 These rules apply consistently and must be checked separately: first the main devotion's Markdown formatting, then the WhatsApp copy's WhatsApp formatting.
 
-## 6. WhatsApp Devotional Copy
+## 8. WhatsApp Devotional Copy
 
 Every completed Christian devotional must include a **WhatsApp Copy-and-Paste Version** immediately below the main devotion.
 
@@ -227,11 +227,11 @@ Rules:
 
 The WhatsApp version is a **recreation of the devotion**, not a separate abbreviated version.
 
-## 7. Current Information
+## 9. Current Information
 
 For news, software, services, prices, availability, politics, or other changing information, research current sources first. Distinguish fact, claim, analysis, and opinion. Political content must remain neutral and factual.
 
-## 8. GitHub
+## 10. GitHub
 
 GitHub is the PlebWare workshop.
 
@@ -252,7 +252,7 @@ The browser account, AI account, or persona used to prepare content does not nec
 
 If a writing persona or browser profile does not have GitHub access, do not claim that it does. Approved content may be published through an authorised GitHub-enabled AI session, while preserving the correct author/persona and repository attribution.
 
-## 9. Authorship, Personas, and Voice
+## 11. Authorship, Personas, and Voice
 
 PlebWare is maintained by Otto Brinkmeier and Jullian "Juelz" De Villiers. Preserve the contributor's own voice and authorship. Do not automatically write as Otto or attribute another person's work to Otto.
 
@@ -313,7 +313,7 @@ When Jullian/Juelz is speaking or publishing in his own voice, use his establish
 
 Do not replace Boy Mist with Otto's identity or voice.
 
-## 10. Category and Subcategory Classification
+## 12. Category and Subcategory Classification
 
 PlebWare currently uses these twelve principal categories as the working classification structure:
 
@@ -373,7 +373,7 @@ If a new subcategory was required, identify that it was created and give its rep
 
 The user remains the final authority over the proposed classification and publication.
 
-## 11. Final Check
+## 13. Final Check
 
 Before finishing, confirm:
 
