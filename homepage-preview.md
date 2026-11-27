@@ -18,12 +18,12 @@ body.pw-home-preview { background: var(--pw-paper, #f7f7f2); }
 .pw-preview-section h2 { font-size:clamp(1.35rem,3vw,2rem); margin:0 0 .5rem; }
 .pw-preview-intro { max-width:70ch; color:var(--pw-muted,#59645f); }
 .pw-gallery { overflow:hidden; border:1px solid var(--pw-line,#d5ddd7); border-radius:1.25rem; background:var(--pw-paper,#fff); box-shadow:0 10px 30px rgba(20,40,35,.07); }
-/* Each gallery has a frame matched to its artwork's normal shape.
-   Images fill that frame but object-fit:contain preserves every pixel. */
+/* Stage is a viewing area only. The artwork itself is never made to fill it.
+   Intrinsic width and height remain automatic; only maximum bounds may shrink it. */
 .pw-gallery-stage { position:relative; display:flex; align-items:center; justify-content:center; min-width:0; min-height:0; overflow:hidden; margin-inline:auto; background:var(--pw-soft,#edf1ed); touch-action:pan-y; }
 .pw-mode-stage { width:min(100%,60vh); aspect-ratio:4 / 5; }
 .pw-comic-stage { width:min(100%,133.333vh); aspect-ratio:16 / 9; }
-.pw-gallery-stage img { display:block; width:100%; height:100%; min-width:0; min-height:0; max-width:100%; max-height:100%; object-fit:contain; object-position:center; }
+.pw-gallery-stage img { display:block !important; flex:0 1 auto; width:auto !important; height:auto !important; min-width:0 !important; min-height:0 !important; max-width:100% !important; max-height:100% !important; object-fit:unset !important; object-position:center; aspect-ratio:auto !important; }
 .pw-gallery-stage img[hidden] { display:none; }
 .pw-gallery-stage a { display:flex; width:100%; height:100%; min-width:0; min-height:0; align-items:center; justify-content:center; }
 .pw-gallery-stage .pw-expand { position:absolute; z-index:2; right:.8rem; bottom:.8rem; border:1px solid rgba(255,255,255,.65); border-radius:999px; background:rgba(20,30,27,.82); color:white; padding:.6rem .85rem; font-weight:700; cursor:pointer; }
@@ -43,9 +43,9 @@ body.pw-home-preview { background: var(--pw-paper, #f7f7f2); }
 .pw-viewer-top,.pw-viewer-bottom { display:flex; justify-content:space-between; align-items:center; gap:1rem; }
 .pw-viewer button { border:1px solid rgba(255,255,255,.35); border-radius:999px; background:#25332d; color:white; padding:.65rem 1rem; font-weight:700; cursor:pointer; }
 .pw-viewer-image-wrap { display:flex; align-items:flex-start; justify-content:center; height:100%; min-height:0; overflow:auto; overscroll-behavior:contain; -webkit-overflow-scrolling:touch; touch-action:pan-x pan-y; }
-/* Height is the sizing reference. Never force width or height: the browser keeps the source ratio and never enlarges a small original. */
-.pw-viewer-image-wrap img { display:block; flex:0 0 auto; width:auto; height:auto; min-width:0; min-height:0; max-width:none; max-height:100%; margin:0 auto; object-fit:contain; }
-.pw-viewer-image-wrap.is-fit img { max-width:100%; max-height:100%; }
+/* Viewer preserves intrinsic dimensions and can only scale artwork down. */
+.pw-viewer-image-wrap img { display:block !important; flex:0 0 auto; width:auto !important; height:auto !important; min-width:0 !important; min-height:0 !important; max-width:100% !important; max-height:100% !important; margin:0 auto; object-fit:unset !important; aspect-ratio:auto !important; }
+.pw-viewer-image-wrap.is-fit img { max-width:100% !important; max-height:100% !important; }
 .pw-viewer-zoom { white-space:nowrap; }
 .pw-viewer-title { margin:0; font-size:1rem; }
 .pw-viewer-bottom { justify-content:center; color:#d8e0db; font-size:.9rem; }
