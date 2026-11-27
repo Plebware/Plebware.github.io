@@ -43,6 +43,27 @@ Do not add a second copy of the return control or dialog to individual layouts w
 - External links should open in a new tab where appropriate.
 - Never invent sources, URLs, quotations, or facts.
 
+### Contextual Internal Linking and Related-Article Research
+
+Every new PlebWare article must be connected to relevant existing work across the website. Treat internal linking as a required part of article research and editorial preparation, not an optional finishing touch.
+
+Before drafting or publishing an article:
+
+1. Understand the complete subject, purpose, scope, and major themes of the proposed article.
+2. Inspect the live repository's category and subcategory structure to identify where related work is likely to live. Do not limit the search to the proposed article's own category.
+3. Search the repository's existing articles using relevant subject terms, alternate wording, synonyms, names, concepts, and closely related themes. Inspect promising articles and their actual content; do not rely on filenames or titles alone.
+4. Follow relevant links from promising articles where useful, and inspect related project documentation, guides, research, tutorials, devotions, creative work, and other material that genuinely adds context.
+5. Build a shortlist of all genuinely relevant existing PlebWare works. Include direct subject matches and useful supporting or complementary works. Exclude weak, incidental, repetitive, or forced associations.
+6. Add verified internal links at the point where each related work is useful to the reader. Use clear, descriptive link text that tells readers what they will find. A concise **Related PlebWare Reading** section may be added when several links deserve a dedicated list, but it must complement rather than replace contextual links in the article body.
+7. Verify every destination against the live repository and confirm its actual published URL. Never guess, construct from a filename, or invent a PlebWare URL. Preserve the site's ordinary same-tab internal navigation convention so the contextual return feature continues to work.
+8. Check the finished article for broken links, duplicate links, and missed relevant works before publication.
+
+The research must be broad enough to discover related work throughout the PlebWare ecosystem, but editorially selective: link every work that materially helps readers understand, explore, verify, or continue the subject; do not add links merely to increase link counts. If no genuinely relevant existing article is found, do not manufacture a connection.
+
+For substantial articles, record the related works considered and the reason for including or excluding borderline matches during the pre-publication review. The final article should make it easy for readers to move between connected PlebWare knowledge without turning the prose into a directory.
+
+For an article already published, perform this same repository-wide related-work review when it is materially revised or when the author specifically requests a linking audit. Do not silently rewrite unrelated existing articles as part of a new article's publication.
+
 ## 4. PlebVox
 
 For suitable readable articles, use:
