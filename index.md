@@ -120,6 +120,7 @@ description: "PlebWare is an independent publishing and learning hub for practic
     </div>
     <div class="pw-gallery-progress" aria-hidden="true"><span data-progress></span></div>
   </div>
+</section>
 
 <!-- PLEBVOX:END -->
 
