@@ -141,7 +141,7 @@ This biographical series will be developed as twelve detailed articles. Each cha
 2. **The Young Man and His Dreams.** — Youth, personality, friendships, entertainment, ambition and the experiences that shaped the young Otto.
 3. **From Railway Engineering to Computing.** — Apprenticeship, electrical work, practical systems thinking and the move into computers and digital technology.
 4. **The Entrepreneur and His Setbacks.** — 0tronix Developments, the early PlebWare idea, PlebWare.com, search visibility and the lessons of running a small business.
-5. **The Losses That Changed His Direction.** — Bereavement, the loss of the home, interrupted plans and the personal consequences of difficult decisions.
+5. [**The Losses That Changed His Direction.**](https://plebware.github.io/author/non-fiction/2026/11/27/the-losses-that-changed-his-direction/) — Bereavement, the loss of the home, interrupted plans and the personal consequences of difficult decisions.
 6. **The Many Voices of One Author.** — Othello Cody Verrocchio, God's Journalist, Captain Gemini and the creative purpose behind distinct writing identities.
 7. **Faith, Redemption and Purpose.** — The Christian journey and the desire to make faith part of everyday work and service.
 8. **Jullian and the Importance of Relationships.** — Collaboration, friendship, trust and the human connections behind the projects.
