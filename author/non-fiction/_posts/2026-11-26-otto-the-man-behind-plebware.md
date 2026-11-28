@@ -143,7 +143,7 @@ This biographical series will be developed as twelve detailed articles. Each cha
 4. **The Entrepreneur and His Setbacks.** — 0tronix Developments, the early PlebWare idea, PlebWare.com, search visibility and the lessons of running a small business.
 5. [**The Losses That Changed His Direction.**](https://plebware.github.io/author/non-fiction/2026/11/27/the-losses-that-changed-his-direction/) — Bereavement, the loss of the home, interrupted plans and the personal consequences of difficult decisions.
 6. [**The Many Voices of One Author.**](https://plebware.github.io/author/non-fiction/2026/11/27/the-many-voices-of-one-author/) — Othello Cody Verrocchio, Dei Scriptor, Captain Gemini, Lazar Mendicant and the creative freedom behind distinct writing identities.
-7. **Faith, Redemption and Purpose.** — The Christian journey and the desire to make faith part of everyday work and service.
+7. [**Faith, Redemption and Purpose.**](https://plebware.github.io/author/non-fiction/2026/11/28/faith-redemption-and-purpose/) — A remarkable encounter in Johannesburg around 1998, and the place of faith, obedience and compassion in Otto's life.
 8. **Jullian and the Importance of Relationships.** — Collaboration, friendship, trust and the human connections behind the projects.
 9. **The Philosophy Behind PlebWare.** — The human element, the Computing Triangle and the principle that technology must serve humanity.
 10. **The Persistent Builder.** — PlebWare, PlebMachine, learning, experimentation and the habit of returning to unfinished ideas.
